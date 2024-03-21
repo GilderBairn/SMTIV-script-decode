@@ -67,3 +67,27 @@ Due to Nintendo's.. er.. poor handling of the 3DS in recent years and ATLUS kind
 Obviously neither me or my partner wrote this game, so it'd be silly to be like "you can't use this resource for x thing". All writing creds go to ATLUS, we just made it accessible. The decoding program itself (that we DID write) is open source and you can basically do whatever you want with it.
 
 If you read all this, thanks! I hope you find some interesting stuff about this extremely underrated game, and have an awesome day.
+
+## Running the python script
+
+The included python script can be run from the command line to decode MSG2 format (.mbm) files like the ones found in SMTIV, and possibly other ATLUS games. The script itself will produce .txt file counterparts containing a summary the contents of the encoded .mbm either alongside the original files, in a single combined text document, or both depending on the user's specification. 
+
+### Requirements
+- Python version 3.9 or higher installed
+
+### Usage
+
+From your any terminal/command prompt run a command with the following structure
+
+```
+$ Python mbm.py <path to an .mbm file or a folder containing them> [any number of options (optional, separated by spaces)]
+```
+
+Note that you may provide a path to a single file (must end in .mbm!) or a directory/folder to search through for .mbm files.
+
+### Options
+
+- -r - if a directory/folder is specified in the input, the script will recursively convert .mbm files in all sub-folders of the provided folder
+- -a - script will create a combined "all-in-one" file containing all the contents of the .mbm files encountered while searchign a folder
+- -A - script will ONLY create a combined "all-in-one" file, and will not create .txt files alongside any .mbm files found in a folder
+- -v - verbose mode; the script will provide more detailed logs of what it encounters. when providing a single .mbm file as input, the verbose mode will provide even more detailed debug information
