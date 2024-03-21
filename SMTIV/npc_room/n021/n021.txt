@@ -1,0 +1,98 @@
+0: (Calm Samurai) [7a 114][13 1, 403042]This kingdom was founded by God. But so
+then why have demons come here?
+[->]The question tormented me... But now
+that the demons are driven out, I think
+I understand the answer...
+[->]Perhaps God granted us a chance to
+prove ourselves by trial, believing
+that we would prevail in the end.
+[->]What a stern love and trust... Only our
+Father could have brought them to us...
+[END]
+1: (Calm Samurai) [7a 114][13 1, 403042]On the Commander's orders, we've alerted
+the nearby villages to the situation and
+brought their people to the castle.
+[->]Still... abandoning the Eastern Kingdom
+of Mikado and setting out for a new
+land...
+[->]Do you think they will take to such
+an idea...?
+[END]
+2: (Baritone Samurai) [7a 117][13 1, 403002]I have never met the new leaders
+in person...
+[->]But the fact that all the demons have
+disappeared from the kingdom is proof
+enough of their presence...
+[END]
+3: (Baritone Samurai) [7a 117][13 1, 403002]Isabeau was urging us not to rely on
+the new leaders.
+[->]Though they have shown us miracles upon
+miracles, they remain silent when a
+crisis befalls us...
+[->]In the end, we must choose our own
+course... I think I understand what
+Isabeau was getting at.
+[END]
+4: (Forceful Samurai) [7a 29][13 1, 403041]I had a dream... And in this dream,
+I saw our new leaders unite as one...
+[->]”Why did you become one?” I asked.
+And in response...
+[->]”It's what our Lord wished,” they said.
+[END]
+5: (Forceful Samurai) [7a 29][13 1, 403041]I saw it in my dream... Our new leaders
+gradually disappearing...
+[->]”Why are you leaving us?” I asked.
+And in response...
+[->]”The people of this kingdom no longer
+need us,” they said.
+[END]
+6: (Hope) [7a 8][13 1, 400604][Flynn]... No, that is too
+familiar. 'Tis more proper to call you
+the warrior of light now.
+[->]Demon sightings have been greatly
+diminished of late. We will soon stop
+sending Samurai across the kingdom.
+[->]True peace will at last prevail in our
+Eastern Kingdom of Mikado...
+[->]Perhaps I may even live to see the
+Samurai disbanded...
+[END]
+7: (Hope) [7a 8][13 1, 400603][Flynn]...
+[->]I saw you emerge from Naraku alongside
+a flaxen−haired girl.
+[->]It was not long after that the horde
+of demons surged into our kingdom...
+[->]I fear no demon. What I fear, rather,
+is the terrible thought growing in my
+mind...
+[->]Have I... forged the worst threat to
+this kingdom with my own hands...?
+[END]
+8: (Hope) [7a 8][13 1, 400601][Flynn]... Yes, I've heard it all
+from Isabeau...
+[->]About God's chariot, and what became
+of Jonathan...
+[->][Flynn]... This is merely my own
+opinion, but growing up means choosing
+one's friends.
+[->]As your life grows busier, your time to
+spend with friends lessens. So you cling
+to those you feel comfortable with...
+[->]Rather than spend your precious idle
+moments with those who do not share
+your views.
+[->]I may be doing a poor job of explaining
+myself... I just wanted to say that you
+needn't feel disappointed in yourself.
+[END]
+113: (Baritone Samurai) [7a 117][13 1, 403002]Abbot Hugo convened an emergency meeting
+for the people gathered in Mikado Castle.
+[->]We are to abandon the Eastern Kingdom
+of Mikado and emigrate to Tokyo as our
+new home...
+[->]The abbot's final words brought tears
+to my eyes...
+[->]We abandon this land not out of despair,
+but out of hope. The hope for us all to
+finally come into our own...
+[END]

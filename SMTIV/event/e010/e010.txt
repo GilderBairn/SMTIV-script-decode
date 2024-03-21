@@ -1,0 +1,81 @@
+0: 〉 The Gauntlet suddenly began to emit
+a light.
+[->]〉 Something appeared on the Gauntlet's
+LCD monitor...
+[END]
+1: (Figure) [7a 2]......
+[->][13 0, 10002]Hello, human.
+[->][13 0, 10003]I'm Burroughs, a navigational AI.
+[END]
+2: (Burroughs) [7a 2][13 0, 10004]I've acknowledged you as my user.
+[END]
+3: (Hope) [7a 8][13 0, 10006]This is Hope speaking.
+[->][13 0, 10007]I'm scrying on all of your positions
+through Burroughs.
+[->][13 0, 10008]I see you're all in Naraku now.
+Let me explain your first training
+exercise.
+[END]
+4: (Hope) [7a 8][13 0, 10009]You must begin by learning the basics
+of combat through battle with demons.
+[->][13 0, 10010]Fighting demons is a necessary skill
+for Samurai.
+[->][13 0, 10011]Your task is to defeat a demon inside
+Naraku. Any demon will do.
+[END]
+5: (Hope) [7a 8][13 0, 10012]Burroughs, the sprite who dwells in
+that Gauntlet, will support you.
+[->][13 0, 10013]That is all for now. You should
+commence your training at once.
+[END]
+6: (Burroughs) [7a 2][13 0, 10014]I can explain how my interface
+works. You want me to?
+[END]
+7: ”Proceed.”
+”No, don't.”
+[END]
+8: (Burroughs) [7a 2][13 0, 10015]Okay. We'll skip over that.
+[END]
+9: The [Color:0x5]Menu[Color:0x0] is now enabled on the bottom
+screen. There, you can view your status,
+use items, and other important functions.
+[->]While in the field, you can access the
+Menu by pressing the Y Button.
+[->]As you progress, more Menu features
+will be unlocked.
+[END]
+10: (Burroughs) [7a 2][13 0, 10016]Did you get all that?
+[END]
+11: ”I did indeed.”
+”Explain it once more.”
+[END]
+12: (Burroughs) [7a 2][13 0, 10017]All right. I'll display the
+information one more time.
+[END]
+13: (Burroughs) [7a 2][13 0, 10018]Make sure you save, just in case.
+[END]
+14: You can Save or Load your data from
+the Menu screen.
+[->]To Save or Load, select Burroughs from
+the Menu screen and then choose Save
+or Load there.
+[END]
+15: (Burroughs) [7a 2][13 0, 10019]Did you get all that?
+[END]
+16: ”I did indeed.”
+”Explain it once more.”
+[END]
+17: (Burroughs) [7a 2][13 0, 10020]All right. I'll display the
+information one more time.
+[END]
+18: (Burroughs) [7a 2][13 0, 10022]That's all the support I have for now.
+[END]
+19: (Burroughs) [7a 2][13 0, 10021]Until next time, Master [Flynn].
+[END]
+20: 〉 The atmosphere here is unlike any
+you've felt before in your life...
+[->]〉 You feel a chill creep slowly down
+your spine...
+[END]
+102: (Burroughs) [7a 2][13 0, 10005]It's good to meet you.
+[END]

@@ -1,0 +1,16 @@
+0: Test
+[END]
+1: 〉 [Flynn] took Timothy to the
+outskirts of the city where his mother
+awaited.
+[END]
+2: 〉 You cannot leave on your own.
+[END]
+3: (Burroughs) [7a 2][13 0, 502044]Hold on, there's something I need to
+tell you.
+[->]Since the angels eradicated the demons,
+there are a few quests that can't be
+completed anymore.
+[->]I've made it so you can't accept those
+quests now.
+[END]

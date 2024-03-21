@@ -1,0 +1,26 @@
+0: (Mother Harlot) Test
+[->][END]
+1: 〉 One of Mother Harlot's followers
+interrupts the battle...
+[END]
+2: (Follower) [7a 53]Mother! Please leave this to us.
+[->]You have only just materialized.
+For your own safety, please
+stay back.
+[->]Now please, come this way!
+[END]
+3: 〉 The follower leads Mother Harlot
+away...
+[END]
+4: (Follower) [7a 53]Rise! Gods of Babylon.
+[->]You may have the honor of protecting
+the mother goddess!
+[END]
+5: Test
+[->][END]
+6: Test
+[->][END]
+7: Test
+[->][END]
+8: (Mother Harlot) Test Die
+[->][END]

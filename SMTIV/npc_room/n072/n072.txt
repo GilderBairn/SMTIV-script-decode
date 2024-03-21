@@ -1,0 +1,15 @@
+0: (Demonoid woman) [7a 104][13 1, 419303]King Akira's going around all the
+cities and counting the neurishers.
+He'll send more to any that need them.
+[->]It's a real step towards equality!
+I'm so happy to hear about this.
+[->]Seeing that girl next door being
+fawned over all the time was really
+annoying.
+[END]
+1: (Neurisher) [7a 110][13 1, 403531]When I was normal, I couldn't get a
+man to give me so much as the time of
+day. But now that I'm a neurisher...
+[->]The demonoid men are all so nice to
+me! None of them ever call me ugly!
+[END]

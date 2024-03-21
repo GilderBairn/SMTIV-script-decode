@@ -1,0 +1,27 @@
+0: [71 1]Hee ho! My popularity is spreading
+across the world, ho!
+[->][END]
+1: [71 1]The other Samurai all like me, ho!
+[->][END]
+2: [71 1]I'm a star, ho! I want tons of people
+to StreetPass me, ho!
+[->][END]
+3: [71 1]Hee ho ho ho! Now I'm the hero, ho!
+[->][END]
+4: [71 1]I fused with that demon and became
+a Hee−ho... I'm shocked! ...Ho.
+Do I have to say that every time?
+[->][END]
+5: [71 1]I fused with a hee−whole mess of
+demons, ho! I'm not your ordinary
+Hee−ho any more!
+[->][END]
+6: [71 1]A present from hee to you, ho!
+You can frame it if you want, ho!
+[->][END]
+7: [71 1]A present from hee to you, ho!
+You can show it off to everyone, ho!
+[->][END]
+8: [71 1]A present from hee to you, ho!
+You can hide it in your closet, ho!
+[->][END]

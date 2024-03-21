@@ -1,0 +1,40 @@
+0: (Burroughs) [7a 2][13 0, 74001]I'm going to run the Terminal
+activation program.
+[END]
+1: (Burroughs) [7a 2][13 0, 74002]Activation complete.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]
+2: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+3: (Burroughs) [7a 2][13 0, 74005]This seems to be a type of Terminal
+too. The activation program ran
+normally, anyway.
+[->][13 1, 405718]This is the Purgatorium Terminal.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]
+4: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+5: (Burroughs) [7a 2][13 1, 405704]This is the Ginza Terminal.
+[END]
+6: (Burroughs) [7a 2][13 0, 74001]I'm going to run the Terminal
+activation program.
+[END]
+7: (Burroughs) [7a 2][13 0, 74002]Activation complete.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]
+8: (Burroughs) [7a 2][13 0, 400051]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]
+100: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+103: (Burroughs) [7a 2][13 1, 400063]Looks like the quest is going well.
+[END]
+200: (Burroughs) [7a 2][13 1, 405705]This is the Ueno Terminal.
+[END]

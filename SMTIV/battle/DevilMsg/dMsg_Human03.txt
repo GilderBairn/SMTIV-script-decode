@@ -1,0 +1,75 @@
+0: [71 1]I devote this technique to my
+country...
+[->][END]
+1: [71 1]Let this technique blaze a trail for
+the future of our nation...
+[->][END]
+2: [71 1]Will this ability protect this land?
+...Or destroy it?
+[->][END]
+3: [71 1]The path to mastering this power for
+defending one's home is a never−
+ending one...
+[->][END]
+4: [71 1]I cannot hold this many skills...
+Decide which I must abandon.
+[->][END]
+5: [71 1]I shall change this skill,
+[Color:0x5][Skill 1],[Color:0x0] to
+[Color:0x5][Skill 2]...[Color:0x0]
+[->][END]
+6: [71 1]I shall change this skill,
+[Color:0x5][Skill 1],[Color:0x0]
+to another...
+[->][END]
+7: [71 1]Transform...!
+[->][END]
+8: [71 1]So, now is not the time...
+[->][END]
+9: [71 1]This is [Color:0x5][Skill 1]...[Color:0x0]
+The skill the heavens bestowed on us.
+[->][END]
+10: [71 1]Transformation selection message (provisional)
+[->][END]
+11: [71 1]Transformation OK message (provisional)
+[->][END]
+12: [71 1]Transformation cancel message (provisional)
+[->][END]
+13: [71 1]Transformation complete message (provisional)
+[->][END]
+14: [71 1]Transformation omen message (provisional)
+[->][END]
+15: [71 1]I give you this [Color:0x5][Item 1].[Color:0x0]
+Let it assist you.
+[->][END]
+16: [71 1]You have fought well.
+Take this [Color:0x5][Item 1].[Color:0x0]
+[->][END]
+17: [71 1]There are many battles ahead...
+Use this [Color:0x5][Item 1].[Color:0x0]
+[->][END]
+18: [71 1]I am one of the deadly National Defense
+Divinities... And I shall instruct you
+of the essence of our power...
+[->][END]
+19: [71 1]Have you engraved the essence of my
+power into your mind?
+[->][END]
+20: [71 1]I answer my oath to protect this nation
+made in days long past...
+[->]I am [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+Let us seek the battlefield...
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

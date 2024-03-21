@@ -1,0 +1,10 @@
+0: (Burroughs) Activating scan mode...
+[END]
+1: 〉 There is no relic reading right now...
+[END]
+3: (Burroughs) [7a 2][13 1, 76035]I'm detecting a demon's Domain.
+Do you want to go on?
+[END]
+4: Yes
+No
+[END]

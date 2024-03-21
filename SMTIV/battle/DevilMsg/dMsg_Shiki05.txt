@@ -1,0 +1,75 @@
+0: [71 1]Dammit... A new... skill...
+[->][END]
+1: [71 1]Dammit... A new... skill...
+[->][END]
+2: [71 1]Dammit... A new... skill...
+[->][END]
+3: [71 1]Dammit... Not again... I'm...
+turning into... a demon...
+[->][END]
+4: [71 1]Dammit... I'm full... of skills...
+Hurry... Throw one away...
+[->][END]
+5: [71 1]Should I... change...
+[Color:0x5][Skill 1]...[Color:0x0] into
+[Color:0x5][Skill 2]...?[Color:0x0]
+[->][END]
+6: [71 1]Should I... change...
+[Color:0x5][Skill 1]...[Color:0x0] into
+[Color:0x5][Skill 2]...?[Color:0x0]
+[->][END]
+7: [71 1]I wish... everything... could
+change...
+[->][END]
+8: [71 1]What... the heck...
+You don't... have... any guts...?
+[->][END]
+9: [71 1][Color:0x5][Skill 1]...[Color:0x0]
+Guess that... does it...
+[->][END]
+10: [71 1]I'll... change... into something...
+else... I'll... transform...!
+[->][END]
+11: [71 1]So long... stupid body...!
+[->][END]
+12: [71 1]D... Damn... it... I'm still...
+stuck with... this body...?
+[->][END]
+13: [71 1]Transformation complete message (provisional)
+[->][END]
+14: [71 1]Just... a little... more...
+Then... I can... [Color:0x5]transform...[Color:0x0]
+[->][END]
+15: [71 1]You can... have...
+[Color:0x5][Item 1]...[Color:0x0]
+Better than... nothing... Right...?
+[->][END]
+16: [71 1]You can... have...
+[Color:0x5][Item 1]...[Color:0x0]
+Better than... nothing... Right...?
+[->][END]
+17: [71 1]You can... have...
+[Color:0x5][Item 1]...[Color:0x0]
+Better than... nothing... Right...?
+[->][END]
+18: [71 1]You, too... have become tainted...
+with the power... of demons...
+[->][END]
+19: [71 1]You wish... to be further tainted?
+[->][END]
+20: [71 1]I'm... [Color:0x5][Demon race 1] [Demon name 1]...[Color:0x0]
+Let's... become one...
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

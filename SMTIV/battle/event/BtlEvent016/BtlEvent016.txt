@@ -1,0 +1,121 @@
+0: (Earthy man) [7a 59][13 0, 301600]Numbers aren't everything when it
+comes to a fight, after all.
+[->][13 0, 301601]The quality of a demon matters plenty.
+This one's a big, strong fella! He's
+ready and rarin' to fight!
+[->][13 0, 301602]Your goose is cooked this time for
+sure!
+[END]
+1: (Guard−like man) [7a 60][13 0, 301603]Numbers aren't everything in a fight.
+No sense bringing out a showy horde.
+[->][13 0, 301604]What matters is the quality of the
+demon. This one's big and strong...
+He'll do the trick!
+[->][13 0, 301605]You're finished this time for sure.
+[END]
+2: (Host−like man) [7a 120][13 0, 301606]Numbers aren't everything in a fight.
+A showy horde doesn't always get the
+job done.
+[->][13 0, 301607]I think I'm better off focusing on the
+quality of my demon. So I'll be siccing
+this big, strong one on you now.
+[->][13 0, 301608]Hehe... You're screwed for sure this time!
+[END]
+3: (Sloppy man) [7a 63][13 0, 301609]Numbers aren't the only thing in a
+fight, after all.
+[->][13 0, 301610]The quality of the demon matters a
+lot, too. You ready to duke it out
+with a big, nasty demon?
+[->][13 0, 301611]If not, you're screwed this time!
+[END]
+4: (Heavily made−up girl) [7a 123][13 0, 301612]So like, there's more to a fight than
+numbers? What's the point of throwing
+a bunch of weaklings at you?
+[->][13 0, 301613]Anyways, a girl's gotta be strict
+about quality and junk. So this time,
+I'll use a one−of−a−kind demon.
+[->][13 0, 301614]And you're gonna be major league
+screwed this time for sure!
+[END]
+5: (Anachronistic man) [7a 29][13 0, 301615]'Tis more to a fray than mere numbers.
+[->][13 0, 301616]One must field a strong warrior! The
+demon I have for thee is a true brute,
+spoiling for a fight.
+[->][13 0, 301617]Thine hour hath come at last,
+scoundrel!
+[END]
+6: (Businesslike man) [7a 47][13 0, 301618]Numbers aren't all that matters in
+battle, of course.
+[->][13 0, 301619]The quality of the demons is at least
+as important. I've selected a truly
+brutish one, spoiling for a fight.
+[->][13 0, 301620]I think you'll find that you're
+finished this time for certain.
+[END]
+7: (Intuitive man) [7a 118][13 0, 301621]There's more to a fight than drowning
+an enemy in numbers, after all.
+[->][13 0, 301622]I can see that the quality of a
+demon matters too! Like this big,
+strong guy−−He's itching for a fight!
+[->][13 0, 301623]I have a strong hunch that you're
+going down, kid!
+[END]
+500: (Earthy man) [7a 59][13 0, 301224]It ain't gonna be like this next time!
+You better remember that!
+[END]
+501: (Guard−like man) [7a 60][13 0, 301225]You're not getting off this easy
+next time. Remember that!
+[END]
+502: (Host−like man) [7a 120][13 0, 301226]You'll be singing a different tune
+next time! Just remember that!
+[END]
+503: (Sloppy man) [7a 63][13 0, 301227]It ain't gonna go like this next time!
+You better remember that!
+[END]
+504: (Heavily made−up girl) [7a 123][13 0, 301228]So like, I hope you know it's not
+gonna go so crappy for me next time
+and stuff!
+[END]
+505: (Anachronistic man) [7a 29][13 0, 301229]'Twill not go so miserably for me
+our next go−round! Remember that!
+[END]
+506: (Businesslike man) [7a 47][13 0, 301230]It won't go this way next time.
+You can bank on that.
+[END]
+507: (Intuitive man) [7a 118][13 0, 301231]I don't see it going this way the
+next time! You remember that!
+[END]
+600: (Earthy man) [7a 59][13 0, 305041]Damn, you took all the Terminals.
+[->][13 0, 305042]Heh, you got me good! Man, Samurai
+are something else!
+[END]
+601: (Guard−like man) [7a 60][13 0, 305043]Well, you've taken all the Terminals
+now...
+[->][13 0, 305044]You win. I gotta say, Samurai are
+pretty impressive.
+[END]
+602: (Host−like man) [7a 120][13 0, 305045]So all the Terminals are yours now.
+[->][13 0, 305046]All right, I accept defeat. Samurai
+are pretty impressive, it seems.
+[END]
+603: (Sloppy man) [7a 63][13 0, 305047]You got all the Terminals now...
+[->][13 0, 305048]Yep, time to pack it in. Guess
+there ain't no beating a Samurai!
+[END]
+604: (Heavily made−up girl) [7a 123][13 0, 305049]Aww, is that like, all the Terminals?
+[->][13 0, 305050]So I guess I lose? Was there like,
+any way I could have beaten a Samurai?
+[END]
+605: (Anachronistic man) [7a 29][13 0, 305051]'Twould seem that thou hath captured
+all of the Terminals.
+[->][13 0, 305052]I concede defeat. Thou Samurai art
+truly impressive.
+[END]
+606: (Businesslike man) [7a 47][13 0, 305053]All the Terminals are yours now.
+[->][13 0, 305054]Very well, you win. Samurai are truly
+fearsome opponents.
+[END]
+607: (Intuitive man) [7a 118][13 0, 305055]You've taken all the Terminals now...
+[->][13 0, 305056]Alright, I admit defeat! I should've
+seen this coming against a Samurai!
+[END]

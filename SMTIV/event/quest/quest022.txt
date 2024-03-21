@@ -1,0 +1,24 @@
+0: I would have you [Color:0x5]rescue three of our allies, held
+prisoner at Shinjuku National Park.[Color:0x0] Tokyo is a land
+where the Lord's grace has no purchase; our allies
+were thus unable to wield their full might and
+easily overtaken by the culprits. Take care when
+attempting this rescue.
+[END]
+1: Dummy
+[END]
+2: Bless you for rescuing the [Color:0x5]first[Color:0x0] ally. [Color:0x5]Two[Color:0x0] more
+remain in captivity. I hope that you will continue
+your strenuous efforts on their behalf.
+[END]
+3: That was the [Color:0x5]second[Color:0x0] ally. Only [Color:0x5]one[Color:0x0] remains in
+captivity. I am certain that if you continue your
+strenuous effort, he shall shortly be freed.
+[END]
+4: You have now delivered all of our allies from
+bondage. I thank you on the Lord's behalf.
+ 
+I hesitate to ask this, as you must surely be
+tired, but I have another favor to ask of you.
+[Color:0x5]Please come to the Monastery.[Color:0x0]
+[END]

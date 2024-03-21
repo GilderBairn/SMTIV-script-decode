@@ -1,0 +1,12 @@
+0: (Lucifuge) [7a 0][13 0, 309600]We aim for nothing less than the total
+elimination of order in this universe.
+[->][13 0, 309601]And our ideal world cannot come about
+while a son of man like you wanders
+the earth.
+[->][13 0, 309602]As one of Lord Lucifer's generals,
+I will dispose of you.
+[END]
+1: (Lucifuge) [7a 0][13 0, 309603]My lord... I am... sorry...
+[->][13 0, 309604]Please... Reclaim what is rightfully
+ours...
+[END]

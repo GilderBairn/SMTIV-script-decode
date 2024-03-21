@@ -1,0 +1,40 @@
+0: 〉 The villagers are gone...
+[END]
+1: 〉 The area is densely covered with thick
+trees...
+[END]
+2: (Hope) [7a 8][13 1, 400601]Good, you've returned. Do you need
+healing?
+[END]
+3: ”Unfortunately, yes.”
+”No, I am well.”
+[END]
+4: (Hope) [7a 8]...Healers!
+[END]
+5: 〉 The Samurai healer treated your
+wounds...
+[->]〉 [Flynn] and the others were
+healed.
+[END]
+6: (Hope) [7a 8]If you are injured, better to return
+here than to risk going further. The
+healers can treat your wounds.
+[->]Well then, I must ask that you resume
+the mission.
+[END]
+7: (Hope) [7a 8]If you are injured, better to return
+here than to risk going further. The
+healers can treat your wounds.
+[->]Well then, I must ask that you resume
+the mission.
+[END]
+8: (Samurai on guard) [7a 29][13 1, 403042]I will risk my life guarding this place
+to prevent any villagers who escaped
+into the forest from going deeper in.
+[->]You should turn back and work toward
+turning up any survivors.
+[END]
+9: 〉 Obtained [Color:0x5][41 31][Color:0x0] x10.
+[END]
+10: 〉 There is no one here...
+[END]

@@ -1,0 +1,15 @@
+0: Have you ever heard of [Color:0x5][Item 1]?[Color:0x0] It's one
+of the divine wines created by the [Color:0x5]Zealot
+Dionysus.[Color:0x0] Supposedly, if you drink it while
+you're drunk, your strength increases tenfold.
+Plus, it only works on women. Dionysus was
+seen in downtown Ginza. Can you get me some?
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

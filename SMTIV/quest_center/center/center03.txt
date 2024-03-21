@@ -1,0 +1,257 @@
+0: Heal
+Examine bulletin board
+Talk
+Deliver
+[END]
+2: 〉 [Flynn] looks at the bulletin
+board. It shows the current rankings...
+[END]
+3: (Burroughs) [7a 2][13 0, 502024]I found some new quests. I'll go ahead
+and register them to the list.
+[END]
+4: 〉 Quest(s) have been added to the Gauntlet.
+[END]
+5: (Burroughs) [7a 2][13 0, 502023]I've checked, but... there don't seem
+to be any new quests.
+[END]
+6: (Bartender) [7a 2][13 1, 405121]Tired, huh? Then I've got just the
+thing for you.
+[->][13 1, 405123]It's a kind of waffle that has nothing
+to do with ”Harajuku”... Ersatz,
+of course.
+[->]I'll share some with you for
+[Amount 1] Macca. How about it?
+[END]
+7: Eagerly accept it
+Politely decline
+[END]
+8: (Bartender) [7a 2][13 1, 405120]What is it? Did you bring something?
+[END]
+9: (Burroughs) [7a 2][13 0, 502044]You have some things ready to deliver,
+you know. I'll show you the quest log
+so you can choose which one to finish.
+[END]
+10: (Bartender) [7a 2][13 0, 405100]What's your pleasure?
+[END]
+11: (Bartender) [7a 2][13 0, 405104]If you've got business, then hurry
+up and spit it out.
+[END]
+12: (Bartender) [7a 2][13 4, 405101]Here's hoping we both see each other
+alive again.
+[END]
+14: (Bartender) [7a 2][13 0, 405102]You just leave the rest to me.
+[END]
+15: 〉 Who will you talk to?
+[END]
+17: 〉 [Flynn] looks up at the
+bulletin board.
+[->]〉 The current rankings for the [Color:0x5]Champion
+Tournament[Color:0x0] are listed on the bulletin
+board...
+[END]
+18: 〉 [Flynn] looks up at the
+bulletin board.
+[->]〉 It seems to be displaying the final
+results of the [Color:0x5]Champion Tournament.[Color:0x0]
+[END]
+19: 〉 It seems [Flynn] doesn't yet
+have enough rank to be listed.
+[END]
+20: 〉 It seems [Flynn] didn't make
+the rankings this time.
+[END]
+21: 〉 It's the ranking for the Hunters.
+Naturally, [Flynn]'s name is
+not shown.
+[END]
+22: 〉 It seems [Flynn] didn't make
+the rankings this time.
+[END]
+23: 〉 [Flynn] looks up at the
+bulletin board.
+[->]〉 ”Kenji is Number One!” is written in
+huge letters across the ranking column.
+[END]
+24: 〉 [Flynn] looks up at the
+bulletin board.
+[->]〉 Someone has painted out the ranking
+scoreboard.
+[END]
+25: 〉 [Flynn] looks up at the
+bulletin board.
+[->]〉 The ranking scoreboard is blank...
+It seems no one is keeping track.
+[END]
+26: (Bartender) [7a 2][13 1, 405120]We'll be showing the results of the
+Champion Tournament for a while.
+[->][13 1, 405123]Go ahead and brag if you want! You
+must be very proud.
+[END]
+27: (Bartender) [7a 2][13 1, 405120]Just one more. One more Hunter to pass
+and you've got this. It's really getting
+interesting now...
+[END]
+28: (Bartender) [7a 2][13 1, 405124]Third place, huh...? Well, if you've
+come this far, might as well shoot for
+the top spot.
+[END]
+29: (Bartender) [7a 2][13 1, 405120]Made it into the top five, have you?
+I'm sure you can do even better.
+[END]
+30: (Bartender) [7a 2][13 1, 405120]You've made it into the top ten, eh?
+I bet you could probably go even higher
+than that if you tried.
+[END]
+31: (Bartender) [7a 2][13 1, 405120]It's ridiculous that a man of your skill
+isn't in the top ten yet.
+[->]Finish some more quests and prove your
+strength. Then no one can deny you're
+a contender.
+[END]
+32: (Bartender) [7a 2][13 1, 405122]It's not too fresh today... I'll have to
+ask you to come back another time for it.
+[END]
+33: 〉 It seems to be decided that
+[Flynn] is ranked number one
+in the Champion Tournament.
+[END]
+34: (Bartender) [7a 2][13 0, 405103]Stay sharp, or you'll end up dead.
+[END]
+100: Deliver
+Cancel
+[END]
+101: (Bartender) [7a 2]Ah, that quest. It was for, let's
+see here...
+[END]
+102: (Bartender) [7a 2][13 1, 405124][Item 1] x[Amount 1].
+That's right.
+[END]
+103: (Bartender) [7a 2][13 1, 405124][Demon name 1].
+That's right.
+[END]
+104: (Bartender) [7a 2][13 1, 405124][Item 1].
+That's right.
+[END]
+105: (Bartender) [7a 2][13 1, 405123]Okay, you can leave the [Item 1] x[Amount 1]
+with me.
+[END]
+106: (Bartender) [7a 2][13 1, 405123]Okay, you can leave the [Demon name 1]
+with me.
+[END]
+107: (Bartender) [7a 2][13 1, 405123]Okay, you can leave the [Item 1]
+with me.
+[END]
+108: 〉 There are currently no delivery quests
+you can fulfill.
+[END]
+109: (Bartender) [7a 2][13 1, 405121][Demon name 1] is currently
+registered for the DDS.
+[->]You need to cancel its registration
+and then come again.
+[END]
+110: (Bartender) [7a 2][13 1, 405121]Looks like [Demon name 1] is
+lost right now.
+[->]Come back after you've taken it under
+your wing again.
+[END]
+220: (Burroughs) [7a 2][13 1, 400058]I did a quick scan, and there aren't
+any dangerous components in it...
+I think.
+[END]
+221: (Burroughs) [7a 2][13 1, 400055]I can say one thing for certain. However
+it tastes, it'll certainly be... filling.
+[END]
+222: (Burroughs) [7a 2][13 1, 400005]Did it just... move...?
+[END]
+230: (Jonathan) [7a 3][13 1, 400105]The color strains my eyes to look upon...
+Is it truly safe to imbibe?
+[END]
+231: (Jonathan) [7a 3][13 1, 400103]Sampling the local cuisine is how one
+learns of a new land... Come now,
+Jonathan, this is a mission in itself!
+[END]
+232: (Jonathan) [7a 3][13 1, 400105]Excuse me, but may I have a napkin for...
+Oh? You haven't any napkins here...?
+[END]
+240: (Walter) [7a 4][13 1, 400202]Well, I suppose it's all the same once
+it settles in your stomach. Bottoms up!
+[END]
+241: (Walter) [7a 4][13 1, 400204]The flavoring and color to this one is
+remarkably strong. I think it may be
+quite suited to my tastes.
+[END]
+242: (Walter) [7a 4][13 1, 400204]I'm so starved now that I could eat
+anything and it would taste like a
+meal from the king's own chefs.
+[END]
+250: (Isabeau) [7a 5][13 1, 400303]Quite pungent, isn't it? I'd like some
+spices or something of that nature to
+help it go down...
+[END]
+251: (Isabeau) [7a 5][13 1, 400305]I should like to know what went into
+this... Though would I be happier to
+remain blissfully ignorant?
+[END]
+252: (Isabeau) [7a 5][13 1, 400302]If I may be greedy for a moment, I wish
+this had a bit more color. Merely adding
+a parsley sprig or some berries would do.
+[END]
+920: (Merkabah) [7a 92][13 1, 430002]I will pray for your good luck.
+[END]
+921: (Merkabah) [7a 92][13 1, 430001]This is one form of bravery...
+[END]
+922: (Merkabah) [7a 92][13 1, 401805]I ask that you live up to the Lord's
+expectations.
+[END]
+930: (Demon Lord Lucifer) [7a 93][13 1, 401901]To eat is to gain strength.
+[END]
+931: (Demon Lord Lucifer) [7a 93][13 1, 401903]This, too, is a fallen thing...
+[END]
+932: (Demon Lord Lucifer) [7a 93][13 1, 401905]How bizarrely it gleams in the light...
+[END]
+940: (Burroughs) [7a 2][13 0, 502036]Hey, can I share something with you?
+[END]
+941: (Burroughs) [7a 2][13 0, 502036]Hey, can I share something with you?
+[->][13 0, 502037]It's a combat training quest that makes
+use of virtual reality functions.
+[->][13 0, 502038]If you want, I can explain it to you
+in detail.
+[END]
+942: Hear the details
+Don't hear the details
+[END]
+943: A new type of Challenge Quest has been
+unlocked.
+[->]These Challenge Quests involve winning
+a battle while meeting certain
+conditions.
+[->]There is no penalty for failing them,
+and they can be challenged as many
+times as necessary until completed.
+[->]More of these quests will be added
+periodically, so feel free to take
+them on.
+[END]
+944: (Burroughs) [7a 2][13 0, 502039]I'll register a few of them to the
+Challenge Quest list.
+[END]
+945: (Burroughs) [7a 2][13 0, 502040]...That should do it for now. Try
+them out whenever you feel like it.
+[END]
+946: (Burroughs) [7a 2][13 0, 502041]All right, I'll skip the explanation.
+[->][13 0, 502042]I'll register a few of them to the
+Challenge Quest list. Try them out
+whenever you feel like it.
+[END]
+947: (Burroughs) [7a 2][13 0, 502034]Hey, guess what? There's a type of
+quest you can do in VR!
+[->][13 0, 502035]I'll register a few of them to the
+Challenge Quest list. Try them out
+whenever you feel like it.
+[END]
+1007: (Bartender) [7a 2][13 1, 405122]You don't have to be modest, y'know...
+[END]
+1008: (Bartender) [7a 2][13 1, 405122]...Hey, you don't have the cash to
+cover it. Sorry, but I ain't that
+softhearted.
+[END]

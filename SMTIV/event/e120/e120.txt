@@ -1,0 +1,10 @@
+0: (Gabby) [7a 11][13 0, 120001]I speak unto the Blessed Samurai
+[Flynn].
+[->][13 0, 120002]I ask that you come to the Monastery
+at once.
+[END]
+1: (Gabby) [7a 11][13 0, 120003]This is a personal matter. As such,
+I forbid you to speak of it to others.
+[END]
+2: (Gabby) [7a 11][13 0, 120004]I shall be waiting.
+[END]

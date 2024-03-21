@@ -1,0 +1,88 @@
+0: (The White) [7a 124][13 0, 229001]So even [Flynn] would make that
+choice...
+[->][13 0, 229002]Cowardly human...!
+[END]
+1: (The White) [7a 124][13 0, 229003]...You are too late to walk that path,
+[Flynn].
+[->][13 0, 229004]You have committed too deeply to
+preserving the status quo...
+[END]
+2: (The White) …だが [選択/せんたく]にそぐわぬとはいえ
+[我/われ]らを[拒/こば]むというのだな…
+[END]
+3: (The White) [7a 124][13 0, 229005]Why do you oppose us, [Flynn]?
+[END]
+4: (The White) [7a 124][13 0, 229006]Will even you place your hopes in
+the possibility of a future?
+[->][13 0, 229007]Even after we have shown you many
+times there is no future for the
+human race?
+[END]
+5: (The White) [7a 124][13 0, 229008]You are no longer of use to us.
+[->][13 0, 229009]May you regret your choice here in
+this fabricated space until you die...
+[END]
+6: (Jonathan) [7a 3][13 0, 229010][Flynn]? Is that you there...?
+[END]
+7: (Jonathan) [7a 3][7b 65539, 65537][13 0, 229011]Thank heavens, I thought you were but
+a vision... To think that we would
+meet in this strange place...
+[END]
+8: (Jonathan) [7a 3][7b 786435, 65537][13 0, 229012]The White asked me whether I would
+bring the world to naught...
+[->][13 0, 229013]I told them that I would rather
+preserve the status quo.
+[END]
+9: (Jonathan) [7a 3][7b 786435, 65537][13 0, 229014]It seems the White intend to keep us
+prisoner here...
+[->][13 0, 229015][7b 262147, 65537]But I'm relieved to be reunited
+with you, [Flynn].
+[END]
+10: (Jonathan) [7a 3][7b 786435, 65537][13 0, 229016]We'll escape this world, come what
+may. Now, let us begin!
+[END]
+11: 〉 Jonathan has joined you.
+[END]
+109: (Voice) [13 0, 230001]Warriors of light, the Lord's
+chosen ones...
+[->][13 0, 230002]You have done well in repelling the
+despair of the White and beginning to
+walk on your own.
+[END]
+209: (Gabriel) [7a 65523][13 0, 230003]I have come to collect you. Our Lord
+requires your strength.
+[END]
+309: (Jonathan) [7a 3][13 0, 230004]Gabriel...
+[END]
+409: (Gabriel) [7a 65523][13 0, 230005]This is the Expanse... A world created
+by the thoughts of men.
+[->][13 0, 230006]The White are also an aggregation of
+thoughts. They are a portion of this
+space.
+[END]
+509: (Gabriel) [7a 65523][13 0, 230007]Because you rejected the White, their
+power is weakened now.
+[END]
+609: (Gabriel) [7a 65523][13 0, 230008]You must slay the Whites. Do so, and
+you will be able to escape from the
+Expanse.
+[END]
+709: (Gabriel) [7a 65523][13 0, 230009]The White number four. They are lurking
+somewhere within this forest.
+[->][13 0, 230010]Slay all of the White so that you may
+return to your world of origin and
+save mankind.
+[->][13 0, 230011]That is your task as the warriors
+of light.
+[END]
+809: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+909: (Gabriel) [7a 65523][13 0, 230013]Allow me to heal your wounds.
+[END]
+1009: (Gabriel) [7a 65523][13 0, 230014]If you ever become wounded in battle,
+return here to the forest's entrance.
+[->][13 0, 230015]I shall heal your wounds at any time.
+[END]
+1109: 〉 Gabriel walked away...
+[END]

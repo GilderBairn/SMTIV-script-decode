@@ -1,0 +1,168 @@
+0: Test
+[END]
+201: (Voice) [7a 1][13 1, 401001]...Hello. Thank you for coming.
+[END]
+202: (Stephen) [7a 14]This is the Expanse...
+a place that transcends past, present,
+and future.
+[END]
+203: (Stephen) [7a 14]I will now guide you to a ”certain
+past.”
+[->]It is a day that holds a very
+significant moment in our
+history...
+[->]And, it is a day that ”you of the
+present” must one day see.
+[END]
+204: (Stephen) [7a 14]Now then, let us go.
+[->]To the day that the sky closed over
+Tokyo...
+[END]
+301: (Stephen) [7a 1]...We're here.
+[END]
+302: (Stephen) [7a 14]We are in the Tokyo you know, before
+your own time.
+[END]
+303: (Stephen) [7a 14]...There isn't much time left to
+explain, so I shall be brief.
+[->]Look up in the sky.
+[END]
+304: (Stephen) [7a 1]Do you see that light?
+[->]...That is an intercontinental
+ballistic missile.
+[END]
+305: (Stephen) [7a 1]It all started with the Yamato Perpetual
+Reactor. 
+[->]Once it made a connection to the
+Expanse, demons began to flow into
+this world.
+[->]So began the war for control between
+the angels and the demons, eventually
+leading to a world war among humanity.
+[END]
+306: (Stephen) [7a 1]...And now, a certain country has
+just launched some of the worst weapons
+known to man.
+[->]Unfortunately... One of them is heading
+directly towards Tokyo.
+[->]Soon, it will destroy this city...
+[END]
+307: (Stephen) [7a 1]...But, turn around.
+[END]
+308: 〉 A giant demon fills your sight...
+[END]
+309: (Stephen) [7a 1]That enormous god is the guardian of
+Tokyo, Masakado.
+[->]He is trying to cover the entire city
+of Tokyo with his body in order to
+protect it from the missile.
+[END]
+310: (Stephen) [7a 1]However, he has lost control of himself,
+just as the people of Tokyo have lost
+themselves...
+[->]If the missile reaches Tokyo, any
+future the city may have had will
+dissolve into mere possibility.
+[END]
+311: (Stephen) [7a 14]I believe you can bring Masakado back
+to himself.
+[->]If you were to challenge him, I am
+sure he will respond.
+[->]Are you willing to fight Masakado?
+[END]
+312: Fight Masakado
+Don't fight Masakado
+[END]
+313: (Stephen) [7a 14]...I see.
+[->]Then you must hurry. There is no time.
+[END]
+314: (Burroughs) [7a 2][13 1, 400003]I will let you know how long we have
+before the missile impacts.
+[->]You just concentrate on the fight,
+Master [Flynn].
+[END]
+315: (Stephen) [7a 14][13 1, 401001]Hello, Burroughs. I see you've been
+improved while I was away.
+[END]
+316: (Burroughs) [7a 2]It has been quite some time, Doctor.
+[END]
+317: (Stephen) [7a 14]I wish I had the time to chat with you
+more, but we do not have that luxury.
+[END]
+318: (Burroughs) [7a 2]Goodbye, Doctor. We'll talk later.
+[END]
+319: (Burroughs) [7a 2]Master [Flynn], hurry.
+The estimated time of missile impact
+is fast approaching.
+[END]
+320: 〉 [Flynn] runs towards Masakado...
+[END]
+321: (Stephen) [7a 14]...I see. So that is your choice.
+[END]
+322: 〉 An intense light swallows all of
+Tokyo...
+[END]
+400: 〉 Masakado has changed himself into a
+barrier enveloping all of Tokyo.
+[END]
+401: (Stephen) [7a 14]And so, Tokyo will follow the path of
+history that you and I are familiar
+with.
+[->]A history where the Eastern Kingdom of
+Mikado is founded on Masakado's back,
+and where you will one day be born.
+[END]
+402: 〉 You hear the voice of Masakado
+echoing around you...
+[END]
+403: (Masakado) [7a 1]Tokyo has been protected...
+However, good and evil still remain.
+[->]The souls of humanity will be tortured
+by the hardships to come, due to the
+neverending battle of law and chaos.
+[->]However, you have left them with the
+greatest of all gifts: hope.
+[->]As long as there is hope, the Goddess
+will never die.
+[END]
+404: (Masakado) [7a 1][Flynn]...
+I shall grant you my ”shadow.”
+[->]Use it as your shield in battle.
+[END]
+405: (Burroughs) [7a 2][13 1, 400005]...Oh? I'm receiving some kind of
+data.
+[END]
+406: (Burroughs) [7a 2][13 1, 400003]Master [Flynn], I've received some
+demon information.
+[END]
+407: 〉 The restriction on fusing [Color:0x5]Fury
+Maskado's Shadow[Color:0x0] has been lifted.
+[END]
+408: Unused
+[END]
+409: Unused
+[END]
+410: (Stephen) [7a 14][13 1, 401001]So, did you have enough time to talk?
+[END]
+411: (Stephen) [7a 14]...Now then, let me get you back to
+when you belong.
+[->]Thank you... both of you.
+[END]
+451: (Stephen) [7a 14]It seems your power wasn't enough
+this time.
+[->]You can try again, if you wish to.
+”Tokyo” still needs your help, after
+all...
+[END]
+452: (Stephen) [7a 14]...Well then, let me return you to
+your original era.
+[END]
+2000: 〉 With Stephen's help, [Flynn]
+returns to his own time...
+[END]
+2100: 〉 Where would you like to start the
+quest?
+[END]
+2101: From the beginning
+From the battle with Masakado
+[END]

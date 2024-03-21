@@ -1,0 +1,124 @@
+0: (Earthy man) [7a 59][13 0, 309901]This time, I've picked out a line of
+studs worthy to be my demons.
+[->][13 0, 309902]Oh, but they're not just pretty faces,
+of course. They've got the skills to
+back it up.
+[->][13 0, 309903]Let these pretty boys' looks fool you,
+and you'll get worse than bruises...
+[END]
+1: (Guard−like man) [7a 60][13 0, 309904]This time, I've picked out the most
+handsome guys to be my demons.
+[->][13 0, 309905]They've got more than good looks...
+They're top−notch guards too!
+[->][13 0, 309906]Let these pretty boys' looks fool you,
+and you'll get worse than bruises...
+[END]
+2: (Host−like man) [7a 120][13 0, 309907]Take a look at the top three hunks in
+my stable.
+[->][13 0, 309908]And they're not just pretty faces,
+oh no... They've got the skills to
+back it up.
+[->][13 0, 309909]Let these pretty boys' looks fool you,
+and you'll get worse than bruises...
+[END]
+3: (Sloppy man) [7a 63][13 0, 309910]This time, I've cherry−picked a bunch
+of studs to be my demons.
+[->][13 0, 309911]Don't let their looks fool you, either.
+They're more than just pretty faces.
+[->][13 0, 309912]Underestimate these guys and you'll
+get worse than bruises...
+[END]
+4: (Heavily made−up girl) [7a 123][13 0, 309913]So this time, I picked out a bunch of
+major hunks to fight you.
+[->][13 0, 309914]And like, they're not just total babes.
+They have rilly awesome skills too.
+[->][13 0, 309915]You'll totally be hurting like whoa
+if you let their looks fool you.
+[END]
+5: (Anachronistic man) [7a 29][13 0, 309916]This time, I hath prepared a selection
+of hale specimens worthy of being
+my champions.
+[->][13 0, 309917]Be thou not fooled by their appearance.
+I assure thee, they have skill enough
+to belie their pretty faces.
+[->][13 0, 309918]If thou art taken in by their fair
+countenance, thou shalt suffer worse
+than a bruising...
+[END]
+6: (Businesslike man) [7a 47][13 0, 309919]This time, I've picked out a line of
+high−class males worthy of fighting
+for me.
+[->][13 0, 309920]But ah, they're not merely pretty
+faces. No, these men have what it
+takes to win the day.
+[->][13 0, 309921]If you let their handsome looks lull
+you, you'll come to deeply regret it.
+[END]
+7: (Intuitive man) [7a 118][13 0, 309922]This time, I've got a real handsome
+crew for my demons.
+[->][13 0, 309923]And they're not just pretty faces,
+either. You'll see that they've got
+the skills to back it up.
+[->][13 0, 309924]Get fooled by these boys' looks, and
+they won't let you off with just a
+few bruises...
+[END]
+500: (Earthy man) [7a 59][13 0, 301224]It ain't gonna be like this next time!
+You better remember that!
+[END]
+501: (Guard−like man) [7a 60][13 0, 301225]You're not getting off this easy
+next time. Remember that!
+[END]
+502: (Host−like man) [7a 120][13 0, 301226]You'll be singing a different tune
+next time! Just remember that!
+[END]
+503: (Sloppy man) [7a 63][13 0, 301227]It ain't gonna go like this next time!
+You better remember that!
+[END]
+504: (Heavily made−up girl) [7a 123][13 0, 301228]So like, I hope you know it's not
+gonna go so crappy for me next time
+and stuff!
+[END]
+505: (Anachronistic man) [7a 29][13 0, 301229]'Twill not go so miserably for me
+our next go−round! Remember that!
+[END]
+506: (Businesslike man) [7a 47][13 0, 301230]It won't go this way next time.
+You can bank on that.
+[END]
+507: (Intuitive man) [7a 118][13 0, 301231]I don't see it going this way the
+next time! You remember that!
+[END]
+600: (Earthy man) [7a 59][13 0, 305041]Damn, you took all the Terminals.
+[->][13 0, 305042]Heh, you got me good! Man, Samurai
+are something else!
+[END]
+601: (Guard−like man) [7a 60][13 0, 305043]Well, you've taken all the Terminals
+now...
+[->][13 0, 305044]You win. I gotta say, Samurai are
+pretty impressive.
+[END]
+602: (Host−like man) [7a 120][13 0, 305045]So all the Terminals are yours now.
+[->][13 0, 305046]All right, I accept defeat. Samurai
+are pretty impressive, it seems.
+[END]
+603: (Sloppy man) [7a 63][13 0, 305047]You got all the Terminals now...
+[->][13 0, 305048]Yep, time to pack it in. Guess
+there ain't no beating a Samurai!
+[END]
+604: (Heavily made−up girl) [7a 123][13 0, 305049]Aww, is that like, all the Terminals?
+[->][13 0, 305050]So I guess I lose? Was there like,
+any way I could have beaten a Samurai?
+[END]
+605: (Anachronistic man) [7a 29][13 0, 305051]'Twould seem that thou hath captured
+all of the Terminals.
+[->][13 0, 305052]I concede defeat. Thou Samurai art
+truly impressive.
+[END]
+606: (Businesslike man) [7a 47][13 0, 305053]All the Terminals are yours now.
+[->][13 0, 305054]Very well, you win. Samurai are truly
+fearsome opponents.
+[END]
+607: (Intuitive man) [7a 118][13 0, 305055]You've taken all the Terminals now...
+[->][13 0, 305056]Alright, I admit defeat! I should've
+seen this coming against a Samurai!
+[END]

@@ -1,0 +1,539 @@
+0: (Gas masked man) [7a 48][13 0, 150001]Alright, let's try again from that
+last part...
+[->][13 0, 150002]And... go.
+[END]
+1: (Smiling boy) [7a 71][13 0, 150003]I'm going to study hard and make
+Tokyo great!
+[END]
+2: (Smiling girl) [7a 72][13 0, 150004]There are so many books and movies
+here... It's like a wonderland...
+[END]
+3: (Gas masked man) [7a 48][13 0, 150005]Good, very good. You're all so smart.
+I'll give you some candy later.
+[END]
+4: (Gas masked man) [7a 48][13 0, 150006]Huh...?
+[END]
+5: (Gas masked man) [7a 48][13 0, 150007]Oh, is the shift up already? I love
+working with these kids. The time
+just flies on by.
+[->][13 0, 150008]Here's key #3.
+[END]
+6: 〉 Obtained Card Key 3.
+[END]
+7: (Gas masked man) [7a 48][13 0, 150009]Remember to give the kids their snacks.
+Oh, and don't forget to sprinkle sugar
+on them...
+[->][13 0, 150010]See ya.
+[END]
+8: (Gas masked man) [7a 48]Remember to give the kids their snacks.
+Oh, and don't forget to sprinkle sugar
+on them...
+See ya.
+[END]
+9: 〉 The gas masked man walked away...
+[END]
+10: (Walter) [7a 4][7b 655364, 65537][13 0, 150011]Why are there children here...?
+[END]
+11: (Smiling boy) [7a 71][13 0, 150012]I'm going to study hard...
+[END]
+12: (Smiling girl) [7a 72][13 0, 150013]There are so many books and movies...
+[END]
+13: (Gas masked man) [7a 48][13 0, 150014]Errr...
+[END]
+14: 〉 The gas masked man is inserting
+something into the lying man's head.
+[END]
+15: (Jonathan) [7a 3][7b 786435, 65537][13 0, 150015]Drat the luck! A guard here too...!
+[END]
+16: (Gas masked man) [7a 48][13 0, 150016]Argh! You're not supposed to talk to
+me when I'm harvesting! Didn't you
+read the rules!?
+[->][13 0, 150017]If the syringe accidently pierces the
+brain, the seedbed we spent all this
+time raising will be gone like that!
+[END]
+17: (Gas masked man) [7a 48][13 0, 150019]......
+[->][13 0, 150020]...Hey! Who are you!?
+[END]
+18: (Gas masked man) [7a 48][13 0, 150021]You're from the Ring of Gaea, aren't
+you...!?
+[END]
+19: (Gas masked man) [7a 48][13 0, 150022]N... No way...
+[->][13 0, 150023]P−P−Please... D−D−Don't kill me...
+[END]
+20: (Gas masked man) [7a 48][13 0, 150024]I... I'll give you this!
+[END]
+21: 〉 The gas masked man handed [Flynn]
+a brown−colored bottle.
+[END]
+22: 〉 Obtained Brown Bottle.
+[END]
+23: (Gas masked man) [7a 48][13 0, 150025]H−Help me...!
+[->][13 0, 150026]Urgh...!
+[END]
+24: 〉 The gas masked man collapsed...
+[END]
+25: (Walter) [7a 4][7b 524292, 65537][13 0, 150027]He's keeled over...
+[->][7b 655364, 65537][13 0, 150028]...Hm?
+[END]
+26: 〉 Walter picked up something from the
+prone gas masked man.
+[END]
+27: (Walter) [7a 4][7b 65540, 65537][13 0, 150029]It's a card key. This one says ”4”
+on it.
+[->][13 0, 150030]We'll be taking that...
+[END]
+28: 〉 Obtained Card Key 4.
+[END]
+29: (Jonathan) [7a 3][7b 655363, 65537][13 0, 150031]What was the masked man doing to the
+man sleeping there...?
+[END]
+30: (Sleeping man) [7a 105][13 0, 150032]I'm going to study hard... I'm going...
+to study... hard...
+[END]
+31: (Isabeau) [7a 5][7b 458757, 65537][13 0, 150033]He is clearly a grown man, yet he
+sounds a trifle naive, don't you think?
+[END]
+32: (Isabeau) [7a 5][7b 131077, 65537][13 0, 150053]Hm...?
+[->][13 0, 150054]That sweet scent... Is it only my
+imagination, or is it growing more
+pungent?
+[END]
+33: (Jonathan) [7a 3][7b 131075, 65537][13 0, 150055]Come to mention it...
+[END]
+34: (Isabeau) [7a 5][7b 458757, 65537][13 0, 150057]A demon...!
+[END]
+35: (Jonathan) [7a 3][7b 131075, 65537][13 0, 150058]That sweet smell is the product of
+this demon!
+[->][13 0, 150059]Quickly, prepare yourselves for bat−−
+[END]
+36: (Walter) [7a 4][7b 393220, 65537][13 0, 150060]......
+[END]
+37: (Jonathan) [7a 3][7b 655363, 65537][13 0, 150061]Walter?
+[END]
+38: (Walter) [7a 4][7b 720900, 65537][13 0, 150062]Yeah... I'm Walter. I'm the son of a
+fisherman...
+[END]
+39: (Walter) [7a 4][13 0, 150063]But I'm scared of fish! I must go
+tell everyone...!
+[END]
+40: 〉 Walter ran off somewhere...
+[END]
+41: (Isabeau) [7a 5][7b 655365, 65537][13 0, 150064]...What...?
+[END]
+42: (Jonathan) [7a 3][7b 131075, 65537][13 0, 150065]How cowardly of you, dashing off
+without me!
+[->][13 0, 150066]Then I'll admit something as well...
+[END]
+43: (Jonathan) [7a 3][7b 589827, 65537][13 0, 150067]In all candor...
+[->][7b 720899, 65537][13 0, 150068]I am a cat! Meee−owwww! This floor
+is so deliciously warm!
+[END]
+44: 〉 Jonathan suddenly laid on the ground...
+[END]
+45: (Isabeau) [7a 5][7b 589829, 65537][13 0, 150069]Wh... What is happening? Is this the
+work of that demon...?
+[END]
+46: (Isabeau) [7a 5][7b 720901, 65537][13 0, 150070]Ugh... it's always like this! Demons
+here, demons there, demons, demons,
+demons...! It's all so...
+[END]
+47: (Isabeau) [7a 5][7b 65541, 65537][13 0, 150071]...demoning...!
+[->][13 1, 400308]......
+[END]
+48: 〉 Isabeau bowed to [Flynn] and
+ran away to somewhere...
+[END]
+49: 〉 Your consciousness is slipping away...
+[END]
+50: (Gas masked man) [7a 48][13 0, 150034]Huh? You're here already? I thought
+the next shipment wasn't due until
+a little later...
+[->][13 0, 150035]Whatever. You performed the harvest
+properly, right?
+[END]
+51: 〉 The gas masked man took the brown−
+colored bottle from [Flynn].
+[END]
+52: (Walter) [7a 4][7b 196612, 65537][13 0, 150036]What do you intend to do with that?
+[END]
+53: (Gas masked man) [7a 48][13 0, 150037]Turn it into red pills, duh. Don't
+bother me.
+[END]
+54: (Walter) [7a 4][7b 196612, 65537][13 0, 150039]Brains...?
+[->][7b 131076, 65537][13 0, 150040]Are those brains?
+[END]
+55: (Gas masked man) [7a 48][13 0, 150041]Weren't you paying attention during
+orientation?
+[END]
+56: (Gas masked man) [7a 48][13 0, 150042]We raise the people we take from the
+underground cities here, and when the
+time comes, we harvest their brains...
+[->][13 0, 150043]Specifically, their neurotransmitters.
+We suck 'em out every day at the
+scheduled time.
+[->][13 0, 150044]That's the stuff we make the food for
+the demons with. You know, those
+red pills.
+[END]
+57: (Gas masked man) [7a 48][13 0, 150045]That's what this whole human farm
+is for. Get it?
+[END]
+58: (Isabeau) [7a 5][7b 131077, 65537][13 0, 150046]That's nauseating...
+[->][13 0, 150047]I cannot believe you can be so casually
+inhumane...
+[END]
+59: (Gas masked man) [7a 48][13 0, 150048]Ugh, this is why I hate newcomers.
+[->][13 0, 150049]Get used to it and get to work.
+If we're late, Mr. Tayama will be
+on our asses.
+[->][13 0, 150050]It's getting about time to clean up the
+feces of the seedbeds. Don't slack off.
+[END]
+60: 〉 The gas masked man walked away...
+[END]
+61: (Jonathan) [7a 3][7b 131075, 65537][13 0, 150051]This, then, is what Lilith wished for
+us to see...
+[END]
+62: (Walter) [7a 4][7b 196612, 65537][13 1, 400203]......
+[END]
+63: 〉 The door will not open...
+[END]
+64: (Walter) [7a 4]Let me do it this time. Here, I'm going
+to borrow your keycard.
+[END]
+65: 〉 Walter has taken Card Key 2 from
+[Flynn].
+[END]
+66: 〉 Walter inserted Card Key 2 into the
+door's card slot...
+[END]
+67: (Walter) [7a 4]Hm? Nothing's happening. That's funny...
+[END]
+68: 〉 The elevator has been locked down.
+[END]
+69: Use Card Key 2
+Walk away
+[END]
+70: 〉 [Flynn] used Card Key 2.
+[->]〉 Nothing happened...
+[END]
+71: (Walter) [7a 4]What the hell? It didn't work with me...
+Is there some magic that chooses who
+gets to use it...?
+[END]
+72: 〉 [Flynn] used Card Key 3.
+[END]
+73: 〉 The elevator has been unlocked.
+[END]
+74: 〉 The elevator has been locked down.
+[END]
+75: 〉 The elevator has been locked down.
+[END]
+76: Use Card Key 2
+Use Card Key 3
+Use Card Key 4
+Walk away
+[END]
+77: 〉 The elevator has been unlocked.
+[END]
+78: 〉 [Flynn] holds the card keys
+up to the door, one after another...
+[END]
+79: (Walter) [7a 4]Nothing's happening...
+[->]Even you can't open it? This is one
+tough magic...
+[END]
+80: 〉 [Flynn] held Card Key 4 up to
+the door...
+[END]
+81: (Walter) [7a 4]...It seems you're way better than me
+when it comes to this kind of magic.
+[END]
+82: (Gas masked man) [7a 48][13 1, 404723]I was ecstatic to hear I was being
+transferred to Roppongi, but ugh, the
+”underground” of all places...
+[->]Well, I don't work on B51F, so at least
+I won't run into ”him.”
+[END]
+83: (Gas masked man) [7a 48][13 1, 404711]I was ecstatic to hear I was being
+transferred to Roppongi, but ugh, the
+”underground” of all places...
+[->]You've been transferred here, too?
+Sucks, huh. Just don't go near B51F.
+[END]
+84: (Gas masked man) [7a 48][13 1, 404712]I was so bummed when I found out I was
+working underground...
+[->]But now I'm thankful. With the surface
+flooded with demons and all...
+[END]
+85: 〉 [Flynn] walked away...
+[END]
+86: (Gas masked man) [7a 48][13 1, 404712]Mr. Tayama is always so strict with
+quotas...
+[->]Our breeders can only produce so
+much...
+[->]It's about time we started bringing in
+the kids from the underground cities...
+[END]
+87: (Gas masked man) [7a 48][13 1, 404721]Talks about getting new breeding
+stock from Ikebukuro fell through.
+[->]Mr. Tayama's still as strict about
+the quotas as ever, though.
+[->]The quality of the Reds will drop,
+but maybe we should use the kids
+as seedbeds...
+[END]
+88: (Gas masked man) [7a 48][13 1, 404712]I haven't heard from Mr. Tayama yet
+about next month's quotas...
+[->]Maybe I'll take it easy this month and
+not mention that he forgot to send them
+to me...
+[->]That'll be a nice little vacation for
+me.
+[END]
+89: (Man) [13 1, 403222]Talking takes energy... Just leave
+me alone...
+[END]
+90: 〉 [Flynn] walked away...
+[END]
+91: (Gas masked man) [7a 48][13 1, 404712]You guys want to get to the ”sprout
+area”? They didn't give me the key.
+[->]It's probably with someone else on
+this floor. Look for him yourself.
+[END]
+92: (Gas masked man) [7a 48][13 1, 404723]Red quality has been dropping, year
+after year. We're getting complaints
+from our demon customers.
+[->]Well, no shit, Sherlock! With Tokyo
+like this, how the hell are we supposed
+to make people experience ”fun”?
+[->]Hell, those demons are the ones who
+made everything this bad in the first
+place.
+[END]
+93: (Gas masked man) [7a 48][13 1, 404723]The regular demons returned to Shibuya?
+...I can't wait to hear more complaints
+about the Reds' quality.
+[->]What the hell do they expect? How are
+we supposed to come up with the
+emotion ”hope” in a world like this?
+[->]Hell, those demons are the ones who
+made everything this bad in the first
+place.
+[END]
+94: (Woman) [13 1, 403111]Y... You another bug...? Get lost...
+I don't want to see you...!
+[END]
+95: 〉 [Flynn] walked away...
+[END]
+96: (Gaptoothed boy) [7a 71][13 1, 404031]Mister, look! I went potty!
+[->]See? I didn't spill the bucket.
+I did good!
+[END]
+97: (Gaptoothed boy) [7a 71][13 1, 404031]Mister, listen! We studied what ”fun”
+is today!
+[->]”Fun” is how it feels when you eat
+sweets!
+[END]
+98: (Gaptoothed boy) [7a 71][13 1, 404031]Mister, listen! We learned about ”hope”
+today!
+[->]Tokyo has no ”hope.”
+[->]So our teacher said he can't teach us
+what it feels like.
+[END]
+99: (Man) [13 1, 403412]I'm pissed right now... Get outta my
+face...
+[END]
+100: 〉 [Flynn] walked away...
+[END]
+101: (Energetic boy) [7a 71][13 1, 404011]I heard Mom and Dad are in a different
+building.
+[->]They're busy taking care of my sisters
+and brothers. I have a lot of them.
+[->]I'm the oldest brother, so I can
+handle being by myself.
+[END]
+102: (Energetic boy) [7a 71][13 1, 404011]Mom and Dad are in a different
+building.
+[->]I'm getting a new sister.
+[->]I'm the oldest brother, so I can
+handle being by myself.
+[END]
+103: (Energetic boy) [7a 71][13 1, 404011]I thought Mom and Dad were in a
+different building.
+[->]But the Ashura−kai guy told me they
+left on a long trip a while back.
+[->]They went to this place called
+”Heaven.”
+[END]
+104: 〉 The man stares up vacantly, a thin
+stream of saliva dribbling from his
+mouth...
+[END]
+105: 〉 [Flynn] walked away...
+[END]
+106: (Pig−tailed girl) [7a 72][13 1, 404102]My mommy and I came to Roppongi from
+Ueno.
+[->]She told me she had ”some business”
+and left. I'm waiting for her here.
+[END]
+107: (Pig−tailed girl) [7a 72][13 1, 404102]My mommy and I came to Roppongi from
+Ueno.
+[->]She told me she had ”some business”
+and left. I'm waiting for her here.
+[->]...Mister, do you know when her
+”business” will be done...?
+[END]
+108: Talk
+Leave
+[END]
+109: (Man) [13 1, 403231]I'm five years old!
+I'm a good boy, huh?
+[->]Ahahahaha, bye−bye!
+[END]
+110: 〉 [Flynn] walked away...
+[END]
+111: (Spoiled boy) [7a 71][13 1, 404012]Hey, I'm not gonna take a nap until
+you turn on a movie!
+[->]An' if I don't take a nap, Mr. Tayama's
+gonna yell at you!
+[END]
+112: (Spoiled boy) [7a 71][13 1, 404012]Hey, I'm not gonna take a nap until
+you read me a story!
+[->]An' if I don't take a nap, Mr. Tayama's
+gonna yell at you!
+[END]
+113: (Spoiled boy) [7a 71][13 1, 404012]Hey, I'm not gonna take a nap until
+you read me a Grimoire!
+[->]An' if I don't take a nap, Mr. Tayama's
+gonna yell at you!
+[END]
+114: (Woman) [13 1, 404421]Wh−What...? There's a strange man here!
+Mr. Tayama...! Save me...!
+[END]
+115: 〉 [Flynn] walked away...
+[END]
+116: (Walter) [7a 4][7b 196612, 65537][13 0, 150018]Seedbed...?
+[END]
+117: (Pig−tailed girl) [7a 72][13 1, 404131]When I grow up, I'm going to marry
+Mr. Tayama!
+[->]Mr. Tayama said that he's okay with
+me being Number Five!
+[END]
+118: (Pig−tailed girl) [7a 72][13 1, 404131]When I grow up, I'm going to marry
+Mr. Tayama!
+[->]Mr. Tayama hasn't come to visit me
+lately. Is he busy with work...?
+[END]
+119: 〉 The woman stares upwards, drooling
+emptily...
+[END]
+120: 〉 [Flynn] walked away...
+[END]
+121: 〉 There is a sleeping man tied down to
+the bed...
+[END]
+122: 〉 A plate is attached to the bed. Will
+you read what's written there?
+[END]
+123: Yes
+No
+[END]
+124: ”Extract History: 3 Years, 10 months
+Brain condition: B (minor damage in
+frontal lobe)”
+[->]〉 ...This is written in mystic script on
+the plate.
+[END]
+125: 〉 [Flynn] walked away...
+[END]
+126: 〉 A woman is tied to the bed...
+[END]
+127: 〉 A plate is attached to the bed. Will
+you read what's written there?
+[END]
+128: Talk to her
+Walk away
+[END]
+129: 〉 There is no response. The woman is
+looking up at the ceiling as a stream
+of saliva dribbles from her mouth...
+[END]
+130: 〉 [Flynn] walked away...
+[END]
+133: (Demon) [7a 65403][13 1, 473000]Yaso Magatsuhi...
+[END]
+148: (Demon) [7a 65403][13 1, 473000]Yaso Magatsuhi...
+[END]
+153: (Gas masked man) [7a 48][13 0, 150038]Hey... You weren't slacking off,
+were you? Is this all the brains you
+got today?
+[END]
+154: 〉 The gas masked man shook the brown−
+colored bottle in his hand.
+[END]
+162: (Burroughs) [7a 2][13 0, 400051]Congratulations on completing the quest.
+[END]
+163: 〉 The elevator has been locked down.
+[END]
+169: Use Card Key 2
+Use Card Key 3
+Walk away
+[END]
+170: (Burroughs) [7a 2][13 1, 400003]I checked the lock's specs against
+your possessions and found a way
+to unlock it.
+[->]What will you do, Master [Flynn]?
+[END]
+171: 〉 [Flynn] used Card Key 2.
+[->]〉 Nothing happened...
+[END]
+172: 〉 [Flynn] used Card Key 3.
+[->]〉 Nothing happened...
+[END]
+173: 〉 There is an elevator here.
+[END]
+174: 〉 [Flynn] used Card Key 4.
+[END]
+176: Use Card Key 2
+Use Card Key 3
+Walk away
+[END]
+184: (Man) [13 1, 403213]Hey, Mister! You're here to take my
+food, huh?
+[->]Stop it! Get out of here!
+[END]
+216: (Pig−tailed girl) [7a 72][13 1, 404131]When I grow up, I'm going to marry
+Mr. Tayama!
+[->]Mr. Tayama said that age doesn't
+matter when there's love!
+[END]
+224: ”Extract History: 3 Years, 10 months
+       (at time of examination)
+Brain condition: D”
+[->]”Brain condition is evaluated at sub−
+standard levels.”
+[->]〉 ...This is written in mystic script on
+the plate.
+[END]
+229: 〉 There is no response.
+[->]〉 You see no life in her eyes...
+[END]
+900: ※10月ROM対応箇所です
+[->]ロックを外しエレベーターに
+乗れるようになります
+[->]下の階へ移動します
+[END]
+901: ※10月ROM対応箇所です
+[->]ロックを外しエレベーターに
+乗れるようになります
+[->]下の階へ移動します
+[END]
+902: ※10月ROM対応箇所です
+[->]部屋に入ると赤玉の製造装置があります
+しばらくすると何者かの気配を感じます
+[END]
+903: ヤソマガツが現れ
+主人公たちは気を失ってしまいます
+[END]

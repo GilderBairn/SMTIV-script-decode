@@ -1,0 +1,337 @@
+0: 〉 Obtained [41 882].
+[END]
+1: 〉 Obtained [41 883].
+[END]
+2: (Street vendor) [13 1, 403811]...Are you a member of the Ashura−kai?
+[END]
+3: ”That's right.”
+”No.”
+[END]
+4: (Street vendor) [13 1, 403831]Oh, thanks for coming by to look in on
+us. We're very grateful for your, um,
+services.
+[END]
+5: (Street vendor) Then can you say ”Erawan”?
+Come on, say it.
+[END]
+6: (Street vendor) ......
+[->][13 1, 403822]What you're looking for isn't here...
+[END]
+7: (Street vendor) ......
+[->][13 1, 403841]What you're looking for is deeper in...
+[END]
+8: (Accented man) [7a 137][13 1, 403631]I don't know how it is anywhere else,
+but these are the rules around here.
+[->]Your life depends on it too, y'know?
+You do see this pocket here, right...?
+[END]
+9: (Reluctant man) [7a 29][13 1, 403021]......
+[END]
+10: 〉 The reluctant man silently stuffed
+some Macca into the accented man's
+pocket.
+[END]
+11: (Accented man) [7a 137]This makes you an official Hunter, too.
+I wish you good... hm?
+[END]
+12: (Accented man) [7a 137][13 1, 403621]What're you lookin' at, punkass? Take a
+hike if you don't want your nose broken.
+[END]
+13: (Cheerful man) [7a 60][13 1, 403201]...Huh? Wow, it's rare to see a
+youngster like you here.
+[->]This is great. Won't you chat with
+me for a bit?
+[END]
+14: ”Very well.”
+”No.”
+[END]
+15: (Cheerful man) [7a 60][13 1, 403233]...Thank you.
+[END]
+16: (Cheerful man) [7a 60][13 1, 403243]I see... No, don't worry about it.
+I'm going to be here for a while.
+[END]
+17: (Cheerful man) [7a 60]...You see that wooden scaffold
+behind me?
+[END]
+18: (Cheerful man) [7a 60]Back in the day, there was a string
+of child kidnappings.
+[->]At the time, the police hid the
+truth, but the victims' families all
+knew what was happening.
+[END]
+19: (Cheerful man) [7a 60]There used to be a giant cocoon on
+top of that scaffold. ...That's where
+the children were taken.
+[->]It was supposedly an ”ark” created
+by the angels to hold those who were
+free from the Filth...
+[END]
+20: (Cheerful man) [7a 60]And, just before that huge ceiling
+over Tokyo was formed, the cocoon
+went flying off into the sky.
+[END]
+21: (Cheerful man) [7a 60]That poor child... So frail...
+[->]I wonder if he's still alive somehow,
+up there above that ceiling...
+[END]
+22: (Demon) [7a 65430][13 1, 411201]Oh, don't worry. I'm not here to fight.
+That aside...
+[->]Do you have any Reds? Or do you know
+anyone who can hook me up?
+[END]
+23: (Demon) [7a 65430][13 1, 411201]That reminds me... I wonder how things
+are going for those guys who came from
+above the Firmament.
+[->]This is Tokyo, after all. People here
+have forgotten bout God. It's like they
+came to get themselves killed.
+[END]
+24: (Demon) [7a 65430][13 1, 411201]That reminds me... seems like those guys
+from above the Firmament got rescued.
+[->]They were almost killed, what with them
+being powerless and all. I wonder who'd
+want to help them out...
+[END]
+25: (Demon) [7a 65430][13 1, 411201]That reminds me... Those guys from above
+the Firmament who were locked up in
+Shinjuku National Park...
+[->]You're the ones who rescued them, right?
+[->]Well, this might not have been what you
+bargained for, but you guys are screwed.
+[->]You're a buncha humans who stuck your
+nose in a fight between demons.
+[END]
+26: (Demon) [7a 65430][13 1, 411201]I heard the Ashura−kai got stomped. But
+then, they were basically a random mob
+once their leader died.
+[->]The master who made the contract's not
+around anymore, so the contract's null
+and void too.
+[->]Heh... We can do whatever we want now...
+[END]
+27: (Demon) [7a 65017][13 1, 412101]Eating humans is a thing of the past
+nowadays.
+[->]Today, it's good manners to eat Reds
+instead. It doesn't make a mess like
+eating humans does, either.
+[END]
+28: (Demon) [7a 65017][13 1, 412101]If I remember right, there were these
+three who got locked away...
+[->]But there were four of them in all.
+What happened to that last one...?
+[END]
+29: (Demon) [7a 65017][13 1, 412101]If I remember right, there were these
+three who got locked away...
+[->]But there were four of them in all.
+What happened to that last one...?
+[END]
+30: (Demon) [7a 65017][13 1, 412101]I've heard that the four Heralds were
+reunited in that Mikado place.
+[->]Funny that the witch of the night would
+start getting that fearless smile here
+in Tokyo around the same time...
+[->]Maybe what happened in the past is about
+to happen again. *chuckle*
+[END]
+31: (Demon) [7a 65017][13 1, 412101]I heard that God's chariot has shown up
+in that place called Mikado.
+[->]God's serious about this. He's not using
+man−made weapons this time, but His own
+messenger...
+[->]I doubt man will survive God's wrath
+a second time, heheh...
+[END]
+32: (Demon) [7a 65419][13 1, 419406]It was humans who made the Reds, but I
+heard they don't like eating them.
+[->]Why's that? They're so delicious! Humans
+just have no taste when it comes to the
+finer things.
+[END]
+33: (Demon) [7a 65419][13 1, 419401]I heard the ones in the tower at Shinjuku
+National Park are pretty infamous.
+[->]So much so that the anyone who knows
+about demons would freak out just to
+hear their names...
+[->]Though I doubt they're as infamous as
+mean, of course.
+[END]
+34: (Demon) [7a 65419][13 1, 419401]Looks like the ones who were rescued
+from Shinjuku National Park are pretty
+infamous.
+[->]So much so that the anyone who knows
+about demons would freak out just to
+hear their names...
+[->]Though I doubt they're as infamous as
+me, of course.
+[END]
+35: (Demon) [7a 65419][13 1, 419401]The demons those humans have guarding
+Camp Ichigaya seem pretty infamous.
+[->]So much so that anyone who knows about
+the mythology of that Japan place would
+grin to hear their names.
+[->]Though I doubt they're as infamous as
+me, of course.
+[END]
+36: (Demon) [7a 65419][13 1, 419401]The Demon Lord who resurrected in Camp
+Ichigaya is apparently a pretty infamous
+demon.
+[->]So much so that anyone who's not strong−
+willed enough would faint just to hear
+his name...
+[->]...I probably couldn't stand up to him
+either.
+[END]
+37: (Earthy man) [7a 64][13 1, 403841]Oh, how did you get in here?
+Well, that's all right. Just don't
+go trampling the plants.
+[->]This is the Ashura−kai's farm.
+I'm in charge of the produce grown
+here.
+[->]The plants are malnourished because
+the sun doesn't shine here... but
+they're still real, farm−grown food.
+[END]
+38: (Earthy man) [7a 64][13 1, 403841]Oh, how did you get in here?
+Well, that's all right. Just don't
+go trampling the plants.
+[->]This is the Ashura−kai's farm.
+I'm in charge of the produce grown
+here.
+[->]...But if the Ring of Gaea defeats
+the Ashura−kai, will this place
+belong to the Ring of Gaea's hands?
+[END]
+39: (Demon) [7a 65108][13 1, 414100]This is the ”holy ground” the angels
+set up? Look at all this useless crap
+all over the place.
+[->]Well, might as well smash it all.
+I'll start by devouring the humans.
+[END]
+40: (Demon) [7a 65108][13 1, 414100](Demon) [7a 65108][13 1, 414100]Humans used to rely on ”God” all the
+time, and now they say they rely on
+”hope.”
+[->]Even though their god betrayed them,
+they can't keep themselves from
+trusting things to get better.
+[->]...Very well, then. I'll take this
+feeble ”hope” from the humans.
+[END]
+41: (土に汚れた男) [7a 60][13 1, 403203](Earthy man) [7a 64][13 1, 403803]I got a message from someone named
+Skins. We won't be able to get any
+more demon meat from now on...
+[->]Also, this farm is going to be
+municipally−owned, and we'll be
+producing food for everyone here.
+[->]A person from the ”Eastern Kingdom
+of Mikado” came by earlier and gave
+us rice seed... and two pigs!
+[END]
+42: (Weary man) [7a 59][13 1, 403203]...I ended up joining the Ashura−kai.
+I mean, everyone wants to live the
+good life, right?
+[->]But even in the Ashura−kai, only the
+higher−ups get to eat the meat and
+vegetables we raise here.
+[->]I wonder how many years it'll be
+for me to reach that rank...
+[END]
+43: (Weary man) [7a 59][13 1, 403203]It looks like some guy got into the
+tower, so the higher−ups want us to
+increase security around here.
+[->]They've got to be joking. This
+is the guy who killed Xi Wangmu.
+What's a rookie like me gonna do?
+[->]I'll tell you what I'm gonna do.
+I'm gonna turn the other way and
+keep looking after the chickens...
+[END]
+44: (Weary man) [7a 59][13 1, 403241]You're the guy who went into the
+tower before, right...?
+[->]The bosses told us that you're a
+guest of Mr. Tayama, so we're not
+supposed to do anything to you.
+[->]Lucky you. If it were up to me, I'd
+wring your neck like a chicken's.
+[END]
+45: (Weary man) [7a 59][13 1, 403223]To hell with the Ring of Gaea!
+We've got Mr. Tayama on the
+Ashura−kai's side.
+[->]I'm going to stay here and get ready
+for the celebration. Time to kill
+some chickens and ready the fryer...
+[END]
+46: (Demon) [7a 65115][13 1, 411101]Yo, human. We're allowed to come
+and go as we please now. There's
+nowhere you can run to.
+[->]Now, you can either kill yourself
+before we eat you, or we can eat
+you alive. It's your choice.
+[END]
+47: (Demon) [7a 65115][13 1, 411101]Humans have such pitiful minds.
+All this crap about ”hope”...
+[->]Don't they realize that it doesn't
+change the fact that they're all
+going to be eaten by us?
+[END]
+48: (Grimy woman) [7a 66][13 1, 403312]I was sent here because my husband
+comes from a farming family.
+[->]I was happy to see him get eaten by
+a demon... but now I'm glad that I
+married that jerk.
+[->]I won't be attacked by demons out
+here, and I can eat a scrap of
+vegetables once in a while...
+[END]
+49: (Grimy woman) [7a 66][13 1, 403312]If the Ashura−kai were to go away,
+I might be free to leave this farm...
+[->]But I don't have think I could
+survive in Tokyo if they're out of
+the city, too...
+[END]
+50: (Demon) [7a 65113][13 1, 412101]Ah, young one. May I borrow your
+hand for a moment?
+[->]Hmm... Your palm has an obvious mark
+of death. It seems there is no escape
+from your fate.
+[->]Trying to resist it will only prolong
+your suffering. ...I recommend that
+you calmly surrender to us.
+[END]
+51: (Demon) [7a 65113][13 1, 412101]...Having hope means resisting us
+and prolonging one's suffering.
+[->]The humans should toss their hope
+aside and calmly give in to their
+fates by surrendering to us.
+[END]
+52: 〉 Obtained [Color:0x5][41 31][Color:0x0] x10.
+[END]
+112: (Accented man) [7a 137][13 1, 403631]...Like I said before, these are the
+rules in Tokyo.
+[->]Don't you wanna stay outta trouble in
+a strange land? You see my pocket open
+here, right...?
+[END]
+113: (Reluctant man) [7a 29][13 1, 403021]......
+[END]
+114: 〉 The reluctant man silently stuffed
+some Macca into the accented man's
+pocket.
+[END]
+115: (Accented man) [7a 137]This makes you a resident of Tokyo, too.
+Here's hoping for a long... Hm?
+[END]
+116: (Accented man) [7a 137][13 1, 403621]Oh, the champion!? M−Man, you saw that?
+[->]I−It was just a joke, y'know? These
+Mikado folks sure are simple and honest!
+[END]
+117: 〉 The accented man handed the Macca back
+to the reluctant Samurai.
+[END]
+118: 〉 No one is here...
+[END]
+1026: 〉 No one is here...
+[END]
+1031: 〉 No one is here...
+[END]
+1036: 〉 No one is here...
+[END]

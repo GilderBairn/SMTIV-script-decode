@@ -1,0 +1,44 @@
+0: (Isabeau) [7a 5][13 0, 70001]That sign says ”Ueno Station”...
+Is that correct? It's written in the
+mystic script...
+[END]
+1: (Burroughs) [7a 2][13 0, 70002]Mind if I weigh in, Master [Flynn]?
+[->][13 0, 70003]I'm detecting a Terminal in the
+underground town.
+[END]
+2: (Jonathan) [7a 3][13 0, 70004]The Unclean Ones build their towns
+below ground? Very odd...
+[END]
+3: (Voice) [7a 20][13 1, 403201]Hey... you guys over there.
+[END]
+4: (Smirking man) [7a 79]I might not look like it, but I got
+a good eye for people. And you look
+like you've had a long journey.
+[->]There's a [Color:0x5]Hunter Association[Color:0x0] in this
+underground district, so why don't
+you head there to cool your heels?
+[END]
+5: (Smirking man) [7a 79][13 1, 403231]Oh, and don't worry about paying me
+a tip. I already took it. See ya!
+[END]
+6: 〉 The smirking man ran off with
+incredible speed!
+[END]
+7: (Jonathan) [7a 3][13 1, 400103]*gasp* I'm missing 10,000 Macca.
+I never even noticed it...
+[->]It must've been that man just now.
+How shameful, that such outlaws are
+left unchecked...
+[END]
+8: (Walter) [7a 4][13 1, 400203]What's this!? It's gone! I had 100
+Macca I was saving!
+[->]It must've been that man. How dare he!
+Petty theft is one thing, but for him
+to target me is too much!
+[END]
+9: (Isabeau) [7a 5][13 1, 400306]Good heavens...! 10,000 Macca has
+been stolen from my wallet.
+[->]It must have been that man. This is
+unbelievable... Was he never
+disciplined by his parents?
+[END]

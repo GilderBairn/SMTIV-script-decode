@@ -1,0 +1,250 @@
+0: (Simple man) [7a 34][13 1, 403202]The Eastern Kingdom of Mikado is fine as
+ever. Work is going well, no changes from
+yesterday.
+[->]I thank God and our king for granting
+us such a wonderful day.
+[END]
+1: (Simple man) [7a 34][13 1, 403242]I should see to my usual routine. I must
+thank God and the king, and then...
+[->]I'll continue where I left off in my
+book. Ahhh, another sleepless night
+in store for me, I see...
+[END]
+2: (Simple man) [7a 34][13 1, 403222]*yawn* I'm so sleepy. I'm so engrossed
+in these mystery novels that I can't
+put them down...
+[->]Maybe I can go lightly on the job
+today... I'm sure God and the king
+will forgive me.
+[->]After all, it's not as if the Luxurors
+do any work either...
+[END]
+3: (Simple man) [7a 34][13 1, 403222]An odd thing: that mystery novel I was
+reading had disappeared when I returned
+home from the public execution.
+[->]Well, no sense in pining after what's
+gone. I think I'll begin a new book
+instead.
+[->]Ah yes, there was that one I got at the
+Sabbath in Cat's Cheek called ”Paradise
+Lost”...
+[END]
+4: (Simple man) [7a 34][13 1, 403202]The Eastern Kingdom of Mikado is fine as
+ever. Work is going well, no changes from
+yesterday.
+[->]I thank God and our king for granting
+us such a wonderful day.
+[->]Huh? Books...? What're you talking about?
+Even if I did have the time to read,
+I'd rather spend it working.
+[END]
+5: (Simple man) [7a 34][13 1, 403202]The Eastern Kingdom of Mikado is fine as
+ever. Work is going well, no changes from
+yesterday.
+[->]I thank God and our king for granting
+us such a wonderful day.
+[->]Huh? Books...? Oh, I threw those away.
+My role's to work, not to read.
+[END]
+6: (Simple man) [7a 34][13 1, 403202]The Eastern Kingdom of Mikado is fine as
+ever. But is that coming to an end?
+[->]When we move to the new world, who'll
+give me my usual day? My role in life?
+[->]I−I'm... not so keen on going to this
+new world...
+[END]
+7: (Reeking man) [7a 35][13 1, 403032]I haven't seen your face around here.
+Which village are you−−
+[->]Oh, yes, the Rite. Is it that time of
+year again already...?
+[END]
+8: (Reeking man) [7a 35][13 1, 403032]...Hoy, I remember you. Look what a fine
+man you've become.
+[->]Don't I recall another young lad with
+you? Where's he gone...?
+[END]
+9: (Reeking man) [7a 35][13 1, 403032]I went outside to relieve myself and
+saw that the sky over Kiccigiorgi was
+bright red...
+[->]I talked with the young lad who was with
+you on the day of the Rite.
+[->]He said he was from Kiccigiorgi. I hope
+he was all right...
+[END]
+10: (Reeking man) [7a 35][13 1, 403032]They called it a festival, so you can
+imagine my surprise to find myself at
+an execution.
+[->]According to the Monastery, there are
+demons in this kingdom? And an evildoer
+changing people into demons...?
+[->]Well, all's well that ends well, eh?
+Nothing will change for us, right...?
+[END]
+11: (Reeking man) [7a 35][13 1, 403032]Hoy, did you hear? There was no fire at
+Kiccigiorgi... it was a demon attack!
+[->]The Monastery is playing the Casualries
+for fools! They keep us ignorant for
+their own purposes!
+[->]Well, from now on, the kingdom's under
+new management. So all's well that
+ends well.
+[END]
+12: (Reeking man) [7a 35][13 1, 403032]I learned from the new leaders that
+demons are no simple fairy−stories...
+[->]Under the new leadership, the Monastery
+has brought everything to light.
+[->]Thank you for all you did on our behalf
+while we labored in darkness...
+Blessed Samurai.
+[END]
+13: (Reeking man) [7a 35][13 1, 403032]Supposedly, the Monastery was ordered
+by our new leaders to tell us everything.
+[->]Demons aren't fairy−stories at all.
+You've been fighting this whole time
+while we toiled in darkness, yes?
+[->]This may be a bit late in coming...
+but thank you, Blessed Samurai.
+[END]
+14: (Frugal woman) [7a 36][13 1, 403303]It's thanks to the Luxurors that we in
+the Eastern Kingdom of Mikado can live
+in peace.
+[->]King Ahazuya of Mikado and the monks of
+the Monastery... I pray every day in the
+castle's direction to show my thanks.
+[END]
+15: (Frugal woman) [7a 36][13 1, 403303]I don't recall who told me this... but
+supposedly, demons are indeed real.
+[->]But in any case, we have the Luxurors
+with us.
+[->]I'm sure I don't know what they would
+do for us exactly, but I'm sure it
+would keep us safe!
+[END]
+16: (Frugal woman) [7a 36][13 1, 403302]E−Erm, demons aren't truly real, are
+they? I'll grant you that everyone has
+been talking about them...
+[->]And that rare disease that turns humans
+into frightful creatures cropping up
+in the west of the kingdom...
+[->]Pray, what are the Luxurors doing about
+this? We will be safe, no...?
+[END]
+17: (Frugal woman) [7a 36][13 1, 403312]I'm dreadfully glad that the Black
+Samurai has been executed...
+[->]Praise be to the Samurai and Monastery
+who brought this about!
+[->]I knew that we could trust our Luxurors.
+They always have our interests at heart,
+bless them...!
+[END]
+18: (Frugal woman) [7a 36][13 1, 403312]I can't abide those Luxurors. To think
+that they were just using us...!
+[->]They produce nothing, and yet they
+consume the food we bring to them...
+[->]If our new leaders had not told us about
+this, we would have been their slaves
+until our dying day!
+[END]
+19: (Frugal woman) [7a 36][13 1, 403344]Our new leaders have said that the food
+we produce is rightly ours.
+[->]That alone makes life in the Eastern
+Kingdom of Mikado easier on us. Praise
+be to God and our new leaders!
+[->]May this ideal state of things last as
+long as it can...
+[END]
+20: (Frugal woman) [7a 36][13 1, 403344]The advent of our new leaders has made
+life in the Eastern Kingdom of Mikado
+much easier on us.
+[->]But this new world the Blessed Samurai
+coax us to, even if it means discarding
+all of that...
+[->]I'm anxious about departing on such a
+journey... but my faith in the Samurai
+will not waver now!
+[END]
+21: (Demon) [7a 65225][13 1, 411007]I swear, the people in this country...
+Are they nuts!? C'mon, look at me!
+I'm a frickin' demon, y'know?
+[->]But all they do when they see me is
+scream and whimper God's name. They
+don't even try to run!
+[->]And that ain't no fun at all! The
+thrill of the hunt is in the chase!
+[END]
+22: (Guiding Samurai) [7a 117][13 1, 403002]There are some who are opposed to the
+idea of moving to a new land...
+[->]But all it took was the mention of
+your name to convince them and stop
+their grumbling.
+[->]It crossed my mind at such times that
+God is a necessary evil to keep the
+people in line... 
+[END]
+23: (Patrolling Samurai) [7a 116][13 1, 403042]We considered bringing the pigs along
+with us to Tokyo...
+[->]But in the end, we had to preserve most
+of them in salt and let the people
+bring them that way.
+[->]They made the ultimate sacrifice for us.
+It reminds us how precarious our
+situation is.
+[->]We must not forget all that. We must
+stay humble in the new world...
+[END]
+102: (Simple man) [7a 34][13 1, 403222]The Monastery has forbidden us to read
+books. They say it is to prevent them
+from hindering our work.
+[->]But if they are no hindrance, then I
+must assume it's fine. I see no need
+to stop reading books.
+[->]If they mean to forbid something, they
+should look to those layabout Luxurors
+first...
+[END]
+103: (Simple man) [7a 34][13 1, 403222]Ah, dear me... This ”Paradise Lost”
+I got from the Black Samurai is too
+fascinating!
+[->]It's about a fallen angel, cast out from
+Paradise for choosing freedom over
+serving his creator.
+[->]I never considered the idea that my life
+might belong to me. No one ever suggested
+anything like it all this time...
+[END]
+108: (Reeking man) [7a 35][13 1, 403032]...Hoy, I remember you. Look what a fine
+man you've become.
+[->]Say, that young lad who was with you...
+I saw him this morning.
+[->]Bound for Lake Mikado, it looked like.
+[END]
+109: (Reeking man) [7a 35][13 1, 403032]Kiccigiorgi's in a terrible state...
+[->]The whole village and the parts around
+it are quarantined. All the folk there
+were uprooted to nearby villages...
+[->]The Monastery said there was a wildfire
+out that way, but this seems too extreme
+for that to be true.
+[END]
+116: (Frugal woman) [7a 36][13 1, 403302]That rare disease which turns people to
+demons is becoming less rare. It seems
+to have had its start in Kiccigiorgi.
+[->]I hear that's why the Monastery made
+the decision to burn the village down.
+[->]E−Erm, our home will be safe, no? I mean,
+the Luxurors are working at it, surely?
+[END]
+202: (Simple man) [7a 34][13 1, 403222]There was a message from the Monastery.
+It seems there's to be a gathering at
+the castle today.
+[->]And just as my mystery novel was
+becoming exciting...
+[->]But it'll make trouble for me if I don't
+go. I suppose I can show my face there
+and then slip out quietly.
+[END]
+209: (Reeking man) [7a 35][13 1, 403032]Looks like a festival today. Isn't that
+a bit cheeky at a time like this?
+[->]There's Kiccigiorgi folk who still
+don't have roofs over their heads...
+[END]

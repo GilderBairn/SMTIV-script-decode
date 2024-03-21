@@ -1,0 +1,36 @@
+0: (Isabeau) [7a 5][7b 655365, 65537][13 0, 29001]...Everyone, wait a moment.
+[END]
+1: (Isabeau) [7a 5][7b 65541, 65537][13 0, 400305]......
+[END]
+2: 〉 Isabeau made an attempt to go back
+the way she came.
+[END]
+3: (Isabeau) [7a 5][7b 458757, 65537][13 0, 29003]Eep!
+[END]
+4: (Jonathan) [7a 3][7b 458755, 131073][13 0, 29004]What's the matter, Isabeau?
+[END]
+5: (Burroughs) [7a 2][13 0, 29006]Careful, Master [Flynn].
+I think we've entered some demon's
+Domain.
+[END]
+6: (Jonathan) [7a 3][7b 786435, 65537][7b 65541, 65537][13 0, 29007]A Domain... I've read about them in books.
+They are a snare which demons craft to
+capture their prey...
+[->][13 0, 29008]But they say there hasn't been a demon
+powerful enough to establish a Domain
+for many centuries.
+[->][13 0, 29009]What is going on in Naraku...?
+[END]
+7: (Isabeau) [7a 5][7b 196613, 65537][13 0, 29010]It seems we cannot easily go back...
+[END]
+8: (Walter) [7a 4][7b 131076, 65537][13 0, 29011]That goddamned Navarre... This ersatz
+rescue's become a real one.
+[END]
+9: 〉 You feel an ominous, evil presence
+from further within... Will you enter?
+[END]
+10: Yes
+No
+[END]
+104: (Isabeau) [7a 5][7b 655365, 65537][13 0, 29005]The entrance... It's gone.
+[END]

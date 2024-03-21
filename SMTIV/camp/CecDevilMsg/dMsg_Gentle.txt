@@ -1,0 +1,30 @@
+0: [71 1]A journey is a wonderful thing... 
+Staying in your stock only dulls my
+skills.
+[->][END]
+1: [71 1]I helped another Samurai.
+I have learned much from it.
+[->][END]
+2: [71 1]As long as there are Samurai in need
+of help, I will travel anywhere...
+[->][END]
+3: [71 1]Hmhmhm... This power is superb...
+I shall prove even more useful
+than before.
+[->][END]
+4: [71 1]Hrm... Fusing at random does have
+its advantages, I suppose.
+[->][END]
+5: [71 1]Muhahaha... This is why I cannot get
+enough of traveling.
+[->][END]
+6: [71 1]Here is a souvenir for you. I believe
+it sums up my journey quite well.
+[->][END]
+7: [71 1]I obtained this while I was helping
+that other chap. You may have it.
+[->][END]
+8: [71 1]I come bearing a gift. It is an
+excellent choice, if I may say so
+myself.
+[->][END]

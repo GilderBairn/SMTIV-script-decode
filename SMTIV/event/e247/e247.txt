@@ -1,0 +1,23 @@
+0: (White) [7a 75][13 0, 247001]Our fifth son, who chose neutrality...
+[END]
+1: (White) [7a 219][13 0, 247002]...You still do not understand?
+[END]
+2: (White) [7a 219][13 0, 247003]Your will, which rejects our salvation,
+is the cause of your suffering...
+[END]
+3: (White) [7a 219][13 0, 247004]We will eliminate that will in
+preparation for the coming of a
+new Messiah.
+[END]
+4: (Burroughs) [7a 2]This may sound sudden, but I've cross−
+referenced data from the past,
+Master [Flynn].
+[->]You don't agree with self−actualization
+through will and power, but you also
+don't oppress those who do...
+[END]
+5: (Burroughs) [7a 2]Allow me to note that you haven't
+changed at all, Master [Flynn].
+[END]
+105: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]

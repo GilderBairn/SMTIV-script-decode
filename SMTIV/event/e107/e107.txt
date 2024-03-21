@@ -1,0 +1,49 @@
+0: (Voice) ...Hello.
+[END]
+1: (Hikaru) [7a 20]We meet again.
+[END]
+2: (Walter) [7a 4]Hikaru...? Why are you here...?
+[END]
+3: (Hikaru) [7a 20]...That's what I was gonna ask you.
+[->]I'm surprised you came to Ikebukuro
+on your own. I mean, It's not like
+she told you to.
+[END]
+4: (Hikaru) [7a 20]Ikebukuro is a bad place for people
+who live in Tokyo. It's crawling with
+foreign demons!
+[->]But it's funny...
+[END]
+5: (Hikaru) [7a 20]It was the reign of demons, who devour
+humans, which protected books from
+that man.
+[END]
+6: (Isabeau) [7a 5]Are you implying that there are books
+here...?
+[END]
+7: (Isabeau) [7a 5]Then I might finally read the rest of
+that manga...! Oh, ah... pardon me.
+[->]The Black Samurai who smuggled books
+into our kingdom may be supplying
+them here as well.
+[END]
+8: (Walter) [7a 4]You traveled all this way only to
+tell us that much?
+[END]
+9: (Hikaru) [7a 20]That's right!
+[->]I said I was interested in you guys,
+didn't I?
+[END]
+10: (Hikaru) [7a 20]Okay, I'll be going now. I hope we
+meet again!
+[END]
+11: 〉 Hikaru walked away...
+[END]
+12: (Walter) [7a 4]Hmph...
+[END]
+107: (Burroughs) [7a 2]That sounds like my cue, Master.
+[->]The quest to ”Capture the Black
+Samurai”...
+[->]Looks like it's going well.
+I'll keep rooting for you.
+[END]

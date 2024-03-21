@@ -1,0 +1,49 @@
+0: 〉 There is a pile of stones in front
+of you.
+[END]
+1: 〉 A man appears from the back of the
+pile...
+[END]
+2: (Man in tears) [7a 137][13 0, 165001]D−Don't hurt me, man... I surrender...
+I−I'll even lick your boo−−huh?
+[END]
+3: [13 0, 165002](Man in tears) [7a 137]Oh... Don't scare me like that.
+I thought that kid was back...
+[END]
+4: (Jonathan) [7a 3][13 0, 165003]What happened?
+[END]
+5: (Man in tears) [7a 137][13 0, 165004]Some kid came outta nowhere and then
+told me to get out of his way.
+[->][13 0, 165005]And I thought, hell no, I wasn't gonna
+let his punk ass through. S−So I went
+after him...
+[END]
+6: (Man in tears) [7a 137][13 0, 165006]But he killed all my demons! He went
+straight in without even looking at me.
+[->][13 0, 165007]He wa−He was about you guys' age... But from
+the look in his eyes, he was anything
+but a law−abiding citizen.
+[END]
+7: (Man in tears) [7a 137][13 0, 165008]Sorry, Mr. Tayama, but I'm done.
+See ya...
+[END]
+8: 〉 The man in tears walked away...
+[END]
+9: 〉 An unfriendly man is standing here...
+[END]
+10: (Unfriendly man) [7a 46][13 1, 403013]Y−You're...!
+[END]
+11: (Jonathan) [7a 3][13 1, 400103]Those wounds are dreadful... Who did
+this to you?
+[END]
+12: (Unfriendly man) [7a 46][13 1, 151050]D... Don't give me that. It was
+YOUR buddy, dipshit...
+[END]
+13: (Unfriendly man) [7a 46]Y... Yamato's... done for... Even
+Mr. Tayama... can't stop him...
+[->]Yamato... Our... Perpetual...
+Reactor...
+[END]
+14: 〉 The unfriendly man collapsed, his eyes
+still open...
+[END]

@@ -1,0 +1,63 @@
+0: [71 1]ME NEW SKILL! ME HUNT MORE!
+[->][END]
+1: [71 1]GRRRR...! MORE SKILL, MORE KILL,
+MORE BLOOD SPILL...
+[->][END]
+2: [71 1]ME MORE WILD WITH NEW SKILL!
+[->][END]
+3: [71 1]ME STRONGEST! ME BITE WHOLE WORLD!
+[->][END]
+4: [71 1]ME SKILL FULL! YOU THROW ONE AWAY!
+[->][END]
+5: [71 1][Color:0x5][Skill 1][Color:0x0] BECOME
+[Color:0x5][Skill 2].[Color:0x0] HOW THAT?
+[->][END]
+6: [71 1][Color:0x5][Skill 1]...[Color:0x0]
+ME CHANGE TO BETTER SKILL...
+[->][END]
+7: [71 1]AWOOOOOOOOOO!
+[->][END]
+8: [71 1]ME TOLD TO WAIT...
+[->][END]
+9: [71 1][Color:0x5][Skill 1]![Color:0x0]
+THIS LOOK TASTY!
+[->][END]
+10: [71 1]OOH...! SOUL BURNING...!
+ME FINALLY TRANSFORM!
+[->][END]
+11: [71 1]A... A... AWOOOOOOOOO!
+[->][END]
+12: [71 1]ME TOLD TO WAIT...
+[->][END]
+13: [71 1]ME NOW WILD!
+[->][END]
+14: [71 1]ME SOUL SHAKING...
+[Color:0x5]TRANSFORM[Color:0x0] NEAR...
+[->][END]
+15: [71 1][Color:0x5][Item 1]![Color:0x0] EAT!
+[->][END]
+16: [71 1][Color:0x5][Item 1]![Color:0x0] IT TASTY!
+[->][END]
+17: [71 1][Color:0x5][Item 1]![Color:0x0] IT SMELL!
+[->][END]
+18: [71 1]ME DEMON WHISPER...
+CHANGE YOUR EXISTENCE...
+[->][END]
+19: [71 1]YOU FULL OF DEMON WHISPER?
+[->][END]
+20: [71 1]ME [Color:0x5][Demon race 1] [Demon name 1]![Color:0x0]
+NICE MEET YOU!
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

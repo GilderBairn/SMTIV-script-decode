@@ -1,0 +1,8 @@
+0: Pardon my abruptness, but I have issued a quest
+to you and Walter. I hope you'll pardon my doing so
+in a quest outline, but I'd like to apologize for
+my earlier rudeness to you. I wish to hone my own
+skills alongside you. There were [Color:0x5]three Challenge
+Quests[Color:0x0] posted to the [Color:0x5]blackboard[Color:0x0] earlier; [Color:0x5]complete
+them all and return to K's Tavern.[Color:0x0]
+[END]

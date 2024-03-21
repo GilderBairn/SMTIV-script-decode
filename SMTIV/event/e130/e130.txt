@@ -1,0 +1,185 @@
+0: 〉 A man whom you guess to have a heavy
+accent is standing here...
+[END]
+1: (Accented manager) [7a 111][13 0, 130001]Mr. Tayama told me about you guys.
+You're [Flynn], right?
+[END]
+2: (Jonathan) [7a 3][7b 131075, 65537][7b 655365, 131073][13 0, 130002]Is our fellow Samurai safe?
+[END]
+3: (Accented manager) [7a 111][13 0, 130003]Your fellow...? Oh, the hostage?
+Sure he's safe.
+[END]
+4: (Isabeau) [7a 5][7b 131077, 65537][13 0, 130004]What would you have us do?
+[END]
+5: (Accented manager) [7a 111][13 0, 130005]There's this demon inside Club Milton,
+Koga Saburo... Go beat 'im.
+[END]
+6: 〉 There is a demon standing in front of
+the entrance to Club Milton.
+[END]
+7: (Accented manager) [7a 111][13 0, 130006]I heard from your Samurai pal that you
+guys are the rookies of the year, huh?
+[END]
+8: (Walter) [7a 4][7b 196612, 65537][7b 655365, 131073][13 0, 130007]And why would you have us do this?
+[END]
+9: (Accented manager) [7a 111][13 0, 130008]You think we're tellin' you? Just
+kill the bastard.
+[END]
+10: (Jonathan) [7a 3][7b 131075, 65537][13 0, 130009]Those accursed vermin...
+[->][7b 458755, 131073][13 0, 130010]But no, anger won't solve this. We're
+fortunate it's a demon they want slain.
+Let us strike down this Koga Saburo.
+[END]
+11: 〉 The demon turned into a huge slab
+of stone...
+[END]
+12: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[END]
+13: 〉 The accented manager quickly approached
+the Samurai.
+[END]
+14: (Accented manager) [7a 111][13 0, 130017]Hahahah! You're crazy!
+[->][13 0, 130018]Heh, now we can sell Reds here!
+Cha−ching!
+[->][13 0, 130019]Oh, damn, almost forgot.
+[END]
+15: 〉 The accented manager hastily recovered
+something from the stone pile.
+[END]
+16: (Jonathan) [7a 3][7b 131075, 65537][7b 655365, 131073][13 0, 130020]Now, if you please... take us to
+our fellow.
+[END]
+17: (Accented manager) [7a 111][13 0, 130021]Hold on there. I just gotta report
+this in to Roppongi.
+[END]
+18: 〉 The accented manager started to operate
+something in his hand as he walked away
+from the Samurai.
+[END]
+19: (Isabeau) [7a 5][7b 65541, 196609][7b 786435, 131073][13 0, 130022]Where is he going? Why can he not
+simply have his conversation here?
+[END]
+20: 〉 The accented manager jogged back to
+the Samurai...
+[END]
+21: (Accented manager) [7a 111][13 0, 130023]Lucky you. Mr. Tayama's agreed to
+meet ya at the Hills building in
+Roppongi.
+[END]
+22: (Walter) [7a 4][7b 196612, 65537][13 0, 130024]The ”Hills,” you say? And that's
+where our fellow is...?
+[END]
+23: (Accented manager) [7a 111][13 0, 130025]You betcha... Alive, though? That
+I don't know about.
+[END]
+24: 〉 Jonathan suddenly grabbed the manager
+by the collar.
+[END]
+25: (Accented manager) [7a 111][13 0, 130026]Wh−What the hell, man...? I was just
+screwin' with ya. Don't get all bent
+outta shape, okay?
+[END]
+26: (Jonathan) [7a 3][7b 131075, 65537][13 0, 130027]If not for your hostage, I would have
+cut you down where you stood...!
+[END]
+27: (Accented manager) [7a 111][13 0, 130028]I−If you're that worried, why don't
+ya go see him already, huh?
+[END]
+28: (Walter) [7a 4][7b 262148, 65537][7b 524293, 131073][13 0, 130029]*whistle* Jonathan's in rare form.
+[END]
+29: (Jonathan) [7a 3][7b 458755, 131073][7b 655365, 131073][13 0, 130030]The Hills building in Roppongi,
+was it? Let us be on our way...
+[END]
+30: 〉 What will you do?
+[END]
+31: Challenge Koga Saburo
+Walk away
+[END]
+32: 〉 [Flynn] and his fellow Samurai
+walked up to Koga Saburo.
+[END]
+33: (Koga Saburo) [7a 65148][13 0, 130011]Who are you...?
+[END]
+34: (Jonathan) [7a 3][7b 131075, 65537][13 0, 130012]Koga Saburo... I am afraid that
+circumstances have led us inexorably
+here to claim your head!
+[END]
+35: (Walter) [7a 4][7b 327684, 65537][13 0, 130013]There are no hard feelings, I assure
+you...
+[END]
+36: (Koga Saburo) [7a 65148][13 0, 130014]Tayama's dogs, eh?
+[END]
+37: (Koga Saburo) [7a 65148][13 0, 130015]If you insist on opposing me, I won't
+make it easy for you.
+[END]
+38: 〉 Koga Saburo is standing in front of
+the entrance to Club Milton.
+[->]〉 What will you do?
+[END]
+39: 〉 A huge pile of stone that was once
+Koga Saburo is here.
+[END]
+40: (Accented manager) [7a 111][13 1, 405422]H−Hey, Samurai. Still here in Shibuya,
+huh...?
+[->]You oughtta go to Roppongi. Don't
+wanna keep your boy waitin'.
+[END]
+41: (Accented manager) [7a 155][13 1, 405423]Hey, Samurai. What, you're back here
+in Shibuya?
+[->]Thanks to you, red pill business
+is boomin'! We got a full house.
+Can't thank ya enough.
+[END]
+42: (Accented manager) [7a 155]...But ya still can't come in.
+[->]I mean, ya beat Koga Saburo. Imagine
+what'd happen if you hung around the
+dance floor...
+[->]Every jumped−up demon would be on
+your ass inside two seconds.
+[END]
+43: (Accented manager) [7a 155]And that'd make the other customers
+nervous, see.
+[END]
+44: (Accented manager) [7a 155]......
+[END]
+45: 〉 The accented manager is operating some
+sort of hand−held device...
+[END]
+46: (Accented manager) [7a 155]...Hm?
+[END]
+47: (Accented manager) [7a 155][13 1, 405422]Hey, Samurai. What brings ya here
+to Shibuya?
+[END]
+48: (Accented manager) [7a 155]We suddenly got a surge of demon
+customers. It's been busy as hell.
+[->]We're runnin' low on Reds, and the
+extra shipment ain't arrived yet, so
+I been trying to reach Mr. Tayama...
+[END]
+49: (Accented manager) [7a 155]Which is all to say, I'm too busy
+to talk right now.
+[END]
+50: (Accented manager) [7a 155][13 1, 405422]Yo, Samurai. Visitin' Shibuya again,
+are ya?
+[END]
+51: (Accented manager) [7a 155]That reminds me. Heard Koga Saburo
+got beat again.
+[->]Well, it's a good thing he died out
+in Ichigaya.
+[END]
+52: (Accented manager) [7a 155]If he turned into a rock here, it'd
+get in the way of our customers.
+[END]
+53: 〉 Humans and demons are enjoying music
+and Reds together...
+[END]
+101: (Burroughs) [7a 2][13 0, 400051]Congratulations on completing the quest.
+[END]
+109: (Burroughs) [7a 2][13 0, 400050]I'll register that as a new quest
+on the list.
+[END]
+129: (Burroughs) [7a 2][13 0, 400050]I'll register that as a new quest
+on the list.
+[END]
+130: (Koga Saburo) [7a 65148][13 0, 130011]Who are you...?
+[END]

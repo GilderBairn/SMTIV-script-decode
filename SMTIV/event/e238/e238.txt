@@ -1,0 +1,19 @@
+0: (The White) [7a 78][13 0, 238001]Our fifth son, who chose upheaval...
+[END]
+1: (The White) [7a 217][13 0, 238002]If you will not willingly choose
+nothingness, then I will unmake you.
+[END]
+2: (The White) [7a 217]…ならば お[前/まえ]たちを
+[新/あら]たな[居場所/いばしょ]に[誘/いざな]ってやる…
+[->]『あの[世/よ]』と[言/い]う[名/な]の[居場所/いばしょ]へなぁ…ッ
+[END]
+3: (Walter) [7a 4]We'll be destroyed by God? Pure drivel.
+[END]
+4: (Walter) [7a 4]If God wishes our destruction, let him
+come and we shall see who is destroyed.
+That is our way.
+[->]Their bleating is nothing but the
+excuses of the powerless.
+[END]
+104: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]

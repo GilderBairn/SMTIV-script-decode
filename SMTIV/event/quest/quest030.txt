@@ -1,0 +1,15 @@
+0: [Color:0x5]Pluto Castle[Color:0x0] is [Color:0x5]southeast from Shinjuku, near
+Kasumigaseki.[Color:0x0] [Color:0x5]You need to overthrow Pluto the
+Tormentor[Color:0x0] there. I used to be pretty hot at
+handling demons, but I don't have the strength
+to fight Pluto. I've got to trust in you
+Messiahs from another world.
+[END]
+1: Dummy
+[END]
+2: Burroughs' note:
+ 
+We've beaten Pluto the Tormentor, so let's go
+claim our prize. Master [Color:0x5]Akira[Color:0x0] in Shinjuku has
+it, right?
+[END]

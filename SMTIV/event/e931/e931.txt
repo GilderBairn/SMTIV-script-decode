@@ -1,0 +1,93 @@
+0: 〉 A Hunter appears...
+[END]
+1: (Furious Hunter) [7a 69][13 0, 302401]Are you the ones that killed all the
+Corpses?
+[END]
+2: (Burroughs) [7a 0][13 0, 302402]Could he be a reinforcement Hunter?
+He's a little late for that.
+[END]
+3: (Furious Hunter) [7a 69][13 0, 302403]That was uncalled for, you twerps!
+[END]
+4: (Burroughs) [7a 0][13 0, 302404]Oh dear... I think you'd better be
+careful around this one.
+[END]
+5: (Furious Hunter) [7a 69][13 0, 302405]With things this messed up, I'm better
+off becoming a demon...
+[->][13 0, 302406]That's why I handed out Reds to
+everyone!
+[->][13 0, 302407]We got no hope, trapped here in
+Tokyo...
+[END]
+6: (Furious Hunter) [7a 69][13 0, 302408]Damn that Tayama... him and his
+Ashura−kai. He's betrayed us all!
+[->][13 0, 302409]He babbles about some law to coexist
+with demons and locks us up in those
+underground districts...!
+[END]
+7: (Furious Hunter) [7a 69][13 0, 302410]I won't let him make everyone in Tokyo
+into cowards, blind to the truth!
+[->][13 0, 302411]I'm going to release them all from
+Tayama's slavery...!
+[END]
+8: 〉 The Furious Hunter takes out a Red
+from his pocket.
+[END]
+9: (Furious Hunter) [7a 69][13 0, 302412]And I'll kill anyone who gets in my
+way! I'll show you how a real Hunter
+handles things...!
+[END]
+10: 〉 The Furious Hunter swallows the
+Red Pill.
+[END]
+11: (Dullahan) [7a 0][13 0, 302413]Ahahaha, how d'ya like me now?
+I'm not human anymore.
+[->][13 0, 302414]Ahhh, this rush of demonic power...
+I've left all those fears and
+anxieties behind...!
+[END]
+12: (Voice) [7a 3][13 0, 302415]...Go no further.
+[END]
+13: (Jonathan) [7a 3][13 0, 302416]We've seen everything. Please allow
+us to aid you.
+[END]
+14: (Isabeau) [7a 5][13 0, 302417]I cannot believe he elected to become
+a demon of his own free will...
+[END]
+15: (Walter) [7a 4][13 0, 302418]Regardless, it hardly absolves him
+from turning others into demons.
+[END]
+16: (Dullahan) [7a 0][13 0, 302419]No matter how many of you come at me,
+it'll turn out the same. You can't
+beat a human turned demon!
+[END]
+17: (Dullahan) [7a 0][13 0, 302420]That's right, Tayama...! You know
+your precious Tokyo?
+[->][13 0, 302421]I'm going to smash it all up!
+[END]
+18: 〉 The demon slowly gets up...
+[->]〉 She stares at you from death's door.
+[END]
+19: 〉 Finish off the demon?
+[END]
+20: Finish her off
+Don't finish her off
+[END]
+21: (Dullahan) [13 0, 302422]A−Aaah...
+[END]
+22: 〉 [Flynn] kills the demon.
+[END]
+23: (Dullahan) [13 0, 302423]A−Aaah...
+[END]
+24: 〉 The demon totteringly runs away...
+[END]
+1000: 〉 Nothing is happening right now.
+[END]
+1001: 〉 What will you do?
+[END]
+1002: The 1st Observation Platform
+Exit
+[END]
+1003: 〉 No one is here...
+[END]
+1004: 〉 There is nothing here anymore.
+[END]

@@ -1,0 +1,60 @@
+0: (Isabeau) [7a 5]This is a dummy, you know?
+[END]
+1: (Walter) [7a 4]I said, THIS IS A DUMMY!
+[END]
+2: (Burroughs) [7a 2][13 0, 69004]Master [Flynn], I have an incoming
+communication from Abbot Hugo.
+[END]
+3: (Hugo) [7a 10][13 0, 69005]Hello, everyone. This is Hugo speaking.
+[END]
+4: (Hugo) [7a 10][13 0, 69006]It seems you've safely reached the
+Unclean Ones' country... [Color:0x5]Tokyo.[Color:0x0]
+[END]
+5: (Jonathan) [7a 3][13 0, 69007]Tokyo?
+[END]
+6: (Hugo) [7a 10][13 0, 69008]Precisely. That is the name the
+Unclean Ones have given their land.
+[->][13 0, 69009]We at the Monastery have some fruits
+of our research to share with you.
+[END]
+7: (Burroughs) [7a 2][13 0, 69010]I've received map images of Tokyo
+from the Monastery.
+[END]
+8: (Hugo) [7a 10][13 0, 69011]You may refer to them in order to
+accomplish your mission. I have great
+expectations of you.
+[->][13 0, 69012]But you must know that there will be
+no special treatment until you have
+produced results.
+[END]
+9: [13 0, 69013](Burroughs) [7a 2]...Hm? Looks like the communication
+got cut off.
+[END]
+10: (Walter) [7a 4][13 0, 69014]The devil take that Abbot...! Why must
+he spoil the mood so unfailingly?
+[END]
+11: (Jonathan) [7a 3][13 0, 69015]Well then, what do you suggest we
+do now?
+[->][13 0, 69016]Tokyo is vast. I doubt we'll turn up
+the Black Samurai by wandering
+aimlessly about.
+[END]
+12: (Isabeau) [7a 5][13 0, 69018]Our first order of business must be
+to learn what sort of place Tokyo is.
+[->][13 0, 69019]But we shouldn't go in blindly.
+We'll want an objective of some kind.
+[END]
+13: (Walter) [7a 4][13 0, 69020]...Well, how about this quest?
+[END]
+14: (Isabeau) [7a 5][13 0, 69021]Hmm... What could this ”Counter−Demon
+Force” be...?
+[END]
+15: (Jonathan) [7a 3][13 0, 69022]Finding the answer to that question
+will be part of our duty as Samurai.
+[END]
+112: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+900: ここで通信演出が行われ
+下画面にマップが表示されるようになります
+[END]

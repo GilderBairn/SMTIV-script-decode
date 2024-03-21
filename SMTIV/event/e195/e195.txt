@@ -1,0 +1,61 @@
+0: 〉 [Flynn] and his fellow Samurai
+were locked inside a room...
+[END]
+1: (Walter) [7a 4][7b 655364, 65537][13 0, 195001]Hmph. No sooner do we meet someone
+who can give us answers than we're
+locked up.
+[END]
+2: (Jonathan) [7a 3][13 0, 195002]It was clear by their faces that they
+recognized our Gauntlets...
+[END]
+3: (Simplehearted voice) [7a 1][13 0, 195003]...You alive? You're alive, right?
+Hee hee hee...
+[->][13 0, 195004]Okay, tell me: Where did you get those
+Demonicas?
+[END]
+4: (Walter) [7a 4][13 0, 195005]”Demonicas”...? Do you mean the
+Counter−Demon Force's...?
+[END]
+5: (Simplehearted voice) [7a 1][13 0, 195006]Oh sorry. Would it be easier to
+understand if I said ”Demon Summoning
+Program”?
+[->][13 0, 195007]We scoured all of Tokyo for them.
+I didn't think there were any left!
+[END]
+6: (Jonathan) [7a 3][7b 655364, 65537][13 0, 195008]So this IS Tokyo...
+[END]
+7: (Simplehearted voice) [7a 1][13 0, 195009]Hey, show me your Demon Summoning
+Program and I'll let you out, OK?
+[END]
+8: Show him
+Don't show him
+[END]
+9: (Simplehearted voice) [7a 1][13 0, 195010]Yay!
+[END]
+10: (Simplehearted voice) [7a 1][13 0, 195011]Come on! Don't be so stingy.
+[->][13 0, 195012]I'll come in to see it, then.
+[END]
+11: (Armed man) [7a 99][13 0, 195013]Kiyoharu, it's dangerous to get too
+close.
+[END]
+12: (Kiyoharu) [7a 83][13 0, 195014]...It IS! It's really a Demon
+Summoning Program!
+[END]
+13: (Armed man) [7a 99][13 0, 195016]Kiyoharu? What should we do with
+them...?
+[END]
+14: (Kiyoharu) [7a 83][13 0, 195017]Why, they're my dear guests! You need
+to let them go, of course.
+[END]
+15: (Kiyoharu) [7a 83][13 0, 195018]Ooooh, I haven't been this excited
+since I first saw the angels!
+[->][13 0, 195019]I should tell Akira!
+[END]
+16: 〉 Kiyoharu walked away.
+[END]
+17: (Armed man) [7a 99][13 0, 195020]Ummm... Well, you're free to walk
+around.
+[END]
+112: (Kiyoharu) [7a 83][13 0, 195015]Ahahahaaaha! Finally, our prayers have
+been answered! Hee hee!
+[END]

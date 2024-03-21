@@ -1,0 +1,13 @@
+0: (Ixtab) [13 0, 305201]This is the gate of salvation. There
+are two ways to pass through...
+[->][13 0, 305202]You can leave it in my hands and feel
+like you've ascended to heaven...
+[->][13 0, 305203]Or you can resist me, and your death
+will be the agony of hell.
+[->][13 0, 305204]Which do you choose?
+[END]
+1: (Ixtab) [13 0, 305200]Come, prisoners of my paradise of
+happiness.
+[END]
+2: 〉 Ixtab released a horde of demons!
+[END]

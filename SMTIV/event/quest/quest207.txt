@@ -1,0 +1,16 @@
+0: I want to make Overlord Astaroth regain his
+former form as Ishtar, goddess of fertility.
+If she comes to this world, the barren wastes
+of Tokyo will be restored to a rich, fertile
+land. But in order to do so, we must first slay
+two of the ancient gods. I will be waiting
+[Color:0x5]atop the tower[Color:0x0] in [Color:0x5]Shinjuku National Park.[Color:0x0]
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

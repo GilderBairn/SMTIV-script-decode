@@ -1,0 +1,88 @@
+0: ”This station is now under the Counter−
+Demon Force's supervision. The general
+public is not authorized to enter.”
+[->]〉 ...So the mystic script says.
+[END]
+1: 〉 The door is locked...
+[END]
+2: (Burroughs) [7a 2][13 1, 400003]I checked the lock's specs against
+your possessions and found a way
+to unlock it.
+[->]What will you do, Master [Flynn]?
+[END]
+3: Use ID Card Lv1
+Leave
+[END]
+4: 〉 [Flynn] used the [Color:0x5]ID Card Lv1.[Color:0x0]
+[END]
+5: Use ID Card Lv2
+Leave
+[END]
+6: 〉 [Flynn] used the [Color:0x5]ID Card Lv2.[Color:0x0]
+[END]
+7: Use ID Card Lv3
+Leave
+[END]
+8: 〉 [Flynn] used the [Color:0x5]ID Card Lv3.[Color:0x0]
+[END]
+9: 〉 The elevator is locked down.
+[END]
+10: 〉 [Flynn] tried to open the door...
+[END]
+11: 〉 The door opened with ease...
+[END]
+12: 〉 The door could not be opened...
+[->]〉 It seems [Flynn] [Color:0x5]lacks the strength[Color:0x0]
+to open it...
+[->]〉 [Flynn] stepped away from
+the door...
+[END]
+13: 〉 The door could not be opened...
+[->]〉 It seems [Flynn] [Color:0x5]lacks the magic[Color:0x0]
+to open it...
+[->]〉 [Flynn] stepped away from the door...
+[END]
+14: 〉 The door could not be opened...
+[->]〉 It seems [Flynn] [Color:0x5]lacks the luck[Color:0x0]
+to open it...
+[->]〉 [Flynn] stepped away from the door...
+[END]
+17: (Greedy Hunter) [13 1, 403013]Whaddaya want!? Don't come over here!
+[->]The treasure around here's all mine.
+[->]I'm gonna grab every last one!
+[END]
+18: (Hunter man) There were rumors about an underground
+facility once. Whether they're really
+just rumors or something more, well...
+[END]
+19: (Friendly Hunter) [13 1, 403002]Hey there. You're a Hunter, right?
+[->]I'm glad to see you here, because I'm
+in the market for some food.
+[->][13 1, 403042]Let's see... Do you have any
+[Color:0x5][Item 1]?[Color:0x0]
+[->]I'd buy [Color:0x5][Item 1][Color:0x0] for triple
+the market price right now.
+[END]
+20: 〉 Hand over your [Color:0x5][Item 1]?[Color:0x0]
+[END]
+21: Yes
+No
+[END]
+22: (Friendly Hunter) [13 1, 403041]I can't thank you enough. Here's the
+[Color:0x5][Amount 1] Macca[Color:0x0] I owe you.
+[END]
+23: (Friendly Hunter) [13 1, 403033]I hope you'll be around to help me out
+again in a bit.
+[END]
+24: (Friendly Hunter) [13 1, 403042]Oh. Well, that's okay. If you ever
+change your mind, you know where
+to find me.
+[END]
+25: (Friendly Hunter) [13 1, 403042]Hm? You don't have any [Item 1].
+[->]Oops. Sorry if that was an unreasonable
+request.
+[END]
+26: (Friendly Hunter) [7a 29][13 1, 403001]I've got plenty of food right now. But
+if you come back another time, maybe
+we can do business then.
+[END]

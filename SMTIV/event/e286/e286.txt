@@ -1,0 +1,60 @@
+0: (Man's voice) [7a 2][13 0, 286001]Wait wait wait wait wait wait! Don't
+move another inch!
+[END]
+1: 〉 A man suddenly rushes towards you and
+blocks your passage.
+[END]
+2: (Intuitive man) [7a 118][13 0, 286002]Folks call me the Terminal Guardian.
+I'm a genuine veteran who's been on
+the job for over twenty years.
+[->][13 0, 286003]This is a strange place I've found
+myself in... but I can sense that
+there's a Terminal behind me!
+[END]
+3: (Intuitive man) [7a 118][13 0, 286004]Wait... you're that Terminal−raiding
+brat, aren't you?
+[->][13 0, 286005]If you're here... then there must be
+a Terminal not far off!
+[END]
+4: (Intuitive man) [7a 118][13 0, 286006]I'm just in time, I see!
+[->][13 0, 286007]My finely−honed intuition told me that
+you were approaching a Terminal...
+[END]
+5: (Intuitive man) [7a 118][13 0, 286008]Sorry, kid, but you're not getting
+past here.
+[->][13 0, 286009]I got a family to feed, but you keep
+breaking into the Terminals all over
+Tokyo...
+[->][13 0, 286010]I was looking for work when my
+intuition kicked in again, telling
+me there's a Terminal here!
+[END]
+6: (Intuitive man) [7a 118][13 0, 286011]Hey, we meet again, kid. Guess my
+keenly−trained intuition's still
+got it.
+[->][13 0, 286012]I'm not sure how it works, but this
+is a Terminal too, right?
+[->][13 0, 286013]Beat me all you want, but I'm still
+the guardian of the Terminals. And
+that means I can't let you in!
+[END]
+7: (Intuitive man) [7a 118][13 0, 286014]Sorry, but you won't be escaping
+this Domain.
+[->][13 0, 286015]If you want to use this place, then
+you gotta get by me. And I won't make
+it easy on you!
+[END]
+8: 〉 The Domain lifted...
+[END]
+9: (Burroughs) [7a 2][13 1, 400063]Looks like the quest is going well.
+[END]
+10: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+11: (Burroughs) [7a 2][13 0, 74005]This seems to be a type of Terminal
+too. The activation program ran
+normally, anyway.
+[->][13 1, 405719]This is the Lucifer Palace Terminal.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]

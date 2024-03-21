@@ -1,0 +1,77 @@
+0: (Jonathan) [7a 3][7b 65539, 131073][13 0, 191001]...Hm?
+[->][7b 65539, 65537][13 0, 191002][Flynn], you're awake. Thank heaven...
+[END]
+1: (Walter) [7a 4][13 0, 191003]Hoy, don't change the subject,
+Jonathan.
+[END]
+2: (Jonathan) [7a 3][7b 786435, 65537][13 0, 191004]My apologies, but you came to as we
+were having a conversation...
+[END]
+3: (Walter) [7a 4][7b 65540, 65537][13 0, 191005]...Oh, hello.
+[->][13 0, 191006]You've come around. That's good...
+[END]
+4: (Jonathan) [7a 3][13 0, 191007]Walter, I wasn't finished...
+[END]
+5: (Walter) [7a 4][7b 655364, 65537][13 0, 191008]Sorry, but you caught us in the middle
+of a discussion.
+[END]
+6: (Walter) [7a 4][7b 655364, 65537][13 0, 191009]So Jonathan, Burroughs said that this
+is the Counter−Demon Force base, yes?
+[->][13 0, 191010]Why the devil are we here?
+[END]
+7: (Jonathan) [7a 3][7b 131075, 65537][13 0, 191011]Why would I know that? I simply found
+myself here upon awakening.
+[END]
+8: (Jonathan) [7a 3][7b 131075, 65537][13 0, 191012]This is all because you opened the gate
+to the Expanse, you know.
+[->][13 0, 191013][Flynn] and I tried to stop you,
+but...!
+[END]
+9: (Walter) [7a 4][7b 655364, 65537][7b 131075, 65537][13 0, 191014]Hold a moment. What was that you
+said...?
+[->][7b 196612, 65537][13 0, 191015][Flynn] was at my side when we
+activated Yamato together...
+[END]
+10: (Jonathan) [7a 3][7b 458755, 131073][13 0, 191016]But that can't be. [Flynn] was
+with me!
+[END]
+11: (Walter) [7a 4][7b 458756, 131073][13 0, 191017]Impossible. [Flynn] and I defeated
+Yamato Takeru...
+[END]
+12: (Walter) [7a 4][7b 655364, 65537][13 0, 191018]I went with [Flynn] to Lilith's
+dwelling, and then...
+[END]
+13: (Jonathan) [7a 3][7b 458755, 131073][13 0, 191019]Wait. That can't possibly be true.
+[->][13 0, 191020][Flynn] and I vanquished Lilith
+together at Tsukiji Hongwanji.
+[END]
+14: (Walter) [7a 4][7b 458756, 131073][13 0, 191021]You defeated Lilith!? With [Flynn]...?
+[END]
+15: (Walter) [7a 4][7b 655364, 65537][13 0, 191022]We are going round in circles. I can
+feel the onset of a headache...
+[->][7b 786435, 131073][13 0, 191023]First, I dreamt of a scolding from
+those white ones, and now this.
+It's all too much...
+[END]
+16: (Walter) [7a 4][7b 196612, 65537][13 0, 191024]I need a breath of fresh air.
+[END]
+17: 〉 Walter walked away.
+[END]
+18: (Jonathan) [7a 3][7b 458755, 131073][13 0, 191025]A dream of ”a scolding from those
+white ones”...?
+[->][13 0, 191026]I had precisely the same dream...
+[END]
+19: (Jonathan) [7a 3][7b 786435, 131073][13 0, 191027][Flynn]? What are your plans now?
+[->][7b 655363, 131073][13 0, 250028]......
+[->][7b 786435, 65537][13 0, 191028]I think I'll have a look outside.
+[END]
+20: 〉 Jonathan walked away.
+[END]
+21: 〉 You have parted ways with Jonathan
+and Walter.
+[END]
+22: (Burroughs) [7a 2][13 0, 191029]This is a bit late, but congratulations
+on completing the quest.
+[END]
+115: (Walter) [7a 4][7b 196612, 65537][13 0, 400203]Argh...
+[END]

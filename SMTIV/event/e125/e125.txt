@@ -1,0 +1,97 @@
+0: 〉 There is a naked man wearing a mask
+inside the birdcage...
+[END]
+2: (Voice) [13 0, 125001]...I smell humans.
+[END]
+3: (Demon) [7a 65039][13 0, 125002]I am the Tyrant Asmodeus.
+[END]
+4: (Asmodeus) [7a 209][7b 65745, 65537][13 0, 125003]I will not allow you to touch the
+prisoner of this birdcage.
+[->][13 0, 125004]If he is released, doom will be upon
+this world once more.
+[END]
+5: (Isabeau) [7a 5][7b 655365, 65537][13 0, 125005]Doom...? Your words carry little
+meaning for me.
+[->][13 0, 125006]Unless you should like to explain
+who this man you have trapped is?
+[END]
+6: (Asmodeus) [7a 209][7b 65745, 65537][13 0, 125007]That is not for humans to know.
+[->][13 0, 125008]Besides, if I speak the prisoner's
+name, he will come to himself again.
+[->][13 0, 125009]We have gone to great lengths to fit
+them with these masks, which blot
+out their identities...
+[END]
+7: (Asmodeus) [7a 209][7b 65745, 65537][13 0, 125010]Now leave, young ones, and I shall
+not take your lives.
+[END]
+8: 〉 What will you do?
+[END]
+9: Retreat
+Rescue the masked man
+[END]
+10: (Asmodeus) [7a 209][7b 65745, 65537][13 0, 125011]Very good. That is the wisest course
+for you humans to take.
+[END]
+11: (Asmodeus) [7a 209][7b 65745, 65537][13 0, 125014]You have come again? Have you learned
+nothing...?
+[->][13 0, 125015]Leave here, and I shall not take
+your lives.
+[END]
+12: 〉 What will you do?
+[END]
+13: (Asmodeus) [7a 209][7b 65745, 65537][13 0, 125012]Gwehehehehehehhhh...
+[->][13 0, 125013]Then I shall crush the man betwixt
+my hands and take the woman for a
+bride...!
+[END]
+14: (Masked man) [13 0, 125016]...Who is there?
+[END]
+17: 〉 Isabeau rushed to open the birdcage.
+[END]
+18: (Isabeau) [7a 5][13 0, 125017]I can hardly bear to look upon him...
+[->][13 0, 125018]Is this man one of those whom Sister
+Gabby spoke of?
+[END]
+19: (Isabeau) [7a 5][13 0, 125019]Be at peace. We have come to rescue
+you.
+[->][13 0, 125020]He is terribly exhausted... We must
+bring him to a healer at once.
+[END]
+20: (Masked man) [7a 28][13 0, 125021]Who has come to see me?
+[END]
+21: (Isabeau) [7a 5][13 0, 125022]We from the Eastern Kingdom of Mikado,
+sir. Sister Gabby put it to us to
+rescue you.
+[END]
+22: (Masked man) [7a 28][13 0, 125023]Ohh... ”Gabby,” you say?
+[->][13 0, 125024]Ugh. This damned mask makes it
+impossible to remember even who
+I am...
+[END]
+23: (Isabeau) [7a 5][13 0, 125025]Please, allow me to remove it for you...
+[END]
+24: (Masked man) [7a 28][13 0, 125026]No, it's useless. Only a kindred
+spirit to me can do that...
+[->][13 0, 125027]But I am no longer sure who that is.
+Such is the curse of this mask...
+[END]
+25: (Isabeau) [7a 5][13 0, 125028]Poor thing...
+[->][13 0, 125029]I shall take it upon myself to see
+him back to the Monastery safely.
+[END]
+26: (Isabeau) [7a 5][13 0, 125030]What remains is in your hands.
+[END]
+27: (Isabeau) [7a 5][13 0, 125028]Poor thing...
+[->][13 0, 125032]At least we know he is the last of
+those who suffer so.
+[->][13 0, 125033]I shall take it upon myself to see
+him back to the Monastery safely.
+[END]
+29: 〉 Isabeau carried the man on her back and
+headed for the tower's exit.
+[END]
+32: 〉 Isabeau parted ways with you.
+[END]
+126: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]

@@ -1,0 +1,45 @@
+0: 〉 It seems the door won't open from
+this side.
+[END]
+1: 〉 It seems the door won't open from
+this side.
+[END]
+2: 〉 It seems the door won't open from
+this side.
+[END]
+3: 〉 It seems the door won't open from
+this side.
+[END]
+4: 〉 It seems the door won't open from
+this side.
+[END]
+5: 〉 It seems the door won't open from
+this side.
+[END]
+6: 〉 It seems the door won't open from
+this side.
+[END]
+7: 〉 It seems the door won't open from
+this side.
+[END]
+8: 〉 It seems the door won't open from
+this side.
+[END]
+9: 〉 It seems the door won't open from
+this side.
+[END]
+10: 〉 It seems the door won't open from
+this side.
+[END]
+11: 〉 It seems the door won't open from
+this side.
+[END]
+12: There's a sign near the ceiling.
+[->]”Those here to become neurishers,
+take the left door into the room
+following the path.”
+[->]”Those here to become demonoids,
+take the right door into the next
+room.”
+[->]〉 ...So the mystic script says.
+[END]

@@ -1,0 +1,2500 @@
+0: Dummy
+[END]
+1: [71 1]Nothin' doing! I won't have any
+truck with you.
+[->]You better get that dirty face out of
+here while your head's still on your
+shoulders!
+[->][END]
+2: I refuse!
+Nothin' doing!
+Get back, boy!
+Before I kill you!
+That dirty face!
+[END]
+3: [71 1]Is beating someone up before you talk
+to 'em how you say hello?
+[->][END]
+4: Out of the blue...
+You just attacked...
+I understand...
+How you feel.
+Some greeting!
+[END]
+5: [71 1]A ceasefire? Boy, stop this nonsense.
+[->]This battle won't be over until one
+of us keels over dead.
+[->][END]
+6: [71 1]This world isn't so cheap that you can
+get help for free!
+[->][END]
+7: If it's contracts...
+It won't be free.
+Or cheap, neither.
+You gotta pay up...
+A fair price!
+[END]
+8: [71 1]So that's decided! I'm one of you now.
+[->][END]
+9: It's decided.
+My contract...!
+Here you go!
+This, right?
+Take it!
+[END]
+10: [71 1]You need to put something on the table
+first, boy. That's proper manners when
+you're dealing with a demon!
+[->][END]
+11: First...
+An offering!
+It's good manners.
+You get it...
+Right, boy?
+[END]
+12: [71 1]Looks like you plumb forgot to leave
+a space for me!
+[->]Well, I know when I'm not wanted.
+I'll go on home, then.
+[->][END]
+13: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+Well, I'll do my best, at any rate.
+[->][END]
+14: [71 1]...Hold on there a second. Isn't your
+level lower than mine?
+[->]Boy, I'm sorry to have to tell you
+this, but I can't join your party.
+[->][END]
+15: [71 1]Now that I get a good look at you,
+I can see you've got one of my sisters
+on your side.
+[->]Well, that changes things considerable
+now, don't it! Make sure you take good
+care of her.
+[->][END]
+16: [71 1]Want to ask another demon too, while
+we're jawin'? Seeing as fate brought
+us together and all.
+[->][END]
+17: [71 1]Oh... there's only room for one, huh?
+[->]Well, never you mind. No use asking
+another demon now.
+[->][END]
+18: [71 1]I'm not so calm as I can stay quiet
+after I get asked out!
+[->][END]
+19: [71 1]Well, demons are fickle. Things like
+this happen now and again.
+[->][END]
+20: [71 1]Well then, I'll join your side too!
+[->][END]
+21: [71 1]I hate to leave things like that, so...
+I'll fix you up with someone I know.
+[->]Now, let's see who shows up...
+Enjoy your encounter with them!
+[->][END]
+22: [71 1]Ahh, this is the boy I'm up against?
+Looks like fun!
+[->][END]
+23: My my...
+You already have it.
+Well then...
+Get going!
+Be sure to call!
+[END]
+24: You should call!
+If you're in a jam!
+Good for your karma!
+I'll show you!
+This'll be fun!
+[END]
+25: [71 1]You're a funny kid, asking a demon
+to stop fighting.
+[->]Well, all right. Depending on what you
+offer me, I'll think about it.
+[->][END]
+26: Stop fighting?
+What a silly boy!
+Well, all right!
+I'll think about it.
+What've you got?
+[END]
+27: [71 1]C'mon, hurry up and go.
+[->]If you dilly−dally, I'll smack you one
+from behind!
+[->][END]
+28: Oh well!
+Just go!
+If you dilly−dally...
+We'll smack you one!
+From behind!
+[END]
+29: [71 1]What is it...? I'm sleepy... Don't
+wake a sleeping demon...
+[->]C'mon, boy... Stay or go, just make
+up your mind...
+[->][END]
+30: Zzz...
+Zzz...
+Zzz...
+Zzz...
+What is it...?
+[END]
+31: We're sleeping...
+We're sleepy...!
+Go away...
+Do whatever...!
+Stay or go...
+[END]
+32: [71 1]...Ah, wait a second. You can't
+forget this!
+[->][END]
+33: Hey, boy!
+Wait a second!
+Don't forget...
+This thing...
+Better not!
+[END]
+34: [71 1]You want me to chatter the time away
+with you? Boy, what're you up to now?
+[->]...All right. Let's start with you
+giving me something.
+[->][END]
+35: An offering, hm?
+What's the catch?
+...Oh, all right!
+We'll take...
+What you've got!
+[END]
+36: [71 1]Well, I guess it won't hurt to talk
+with you some.
+[->][END]
+37: Hahaha!
+This is great!
+I thought so!
+Love those gifts!
+They make us happy!
+[END]
+38: [71 1]Land sakes, you want to chitchat with
+an old woman like me!?
+[->]Boy, you've made an old lady very happy
+today! I'll take you up on that!
+[->][END]
+39: Ohhhh my!
+An offering!?
+How sweet it is!
+It makes us happy!
+So delightful!
+[END]
+40: [71 1]Land sakes! Now that I've tried it,
+useless chitchat is all kinds of fun!
+[->][END]
+41: Ahahaha!
+How delightful!
+Humans, hm!?
+Make us an offer!
+This is wonderful!
+[END]
+42: [71 1]You've got guts, boy, begging forgiveness
+from a demon.
+[->]You brought some gifts, I assume?
+[->][END]
+43: Begging for mercy...
+From a demon, huh?
+You've got guts.
+Y'better have some.
+I mean gifts, boy!
+[END]
+44: [71 1]Here you go, a demon's mercy. Drink
+it up, boy, it's good for you.
+[->][END]
+45: A demon's mercy...
+It's good for you!
+Drink it up.
+Here.
+Enjoy it...
+[END]
+46: [71 1]What is it, boy...? I'm sleepy...
+Don't wake a sleeping demon...
+[->]I'll help you out, just let me get
+my shuteye...
+[->][END]
+47: Zzz...
+Zzz...
+Zzz...
+Zzz...
+What is it...?
+[END]
+48: Our help?
+Sure, take it!
+Just let us rest...
+We're sleepy...!
+Let us sleep!
+[END]
+49: [71 1]Hahaha... Very interesting. So demons
+are looking out for humans...
+[->]I'll do it again, then. Us demons take
+such good care of you!
+[->][END]
+50: Interesting!
+Us demons...
+Helping humans!
+One more time!
+Again and again!
+[END]
+51: [71 1]You're asking for your allowance with
+a sullen look like that?
+[->]What're you trying to pull, boy!?
+[->][END]
+52: Those eyes...!
+That sullen look!
+You there...!
+What's with you!?
+What's your scheme!?
+[END]
+53: [71 1]Making a demon pay up like this...
+Well, I never!
+[->]You're more of a demon than me, boy!
+[->][END]
+54: Well, I never!
+Robbing an old lady!
+*sob* *sob*
+It's too much!
+You're a demon!
+[END]
+55: [71 1]Make a fool out of a demon and you'll
+pay the price with your life!
+[->]That petty cash in your hand will pay
+your way across the River Styx!
+[->][END]
+56: How dare you!
+Pay with your lives!
+That petty cash...
+It's the ferryman's!
+For the River Styx!
+[END]
+57: [71 1]Noooooo! Please stop!
+[->][END]
+58: Noooooo!
+Please stop!
+Land sakes, boy!
+*shriek*
+Stop, stop!
+[END]
+59: [71 1]What's with you!? Do you think you'll
+get away with this...?
+[->][END]
+60: Hey!
+Stop it!
+What's with you!?
+Hurry up!
+Let that hand go!
+[END]
+61: [71 1]I−I give up! Just leave me be!
+[->]Here, this should more than cover it!
+Take it and hurry up and git!
+[->][END]
+62: We give up!
+Leave us be!
+Here!
+Now get out!
+That's plenty!
+[END]
+63: [71 1]You little brat! That's enough, boy!
+[->][END]
+64: Hey, you brat!
+That's...!
+Enough!
+How dare you!
+Well, I never!
+[END]
+65: [71 1]You're hitting up a demon who can't
+move for money?
+[->]Boy, that's just plain extortion!
+[->][END]
+66: We can't move...!
+What are you...!?
+You wouldn't...
+Don't you dare!
+How rude!
+[END]
+67: [71 1]You want an item? That's just what I'd
+expect from a greedy−guts human.
+[->]Well, that's fine. The rest depends
+on your attitude!
+[->][END]
+68: An item, hm?
+How like a human...
+What a greedy guts!
+Well, that's fine!
+Play nice, now!
+[END]
+69: [71 1]Well then, I'll give you this. You
+take good care of it now, you hear?
+[->][END]
+70: Well then!
+How about this?
+Go on, take it!
+It's yours now.
+Keep it!
+[END]
+71: [71 1]Oh, hello, little one. Do you want
+an item?
+[->]Here, this is all for you! If you run
+out, just come see Grandma again!
+[->][END]
+72: Oh my!
+Little one!
+You want this?
+It's yours!
+Come again!
+[END]
+73: [71 1]Oh, hold on a moment. I forgot to
+give you a little extra.
+[->][END]
+74: Hold on!
+One second!
+You forgot this!
+Take it with you!
+An extra helping!
+[END]
+75: [71 1]All these offers and counteroffers
+seems so tedious. Let's wrap it up
+in one go.
+[->][Color:0x1][Amount 1] Macca![Color:0x0]
+How's that strike you, boy?
+[->][END]
+76: [Color:0x1]The power of money![Color:0x0]
+A one−shot deal!
+How about it?
+Will you take it?
+[Color:0x1][Amount 1] Macca![Color:0x0]
+[END]
+77: [71 1][Color:0x1][Item 1]...[Color:0x0] That's what I want.
+[->][END]
+78: [Color:0x1]An item will do...[Color:0x0]
+Hand it over, boy?
+C'mon, give it.
+We really want it!
+[Color:0x1][Item 1]![Color:0x0]
+[END]
+79: [71 1]Give me [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+80: [Color:0x1]Macca will do...[Color:0x0]
+Spare some for us?
+C'mon, give it.
+We really want it!
+[Color:0x1][Amount 1][Color:0x0] worth!
+[END]
+81: [71 1]Boy, won't you give an old woman
+[Color:0x1]a little[Color:0x0] of your [Color:0x1]stamina?[Color:0x0]
+[->][END]
+82: We want [Color:0x1]stamina...[Color:0x0]
+Give us some?
+Come on, boy.
+Don't be stingy.
+[Color:0x1]Just a little bit.[Color:0x0]
+[END]
+83: [71 1]Boy, won't you give an old woman
+[Color:0x1]some[Color:0x0] of your [Color:0x1]stamina?[Color:0x0]
+[->][END]
+84: We want [Color:0x1]stamina...[Color:0x0]
+Give us some?
+Come on, boy.
+Don't be stingy.
+[Color:0x1]Just some of it.[Color:0x0]
+[END]
+85: [71 1]Boy, won't you give an old woman
+[Color:0x1]a lot[Color:0x0] of your [Color:0x1]stamina?[Color:0x0]
+[->][END]
+86: We want [Color:0x1]stamina...[Color:0x0]
+Give us some?
+Come on, boy.
+Don't be stingy.
+[Color:0x1]We want a lot![Color:0x0]
+[END]
+87: [71 1]Boy, won't you give an old woman
+[Color:0x1]a heap[Color:0x0] of your [Color:0x1]stamina?[Color:0x0]
+[->][END]
+88: We want [Color:0x1]stamina...[Color:0x0]
+Give us some?
+Come on, boy.
+Don't be stingy.
+[Color:0x1]Give us heaps![Color:0x0]
+[END]
+89: [71 1]Boy, won't you give an old woman
+[Color:0x1]a little[Color:0x0] of your [Color:0x1]spirit?[Color:0x0]
+[->][END]
+90: We want [Color:0x1]spirit...[Color:0x0]
+Give us some?
+Come on, boy.
+Don't be stingy.
+[Color:0x1]Just a little bit.[Color:0x0]
+[END]
+91: [71 1]Boy, won't you give an old woman
+[Color:0x1]some[Color:0x0] of your [Color:0x1]spirit?[Color:0x0]
+[->][END]
+92: We want [Color:0x1]spirit...[Color:0x0]
+Give us some?
+Come on, boy.
+Don't be stingy.
+[Color:0x1]Just some of it.[Color:0x0]
+[END]
+93: [71 1]Boy, won't you give an old woman
+[Color:0x1]a lot[Color:0x0] of your [Color:0x1]spirit?[Color:0x0]
+[->][END]
+94: We want [Color:0x1]spirit...[Color:0x0]
+Give us some?
+Come on, boy.
+Don't be stingy.
+[Color:0x1]We want a lot![Color:0x0]
+[END]
+95: [71 1]Boy, won't you give an old woman
+[Color:0x1]a heap[Color:0x0] of your [Color:0x1]spirit?[Color:0x0]
+[->][END]
+96: We want [Color:0x1]spirit...[Color:0x0]
+Give us some?
+Come on, boy.
+Don't be stingy.
+[Color:0x1]Give us heaps![Color:0x0]
+[END]
+97: [71 1]Will you give me the life of your
+demon, [Color:0x1][Demon name 2]?[Color:0x0]
+[->][END]
+98: [Color:0x1]Your demon's life...[Color:0x0]
+Give it to us!
+Come on, boy.
+Don't be stingy!
+[Color:0x1][Demon name 2]![Color:0x0]
+[END]
+99: [71 1]What I really want is [Color:0x1]that.[Color:0x0] You know,
+[Color:0x1]that thing.[Color:0x0] C'mon, boy, can't you guess?
+[->][END]
+100: [Color:0x1]That thing.[Color:0x0]
+[Color:0x1]Yes, that![Color:0x0]
+Give it to us.
+You know, right?
+Guess it!
+[END]
+101: [71 1]Choose one of these and make an old
+woman happy.
+[->][END]
+102: Hmm...
+Make us happy...
+You'd better!
+Choose one.
+Which is it?
+[END]
+103: [71 1]Yes, that's it! That's just what
+I wanted.
+[->][END]
+104: Yes!
+That's it!
+Very good!
+There we go.
+We wanted that!
+[END]
+105: [71 1]Why would I want something like that?
+[->][END]
+106: That's not it!
+Not at all!
+How useless...
+What do you think...
+You're playing at!?
+[END]
+107: [71 1]I want to try this new medicine.
+Come on, boy, let me try it on you.
+[->][END]
+108: It's a new medicine.
+Let us try it out.
+How about it?
+Will you do it?
+Drink it down...
+[END]
+109: ”Go right ahead.”
+”I refuse.”
+[->][END]
+110: [71 1]Now, whether this medicine will heal
+or poison you, I don't rightly know...
+Come on, take it all like a man.
+[->][END]
+111: Whether it's good...
+Or poison...
+Here it is!
+Drink it down!
+Every last drop!
+[END]
+112: 〉 You sensed power rising from within!
+[->][END]
+113: 〉 [Flynn]'s party sensed power
+rising from within!
+[->][END]
+114: [71 1]Now, whether this medicine will heal
+or poison you, I don't rightly know...
+Come on, take it all like a man.
+[->][END]
+115: Whether it's good...
+Or poison...
+Here it is!
+Drink it down!
+Every last drop!
+[END]
+116: 〉 [Flynn] felt power ebbing from
+his body!
+[->][END]
+117: 〉 [Flynn] felt power ebbing from
+his body!
+[->][END]
+118: [71 1]So you won't drink a demon's medicine,
+will you, boy? Hmph, what a coward.
+[->][END]
+119: What's wrong?
+Afraid of medicine?
+Hmph...!
+Is that so...?
+What a coward!
+[END]
+120: [71 1]There... that should be plenty.
+[->][END]
+121: Very well.
+That's plenty.
+Thank you.
+We're satisfied!
+Hahahaha!
+[END]
+122: [71 1]Hahaha...! That's it, that's what
+I was hoping to feel!
+[->][END]
+123: Hahahaha!
+That's it!
+Hits the spot!
+We're satisfied!
+We sure are!
+[END]
+124: [71 1]Ah, so that's how it is?
+[->][END]
+125: Ah...
+My, my...
+Is that so?
+Huh...
+Are you sure?
+[END]
+126: [71 1]You won't pay? And you call this
+a negotiation!
+[->]That won't do at all, boy. Don't you
+underestimate us demons!
+[->][END]
+127: Won't pay, huh?
+Some negotiation!
+How petty...
+That won't do.
+Watch your back!
+[END]
+128: [71 1]That's it. I'm fed up with all this.
+[->][END]
+129: Fine.
+Then...
+This won't do...
+Sheesh...
+We're done here!
+[END]
+130: [71 1]Did you just try to cheat me? And you
+call this a negotiation!
+[->]That won't do at all, boy. Don't you
+underestimate us demons!
+[->][END]
+131: Cheating us, huh?
+Some negotiation!
+How petty...
+That won't do.
+Watch your back!
+[END]
+132: [71 1]You should at least have that.
+[->][END]
+133: You don't have it?
+Not even that?
+Some negotiation!
+Oh dear...
+How petty...
+[END]
+134: [71 1]We can't get started if you don't have
+so much as a Life Stone, you know.
+[->][END]
+135: Life Stones...
+That's the basics.
+Sheesh...
+Now what...?
+Honestly, boy.
+[END]
+136: [71 1]Interesting that you stopped the
+conversation... You're a pretty good
+negotiator, for a human.
+[->]All right, boy. I've already got what
+I wanted from this, so...
+[->][END]
+137: He stopped...
+Nice trick!
+Pretty good...
+For a human.
+We give, we give.
+[END]
+138: [71 1]You're stopping the conversation just
+because the negotiations aren't going
+your way?
+[->]Well, that's no good. Don't underestimate
+us demons, boy!
+[->][END]
+139: So that's it...
+A dirty trick!
+We can't have that!
+You'll be sorry!
+We'll make you pay!
+[END]
+140: [71 1]Hahaha, you've got some sack, boy!
+How many times are you going to turn
+me down?
+[->]Well, that's fine. You win, boy,
+I give up.
+[->][END]
+141: Quite a spine!
+You don't give up!
+In that case...
+We give up!
+You win!
+[END]
+142: [71 1]...Don't you have any pride? I can't
+believe you're knuckling under so easy.
+[->]What a killjoy. Boy, I don't think I
+want to negotiate with you anymore.
+[->][END]
+143: No pride at all?
+What a killjoy...
+Giving in so soon...
+What a doormat!
+We're done here.
+[END]
+144: [71 1]You don't have anything, do you?
+Hahaha... What a pitiful boy.
+[->]It's actually pretty funny to watch.
+[->][END]
+145: You have nothing?
+How pitiful...
+Honestly, boy...
+Oh well!
+We'll let it go!
+[END]
+146: [71 1]It's about time... I should get going.
+[->][END]
+147: It's about time...
+Time to go.
+Well then...
+We'll be going.
+Time to leave!
+[END]
+148: [71 1]My, [Flynn]! I didn't think I'd
+see your face again.
+[->]You don't mind, getting so cozy with
+a demon like me?
+[->][END]
+149: My...!
+It's you again!
+You don't mind?
+Getting cozy...
+With us demons!
+[END]
+150: [71 1]...I had a feeling that was it.
+Everything is fated, after all.
+[->][END]
+151: A contract?
+With us?
+I see...
+Well...
+That's fated too.
+[END]
+152: [71 1]It does feel a touch awkward, fighting
+someone I know...
+[->]Let's not and say we did, hmm?
+[->][END]
+153: We feel...
+The same!
+It's decided!
+Battle's over...
+We'll call it off!
+[END]
+154: [71 1]Idle chitchat, hm? You have such
+interesting ideas.
+[->]That's the perfect way for a couple
+of friends to pass the time!
+[->][END]
+155: An offering, eh?
+I like it!
+You're good!
+Much better...
+Than these demons!
+[END]
+156: [71 1]Asking to be taken care of the moment
+we meet? Well, I never!
+[->]What am I, a housewife who looks
+after you?
+[->][END]
+157: I see...
+You want help...
+Well, I never!
+If you just asked...
+We'd heal you!
+[END]
+158: [71 1]I guess it wouldn't hurt to give you
+a little money.
+[->]So tell me, boy, what are you going
+to do with it?
+[->][END]
+159: Oh my!
+What a boor!
+That won't do!
+Get a job.
+And keep it!
+[END]
+160: [71 1]What a pitiful boy you are, with that
+hangdog look on your face.
+[->]Here, I'll give you this. But just
+this once, all right?
+[->][END]
+161: Oh well...
+Here you go!
+Just this once!
+It's special!
+Remember that!
+[END]
+162: [71 1]Boy, are you so simple that you repeat
+the same thing over and over?
+[->][END]
+163: Is that it?
+You daft, boy?
+The same stuff...
+Over and over!
+Simpleminded, eh?
+[END]
+164: [71 1]I found you, [Flynn]! Honestly,
+child, you're such a handful.
+[->]Did you work on being a gentleman
+since the last time? Well, show me...
+[->][END]
+165: [71 1]...Wait right there, boy. Aren't you
+being a bit of a brute, killing me
+cold like this?
+[->]Yes, I s'pose I am begging for my
+life... What'll it take for you to
+spare me?
+[->][END]
+166: ...Hold on.
+You're killing us?
+That's no good.
+What should we do?
+We're begging you!
+[END]
+167: [71 1]If that's what it takes to buy my life,
+then it's a cheap price to pay.
+[->][END]
+168: That's good.
+If that's the cost...
+All right, then.
+That's not so much.
+A small price!
+[END]
+169: [71 1]So you're dead set on killing me...
+All right, I understand.
+[->]I'll show you how a real demon dies!
+[->][END]
+170: We understand!
+This is it, then!
+All righty!
+Come get us!
+We'll show you!
+[END]
+171: [71 1]Ah, a human! Perfect timing, boy.
+[->]I have a favor to ask. How about it...?
+Will you hear an old woman out?
+[->][END]
+172: [71 1]Ah, a Hunter! Perfect timing, boy.
+[->]I have a favor to ask. How about it...?
+Will you hear an old woman out?
+[->][END]
+173: [71 1]Now that's the answer I was looking for.
+Well said.
+[->]It's not such a big thing... A little
+errand, that's all.
+[->][END]
+174: [71 1]Now, can you actually pull this off?
+Let's see what you're made of, boy.
+[->][END]
+176: [71 1]Just when I was wondering who would
+try and talk to me... it's you, boy.
+[->][END]
+177: RESERVED
+[END]
+178: [71 1]”I'm no boy.”
+”What's wrong with being a boy?”
+Grip your weapon
+[->][END]
+179: NOT USED
+[->][END]
+180: [71 1]Oh, sure enough, you have such long
+hair... Are you a girl?
+[->]Hahaha... My mistake, my mistake.
+[->][END]
+181: RESERVED
+[END]
+182: [71 1]NOT USED
+[->][END]
+183: NOT USED
+[END]
+184: [71 1]You can't even own up to it like an
+adult... For that, I'm demoting you
+from ”boy” to ”brat”!
+[->][END]
+185: RESERVED
+[END]
+186: NOT USED
+[->][END]
+187: [71 1]Who said it's bad? You'll miss out
+on a lot, being so hotheaded.
+[->][END]
+188: RESERVED
+[END]
+189: [71 1]NOT USED
+[->][END]
+190: NOT USED
+[END]
+191: [71 1]So quick to take offense! Seems like
+a fault you might want to fix.
+[->][END]
+192: RESERVED
+[END]
+193: [->][END]
+194: [71 1]Oh! The boy suddenly turns into a
+warrior...
+[->]So that's how you Samurai are.
+[->][END]
+195: RESERVED
+[END]
+196: [71 1]Stop that! Don't turn your blade
+against the wrong demon.
+[->]Yes, you heard me, boy... I'm going
+to start following you!
+[->][END]
+197: RESERVED
+[END]
+198: [71 1]Boy, I'm not letting you draw that.
+[->][END]
+199: RESERVED
+[END]
+201: [71 1]What's a boy like you doing here by
+yourself? Did you get separated from
+your mommy?
+[->][END]
+202: RESERVED
+[END]
+203: [71 1]”And what of you?”
+”My mother passed away.”
+”But YOU'RE my mother...”
+[->][END]
+204: NOT USED
+[->][END]
+205: [71 1]Me? I'm just out on a walk. I wasn't
+separated from nobody.
+[->]I just don't happen to know my way
+back home...
+[->][END]
+206: RESERVED
+[END]
+207: [71 1]NOT USED
+[->][END]
+208: NOT USED
+[END]
+209: [71 1]...Oh, no! I was looking for my son
+who wandered off on his own!
+[->][END]
+210: RESERVED
+[END]
+211: NOT USED
+[->][END]
+212: [71 1]Oh... yes, I can see that now. There's
+someone's spirit very close by...
+[->]Even death isn't the end of everything,
+you know.
+[->][END]
+213: RESERVED
+[END]
+214: [71 1]I was just joking... but I guess I
+shouldn't have said that.
+[->]Do you think I could maybe be your
+mother instead?
+[->][END]
+215: RESERVED
+[END]
+216: [71 1]And that's why you're walking around
+all mopey?
+[->]What a cream puff... Get away from
+me, boy.
+[->][END]
+217: RESERVED
+[END]
+218: NOT USED
+[->][END]
+219: [71 1]That's odd. Sorry, but I don't remember
+having a son like you.
+[->]It might ring a bell if you said you
+were my grandson, though...
+[->][END]
+220: RESERVED
+[END]
+221: [71 1]NOT USED
+[->][END]
+222: NOT USED
+[END]
+223: [71 1]If you're my son, you ought to be able
+to take a little bit of tough love!
+[->][END]
+224: RESERVED
+[END]
+226: [71 1]But... if I join you, I'll be betraying
+my own race.
+[->][END]
+227: RESERVED
+[END]
+228: [71 1]”Such is the risk.”
+”I'll treat you with respect.”
+”Those ties are immaterial now.”
+[->][END]
+229: NOT USED
+[->][END]
+230: [71 1]All right, all right... You don't have
+to tell me twice.
+[->]I'm not like those humans who fob off
+their responsibilities, after all.
+[->][END]
+231: RESERVED
+[END]
+232: [71 1]NOT USED
+[->][END]
+233: NOT USED
+[END]
+234: [71 1]That's your answer...?
+[->]Then you should have known the risk
+from that kind of back talk!
+[->][END]
+235: RESERVED
+[END]
+236: NOT USED
+[->][END]
+237: [71 1]Then let me have your head!
+[->]...But you couldn't do that just because
+I asked, right? So you shouldn't say such
+things without thinking them through.
+[->][END]
+238: RESERVED
+[END]
+239: [71 1]Don't be that way! This is a test of
+my resolve.
+[->]...Then again, if you can make it worth
+my while, that might be the best way for
+you to show your respect.
+[->][END]
+240: RESERVED
+[END]
+241: [71 1]You think your respect is just as good
+as my family ties? Boy, what kind of
+fool do you take me for?
+[->][END]
+242: RESERVED
+[END]
+243: NOT USED
+[->][END]
+244: [71 1]Hahaha...! Isn't that something you
+should be telling yourself?
+[->]I can see how tight your own ties
+have you bound.
+[->][END]
+245: RESERVED
+[END]
+246: [71 1]NOT USED
+[->][END]
+247: NOT USED
+[END]
+248: [71 1]Oh, they are, are they? Then forget
+about me making any new ties with you!
+[->][END]
+249: RESERVED
+[END]
+251: [71 1]Hmm... Do you have any gifts that'd
+be worthy of me?
+[->][END]
+252: RESERVED
+[END]
+253: [71 1]A bouquet of flowers
+Perfume
+A hot springs vacation
+[->][END]
+254: NOT USED
+[->][END]
+255: [71 1]Flowers only bloom for an instant, but
+they wither for eternity... Very nice.
+It's just like a woman's beauty.
+[->][END]
+256: RESERVED
+[END]
+257: [71 1]NOT USED
+[->][END]
+258: NOT USED
+[END]
+259: [71 1]A dead bunch of flowers, ripped from
+the earth they grew in...?
+[->]Isn't that sort of an offensive gift?
+[->][END]
+260: RESERVED
+[END]
+261: NOT USED
+[->][END]
+262: [71 1]Thank you, boy... but I'm wearing enough
+fragrances already.
+[->]Like the smell of death that's stuck
+to me from killing so many humans.
+[->][END]
+263: RESERVED
+[END]
+264: [71 1]Perfume only means something when you
+have a woman who'll stay by your side
+after she puts it on...
+[->]Oh, fine! I'll join you.
+[->][END]
+265: RESERVED
+[END]
+266: [71 1]Oh, how thoughtful of you!
+[->]It'll be just the thing to mask the
+smell when you die.
+[->][END]
+267: RESERVED
+[END]
+268: NOT USED
+[->][END]
+269: [71 1]How thoughtful! Now I can finally wash
+off the blood of humans I've been
+covered in.
+[->][END]
+270: RESERVED
+[END]
+271: [71 1]Going alone would be boring. So you're
+going to come with me!
+[->][END]
+272: RESERVED
+[END]
+273: [71 1]Hmph... that's a gift for old biddies.
+[->]I want to go wild someplace where
+young ones can have fun too!
+[->][END]
+274: RESERVED
+[END]
+276: [71 1]You know, I feel like a girl again
+when I talk to you.
+[->]What do you say? Do I look younger
+to you?
+[->][END]
+277: RESERVED
+[END]
+278: [71 1]”By quite a bit.”
+”Not as such...”
+”In truth, you seem older.”
+[->][END]
+279: NOT USED
+[->][END]
+280: [71 1]It does make me happy to hear that.
+[->]I'd like to get a little younger,
+so share some of your youth with me!
+[->][END]
+281: RESERVED
+[END]
+282: [71 1]NOT USED
+[->][END]
+283: NOT USED
+[END]
+284: [71 1]What do you mean by that?
+[->]Are you saying I'm usually an old hag!?
+[->][END]
+285: RESERVED
+[END]
+286: NOT USED
+[->][END]
+287: [71 1]Ahahaha...! Of course not!
+[->]After all, I was young to begin with!
+[->][END]
+288: RESERVED
+[END]
+289: [71 1]Well, I guess it's hard to tell at a
+quick glance.
+[->]So I'll join you, and you can see
+my youth close up!
+[->][END]
+290: RESERVED
+[END]
+291: [71 1]Hmm, you must still be half asleep.
+Here, boy, let me slap you awake.
+[->][END]
+292: RESERVED
+[END]
+293: NOT USED
+[->][END]
+294: [71 1]Doesn't that go for both of us, though?
+[->]Since you work as a Samurai, you have
+a much older boy's face.
+[->][END]
+295: RESERVED
+[END]
+296: [71 1]NOT USED
+[->][END]
+297: NOT USED
+[END]
+298: [71 1]If I look like that to you, it's because
+you're losing your marbles.
+[->]I don't want to talk to you anymore.
+[->][END]
+299: RESERVED
+[END]
+301: [71 1]RESERVED
+[->][END]
+302: RESERVED
+[END]
+303: [71 1]RESERVED
+[->][END]
+304: RESERVED
+[->][END]
+305: [71 1]RESERVED
+[->][END]
+306: RESERVED
+[END]
+307: [71 1]RESERVED
+[->][END]
+308: RESERVED
+[END]
+309: [71 1]RESERVED
+[->][END]
+310: RESERVED
+[END]
+311: RESERVED
+[->][END]
+312: [71 1]RESERVED
+[->][END]
+313: RESERVED
+[END]
+314: [71 1]RESERVED
+[->][END]
+315: RESERVED
+[END]
+316: [71 1]RESERVED
+[->][END]
+317: RESERVED
+[END]
+318: RESERVED
+[->][END]
+319: [71 1]RESERVED
+[->][END]
+320: RESERVED
+[END]
+321: [71 1]RESERVED
+[->][END]
+322: RESERVED
+[END]
+323: [71 1]RESERVED
+[->][END]
+324: RESERVED
+[END]
+326: [71 1]RESERVED
+[->][END]
+327: RESERVED
+[END]
+328: [71 1]RESERVED
+[->][END]
+329: RESERVED
+[->][END]
+330: [71 1]RESERVED
+[->][END]
+331: RESERVED
+[END]
+332: [71 1]RESERVED
+[->][END]
+333: RESERVED
+[END]
+334: [71 1]RESERVED
+[->][END]
+335: RESERVED
+[END]
+336: RESERVED
+[->][END]
+337: [71 1]RESERVED
+[->][END]
+338: RESERVED
+[END]
+339: [71 1]RESERVED
+[->][END]
+340: RESERVED
+[END]
+341: [71 1]RESERVED
+[->][END]
+342: RESERVED
+[END]
+343: RESERVED
+[->][END]
+344: [71 1]RESERVED
+[->][END]
+345: RESERVED
+[END]
+346: [71 1]RESERVED
+[->][END]
+347: RESERVED
+[END]
+348: [71 1]RESERVED
+[->][END]
+349: RESERVED
+[END]
+351: [71 1]So, why did you want me to join? I'm
+not so young anymore, you know.
+[->][END]
+352: RESERVED
+[END]
+353: [71 1]”The age difference matters not.”
+”I prefer older women.”
+”You're much younger than I.”
+[->][END]
+354: NOT USED
+[->][END]
+355: [71 1]Ah, my boy, but with an age difference,
+the older one dies off first. Do you
+realize that?
+[->]Do you have the will to get through
+the ones close to you passing away...?
+[->][END]
+356: RESERVED
+[END]
+357: [71 1]NOT USED
+[->][END]
+358: NOT USED
+[END]
+359: [71 1]Not to you, but what would other people
+think? Have some common sense, boy.
+[->][END]
+360: RESERVED
+[END]
+361: NOT USED
+[->][END]
+362: [71 1]My, you may be a Samurai, but you're
+still so young.
+[->]That maternal warmth in older women
+still appeals to you, eh...?
+[->][END]
+363: RESERVED
+[END]
+364: [71 1]I've sunk pretty far if you're asking
+me just because of your personal
+tastes...
+[->]But all right! I'll bet you anything
+I can still make you swoon all over me.
+[->][END]
+365: RESERVED
+[END]
+366: [71 1]Who're you calling old? I'm still
+young, I'll have you know!
+[->][END]
+367: RESERVED
+[END]
+368: NOT USED
+[->][END]
+369: [71 1]Oh! Well then, I'll share some of my
+overflowing youth with you.
+[->][END]
+370: RESERVED
+[END]
+371: [71 1]NOT USED
+[->][END]
+372: NOT USED
+[END]
+373: [71 1]Are you that old?
+[->]I like younger ones more. You're not
+my type.
+[->][END]
+374: RESERVED
+[END]
+376: [71 1]If you want me to join you, then take
+my hand.
+[->][END]
+377: RESERVED
+[END]
+378: [71 1]”Very well.”
+”I refuse.”
+”Isn't this a trap?”
+[->][END]
+379: 〉 [Flynn] took the demon's hand...
+[->][END]
+380: [71 1]Just like I thought... your hands are
+covered in blood.
+[->]With the life you've lived, I bet it'll
+be worth having me on your side.
+[->][END]
+381: RESERVED
+[END]
+382: [71 1]I sided with another demon user once,
+a long time ago...
+[->]His hand was like this too. It would
+be nice to have those days back again.
+[->][END]
+383: RESERVED
+[END]
+384: [71 1]You don't get even a little embarrassed,
+taking a woman's hand?
+[->]*sigh* Guess you don't think of me as
+a woman...
+[->][END]
+385: RESERVED
+[END]
+386: NOT USED
+[->][END]
+387: [71 1]Huh! No wonder you're a Samurai.
+[->]You'd never offer the hand you hold your
+sword with to an enemy...
+[->][END]
+388: RESERVED
+[END]
+389: [71 1]NOT USED
+[->][END]
+390: NOT USED
+[END]
+391: [71 1]You can either kill demons with those
+fragile human hands, or you can go
+hand in hand with them...
+[->]Boy, I don't think you understand which
+way works better yet.
+[->][END]
+392: RESERVED
+[END]
+393: NOT USED
+[->][END]
+394: [71 1]Well, you asking me to join you could
+be a trap too, couldn't it?
+[->]Stop thinking like you're the victim,
+boy. We're on even ground here.
+[->][END]
+395: RESERVED
+[END]
+396: [71 1]NOT USED
+[->][END]
+397: NOT USED
+[END]
+398: [71 1]The only trap here is in your mind...
+[->]It's the trap of cowardice that prevents
+you from knowing a good thing when you
+see one.
+[->][END]
+399: RESERVED
+[END]
+401: [71 1]So tell me, boy, what kind of work
+does a Samurai do?
+[->][END]
+402: RESERVED
+[END]
+403: [71 1]”We protect the populace.”
+”We protect everything.”
+”We are demon−slayers.”
+[->][END]
+404: NOT USED
+[->][END]
+405: [71 1]But... you have demons with you, right?
+[->]So shouldn't you be protecting your
+demons too?
+[->][END]
+406: RESERVED
+[END]
+407: [71 1]NOT USED
+[->][END]
+408: NOT USED
+[END]
+409: [71 1]Then you should first worry about
+protecting the one closest to you.
+[->]That's right... you'd better protect
+yourself from my surprise attack!
+[->][END]
+410: RESERVED
+[END]
+411: NOT USED
+[->][END]
+412: [71 1]”Everything” includes demons too, right?
+[->]Oh, how nice it is to hear that a
+Blessed Samurai will protect us!
+[->][END]
+413: RESERVED
+[END]
+414: [71 1]Now that's a big job... Can you handle
+it all by yourself?
+[->]Wouldn't you need a demon's help with
+that? Like mine... After all, I'm here
+right now.
+[->][END]
+415: RESERVED
+[END]
+416: [71 1]But you can't protect EVERYTHING.
+You have to focus on some while others
+slip through the cracks...
+[->]Right now, the thing most likely to
+slip away is your life.
+[->][END]
+417: RESERVED
+[END]
+418: NOT USED
+[->][END]
+419: [71 1]Hahaha...! Boy, don't joke like that.
+[->]You keep your demons alive, and they'll
+do the same for you.
+[->][END]
+420: RESERVED
+[END]
+421: [71 1]Well, shoot, boy, who do you think knows
+best how to kill demons?
+[->]Another demon, of course! I'll lend
+you a hand.
+[->][END]
+422: RESERVED
+[END]
+423: [71 1]Shouldn't the demon−summoning be up to
+someone who doesn't kill so many?
+[->]I think you're the one who deserves
+to die, boy...
+[->][END]
+424: RESERVED
+[END]
+426: [71 1]Joining your side means making a
+promise... What can you promise me
+in return?
+[->][END]
+427: RESERVED
+[END]
+428: [71 1]”Someplace to belong.”
+”My eternal love.”
+”A handsome wage.”
+[->][END]
+429: NOT USED
+[->][END]
+430: [71 1]Is a place to belong something you
+need to promise folks?
+[->]Why, as long as you're alive, there
+isn't a place in this world you don't
+belong, I say.
+[->][END]
+431: RESERVED
+[END]
+432: [71 1]NOT USED
+[->][END]
+433: NOT USED
+[END]
+434: [71 1]Oh, I belong in the same place now as
+I always have...
+[->]On top of a mountain of human bodies!
+[->][END]
+435: RESERVED
+[END]
+436: NOT USED
+[->][END]
+437: [71 1]Very nice... That's a fitting promise
+for a human.
+[->]Offering eternal love when you have a
+lifespan of less than a hundred years...
+[->][END]
+438: RESERVED
+[END]
+439: [71 1]It doesn't have to be for eternity.
+It could just be for a moment...
+[->]And because it would be so fleeting,
+why, I'd be willing to risk everything.
+[->][END]
+440: RESERVED
+[END]
+441: [71 1]Oh, what a lovely offer...
+[->]I should kill you and make that love
+really eternal before it wanes!
+[->][END]
+442: RESERVED
+[END]
+443: NOT USED
+[->][END]
+444: [71 1]Oh, I don't think I'd need a high
+salary. I'll be satisfied as long as
+there'll be blood.
+[->][END]
+445: RESERVED
+[END]
+446: [71 1]NOT USED
+[->][END]
+447: NOT USED
+[END]
+448: [71 1]Ah! And I know just the form I'd like
+to be paid in...
+[->]Your life.
+[->][END]
+449: RESERVED
+[END]
+451: [71 1]Are you so bored that you decided to
+talk to me?
+[->][END]
+452: RESERVED
+[END]
+453: [71 1]”I'm bored.”
+”I'm busy.”
+”I welcome boredom.”
+[->][END]
+454: NOT USED
+[->][END]
+455: [71 1]Are you being serious, boy?
+[->]It looks to me at least like you've
+got your hands full gathering demons
+for your party.
+[->][END]
+456: RESERVED
+[END]
+457: [71 1]I doubt you'd get bored, working as
+a Samurai.
+[->]Here, boy, I'll join your team. So put
+a little more effort into your work.
+[->][END]
+458: RESERVED
+[END]
+459: [71 1]Then I'll help keep you busy...
+[->][END]
+460: RESERVED
+[END]
+461: NOT USED
+[->][END]
+462: [71 1]In Japanese, you write ”busy” with
+characters that mean ”losing heart.”
+[->]No matter how busy you get, take care
+you don't lose your heart as a human.
+[->][END]
+463: Reserved
+[END]
+464: [71 1]NOT USED
+[->][END]
+465: NOT USED
+[END]
+466: [71 1]My, that sounds awful. Good luck with
+your work, boy.
+[->][END]
+467: RESERVED
+[END]
+468: NOT USED
+[->][END]
+469: [71 1]You want me, and boredom too...?
+You're a greedy one, boy.
+[->][END]
+470: RESERVED
+[END]
+471: [71 1]A little boredom sounds nice...
+[->]Let me spend some time relaxing in
+your stock, boy.
+[->][END]
+472: RESERVED
+[END]
+473: [71 1]Too much excitement, huh? Boy, I think
+I can put a stop to that for you.
+Forever.
+[->][END]
+474: RESERVED
+[END]
+476: [71 1]RESERVED
+[->][END]
+477: RESERVED
+[END]
+478: [71 1]RESERVED
+[->][END]
+479: RESERVED
+[->][END]
+480: [71 1]RESERVED
+[->][END]
+481: RESERVED
+[END]
+482: [71 1]RESERVED
+[->][END]
+483: RESERVED
+[END]
+484: [71 1]RESERVED
+[->][END]
+485: RESERVED
+[END]
+486: RESERVED
+[->][END]
+487: [71 1]RESERVED
+[->][END]
+488: RESERVED
+[END]
+489: [71 1]RESERVED
+[->][END]
+490: RESERVED
+[END]
+491: [71 1]RESERVED
+[->][END]
+492: RESERVED
+[END]
+493: RESERVED
+[->][END]
+494: [71 1]RESERVED
+[->][END]
+495: RESERVED
+[END]
+496: [71 1]RESERVED
+[->][END]
+497: RESERVED
+[END]
+498: [71 1]RESERVED
+[->][END]
+499: RESERVED
+[END]
+501: [71 1]RESERVED
+[->][END]
+502: RESERVED
+[END]
+503: [71 1]RESERVED
+[->][END]
+504: RESERVED
+[->][END]
+505: [71 1]RESERVED
+[->][END]
+506: RESERVED
+[END]
+507: [71 1]RESERVED
+[->][END]
+508: RESERVED
+[END]
+509: [71 1]RESERVED
+[->][END]
+510: RESERVED
+[END]
+511: RESERVED
+[->][END]
+512: [71 1]RESERVED
+[->][END]
+513: RESERVED
+[END]
+514: [71 1]RESERVED
+[->][END]
+515: RESERVED
+[END]
+516: [71 1]RESERVED
+[->][END]
+517: RESERVED
+[END]
+518: RESERVED
+[->][END]
+519: [71 1]RESERVED
+[->][END]
+520: RESERVED
+[END]
+521: [71 1]RESERVED
+[->][END]
+522: RESERVED
+[END]
+523: [71 1]RESERVED
+[->][END]
+524: RESERVED
+[END]
+526: [71 1]By the way... do you eat demon meat?
+[->][END]
+527: RESERVED
+[END]
+528: [71 1]”I do.”
+”I don't.”
+[->][END]
+529: NOT USED
+[->][END]
+530: [71 1]Then you be sure to clean your plate,
+all right, boy? It's how you show your
+respect to the demon you killed.
+[->][END]
+531: RESERVED
+[END]
+532: [71 1]...I shouldn't say this too loud, but
+I've always wanted to try it too.
+[->]If I join you, will you let me have
+some?
+[->][END]
+533: RESERVED
+[END]
+534: [71 1]Well, that must be why your breath
+smells so much.
+[->]Uuugh... I can't stand it. I can't
+even stay here and talk to you!
+[->][END]
+535: RESERVED
+[END]
+536: NOT USED
+[->][END]
+537: [71 1]Oh, that's no good. You keep that up
+and you won't get enough nutrients.
+You'll catch cold, boy.
+[->]Here, take this with you.
+[->][END]
+538: RESERVED
+[END]
+539: [71 1]NOT USED
+[->][END]
+540: NOT USED
+[END]
+541: [71 1]If I were to eat a human that eats demon
+meat, it would be like cannibalism...
+[->]So that means there's nothing wrong
+with eating you!
+[->][END]
+542: RESERVED
+[END]
+543: NOT USED
+[->][END]
+544: [71 1]NOT USED
+[->][END]
+545: NOT USED
+[END]
+546: [71 1]NOT USED
+[->][END]
+547: NOT USED
+[END]
+548: [71 1]NOT USED
+[->][END]
+549: NOT USED
+[END]
+551: [71 1]From what I've heard, seppuku is
+a common thing for Samurai.
+[->]Well then, boy, let's have a
+demonstration, hmmm?
+[->][END]
+552: RESERVED
+[END]
+553: [71 1]Decline
+Decline
+Decline
+[->][END]
+554: NOT USED
+[->][END]
+555: [71 1]That makes sense. You're a Samurai
+who hunts demons...
+[->]You wouldn't want to expose your inner
+workings to a demon so easily.
+[->][END]
+556: RESERVED
+[END]
+557: [71 1]Oh, listen to me make a fool of myself.
+[->]I forgot about the beheading part!
+Would you like me to do that for you?
+[->][END]
+558: RESERVED
+[END]
+559: [71 1]So you'd rather have a demon tear you
+apart than commit seppuku yourself.
+[->][END]
+560: RESERVED
+[END]
+561: NOT USED
+[->][END]
+562: [71 1]That makes sense. You're a Samurai
+who hunts demons...
+[->]You wouldn't want to expose your inner
+workings to a demon so easily.
+[->][END]
+563: RESERVED
+[END]
+564: [71 1]Oh, listen to me make a fool of myself.
+[->]I forgot about the beheading part!
+Would you like me to do that for you?
+[->][END]
+565: RESERVED
+[END]
+566: [71 1]So you'd rather have a demon tear you
+apart than commit seppuku yourself.
+[->][END]
+567: RESERVED
+[END]
+568: NOT USED
+[->][END]
+569: [71 1]That makes sense. You're a Samurai
+who hunts demons...
+[->]You wouldn't want to expose your inner
+workings to a demon so easily.
+[->][END]
+570: RESERVED
+[END]
+571: [71 1]Oh, listen to me make a fool of myself.
+[->]I forgot about the beheading part!
+Would you like me to do that for you?
+[->][END]
+572: RESERVED
+[END]
+573: [71 1]So you'd rather have a demon tear you
+apart than commit seppuku yourself.
+[->][END]
+574: RESERVED
+[END]
+576: [71 1]RESERVED
+[->][END]
+577: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+578: [71 1]RESERVED
+[->][END]
+579: RESERVED
+[->][END]
+580: [71 1]RESERVED
+[->][END]
+581: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+582: [71 1]RESERVED
+[->][END]
+583: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+584: [71 1]RESERVED
+[->][END]
+585: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+586: RESERVED
+[->][END]
+587: [71 1]RESERVED
+[->][END]
+588: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+589: [71 1]RESERVED
+[->][END]
+590: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+591: [71 1]RESERVED
+[->][END]
+592: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+593: RESERVED
+[->][END]
+594: [71 1]RESERVED
+[->][END]
+595: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+596: [71 1]RESERVED
+[->][END]
+597: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+598: [71 1]RESERVED
+[->][END]
+599: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+601: [71 1]RESERVED
+[->][END]
+602: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+603: [71 1]RESERVED
+[->][END]
+604: RESERVED
+[->][END]
+605: [71 1]RESERVED
+[->][END]
+606: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+607: [71 1]RESERVED
+[->][END]
+608: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+609: [71 1]RESERVED
+[->][END]
+610: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+611: RESERVED
+[->][END]
+612: [71 1]RESERVED
+[->][END]
+613: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+614: [71 1]RESERVED
+[->][END]
+615: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+616: [71 1]RESERVED
+[->][END]
+617: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+618: RESERVED
+[->][END]
+619: [71 1]RESERVED
+[->][END]
+620: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+621: [71 1]RESERVED
+[->][END]
+622: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+623: [71 1]RESERVED
+[->][END]
+624: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+626: [71 1]RESERVED
+[->][END]
+627: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+628: [71 1]RESERVED
+[->][END]
+629: RESERVED
+[->][END]
+630: [71 1]RESERVED
+[->][END]
+631: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+632: [71 1]RESERVED
+[->][END]
+633: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+634: [71 1]RESERVED
+[->][END]
+635: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+636: RESERVED
+[->][END]
+637: [71 1]RESERVED
+[->][END]
+638: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+639: [71 1]RESERVED
+[->][END]
+640: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+641: [71 1]RESERVED
+[->][END]
+642: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+643: RESERVED
+[->][END]
+644: [71 1]RESERVED
+[->][END]
+645: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+646: [71 1]RESERVED
+[->][END]
+647: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+648: [71 1]RESERVED
+[->][END]
+649: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+651: [71 1]RESERVED
+[->][END]
+652: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+653: [71 1]RESERVED
+[->][END]
+654: RESERVED
+[->][END]
+655: [71 1]RESERVED
+[->][END]
+656: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+657: [71 1]RESERVED
+[->][END]
+658: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+659: [71 1]RESERVED
+[->][END]
+660: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+661: RESERVED
+[->][END]
+662: [71 1]RESERVED
+[->][END]
+663: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+664: [71 1]RESERVED
+[->][END]
+665: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+666: [71 1]RESERVED
+[->][END]
+667: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+668: RESERVED
+[->][END]
+669: [71 1]RESERVED
+[->][END]
+670: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+671: [71 1]RESERVED
+[->][END]
+672: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+673: [71 1]RESERVED
+[->][END]
+674: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+676: [71 1]RESERVED
+[->][END]
+677: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+678: [71 1]RESERVED
+[->][END]
+679: RESERVED
+[->][END]
+680: [71 1]RESERVED
+[->][END]
+681: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+682: [71 1]RESERVED
+[->][END]
+683: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+684: [71 1]RESERVED
+[->][END]
+685: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+686: RESERVED
+[->][END]
+687: [71 1]RESERVED
+[->][END]
+688: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+689: [71 1]RESERVED
+[->][END]
+690: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+691: [71 1]RESERVED
+[->][END]
+692: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+693: RESERVED
+[->][END]
+694: [71 1]RESERVED
+[->][END]
+695: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+696: [71 1]RESERVED
+[->][END]
+697: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+698: [71 1]RESERVED
+[->][END]
+699: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+701: [71 1]RESERVED
+[->][END]
+702: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+703: [71 1]RESERVED
+[->][END]
+704: RESERVED
+[->][END]
+705: [71 1]RESERVED
+[->][END]
+706: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+707: [71 1]RESERVED
+[->][END]
+708: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+709: [71 1]RESERVED
+[->][END]
+710: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+711: RESERVED
+[->][END]
+712: [71 1]RESERVED
+[->][END]
+713: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+714: [71 1]RESERVED
+[->][END]
+715: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+716: [71 1]RESERVED
+[->][END]
+717: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+718: RESERVED
+[->][END]
+719: [71 1]RESERVED
+[->][END]
+720: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+721: [71 1]RESERVED
+[->][END]
+722: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+723: [71 1]RESERVED
+[->][END]
+724: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+726: [71 1]RESERVED
+[->][END]
+727: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+728: [71 1]RESERVED
+[->][END]
+729: RESERVED
+[->][END]
+730: [71 1]RESERVED
+[->][END]
+731: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+732: [71 1]RESERVED
+[->][END]
+733: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+734: [71 1]RESERVED
+[->][END]
+735: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+736: RESERVED
+[->][END]
+737: [71 1]RESERVED
+[->][END]
+738: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+739: [71 1]RESERVED
+[->][END]
+740: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+741: [71 1]RESERVED
+[->][END]
+742: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+743: RESERVED
+[->][END]
+744: [71 1]RESERVED
+[->][END]
+745: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+746: [71 1]RESERVED
+[->][END]
+747: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+748: [71 1]RESERVED
+[->][END]
+749: RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+[END]
+751: [71 1]RESERVED
+[->][END]
+752: RESERVED
+[END]
+753: [71 1]RESERVED
+[->][END]
+754: RESERVED
+[->][END]
+755: [71 1]RESERVED
+[->][END]
+756: RESERVED
+[END]
+757: [71 1]RESERVED
+[->][END]
+758: RESERVED
+[END]
+759: [71 1]RESERVED
+[->][END]
+760: RESERVED
+[END]
+761: RESERVED
+[->][END]
+762: [71 1]RESERVED
+[->][END]
+763: RESERVED
+[END]
+764: [71 1]RESERVED
+[->][END]
+765: RESERVED
+[END]
+766: [71 1]RESERVED
+[->][END]
+767: RESERVED
+[END]
+768: RESERVED
+[->][END]
+769: [71 1]RESERVED
+[->][END]
+770: RESERVED
+[END]
+771: [71 1]RESERVED
+[->][END]
+772: RESERVED
+[END]
+773: [71 1]RESERVED
+[->][END]
+774: RESERVED
+[END]

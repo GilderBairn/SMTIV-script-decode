@@ -1,0 +1,24 @@
+0: [Color:0x5]Go have a look at the facility beneath the Hills
+Building in Roppongi[Color:0x0] and Tayama's shameful secret
+will be laid bare. It won't be easy to get to for
+all sorts of reasons, but since you passed our
+entrance test, I'm sure you'll be fine.
+[END]
+1: Dummy
+[END]
+2: Burroughs' note:
+That Hikaru girl said that a man named [Color:0x5]Fujiwara
+in Shinjuku[Color:0x0] knows a lot about what's beneath
+Roppongi. It seems like [Color:0x5]Florida[Color:0x0] is a members−
+only cafe, but the [Color:0x5]matchbox[Color:0x0] she gave you should
+be [Color:0x5]proof of membership...?[Color:0x0]
+[END]
+3: Burroughs' note:
+ 
+According to Mastema, these things called [Color:0x5]Reds[Color:0x0]
+are important to what's under Roppongi. Looks like
+[Color:0x5]the barrier's gone, so you can move past it.[Color:0x0] I
+think we must be getting closer to this facility.
+[END]
+4: Dummy
+[END]

@@ -1,0 +1,14 @@
+0: (Burroughs) [7a 2][13 0, 16001]Look, Master [Flynn]!
+[->][13 0, 16002]You've found something interesting.
+[END]
+1: (Hope) [7a 8][13 0, 16003]All prentices, this is Hope speaking.
+[->][13 0, 16004]Your training session has come to
+an end.
+[END]
+2: (Jonathan) [7a 3][13 0, 16005]It would seem someone has beaten me
+to the finish line.
+[END]
+3: (Walter) [7a 4][13 0, 16006]Aww... I was so close, too.
+[END]
+4: (Hope) [7a 8][13 0, 16007]Return to Aquila Plaza at once.
+[END]

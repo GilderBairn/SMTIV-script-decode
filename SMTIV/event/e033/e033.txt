@@ -1,0 +1,108 @@
+0: (Walter) [7a 4][7b 458756, 65537][13 0, 33001]What is that...!?
+[END]
+1: (Master Samurai) [7a 29][13 0, 33002]Wh−Who's there? Hello...?
+[END]
+2: (Navarre) [7a 6][13 0, 33003]That voice... Walter, is that you?
+I'm saved...!
+[->][13 0, 33004]It's me, Navarre! Your fellow Samurai!
+[->][13 0, 33005]Hurry and get me down from here...!
+[END]
+3: (Voice) [7a 65383][13 0, 33006]...What a selfish human.
+[->][13 0, 33007]First you deceived these people, tried
+to have them hurt, and now you're
+begging them to save you?
+[END]
+4: エラー
+[END]
+5: (Demon) [7a 65383][13 0, 33008]Mmm, the blood from humans like these
+is so scrumptious. It has this thick
+texture that lingers on the tongue.
+[->][13 0, 33009]I'd say it was smart of me to set up
+a Domain!
+[END]
+6: (Navarre) [7a 6][13 0, 33010]S−Stop... Ohh P−Please... I beg you...
+[END]
+7: (Demon) [7a 65383][13 0, 33011]Anyway, that's why I can't give them
+over to you.
+[->][13 0, 33012]Their blood is alllll mine!
+[END]
+8: [7b 655363, 65537][7b 655365, 131073]〉 The atmosphere in the area is changing...
+[END]
+9: (Jonathan) [7a 3][7b 131075, 65537][13 0, 33013]Where are we...?
+[END]
+10: (Isabeau) [7a 5][7b 393221, 131073][13 0, 33014]The Domain's faded away... This is
+what passes for normal in Naraku.
+[END]
+11: (Navarre) [7a 6][7b 196614, 65537][13 0, 33015]You gave a fine account of yourself...
+for a Casualry, I suppose.
+[END]
+12: (Navarre) [7a 6][7b 196614, 65537][13 0, 33016]Let me make one point clear. This is in
+no wise my fault. The masters told me
+to do it... I hadn't a choice...
+[END]
+13: (Master Samurai) [7a 29][13 0, 33017]Wh−What is this treachery!?
+[->][13 0, 33018]It was you who came to us with a
+scheme to frighten the impertinent
+prentices and−−
+[END]
+14: (Navarre) [7a 6][7b 131078, 65537][13 0, 33019]Hold your tongue!
+[END]
+15: (Navarre) [7a 6][7b 131078, 65537][13 0, 33020]I am the victim here! And I have been
+one since the day the Gauntlet chose
+me to be a Samurai!
+[END]
+16: (Jonathan) [7a 3][7b 655363, 65537][13 0, 33022]Navarre...?
+[END]
+17: (Navarre) [7a 6][7b 720902, 65537][13 0, 33023]Ah yes, those were the days...
+I was Father and Mother's delight.
+Ahaha...
+[END]
+18: (Navarre) [7a 6][7b 655366, 65537][13 0, 33024]Hee... Heeheehee...
+[END]
+19: (Jonathan) [7a 3][7b 458755, 65537][13 0, 33025]Navarre, what's the matter?
+Get a hold of yourself!
+[END]
+20: (Walter) [7a 4][7b 393220, 65537][7b 196613, 65537][13 0, 33026]......
+[->][13 0, 33027]I had a tongue−lashing all prepared...
+But he's taken the fun out of it.
+[END]
+21: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[END]
+22: (Isabeau) [7a 5][7b 196613, 65537][13 0, 33028]That led us in some unexpected
+directions, but at least the matter
+is settled now.
+[END]
+23: (Jonathan) [7a 3][7b 655363, 65537][13 0, 33030]Come now, Navarre... It's time we
+left Naraku behind.
+[END]
+24: 〉 Jonathan hoisted Navarre and the
+master Samurai on his shoulders.
+[END]
+25: (Jonathan) [7a 3][7b 196611, 65537][13 0, 33031][Flynn] and Walter...
+[->][13 0, 33032]I hope you won't think that all we
+Luxurors are like him.
+[END]
+26: 〉 Jonathan walked away with Navarre and
+the master Samurai.
+[END]
+27: (Walter) [7a 4][7b 393220, 65537][7b 65541, 196609][13 0, 33033]No, I can see that Navarre is...
+”special.”
+[END]
+28: (Walter) [7a 4][7b 393220, 65537][13 0, 33034]I think I'll be returning home. The
+quest's complete, after all.
+[END]
+29: 〉 Walter walked away.
+[END]
+30: (Isabeau) [7a 5][7b 393221, 131073][13 0, 33035]Then I shall see you tomorrow.
+[->][13 0, 33036]I expect you're tired too. You should
+get a good night's sleep tonight.
+[END]
+31: 〉 Isabeau walked away.
+[END]
+32: 〉 You parted ways with Jonathan, Walter,
+and Isabeau.
+[END]
+115: (Navarre) [7a 6][7b 655366, 65537][13 0, 33021]If only... If only I hadn't been
+chosen... Haha... Mine would have been
+a carefree life... Heehee...
+[END]

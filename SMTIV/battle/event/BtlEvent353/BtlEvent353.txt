@@ -1,0 +1,74 @@
+0: (Gabriel) To think that you, one of the Lord's
+chosen, would reject His outstretched
+hand and fall in with demons...
+[->]It seems that we erred in allowing you
+to keep your Gauntlet...
+[END]
+10: (Gabriel) Nnngh...! What... horrifying power...!
+[->]My Lord... Am I to be defeated here...?
+[END]
+11: 〉 A majestic voice echoes from
+somewhere...
+[END]
+12: (Majestic voice) [7a 1]Gabriel... You have done all you can.
+Now retreat.
+[->]I, [Color:0x5]Michael,[Color:0x0] will take care of the rest.
+[END]
+13: 〉 A vicious, heated wind scorches the
+area...
+[END]
+1000: (Gabriel) The Eastern Kingdom of Mikado is the
+home of the new human race that has been
+restored at the hands of the Lord.
+[->]We cannot allow man to be corrupted by
+the troublesome serpent's ideas again.
+[->]Just as mankind fell and became the
+Unclean Ones in the past...
+[END]
+1001: ”You are wrong.”
+”It's not wrong.”
+Remain silent
+[END]
+1002: (Gabriel) No, it is you who are in the wrong. You
+need only look at Tokyo if it is evidence
+you require.
+[->]That city, having lost its glory and
+light to descend into endless darkness,
+overflows with violence and lust.
+[->]How can man live an upright life in
+such a land?
+[END]
+1003: 〉 Gabriel surges with murderous power...
+[END]
+1004: 〉 Gabriel gains the power to act more!
+[END]
+1005: (Gabriel) Indeed, we are correct. Simply look at
+the pitiful state of Tokyo.
+[->]Robbed of the Lord's glory and light,
+they face eternal darkness.
+[->]We must not let the same fate befall the
+Eastern Kingdom of Mikado...
+[END]
+1006: 〉 Gabriel surges with murderous power...
+[END]
+1007: 〉 Gabriel gains the power to act more!
+[END]
+1008: (Gabriel) ...You need not say anything.
+[->]You know that we are right, yet you
+have been brainwashed by that ”raven,”
+no?
+[->]Ah, that vexing raven... he is a disgrace
+to our order who leads our children
+astray...!
+[END]
+1009: 〉 Gabriel is filled with such disgust
+that you see an opening...
+[END]
+1010: 〉 Gabriel lost her chance to act!
+[END]
+1011: (Gabriel) That is why we will purify them. Can you
+say that we are wrong to do so?
+[END]
+1012: (Gabriel) ...For the sake of all that is good in
+man, the Filth must be annihilated.
+[END]

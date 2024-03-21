@@ -1,0 +1,15 @@
+0: (Astaroth) [7a 0][13 0, 350901]Chasing down a demon is hardly the
+wisest choice a warrior like yourself
+could make...
+[->][13 0, 350902]But, you're determined to finish
+the job. I admire that.
+[->][13 0, 350903]...I believe I've had enough time to
+get used to this world.
+[->][13 0, 350904]Very well. If you wish to challenge
+me, then I shall gladly be your
+opponent!
+[END]
+1: (Astaroth) [7a 0][13 0, 350906]How could you defeat me, the
+Overlord Astaroth...?
+[->][13 0, 350907]What are you...?
+[END]

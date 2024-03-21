@@ -1,0 +1,49 @@
+0: (Emaciated man) [7a 59][13 1, 403211]We've never been strong enough to
+fight, so I've never tasted demon
+meat.
+[->]Because of that, we were on the edge
+of starvation... but, still, we
+managed.
+[END]
+1: (Emaciated man) [7a 59][13 1, 403212]We starved because we could not get
+a supply of demon meat. That's why
+we were desperate to rely on God...
+[->]Eventually, that turned into us
+worshipping Gozutennou.
+[END]
+2: (Emaciated man) [7a 59][13 1, 403212]Though it was purely for survival,
+we have committed a sin that cannot
+be forgiven.
+[->]We've decided to bear this sin and
+continue living.
+[END]
+3: (Thin−faced woman) [7a 122][13 1, 403323]Huh? ...What did we eat to survive
+if we didn't have demon meat?
+[->]Th−That's... none of your business!
+Leave us alone!
+[END]
+4: (Thin−faced woman) [7a 122][13 1, 403322]We had cows. That's what we ate
+all this time.
+[->]Cows... That's right...
+We ate beef!
+[END]
+5: (Thin−faced woman) [7a 122][13 1, 403322]I kept telling myself that it was
+beef...
+[->]If only I'd been able to do anything
+else with the desperation I used in
+lying to myself...
+[END]
+6: (Elderly woman) [7a 65][13 1, 403923]Our lives are the result of
+Gozutennou's blessing...
+[->]We owe our survival to Gozutennou
+sharing his food with us...
+[END]
+7: (Elderly woman) [7a 65][13 1, 403923]The festivals for Gozutennou begin
+with a quiet prayer, then move on
+to song and dancing...
+[->]And finally, we eat the animal that
+we offered to Gozutennou earlier.
+[END]
+8: (Elderly Woman) [7a 65][13 1, 403923]That long, nightmarish fete is
+finally over...
+[END]

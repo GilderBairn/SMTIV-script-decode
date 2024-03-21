@@ -1,0 +1,46 @@
+0: (Creepy voice) [7a 20][13 0, 77001]Whooooohhhh... More Hunters I need
+to mop up?
+[END]
+1: 〉 A demon appeared from the pond.
+[END]
+2: (Demon) [7a 64725][13 0, 77002]How many times do I hafta kill ya
+until you're satisfied?
+[->][13 0, 77003]I ain't leaving this lake. I'll eat
+and eat and shit it up all I want.
+[END]
+3: (Demon) [7a 64725][13 0, 77004]Want me to fill ya with sludge all the
+way down to your bones, Hunter bro?
+[END]
+4: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[END]
+5: (Isabeau) [7a 5][7b 196613, 65537][13 0, 77006]Nngh... What is this? It's positively
+revolting...
+[END]
+6: 〉 Isabeau obtained Peallaidh's head.
+[END]
+7: (Isabeau) [7a 5][7b 65541, 131073][13 0, 77007]You take it, Jonathan.
+[END]
+8: 〉 Jonathan obtained Peallaidh's head.
+[END]
+9: (Jonathan) [7a 3][7b 524291, 65537][13 0, 77008]Wh−What an indescribable stench.
+It's positively dizzying...
+[END]
+10: 〉 Walter obtained Peallaidh's head.
+[END]
+11: (Walter) [7a 4][7b 393220, 65537][13 0, 77010]It worries me that our Luxurors
+can't keep their meals down in times
+like this.
+[END]
+12: 〉 [Flynn] obtained Peallaidh's head.
+[END]
+111: (Walter) [7a 4][7b 262148, 65537][13 0, 77011]Why, this head is a trophy of our
+victory! I'd hoist it with−−
+[END]
+209: (Jonathan) [7a 3][7b 655363, 65537][7b 393220, 65537][13 0, 77009]I'm sorry, Walter. It's too much for
+me to bear...
+[END]
+211: (Walter) [7a 4][7b 524292, 65537][13 0, 77012]...Hrgh...
+[END]
+311: (Walter) [7a 4][7b 524292, 65537][13 0, 77013][Flynn]... I'll let you handle
+this one.
+[END]

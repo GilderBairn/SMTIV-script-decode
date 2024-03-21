@@ -1,0 +1,19 @@
+0: This will initialize the save data.
+[END]
+1: Initializing save data...
+[END]
+2: The save data has been initialized.
+[END]
+3: Save data is corrupted.
+Initializing...
+[END]
+4: Could not access the save data.
+[END]
+5: Could not initialize the save data.
+[END]
+6: The save data was corrupted and has
+been deleted.
+[END]
+7: Save data was corrupted.
+Initializing save data...
+[END]

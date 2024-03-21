@@ -1,0 +1,16 @@
+0: To all Hunters in Tokyo: We, the Four Devas,
+issue a challenge. Those of you confident
+in skill or believing yourself to be the rightful
+ruler of Tokyo, come to the [Color:0x5]Gokoku−ji Temple[Color:0x0] 
+southeast of [Color:0x5]Ikebukuro[Color:0x0] to face us if you dare.
+The winner shall be rewarded with access to the
+sealed underground chambers.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

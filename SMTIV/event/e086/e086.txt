@@ -1,0 +1,85 @@
+0: (Girl) [7a 20][13 0, 86001]Hello.
+[END]
+1: (Walter) [7a 4][7b 655364, 65537][7b 65539, 131073][13 0, 86002]H−Hoy... What do you want...?
+[END]
+2: (Girl) [7a 20][13 0, 86003]I haven't seen you before. Where are
+you from?
+[END]
+3: ”The surface.”
+Remain silent
+[END]
+4: (Girl) [7a 20][13 0, 86004]The surface? You mean the place on
+the top of the ceiling?
+[->][13 0, 86005]Ooh, are you the ”angels” people are
+talking about?
+[END]
+5: (Girl) [7a 20][13 0, 86006]Neat... *giggle*
+[END]
+6: (Jonathan) [7a 3][7b 786435, 65537][7b 786436, 65537][13 0, 86007]So we are gaining some infamy in
+Tokyo after all...
+[END]
+7: (Girl) [7a 20][13 0, 86008]So are you guys those ”angels” people
+are talking about?
+[END]
+8: (Walter) [7a 4][7b 65540, 65537][13 0, 86009]If people are gossiping about us in
+this foreign land, our infamy is
+indeed spreading...
+[END]
+9: (Girl) [7a 20][13 0, 86011]Neat... *giggle*
+[END]
+11: 〉 The girl walked closer to you.
+[END]
+12: (Girl) [7a 20][7b 262164, 65537][13 0, 86013]I'm Hikaru.
+[END]
+13: (Hikaru) [7a 20][7b 65556, 65537][13 0, 86014]And I'm interested in you all.
+[END]
+14: (Isabeau) [7a 5][7b 131077, 65537][7b 720900, 65537][13 0, 86015]You are...? I suppose I am grateful
+for that.
+[END]
+15: (Hikaru) [7a 20][7b 262164, 65537][13 0, 86016]By the way, you're after the Black
+Samurai, huh?
+[END]
+16: (Hikaru) [7a 20][7b 65556, 65537][13 0, 86017]I don't know where she is, but I do
+know a place where there's a lot
+of books!
+[END]
+17: (Walter) [7a 4][7b 458756, 131073][7b 524293, 65537][13 0, 86018]Truly? Hoy, tell us... ah, if
+you please.
+[END]
+18: (Hikaru) [7a 20][7b 262164, 65537][13 0, 86019]It's the Juraku Bookstore in the city
+called Ikebukuro.
+[END]
+19: (Burroughs) [7a 2][13 0, 86020]This seems like important evidence.
+I'll make a note of it in the quest.
+[END]
+20: (Jonathan) [7a 3][7b 65539, 65537][13 0, 86021]Tell me... why are you showing us such
+kindness when we've only just met?
+[END]
+21: (Hikaru) [7a 20][7b 262164, 65537][13 0, 86022]Didn't I tell you that already? I'm
+interested in you guys.
+[END]
+22: (Hikaru) [7a 20][7b 65556, 65537][13 0, 86023]Well, see you later!
+[END]
+23: 〉 Hikaru walked away.
+[END]
+24: (Walter) [7a 4][7b 655364, 65537][7b 655365, 131073][13 0, 86024]What? You're leaving so soon...?
+[END]
+25: (Isabeau) [7a 5][7b 524293, 131073][13 0, 86025]...Clearly, she's the type to win
+men's favor. For myself, I cannot
+abide her like.
+[END]
+26: (Jonathan) [7a 3][7b 65539, 65537][13 0, 86026]There, there, Isabeau.
+[END]
+108: (Walter) [7a 4][7b 262148, 65537][7b 524291, 65537][13 0, 86010]You are correct. We are, in fact,
+those same angels.
+[END]
+110: (Isabeau) [7a 5][7b 655365, 65537][7b 65540, 65537][13 0, 86012]That having been established, who
+are you? Have you some business
+with us?
+[END]
+126: (Jonathan) [7a 3][7b 786435, 65537][13 0, 86027]She knew about the book aspect of our
+quarry, though. Has word of our search
+traveled so far already?
+[END]
+900: コープス退治のクエストを受注します
+[END]

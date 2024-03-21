@@ -1,0 +1,12 @@
+0: (Koga Saburo) [7a 0][13 0, 303900]Be it humans or demons, I have no mercy
+on those who bargain away their pride
+and sorrow!
+[->][13 0, 303901]You can wait in the afterlife; your
+lord Tayama will soon follow!
+[END]
+1: (Koga Saburo) [7a 0][13 0, 303902]I... I... was protecting... This
+country...
+[->][13 0, 303903]Th... The future of this land...
+is shrouded... in... mist...
+[->][13 0, 303904]Why... do humans... always...?
+[END]

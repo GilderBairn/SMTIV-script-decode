@@ -1,0 +1,88 @@
+0: (Scrupulous Samurai) [7a 116][13 1, 403041]Ah, a fellow Samurai! It's so good
+to see you here.
+[->]I just received an interesting tip from
+a lady. She said that we can find books
+at a place called Ikebukuro.
+[->]That may be just the place to begin our
+hunt for the Black Samurai...
+[END]
+1: (Grumpy Samurai) [7a 29][13 1, 403041]Ah, my fellow Samurai. What a strange
+coincidence. Are you here to salvage
+relics as well?
+[->]Rumor has it that there is some sort
+of ”sanctuary” within Tokyo.
+[->]Our kingdom, too, has a sanctuary...
+Though I've not set foot in it for
+a very long time.
+[END]
+2: (Grumpy Samurai) [7a 29][13 1, 403041]Ah, my fellow Samurai. What a strange
+coincidence. Are you here to salvage
+relics as well?
+[->]By the by, have you seen any of our
+other fellows here? One of them came
+to Shinjuku with me...
+[->]Well, Tokyo is vast. I'm sure he's
+looking for relics on his own
+somewhere...
+[END]
+3: (Grumpy Samurai) [7a 29][13 1, 403042]Demons were spreading a rumor that the
+angels were mounting an attack from
+above the Firmament.
+[->]I've heard nothing about this. I hope
+that we don't find ourselves caught in
+the midst of an assault...
+[END]
+4: (Grumpy Samurai) [7a 29][13 1, 403011]I hear that the Eastern Kingdom of
+Mikado has been reborn as a land
+governed by God and His angels.
+[->]The kingdom as we knew it is no
+more, I fear...
+[END]
+5: (Grumpy Samurai) [7a 29][13 1, 403041]What's this? When did you become the
+champion of the Hunters?
+[->]My God, man... I must commend you
+for your determined spirit.
+[END]
+6: (Grumpy Samurai) [7a 29][13 1, 403042]Hoy! Is it true that all of our
+countrymen in the kingdom are
+coming here to Tokyo?
+[->]Th−This is unprecedented... Why, the
+immense scale of such a thing...!
+[END]
+7: (Grumpy Samurai) [7a 29][13 1, 403042]Shinjuku and Shene Duque... Not only
+those, either. There are similarities
+to be found in names all over...
+[->]Perhaps the Eastern Kingdom of Mikado
+was built on the nostalgia of King
+Aquila himself.
+[END]
+102: (Grumpy Samurai) [7a 29][13 1, 403022]One of our fellows has been captured
+by an Unclean One named Tayama...
+[->]But Abbot Hugo told me to concentrate on
+salvaging relics and that you would
+negotiate his release.
+[->]This sense of unease I feel toward Abbot
+Hugo only grows stronger... Please look
+after our fellow Samurai.
+[END]
+202: (Grumpy Samurai) [7a 29][13 1, 403043]Hoy, did something happen to your band?
+I saw Walter wandering alone...
+[->]It seemed that he was going to K...
+Kabu... Kabukucho...
+[END]
+302: (Grumpy Samurai) [7a 29][13 1, 403043]I've just seen Walter traveling on
+his own. But weren't the four of you
+working as a team?
+[->]Tokyo is a strange land to us. We must
+help our fellow Samurai in order to
+accomplish our tasks.
+[END]
+402: (Grumpy Samurai) [7a 29][13 1, 403043]Hm? You didn't receive the order to
+report back to Mikado Castle?
+[->]Abbot Hugo's wishes were for us to
+forget our fellow held captive by
+Tayama...
+[->]This sense of unease I feel toward Abbot
+Hugo only grows stronger... Nevertheless,
+orders are to be obeyed.
+[END]

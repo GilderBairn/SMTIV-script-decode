@@ -1,0 +1,19 @@
+0: (Nozomi) [7a 138][13 0, 350601]Huh? What the−−?
+Hey, get me out of here!
+[->][13 0, 350602]Ohhhh...!
+Am I gonna be burned alive!?
+[END]
+1: (Nozomi) [7a 138][13 0, 350603]Wait, they caught me again!?
+[->][13 0, 350604]Why the hell does this keep
+happening!?
+[END]
+2: (Nozomi) [7a 138][13 0, 350605]Oh come on! What the hell!
+[->][13 0, 350606]Why do they want to roast me so bad!?
+What is wrong with these things!?
+[END]
+3: 〉 You have defeated the demons and
+rescued Nozomi.
+[END]
+4: 〉 Nozomi has been trapped within the
+demon's body!
+[END]

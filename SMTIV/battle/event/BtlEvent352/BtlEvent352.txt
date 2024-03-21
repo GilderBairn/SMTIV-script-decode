@@ -1,0 +1,55 @@
+0: (Raphael) The existence of the Filth saddens our
+Lord. It is a wound unto the people as
+well...
+[->]To heal this disease, the Filth must be
+eliminated, along with Tokyo.
+[->]We will do whatever is required of us
+to bring that about.
+[END]
+10: (Raphael) Why are you... one of the chosen...
+smiting us...?
+[->]No... Could it be... that you have the
+same... Unclean blood as Aquila...!?
+[END]
+1000: (Raphael) ...I ask unto you.
+[->]Surely, you must realize that Tokyo cannot
+be left as is.
+[->]If the situation here remains, the
+Eastern Kingdom of Mikado will continue
+to be poisoned by Filth.
+[->]Does the situation not fill you with
+melancholy?
+[END]
+1001: ”No.”
+”It does...”
+Remain silent
+[END]
+1002: (Raphael) To think such Unclean words would spill
+from the mouth of one chosen by God...
+[->]Ah... How horrifying...!
+[END]
+1003: 〉 Raphael's heart was disturbed by
+disgust...
+[END]
+1004: 〉 Raphael lost a chance to act!
+[END]
+1005: (Raphael) ...I thought as much. That is why we
+must hurry our plan along.
+[->]And to do this...
+[->]I must return your soul to the heavens!
+[END]
+1006: 〉 Raphael becomes filled with divine
+power...
+[END]
+1007: 〉 All of Raphael's abilities increased!
+[END]
+1008: (Raphael) How can you not answer such a simple
+question as this?
+[->]...For one of the chosen, you are quite
+an insufferable man.
+[END]
+1009: 〉 Raphael quietly burns with fighting
+spirit...
+[END]
+1010: 〉 All of Raphael's abilities increased!
+[END]

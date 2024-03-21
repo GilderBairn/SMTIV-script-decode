@@ -1,0 +1,22 @@
+0: (Fierce−looking man) [7a 138][13 0, 131001]Youse them, huh? The Samurai what
+handled Shibuya.
+[->][13 0, 131002]How do ya like this building, huh?
+Home of the rich and famous... An'
+all owned by the Ashura−kai.
+[END]
+2: (Fierce−looking man) [7a 138][13 0, 131003]Not impressed, are ya? Eh, fine.
+Take the elevator to the 52nd floor.
+[->][13 0, 131004]Mr. Tayama's waiting there with
+your friend.
+[END]
+3: 〉 [Flynn] and his fellow Samurai
+entered the huge building...
+[END]
+4: (Fierce−looking man) [7a 138][13 0, 131005]Mr. Tayama said to me you're free to
+come and go.
+[END]
+5: 〉 [Flynn] and his fellow Samurai
+entered the huge building...
+[END]
+103: (Burroughs) [7a 2][13 0, 400051]Congratulations on completing the quest.
+[END]

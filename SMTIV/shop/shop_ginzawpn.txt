@@ -1,0 +1,31 @@
+23: (Hostess) [7a 0][13 0, 405506]I'll appraise those for you!
+[END]
+24: (Hostess) [7a 0]I can give you this much for everything.
+Here you go!
+[END]
+25: (Hostess) [7a 0][13 0, 405500]Welcome!
+[END]
+26: (Hostess) [7a 0][13 0, 405503]Any other business I can help you with?
+[END]
+27: (Hostess) [7a 0][13 4, 405502]Come again!
+[END]
+28: (Hostess) [7a 0][Item 1] x[Amount 1], hmm?
+That'll be [Amount 2] Macca.
+That all right with you?
+[END]
+29: (Hostess) [7a 0][Item 1] x[Amount 1], hmm?
+I'll pay... [Amount 2] Macca for that.
+[END]
+30: (Hostess) [7a 0][13 0, 405507]Thanks!
+[END]
+31: (Hostess) [7a 0]Are you gonna change here?
+[END]
+32: (Hostess) [7a 0][13 0, 405505]What do you want to sell?
+[END]
+33: (Hostess) [7a 0][13 0, 405504]What do you want to buy?
+[END]
+34: (Hostess) [7a 0][13 0, 405501]We're having a sale!
+[END]
+55: Yes
+No
+[END]

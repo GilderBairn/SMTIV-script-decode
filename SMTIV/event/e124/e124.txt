@@ -1,0 +1,66 @@
+0: 〉 There is a naked man wearing a mask
+inside the birdcage...
+[END]
+1: (Voice) [13 0, 124001]...Stop right there.
+[END]
+2: (Demon) [7a 65120][13 0, 124002]I am Gemori, the guardian of this
+birdcage.
+[END]
+3: (Gemori) [7a 65120][13 0, 124004]Come now... forget about the cage and
+let us make love together.
+[->][13 0, 124005]I'll show you amazing love which
+anyone would die for...!
+[END]
+5: (Masked man) [13 0, 124006]...Is someone there?
+[END]
+8: 〉 Walter rushed to open the birdcage.
+[END]
+9: (Walter) [7a 4][13 0, 124007]One of the fellows Gabby told us to
+rescue, I take it.
+[END]
+10: (Walter) [7a 4][13 0, 124008]Don't worry, we mean you no harm.
+We're here on a rescue.
+[->][13 0, 124009]He's dreadfully emaciated... I don't
+think we should leave him this way.
+[END]
+11: (Masked man) [7a 28][13 0, 124010]Who are you...?
+[END]
+12: (Walter) [7a 4][13 0, 124011]A woman named Gabby of the Eastern
+Kingdom of Mikado asked us to come
+to your aid.
+[END]
+13: (Masked man) [7a 28][13 0, 124012]Gabby, eh...?
+[->][13 0, 124013]I feel as if I recall that name,
+but this mask makes it so hard to
+be sure of anything.
+[END]
+14: (Walter) [7a 4][13 0, 124014]Then I'll have it off of you in
+but a moment.
+[END]
+15: (Masked man) [7a 28][13 0, 124015]No, there is no point in trying...
+This mask can only be removed by a
+kindred spirit.
+[->][13 0, 124016]But I can't even think who that
+kindred spirit would be...
+[END]
+16: (Walter) [7a 4][13 0, 124017]...Ah well.
+[->][13 0, 124018]I'll see him safe on his way back
+to the Monastery.
+[END]
+17: (Walter) [7a 4][13 0, 124019]The rest will be up to you!
+[END]
+18: (Walter) [7a 4][13 0, 124017]...Ah well.
+[->][13 0, 124021]This is the last of them, then.
+[->][13 0, 124022]I'll see him safe on his way back
+to the Monastery.
+[END]
+19: 〉 Walter carried the man on his back and
+headed for the tower's exit.
+[END]
+20: 〉 Walter parted ways with you.
+[END]
+102: (Gemori) [7a 65120][13 0, 124003]I knew of your coming. I know
+everything, after all.
+[END]
+117: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]

@@ -1,0 +1,719 @@
+0: Dummy Message
+[END]
+1: [71 1]No way! Why would I join you!?
+[->]Huh...? You're looking for demons?
+[->]Wha−−!? Are you saying I look like
+a demon!? How rude!
+[->][END]
+2: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+3: [71 1]Are you joking? You attack me, and
+now you want to talk!?
+[->]This is why I hate fighting people.
+They're worse than demons...
+[->][END]
+4: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+5: [71 1]Reserve
+[->][END]
+6: [71 1]You want me to help you? Then show
+me some money! It's what makes the
+world go 'round!
+[->][END]
+7: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+8: [71 1]Hey, you paid me this much...
+All right, I'll join you!
+[->][END]
+9: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]Hey! You don't have any room on
+your team for me!
+[->]Fine, then! I'm going home!
+[->][END]
+13: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1]![Color:0x0]
+I'll stick around as long as you
+can keep paying me!
+[->][END]
+14: [71 1]Are you kidding me!? Your level's
+even lower than mine!
+[->]No way! I'm not going to be seen
+with someone like you!
+[->][END]
+15: [71 1]Wait! That girl with you...
+I've seen her before...
+[->]...Oh, that's my friend!
+Looks like I'm done here.
+[->][END]
+16: [71 1]Hey, while we're at it, why don't
+we ask the others?
+[->]We might just get a volunteer!
+[->][END]
+17: [71 1]...But you don't have enough room
+for anyone else to come along.
+[->]Guess it's just me, then. Ugh, and
+that was such a great idea!
+[->][END]
+18: [71 1]It looks like being with you would
+be better! I'm coming, too!
+[->][END]
+19: [71 1]What's up with them?
+Psh, whatever. Let's go!
+[->][END]
+20: [71 1]Okay, it's my turn now!
+[->][END]
+21: [71 1]Can I introduce you to one of my
+friends?
+[->][END]
+22: [71 1][Demon name 2] called me here!
+[->]Don't worry. Leave everything to me!
+[->][END]
+23: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+24: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+25: [71 1]You want a truce? Then show me the
+money! The world runs on money!
+[->][END]
+26: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+27: [71 1]Hey, you paid me this much...
+All right, I'll stop fighting!
+[->][END]
+28: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+29: [71 1]Be quiet! Don't talk to me when
+I'm trying to sleep!
+[->]Just go away! Let me get my beauty
+rest!
+[->][END]
+30: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+31: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+32: [71 1]Wait! You gave me money, so I should
+at least heal you!
+[->][END]
+33: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+34: [71 1]Gifts for me? Then show me the
+money! The world runs on money!
+[->][END]
+35: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+36: [71 1]Getting money for free! Hahaha!
+It's too good!
+[->][END]
+37: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+38: [71 1]G−Giving me gifts! Wow! Yes!
+[->]After all these years since I moved
+into the city... Someone finally
+appreciates me!
+[->][END]
+39: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+40: [71 1]Look! Money! Money is power!
+And this money is mine!
+[->][END]
+41: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+42: [71 1]You want my mercy? Then show me the
+money! The world runs on money!
+[->][END]
+43: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+44: [71 1]Okay. You paid me, so I'll pay you
+back with mercy.
+[->][END]
+45: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+46: [71 1]Don't you know never to wake a girl
+when she's sleeping!?
+[->]Fine, fine, get the hell outta here!
+Just leave me alone, asshole!
+[->][END]
+47: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+48: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+49: [71 1]Oh... Hey, that was fun!
+Let me try that again!
+[->][END]
+50: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+51: [71 1]Hey...! Those eyes of yours...
+[->]Has the Hunter become the Hunted...?
+[->][END]
+52: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+53: [71 1]Fine, take the money! Don't let it
+get to your head!
+[->]I'm going to hunt you down next time!
+[->][END]
+54: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+55: [71 1]I'll kill you first!
+[->]Once you're dead, I'll take what I
+want from your corpse!
+[->][END]
+56: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+57: [71 1]N−Nooooooooo!
+[->][END]
+58: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+59: [71 1]H−Hey! Why don't you stop right
+there, mister...
+[->][END]
+60: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+61: [71 1]Ugh! Enough, already! I've got some
+pride, you know!
+[->]Take it! Take it all, you pig!
+[->]Does mugging women make you feel
+good about yourself, you prick!?
+[->][END]
+62: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+63: [71 1]Hey, didn't I say to stop it...?
+[->]Now you're going to have to pay...!
+[->][END]
+64: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+65: [71 1]Oh, crap... I can't move!
+[->]Things aren't looking good...
+[->][END]
+66: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+67: [71 1]You want to trade for an item, huh?
+Then show me your cash!
+[->][END]
+68: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+69: [71 1]Heh heh... Sold! You can have this!
+[->][END]
+70: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+71: [71 1]Hahaha... Why do people steal from
+each other? It's the human ability
+to share that makes us special!
+[->]And now! I'm sharing something with
+you! Take this!
+[->][END]
+72: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+73: [71 1]Here's something extra.
+I hope we meet again soon...
+[->][END]
+74: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+75: [71 1]I'm busy here! Let's get this over
+with right now!
+[->][Color:0x1][Amount 1] Macca![Color:0x0]
+Deal, or no deal?
+[->][END]
+76: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+77: [71 1]NOT USED
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]I'll take [Color:0x1][Amount 1] Macca![Color:0x0]
+[->][END]
+80: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+81: [71 1]NOT USED
+[->][END]
+82: NOT USED
+[END]
+83: [71 1]NOT USED
+[->][END]
+84: NOT USED
+[END]
+85: [71 1]NOT USED
+[->][END]
+86: NOT USED
+[END]
+87: [71 1]NOT USED
+[->][END]
+88: NOT USED
+[END]
+89: [71 1]NOT USED
+[->][END]
+90: NOT USED
+[END]
+91: [71 1]NOT USED
+[->][END]
+92: NOT USED
+[END]
+93: [71 1]NOT USED
+[->][END]
+94: NOT USED
+[END]
+95: [71 1]NOT USED
+[->][END]
+96: NOT USED
+[END]
+97: [71 1]NOT USED
+[->][END]
+98: NOT USED
+[END]
+99: [71 1][Color:0x1]That![Color:0x0] Give me [Color:0x1]that![Color:0x0]
+You know, [Color:0x1]that![Color:0x0]
+[->][END]
+100: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+101: [71 1]Oh...! I don't even know what I want.
+[->]You, tell me. What do I want?
+[->][END]
+102: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+103: [71 1]That's it! I wanted this!
+[->][END]
+104: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+105: [71 1]You idiot! I don't want that!
+[->][END]
+106: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+107: [71 1]Give me all your money!
+[->][END]
+108: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+109: ”Sure.”
+”I don't think so.”
+[->][END]
+110: [71 1]Ha! I'm just kidding. I'm not gonna
+take all your cash! Don't take
+everything so seriously.
+[->]I'll only take... this much!
+[->][END]
+111: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]Did you think I was joking?
+[->]Hand it over!
+[->][END]
+115: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]Hmph! I was only kidding!
+What a coward!
+[->][END]
+119: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+120: [71 1]Hmhmhm... This should be enough...
+[->][END]
+121: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+122: [71 1]Hahaha! Wow! Money, money, and money!
+[->][END]
+123: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+124: [71 1]Tch...! Not giving it to me...?
+[->][END]
+125: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+126: [71 1]You're gonna hold back, huh?
+Well, the joke's on you! Die!
+[->][END]
+127: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+128: [71 1]Forget it! I'm done trying to deal
+with you!
+[->][END]
+129: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+130: [71 1]Are you lying to me? Well, the joke's
+on you! Die!
+[->][END]
+131: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+132: [71 1]You don't have it!? You bum...
+[->][END]
+133: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+134: [71 1]NOT USED
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]Huh... Oh, well!
+I know when enough's enough!
+[->][END]
+137: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+138: [71 1]Why are you telling me what to do!?
+Well, the joke's on you! Die!
+[->][END]
+139: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+140: [71 1]You're so stubborn! Do you like money
+that much!?
+[->]Well, I can respect that greed.
+I'm gonna let you off the hook.
+Just this once, though!
+[->][END]
+141: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+142: [71 1]You just nod to everything I say!
+[->]I can't trust you to do anything!
+Leave me alone!
+[->][END]
+143: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+144: [71 1]Wow, you are seriously poor!
+I actually feel sorry for you.
+[->]All right, I'll let you go this once.
+[->][END]
+145: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1][Flynn]? You're still alive!
+[->]I think we've gotten pretty close
+after all this time, huh?
+[->][END]
+149: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+150: [71 1]You want to join up, huh?
+How can I refuse?
+[->]I normally charge for this, but since
+it's you, I'll do it for free.
+[->][END]
+151: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+152: [71 1]You want a truce, huh?
+How can I refuse?
+[->]I normally charge for this, but since
+it's you, I'll do it for free.
+[->][END]
+153: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+154: [71 1]You want a gift, huh?
+How can I refuse?
+[->]I normally charge for this, but since
+it's you, I'll do it for free.
+[->][END]
+155: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+156: [71 1]You want me to worship you?
+I can't say no to you!
+[->]I normally charge for this, but since
+it's you, I'll do it for free.
+[->][END]
+157: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+158: [71 1]You want to rob me?
+How can I say no?
+[->]...Ha! I can say no by just giving
+you money! You could've just asked!
+[->]Here you go, buddy.
+[->][END]
+159: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+160: [71 1]You want to buy something off me?
+How can I say no?
+[->]I normally charge for this, but since
+it's you, I'll do it for free.
+[->][END]
+161: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+162: [71 1]Look, you're boring me to death here.
+[->]Instead of saying the same thing
+over and over again, can you try for
+a little variety? Come on!
+[->][END]
+163: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+164: [71 1] [Flynn]! You're still alive!?
+[->]I figured I'd become the main
+character of this game once you were
+dead...
+[->]I guess that'll have to wait.
+[->][END]
+165: [71 1]Wait, you barbarian! You aren't
+really going to kill me, are you!?
+[->]I'll do anything you want!
+Please, let me go!
+[->][END]
+166: Reserve
+[END]
+167: [71 1]Ugh! Fine!
+Not like I have a choice...
+[->][END]
+168: Reserve
+[END]
+169: [71 1]You son of a bitch!
+You'll get yours one day!
+[->][END]
+170: Reserve
+[END]
+171: [71 1]NOT USED
+[->][END]
+172: [71 1]NOT USED
+[->][END]
+173: [71 1]NOT USED
+[->][END]
+174: [71 1]NOT USED
+[->][END]

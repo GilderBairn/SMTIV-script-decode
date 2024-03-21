@@ -1,0 +1,92 @@
+0: 〉 It's sealed with a mystical spell.
+It seems you can't proceed past it...
+[END]
+1: (Voice) [13 0, 108001]...I wouldn't, if I were you.
+[END]
+2: (Gallant woman) [7a 140][13 0, 108002]Past here is a Domain beyond the reach
+of ordinary Hunters.
+[END]
+3: (Walter) [7a 172][13 0, 108005]Ring of Gaea...?
+[END]
+4: (Gallant woman) [7a 140][13 0, 108006]Even we don't know what to do about
+this barrier. It's definitely out of
+your league.
+[->][13 0, 108007]If only we had the [Color:0x5]Jirae Talisman[Color:0x0]
+from a god of the land, we could
+break this foreign demon's spell...
+[END]
+5: (Walter) [7a 4][13 0, 108008]The Jirae Talisman... Wasn't that
+what we were given in Shinjuku?
+[END]
+6: (Walter) [7a 4][7b 786436, 65537][13 0, 108009]You still have it, don't you,
+[Flynn]? Should we try it...?
+[END]
+7: Use the Jirae Talisman
+Walk away
+[END]
+8: 〉 [Flynn] held the Jirae Talisman
+up to the seal in front of him...
+[END]
+9: (Gallant woman) [7a 140][13 0, 108021]Wise move. Take my advice and go
+back to the underground districts.
+[END]
+10: (Gallant woman) [7a 140][13 0, 108010]Huh... Not bad for a common Hunter.
+[END]
+11: (Gallant woman) [7a 140][13 0, 108011]Hmmm...
+[END]
+12: 〉 The gallant woman removed something
+from her cleavage and fiddled with it...
+[END]
+13: (Gallant woman) [7a 140][13 0, 108012]It's Kaga.
+[END]
+14: (Kaga) [7a 140][13 0, 108013]There's a way through that barrier.
+That's right... We'll go on ahead and
+make a sneak attack.
+[->][13 0, 108014]Once we kill Xi Wangmu, the whole
+barrier around Ikebukuro should
+disappear.
+[->][13 0, 108015]Right... I'll be counting on you.
+[END]
+15: (Kaga) [7a 140][13 0, 108016]Very impressive, what you did with
+the Jirae Talisman.
+[->][13 0, 108017]But that's as far as you'll be poking
+your noses into this.
+[->][13 0, 108018]The rest is a job for us in the
+Ring of Gaea.
+[->][13 0, 108019]Well then...
+[END]
+16: 〉 Kaga went on her way.
+[END]
+17: (Gallant woman) [7a 140][7b 786572, 65537][13 0, 108022]I think you've heard enough. Get out
+of here before you make me mad.
+[END]
+18: 〉 It's sealed magically. You can't
+proceed any further...
+[END]
+19: (Voice) [13 0, 108023]Didn't I tell you to leave Xi Wangmu
+to the Ring of Gaea and go back to
+your underground districts?
+[END]
+20: (Gallant woman) [7a 140][13 0, 108007]If only we had the [Color:0x5]Jirae Talisman[Color:0x0]
+from a god of the land, we could
+break this foreign demon's spell...
+[END]
+21: (Isabeau) [7a 5][13 0, 108020]What a formidable woman... But yes,
+we should go.
+[END]
+102: (Gallant woman) [7a 140][13 0, 108003]I assume you're here to claim
+Xi Wangmu's head and make a fortune
+off it...
+[->][13 0, 108004]But leave this to the Ring of Gaea and
+scurry back to whatever underground
+district you came from.
+[END]
+109: 〉 The Jirae Talisman burst into a pale,
+bluish−white fire that diminished the
+seal's power.
+[END]
+116: (Burroughs) [7a 2][13 0, 400050]I'll register that as a new quest
+on the list.
+[END]
+209: 〉 The Jirae Talisman burned out.
+[END]

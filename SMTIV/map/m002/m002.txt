@@ -1,0 +1,65 @@
+0: ”To Demons: Eat Reds, Not Heads!”
+[->]〉 ...So the mystic script says.
+[END]
+50: 〉 There's a switch.
+Press it?
+[END]
+51: Press it
+Don't do anything
+[END]
+101: (Hunter man) 500,000 people supposedly walked here
+once. It feels odd, seeing it so empty.
+[END]
+102: (Hunter man) All these hills must have been rough to
+walk up and down, but this area used to
+be a crowded shopping district.
+[END]
+103: (Hunter man) My job this time was a breeze. I made
+a bundle on it.
+[END]
+104: (Hunter man) When the trains came in, people would
+gather to the buses. Back when trains,
+people, and buses were still here.
+[END]
+105: (Young woman) [13 1, 403122]I heard people used to go on ”diets.”
+Which makes it sound like there used to
+be plenty of food to go around...
+[END]
+106: (Young woman) [13 1, 403121]It's cold because there's no sun
+outside... I can't let go of my coat.
+[END]
+107: (Young man) [13 1, 403421]Hey, I'm making my rounds here! Outta
+the way! I got connections in the Ashura−
+kai, y'know!
+[END]
+108: (Young man) [13 1, 403002]Isn't this leather jacket awesome?
+I found it in a store I raided.
+[END]
+109: (Boy) [13 1, 404001]It's no use ”kidnapping” me. My family
+couldn't pay the ”ransom” thingy.
+[END]
+110: (Young woman) [13 1, 403312]My husband is out hunting, so I need
+to look for things I can trade for
+some cash too...
+[END]
+111: (Girl) [13 1, 404121]If I were a boy, I could be a Hunter...
+My daddy says I can't, because it's too
+dangerous.
+[END]
+112: (Young woman) [13 1, 403542]Smartphone? Not interested. That's those
+machines with demons in them, right?
+[END]
+113: (Young woman) Why are the Ashura−kai people so
+stuck up?
+[END]
+114: (Young man) There's this sign that says ”Free
+Information Hall” at Dogenzaka... I don't
+know what that means, but I'm curious.
+[END]
+213: (Young woman) It's fine that the Ashura−kai are gone...
+but who's going to protect us now?
+[END]
+214: (Young man) If we didn't have the Ashura−kai,
+we could come under demon attack at
+any time.
+[END]

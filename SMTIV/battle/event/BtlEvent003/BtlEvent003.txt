@@ -1,0 +1,39 @@
+0: (Hooded man) [7a 31][13 0, 300302]Hahahaha... I'll make you grovel like
+the lowly worms you are!
+[END]
+1: (Someone's voice) [7a 3][13 0, 300303]Hold it right there!
+[END]
+2: (Hooded man) [7a 31][13 0, 300304]What...!? Who's there!?
+[END]
+4: (Jonathan) [7a 3][13 0, 300305]I do believe we arrived just in time.
+Are you all right, [Flynn]?
+[END]
+5: (Isabeau) [7a 5][13 0, 300306]We're here to assist you.
+[END]
+7: 〉 Jonathan and Isabeau join the battle!
+[END]
+8: (Hooded man) [7a 31][13 0, 300308]But you are both Luxurors! Why...!?
+[->][13 0, 300309]Crush them, my minions!
+[END]
+10: (Hooded man) [7a 31][13 0, 300310]Impossible... How could you have
+bested my horde...?
+[->][13 0, 300311]Where did they find this year's
+prentices...!?
+[END]
+12: (Isabeau) [7a 5][13 0, 300312]Prentices we may be, but we are
+Samurai nonetheless. Your folly was
+taking us so lightly.
+[END]
+13: (Jonathan) [7a 3][13 0, 300313]Prentice or master, Casualry or
+Luxuror; it matters not to a
+truly committed Samurai.
+[->][13 0, 300314]Surely, you should understand...
+as you, too, are among our number.
+[END]
+15: (Hooded man) [7a 31][13 0, 300315]......!
+[->][13 0, 300316]They know... This is it...
+[END]
+105: (Isabeau) [7a 5][7b 131077, 65537][13 0, 300307]If you are going to use the strength
+of numbers to overwhelm us, then we
+shall counter with our own numbers.
+[END]

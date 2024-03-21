@@ -1,0 +1,23 @@
+0: 〉 You see a giant bird's nest on the
+other side of a gap in the wall...
+[END]
+1: 〉 Will you go into the nest to try
+to find the egg?
+[END]
+2: Yes
+No
+[END]
+3: 〉 [Flynn] was somehow able to
+carry the giant egg back to the
+observatory.
+[->]〉 [Flynn] has obtained the
+Rukh's egg.
+[END]
+4: 〉 [Flynn] has given up on finding
+the egg.
+[END]
+5: Unused Message
+[END]
+6: 〉 A demon approaches you while you
+struggle to pass through the gap...
+[END]

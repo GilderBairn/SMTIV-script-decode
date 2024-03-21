@@ -1,0 +1,47 @@
+0: 〉 A passage in mystic script appears
+on the Gauntlet...
+[END]
+1: [->][END]
+2: (Jack Frost) [7a 0]Hee ho!
+I'll give you a hint, ho!
+[->]The hint is... You're gonna have
+to figure it out yourself, ho!
+[END]
+3: Check action start
+[->][END]
+4: HP 75% or lower
+[->][END]
+5: HP 50% or lower
+[->][END]
+6: HP 25% or lower
+[->][END]
+7: Check action end
+[->][END]
+8: (Jack Frost) [7a 0]Heeheehohoho...
+I knew I shouldn't have given
+you that hee−hint, ho...
+[END]
+9: 〉 [Flynn] runs past the boundary to
+the virtual battle, and the simulation
+ends...
+[END]
+10: Check enemy escape
+[->][END]
+11: 〉 The enemy was not eliminated within
+the turn limit.
+[->]〉 The simulation ends...
+[END]
+12: Tentative enemy  Mastema
+[->][END]
+13: 〉 The enemy was successfully
+eliminated within the turn limit.
+[->]〉 The simulation ends...
+[END]
+100: ”Demon training program −− Ready
+ Training Battle 4 −− Begin”
+[->][Color:0x5]”Try to determine the demons' affinities
+by the attacks they use, and defeat them
+all in a single turn!”[Color:0x0]
+[END]
+1000: Test
+[->][END]

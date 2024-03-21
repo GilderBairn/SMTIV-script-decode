@@ -1,0 +1,61 @@
+0: 〉 There is a naked man wearing a mask
+inside the birdcage...
+[END]
+1: (Voice) [7a 65535][13 0, 123001]...Halt.
+[END]
+2: (Demon) [7a 65121][13 0, 123002]I am the guardian of this birdcage...
+[->][13 0, 123003]I am Murmur, once famed as the Great
+Duke of the Thrones.
+[END]
+3: (Murmur) [7a 65121][13 0, 123004]Scoundrels who approach the birdcage,
+I will pluck the spirits from your
+shells and make them dance eternally!
+[END]
+4: (Masked man) [13 0, 123005]...Is someone there?
+[END]
+5: 〉 Jonathan rushed to open the birdcage.
+[END]
+6: (Jonathan) [7a 3][13 0, 123006]This must be the fellow Sister Gabby
+spoke of...
+[END]
+7: (Jonathan) [7a 3][13 0, 123007]Rest easy, friend! We have come
+to rescue you.
+[->][13 0, 123008]...He's quite enervated.
+[END]
+8: (Masked man) [7a 28][13 0, 123009]Who are you...?
+[END]
+9: (Jonathan) [7a 3][13 0, 123010]We are Samurai of the Eastern Kingdom
+of Mikado. Sister Gabby charged us
+with your rescue.
+[END]
+10: (Masked man) [7a 28][13 0, 123011]Gabby, you say...?
+[->][13 0, 123012]...Ah, how vexing. I cannot even
+remember who I am... It's because
+of this mask.
+[END]
+11: (Jonathan) [7a 3][13 0, 123013]Then shall I remove it for you?
+[END]
+12: (Masked man) [7a 28][13 0, 123014]It's no use... This mask can only be
+removed by a kindred spirit.
+[->][13 0, 123015]And alas... I do not even know who
+that kindred spirit might be...
+[END]
+13: (Jonathan) [7a 3][13 0, 123016]Dear me...
+[->][13 0, 123017]I think I'd best escort this man to
+the Monastery right away.
+[END]
+14: (Jonathan) [7a 3][13 0, 123018]I leave the rest to you.
+[END]
+15: (Jonathan) [7a 3][13 0, 123016]Dear me...
+[->][13 0, 123020]Regardless, this is the last of
+the kidnap victims.
+[->][13 0, 123021]I shall escort the poor man back to
+the Monastery straight away.
+[END]
+16: 〉 Jonathan carried the man on his back
+and headed for the exit.
+[END]
+17: 〉 Jonathan parted ways with you.
+[END]
+114: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]

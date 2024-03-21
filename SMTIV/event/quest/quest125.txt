@@ -1,0 +1,15 @@
+0: I need to get some [Color:0x5]pictures of the abandoned
+underground shelter in Kasumigaseki[Color:0x0] as
+reference material for a client. Can someone
+go to the [Color:0x5]Counter−Demon Force Base[Color:0x0] there
+and take pictures for me? Talk to me at the
+South Gate of Shinjuku when you have it.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

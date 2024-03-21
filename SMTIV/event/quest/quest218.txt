@@ -1,0 +1,15 @@
+0: I have been considering leaving my home in
+Ginza to test my strength in new and exciting
+places. Since I am leaving and will no longer
+have a use for it, I'm going to give away this
+[Color:0x5]Black Card[Color:0x0] to the first person who brings
+me a [Color:0x5]Silver Coin[Color:0x0] to remind me of home.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

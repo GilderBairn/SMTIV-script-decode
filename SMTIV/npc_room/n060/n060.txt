@@ -1,0 +1,36 @@
+0: (Hunter man) [7a 69][13 1, 403002]I found this city by accident while
+I was searching around places the
+Ashura−kai had sealed.
+[->]But, man, this place is bizarre.
+No wonder it's been closed off from
+the outside world for a while...
+[END]
+1: (Hunter man) [7a 69][13 1, 403002]From what I've heard, the people here
+seem to have survived by eating beef
+that they raise here.
+[->]But... have you seen any actual cows?
+[END]
+2: (Hunter man) [7a 69][13 1, 403002]We've decided to hunt demons for the
+people here.
+[->]If we left now, I'd feel like I was
+abandoning them.
+[END]
+3: (Hunter man) [7a 118][13 1, 403042]It seems that the people here haven't
+been eating demon meat at all.
+[->]I'm surprised that they've managed
+to survive this long with that kind
+of diet...
+[END]
+4: (Hunter man) [7a 118][13 1, 403042]Beef is an extremely expensive
+delicacy. In fact, it's more like
+a fantasy now.
+[->]Seriously it's a luxury that even the
+Ashura−kai would go mad for.
+[END]
+5: (Hunter man) [7a 118][13 1, 403042]I feel bad for these guys, cut off
+from the outside world and taken
+advantage of by demons.
+[->]I hope they learn to like demon meat,
+after all that time they spent with
+their... beef.
+[END]

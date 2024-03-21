@@ -1,0 +1,26 @@
+0: (Frightened man) [7a 34][13 0, 45001][Flynn]...!
+[->][13 0, 45002]Forgive us, lad. Our hands were full...
+Our child is still young...
+[->][13 0, 45003]We owed your parents a great debt and
+I wanted to do something, but...!
+[END]
+1: (Frightened woman) [7a 36][13 0, 45004]Many of the villagers are slain...
+Kiccigiorgi... is probably finished.
+[->][13 0, 45005]Where are we supposed to go? If we
+survive the night, what are we to do
+in the morning...?
+[END]
+2: (Escaped boy) [7a 32][13 0, 45006]Sir...? Father said that I'd die if
+I was caught by a ”demon.”
+[->][13 0, 45007]Your mother and father haven't been
+caught by demons, have they...?
+[END]
+3: (Isabeau) [7a 5][13 0, 45008]...You've a very strong boy not to
+cry. Now, run along to the forest
+entrance.
+[->][13 0, 45009]Powerful Samurai are waiting there
+for you.
+[END]
+4: 〉 The villagers bowed and headed for
+the forest's entrance.
+[END]

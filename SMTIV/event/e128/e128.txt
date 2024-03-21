@@ -1,0 +1,100 @@
+0: (Burroughs) [7a 2][13 0, 128001]Master [Flynn], I have a dispatch
+for you from another Samurai.
+[END]
+1: (Man) [7a 17][13 0, 128002]...You're late. I'm tired of waiting.
+[->][13 0, 128003][Flynn] of the Eastern Kingdom
+of Mikado... It's nice to meet you.
+[->][13 0, 128004]I'm Tayama of the Ashura−kai.
+[END]
+2: (Tayama) [7a 17][13 0, 128005]You should do as I say. Because if
+you try to pull anything...
+[END]
+3: (Voice) [7a 154][13 0, 128006]C−Can you hear me? My fellows...!
+[->][13 0, 128007]Save me! The Ashura−kai caught me−−
+[END]
+4: (Tayama) [7a 17][13 0, 128008]...Capiche?
+[END]
+5: (Tayama) [7a 17][13 0, 128009]Go to Club Milton here in town.
+One of my boys there will explain
+things to you.
+[END]
+6: (Tayama) [7a 17][13 0, 128010]Make me proud, kiddos.
+[END]
+7: (Voice) [7a 154][13 0, 128011]H... Help me, please−−
+[END]
+11: (Walter) [7a 4][7b 196612, 65537][13 0, 128012]Damnation! We've been had!
+[END]
+12: (Jonathan) [7a 3][7b 131075, 65537][13 0, 128013]The coward, bargaining with the life
+of one of our fellows...!
+[END]
+13: (Isabeau) [7a 5][13 0, 128014]”Club Milton,” did he say? We seem
+to have little choice but to do as
+he demands.
+[END]
+14: (Burroughs) [7a 2][13 0, 86020]This seems like important evidence.
+I'll make a note of it in the quest.
+[END]
+15: (Heavily made−up girl) [7a 123][13 0, 128020]Hey, dude.
+[->][13 0, 128021]Couldn't you see this was a Domain?
+Like, a ”you'll be majorly boned if
+you get too close” Domain?
+[END]
+16: (Heavily made−up girl) [7a 123][13 0, 128022]I like, totally don't get you. How
+could you not scope me out guarding
+this Terminal here?
+[->][13 0, 128023]Seriously, what is wrong with you?
+Will you cut it out with that creepy
+stare?
+[END]
+17: (Heavily made−up girl) [7a 123][13 0, 128024]I'm like, the guardian of the... Oh
+wait a second. You're like, that
+Terminal troll from before.
+[->][13 0, 128025]I−I like, don't remember you saying
+you'd be back. It's rude to show up
+without texting first and junk.
+[END]
+18: (Heavily made−up girl) [7a 123][13 0, 128026]Huh...? Ughhh, you again? I like,
+rilly don't wanna deal with you,
+but I have to cuz it's my job.
+[->][13 0, 128027]Ohhh, I get it! You're hitting on me,
+huh?
+[END]
+19: (Heavily made−up girl) [7a 123][13 0, 128028]...Like, just kidding? Were you all
+surprised and junk? Because I totally
+knew you'd be coming.
+[->][13 0, 128029]My S.O. gets rilly excited about
+twists like this too.
+[->][13 0, 128030]You know, like, how a dude and a chick
+who are enemies keep running into each
+other, and eventually fall in love?
+[END]
+20: (Heavily made−up girl) [7a 123][13 0, 128031]Like, rilly? You don't know who I am?
+Is there, like, any way you think I'd
+fall for that after all this time?
+[->][13 0, 128032]I mean, this is my job and stuff. Are
+you making fun of me when I'm totally
+serious about this to the max?
+[->][13 0, 128033]Do you think it's like, fate or some
+junk that we keep getting into it?
+[END]
+21: (Heavily made−up girl) [7a 123][13 0, 128034]Anyway, sorry, but like, you're just
+not my type.
+[->][13 0, 128035]And like, I guess there's no nice way
+to say it, but I'm gonna kill you.
+[END]
+22: 〉 The demon's Domain has been lifted.
+[END]
+23: (Burroughs) [7a 2][13 1, 400063]Looks like the quest is going well.
+[END]
+24: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+25: (Burroughs) [7a 2][13 1, 405701]This is the Shibuya Terminal.
+[END]
+26: (Burroughs) [7a 2][13 0, 74001]I'm going to run the Terminal
+activation program.
+[END]
+27: (Burroughs) [7a 2][13 0, 74002]Activation complete.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]

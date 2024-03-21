@@ -1,0 +1,68 @@
+0: (Glaring man) [7a 47][13 0, 68001]...Huh?
+[END]
+1: 〉 A man with sharp eyes and a man with
+an unsociable look stared at
+[Flynn] and his fellows.
+[END]
+2: (Glaring man) [7a 47][13 0, 68002]Who the hell are you? How come people
+are comin' out of Sky?
+[END]
+3: (Unfriendly man) [7a 46][13 0, 68003]You bastards... Which city are you
+Hunters from, huh?
+[END]
+4: (Walter) [7a 4][7b 196612, 65537][7b 65541, 196609][13 0, 68004]Could these be Unclean Ones?
+[END]
+5: (Isabeau) [7a 5][7b 65541, 131073][13 0, 68005]They speak in the same mystic tongue
+as that on our Gauntlets.
+[->][13 0, 68006]I think your guess of Unclean Ones is
+on the mark. Though their accent makes
+them barely intelligible...
+[END]
+6: (Unfriendly man) [7a 46][13 0, 68007]You ignorin' us? We're askin' how ya
+got in here!
+[->][13 0, 68008]You actin' like ya don't know who
+we are or somethin'?
+[END]
+7: (Walter) [7a 4][7b 655364, 65537][7b 65541, 196609][13 0, 68009]And how would we know that?
+[->][13 0, 68010]We came from above.
+[END]
+8: (Unfriendly man) [7a 46][13 0, 68011]Wait... ”above”...?
+[END]
+9: (Unfriendly man) [7a 46][13 0, 68013]A−Are you angels from the ceiling!?
+[END]
+10: (Jonathan) [7a 3][7b 65539, 131073][13 0, 68014]Hardly, sir. We hail from the Eastern
+Kingdom of Mikado...
+[END]
+11: (Glaring man) [7a 47][13 0, 68015]D−Don't ya dare get any closer!
+[END]
+12: (Unfriendly man) [7a 46][13 0, 68016]Th−The Angels are comin' down!
+We're all gonna diiiiie!
+[END]
+13: 〉 The glaring man and the unfriendly
+man run away.
+[END]
+14: (Isabeau) [7a 5][7b 458757, 65537][13 0, 68017]...We appear to have frightened them
+away.
+[END]
+15: (Walter) [7a 4][7b 393220, 65537][13 0, 68020]They looked no different from us.
+[END]
+16: (Jonathan) [7a 3][13 0, 68021]Moreover, they called us angels...
+[END]
+17: 〉 [Flynn] and his fellow Samurai
+took their first steps outside the
+building...
+[END]
+100: 〉 [Flynn] and his fellow Samurai
+arrived at 1F in the elevator.
+[END]
+108: 〉 Walter pointed to Sky Tower and the
+lands above.
+[END]
+114: (Isabeau) [7a 5][7b 655365, 65537][13 0, 68018]Were those truly the Unclean Ones
+of legend...?
+[->][13 0, 68019]They are typically characterized as
+legendary magicians, so I thought them
+to be more like monsters, but...
+[END]
+208: (Glaring man) [7a 47][13 0, 68012]H−Hold the phone... Are you...!?
+[END]

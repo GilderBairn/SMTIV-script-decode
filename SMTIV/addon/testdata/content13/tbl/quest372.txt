@@ -1,0 +1,10 @@
+0: I am a wayfarer of space and time. My latest hobby is
+to hire dwarves to craft various items and give them
+to people of various timelines. I have procured a supply
+of the [Color:0x5]Overlord's hide[Color:0x0] through underground channels and
+fashioned a suit of armor from it. I would trade it for
+[Color:0x5][Item 1][Color:0x0] x[Color:0x5][Amount 1].[Color:0x0] Deliver them to a [Color:0x5]Hunter
+Association[Color:0x0] or [Color:0x5]K's Tavern,[Color:0x0] whichever suits you best.
+[END]
+1: Download Content 1 Second time
+[END]

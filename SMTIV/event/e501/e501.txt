@@ -1,0 +1,652 @@
+0: (Voice) [7a 4][13 1, 403602]...Where do you think you're going?
+[END]
+1: (Walter) [7a 4][13 1, 400202]おいおい[Flynn]
+どこに[行/い]く[気/き]だよ
+[END]
+2: (Jonathan) [13 1, 400151]Where are you now? We're tarrying in
+front of K's Tavern.
+[->]You wouldn't have headed to Naraku...
+No, perish the thought. Well, we shall
+be here waiting for you.
+[END]
+3: 〉 A Samurai in the tavern speaks to you.
+[END]
+4: (Master Samurai) [7a 117][13 1, 403003]You must be one of our new fellows. Let
+me give you some advice from a master.
+[->]You should return here after you've
+finished your training exercises.
+[END]
+5: (Samurai on duty) [7a 116][13 1, 403001]You've come, newly chosen one.
+[END]
+6: (Samurai on duty) [13 1, 403041]What's this...? Spending a rare day of
+leisure in Naraku, are you?
+[END]
+7: ”Er, yes.”
+”No...”
+[END]
+8: (Samurai on duty) [13 1, 403042]Well! I admire your dedication. Go on
+in, then.
+[END]
+9: (Samurai on duty) [13 1, 403042]We Samurai rarely get holidays. I would
+suggest you retire early today at the
+barracks.
+[END]
+10: (Voice) [7a 4][13 1, 403602]...Where do you think you're going?
+[END]
+11: (Wandering monk) [7a 42][13 1, 403603]Abbot Hugo is having us periodically
+inspect the Terminal.
+[->]Though it was discovered a couple hundred
+years ago in Naraku, only recently has
+it seen any actual use.
+[->]Our diligence will help you to remain
+focused on retrieving mystic relics.
+You should be grateful...
+[END]
+12: (Walter) [7a 4][13 1, 400202]Hoy, we've not had breakfast yet and
+you're off to fight demons...?
+[->]You can go to Naraku whenever you like!
+But the morning bread will only be fresh
+for so long.
+[END]
+13: 〉 Walter tugs on your arm...
+[END]
+14: (Voice) [7a 4][13 1, 404301]...Hoy, where are you going?
+[END]
+15: (Patrolling Samurai) [7a 116][13 1, 404341]You were the one who received the Third
+Order of Merit for distinguished services
+rendered, no?
+[->]We can't have you absent at the public
+execution! Come now, you should be on
+your way to Obelisk Plaza at once.
+[END]
+16: (Cheerful woman) [7a 37][13 1, 403303]Oh, my... I heard that the training
+exercises were to take place today.
+[END]
+17: (Cheerful woman) [7a 37]I received an order to deliver new
+blankets from the castle town.
+[->]It seems I came just in time! Look at
+how ragged yours is... You be sure to
+thank Sir Hope for this, won't you?
+[END]
+18: (Cheerful woman) [7a 37]I'll prepare the new blankets at once.
+Off to your training exercises, now!
+Shoo!
+[END]
+19: (Burroughs) [7a 2][13 1, 400005]...Oh? Are you feeling sleepy,
+Master [Flynn]?
+[END]
+20: (Burroughs) [7a 2]Master Jonathan should be waiting for
+you at the place you decided.
+[->]It's important to keep one's commitments.
+I suggest you go see him.
+[END]
+21: (Walter) [7a 4][13 1, 400201]Hoy, what will going back to your room
+accomplish? Are you going back to sleep?
+[->]You can sleep whenever you like! But the
+morning bread will only be fresh for
+so long.
+[END]
+22: 〉 Walter tugs on your arm...
+[END]
+23: (Burroughs) [7a 2][13 1, 400003]Hey, Master [Flynn]. I remember
+something Master Hope said...
+[->]Something about an urgent meeting?
+Shouldn't you go meet up with everyone
+else?
+[END]
+24: (Voice) [7a 2][13 1, 400101]...Here you are, thank goodness.
+[END]
+25: (Jonathan) [7a 3]You were mysteriously absent, so I came
+to look in on you.
+[->]The Black Samurai's public execution
+will begin shortly. I'll go on ahead
+to Obelisk Plaza.
+[END]
+26: (Jonathan) [7a 3][13 1, 400105]Ah...
+[END]
+27: (Walter) [7a 4][13 1, 400203]......
+[END]
+28: (Jonathan) [7a 3]...I see. You are going with Walter...
+[END]
+29: (Jonathan) [7a 3]Eventually, word about the two of you
+will reach the Monastery. When that
+happens...
+[END]
+30: (Jonathan) [7a 3]......
+[->]I... saw no one when I came here.
+[END]
+31: (Jonathan) [7a 3]Hurry and go.
+[END]
+32: (Jonathan) [7a 3][13 1, 400103]You two...!
+[END]
+33: (Jonathan) [7a 3]Eventually, word about the two of you
+will reach the Monastery. When that
+happens...
+[END]
+34: (Jonathan) [7a 3]......
+[->]I... saw no one when I came here.
+[END]
+35: (Jonathan) [7a 3]Hurry and go.
+[END]
+36: (Burroughs) [7a 2][13 1, 400003]Hey, Master [Flynn]. I remember
+something Master Hope said...
+[->]Something about an urgent meeting?
+Shouldn't you go meet up with everyone
+else?
+[END]
+37: (Samurai on guard) [7a 116][13 1, 404301]You there... prentice. You aren't allowed
+out of the castle.
+[->]I was told nothing about you having leave
+to go outside. Turn back at once.
+[END]
+38: (Shopkeeper) [7a 25][13 1, 405220]Ah, Blessed Samurai...!
+[->]Unfortunately, I am still not yet ready
+to open shop. All will be in readiness
+shortly, so please come again soon.
+[END]
+39: (Shopkeeper) [7a 26][13 1, 405320]Ah, Blessed Samurai...
+[->]I am currently getting ready to open.
+I should be done fairly quickly, so
+please come again soon.
+[END]
+40: (Walter) [13 1, 400251]Hoy, where are you? We're in front of
+K's Tavern.
+[->]Don't tell me you're thinking of going
+about, I hope! Hurry and meet us here.
+We'll be waiting.
+[END]
+41: (Jonathan) [13 1, 400151]Where have you gone...? We're tarrying
+in front of K's Tavern.
+[->]You wouldn't have headed to Naraku...
+No, perish the thought. Well, we shall
+be here waiting for you.
+[END]
+42: 〉 A pleasant smell drifts from inside
+the bakery...
+[END]
+43: 〉 Isabeau is talking intently with the
+baker...
+[END]
+44: (Isabeau) [7a 5][13 1, 400302]I see... so there are all manner of
+”books”...
+[->]...Ah! [Flynn]...?
+[END]
+45: (Isabeau) [7a 5][13 1, 400305]...I see that Walter and Jonathan aren't
+with you.
+[->]I'm... truly sorry to have turned down
+your kind offer before.
+[->]I'm a bit hesitant around boys my age.
+They seem to speak of nothing but
+themselves...
+[END]
+46: (Isabeau) [7a 5]I... would ask that you keep our meeting
+here a secret. And I, in turn, will try
+to improve my disposition...
+[->]Well then, shall I see you tomorrow?
+[END]
+47: 〉 Isabeau is talking intently with the
+baker...
+[END]
+48: (Baker) [7a 23]......
+[END]
+49: 〉 The baker is staring at you with a
+book in hand...
+[END]
+50: (Burroughs) [7a 2][13 1, 400003]...Let's pretend we didn't see him.
+Otherwise he could keep us here for
+hours...
+[END]
+51: 〉 The baker is no longer here...
+[END]
+52: 〉 The lakeside is perfect for taking
+a nap...
+[END]
+53: (Gabby) [7a 11][13 1, 400802]......
+[->][13 1, 400801]May I help you?
+[END]
+54: Ask about the Black Samurai
+Ask about the masked men
+Tell her it's nothing
+[END]
+55: (Gabby) [7a 11][13 1, 400803]She appeared when the people began to
+lose their reverence for this land...
+She came to lead them astray.
+[->]She took a form similar to mine to mock
+the way I led the people away in the
+past.
+[->]...Let us leave it at that for now.
+[END]
+56: (Gabby) [7a 11]May I help you?
+[END]
+57: (Gabby) [7a 11][13 1, 400804]They have been taken from here to a
+place that is closer to the creator...
+[->]The people of this kingdom have fallen
+so far that they no longer trust one
+another.
+[->]These men you saved are the ones who
+will bring this kingdom back to itself.
+[->]...Let us leave it at that for now.
+[END]
+58: (Gabby) [7a 11][13 1, 400805]Well then, please go to Tokyo. I will
+leave the matter of the Black Samurai
+to you.
+[END]
+59: (Isabeau) [7a 5][13 1, 400302]......
+[END]
+60: Read the epigraph
+Talk to Isabeau
+Leave
+[END]
+61: (Isabeau) [7a 5][13 1, 400305]Ah... [Flynn].
+[END]
+62: (Isabeau) [7a 5]The more I think about what is best for
+everyone, the more I see what an illusory
+concept it is.
+[->]However much a choice may seem to be
+best for everyone, there is always one
+for whom it is dissatisfying.
+[->]Is it not, in fact, possible to choose
+an outcome that is ”best” for all...?
+[END]
+63: (Isabeau) [7a 5]...I will only be a hindrance, wrapped
+up in such troubles as I am. I'm sorry,
+but I cannot go with you.
+[END]
+64: (Isabeau) [7a 5]......
+[END]
+65: (Isabeau) [7a 5]Ah... Walter, [Flynn].
+[END]
+66: (Isabeau) [7a 5]You two have staked all on the potential
+for change. I, on the contrary, am still
+unable to...
+[END]
+67: (Isabeau) [7a 5]...I will only be a hindrance, wrapped
+up in such troubles as I am. I'm sorry,
+but I cannot go with you.
+[END]
+68: (Isabeau) [7a 5]Ah... Jonathan, [Flynn].
+[END]
+69: (Isabeau) [7a 5]You two have staked all on upholding
+the peace. I, on the contrary, am still
+unable to...
+[END]
+70: (Isabeau) [7a 5]...I will only be a hindrance, wrapped
+up in such troubles as I am. I'm sorry,
+but I cannot go with you.
+[END]
+71: (Gabriel) [7a 65523][13 1, 402404]Blessed Samurai, the sons of man chosen
+by our Lord.
+[->]For the sake of the reconstruction of
+this Eastern Kingdom of Mikado, the Black
+Samurai... no, Lilith must be slain.
+[->]That we reveal ourselves to you shows
+the great faith that the Lord has in
+you... I ask that you remember that.
+[END]
+72: (Gabriel) [7a 65523][13 1, 402404]Blessed Samurai, the sons of man chosen
+by our Lord.
+[->]Upon coming in contact with the values
+of the Unclean Tokyo... one of your
+fellows is clouded with doubt.
+[->]For the sake of his future as well, the
+Black Samurai... or rather, Lilith, must
+be slain.
+[->]That we reveal ourselves to you shows
+the great faith that the Lord has in
+you... I ask that you remember that.
+[END]
+73: (Gabriel) [7a 65523][13 1, 402404]You are the sons of man chosen by our
+Lord, yet you have been led astray by
+the temptation of demons.
+[->]At the end of the path you have chosen,
+you will learn how powerless you are and
+how great is the Lord.
+[->]That is why we allow your continued
+existence. As long as the possibility
+for you to repent your sins remains...
+[END]
+74: 〉 [Flynn] headed to the cocoon in
+Shene Duque...
+[END]
+75: (Frightened woman) [7a 36][13 1, 403313]A−Ah...
+[END]
+76: (Demon) [7a 65112][13 1, 412101]This is a Red I got in Tokyo. Eat it
+and become a demon like us...
+[->]Or hold on to your precious humanity,
+remain a slave of God, and die here.
+Choose now...
+[END]
+77: (Demon) [7a 65396][13 1, 494000]OOH...! ME KNOW! THAT ”PIG” THING
+ME EAT EARLIER...
+[->]ME KNOW THAT TASTE! IT ”JUICY”!
+[->]THIS PLACE PARADISE... IT TRUE!
+LET ME EAT MORE ”PIG”...!
+[END]
+78: 〉 You feel like you saw something for
+a moment...
+[END]
+79: (Hugo) [7a 10][13 1, 400702]......
+[END]
+80: Read the epigraph
+Talk to Hugo
+Leave
+[END]
+81: (Hugo) [7a 10][13 1, 400711]...Ah, the warrior of light.
+[END]
+82: (Hugo) [7a 10]...In the end, I could not meet God's
+expectations. That day I was appointed
+as the abbot of the Monastery...
+[->]I was entrusted with running this kingdom
+by the angel Gabriel, in the form of
+Gabby, and yet... I...
+[END]
+83: (Hugo) [7a 10]I wished that this kingdom would be
+prosperous and directed my passions into
+retrieving mystic relics...
+[->]But I mistook the magic of those mystic
+relics for my own power. My passion...
+became twisted into arrogance.
+[->]It is too late now, but I have come to
+understand the true meaning of King
+Aquila's teachings.
+[END]
+84: (Hugo) [7a 10][13 1, 400711]...Ah, it's you. Isabeau has told me
+of the recent goings−on.
+[END]
+85: (Hugo) [7a 10]Hope suggested that we hold an emergency
+meeting.
+[->]Primarily to ensure everyone fully
+understands the move to this ”new land.”
+[END]
+86: (Hugo) [7a 10]He said that with our new leaders absent,
+it is sensible to return to our previous
+authority structure.
+[->]The Commander is a true man of integrity,
+honorable and forthright to the last.
+[->]In my final days as the Abbot of the
+Monastery, I will do what I can to meet
+everyone's expectations.
+[END]
+87: (Hugo) [7a 10]......
+[END]
+88: (Merkabah) [7a 64478][13 1, 430002]Armageddon is upon us, between the Lord's
+kingdom, the Eastern Kingdom of Mikado,
+and the Unclean Tokyo.
+[->]Now, warrior of light, we shall head
+together to the Yamato Reactor.
+[END]
+89: 〉 The four Heralds are no longer here...
+[->]〉 There is a yellow scarf on the floor...
+[END]
+90: (Q) [13 1, 405230]Our kingdom is being devastated by
+demons... This is a calamity without
+precedent.
+[->]Our shop supplied Samurai with weapons
+and armor free of charge...
+[->]The Mikado Castle interior still holds,
+but what of the people of the castle
+town untrained in battle...!?
+[END]
+91: (B) [13 1, 405342]D−Demons keep coming and taking my goods
+without paying...
+[->]If these demons come to rule our kingdom,
+money itself shall lose its worth!
+[->]Still worse, the civilization man has
+built will be no more...
+[END]
+92: 〉 Demons are streaming out endlessly
+from Naraku...
+[->]〉 You cannot pass through here...
+[END]
+93: (Voice) [7a 2][13 1, 401214]...Where are you going?
+[END]
+94: (Lucifer) [7a 64451]...You should forget about your old
+nest. All you must do is look forward
+at my side.
+[->]It is good that you witness the end of
+this false paradise... that you see where
+the choice you made has led.
+[->]Come. Let us go to the rooftop together.
+[END]
+95: (Voice) [7a 2][13 1, 401214]...Where are you going?
+[END]
+96: (Lucifer) [7a 64451]You have no more business with the castle
+built on corpses you've already bested.
+You must look upward, at my side.
+[->]It is good that you witness the end of
+this false paradise... that you see where
+the choice you made has led.
+[->]Come. Let us go to the rooftop together.
+[END]
+97: (Voice) [7a 2][13 1, 401214]...Where are you going?
+[END]
+98: (Lucifer) [7a 64451]You need not look down anymore. Instead,
+look upward at my side.
+[->]It is good that you witness the end of
+this false paradise... that you see where
+the choice you made has led.
+[->]Come. Let us go to the rooftop together.
+[END]
+99: (K) [7a 22][13 1, 405022]I've noticed a decline in customers
+today. Is it because of the commotion
+outside?
+[->]I think I can more or less imagine
+what's going on...
+[END]
+100: (Wandering monk) [7a 42][13 1, 403603]It seems I made a wise decision, going
+on a walk because I was bored... er, I
+mean, taking the time to patrol.
+[->]There's no need for you to find out what
+is beyond there. You must leave at once.
+[END]
+104: (Master Samurai) [7a 117]The training exercises are a rite of
+passage for all Samurai. I wish you
+luck, my young fellow.
+[END]
+105: (Samurai on duty) [7a 116]Past here is Naraku, the cavern of evil
+where the demons from the fables you've
+heard exist in the flesh.
+[->]Have you come fully prepared, with
+weapons, armor, and supplies at the
+ready...?
+[END]
+138: (Shopkeeper) [7a 25][13 1, 405220]Young Samurai, please feel free to call
+me Q.
+[END]
+139: (Shopkeeper) [7a 26][13 1, 405320]It is an honor to meet you, young
+Samurai. I am called B.
+[END]
+179: 〉 An epigraph is carved on the Obelisk.
+[->]〉 Will you read it?
+[END]
+204: (Master Samurai) [7a 117][13 1, 403003]Ah, I hear tell that you've finished the
+training exercises. That marks you as a
+bona fide Samurai.
+[->]Which means you've earned the right to
+come here... to K's Tavern.
+[END]
+205: ”I'm prepared.”
+”I'm none too confident.”
+[END]
+238: (Q) [7a 25]It would please me if my shop's weapons
+and armor were of use to you.
+[END]
+239: (B) [7a 26]I supply sundries to the many Samurai
+here.
+[END]
+279: Read it
+Don't read it
+[END]
+304: (Master Samurai) [7a 117]You'll eventually receive a proper
+introduction from him. Look forward
+to that, my young fellow!
+[END]
+305: (Samurai on duty) [7a 116][13 1, 403042]Then go and face the training exercises.
+And try not to be slain.
+[END]
+405: (Samurai on duty) [7a 116][13 1, 403043]Then you should prepare yourself at the
+shops in the plaza first.
+[END]
+1000: (K) [7a 22]A Samurai founded this kingdom, and it
+will be a Samurai who draws the curtains
+on it, eh...?
+[->]Let me put on a brave face this once
+and say that I had a feeling this day
+would eventually come...
+[->]And if it has, then I am thankful to
+see it happen in my lifetime.
+[END]
+1001: 〉 There is a note on the door...
+[->]”K's Tavern has moved. A new location
+is planned for Shinjuku in Tokyo.”
+[->]”Thank you for your patronage.
+Now, hurry up and evacuate!”
+[END]
+1002: 〉 No one is here.
+[END]
+1003: (Baritone Samurai) [7a 117][13 1, 403021]Abbot Hugo convened an emergency meeting
+for the people gathered in Mikado Castle.
+[->]We are to abandon the Eastern Kingdom
+of Mikado and emigrate to Tokyo as our
+new home...
+[->]The abbot's final words brought tears
+to my eyes...
+[->]We abandon this land not out of despair,
+but out of hope. The hope for us all to
+finally come into our own...
+[END]
+1004: (Patrolling Samurai) [7a 116][13 1, 403042]We considered bringing the pigs along
+with us to Tokyo...
+[->]But in the end, we had to preserve most
+of them in salt and let the people
+bring them that way.
+[->]They made the ultimate sacrifice for us.
+It reminds us how precarious our
+situation is.
+[->]We must not forget all that. We must
+stay humble in the new world...
+[END]
+1052: (Demon) [7a 65296][13 1, 482006]I−It was us who found this place first,
+you know...!
+[END]
+1064: 〉 Which part will you read?
+[END]
+1080: 〉 Which part will you read?
+[END]
+1086: (Hugo) [7a 10][13 1, 400703][Flynn]...
+[END]
+1088: 〉 [Flynn] headed to the New Mikado
+Castle.
+[END]
+1164: The war of angels and demons
+The founding of the Samurai
+The Eastern Kingdom of Mikado
+Exit
+[END]
+1180: The war of angels and demons
+The founding of the Samurai
+The Eastern Kingdom of Mikado
+Exit
+[END]
+1186: (Hugo) [7a 10]In light of the tide of demons coming
+from Naraku, Hope has recommended that
+we evacuate...
+[->]But where in this kingdom is there that
+a man like myself would be accepted?
+[END]
+1264: In ancient times, this land was shared
+by angels and those blessed by God.
+[->]One day, the Unclean Ones emerged
+from the underworld, and decided of
+their own mind to live here.
+[->]The Unclean Ones summoned demons and
+the angels knew they could not be
+allowed to go unchecked.
+[->]Fearing the power of the angels sent
+by God, the Unclean Ones retreated to
+the underworld from whence they came.
+[->]Thus were the land blessed by God
+and the people who dwelled there
+protected by angels...
+[END]
+1280: In ancient times, this land was shared
+by angels and those blessed by God.
+[->]One day, the Unclean Ones emerged
+from the underworld, and decided of
+their own mind to live here.
+[->]The Unclean Ones summoned demons and
+the angels knew they could not be
+allowed to go unchecked.
+[->]Fearing the power of the angels sent
+by God, the Unclean Ones retreated to
+the underworld from whence they came.
+[->]Thus were the land blessed by God
+and the people who dwelled there
+protected by angels...
+[END]
+1286: (Hugo) [7a 10]I was given my position as abbot of the
+Monastery by the angel Gabriel, in the
+form of ”Gabby.”
+[->]But in exchange for the power to reign
+over this kingdom, I lost the trust of
+its people.
+[->]What you see before you is the pitiful
+shell of a man who had power beyond his
+control. Look to your heart's content...
+[END]
+1364: 〉 Read another section?
+[END]
+1380: 〉 Read another section?
+[END]
+1464: In the long ago war of angels and
+demons, one soldier stood with the
+angels.
+[->]Like the Unclean Ones, this soldier
+summoned demons; but he did so to
+combat the demonic hordes.
+[->]With this power, the soldier forced
+the demons into the underworld, and
+sealed the path to their country...
+[->]This soldier was the first Samurai,
+as well as the first monarch of the
+Eastern Kingdom of Mikado... Aquila.
+[->]King Aquila's great achievement is
+the reason why Samurai are even today
+the cornerstone of our defenses.
+[END]
+1480: During the struggle, the remaining
+demons regained their power. The
+wounded angels were unable to...
+[->]〉 The rest of the epigraph has been
+scraped off from the Obelisk's
+surface and is illegible.
+[END]
+1564: Will you read the other parts as well?
+[END]
+1580: 〉 Read another section?
+[END]
+1664: In the first year of the Gregorian
+Calendar, King Aquila established the
+Eastern Kingdom of Mikado in this land.
+[->]The king built a castle in the sealed
+land and prayed to God. His subjects,
+following his example, prayed as well.
+[->]Under God's watchful eye, the people
+were guaranteed equality and peace
+everlasting.
+[END]
+1680: In the first year of the Gregorian
+Calendar... King Aqu...
+[->]〉 The rest of the epigraph has been
+scraped off from the Obelisk's
+surface and is illegible.
+[END]
+1764: 〉 Read another section?
+[END]
+1780: 〉 Read another section?
+[END]
+2052: (Demon) [7a 64725][13 1, 477005]I ain't leaving this lake. It's too clean
+for my tastes, but I like the size of it.
+[->]If you got a problem with that, wanna
+talk it over? Hmm?
+[END]

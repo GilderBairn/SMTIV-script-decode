@@ -1,0 +1,65 @@
+0: (Ancient of Days) Old mankind whom Pluto could not defeat:
+thou art wickedness which violates the
+dispensation of the universe.
+[->]The dispensation of the universe is
+collective. There must exist nothing
+that standeth in violation.
+[->]I shall commence purifying the land.
+[END]
+10: (Ancient of Days) The dispensation of the universe...
+[->]The dispensation... of... the universe...
+[->]The dispensation... of... the
+uni...verse...
+[->]......
+[END]
+101: (Innocent voice) [7a 1]It... It's God...!
+[END]
+102: 〉 Someone came dancing up to [Flynn]
+from behind!
+[END]
+103: (Kiyoharu) [7a 83]It's really him... God has come to take
+us with Him!
+[->]My prayers have finally been answered!
+Hee hee!
+[END]
+104: 〉 Kiyoharu is speaking with the
+Ancient of Days...
+[->]〉 However, [Flynn] cannot comprehend
+their conversation.
+[END]
+105: (Kiyoharu) [7a 83]Yes... Yes... That's right, I've been
+praying all this time.
+[->]You won't leave us here, right? You're
+taking us with you, right!?
+[END]
+106: (Kiyoharu) [7a 83]You're... going to destroy mankind?
+[->]Why...? My Lord... Are you not here
+for us...?
+[END]
+107: (Kiyoharu) [7a 83]I see... We're... no longer necessary...
+[->]I prayed to You all this time in
+ignorance...
+[END]
+108: (Kiyoharu) [7a 83]My Lord... I have lost everything...
+[->]These past 25 years, I saw my family
+fall... my friends in the Counter−
+Demon Force... Everything...
+[->]All I had left were my prayers.
+[END]
+109: 〉 Kiyoharu looked up at the sky.
+[END]
+110: (Kiyoharu) [7a 83]So Kenji was right, and I was wrong...
+[END]
+111: (Akira) [7a 84]Kiyoharu!
+[END]
+112: 〉 Akira came running up...
+[END]
+113: (Akira) [7a 84]Get a hold of yourself, Kiyoharu!
+[END]
+114: (Kiyoharu) [7a 83]We're... no longer necessary...
+[END]
+115: (Akira) [7a 84].........
+[->]...Come on. Let's go home.
+[END]
+116: 〉 Kiyoharu left with Akira...
+[END]

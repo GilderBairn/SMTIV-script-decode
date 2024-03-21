@@ -1,0 +1,41 @@
+1: (Burroughs) [7a 2][13 0, 503001]I detect a very dangerous demon nearby.
+You should consider getting out of here.
+[END]
+2: 〉 Will you stay here?
+[END]
+3: 〉 Will you really stay here?
+[END]
+4: Yes
+No
+[END]
+10: (Friendly Hunter) [7a 29][13 1, 403002]Hey there. You're a Hunter, right?
+[->]I'm glad to see you here, because I'm
+in the market for some food.
+[->][7a 29][13 1, 403042]Let's see... Do you have any
+[Color:0x5][Item 1]?[Color:0x0]
+[->]I'd buy [Color:0x5][Item 1][Color:0x0] for triple
+the market price right now.
+[END]
+11: 〉 Hand over your [Color:0x5][Item 1]?[Color:0x0]
+[END]
+12: Yes
+No
+[END]
+13: (Friendly Hunter) [7a 29][13 1, 403041]I can't thank you enough. Here's the
+[Color:0x5][Amount 1] Macca[Color:0x0] I owe you.
+[END]
+14: (Friendly Hunter) [7a 29][13 1, 403033]I hope you'll be around to help me out
+again in a bit.
+[END]
+15: (Friendly Hunter) [7a 29][13 1, 403042]Oh. Well, that's okay. If you ever
+change your mind, you know where
+to find me.
+[END]
+16: (Friendly Hunter) [7a 29][13 1, 403042]Hm? You don't have any [Item 1].
+[->]Oops. Sorry if that was an unreasonable
+request.
+[END]
+17: (Friendly Hunter) [7a 29][13 1, 403001]I've got plenty of food right now. But
+if you come back another time, maybe
+we can do business then.
+[END]

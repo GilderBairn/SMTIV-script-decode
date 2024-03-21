@@ -1,0 +1,123 @@
+0: (Burroughs) [7a 2][13 0, 12001]That was so impressive that I would
+swear it wasn't your first battle.
+You're hot stuff, Master [Flynn].
+[END]
+1: (Burroughs) [7a 2][13 0, 12002]I also have good news for you.
+You've earned some App Points.
+[END]
+2: (Burroughs) [7a 2][13 0, 12003]Do you want an explanation of
+how App Points work?
+[END]
+3: Yes
+No
+[END]
+4: (Burroughs) [7a 2][13 0, 12004]You don't let anything slow you down.
+But I like that.
+[END]
+6: As you gain levels, you will receive
+App Points. These allow you to enhance
+Burroughs' capabilities.
+[->]App Points are used to unlock various
+features pre−programmed into Burroughs.
+[->]The ”App” menu has been added to
+[Color:0x5]Burroughs[Color:0x0] in the Main Menu. You can
+purchase new Apps there.
+[->]Unlocking Apps will confer many kinds
+of benefits on your journey.
+[END]
+7: (Hope) [7a 8][13 0, 12005]This is Hope speaking.
+[->][13 0, 12006][Flynn], you finished your task,
+I see. Well done, surviving that.
+[END]
+8: (Burroughs) [7a 2][13 0, 12007]Congratulations on completing the quest.
+[END]
+9: (Hope) [7a 8][13 0, 12008]But it's too early to celebrate now.
+I have the details of your next quest.
+[END]
+10: (Hope) [7a 8][13 0, 12009]You must learn the basics of communing
+with demons.
+[END]
+11: (Hope) [7a 8][13 0, 12010]A Samurai must know more than combat.
+[->][13 0, 12011]At times, he must treaty with demons
+to recruit them to his side and
+strengthen his forces.
+[->][13 0, 12012]You must [Color:0x5]acquire demon allies.[Color:0x0]
+The types of demon don't matter.
+[->][13 0, 12013]That's all for now. Get back to
+your training.
+[END]
+12: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+13: (Burroughs) [7a 2][13 0, 12015]Hey, Master [Flynn]?
+[->][13 0, 12016]There's an App that you'll definitely
+need for your next quest. It's
+called [Color:0x5]Scout.[Color:0x0]
+[->][13 0, 12017]Want me to explain how Scout works?
+[END]
+14: Yes
+No
+[END]
+15: [Color:0x5]Scout[Color:0x0] has been added to Burroughs'
+App list.
+[->]If you use Scout, you can talk with
+demons during battle and persuade them
+to become your allies.
+[->]Once they are your allies, the demons
+will be at your command in battle.
+[END]
+16: (Burroughs) [7a 2][13 0, 12019]Did you get all that?
+[END]
+17: ”Yes, I understand.”
+”Tell me once more.”
+[END]
+18: (Burroughs) [7a 2][13 0, 12020]All right. I'll display the
+information one more time.
+[END]
+19: (Burroughs) [7a 2][13 1, 400054]You don't let anything slow you down.
+But I like that.
+[END]
+20: (Burroughs) [7a 2][13 0, 12021]I'll leave the details of acquiring
+new Burroughs Apps with you, in case.
+[END]
+21: (Burroughs) [7a 2][13 0, 12023]Oh, one more thing...
+[END]
+22: (Burroughs) [7a 2][13 0, 12024]There's an App I really think you
+should try out, Master.
+[END]
+23: (Burroughs) [7a 2][13 0, 12025]It's called ”AR.” Do you want me to
+explain how it works?
+[END]
+24: ”Please do.”
+”There's no need.”
+[END]
+25: (Burroughs) [7a 2]未使用
+[END]
+26: (Burroughs) [7a 2][13 1, 400053]Okay. We'll skip over that.
+[END]
+27: ”AR” has been added to the list of
+unlockable Apps.
+[->]AR is a short for Augmented Reality.
+[->]When using AR, information on shops,
+stairways, entrances, and exits will be
+projected before you.
+[END]
+28: (Burroughs) [7a 2][13 1, 400055]Did you get all that?
+[END]
+29: ”Yes, I understand.”
+”Tell me once more.”
+[END]
+30: (Burroughs) [7a 2]未使用
+[END]
+31: (Burroughs) [7a 2][13 0, 12028]All right. I'll display the
+info for you again.
+[END]
+32: (Burroughs) [7a 2][13 0, 12029]If you intend to use AR guidance,
+don't forget to pick up that app.
+[->][13 0, 12030]Until next time, Master [Flynn].
+[END]
+33: Open the Burroughs section of the
+Main Menu and select ”App.”
+[END]
+34: (Burroughs) [7a 2][13 0, 12022]Until next time, Master [Flynn].
+[END]

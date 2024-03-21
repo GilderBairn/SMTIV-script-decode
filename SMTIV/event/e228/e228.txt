@@ -1,0 +1,27 @@
+0: (The White) [7a 78][13 0, 228001]...We have won.
+[->][13 0, 228002]We humans have triumphed over God's
+plan...
+[END]
+1: (The White) [7a 77][13 0, 228003]Now we will be saved.
+[->][13 0, 228004]We can pass into nothingness, where
+there will be no suffering or sorrow...
+[END]
+2: (The White) [7a 124][13 0, 228005]All of this is thanks to the choice
+you made.
+[->][13 0, 228006]You are the true Messiah...
+[END]
+3: (The White) [7a 75][13 0, 228007]The long and painful journey ends here.
+[->][13 0, 228008]Thank you...
+[END]
+4: (The White) [7a 75][13 0, 228009]...and goodbye.
+[END]
+5: 〉 [Flynn] turned the world into
+nothingness.
+[->]〉 The world is completely free from
+agony and sorrow...
+[->]〉 Everything is gone...
+[END]
+999: カットアニメでブラックホールに
+世界が飲みこまれていきます
+[->]ここでゲームクリアとなります
+[END]

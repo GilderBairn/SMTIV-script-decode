@@ -1,0 +1,27 @@
+0: [71 1]Another world has had order engraved
+upon it...
+[->][END]
+1: [71 1]Many Samurai have awoken to my
+miracles...
+[->][END]
+2: [71 1]The worlds cry out for peace.
+What land shall call to me next...?
+[->][END]
+3: [71 1](provisional) StreetPass Transformation
+[->][END]
+4: [71 1](provisional) StreetPass Transformation 2
+[->][END]
+5: [71 1](provisional) StreetPass Transformation 3
+[->][END]
+6: [71 1]After purging the land, this gift
+remained... Take it, and hold it
+tight.
+[->][END]
+7: [71 1]The worlds share all things, items
+come and go... Know that this gift
+is from another land.
+[->][END]
+8: [71 1]I see order within this object.
+Therefore, I shall make it a gift
+to you.
+[->][END]

@@ -1,0 +1,9 @@
+0: (Take−Mikazuchi) [7a 0][13 1, 411212]I'm not gonna go easy on you, even
+if you are just a human.
+[->]The creed of the warrior gods says
+to always give your all against an
+opponent, no matter who it may be!
+[END]
+1: (Take−Mikazuchi) [7a 0][13 1, 411203]That was pretty good. Kind of a shame
+you're just a human!
+[END]

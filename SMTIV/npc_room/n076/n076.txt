@@ -1,0 +1,55 @@
+0: (Hunter) [7a 67][13 1, 403001]Ikebukuro used to be a city where
+foreign criminals and other people
+took power.
+[->]They were driven out by the Ashura−kai
+after the Firmament was formed...
+[->]But after that, it was taken over
+by a foreign demon.
+[->]It just goes to show that Ikebukuro's
+always been a city under the thumbs
+of outside influences.
+[END]
+1: (Hunter) [7a 67][13 1, 403001]The Ring of Gaea used to make
+themselves out to be some kind of
+human rights organization.
+[->]But they would bomb cities, and
+hailed the demons when they worked...
+[->]...Well, everybody knows they're
+pretty much a cult now. It's best
+to not get involved with them.
+[END]
+2: (Hunter) [7a 70][13 1, 403112]Demons have Domains everywhere, and
+I can't move around freely in the
+city.
+[->]Defeating the demons that set up he
+Domains would solve that probem, but
+Xi Wangmu's behind this...
+[END]
+3: (Hunter) [7a 70][13 1, 403141]...Now that Xi Wangmu's dead, the
+Domains seem to be gone as well.
+[->]Now I can finally head to the eastern
+entrance of the station and other
+places in that direction.
+[END]
+101: (Hunter) [7a 67][13 1, 403001]It's true that the people in the
+Ring of Gaea are kind of...
+unconventional...
+[->]But, they're right about one thing:
+If you want to survive in Tokyo with
+the demons, you need power.
+[->]There's no guarantee that Tayama can
+look after us until the very end,
+after all.
+[END]
+201: (Hunter) [7a 67][13 1, 403001]It's true that the people in the
+Ring of Gaea are kind of...
+unconventional...
+[->]But, they're right about one thing:
+If you want to survive in Tokyo with
+the demons, you need power.
+[->]There's no guarantee that Tayama can
+look after us until the very end,
+after all.
+[->]That's why I'm cheering on the
+Ring of Gaea.
+[END]

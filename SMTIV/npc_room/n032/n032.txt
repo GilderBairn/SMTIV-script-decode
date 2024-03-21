@@ -1,0 +1,156 @@
+0: (Dilettante Hunter) [7a 67][13 1, 403001]Heheh... If it's rare stuff you're
+after, always take a look inside the
+demons' Domains!
+[->]Especially since the Ashura−kai don't
+go in those. Which just means more
+goodies for the rest of us!
+[END]
+1: (Dilettante Hunter) [7a 67][13 1, 403012]Ever since that pillar of light appeared
+in Ichigaya, there's been a lot more
+demons around...
+[->]At this rate, how can I go out and
+hunt for rare stuff!?
+[END]
+2: (Dilettante Hunter) [7a 67][13 1, 403002]An overall ranking, eh? Guess I can't
+be wasting any time talkin'!
+[->]I've gotta go out there and bring back
+a bunch of rare finds! I'll smash any
+demon that gets in my way!
+[END]
+3: (Dilettante Hunter) [7a 67][13 1, 403031]Once again, I picked myself up an
+awesome rare find! Another masterpiece
+for the collection!
+[->]It's called... HOPE!
+[END]
+4: (Dilettante Hunter) [7a 67][13 1, 403001]All the stuff in my collection, they
+know as ”mystic relics” in their home
+kingdom...
+[->]I think there are probably keen−eyed
+men like me in lots of countries.
+[END]
+5: (Monk) [7a 42][13 1, 403633]This gentleman's collection is filled
+with items the likes of which we've
+never seen before...
+[->]Tokyo certainly is brimming with
+mystery! We must begin investigating
+it as soon as we can!
+[END]
+6: (Suave man) [7a 121][13 1, 403001]I've been to Ikebukuro before. But all
+the shops there were closed...
+[->]If you wanna shop, guess you'll have
+to do it in Shinjuku now. Well, time
+I got back to Shibuya...
+[END]
+7: (Stern Samurai) [7a 29][13 1, 403042]This person is feeling unwell, so they
+let us stay in this room...
+[->]They are known as the Unclean Ones, but
+nothing could be further from the truth!
+[->]The people of Tokyo are merciful and
+pure of heart...
+[END]
+8: (Quiet man) [7a 45][13 1, 403633]I didn't realize how hard it would be
+to travel from the Eastern Kingdom of
+Mikado to Tokyo...
+[->]And that water the people of Tokyo
+offered to me... I never thought that
+simple water could be so refreshing...
+[->]I daren't give up now... For the sake
+of those unable to travel to this new
+world with me...
+[->]And for myself, who blindly relied on
+God and performed no good works...
+[END]
+9: (Hunter man) [7a 118][13 1, 403001]I heard about you guys from Fujiwara...
+[->]Think of Tokyo as your family home or
+something. You can let it all hang
+out here.
+[END]
+10: (Depressed woman) [7a 61][13 1, 403312]Hey, you've seen a girl, right? She
+looks teenaged, wears a school
+uniform...
+[->]I remember... When I was sealed inside
+Tokyo, I was her age...
+[END]
+11: (Depressed woman) [7a 61][13 1, 403312]I actually live in Atsugi... I was in
+Shinjuku for some shopping that day.
+[->]My friend is gone now... I'm alone...
+[END]
+12: (Depressed woman) [7a 61][13 1, 403312]Huh? There's a Sanctuary in Shinjuku?
+[->]Well... there's a place called Harajuku
+there. That's kind of a sanctuary for
+teenagers craving radical new fashions.
+[->]Oh? That's not the kind of sanctuary
+you meant?
+[END]
+13: (Depressed woman) [7a 61][13 1, 403312]Once I had a Hunter I met in Shinjuku
+take me to Shibuya.
+[->]It was fun... we had a few laughs,
+a few drinks... For a little while,
+I forgot all about the ceiling...
+[->]But I guess I can't be that naive
+anymore...
+[END]
+14: (Depressed woman) [7a 61][13 1, 403312]I'm originally from Atsugi. I was
+shopping in Shinjuku when that ceiling
+appeared...
+[->]I had a friend who stayed with me.
+We talked a lot about how much we
+wanted to go to Roppongi...
+[->]But then... that friend of mine ate
+one of the red pills...
+[END]
+15: (Depressed woman) [7a 61][13 1, 403312]By the way, a little while before the
+ceiling appeared, these strange−looking
+people tried to talk to me.
+[->]They were with some kind of religion.
+They wanted to take me to Tsukiji
+Hongwanji...
+[END]
+16: (Depressed woman) [7a 61][13 1, 403312]By the way, a little while before the
+ceiling appeared, these strange−looking
+people tried to talk to me.
+[->]They were with some kind of religion.
+They wanted to take me to Tsukiji
+Hongwanji...
+[END]
+17: (Depressed woman) [7a 61][13 1, 403312]The Yakuza and those cultists are about
+to go to war, huh?
+[->]Please... get me out of here! I don't
+want to stay in Tokyo anymore! I'm
+begging you, get me out of Tokyo...!
+[END]
+18: (Depressed woman) [7a 61][13 1, 403312]It's just like 25 years ago... demons
+came to Tokyo and slaughtered so many
+people...
+[->]If history is about to repeat itself,
+I wish the ceiling wasn't there so
+we could accept God's wrath...
+[END]
+19: (Depressed woman) [7a 61][13 1, 403312]Someone created that ceiling...
+[->]And then a champion arrived...
+[->]But I'm the same as I was 25 years ago.
+I haven't grown up. I still just cling
+to the hope that someone will save me...
+[END]
+100: (Dilettante Hunter) [7a 67][13 1, 403001]The tower in Shinjuku National Park is
+under heavy guard by the Ashura−kai.
+[->]It's not like there's anything worth
+looting in the place... Why do they
+have such an intense interest in it?
+[END]
+200: (Dilettante Hunter) [7a 67][13 1, 403031]Everyone has their own complaints about
+life in Tokyo. But if you keep your eyes
+open, you'll find plenty of fun here...
+[->]Like... infiltrating Domains to search
+for rare loot!
+[END]
+1000: (Dilettante Hunter) [7a 67][13 1, 403001]Hm? Are you from the station underground
+district? So... you're targeting that
+demon in the government office, huh?
+[->]Well then, it's not here you want.
+Go outside from the northwest gate of
+the station underground district.
+[->]Then go west from the west entrance
+and you'll find the foyer of the
+Metropolitan Government office.
+[END]

@@ -1,0 +1,22 @@
+0: (Bartender) [13 1, 405120]Kenji had one hell of a fight in the
+shop with a demon that used to be in
+control of Ikebukuro...
+[->]I'm finally done fixing the shop and
+getting ready to open it for business
+again. I hope you'll stop by often!
+[END]
+1: (Demonoid man) [13 1, 415109]It's better we don't tell the neurishers
+about this ”equality” Akira talks about.
+[->]We can't go back to our human selves,
+so there's no point in stirring things
+up with shit about ”human rights.”
+[END]
+2: (Demonoid man) [13 1, 415205]A bunch of the guys who were here got
+killed by the ones who came from
+Kasumigaseki.
+[->]They swore up and down that they'd never
+bow to a guy like Akira, after all...
+[->]They may be Akira's old friends, but
+wasn't that going a little far? They
+acted more like fanatics.
+[END]

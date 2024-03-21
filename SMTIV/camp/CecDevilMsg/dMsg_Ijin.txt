@@ -1,0 +1,27 @@
+0: [71 1]I have visited a faraway land.
+...'Tis naught but ashes now.
+[->][END]
+1: [71 1]...Helping others is a difficut
+task. 'Tis my habit to destroy all
+that I encounter.
+[->][END]
+2: [71 1]...The world is such a vast place.
+I must go there again soon.
+[->][END]
+3: [71 1]I have returned, to bring thee
+to victory.
+[->][END]
+4: [71 1]Behold this fusion, this true power!
+[->][END]
+5: [71 1]Feel the souls of those who have
+passed on...
+[->][END]
+6: [71 1]I bestow this upon thee. 'Tis a gift
+I have selected...
+[->][END]
+7: [71 1]I acquired a merry gift whilst on
+my travels afar. Make use of it...
+[->][END]
+8: [71 1]Behold, this rare gift I have found
+for thee...
+[->][END]

@@ -1,0 +1,57 @@
+0: 〉 You hear a voice coming from further
+down the passage...
+[END]
+1: (Woman's voice) [7a 2][13 0, 142001]You who wish to pass. Answer our
+question.
+[END]
+2: (Man's voice) [7a 2][13 0, 142002]You will have two choices. The answer
+will reveal your inner self.
+[->][13 0, 142003]This is the final inquiry.
+[END]
+3: (Woman's voice) [7a 2][13 0, 142004]Now, for the question...
+[END]
+4: (Woman's voice) [7a 2][13 0, 142005]The love of your life lies in front
+of you, unconscious.
+[->][13 0, 142006]There is no hope that they will ever
+wake again. You have already tried
+many things, to no avail...
+[->][13 0, 142007]What would you do?
+[END]
+5: (Woman's voice) [7a 2][13 0, 142009]If you would stop all treatment and
+allow this person to perish naturally,
+go left.
+[END]
+6: (Man's voice) [7a 2]Walk toward the Error!
+[END]
+7: (Walter) [7a 4][7b 196612, 65537][13 0, 142010]I think it would be best to let them
+die... but on the other hand, it's
+someone very dear to you, isn't it...?
+[->][7b 655364, 65537][13 0, 142011]Damn! That's a choice I can't make.
+[END]
+8: (Jonathan) [7a 3][7b 196611, 65537][13 0, 142012]We are in agreement on that point,
+Walter. I can't decide either...
+[END]
+9: (Isabeau) [7a 5][7b 131077, 65537][13 0, 142013]These questions are all so unpleasant...
+[->][13 0, 142014][7b 786437, 65537]Which would you choose, [Flynn]...?
+[->][13 0, 142015]Left, letting your beloved die? Or
+right, committing to staying at their
+side for the rest of your life?
+[END]
+10: (Isabeau) [7a 5][7b 65541, 65537][END]
+11: (Man's voice) [13 0, 142016]You would spend the rest of your life
+trying to keep that person alive?
+[END]
+12: ”Yes, I would.”
+Reconsider
+[END]
+13: (Woman's voice) [13 0, 142017]You would let your dearest beloved
+die a natural death?
+[END]
+14: ”Yes, I would.”
+Reconsider
+[END]
+105: (Man's voice) [7a 2][13 0, 142008]If you would care for this person for
+the rest of your life, go right.
+[END]
+999: つなぎ用仮イベントです
+[END]

@@ -1,0 +1,17 @@
+0: Dummy
+[END]
+1: 〉 [Flynn] can't move!
+[END]
+2: 〉 [Demon name 60] has taken
+damage.
+[END]
+3: 〉 The candle is dwindling...
+[END]
+4: 〉 Wicker Man's flames have reached Nozomi.
+[END]
+5: 〉 One of the angels attacks Nozomi!
+[END]
+6: 〉 A crack appears in the Orb of the Four Gates.
+[END]
+7: 〉 [Demon name 5] has taken damage as well!
+[END]

@@ -1,0 +1,55 @@
+0: (Guard−like man) [7a 60][13 0, 83001]Hey, you can't come in here!
+[->][13 0, 83002]Can't you see there's a Domain set
+up, kid? That's to keep intruders like
+you out!
+[END]
+1: (Guard−like man) [7a 60][13 0, 83003]I've been looking after the Terminals
+for twenty years now. People call me
+the Terminal Guardian.
+[END]
+2: (Guard−like man) [7a 60][13 0, 83004]People call me the... Wait, what the!?
+Ugh, you again!
+[->][13 0, 83005]You just had to come and cause more
+trouble... You're definitely on my
+watch list!
+[END]
+3: (Guard−like man) [7a 60][13 0, 83006]I knew you'd come... You're that
+rotten kid who's been raiding the
+Terminals. I know your face!
+[END]
+4: (Guard−like man) [7a 60][13 0, 83007]You again...? Sheesh...
+[->][13 0, 83008]I've been in Dutch ever since you
+started showing up, and they cut my pay.
+[->][13 0, 83009]It's not like I can back down! I got
+a family to feed!
+[END]
+5: (Guard−like man) [7a 60][13 0, 83010]Congrats on getting this far, you
+lousy kid.
+[->][13 0, 83011]You might think I'm an idiot to keep
+doing this, but it doesn't matter.
+[->][13 0, 83012]I got my pride. I've been a guardian
+for the last twenty years.
+[END]
+6: (Guard−like man) [7a 60][13 0, 83013]And you've gotta have brass balls to
+mess with a Terminal under my
+protection.
+[->][13 0, 83014]I'll bury you in the dark alleys of
+Nagatacho without anyone knowing
+you're here!
+[END]
+7: 〉 The demon's Domain has been lifted.
+[END]
+8: (Burroughs) [7a 2][13 1, 400063]Looks like the quest is going well.
+[END]
+9: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+10: (Burroughs) [7a 2][13 1, 405702]This is the Kasumigaseki Terminal.
+[END]
+11: (Burroughs) [7a 2][13 0, 74001]I'm going to run the Terminal
+activation program.
+[END]
+12: (Burroughs) [7a 2][13 0, 74002]Activation complete.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]

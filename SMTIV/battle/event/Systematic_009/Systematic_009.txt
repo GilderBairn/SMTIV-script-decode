@@ -1,0 +1,89 @@
+0: 〉 A passage in mystic script appears
+on the Gauntlet...
+[END]
+1: (Lanling Wang) [7a 0]Once we receive our orders, we will
+break any enemy advance and protect
+the capital with our lives.
+[->]As long as Choukyou, the fourth
+child of the Bunjyoutei of the Qi
+is here...
+[->]Do not think you can oppose us!
+We are as mighty as a rising dragon!
+[->][END]
+2: (Lanling Wang) [7a 0]I was already killed once by a
+poisoned drink... I must be wary
+of falling to poison again...
+[->][END]
+3: Check action start
+[->][END]
+4: (Lanling Wang) [7a 0]What...! To think that they would
+strike right at the heart of our
+defenses...
+[->]The opponent must have a very
+capable commander!
+[->][END]
+5: (Lanling Wang) [7a 0]With my army's chain of command
+broken, my men are now in complete
+disarray.
+[->]I haven't seen an opponent as worthy
+as yourself since my battle with
+Yuwen Xian of Zhou!
+[->][END]
+6: (Lanling Wang) [7a 0]To think that I would be forced
+into such a predicament...
+[->]I, who have fought against and
+defeated the Zhou, Basmyl, and
+Chin...
+[->][END]
+7: Check action end
+[->][END]
+8: (Lanling Wang) [7a 0]Hah... Not once, but twice now I
+fall to a poisoned drink...
+[->]Ever since I was imprisoned in
+Lanling, I've poured all my efforts
+in dealing with the national crisis...
+[->]Yet, just like my previous lord,
+you bestow Choukyou a death...
+by... poison...!
+[->][END]
+9: 〉 [Flynn] runs past the boundary to
+the virtual battle, and the simulation
+ends...
+[END]
+10: Check enemy escape
+[->][END]
+11: 〉 The enemy was not eliminated within
+the turn limit.
+[->]〉 The simulation ends...
+[END]
+12: Tentative enemy, Lanling Wang
+[->][END]
+13: 〉 The enemy was successfully
+eliminated within the turn limit.
+[->]〉 The simulation ends...
+[END]
+100: (Zhong Kui) [7a 0]Look alive, all of you!
+Our leader, Lanling Wang, has arrived!
+[->][END]
+101: 〉 The demon Momunofu speaks to
+[Flynn]...
+[END]
+102: (Momunofu) [7a 0]These guys are kind of cocky,
+aren't they? Let's show them who's
+boss.
+[->]Hey, you, Mad Gasser!
+You're in on this too, right?
+[END]
+103: (Mad Gasser) [7a 0]......
+[END]
+104: 〉 The Mad Gasser nods silently...
+[END]
+105: [END]
+200: ”Demon training program −− Ready
+ Training Battle 9 −− Begin”
+[->][Color:0x5]”Use powerful attacks that can only be
+performed under certain conditions to
+defeat the great Lanling Wang!”[Color:0x0]
+[END]
+1000: Test
+[->][END]

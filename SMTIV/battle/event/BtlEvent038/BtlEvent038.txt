@@ -1,0 +1,134 @@
+0: (Earthy man) [7a 59][13 0, 303800]Since I just can't win with you, I've
+gotta lean on a big−name demon.
+[->][13 0, 303801]You know who this is, right? It's the
+one, the only, Yamata−no−Orochi!
+[->][13 0, 303802]What's that? You feel like you can't
+beat this thing? Of course you do!
+[->][13 0, 303803]Well then, it's time you die!
+[END]
+1: (Guard−like man) [7a 60][13 0, 303804]Since I can't catch a break against
+you, my only choice now is to bring
+out a big−name demon.
+[->][13 0, 303805]You know who this is, right? It's the
+one, the only, Yamata−no−Orochi!
+[->][13 0, 303806]You feel like you can't beat this
+thing? Damn straight you can't!
+[->][13 0, 303807]Alright, kid, time to die!
+[END]
+2: (Host−like man) [7a 120][13 0, 303808]Since I just can't win when it comes
+to you, the only choice I have left
+is a big−name demon.
+[->][13 0, 303809]You recognize this one, right? It's
+the big man himself, Yamata−no−Orochi.
+[->][13 0, 303810]If you feel like you can't beat this
+thing, well, I don't blame you.
+[->][13 0, 303811]Okay, kiddos, time to die!
+[END]
+3: (Sloppy man) [7a 63][13 0, 303812]Well, you're giving me more trouble
+than I bargained for, so I guess it's
+time to bring out the big guns.
+[->][13 0, 303813]You know this one, huh? Yeah, that's
+right, it's Yamata−no−Orochi.
+[->][13 0, 303814]Are you shaking in your boots yet?
+Heheheheh...
+[->][13 0, 303815]Well then... time for you to die!
+[END]
+4: (Heavily made−up girl) [7a 123][13 0, 303816]You know how like, I haven't beat you
+once yet? I was thinking like, maybe
+I'd do better with a rilly cool demon.
+[->][13 0, 303817]Do you even know who this is? Like,
+have you ever heard of Yamata−no−Orochi?
+He's kind of a big deal.
+[->][13 0, 303818]Are you thinking, omigod, there's no
+way I'm beating that thing? I bet you
+are, huh?
+[->][13 0, 303819]Are you like, ready to die and junk?
+[END]
+5: (Anachronistic man) [7a 29][13 0, 303820]I have had ill luck against thee,
+and feel no recourse but to employ
+a demon high in status.
+[->][13 0, 303821]Dost thou know him? 'Tis the singularly
+monstrous Yamata−no−Orochi.
+[->][13 0, 303822]I should not be surprised if thou
+feel unworthy to face him... 'Tis
+perfectly natural.
+[->][13 0, 303823]I fear the hour has come for thee
+to perish!
+[END]
+6: (Businesslike man) [7a 47][13 0, 303824]Since I can't seem to get the best
+of you, I've decided to rely on a
+very special demon.
+[->][13 0, 303825]You know the one, yes? It's the one
+and only Yamata−no−Orochi.
+[->][13 0, 303826]I'll understand if it makes you
+nervous about your chances. I'm sure
+I'd feel the same.
+[->][13 0, 303827]And now, it's time you die.
+[END]
+7: (Intuitive man) [7a 118][13 0, 303828]I see it's gonna take a lot to beat
+you... I'll need a really big demon.
+[->][13 0, 303829]Can you foresee who I'm talking about?
+That's right! It's Yamata−no−Orochi!
+[->][13 0, 303830]Getting a feeling of foreboding doom?
+If so, your intuition's not wrong!
+[->][13 0, 303831]Now it's time to say goodbye!
+[END]
+500: (Earthy man) [7a 59][13 0, 301224]It ain't gonna be like this next time!
+You better remember that!
+[END]
+501: (Guard−like man) [7a 60][13 0, 301225]You're not getting off this easy
+next time. Remember that!
+[END]
+502: (Host−like man) [7a 120][13 0, 301226]You'll be singing a different tune
+next time! Just remember that!
+[END]
+503: (Sloppy man) [7a 63][13 0, 301227]It ain't gonna go like this next time!
+You better remember that!
+[END]
+504: (Heavily made−up girl) [7a 123][13 0, 301228]So like, I hope you know it's not
+gonna go so crappy for me next time
+and stuff!
+[END]
+505: (Anachronistic man) [7a 29][13 0, 301229]'Twill not go so miserably for me
+our next go−round! Remember that!
+[END]
+506: (Businesslike man) [7a 47][13 0, 301230]It won't go this way next time.
+You can bank on that.
+[END]
+507: (Intuitive man) [7a 118][13 0, 301231]I don't see it going this way the
+next time! You remember that!
+[END]
+600: (Earthy man) [7a 59][13 0, 305041]Damn, you took all the Terminals.
+[->][13 0, 305042]Heh, you got me good! Man, Samurai
+are something else!
+[END]
+601: (Guard−like man) [7a 60][13 0, 305043]Well, you've taken all the Terminals
+now...
+[->][13 0, 305044]You win. I gotta say, Samurai are
+pretty impressive.
+[END]
+602: (Host−like man) [7a 120][13 0, 305045]So all the Terminals are yours now.
+[->][13 0, 305046]All right, I accept defeat. Samurai
+are pretty impressive, it seems.
+[END]
+603: (Sloppy man) [7a 63][13 0, 305047]You got all the Terminals now...
+[->][13 0, 305048]Yep, time to pack it in. Guess
+there ain't no beating a Samurai!
+[END]
+604: (Heavily made−up girl) [7a 123][13 0, 305049]Aww, is that like, all the Terminals?
+[->][13 0, 305050]So I guess I lose? Was there like,
+any way I could have beaten a Samurai?
+[END]
+605: (Anachronistic man) [7a 29][13 0, 305051]'Twould seem that thou hath captured
+all of the Terminals.
+[->][13 0, 305052]I concede defeat. Thou Samurai art
+truly impressive.
+[END]
+606: (Businesslike man) [7a 47][13 0, 305053]All the Terminals are yours now.
+[->][13 0, 305054]Very well, you win. Samurai are truly
+fearsome opponents.
+[END]
+607: (Intuitive man) [7a 118][13 0, 305055]You've taken all the Terminals now...
+[->][13 0, 305056]Alright, I admit defeat! I should've
+seen this coming against a Samurai!
+[END]

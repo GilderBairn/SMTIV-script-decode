@@ -1,0 +1,80 @@
+0: [71 1]Look, I have a brand new skill.
+Use it wisely, okay?
+[->][END]
+1: [71 1]What do you think of this new skill?
+Now you'll never be able to let me
+go!
+[->][END]
+2: [71 1]Take a look at my new skill!
+It looks really good on me, huh?
+[->][END]
+3: [71 1]Is this crazy, or what?
+I'm totally strong now.
+[->][END]
+4: [71 1]Oh, my... Was I being too greedy?
+I have to throw one of my skills
+away!
+[->][END]
+5: [71 1]You know, my [Color:0x5][Skill 1]...[Color:0x0]
+I was thinking of changing it to
+[Color:0x5][Skill 2].[Color:0x0]
+[->][END]
+6: [71 1]My [Color:0x5][Skill 1]...[Color:0x0]
+Don't you think it'd be much better
+if it was something else?
+[->][END]
+7: [71 1]There's no stopping me now!
+[->][END]
+8: [71 1]I thought I'd be totally cool with
+that skill...
+[->][END]
+9: [71 1]It's done! [Color:0x5][Skill 1]![Color:0x0]
+This is sooo me, huh?
+[->][END]
+10: [71 1]My heart is pounding... I feel
+like I could just transform
+right now...
+[->][END]
+11: [71 1]Here I go! Whatever happens,
+happens!
+[->][END]
+12: [71 1]Don't make me wait...
+[->][END]
+13: [71 1]Wow, I'm so cool now!
+[->][END]
+14: [71 1]What's this feeling...? I think I
+might be ready to [Color:0x5]transform![Color:0x0]
+[->][END]
+15: [71 1]Here, I have an extra
+[Color:0x5][Item 1]...[Color:0x0]
+So...
+[->][END]
+16: [71 1]Here you go, have this
+[Color:0x5][Item 1].[Color:0x0]
+It makes you feel good!
+[->][END]
+17: [71 1]You can have this [Color:0x5][Item 1].[Color:0x0]
+I'd feel real bad if you died.
+[->][END]
+18: [71 1]I'll teach you a demon's moves...
+But just you!
+[->][END]
+19: [71 1]Come on, I can teach you more,
+y'know!
+[->][END]
+20: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+I am totally happy to meet you.
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

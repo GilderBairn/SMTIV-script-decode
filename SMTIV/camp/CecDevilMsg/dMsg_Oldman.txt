@@ -1,0 +1,33 @@
+0: [71 1]That was a fun vacation! I want to
+do this Dee Dee Ess thingamajiggy
+again.
+[->][END]
+1: [71 1]All you Samurai are workin' hard.
+It makes me feel young again.
+[->][END]
+2: [71 1]Once you've learned something, it
+stays with you for your entire life...
+Where am I going next?
+[->][END]
+3: [71 1]My body may be old, but my spirit's
+still goin'! You watch out and
+see what I do in the future, sonny!
+[->][END]
+4: [71 1]I never thought I'd end up like this!
+How the hell did I get so oooooooold!?
+[->][END]
+5: [71 1]The next thing I knew, I was an old
+man... That's the appeal of going out
+into the world, isn't it?
+[->][END]
+6: [71 1]Here, I bought you a souvenir.
+Eat it while it's fresh.
+[->][END]
+7: [71 1]I got you a little present, boy.
+I hear it's somethin' you Samurai
+need.
+[->][END]
+8: [71 1]Gotcha a gift while I was out, Sonny.
+...Wish I could remember where I
+put it, though...
+[->][END]

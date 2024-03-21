@@ -1,0 +1,31 @@
+23: (Shopkeeper) [13 0, 405506]I'll appraise those for you!
+[END]
+24: (Shopkeeper) I can give you this much for the whole
+lot. Here you go!
+[END]
+25: (Shopkeeper) [13 0, 405500]Welcome!
+[END]
+26: (Shopkeeper) [13 0, 405503]Any other business I can help you with?
+[END]
+27: (Shopkeeper) [13 4, 405502]Come again!
+[END]
+28: (Shopkeeper) [Item 1] x[Amount 1], hmm?
+That'll be [Amount 2] Macca.
+Is that okay with you?
+[END]
+29: (Shopkeeper) [Item 1] x[Amount 1], hmm?
+I'd buy that for [Amount 2] Macca!
+[END]
+30: (Shopkeeper) [13 0, 405507]Thanks!
+[END]
+31: (Shopkeeper) Are you gonna change here?
+[END]
+32: (Shopkeeper) [13 0, 405505]What do you want to sell?
+[END]
+33: (Shopkeeper) [13 0, 405504]What do you want to buy?
+[END]
+34: (Shopkeeper) [13 0, 405501]We're having a sale!
+[END]
+55: Yes
+No
+[END]

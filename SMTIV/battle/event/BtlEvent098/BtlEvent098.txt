@@ -1,0 +1,276 @@
+0: (Earthy man) [7a 59][13 0, 309801]Don't think you've won this one yet.
+The battles so far were just warm−ups.
+[->][13 0, 309802]Barong and Rangda... There's only one
+thing that comes from combinin' those
+two...
+[->][13 0, 309803]Here goes!
+[END]
+1: (Guard−like man) [7a 60][13 0, 309804]Hahaha, don't think you've won this
+one yet! Everything until now was
+just me warming up.
+[->][13 0, 309805]Barong and Rangda... There's only one
+thing that comes from putting those
+two together...
+[->][13 0, 309806]Here goes!
+[END]
+2: (Host−like man) [7a 120][13 0, 309807]Hahaha, don't be so cocky yet. Our
+matches so far were just warm−ups.
+[->][13 0, 309808]Barong and Rangda... You know what
+happens when you put those two
+together, right?
+[->][13 0, 309809]Feast your eyes!
+[END]
+3: (Sloppy man) [7a 63][13 0, 309810]Hahaha, don't think you've won yet.
+I've just been getting warmed up.
+[->][13 0, 309811]Barong and Rangda... There's only one
+outcome from fusing those two...
+[->][13 0, 309812]Here goes!
+[END]
+4: (Heavily made−up girl) [7a 123][13 0, 309813]So yeah like, don't think you've won
+this one yet. It's been all just
+warming up so far and stuff.
+[->][13 0, 309814]You know like, Barong and Rangda?
+Do you know what you get when you
+put those two together?
+[->][13 0, 309815]Do you wanna see?
+[END]
+5: (Anachronistic man) [7a 29][13 0, 309816]Hoh hoh! Do not assume that thou hast
+won the day yet! Our clashes thus far
+have been but a prelude.
+[->][13 0, 309817]Dost thou knoweth the result when one
+combineth Barong and Rangda?
+[->][13 0, 309818]Thou shalt see!
+[END]
+6: (Businesslike man) [7a 47][13 0, 309819]I'm afraid you haven't won yet.
+Everything up to now was merely
+a warm−up.
+[->][13 0, 309820]Barong and Rangda... There's only one
+result of combining those two...
+[->][13 0, 309821]Watch and see!
+[END]
+7: (Intuitive man) [7a 118][13 0, 309822]Hahaha, your victory isn't as clear−
+cut as you might think. Our battles
+so far have just been warm−ups.
+[->][13 0, 309823]Yeah, Barong and Rangda... There's
+only one thing I can see resulting
+from fusing those two...
+[->][13 0, 309824]Here goes!
+[END]
+8: (Earthy man) [7a 59][13 0, 309825]Shiva's the most powerful demon,
+and the most powerful demon is Shiva.
+[->][13 0, 309826]This here's really the roughest,
+toughest demon I can summon.
+[->][13 0, 309827]Every time we meet, it's been brutal,
+but this'll end it all.
+[END]
+9: (Guard−like man) [7a 60][13 0, 309828]Shiva's the strongest demon there is,
+and the strongest demon is Shiva.
+[->][13 0, 309829]This here is truly the toughest
+demon I can throw at you.
+[->][13 0, 309830]I've had a tough time with you so
+far, but that changes now!
+[END]
+10: (Host−like man) [7a 120][13 0, 309831]Shiva's the most powerful demon,
+no doubt about it.
+[->][13 0, 309832]This here is far and away the strongest
+demon I can summon.
+[->][13 0, 309833]I've had a rough time of it so far with
+you, kiddo, but that ends now.
+[END]
+11: (Sloppy man) [7a 63][13 0, 309834]No bones about it, Shiva's the most
+powerful demon.
+[->][13 0, 309835]He's as brutal a demon as they come.
+Seriously.
+[->][13 0, 309836]It's been no picnic fighting you, kid,
+and I'm glad it's about to be over!
+[END]
+12: (Heavily made−up girl) [7a 123][13 0, 309837]Yeah, so, Shiva's a rilly super strong
+demon and junk.
+[->][13 0, 309838]He's seriously all the toughest,
+most meanest demon I can summon!
+[->][13 0, 309839]And it's been totally awful fighting
+you for so long, but not for much
+longer...
+[END]
+13: (Anachronistic man) [7a 29][13 0, 309840]Shiva is the most supreme of demons
+that thou canst rely on.
+[->][13 0, 309841]Indeed, 'tis the most powerful demon
+that I could possibly summon.
+[->][13 0, 309842]Our intertwined fate has been unkind
+to me, but thou shalt soon see a
+reversal of fortune...
+[END]
+14: (Businesslike man) [7a 47][13 0, 309843]Shiva's the most powerful demon.
+Of that there can be no doubt.
+[->][13 0, 309844]I wanted to set the most powerful
+demon I could against you, and I
+think he fits the bill.
+[->][13 0, 309845]Fate hasn't been kind to me in your
+case, but I think my luck is about
+to change.
+[END]
+15: (Intuitive man) [7a 118][13 0, 309846]Shiva's the most powerful demon.
+Anyone can see that.
+[->][13 0, 309847]I can honestly say this is the most
+powerful demon I could summon.
+[->][13 0, 309848]Every time we meet, I get the short
+end of the stick, but not this time.
+[END]
+16: 〉 The earthy man ran off somewhere!
+[END]
+17: 〉 The guard−like man ran off somewhere!
+[END]
+18: 〉 The host−like man ran off somewhere!
+[END]
+19: 〉 The sloppy man ran off somewhere!
+[END]
+20: 〉 The heavily made−up girl ran off
+somewhere!
+[END]
+21: 〉 The anachronistic man ran off
+somewhere!
+[END]
+22: 〉 The businesslike man ran off somewhere!
+[END]
+23: 〉 The intuitive man ran off somewhere!
+[END]
+24: 〉 ......
+[->]〉 The guardian still hasn't returned...
+[->]〉 ......
+[END]
+25: 〉 The earthy man comes walking
+confidently back...
+[->]〉 He has a tremendous demon with him!
+[END]
+26: 〉 The guard−like man comes walking
+confidently back...
+[->]〉 He has a tremendous demon with him!
+[END]
+27: 〉 The host−like man comes walking
+confidently back...
+[->]〉 He has a tremendous demon with him!
+[END]
+28: 〉 The sloppy man comes walking
+confidently back...
+[->]〉 He has a tremendous demon with him!
+[END]
+29: 〉 The heavily made−up girl comes walking
+confidently back...
+[->]〉 She has a tremendous demon with her!
+[END]
+30: 〉 The anachronistic man comes walking
+confidently back...
+[->]〉 He has a tremendous demon with him!
+[END]
+31: 〉 The businesslike man comes walking
+confidently back...
+[->]〉 He has a tremendous demon with him!
+[END]
+32: 〉 The intuitive man comes walking
+confidently back...
+[->]〉 He has a tremendous demon with him!
+[END]
+33: (Earthy man) [7a 59][13 0, 309849]What kind of moron are you?
+[->][13 0, 309850]Do you even know how much trouble I had
+to go through to fuse Shiva?
+[->][13 0, 309851]Fine... I'll let you have this Terminal.
+[END]
+34: (Guard−like man) [7a 60][13 0, 309852]Will you give me a break, you rotten
+kid!?
+[->][13 0, 309853]Do you have any idea how much trouble
+I had to go through to fuse Shiva?
+[->][13 0, 309854]Fine... you can have this Terminal.
+[END]
+35: (Host−like man) [7a 120][13 0, 309855]Are you kidding me!?
+[->][13 0, 309856]Do you have the first clue how much
+trouble it was to fuse Shiva for this?
+[->][13 0, 309857]Fine... the Terminal's all yours.
+[END]
+36: (Sloppy man) [7a 63][13 0, 309858]Seriously, who was that for!?
+[->][13 0, 309859]I bet you don't even care how much
+trouble I took to fuse Shiva...
+[->][13 0, 309860]Fine... I'll let you have this Terminal.
+[END]
+37: (Heavily made−up girl) [7a 123][13 0, 309861]Seriously, like, what the hell's wrong
+with you?
+[->][13 0, 309862]Do you even KNOW how super annoying it
+was to fuse Shiva?
+[->][13 0, 309863]Whatever... You can have this Terminal
+if you want it so bad, I guess...
+[END]
+38: (Anachronistic man) [7a 29][13 0, 309864]Th−Thou knave...
+[->][13 0, 309865]Canst thou comprehend the difficulties
+I faced in fusing Shiva?
+[->][13 0, 309866]Very well... I shall concede this
+Terminal to thee.
+[END]
+39: (Businesslike man) [7a 47][13 0, 309867]I'm very, very disappointed in you.
+[->][13 0, 309868]Do you know the trouble it caused me,
+taking steps to fuse Shiva?
+[->][13 0, 309869]Fair enough... I'll let you have
+this Terminal.
+[END]
+40: (Intuitive man) [7a 118][13 0, 309870]Hey, what the hell's wrong with you?
+[->][13 0, 309871]Can't you see how much trouble I went
+through to fuse Shiva?
+[->][13 0, 309872]Fine... I'll let you have this Terminal.
+[END]
+500: (Earthy man) [7a 59][13 0, 301224]It ain't gonna be like this next time!
+You better remember that!
+[END]
+501: (Guard−like man) [7a 60][13 0, 301225]You're not getting off this easy
+next time. Remember that!
+[END]
+502: (Host−like man) [7a 120][13 0, 301226]You'll be singing a different tune
+next time! Just remember that!
+[END]
+503: (Sloppy man) [7a 63][13 0, 301227]It ain't gonna go like this next time!
+You better remember that!
+[END]
+504: (Heavily made−up girl) [7a 123][13 0, 301228]So like, I hope you know it's not
+gonna go so crappy for me next time
+and stuff!
+[END]
+505: (Anachronistic man) [7a 29][13 0, 301229]'Twill not go so miserably for me
+our next go−round! Remember that!
+[END]
+506: (Businesslike man) [7a 47][13 0, 301230]It won't go this way next time.
+You can bank on that.
+[END]
+507: (Intuitive man) [7a 118][13 0, 301231]I don't see it going this way the
+next time! You remember that!
+[END]
+600: (Earthy man) [7a 59][13 0, 305041]Damn, you took all the Terminals.
+[->][13 0, 305042]Heh, you got me good! Man, Samurai
+are something else!
+[END]
+601: (Guard−like man) [7a 60][13 0, 305043]Well, you've taken all the Terminals
+now...
+[->][13 0, 305044]You win. I gotta say, Samurai are
+pretty impressive.
+[END]
+602: (Host−like man) [7a 120][13 0, 305045]So all the Terminals are yours now.
+[->][13 0, 305046]All right, I accept defeat. Samurai
+are pretty impressive, it seems.
+[END]
+603: (Sloppy man) [7a 63][13 0, 305047]You got all the Terminals now...
+[->][13 0, 305048]Yep, time to pack it in. Guess
+there ain't no beating a Samurai!
+[END]
+604: (Heavily made−up girl) [7a 123][13 0, 305049]Aww, is that like, all the Terminals?
+[->][13 0, 305050]So I guess I lose? Was there like,
+any way I could have beaten a Samurai?
+[END]
+605: (Anachronistic man) [7a 29][13 0, 305051]'Twould seem that thou hath captured
+all of the Terminals.
+[->][13 0, 305052]I concede defeat. Thou Samurai art
+truly impressive.
+[END]
+606: (Businesslike man) [7a 47][13 0, 305053]All the Terminals are yours now.
+[->][13 0, 305054]Very well, you win. Samurai are truly
+fearsome opponents.
+[END]
+607: (Intuitive man) [7a 118][13 0, 305055]You've taken all the Terminals now...
+[->][13 0, 305056]Alright, I admit defeat! I should've
+seen this coming against a Samurai!
+[END]

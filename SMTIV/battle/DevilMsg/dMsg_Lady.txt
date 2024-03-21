@@ -1,0 +1,74 @@
+0: [71 1]I have awakened to yet another
+devilish aspect of myself...
+[->][END]
+1: [71 1]Another technique that I have been
+keeping secret has been exposed...
+[->][END]
+2: [71 1]This new skill transforms me into
+the heroine of this play...
+[->][END]
+3: [71 1]Strong, yet beautiful...
+Exactly my ideal form.
+[->][END]
+4: [71 1]My, I have too many skills...
+I must rid myself of one.
+[->][END]
+5: [71 1]I will change my [Color:0x5][Skill 1][Color:0x0]
+into [Color:0x5][Skill 2]...[Color:0x0]
+[->][END]
+6: [71 1]I will change my [Color:0x5][Skill 1][Color:0x0]
+into another lovely skill...
+[->][END]
+7: [71 1]It will be quite the experience...
+[->][END]
+8: [71 1]Don't you like the chance to be a
+little risque?
+[->][END]
+9: [71 1][Color:0x5][Skill 1]...[Color:0x0]
+Quite lovely, do you not agree?
+[->][END]
+10: [71 1]My body is so hot... I cannot bear
+it any longer! May I transform?
+[->][END]
+11: [71 1]Will I become something even more
+beautiful...?
+[->][END]
+12: [71 1]Now look what you have done...
+My passion is gone.
+[->][END]
+13: [71 1]...Do you still recognize me?
+[->][END]
+14: [71 1]I can feel the heat building up
+within me... As if I'm about to
+[Color:0x5]transform[Color:0x0] soon...
+[->][END]
+15: [71 1]I give you this [Color:0x5][Item 1].[Color:0x0]
+Treasure it as if it were me.
+[->][END]
+16: [71 1]You are quite a hard worker.
+You may have a [Color:0x5][Item 1].[Color:0x0]
+[->][END]
+17: [71 1]Take this [Color:0x5][Item 1]...[Color:0x0]
+It is my favorite.
+[->][END]
+18: [71 1]My devilish powers are overflowing...
+Don't hesitate, just accept it...
+[->][END]
+19: [71 1]Over so soon? A bit premature...
+[->][END]
+20: [71 1]I am [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+It is a pleasure meeting you.
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

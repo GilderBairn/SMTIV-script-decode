@@ -1,0 +1,226 @@
+0: (Fujiwara) [7a 18][13 1, 401301]If you want to visit the underground
+part of Roppongi, head for Midtown.
+[->]If you're leaving from Shinjuku, go to
+the Hills building in Roppongi via
+Shibuya. You know the Hills, right?
+[->]The Midtown entrance is a bit north
+from there.
+[END]
+1: (Fujiwara) [7a 18][13 1, 401302]Hmm... So your superiors turned down
+our request.
+[->]Well, we do appreciate that you tried.
+I'm sorry if it caused you any grief
+with your higher−ups.
+[->]We almost died in the Eastern Kingdom
+of Mikado... Let's consider it a silver
+lining that we get to die in Tokyo.
+[END]
+2: (Fujiwara) [7a 18][13 1, 401323]Uhm... Sorry, I overreacted a little.
+Kinda childish of me...
+[->]Though I do consider myself still young
+at heart! But putting such a burden on
+young guys like you... I'm getting old.
+[->]We almost died in the Eastern Kingdom
+of Mikado... Let's consider it a silver
+lining that we get to die in Tokyo.
+[END]
+3: (Fujiwara) [7a 18][13 1, 401314]A long time ago... Before the angels
+kicked us out of the Eastern Kingdom
+of Mikado...
+[->]We didn't know how to farm the land,
+so we had to find a way to survive.
+[->]So we came up with a business to
+deliver the water from the lake to
+people's houses.
+[->]Soon, we started to offer alcohol too.
+That attracted more customers, and our
+supply depot turned into a tavern...
+[->]Skins reminded me of the old days
+there...
+[END]
+4: (Fujiwara) [7a 18][13 1, 401311]About 20 years ago, I think, I met this
+little boy at Shinjuku National Park...
+[->]For some reason, the kid had a demon
+summoning program on him.
+[->]He said he was going to rescue his big
+sis from the angels. And he swore he'd
+go above the ceiling someday to do it.
+[->]It was a childish idea, but it really
+threw me. Go above the ceiling...? I
+would never have thought of it!
+[->]He was a special kid, that one...
+What was his name again... Oh yeah,
+I think he called himself Akira...
+[END]
+5: (Fujiwara) [7a 18][13 1, 401311]If the bedrock is removed, Tokyo will
+see the sunlight and blue skies once
+again...
+[->]The moment everyone's been dreaming of
+for so long is right around the corner.
+[->]I have to ask you to see this through to
+the very end... Please give us our Tokyo
+back.
+[END]
+6: (Skins) [7a 19][13 1, 401402]The demon Tayama stationed in Midtown
+is one of the National Defense
+Divinities.
+[->]...Don't go fight that thing unless
+you're ready. If you're not, your face
+will look even worse than mine...
+[END]
+7: (Skins) [7a 19][13 1, 401403]Who? Hikaru...? A young girl wearing
+a school uniform?
+[->]You mean that girl Isabeau you were
+traveling with, right? No?
+[->]Hikaru... Hikaru... Hmm. Sorry, neither
+of us have heard of anyone by that
+name before...
+[END]
+8: (Skins) [7a 19][13 1, 401402]Who? Hikaru...? A young girl wearing
+a school uniform?
+[->]You mean that girl Isabeau you were
+traveling with, right? No?
+[->]Hikaru... Hikaru... Hmm. Sorry, neither
+of us have heard of anyone by that
+name before...
+[END]
+9: (Skins) [7a 149][13 1, 401401]Back when I was still in my prime, there
+was a girl I used to see often while
+I was out on missions...
+[->]A little girl playing with a wheel...
+[->]I haven't seen her in a long time, but
+I'm strangely certain that she's still
+alive somewhere...
+[->]Ah, sorry to bother you. I'm still
+counting on you about Masakado.
+[->]If you unsheathe that sword in front
+of the huge rock in Ginza, you'll see
+what I mean...
+[END]
+10: (Skins) [7a 149][13 1, 401405]If you think about it, you'll find that
+human history is one selfish decision
+after another.
+[->]He appears in the middle of Ginza and
+they team up to seal him away at
+all costs...
+[->]Then they learn that Tokyo is in danger
+and they resurrect him because they need
+his help...
+[->]If I was the guardian of Tokyo, I'd have
+already given up on humans.
+[END]
+11: (Skins) [7a 149][13 1, 401404]I never realized how delicious sake
+would be when there's no worries about
+tomorrow.
+[->]You did good, [Flynn]...
+I knew you were that boy from 25
+years ago.
+[->]...Nah, forget I said that. I'm sure
+you'll be walking your own path.
+[END]
+12: (Hikaru) [7a 20][13 1, 401204]You guys are just as good as I thought
+you'd be.
+[->]You've met Tayama, Yuriko, and even
+Fujiwara...
+[->]And you're still safe and sound!
+[END]
+13: (Isabeau) [7a 5][13 1, 400302][Flynn], do you recall the manga
+I was reading?
+[->]Fujiwara kindly lent me the rest of
+the issues that I might finish the
+story.
+[->]The story's ”Casualries” defeated the
+”Luxurors”...
+[->]And went on to create a new country.
+That was the conclusion...
+[->]I was startled to learn that it was
+based upon true events.
+[->]Man has been killing one another for
+thousands of years...
+[->]I wonder if we will further the sad
+cycle of man's history...
+[END]
+14: (Hugo) [7a 10][13 1, 400704]I wonder how many wines are buried in
+the vastness of Tokyo...
+[->]I think I could do worse than to spend
+my remaining years as a wine researcher...
+[END]
+15: (K) [7a 22][13 1, 405010]Since the demons are not yet eliminated,
+we Samurai still have work to do.
+[->]It seems I'll have to relocate K's Tavern
+to Tokyo after all...
+[->]First, we must adapt to the environment
+there. That done, I'll go and find a
+nice spot...
+[END]
+100: (Fujiwara) [7a 18][13 1, 401301]The Japanese Defence Agency used to be
+in Midtown.
+[->]If you consider the Reds to be Tokyo's
+new defense system, it's almost
+appropriate... But not really.
+[->]If Tayama picked that spot out of some
+kind of poetic justice, he's got a
+weird sense of humor.
+[END]
+103: (Fujiwara) [7a 18][13 1, 401314]Doesn't the Eastern Kingdom of Mikado
+have anything like our Associaton?
+[->]When we lived in Mikado, we didn't have
+anything to do for fun. So we came up
+with a hobby... gambling.
+[->]At the tavern, we'd place bets on
+drinking contests.
+[->]Whoever won got a prize. Soon, we
+started keeping a ranking board to
+keep track of past challenges...
+[->]Frankly, this Association here has its
+origins in that game. You might call it
+a reverse import.
+[END]
+106: (Skins) [7a 19][13 1, 401402]So you beat Tenkai...
+[->]Tenkai was a god sworn to defend his
+nation... And you Samurai are trained
+to uphold your country's peace...
+[->]Both of you are patriots, but there
+you were, crossing swords to do what's
+right. Pretty ironic...
+[END]
+109: (Skins) [7a 149][13 1, 401401]Back when I was still in my prime, there
+was a girl I used to see often while
+I was out on missions...
+[->]A little girl playing with a wheel...
+[->]I haven't seen her in a long time, but
+I'm strangely certain that she's still
+alive somewhere...
+[END]
+112: (Hikaru) [7a 20][13 1, 401204]I had my eyes on you for a long time,
+you know?
+[->]Even before you were born. Our meeting
+was... fated.
+[->]The question is... if I said that with
+a straight face, would you be glad?
+Ahahaha!
+[END]
+200: (Fujiwara) [7a 18][13 1, 401301]About that idea of telling your
+superiors about us...
+[->]I know it'll be a tough job, convincing
+those guys of our idea.
+[->]But we're giving you people some very
+valuable information.
+[->]I'm counting on their... generous spirit
+to repay that kindness.
+[END]
+206: (Skins) [7a 19][13 1, 401402]Tayama controls the National Defense
+Divinities.
+[->]As enemies, they're terrible opponents.
+But as allies...
+[->]...Forget I said anything. I'm too old
+to be dreaming impossible dreams...
+[END]
+212: (Hikaru) [7a 20][13 1, 401204]I've got something important to go do...
+So this might be our last meeting.
+[->]But if you keep me in your heart,
+we'll see each other again...
+[->]The question is... if I said that with
+a straight face, would you be glad?
+Ahahaha!
+[END]

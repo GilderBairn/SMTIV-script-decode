@@ -1,0 +1,15 @@
+0: (David) [7a 0][13 1, 421000]I did not expect you to so easily
+eliminate those who danced to my tune...
+[->]However, the fear of death will appear
+to humans time and again, shifting its
+form every time...
+[->]Yes... just as I stand before you now!
+[END]
+1: (David) [7a 0][13 1, 421004]Hmm... you have done well to evade
+my curse.
+[->]However, it is not so easy to overcome
+the fear of death.
+[->]I believe I will appear before you in
+another form eventually. Farewell,
+until we meet again...
+[END]

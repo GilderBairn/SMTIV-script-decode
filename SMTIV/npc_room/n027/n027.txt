@@ -1,0 +1,171 @@
+0: (Hunter man) [7a 119][13 1, 403002]You can summon demons? How'd you get
+your hands on that smartphone?
+[->]I thought all the phones were thrown
+out except for the ones the Ashura−kai
+use...
+[->]I didn't get mine until I'd been
+delivering Reds for a year.
+[END]
+1: (Hunter man) [7a 119][13 1, 403002]I'm out of Reds to keep demons away.
+They're getting really hard to come by
+these days...
+[->]Used to be easy if you went to Shibuya
+or someplace like that. They sold 'em
+right on the street.
+[END]
+2: (Hunter man) [7a 119][13 1, 403021]The sky over Ichigaya glowed and then
+a horde of demons came out...
+[->]This place is still okay. But Shinjuku's
+probably not so safe, since it's right
+next to Ichigaya...
+[END]
+3: (Hunter man) [7a 119][13 1, 403002]Did you see the scoreboard at the
+Association? That overall ranking thing?
+[->]What's the prize for becoming champion?
+Nothing, really. It won't feed you,
+I can tell you that much.
+[END]
+4: (Hunter man) [7a 119][13 1, 403021]Hey, champ! You know, I was actually in
+the tournament too...
+[->]But I couldn't even crack the top ten.
+It's pretty hard to hack it with the
+best the Association has...
+[->]That's how I know you're great, champ.
+[END]
+5: (Hunter man) [7a 119][13 1, 403021]Hey, champ! So you beat this Demon Lord
+guy, huh?
+[->]That means if I want to challenge you,
+I should go through the Demon Lord
+first?
+[->]But I'd have to summon this Demon Lord
+to fight him...
+[->]Hmm. Maybe I don't want to be the
+champion after all...
+[END]
+6: (Garrulous man) [7a 120][13 1, 403403]Strange... I ought to be getting
+some reminders for my protection
+money around this time of day...
+[->]Ain't the Ashura−kai folks in the
+Sky Tower coming today?
+[END]
+7: (Garrulous man) [7a 120][13 1, 403403]I saw a guy in some armor coming out
+of the Sky Tower.
+[->]He looked like he was right out of this
+old fantasy flick about a ring...
+[END]
+8: (Garrulous man) [7a 120][13 1, 403403]You know, I don't see those folks in
+armor coming out of the Sky Tower
+anymore...
+[->]These days, what I see more often is
+demons coming from the Ichigaya area.
+[END]
+9: (Garrulous man) [7a 120][13 1, 403403]You know, I don't see those folks in
+armor coming out of the Sky Tower
+anymore...
+[->]These days, what I see more often is
+demons coming from the Ichigaya area.
+[END]
+10: (Garrulous man) [7a 120][13 1, 403402]...Oh, [Flynn]!
+[->]Our shining hope from the Sky Tower!
+You... You're like an angel...!
+[->]An angel sent to us by God...!
+[END]
+11: (Garrulous man) [7a 120][13 1, 403403]...Oh, [Flynn]!
+[->]Our shining hope from the Sky Tower!
+You're like an angel sent by God...
+[->]Though, uh, you earned the championship
+through your own hard work. I know that
+much, at least.
+[END]
+12: (Garrulous man) [7a 120][13 1, 403403]...Oh, [Flynn]!
+[->]I saw someone in armor coming out of the
+Sky Tower again! He gave the people in
+town some bread as a little gift.
+[->]It was real bread... I−I'd forgotten
+how soft real bread was...
+[END]
+13: (Tough woman) [7a 66][13 1, 403323]...What!? ”Unclean one”!? Are you
+talking to me, boy!?
+[->]Of course, if you haven't bathed for
+days, like everyone else... I said like
+everyone else! Not just ME!
+[END]
+14: (Tough woman) [7a 66][13 1, 403323]...What!? ”Unclean one”!? What's
+with you people!?
+[->]That armored guy I just met called me
+the same thing. How dare he!? I just
+had a bath in Shinobazu Pond last night!
+[END]
+15: (Tough woman) [7a 66][13 1, 403312]I'm sure Hunters will protect us from
+the demons...
+[->]I know for sure... At least I think so...
+I hope...
+[END]
+16: (Tough woman) [7a 66][13 1, 403302]The Hunters are fighting the good fight.
+[->]We can't fight alongside them, but we
+should keep our hopes up.
+[END]
+17: (Tough woman) [7a 66][13 1, 403302]We thought we'd lost everything
+already...
+[->]But all isn't lost just yet. Thanks to
+you, we realize that now...
+[END]
+18: (Tough woman) [7a 66][13 1, 403302]We thought we'd lost everything
+already...
+[->]But starting now... We're going to take
+back what we've lost...!
+[END]
+101: (Hunter man) [7a 119][13 1, 403002]I hear you can get Reds in Shibuya now.
+No one tells me the details, though...
+[->]Still, good to know we can get our hands
+on them again if we need them.
+[END]
+103: (Hunter man) [7a 119][13 1, 403002]Did you see the scoreboard at the
+Association? That overall ranking thing?
+[->]It's way too late to sign up now. But
+who was that guy in third place...?
+[Flynn], was it?
+[->]He's made the top three by coming up
+all the way through the regular
+members. Gotta admire his spirit...
+[END]
+107: (Garrulous man) [7a 120][13 1, 403403]I still see folks in armor coming out
+of Sky Tower sometimes.
+[->]They look like they're right out of this
+old fantasy flick about this French
+saint girl...
+[END]
+109: (Garrulous man) [7a 120][13 1, 403403]You know, I don't see those folks in
+armor coming out of the Sky Tower
+anymore...
+[->]This is just a rumor, but you know
+that [Flynn] at the top of the
+scoreboard?
+[->]He's from the Sky Tower too. Least
+that's what I hear...
+[END]
+113: (Tough woman) [7a 66][13 1, 403323]Did you hear some guy killed Peallaidh?
+[->]Now we can get to Shinobazu Pond for
+a bath without having to worry about
+demons...
+[END]
+201: (Hunter man) [7a 119][13 1, 403002]I just overheard something... Seems
+like the Ring of Gaea is getting ready
+to make their move.
+[->]They say Yuriko prophesied that the
+child of carnage shall descend from
+the Firmament...
+[->]I guess Tokyo will be in hot water
+sometime soon, and they're using it to
+their advantage to launch an attack.
+[END]
+301: (Hunter man) [7a 119][13 1, 403002]I just overheard something... Seems
+like the Ring of Gaea is getting ready
+to make their move.
+[->]They say Yuriko prophesied that the
+child of carnage shall descend from
+the Firmament...
+[->]I guess Tokyo will be in hot water
+sometime soon. Ichigaya's gonna be one
+big battlefield...
+[END]

@@ -1,0 +1,467 @@
+0: Dummy Message
+[END]
+1: [71 1]Everything in the world falls under
+the gaze of Death. From edge to edge,
+nothing escapes his view.
+[->]You, too, will die... Burn in the
+flames and be reduced to ashes.
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]Death gathers around a Fiend...
+Even as he beckons his next prey
+towards him...
+[->]Now, fight, and answer me: are you
+fit to live in this darkness?
+Or will you die...?
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]To think one would propose a truce
+in battle with impending death...
+[->]Very well, however...
+my price is dear.
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]A promise is a promise.
+Go, and live.
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]A powerful... spell of slumber...
+has fallen upon me...
+[->]Perhaps a truce is... for the best...
+For now... let me sleep...
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]...Wait. Let me heal you.
+[->]If you are going to go on living,
+let it be a better life...
+[->][END]
+33: NOT USED
+[END]
+34: [71 1]You would speak with a Fiend...
+Is this you you plan to face Death?
+[->]Very well, however...
+my price is dear.
+[->][END]
+35: NOT USED
+[END]
+36: [71 1]Hear the prattling of a Fiend...
+What lies beyond that? Life?
+Or death...?
+[->][END]
+37: NOT USED
+[END]
+38: [71 1]Ahh...! You wish to quench my thirst
+with idle chatter?
+[->]Then I shall speak.
+Speak of death...
+[->][END]
+39: NOT USED
+[END]
+40: [71 1]I shall go on speaking... What will
+you do with this momentary extension
+of your life?
+[->][END]
+41: NOT USED
+[END]
+42: [71 1]You would beg mercy from a Fiend...
+This, too, is humanity's fate...
+[->]Very well. What would you offer in
+exchange for the Death that stands
+before you?
+[->][END]
+43: NOT USED
+[END]
+44: [71 1]Your offering is most pleasing.
+I shall grant you mercy, just this
+once.
+[->]Your life glows brightly, but you
+teeter on the very edge of the
+eternal night.
+[->][END]
+45: NOT USED
+[END]
+46: [71 1]This irresistable drowsiness...
+Even Death... must slumber...
+[->]Mercy...? So be it.
+Now is not your time to die...
+[->][END]
+47: NOT USED
+[END]
+48: NOT USED
+[END]
+49: [71 1]I shall give you even more mercy.
+Let your conflict between life and
+death intensify...
+[->][END]
+50: NOT USED
+[END]
+51: [71 1]Do you think you can take money from
+a Fiend? From Death itself?
+[->][END]
+52: NOT USED
+[END]
+53: [71 1]Human avarice knows no bounds...
+[->][END]
+54: NOT USED
+[END]
+55: [71 1]Human, your soul has touched Death
+in its struggle to free itself from
+the chains of greed...
+[->]Now your soul shall be freed through
+death!
+[->][END]
+56: NOT USED
+[END]
+57: [71 1]Mwahahahaha...!
+[->][END]
+58: NOT USED
+[END]
+59: [71 1]Are you going to continue this
+savage balancing act over the abyss
+of Death...?
+[->][END]
+60: NOT USED
+[END]
+61: [71 1]A foolish farce... I shall give you
+all the money you want.
+[->]Indulge in your transient pleasures
+with your pointless money...
+[->][END]
+62: NOT USED
+[END]
+63: [71 1].........!
+[->]Your fingers have touched the depths
+of Death, the very core of Death...!
+[->][END]
+64: NOT USED
+[END]
+65: [71 1]Do you think you can take money from
+a Fiend? From Death itself?
+[->][END]
+66: NOT USED
+[END]
+67: [71 1]What lies inside the treasure?
+The abyss of Death? Or is your end
+further off...?
+[->]Either way, the cost is not cheap...
+[->][END]
+68: NOT USED
+[END]
+69: [71 1]Take this treasure, scooped from
+the depths of Death itself.
+[->][END]
+70: NOT USED
+[END]
+71: [71 1]Mwahahahaha...! How strange this is!
+[->]To think that I, Death, would give
+a human charity!
+[->][END]
+72: NOT USED
+[END]
+73: [71 1]Another treasure that Death hides...
+[->][END]
+74: NOT USED
+[END]
+75: [71 1]The flow of time is valuable...
+You should decide now on a price.
+[->][Color:0x1][Amount 1] Macca.[Color:0x0]
+Will you answer to that?
+[->][END]
+76: NOT USED
+[END]
+77: [71 1]I shall take [Color:0x1][Item 1].[Color:0x0]
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]I shall take [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]I shall take your [Color:0x1]life...[Color:0x0]
+[Color:0x1]But only a little.[Color:0x0]
+[->][END]
+82: NOT USED
+[END]
+83: [71 1]I shall take your [Color:0x1]life...[Color:0x0]
+[Color:0x1]A moderate amount.[Color:0x0]
+[->][END]
+84: NOT USED
+[END]
+85: [71 1]I shall take your [Color:0x1]life...[Color:0x0]
+[Color:0x1]Much of it.[Color:0x0]
+[->][END]
+86: NOT USED
+[END]
+87: [71 1]I shall take your [Color:0x1]life...[Color:0x0]
+[Color:0x1]Enough to feel Death's breath on
+your neck.[Color:0x0]
+[->][END]
+88: NOT USED
+[END]
+89: [71 1]I shall take your [Color:0x1]spirit...[Color:0x0]
+[Color:0x1]But only a little.[Color:0x0]
+[->][END]
+90: NOT USED
+[END]
+91: [71 1]I shall take your [Color:0x1]spirit...[Color:0x0]
+[Color:0x1]A moderate amount.[Color:0x0]
+[->][END]
+92: NOT USED
+[END]
+93: [71 1]I shall take your [Color:0x1]spirit...[Color:0x0]
+[Color:0x1]Much of it.[Color:0x0]
+[->][END]
+94: NOT USED
+[END]
+95: [71 1]I shall take your [Color:0x1]Spirit...[Color:0x0]
+[Color:0x1]Enough to feel Death's breath on
+your neck.[Color:0x0]
+[->][END]
+96: NOT USED
+[END]
+97: [71 1]I crave death... That of your ally!
+I shall take [Color:0x1]the life of
+[Demon name 2].[Color:0x0]
+[->][END]
+98: NOT USED
+[END]
+99: [71 1]I shall take [Color:0x1]that.[Color:0x0]
+Yes, [Color:0x1]that[Color:0x0] is what I desire...
+[->][END]
+100: NOT USED
+[END]
+101: [71 1]This thirst that cannot be put into
+words... What will quench it?
+[->][END]
+102: NOT USED
+[END]
+103: [71 1]Yes, this quenches my thirst
+precisely...
+[->][END]
+104: NOT USED
+[END]
+105: [71 1]No... My throat only grows more
+parched.
+[->][END]
+106: NOT USED
+[END]
+107: [71 1]The brilliance of life...
+Let me touch it.
+[->][END]
+108: NOT USED
+[END]
+109: ”Go ahead.”
+”You're not touching anything.”
+[->][END]
+110: [71 1]Ahhh... Marvelous...
+This is a rare life indeed...
+[->][END]
+111: NOT USED
+[END]
+112: 〉 The Fiend softly strokes [Flynn]'s
+face...
+[->][END]
+113: 〉 Life flows out of [Flynn]...
+[->][END]
+114: [71 1]Ahhh... Marvelous...
+This is a rare life indeed...
+[->][END]
+115: NOT USED
+[END]
+116: 〉 The Fiend softly strokes [Flynn]'s
+face...
+[->][END]
+117: 〉 [Flynn] lost his life...
+[->][END]
+118: [71 1]...Do you fear Death, Samurai?
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]You have done well in your offering.
+I am filled with satisfaction.
+[->][END]
+121: NOT USED
+[END]
+122: [71 1]This...! It satisfies even Death
+itself...!
+[->][END]
+123: NOT USED
+[END]
+124: [71 1]Death has taken a step closer...
+[->][END]
+125: NOT USED
+[END]
+126: [71 1]To think that you hold back when
+faced with a Fiend...
+[->]You think to lightly of your life.
+Death is becoming of you.
+[->][END]
+127: NOT USED
+[END]
+128: [71 1]It is over... Your negotiation's
+fate ends here.
+[->][END]
+129: NOT USED
+[END]
+130: [71 1]Did you think you could deceive
+Death itself...?
+[->]Your insincerity deserves only a
+swift Death.
+[->][END]
+131: NOT USED
+[END]
+132: [71 1]You do not have it...?
+You own an empty life...
+[->][END]
+133: NOT USED
+[END]
+134: [71 1]Even in the face of Death, you
+should have a Life Stone...
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]Even if my thirst is quenched, too
+much will only lead to decay...
+[->]Very well. Now is a good time.
+[->][END]
+137: NOT USED
+[END]
+138: [71 1]Did you think you could leave
+without slaking the thirst of a
+Fiend...?
+[->]Such disrespect deserves only death.
+[->][END]
+139: NOT USED
+[END]
+140: [71 1]To think you would refuse Death so
+many times...
+[->]The strength of your resolve is
+impressive.
+[->][END]
+141: NOT USED
+[END]
+142: [71 1]You accept everything?
+Are you a slave of this Fiend?
+[->]Your spirit is already dying...
+There is nothing more to be gained
+from speaking with you.
+[->][END]
+143: NOT USED
+[END]
+144: [71 1]You stand up to a Fiend with nothing
+but your own life...?
+[->]This is true bravery.
+[->][END]
+145: NOT USED
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: [71 1]You repeat yourself endlessly...
+An unchanging mind is full of dead
+thoughts.
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]I spread the gaze of Death across
+the entire world. Finding you is
+a simple thing.
+[->]Now, [Flynn]...
+Embrace the flames of Death...
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USED
+[END]
+171: [71 1]Reserve
+[->][END]
+172: [71 1]Reserve
+[->][END]
+173: [71 1]Reserve
+[->][END]
+174: [71 1]Reserve
+[->][END]

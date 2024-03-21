@@ -1,0 +1,11 @@
+0: (Ashura−kai man) [7a 47][13 0, 302901]Who do ya think ya owe it to, bein'
+able to eat every day, huh?
+[->][13 0, 302902]Hunters that won't kill demons ain't
+fit to breathe our air.
+[->][13 0, 302903]You're gonna be dog chow... or maybe
+bird feed, heheh.
+[END]
+1: (Ashura−kai man) [7a 47][13 0, 302904]D−Dammit... You stuck−up, no−good
+Hunters!
+[->][13 0, 302905]Y−You're gonna pay someday...!
+[END]

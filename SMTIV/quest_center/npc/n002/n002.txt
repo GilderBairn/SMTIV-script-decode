@@ -1,0 +1,408 @@
+0: (Hunter man) [13 1, 403001]I don't know when it happened, but
+there's a weird tower in Shinjuku
+National Park now.
+[->]Though it seems like an Ashura−kai
+project, so I'd better not go sticking
+my nose in.
+[END]
+1: (Hunter man) [13 1, 403001]A long while ago, there was a rumor
+going around that some big−time demons
+went at it near Shinjuku National Park.
+[->]I think it was after then that I started
+seeing that weird tower.
+[END]
+2: (Hunter man) [13 1, 403041]Oh, so you know Fujiwara...
+[->]He's a nice guy, but don't let it fool
+you−−he's sharp, too.
+[->]He used to be a newspaper reporter.
+I've heard he knows all about Tayama's
+secrets, too.
+[->]Fujiwara won't openly defy Tayama, which
+is why Tayama won't do anything about
+Fujiwara...
+[->]But I bet Fujiwara's the only man left
+in Tokyo who could shut that Tayama up.
+[END]
+3: (Hunter man) [13 1, 403001]The Hunters who answered Fujiwara's call
+are fighting the demons around Shinjuku
+in shifts.
+[->]But demons are pouring endlessly out
+of Ichigaya... If we don't deal with the
+root of this, it'll wring us dry.
+[END]
+4: (ハンターの男) [13 1, 403001]あの[悪魔/あくま]どもを[追/お]い[返/かえ]したんだぜ
+[信/しん]じられるかよ あんた?
+[->]ハハハッ [何/なん]だよ…
+[俺/おれ]たち やればできるんじゃないか
+[END]
+5: (Hunter man) [13 1, 403002]Beating the demon at the Metropolitan
+Government Office was a bigger job
+than it seemed.
+[->]I heard the Hunters they sent there
+ran away?
+[->]I bet the Ashura−kai will be after those
+idiots now, since the Hunters ruined
+their reputation.
+[END]
+6: (Hunter man) [13 1, 403002]...I heard about what happened with the
+thing at the government office. What a
+debacle, huh?
+[->]It's not public yet, but the Hunters
+know. You fought someone in the
+Ashura−kai, right?
+[->]Yeah, they'll get physical if things
+don't go their way. Though I guess they
+tried it with the wrong people this time.
+[END]
+7: (Hunter man) [13 1, 403002]I've carried Reds to Shinjuku National
+Park for the Ashura−kai before.
+[->]I know there are a bunch of demons in
+Tokyo that Tayama deals with...
+[->]But that package had a shit−ton of Reds.
+Whoever they're going to must be getting
+the VIP treatment.
+[END]
+8: (Hunter man) [13 1, 403002]I've carried Reds to Shinjuku National
+Park for the Ashura−kai before.
+[->]I brought them all the way from Midtown
+to Shinjuku. And that was a couple
+hundred boxes, too!
+[END]
+9: (Hunter man) [13 1, 403002]Actually, there was a tournament to
+determine the champion Hunter back when
+the Association first got started.
+[->]But in the end, they never crowned one,
+and it got split into different
+categories like it is now.
+[END]
+10: (Hunter man) [13 1, 403002]It's been 20 or so years since the
+Association was founded, and at last,
+we have a champion.
+[->]We lost Tokyo's guardian because of that
+wrath−of−God business, but now we have
+a new star of hope...
+[END]
+11: (Hunter man) [13 1, 403002]It's been 20 or so years since the
+Association was founded, and at last,
+we have a champion.
+[->]Which is great and all, but let's be
+honest...
+[->]What I'm really hoping for is a Tokyo
+where we don't need one.
+[END]
+12: (Hunter woman) [13 1, 403101]The Ashura−kai's confiscated almost all
+the supplies from department stores
+and malls.
+[->]But those guys aren't so careful, so
+there might be a few things left if you
+come across any stores.
+[END]
+13: (Hunter woman) [13 1, 403102]There used to be these things called the
+”National Defense Divinities” in this
+country.
+[->]Before Tokyo was covered in bedrock,
+it was a last−ditch plan...
+[->]They were going to use powerful demons
+as deadly weapons to counter invasions
+from other countries.
+[END]
+14: (Hunter woman) [13 1, 403102]Samurai and Hunters... We have pretty
+similar roles.
+[->]I'd rather think of Samurai as partners,
+not competitors. What about you?
+[END]
+15: (Bartender) [13 1, 405120]Hey there. Nice going, making it out
+this far. Shinjuku's bad off enough to
+need all the help we can get.
+[->]If you're sure of yourself, will you
+think about handling the matter of
+the Corpses?
+[END]
+16: (Bartender) [13 1, 405120]Hey there. Thanks for dealing with those
+Corpses... You've got real promise.
+[->]You seem pretty sure of yourself, so will
+you think about taking care of the demon
+at the Metropolitan Government Office?
+[->]Talk to the Ashura−kai guy at the
+shutters if you want to know more.
+[END]
+17: (Bartender) [13 1, 405120]Hey there, thanks for your hard work.
+That business with the demon at the
+government office made me think...
+[->]It reminded me of the episode with the
+sea monsters in that Ultra−something
+show I saw once...
+[->]Heh, what am I even talking about?
+The point is, I'm thankful for what
+you guys have done.
+[END]
+18: (Bartender) [13 1, 405120]Hey there, thanks for your hard work.
+That business with the demon at the
+government office made me think...
+[->]It reminded me of the episode with the
+sea monsters in that Ultra−something
+show I saw once...
+[->]Heh, what am I even talking about?
+The point is, I'm thankful for what
+you guys have done.
+[END]
+19: (Bartender) [13 1, 405120]I've been hearing the name ”Eastern
+Kingdom of Mikado” a lot lately.
+[->]Looks like there's a few people from
+there in Shinjuku too.
+[->]If you run into any of them, make sure
+you talk up the quests.
+[END]
+20: (Bartender) [13 1, 405120]Hey there, Samurai. That's a pretty
+rare thing you've got.
+[->]If you have one of those matchboxes,
+it must mean Fujiwara wants to meet.
+[->]You must be a big deal if you've caught
+his attention...
+[END]
+21: (Bartender) [13 1, 405120]Lately, I've been seeing demons
+everywhere in Shinjuku.
+[->]They haven't shown any signs of making a
+move on the underground districts yet...
+[->]But it's unnerving to think that
+Shinjuku's in the hands of demons now.
+[END]
+22: (Bartender) [13 1, 405120]Hey there, [Flynn]. Looks like
+things are going pretty well for you.
+[->]But a guy as strong as you, I'm sure
+you can aim even higher.
+[->]What you should try to do is make the
+top three. You do that, and then this
+tournament will really be something.
+[END]
+23: (Bartender) [13 1, 405120]Hey there, [Flynn]. Looks like
+you've been keeping busy.
+[->]Ever since you hit the top three,
+folks have been talking about you.
+[->]The other Hunters are starting to get
+into the spirit of things too...
+[->]Keep up the good work and help this
+tournament really blow up.
+[END]
+24: (Bartender) [13 1, 405123]Hey, [Flynn]!
+You've been on a roll!
+[->]People have been talking about how you're
+just a stone's throw from the champion's
+title.
+[->]The other Hunters are giving it all
+they've got to keep up.
+[->]So come on... you've come this far...
+You're going for the championship,
+right?
+[END]
+25: (Bartender) [13 1, 405120]Hey there, Tokyo's first champion.
+You did good. Thanks to you, things
+are picking up in Shinjuku.
+[->]Though there's still cause for concern.
+Like Armageddon between the angels of
+the Firmament and the demons...
+[->]There weren't many of them, but a few
+demons have climbed the Sky Tower.
+[END]
+26: (Cynical man) [13 1, 403202]You must be [Flynn], right?
+The one who's got Tokyo buzzing...
+[->]Sorry if this seems sudden, but are you
+interested in finding out what the people
+around you think about you?
+[END]
+27: (斜に構えた男) ちょいと[優/やさ]しすぎて ハンター[稼業/かぎょう]を
+やっていけるのか[心配/しんぱい]になるぜ
+[END]
+28: (Cynical man) Most people seem to think you're a very
+polite man.
+[->]Which is an admirable trait, but a little
+bizarre in Tokyo right now.
+[END]
+29: (Cynical man) Most people seem to think you're a hard
+man to get a handle on.
+[->]I've met all kinds, but people like you
+are pretty rare.
+[END]
+30: (Cynical man) Most people seem to think you're a real
+hot−blooded type.
+[->]Just like almost everyone in Tokyo...
+That's how you get if you live here
+whether you like it or not.
+[END]
+31: (斜に構えた男) [血/ち]に[飢/う]えすぎて [危険/きけん]な[予感/よかん]がするぜ
+オマエ [本当/ほんとう]に[大丈夫/だいじょうぶ]か?
+[END]
+32: (Cynical man) [13 1, 403202]You must be [Flynn], right?
+Yeah, I've seen you around.
+[->]Sorry if this seems sudden, but are you
+interested in finding out what the people
+around you think about you?
+[END]
+33: (斜に構えた男) この[東京/とうきょう]でお[前/まえ]ほどのカタブツは
+[見/み]たことがないって もう[評判/ひょうばん]だぜ
+[END]
+34: (Cynical man) Most people seem to think you're a very
+polite man.
+[->]I respect that, but here in this Tokyo...
+It's pretty hard to stay that way.
+[END]
+35: (Cynical man) Most people seem to think you're a hard
+man to get a handle on.
+[->]You go your own way, which is pretty
+damn cool. Even though there aren't
+many who would see things your way.
+[END]
+36: (Cynical man) Most people seem to think you're a real
+hot−blooded type.
+[->]I don't know if you've always been like
+that. It's just how you get if you live
+here whether you like it or not.
+[END]
+37: (斜に構えた男) お[前/まえ]の[行/い]く[所/ところ] [血/ち]と[暴力/ぼうりょく]が[渦巻/うずま]くって
+こりゃまた[随分/ずいぶん]な[評判/ひょうばん]だぜ
+[END]
+38: (Cynical man) [13 1, 403202]Hey there, [Flynn]. Not a day
+goes by that I don't hear about you.
+[->]Sorry if this seems sudden, but are you
+interested in finding out what the people
+around you think about you?
+[END]
+39: (斜に構えた男) [法/ほう]と[秩序/ちつじょ]の[申/もう]し[子/ご]たるサムライだって
+もはや[畏敬/いけい]の[象徴/しょうちょう]になってるぜ
+[END]
+40: (Cynical man) Everyone says you're a very polite man.
+[->]Considering the state Tokyo is in, it's
+rare that anyone like you still exists.
+[END]
+41: (Cynical man) Everyone says you're a hard man to get
+a handle on.
+[->]Which reminds me, there was another guy
+I said the same thing to. He was a young
+one too, about your age.
+[END]
+42: (Cynical man) Everyone says you're a real hot−blooded
+type.
+[->]The word is you're not from Tokyo, but
+you've started to fit in even more than
+some of the locals.
+[END]
+43: (斜に構えた男) [血/ち]に[染/そ]まりし[暴虐/ぼうぎゃく]のサムライだって
+もはや[恐怖/きょうふ]の[象徴/しょうちょう]になってるぜ
+[END]
+101: (Hunter man) [13 1, 403001]A long while ago, there was a rumor
+going around that some big−time demons
+went at it near Shinjuku National Park.
+[->]It seems three angels from the ceiling
+attacked Tokyo.
+[->]But I guess they were weakened, because
+they got taken down instead.
+[END]
+102: (Hunter man) [13 1, 403001]It seems like Fujiwara's staying out of
+this spat between Tayama and Yuriko.
+[->]All it would take would be for him to
+give the word, and he could mobilize
+Tokyo's top Hunters, too.
+[->]He must be biding his time... waiting
+for just the right opportunity.
+[END]
+107: (Hunter man) [13 1, 403002]I've carried Reds to Shinjuku National
+Park for the Ashura−kai before.
+[->]Back then, Shibuya was seriously hot.
+It was a Red Paradise!
+[->]...But no thanks to that guy, it's back
+to being a normal city now.
+[END]
+108: (Hunter man) [13 1, 403002]It's natural that Tayama would have the
+know−how to make Reds.
+[->]You do know that they were ginned up by
+a pharmaceutical company, right? One of
+the Ashura−kai's dummy corporations.
+[->]...This was all before the ceiling
+showed up, even.
+[END]
+109: (Hunter man) [13 1, 403002]Hey, that [Flynn] guy... The pace
+he's finishing those quests at is nuts!
+[->]If he keeps this up, he might really
+make champion...
+[END]
+119: (Bartender) [13 1, 405120]You're one of those Samurai folks, right?
+There was a Samurai here the other day...
+[->]But he got taken away by some guys from
+the Ashura−kai.
+[END]
+120: (Bartender) [13 1, 405120]If you've been checking the bulletin
+board's rankings, you've probably seen
+the name ”Skins.”
+[->]The man you met at Florida is Skins
+himself.
+[->]Not only is he strong, he's very good
+at using his demons by now.
+[->]He's not some random salaryman who up
+and joined the Hunters. I'll bet you he
+was specially trained somewhere.
+[END]
+125: (Bartender) [13 1, 405120]Hey there, Tokyo's first champion.
+You did good. Thanks to you, things
+are picking up in Shinjuku.
+[->]Though there's still cause for concern.
+Like Armageddon between the angels of
+the Firmament and the demons...
+[->]Of the Hunters who've gone off to
+Ichigaya, word is that none of them
+made it back alive.
+[END]
+126: ”I'm interested.”
+”I've no interest.”
+[END]
+132: ”I'm interested.”
+”I've no interest.”
+[END]
+138: ”I'm interested.”
+”I've no interest.”
+[END]
+207: (Hunter man) [13 1, 403002]I've carried Reds to Shinjuku National
+Park for the Ashura−kai before.
+[->]I picked 'em up from where they're made
+and brought 'em to Shibuya.
+[->]Man, where did I pick them up from...?
+It's no use, I can't remember now.
+[END]
+208: (Hunter man) [13 1, 403002]This rumor about a ”reactor under
+Ichigaya” is pretty rich. It's owned
+by the military, actually.
+[->]Some say it's a next−gen plasma weapon,
+or that it's actually a ritual altar
+to summon demons...
+[->]They said all kinds of things about it
+in those magazines even before the
+ceiling formed.
+[END]
+219: (Bartender) [13 1, 405120]Tayama's mad that you went into one of
+the Ashura−kai's forbidden zones.
+[->]Not because you didn't listen to them,
+but because it might cause others to
+take the Ashura−kai less seriously.
+[->]They have a fancy name now, but they're
+really nothing but yakuza. Hits to their
+reputation piss them off the most.
+[END]
+225: (Bartender) [13 1, 405120]I have a large reservation under
+Fujiwara's name.
+[->]Looks like he's planning a reception
+for VIPs from above the ceiling.
+[->]I can't serve them demon meat... Ugh,
+just thinking of a new menu makes my
+head hurt.
+[END]
+226: (Cynical man) Then hear me out...
+[END]
+232: (Cynical man) Then hear me out...
+[END]
+238: (Cynical man) Then hear me out...
+[END]
+326: (Cynical man) I see... Then we'll leave it at that.
+[END]
+332: (Cynical man) I see... Then we'll leave it at that.
+[END]
+338: (Cynical man) I see... Then we'll leave it at that.
+[END]

@@ -1,0 +1,23 @@
+0: 〉 The place is almost deserted. There
+aren't many monks in training.
+[->]〉 Where do you want to go?
+[END]
+1: To Hongwanji's main building
+To the hidden passage
+[END]
+2: 〉 You enter the main hall of Tsukiji
+Hongwanji.
+[END]
+3: 〉 You jump into the hole connected to
+the underground.
+[END]
+4: 〉 You head for the hidden passage
+leading to the surface.
+[END]
+100: Enter the main hall
+Go underground
+Go to the surface
+[END]
+200: 〉 There are many monks in training here.
+[->]〉 Where do you want to go?
+[END]

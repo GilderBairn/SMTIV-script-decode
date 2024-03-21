@@ -1,0 +1,15 @@
+0: My son [Color:0x5]Timothy[Color:0x0] has been missing since
+yesterday. He was pretending to be a Samurai
+and went out to play, but has not come back.
+He used to play in Kiccigiorgi Forest, but that
+place is now filled with demons... and I'm
+worried. I will wait at the [Color:0x5]city outskirts.[Color:0x0]
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

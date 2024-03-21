@@ -1,0 +1,10 @@
+0: (Demiurge) [7a 0][13 0, 351506]My lightning will course through your
+bodies until there is nothing left of
+you but ash!
+[END]
+1: (Demiurge) [7a 0][13 0, 351507]As long as you are children of man,
+you will remain prisoner...
+[->][13 0, 351508]Both in body and spirit...
+[->][13 0, 351509]Give up, be silent, and...
+[->][13 0, 351510]...be cursed.
+[END]

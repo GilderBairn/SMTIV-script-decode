@@ -1,0 +1,416 @@
+0: Dummy
+[END]
+1: (Demon Lord Lucifer) What folly is this, to coax the Demon
+Lord himself to join your cause...?
+[->]Power is won only through the display
+of power.
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: (Demon Lord Lucifer) Is this what you sought? Did you crawl
+here to make craven peace with the
+Demon Lord himself?
+[->]You will get no such thing...
+Now prove that your power is worthy.
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]NOT USED
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]NOT USED
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]NOT USED
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]NOT USED
+[->][END]
+33: NOT USED
+[END]
+34: (Demon Lord Lucifer) You wish to speak with me, the Demon
+Lord? You're quite the licentious
+one...
+[->]Very well. If you can meet my price,
+that is...
+[->][END]
+35: NOT USED
+[END]
+36: (Demon Lord Lucifer) It's been quite a while since I've
+engaged in such idle conversation.
+Where shall we begin...?
+[->][END]
+37: NOT USED
+[END]
+38: (Demon Lord Lucifer) Hahaha! Idle conversation with the Demon
+Lord, you say? You are the first with
+the temerity to suggest such a thing!
+[->]I have been waiting ever so long for
+one such as you to appear...!
+[->][END]
+39: NOT USED
+[END]
+40: (Demon Lord Lucifer) Let us converse to our heart's content...
+If at any time you wish to attack me
+instead, feel free to do so.
+[->][END]
+41: NOT USED
+[END]
+42: (Demon Lord Lucifer) Begging for mercy from the Demon Lord...?
+What an outrageous proposal...
+[->][END]
+43: NOT USED
+[END]
+44: (Demon Lord Lucifer) Behold the mercy of the Demon Lord,
+the spark of life that can be seen in
+the midst of death...
+[->][END]
+45: NOT USED
+[END]
+46: (Demon Lord Lucifer) Even now... I am deep in slumber...
+Mercy... Very well... That will do...
+[->][END]
+47: NOT USED
+[END]
+48: NOT USED
+[END]
+49: (Demon Lord Lucifer) I will show you further mercy. Do try
+not to squander your good fortune.
+[->][END]
+50: NOT USED
+[END]
+51: (Demon Lord Lucifer) So it is money that drives you? Very
+well, then let us hear your case.
+[->][END]
+52: NOT USED
+[END]
+53: (Demon Lord Lucifer) Keep that money clutched tight to your
+breast... so that you don't lose it
+even in death.
+[->][END]
+54: NOT USED
+[END]
+55: (Demon Lord Lucifer) Either you have stepped past the border
+of life and death... or you have fallen
+from the precipice of life...
+[->]Either as it may be, all that remains
+for you now is a gruesome death.
+[->][END]
+56: NOT USED
+[END]
+57: (Demon Lord Lucifer) Hahahahaha...!
+[->][END]
+58: NOT USED
+[END]
+59: (Demon Lord Lucifer) ...Is that all you have to ask? This is
+the extent of your desire?
+[->][END]
+60: NOT USED
+[END]
+61: (Demon Lord Lucifer) ...Enough, I tire of your prattling.
+I have just the thing for you.
+[->][END]
+62: NOT USED
+[END]
+63: (Demon Lord Lucifer) Hahahahaha...! Unfortunately for you,
+it ends here.
+[->][END]
+64: NOT USED
+[END]
+65: (Demon Lord Lucifer) So it is money that drives you? Very
+well, then let us hear your case.
+[->][END]
+66: NOT USED
+[END]
+67: (Demon Lord Lucifer) This place is the Pandemonium and you
+are facing the Lord of all evil. It
+makes for an interesting negotiation...
+[->][END]
+68: NOT USED
+[END]
+69: (Demon Lord Lucifer) Well done, I shall present you with your
+reward.
+[->][END]
+70: NOT USED
+[END]
+71: (Demon Lord Lucifer) Hahahaha... Negotiation? There is no
+need for such frippery...!
+[->]I am the Demon Lord! It is nothing to
+me to give you what you ask...!
+[->][END]
+72: NOT USED
+[END]
+73: (Demon Lord Lucifer) I will present you with another reward.
+Look grateful.
+[->][END]
+74: NOT USED
+[END]
+75: (Demon Lord Lucifer) ...I see no need to prolong this.
+A simple proposition, then:
+[->][Color:0x1][Amount 1] Macca.[Color:0x0]
+Will you take or leave it?
+[->][END]
+76: NOT USED
+[END]
+77: (Demon Lord Lucifer) My demand is your [Color:0x1][Item 1].[Color:0x0]
+[->][END]
+78: NOT USED
+[END]
+79: (Demon Lord Lucifer) My demand is [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+80: NOT USED
+[END]
+81: (Demon Lord Lucifer) My demand is [Color:0x1]a little[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+82: NOT USED
+[END]
+83: (Demon Lord Lucifer) My demand is [Color:0x1]some[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+84: NOT USED
+[END]
+85: (Demon Lord Lucifer) My demand is [Color:0x1]a lot[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+86: NOT USED
+[END]
+87: (Demon Lord Lucifer) My demand is [Color:0x1]the majority[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+88: NOT USED
+[END]
+89: (Demon Lord Lucifer) My demand is [Color:0x1]a little[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+90: NOT USED
+[END]
+91: (Demon Lord Lucifer) My demand is [Color:0x1]some[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+92: NOT USED
+[END]
+93: (Demon Lord Lucifer) My demand is [Color:0x1]a lot[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+94: NOT USED
+[END]
+95: (Demon Lord Lucifer) My demand is [Color:0x1]the majority[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+96: NOT USED
+[END]
+97: (Demon Lord Lucifer) Your demon there... I lay claim to
+[Color:0x1]the life of [Demon name 2].[Color:0x0]
+[->][END]
+98: NOT USED
+[END]
+99: (Demon Lord Lucifer) ...My demand is [Color:0x1]that.[Color:0x0]
+[->][END]
+100: NOT USED
+[END]
+101: (Demon Lord Lucifer) ...Now, what will you offer to me?
+[->][END]
+102: NOT USED
+[END]
+103: (Demon Lord Lucifer) Indeed, that is correct.
+[->][END]
+104: NOT USED
+[END]
+105: (Demon Lord Lucifer) ...I have no need of that.
+[->][END]
+106: NOT USED
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: (Demon Lord Lucifer) ...Hm. Yes, that should be enough.
+[->][END]
+121: NOT USED
+[END]
+122: (Demon Lord Lucifer) That is most excellent... I require
+nothing more than this.
+[->][END]
+123: NOT USED
+[END]
+124: (Demon Lord Lucifer) Oh...? So you mean to keep it for
+yourself.
+[->][END]
+125: NOT USED
+[END]
+126: (Demon Lord Lucifer) Most reckless of you, being so miserly
+with the Demon Lord...
+[->]It is time you met your end.
+[->][END]
+127: NOT USED
+[END]
+128: (Demon Lord Lucifer) ...Enough, we are quits.
+[->][END]
+129: NOT USED
+[END]
+130: (Demon Lord Lucifer) Most reckless of you, attempting to
+swindle the Demon Lord...
+[->]It is time you met your end.
+[->][END]
+131: NOT USED
+[END]
+132: (Demon Lord Lucifer) I see... So you do not have it.
+[->][END]
+133: NOT USED
+[END]
+134: (Demon Lord Lucifer) What profit is it for either of us if
+you have not a single Life Stone?
+[->][END]
+135: NOT USED
+[END]
+136: (Demon Lord Lucifer) ...Then let us do so. I think very
+little of prolonged discussion.
+[->][END]
+137: NOT USED
+[END]
+138: (Demon Lord Lucifer) Most reckless of you, attempting to
+stymie the Demon Lord...
+[->]It is time you met your end.
+[->][END]
+139: NOT USED
+[END]
+140: (Demon Lord Lucifer) How amusing, for one to stand so resolute
+in the face of the Demon Lord...!
+[->]Hahahahaha...!
+[->][END]
+141: NOT USED
+[END]
+142: (Demon Lord Lucifer) All you have done is accept my every
+demand without question... Your
+submissive posture sickens me.
+[->]How dare you approach the Demon Lord
+in such a selfless spirit?
+[->][END]
+143: NOT USED
+[END]
+144: (Demon Lord Lucifer) So, you faced the Demon Lord with your
+spirit and nothing else?
+[->]Hahahahaha...!
+[->][END]
+145: NOT USED
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: (Demon Lord Lucifer) You circle around to the same subject
+repeatedly... Have you no free will to
+adapt to the flow of conversation?
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]NOT USED
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USED
+[END]
+171: [71 1]NOT USED
+[->][END]
+172: [71 1]NOT USED
+[->][END]
+173: [71 1]NOT USED
+[->][END]
+174: [71 1]NOT USED
+[->][END]

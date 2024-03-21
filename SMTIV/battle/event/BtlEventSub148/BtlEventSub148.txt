@@ -1,0 +1,8 @@
+0: [13 1, 494050]TRY
+DEFEAT US
+CATCH US
+IF YOU CAN
+THEN WE LISTEN
+[->][END]
+1: 〉 The demon runs away...
+[END]

@@ -1,0 +1,125 @@
+0: (Male demonoid) [7a 167][13 1, 412103]Who the... I haven't seen you around.
+You don't look like a demonoid...
+[->]Are you a neurisher on the run from
+a nearby town? But there's nothing
+on top of your head...
+[END]
+1: (Male demonoid) [7a 167][13 1, 412101]Ever since I became a demonoid, I've
+lost track of the news and the net...
+[->]I'm sure no one knows what's going on
+outside Tokyo.
+[->]Since we wrecked the place, there's no
+communication technology left. Even the
+terrain's different.
+[->]But if the demons did kick the angels'
+asses, I bet America and China are in
+basically the same situation.
+[END]
+2: (Male neurisher) [7a 105][13 1, 403421]Y−You... Are you here to... eat me...?
+W−Well... Just don't do it literally...
+please?
+[->]I'll try to remember the girl I had a
+crush on 25 years ago...
+[->]After three minutes, you can pop off
+my plug cover, stick in a straw, and
+suck away from there...
+[END]
+3: (Male neurisher) [7a 105][13 1, 403412]It's hell living like this... I wish
+I could let go of my emotions...
+[->]But that won't help. If I stop feeling,
+my brain won't produce the juice.
+[->]And there's only one end for a useless
+neurisher. Getting eaten alive...
+[END]
+4: (Male demonoid) [7a 145][13 1, 415202]Neurishers are food for demonoids...
+Every neurisher is some demonoid's
+property.
+[->]So who's your master? If you ain't got
+anyone, let me know, and I'll snap
+you up.
+[END]
+5: (Male demonoid) [7a 145][13 1, 415205]Neurishers reflect a demonoid's status.
+The more you own, the stronger a
+demonoid you are.
+[->]So there's fierce competition between
+demonoids for ownership of neurishers.
+[END]
+6: (Male demonoid) [7a 145][13 1, 415100]You guys are headed for Shinjuku, right?
+I'll tell you how to get there...
+[->]First you leave Kasumigaseki, then head
+north. When you get to a crossroads,
+go west.
+[->]Go along that road to the west, keep on
+going past Ichigaya, and you'll see
+a meadow...
+[END]
+7: (Male demonoid) [7a 145][13 1, 415100]I hear you guys are finally headed for
+Ichigaya. Is that true? Then you should
+go north along the road out of here.
+[->]If you've been to Shinjuku, you've
+probably seen it already. Yeah, that's
+the place.
+[->]But Kenji's going to be way stronger
+than you're expecting. You better make
+sure you're ready, understand?
+[END]
+8: (Male demonoid) [7a 145][13 1, 415107]Akira's the King of Tokyo, huh? Then
+he's got a target on his back...
+[->]That guy can talk, but he ain't no
+fighter. We've gotta do more to back
+him up from now on.
+[END]
+9: (Female neurisher) [7a 106][13 1, 403501]......
+[END]
+10: 〉 The woman with a plug implanted in her
+head is spacing out...
+[END]
+11: (Male demonoid) [7a 103][13 1, 415200]This girl isn't producing enough brain
+waves anymore... Maybe her emotions
+are shot.
+[->]Hmm... I could try making her laugh to
+get a rise out of her. Or beat her up,
+maybe.
+[END]
+12: (Female neurisher) [7a 106][13 1, 403501]......
+[END]
+13: 〉 The woman with a plug implanted in her
+head is spacing out...
+[END]
+14: (Male demonoid) [7a 103][13 1, 415209]...No good. She's wasted... She's got
+no emotions left, I guess.
+[->]Well, nothing for it now but to use the
+direct approach. Don't worry, sweetheart.
+I won't hurt you... bad...
+[END]
+15: (Little boy) [7a 32][13 1, 404003]......
+[END]
+16: (Male demonoid) [7a 103][13 1, 415209]...Huh? That kid ain't mine. He belonged
+to this neurisher girl who used to live
+here.
+[->]No wonder she produced lots of brain
+juice... But she left behind some
+souvenir, huh?
+[END]
+17: (Little boy) [7a 32][13 1, 404003]......
+[END]
+18: (Male demonoid) [7a 103][13 1, 415209]He came from some neurisher girl.
+No wonder she produced lots of brain
+juice...
+[->]When this kid gets old enough to
+understand what I'm saying, I should
+tell him about his mom...
+[->]Shit... Some homework that lazy bitch
+left me...
+[END]
+106: (Male demonoid) [7a 145][13 1, 415108]Geez... I'm getting bored just telling
+you that much. Why don't you go find
+the rest of the way yourselves?
+[END]
+108: (Male demonoid) [7a 145][13 1, 415107]Not much has changed since Akira became
+the King of Tokyo. It's still anarchy
+out here...
+[->]One day... Just one day without a
+murder, that's all I ask. One peaceful
+day...
+[END]

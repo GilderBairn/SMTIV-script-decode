@@ -1,0 +1,27 @@
+0: [71 1]I massacred a whole lot of people,
+Mister! I hope you die soon, too!
+[->][END]
+1: [71 1]I massacred a whole lot of people,
+Mister! I hope you die soon, too!
+[->][END]
+2: [71 1]I massacred a whole lot of people,
+Mister! I hope you die soon, too!
+[->][END]
+3: [71 1]I'm back! Hey, are you going to die
+for me now?
+[->][END]
+4: [71 1]I'm back! Hey, are you going to die
+for me now?
+[->][END]
+5: [71 1]I'm back! Hey, are you going to die
+for me now?
+[->][END]
+6: [71 1]Here's a present! You think it's
+worth, maybe... dying for me?
+[->][END]
+7: [71 1]Here's a present! You think it's
+worth, maybe... dying for me?
+[->][END]
+8: [71 1]Here's a present! You think it's
+worth, maybe... dying for me?
+[->][END]

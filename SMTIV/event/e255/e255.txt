@@ -1,0 +1,60 @@
+0: 〉 A powerful barrier prevents you from
+proceeding...
+[END]
+1: (Merkabah) [7a 64478][13 0, 255001]This is pitiful next to the Lord's
+fearsome power. It is nothing but
+a shallow joke of Lucifer's.
+[->][13 0, 255002]Does he think he can keep me at bay
+with such petty tricks?
+[END]
+2: (Merkabah) [7a 64478][13 0, 255003]......
+[END]
+3: 〉 The barrier was blasted away.
+[END]
+4: (Merkabah) [7a 205][13 0, 255004]The Lord's chariot does not retreat.
+Those who bar the way shall be
+trampled underfoot.
+[END]
+5: (Echoing voice) [13 0, 255005]...You've come.
+[END]
+6: (Demon) [7a 229][13 0, 255006]Son of man, you praise a false God,
+and have sold your very soul.
+[->][13 0, 255007][7a 229]Your spirit is utterly worthless.
+[END]
+7: (Demon) ゆえに[無価値/むかち]なる[魂/たましい]の[人/ひと]の[子/こ]よ
+ここで[引導/いんどう]を[渡/わた]して[差/さ]し[上/あ]げましょう
+[END]
+8: 〉 The demon is no longer here...
+[END]
+9: (Echoing voice) [13 0, 255008]Foolish lamb who has relinquished your
+very consciousness to God...
+[END]
+10: (Demon) [13 0, 255009][7a 228]What do you think has allowed you
+humans to progress and evolve so far?
+[->][13 0, 255010]It was thanks to our existence.
+[END]
+11: (Demon) [7a 228][13 0, 255011]A human's true strength is only drawn
+out by the adversity of chaos.
+[->][13 0, 255012]God's order will bring you nothing
+but degradation and lowliness.
+[END]
+12: 〉 The demon is no longer here...
+[END]
+111: (Merkabah) [7a 205][13 0, 255013]This one is truly nothing but Filth.
+It is beyond salvation.
+[END]
+211: (Demon) [7a 228][13 0, 255014]I will prove my point with a battle
+to the death...
+[END]
+900: メルカバーが封印を解く
+[END]
+901: ルシファーの声が聞こえる
+[END]
+902: 中ボス悪魔1と対峙する
+[END]
+903: 戦闘終了フラグ用イベント
+[END]
+904: 中ボス悪魔2と対峙する
+[END]
+905: 戦闘終了フラグ用イベント
+[END]

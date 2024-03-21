@@ -1,0 +1,25 @@
+0: Delete [Demon name 1]?
+[END]
+1: Delete
+Cancel
+[->][END]
+2: (Mido) [7a 1]Select a slot to place the resulting
+demon. It can swap places with a demon
+in your party as well.
+[->][END]
+3: (Mido) [7a 1]It seems you lack the experience to
+fuse this demon.
+[->][END]
+4: (Mido) [7a 1]It seems you already have one of this
+demon with you.
+[->][END]
+5: (Mido) [7a 1]Ah, those selections would result in
+an incompatible combination.
+[->][END]
+6: あ[button 0]い[button 65536]う[button 131072]え[button 196608]お[button 262144]か[button 327680]き[button 393216]く[button 458752]け[button 524288]こ
+さ[button 589824]し[button 655360]す[button 720896]せ[button 786432]そ[button 851968]た[button 917504]ち[button 983040]
+[->]す[button 1048576]て[button 1114112]とあ[button 1]い[button 65537]う[button 131073]え[button 196609]お[button 262145]か[button 327681]き[button 393217]
+く[button 458753]け[button 524289]こ[button 589825]し[button 655361]す[button 720897]せ[button 786433]そ[button 851969]た
+[->]あ[button 2]い[button 65538]う[button 131074]え[button 196610]お[button 262146]か[button 327682]き[button 393218]く[button 458754]け[button 524290]こ
+さ[button 589826]し
+[END]

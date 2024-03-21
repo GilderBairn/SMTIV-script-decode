@@ -1,0 +1,12 @@
+0: [7d 16]
+Normal attack: [7d 4] x[7d 3] hits, [7d 5]
+[->][END]
+1: [7d 16]
+Normal attack: [7d 4] x[7d 3] hits, [7d 5]
+[->][END]
+2: Ailment resistance: ?
+Normal attack: ? element x ? hits, ?
+[->][END]
+3: 〉 Power dwells in [Flynn]'s weapon.
+It can now drive away weak demons.
+[->][END]

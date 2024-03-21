@@ -1,0 +1,1349 @@
+0: (provisional) Encounter
+[END]
+1: (provisional) Discussion
+[END]
+2: (provisional) Quarrel
+[END]
+3: (provisional) Damage
+[END]
+10: EAT YOU!
+BITE WHOLE!
+It's on now!
+Here we go!
+ME HUNT!
+[END]
+11: TASTY!
+GOOD!
+So, what?
+Yeah!
+THEN...
+[END]
+12: FOOL!
+NO!
+Raaaah!
+No way!
+NO POINT...
+[END]
+13: CURSES!
+BLAST YOU!
+The hell!?
+Dammit!
+OUCH...
+[END]
+20: Prepare yourselves.
+We shall see...
+I'll kill you!
+You wanna die?
+Get outta here!
+[END]
+21: How's that?
+Hrm...
+What do we do?
+Well...
+Sure!
+[END]
+22: Young'un!
+Uh−oh...
+Why!?
+Huhhh?
+No way!
+[END]
+23: Whoa...
+Not bad!
+Seriously?
+Wanna die?
+Get outta here!
+[END]
+30: Earth...
+Water...
+Fire...
+Wind...
+The four elements!
+[END]
+31: Now then...
+What to do?
+Well...
+I see...
+Interesting...
+[END]
+32: What?
+Impossible!
+*sigh*
+Enough...
+Oh, my...
+[END]
+33: Curses!
+Huh!? You...!
+Urgh...
+Very well...
+Let us duel!
+[END]
+40: Begone!
+Small fry...
+BITE WHOLE!
+ME EAT!
+ME HUNT!
+[END]
+41: Now then...?
+Ho−ho...
+HOW THAT!?
+TASTY!
+I SEE!
+[END]
+42: What...?
+Impossible!
+NO WAY!
+GRRRRRR...
+NO!
+[END]
+43: Scoundrel...
+A catasrophe!
+OUCH...
+WHY YOU!
+ME HUNT!
+[END]
+50: We
+Work
+Together!
+Pixie
+Power!
+[END]
+51: What to do?
+Yeah!
+Sure!
+Hmm...
+Kyahaha!
+[END]
+52: No!
+What!?
+Why!?
+Awwww!
+Geez!
+[END]
+53: Argh!
+Ouchie!
+Meanie!
+Hmph!
+Bully!
+[END]
+60: 0^a#;s+4g
+RRRRRAAAAAAA!
+URRRRAAAA...
+RRRRRAAAAAAA!
+URRRRAAAA...
+[END]
+61: 5LkQ〜2G
+URAAAAA...?
+RAAAA!
+URAAAAA...?
+RAAAA!
+[END]
+62: ^H+t0so(!
+URAAAAAA!
+RAAAAAA!
+URAAAAAA!
+RAAAAAA!
+[END]
+63: ^H+t0so(!
+RAAAAAA!
+RAAAAAA!
+RAAAAAA!
+RAAAAAA!
+[END]
+70: }'C=Am〉5
+az,F{Ost%5
+〉〉n24
+Suspect... spotted?
+Public... enemy...
+[END]
+71: 5|tItp
+95LkQ〜2G%−}
+hKk%￥=
+Requesting...
+Confirmation...
+[END]
+72: m^q4tx!
+Q〜2G%−}L!
+71kKDZa!
+Anti... social...
+Contempt...!
+[END]
+73: m^q4tx!
+Q〜2G%−}L!
+71kKDZa!
+Assaulting... officer...
+Under... arrest...
+[END]
+80: Prey...
+Time to die!
+You're mine!
+Oh, yes!
+Sorry!
+[END]
+81: What do we do?
+Well...
+Sounds good!
+Let's do that!
+Ho...
+[END]
+82: You're joking...
+What?
+Are you serious?
+Unbelievable.
+Forget it...
+[END]
+83: What...!?
+Why you−−!
+Want a fight!?
+Fine, then!
+You got one!
+[END]
+90: I show thee...
+Our power...
+Taste it!
+I'll crush ya!
+TFXs9g,*
+[END]
+91: Now...
+Shall we?
+Well...
+Sure thing!
+fJ0zTXg
+[END]
+92: Fool...
+I refuse...
+For reals?
+Screw that!
+5*ndya”(=j!
+[END]
+93: Why...!
+Insolent...!
+Punk!
+That hurt...
+5*ndya”(=j!
+[END]
+100: Our army...
+Invincible!
+Get ready!
+This battle...
+Is ours!
+[END]
+101: Opinions...
+Now then...
+That's good!
+Interesting...
+How's that?
+[END]
+102: You're mad!
+Not good...
+Hey there!
+Nuh−uh!
+Stop that!
+[END]
+103: An ambush!?
+Not bad!
+Hrm...!?
+You've got guts!
+This is fun!
+[END]
+110: Here I go!
+I'll getcha!
+Wreak havoc!
+Get ready!
+Let's do it!
+[END]
+111: Whadda we do?
+How about...
+Get'em!
+Yeah!
+Hell yeah!
+[END]
+112: Urrrrgh!
+The hell!
+Raaaaaah!
+You serious?
+No way!
+[END]
+113: Ugh!
+I'll get you!
+Why you...!
+Stay there!
+You're dead!
+[END]
+120: Wreak havoc!
+Got lost!
+ME EAT!
+ME HUNT!
+GRAAAA!!
+[END]
+121: I see
+WHAT DO?
+INTERESTING!
+That works.
+TASTY!
+[END]
+122: Fool...
+WHY!?
+NO LIKE!
+What the...
+WHAT!?
+[END]
+123: Now you did it!
+Scram!
+ME EAT!
+OUCH...
+GRAAAAA!
+[END]
+130: Under... arrest...
+Halt...
+Just... die...
+Uraaaaaa!
+Aahhhhhh...!
+[END]
+131: You... get...?
+Uraaaa...?
+Requesting...
+Confirmation...
+Uraaa!
+[END]
+132: Damn... it...
+Uraaaaaa!
+Anti... social...
+Contempt...!
+Raaaah!
+[END]
+133: Assaulting... officer...
+Under... arrest...
+Attacked... first...?
+Raaaah!
+Raaaah!
+[END]
+140: Foolish...
+Learn...
+The power...
+Of chaos!
+Yeah!
+[END]
+141: Well now...
+Excellent!
+A fine idea.
+I like that.
+Quite good...
+[END]
+142: *sigh*
+Do you mock me?
+How pointless...
+You serious?
+Enough...
+[END]
+143: Oh...!
+Taste...
+The fangs
+Of chaos!
+It's on now!
+[END]
+150: En garde!
+Your life ends...
+Now is the time!
+A world of power...
+You die here!
+[END]
+151: What will we do?
+We should...
+I agree!
+Then...
+Yes!
+[END]
+152: What!?
+Are you mad!?
+I don't comprehend...
+What do you mean?
+[END]
+153: A preemptive!
+We accept!
+Your challenge!
+A world of power!
+Die!
+[END]
+160: Hey guys!
+Let's get crazy!
+Die!
+Outta my way!
+Get lost!
+[END]
+161: Hey guys!
+Let's get crazy!
+Then...
+Hell yeah!
+Let's do it!
+[END]
+162: Hey guys!
+How dare you!
+What...!?
+You kdding!?
+You wanna die!?
+[END]
+163: Hey guys!
+Revenge!
+That's it...
+You gonna die!
+Too bad!
+[END]
+170: ......
+......
+......
+......
+......
+[END]
+171: ......
+......
+......
+......
+......
+[END]
+172: ......
+......
+......
+......
+......
+[END]
+173: ......
+......
+......
+......
+......
+[END]
+180: Lord
+protect
+us
+Let light
+prevail 
+[END]
+181: Lord
+bless
+us
+Our hearts
+are one
+[END]
+182: Fool!
+What are you!?
+You dare!?
+Ugh!
+Begone!
+[END]
+183: Lord
+protect
+us
+from this
+ordeal...
+[END]
+190: Learn
+the waves of chaos
+power of demons
+Our legion
+shall destroy you
+[END]
+191: Let us show them.
+Yes...
+I like that.
+Now...
+Muhahaha...
+[END]
+192: What...?
+How dare you!
+Hmph...
+That is all?
+Useless
+[END]
+193: You dare...
+...to attack us?
+Retaliation...
+Learn...
+The power of chaos...
+[END]
+200: Sam...urai...
+Come...
+Gaaaaah...
+You... too...
+Ohhhhh...
+[END]
+201: Gaaaaah...
+Gaaaaah...
+Gaaaaah...
+Ohhhhh...
+Ohhhhh...
+[END]
+202: Gaaaaah!
+Gaaaaah!
+Gaaaaah!
+Ohhhhh!
+Ohhhhh!
+[END]
+203: Sam...urai...
+Wh...y...?
+Gaaaaah...
+Turn against us...
+Ohhhhh...
+[END]
+210: (provisional) Encounter
+[END]
+211: (provisional) Discussion
+[END]
+212: (provisional) Quarrel
+[END]
+213: (provisional) Damage
+[END]
+220: (provisional) Encounter
+[END]
+221: (provisional) Discussion
+[END]
+222: (provisional) Quarrel
+[END]
+223: (provisional) Damage
+[END]
+230: (provisional) Encounter
+[END]
+231: (provisional) Discussion
+[END]
+232: (provisional) Quarrel
+[END]
+233: (provisional) Damage
+[END]
+240: (provisional) Encounter
+[END]
+241: (provisional) Discussion
+[END]
+242: (provisional) Quarrel
+[END]
+243: (provisional) Damage
+[END]
+250: (provisional) Encounter
+[END]
+251: (provisional) Discussion
+[END]
+252: (provisional) Quarrel
+[END]
+253: (provisional) Damage
+[END]
+260: (provisional) Encounter
+[END]
+261: (provisional) Discussion
+[END]
+262: (provisional) Quarrel
+[END]
+263: (provisional) Damage
+[END]
+270: (provisional) Encounter
+[END]
+271: (provisional) Discussion
+[END]
+272: (provisional) Quarrel
+[END]
+273: (provisional) Damage
+[END]
+280: (provisional) Encounter
+[END]
+281: (provisional) Discussion
+[END]
+282: (provisional) Quarrel
+[END]
+283: (provisional) Damage
+[END]
+290: (provisional) Encounter
+[END]
+291: (provisional) Discussion
+[END]
+292: (provisional) Quarrel
+[END]
+293: (provisional) Damage
+[END]
+300: (provisional) Encounter
+[END]
+301: (provisional) Discussion
+[END]
+302: (provisional) Quarrel
+[END]
+303: (provisional) Damage
+[END]
+310: (provisional) Encounter
+[END]
+311: (provisional) Discussion
+[END]
+312: (provisional) Quarrel
+[END]
+313: (provisional) Damage
+[END]
+320: (provisional) Encounter
+[END]
+321: (provisional) Discussion
+[END]
+322: (provisional) Quarrel
+[END]
+323: (provisional) Damage
+[END]
+330: (provisional) Encounter
+[END]
+331: (provisional) Discussion
+[END]
+332: (provisional) Quarrel
+[END]
+333: (provisional) Damage
+[END]
+340: (provisional) Encounter
+[END]
+341: (provisional) Discussion
+[END]
+342: (provisional) Quarrel
+[END]
+343: (provisional) Damage
+[END]
+350: (provisional) Encounter
+[END]
+351: (provisional) Discussion
+[END]
+352: (provisional) Quarrel
+[END]
+353: (provisional) Damage
+[END]
+360: (provisional) Encounter
+[END]
+361: (provisional) Discussion
+[END]
+362: (provisional) Quarrel
+[END]
+363: (provisional) Damage
+[END]
+370: (provisional) Encounter
+[END]
+371: (provisional) Discussion
+[END]
+372: (provisional) Quarrel
+[END]
+373: (provisional) Damage
+[END]
+380: (provisional) Encounter
+[END]
+381: (provisional) Discussion
+[END]
+382: (provisional) Quarrel
+[END]
+383: (provisional) Damage
+[END]
+390: (provisional) Encounter
+[END]
+391: (provisional) Discussion
+[END]
+392: (provisional) Quarrel
+[END]
+393: (provisional) Damage
+[END]
+400: (provisional) Encounter
+[END]
+401: (provisional) Discussion
+[END]
+402: (provisional) Quarrel
+[END]
+403: (provisional) Damage
+[END]
+410: (provisional) Encounter
+[END]
+411: (provisional) Discussion
+[END]
+412: (provisional) Quarrel
+[END]
+413: (provisional) Damage
+[END]
+420: (provisional) Encounter
+[END]
+421: (provisional) Discussion
+[END]
+422: (provisional) Quarrel
+[END]
+423: (provisional) Damage
+[END]
+430: (provisional) Encounter
+[END]
+431: (provisional) Discussion
+[END]
+432: (provisional) Quarrel
+[END]
+433: (provisional) Damage
+[END]
+440: (provisional) Encounter
+[END]
+441: (provisional) Discussion
+[END]
+442: (provisional) Quarrel
+[END]
+443: (provisional) Damage
+[END]
+450: (provisional) Encounter
+[END]
+451: (provisional) Discussion
+[END]
+452: (provisional) Quarrel
+[END]
+453: (provisional) Damage
+[END]
+460: (provisional) Encounter
+[END]
+461: (provisional) Discussion
+[END]
+462: (provisional) Quarrel
+[END]
+463: (provisional) Damage
+[END]
+470: (provisional) Encounter
+[END]
+471: (provisional) Discussion
+[END]
+472: (provisional) Quarrel
+[END]
+473: (provisional) Damage
+[END]
+480: (provisional) Encounter
+[END]
+481: (provisional) Discussion
+[END]
+482: (provisional) Quarrel
+[END]
+483: (provisional) Damage
+[END]
+490: (provisional) Encounter
+[END]
+491: (provisional) Discussion
+[END]
+492: (provisional) Quarrel
+[END]
+493: (provisional) Damage
+[END]
+500: (provisional) Encounter
+[END]
+501: (provisional) Discussion
+[END]
+502: (provisional) Quarrel
+[END]
+503: (provisional) Damage
+[END]
+510: (provisional) Encounter
+[END]
+511: (provisional) Discussion
+[END]
+512: (provisional) Quarrel
+[END]
+513: (provisional) Damage
+[END]
+520: (provisional) Encounter
+[END]
+521: (provisional) Discussion
+[END]
+522: (provisional) Quarrel
+[END]
+523: (provisional) Damage
+[END]
+530: (provisional) Encounter
+[END]
+531: (provisional) Discussion
+[END]
+532: (provisional) Quarrel
+[END]
+533: (provisional) Damage
+[END]
+540: (provisional) Encounter
+[END]
+541: (provisional) Discussion
+[END]
+542: (provisional) Quarrel
+[END]
+543: (provisional) Damage
+[END]
+550: (provisional) Encounter
+[END]
+551: (provisional) Discussion
+[END]
+552: (provisional) Quarrel
+[END]
+553: (provisional) Damage
+[END]
+560: (provisional) Encounter
+[END]
+561: (provisional) Discussion
+[END]
+562: (provisional) Quarrel
+[END]
+563: (provisional) Damage
+[END]
+570: (provisional) Encounter
+[END]
+571: (provisional) Discussion
+[END]
+572: (provisional) Quarrel
+[END]
+573: (provisional) Damage
+[END]
+580: (provisional) Encounter
+[END]
+581: (provisional) Discussion
+[END]
+582: (provisional) Quarrel
+[END]
+583: (provisional) Damage
+[END]
+590: (provisional) Encounter
+[END]
+591: (provisional) Discussion
+[END]
+592: (provisional) Quarrel
+[END]
+593: (provisional) Damage
+[END]
+600: (provisional) Encounter
+[END]
+601: (provisional) Discussion
+[END]
+602: (provisional) Quarrel
+[END]
+603: (provisional) Damage
+[END]
+610: (provisional) Encounter
+[END]
+611: (provisional) Discussion
+[END]
+612: (provisional) Quarrel
+[END]
+613: (provisional) Damage
+[END]
+620: (provisional) Encounter
+[END]
+621: (provisional) Discussion
+[END]
+622: (provisional) Quarrel
+[END]
+623: (provisional) Damage
+[END]
+630: (provisional) Encounter
+[END]
+631: (provisional) Discussion
+[END]
+632: (provisional) Quarrel
+[END]
+633: (provisional) Damage
+[END]
+640: (provisional) Encounter
+[END]
+641: (provisional) Discussion
+[END]
+642: (provisional) Quarrel
+[END]
+643: (provisional) Damage
+[END]
+650: (provisional) Encounter
+[END]
+651: (provisional) Discussion
+[END]
+652: (provisional) Quarrel
+[END]
+653: (provisional) Damage
+[END]
+660: (provisional) Encounter
+[END]
+661: (provisional) Discussion
+[END]
+662: (provisional) Quarrel
+[END]
+663: (provisional) Damage
+[END]
+670: (provisional) Encounter
+[END]
+671: (provisional) Discussion
+[END]
+672: (provisional) Quarrel
+[END]
+673: (provisional) Damage
+[END]
+680: (provisional) Encounter
+[END]
+681: (provisional) Discussion
+[END]
+682: (provisional) Quarrel
+[END]
+683: (provisional) Damage
+[END]
+690: (provisional) Encounter
+[END]
+691: (provisional) Discussion
+[END]
+692: (provisional) Quarrel
+[END]
+693: (provisional) Damage
+[END]
+700: (provisional) Encounter
+[END]
+701: (provisional) Discussion
+[END]
+702: (provisional) Quarrel
+[END]
+703: (provisional) Damage
+[END]
+710: (provisional) Encounter
+[END]
+711: (provisional) Discussion
+[END]
+712: (provisional) Quarrel
+[END]
+713: (provisional) Damage
+[END]
+720: (provisional) Encounter
+[END]
+721: (provisional) Discussion
+[END]
+722: (provisional) Quarrel
+[END]
+723: (provisional) Damage
+[END]
+730: (provisional) Encounter
+[END]
+731: (provisional) Discussion
+[END]
+732: (provisional) Quarrel
+[END]
+733: (provisional) Damage
+[END]
+740: (provisional) Encounter
+[END]
+741: (provisional) Discussion
+[END]
+742: (provisional) Quarrel
+[END]
+743: (provisional) Damage
+[END]
+750: (provisional) Encounter
+[END]
+751: (provisional) Discussion
+[END]
+752: (provisional) Quarrel
+[END]
+753: (provisional) Damage
+[END]
+760: (provisional) Encounter
+[END]
+761: (provisional) Discussion
+[END]
+762: (provisional) Quarrel
+[END]
+763: (provisional) Damage
+[END]
+770: (provisional) Encounter
+[END]
+771: (provisional) Discussion
+[END]
+772: (provisional) Quarrel
+[END]
+773: (provisional) Damage
+[END]
+780: (provisional) Encounter
+[END]
+781: (provisional) Discussion
+[END]
+782: (provisional) Quarrel
+[END]
+783: (provisional) Damage
+[END]
+790: (provisional) Encounter
+[END]
+791: (provisional) Discussion
+[END]
+792: (provisional) Quarrel
+[END]
+793: (provisional) Damage
+[END]
+800: (provisional) Encounter
+[END]
+801: (provisional) Discussion
+[END]
+802: (provisional) Quarrel
+[END]
+803: (provisional) Damage
+[END]
+810: (provisional) Encounter
+[END]
+811: (provisional) Discussion
+[END]
+812: (provisional) Quarrel
+[END]
+813: (provisional) Damage
+[END]
+820: (provisional) Encounter
+[END]
+821: (provisional) Discussion
+[END]
+822: (provisional) Quarrel
+[END]
+823: (provisional) Damage
+[END]
+830: (provisional) Encounter
+[END]
+831: (provisional) Discussion
+[END]
+832: (provisional) Quarrel
+[END]
+833: (provisional) Damage
+[END]
+840: (provisional) Encounter
+[END]
+841: (provisional) Discussion
+[END]
+842: (provisional) Quarrel
+[END]
+843: (provisional) Damage
+[END]
+850: (provisional) Encounter
+[END]
+851: (provisional) Discussion
+[END]
+852: (provisional) Quarrel
+[END]
+853: (provisional) Damage
+[END]
+860: (provisional) Encounter
+[END]
+861: (provisional) Discussion
+[END]
+862: (provisional) Quarrel
+[END]
+863: (provisional) Damage
+[END]
+870: (provisional) Encounter
+[END]
+871: (provisional) Discussion
+[END]
+872: (provisional) Quarrel
+[END]
+873: (provisional) Damage
+[END]
+880: (provisional) Encounter
+[END]
+881: (provisional) Discussion
+[END]
+882: (provisional) Quarrel
+[END]
+883: (provisional) Damage
+[END]
+890: (provisional) Encounter
+[END]
+891: (provisional) Discussion
+[END]
+892: (provisional) Quarrel
+[END]
+893: (provisional) Damage
+[END]
+900: (provisional) Encounter
+[END]
+901: (provisional) Discussion
+[END]
+902: (provisional) Quarrel
+[END]
+903: (provisional) Damage
+[END]
+910: (provisional) Encounter
+[END]
+911: (provisional) Discussion
+[END]
+912: (provisional) Quarrel
+[END]
+913: (provisional) Damage
+[END]
+920: (provisional) Encounter
+[END]
+921: (provisional) Discussion
+[END]
+922: (provisional) Quarrel
+[END]
+923: (provisional) Damage
+[END]
+930: (provisional) Encounter
+[END]
+931: (provisional) Discussion
+[END]
+932: (provisional) Quarrel
+[END]
+933: (provisional) Damage
+[END]
+940: (provisional) Encounter
+[END]
+941: (provisional) Discussion
+[END]
+942: (provisional) Quarrel
+[END]
+943: (provisional) Damage
+[END]
+950: (provisional) Encounter
+[END]
+951: (provisional) Discussion
+[END]
+952: (provisional) Quarrel
+[END]
+953: (provisional) Damage
+[END]
+960: (provisional) Encounter
+[END]
+961: (provisional) Discussion
+[END]
+962: (provisional) Quarrel
+[END]
+963: (provisional) Damage
+[END]
+970: (provisional) Encounter
+[END]
+971: (provisional) Discussion
+[END]
+972: (provisional) Quarrel
+[END]
+973: (provisional) Damage
+[END]
+980: (provisional) Encounter
+[END]
+981: (provisional) Discussion
+[END]
+982: (provisional) Quarrel
+[END]
+983: (provisional) Damage
+[END]
+990: (provisional) Encounter
+[END]
+991: (provisional) Discussion
+[END]
+992: (provisional) Quarrel
+[END]
+993: (provisional) Damage
+[END]
+1000: (provisional) Encounter
+[END]
+1001: (provisional) Discussion
+[END]
+1002: (provisional) Quarrel
+[END]
+1003: (provisional) Damage
+[END]
+1010: (provisional) Encounter
+[END]
+1011: (provisional) Discussion
+[END]
+1012: (provisional) Quarrel
+[END]
+1013: (provisional) Damage
+[END]
+1020: (provisional) Encounter
+[END]
+1021: (provisional) Discussion
+[END]
+1022: (provisional) Quarrel
+[END]
+1023: (provisional) Damage
+[END]
+1030: (provisional) Encounter
+[END]
+1031: (provisional) Discussion
+[END]
+1032: (provisional) Quarrel
+[END]
+1033: (provisional) Damage
+[END]
+1040: (provisional) Encounter
+[END]
+1041: (provisional) Discussion
+[END]
+1042: (provisional) Quarrel
+[END]
+1043: (provisional) Damage
+[END]
+1050: (provisional) Encounter
+[END]
+1051: (provisional) Discussion
+[END]
+1052: (provisional) Quarrel
+[END]
+1053: (provisional) Damage
+[END]
+1060: (provisional) Encounter
+[END]
+1061: (provisional) Discussion
+[END]
+1062: (provisional) Quarrel
+[END]
+1063: (provisional) Damage
+[END]
+1070: (provisional) Encounter
+[END]
+1071: (provisional) Discussion
+[END]
+1072: (provisional) Quarrel
+[END]
+1073: (provisional) Damage
+[END]
+1080: (provisional) Encounter
+[END]
+1081: (provisional) Discussion
+[END]
+1082: (provisional) Quarrel
+[END]
+1083: (provisional) Damage
+[END]
+1090: (provisional) Encounter
+[END]
+1091: (provisional) Discussion
+[END]
+1092: (provisional) Quarrel
+[END]
+1093: (provisional) Damage
+[END]
+1100: (provisional) Encounter
+[END]
+1101: (provisional) Discussion
+[END]
+1102: (provisional) Quarrel
+[END]
+1103: (provisional) Damage
+[END]
+1110: (provisional) Encounter
+[END]
+1111: (provisional) Discussion
+[END]
+1112: (provisional) Quarrel
+[END]
+1113: (provisional) Damage
+[END]
+1120: (provisional) Encounter
+[END]
+1121: (provisional) Discussion
+[END]
+1122: (provisional) Quarrel
+[END]
+1123: (provisional) Damage
+[END]
+1130: (provisional) Encounter
+[END]
+1131: (provisional) Discussion
+[END]
+1132: (provisional) Quarrel
+[END]
+1133: (provisional) Damage
+[END]
+1140: (provisional) Encounter
+[END]
+1141: (provisional) Discussion
+[END]
+1142: (provisional) Quarrel
+[END]
+1143: (provisional) Damage
+[END]
+1150: (provisional) Encounter
+[END]
+1151: (provisional) Discussion
+[END]
+1152: (provisional) Quarrel
+[END]
+1153: (provisional) Damage
+[END]
+1160: (provisional) Encounter
+[END]
+1161: (provisional) Discussion
+[END]
+1162: (provisional) Quarrel
+[END]
+1163: (provisional) Damage
+[END]
+1170: (provisional) Encounter
+[END]
+1171: (provisional) Discussion
+[END]
+1172: (provisional) Quarrel
+[END]
+1173: (provisional) Damage
+[END]
+1180: (provisional) Encounter
+[END]
+1181: (provisional) Discussion
+[END]
+1182: (provisional) Quarrel
+[END]
+1183: (provisional) Damage
+[END]
+1190: (provisional) Encounter
+[END]
+1191: (provisional) Discussion
+[END]
+1192: (provisional) Quarrel
+[END]
+1193: (provisional) Damage
+[END]
+1200: (provisional) Encounter
+[END]
+1201: (provisional) Discussion
+[END]
+1202: (provisional) Quarrel
+[END]
+1203: (provisional) Damage
+[END]
+1210: (provisional) Encounter
+[END]
+1211: (provisional) Discussion
+[END]
+1212: (provisional) Quarrel
+[END]
+1213: (provisional) Damage
+[END]
+1220: (provisional) Encounter
+[END]
+1221: (provisional) Discussion
+[END]
+1222: (provisional) Quarrel
+[END]
+1223: (provisional) Damage
+[END]
+1230: (provisional) Encounter
+[END]
+1231: (provisional) Discussion
+[END]
+1232: (provisional) Quarrel
+[END]
+1233: (provisional) Damage
+[END]
+1240: (provisional) Encounter
+[END]
+1241: (provisional) Discussion
+[END]
+1242: (provisional) Quarrel
+[END]
+1243: (provisional) Damage
+[END]
+1250: (provisional) Encounter
+[END]
+1251: (provisional) Discussion
+[END]
+1252: (provisional) Quarrel
+[END]
+1253: (provisional) Damage
+[END]
+1260: (provisional) Encounter
+[END]
+1261: (provisional) Discussion
+[END]
+1262: (provisional) Quarrel
+[END]
+1263: (provisional) Damage
+[END]
+1270: (provisional) Encounter
+[END]
+1271: (provisional) Discussion
+[END]
+1272: (provisional) Quarrel
+[END]
+1273: (provisional) Damage
+[END]
+2000: 〉 The demons are too busy talking
+amongst themselves to attack...
+[END]
+2001: 〉 The demons are too busy arguing
+amongst themselves to attack...
+[END]

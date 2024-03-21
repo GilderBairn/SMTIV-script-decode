@@ -1,0 +1,25 @@
+0: 〉 A phrase is carved into the door.
+[END]
+1: (Isabeau) [7a 5][13 0, 61001]”Those who serve God Almighty:
+Thou shalt not proceed beyond
+this door.”
+[END]
+2: (Burroughs) [7a 2][13 0, 61003]I'm detecting a strong demon ahead.
+[END]
+3: (Burroughs) [7a 2][13 0, 61004]Do you want to go on?
+[END]
+4: ”We will proceed.”
+”Not as yet.”
+[END]
+5: (Burroughs) [7a 2][13 0, 61005]Okay, but be careful.
+[END]
+6: (Burroughs) [7a 2][13 0, 61006]Okay. It's up to you.
+[END]
+7: (Walter) [7a 4][13 0, 61007]Is something the matter? If you have
+preparations to make, make them
+quickly.
+[END]
+10: 〉 It is a large, solid−seeming door...
+[END]
+101: (Isabeau) [7a 5][7b 655365, 65537][13 0, 61002]Is this not a warning from Aquila?
+[END]

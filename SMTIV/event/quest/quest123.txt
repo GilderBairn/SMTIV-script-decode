@@ -1,0 +1,16 @@
+0: After crossing the river from Ueno to the north...
+A demon called the Fury [Color:0x5][Demon name 1][Color:0x0] has been
+rampaging in the Ouji area. We demon hunters
+don't dare to even enter the area now.
+I'm trying to put a group of hunters together
+to take it down. Let's meet up at the
+[Color:0x5]Ambassador Cafe[Color:0x0] near Ameyoko in the Ueno District.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

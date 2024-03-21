@@ -1,0 +1,10 @@
+0: I am a wayfarer of space and time. My latest hobby is
+to hire dwarves to craft various items and give them
+to people of various timelines. This time, I have special
+hair oil used by the nobility of ancient Japan, which
+turns one's hair a [Color:0x5]lustrous black.[Color:0x0] I'll gladly trade it
+for [Color:0x5][Item 1][Color:0x0] x[Color:0x5][Amount 1],[Color:0x0] deliverable to a [Color:0x5]Hunter
+Association[Color:0x0] or [Color:0x5]K's Tavern,[Color:0x0] whichever suits you.
+[END]
+1: Download Quest 1 Second time
+[END]

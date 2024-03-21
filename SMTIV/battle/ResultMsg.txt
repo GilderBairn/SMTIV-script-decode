@@ -1,0 +1,142 @@
+0: [Flynn]'s level increased by [Amount 1]!
+[->]Distribute points to the stats that
+you wish to increase.
+[->][END]
+1: [Demon name 1]'s level increased by [Amount 1]!
+[->][END]
+2: It seems a change is about to occur
+in [Demon name 1]...
+[->][END]
+3: It seems a change is about to occur
+in [Demon name 1]...
+[->]But [Flynn] would be unable to
+control the changed demon as yet.
+[->][END]
+4: A change is about to occur in
+[Demon name 1]...
+[->][END]
+5: Will you allow it to happen?
+[->][END]
+6: Yes
+No
+[END]
+7: [Demon name 2] metamorphosed into
+[Demon name 1]!
+[->][END]
+8: [Demon name 1] is about to awaken
+to new powers...
+[->][END]
+9: Allow [Color:0x5][Skill 1][Color:0x0] to change
+to [Color:0x5][Skill 2]?[Color:0x0]
+[->][END]
+10: [71 1](gift event message)
+[->][END]
+11: 〉 Received [Item 1].
+[->][END]
+12: 〉 Obtained [Color:0x5][Amount 1][Color:0x0] App Point(s).
+[->][END]
+13: This demon has learned all the skills
+that it can learn. It is ready to pass
+on a [Color:0x5]whispered skill.[Color:0x0]
+[->]A whispered skill is a skill the demon
+knows that can be taught to [Flynn].
+[->]If the demon whispers a skill [Flynn]
+already knows, that skill will be
+strengthened a bit.
+[->]A demon can whisper a skill only once.
+[->][END]
+14: Charon appeared.
+[END]
+15: (Charon) [7a 1]Well then, I'll take what I was promised...
+[END]
+16: Lost [Amount 1] Macca.
+[END]
+17: Ye gods, are you broke!? I'll come again
+when you have more money.
+[END]
+100: 〉 Charon's voice echoes from somewhere...
+[END]
+101: (Charon) [7a 1][13 0, 802046]Well then, time to keep your promise.
+I'll be taking my reward in Macca...
+[END]
+102: (Charon) [7a 1][13 0, 802047]It seems you've made enough Macca...
+I'll be collecting on your tab now.
+[END]
+103: 〉 [Color:0x1][Amount 1] Macca[Color:0x0] vanished from
+[Flynn]'s wallet...
+[END]
+104: (Charon) [7a 1][13 0, 802048]My, what an emaciated wallet.
+Very well... This one goes on your tab.
+[->][13 0, 802049]I'll come around again when you gain
+enough Macca.
+[END]
+200: [Flynn]'s level increased!
+[END]
+201: [Demon race 1] [Demon name 1]'s level increased!
+[END]
+202: [Flynn]'s skill powered up!
+[END]
+300: (Burroughs) [7a 1][13 1, 400059]Sorry to butt in, but I have some
+good news for you, Master [Flynn].
+[->][13 1, 400060]Do you want to hear what it is?
+[END]
+301: Yes
+No
+[END]
+302: When [Flynn] gains levels, his stats
+can be strengthened.
+[->]Leveling up earns you stat points, which
+you can distribute as you see fit. [Color:0x5]How
+you distribute them is up to you.[Color:0x0]
+[->]There are five stats: [Color:0x5]St, Dx, Ma,
+Ag, and Lu.[Color:0x0]
+[->][Color:0x5]St:[Color:0x0] This relates to the strength of
+your normal attacks and physical skills.
+[->][Color:0x5]Dx:[Color:0x0] This relates to the strength
+of physical and gun skills.
+[->][Color:0x5]Ma:[Color:0x0] This relates to the strength of
+your magic skills.
+[->][Color:0x5]Ag:[Color:0x0] This relates to the hit rates
+of your attacks, your evasion rate,
+turn order, and escape success rate.
+[->][Color:0x5]Lu:[Color:0x0] This relates to things such as
+critical hit rate and recovery rate
+from status ailments.
+[END]
+303: (Burroughs) [7a 1][13 1, 400055]Did you get all that?
+[END]
+304: ”I did.”
+”Let's have it once more.”
+[END]
+305: (Burroughs) [7a 1][13 1, 400057]Until next time, Master [Flynn].
+[END]
+306: (Burroughs) [7a 1][13 1, 400056]All right. I'll display the
+information once more.
+[END]
+307: (Burroughs) [7a 1][13 1, 400053]Okay. We'll skip over that.
+[END]
+308: [Flynn]'s level increased by [Amount 1]!
+[END]
+309: Distribute points to the stats that
+you wish to increase.
+[->][END]
+400: Yes
+No
+[END]
+401: Prevent the skill from changing?
+[END]
+402: Stop the change
+Reconsider
+[END]
+403: Discard [Color:0x5][Skill 1]?[Color:0x0]
+[END]
+404: Yes
+No
+[END]
+405: Proceed with these stats?
+[END]
+500: Finished viewing the information?
+[END]
+501: ”Carry on.”
+”I'd like to see it again.”
+[END]

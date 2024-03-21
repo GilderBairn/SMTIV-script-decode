@@ -1,0 +1,8 @@
+0: (Setanta) [7a 0][13 1, 411108]I have no idea what my master is
+thinking. But now that you've raised
+your blade at me, your life is over.
+[->]Ending you is going to be easier
+than wringing that guard dog's neck!
+[END]
+1: (Setanta) [7a 0][13 1, 411106]I... I lost...?
+[END]

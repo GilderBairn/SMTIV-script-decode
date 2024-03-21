@@ -1,0 +1,29 @@
+0: [71 1]I have trained thus while traveling
+throughout the country. I offer my
+heightened skills to this nation...
+[->][END]
+1: [71 1]These deadly skills I've trained have
+saved many a Samurai from certain death.
+[->][END]
+2: [71 1]If each Samurai fights for the future
+of this country, their hearts will
+unite as one...
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]I offer you a gift from my journey.
+It is a dividend I reaped from this
+nation's existence...
+[->][END]
+7: [71 1]Did you face any troubles while I was
+away? Then let them be righted with this
+gift I have brought back.
+[->][END]
+8: [71 1]I grant you a gift I gained on my
+journey. Fate has delivered it into
+my hands.
+[->][END]

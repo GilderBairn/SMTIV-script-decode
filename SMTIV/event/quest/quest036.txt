@@ -1,0 +1,30 @@
+0: It's possible that you can become a new hope for
+the [Color:0x5]goddess of Tokyo...[Color:0x0] So I'd like to help you
+get back to the Tokyo where you belong.
+ 
+You should try to [Color:0x5]defeat the four White[Color:0x0] who are
+skulking around this forest somewhere.
+[END]
+1: Dummy
+[END]
+2: Despair is the flip side of hope.
+ 
+Nicely done, defeating one of the White.
+There are only [Color:0x5]three[Color:0x0] left in this forest.
+Keep working hard and you'll get there.
+[END]
+3: One of the virtues of being human is the ability
+to respect others' choices as much as your own.
+ 
+Nicely done, defeating one of the White.
+There are only [Color:0x5]two[Color:0x0] left in this forest.
+Keep working hard and you'll get there.
+[END]
+4: The goddess of Tokyo's hopes rest on all humans,
+both those who live in Tokyo now and those who
+once did in the past.
+ 
+Nicely done. You're nearly there. Only [Color:0x5]one[Color:0x0] of
+the White is left in this forest. I know you
+can do it.
+[END]

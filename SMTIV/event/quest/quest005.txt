@@ -1,0 +1,23 @@
+0: [Color:0x5]Search every nook and cranny of Kiccigiorgi Forest
+and find the survivors.[Color:0x0] Kiccigiorgi was raided
+by demons earlier, and you may be sure that some
+still lurk within the forest. Go about your task
+with the certainty that you will do battle.
+[END]
+1: ダミー
+[END]
+2: First, well done thus far, my Samurai. I am
+contacting you all with new developments in this
+matter. It seems a [Color:0x5]Sabbath[Color:0x0] was being held in
+Kiccigiorgi Forest. There may be more survivors
+deeper inside. All Samurai are to [Color:0x5]search deeper
+within Kiccigiorgi Forest.[Color:0x0]
+[END]
+3: I again thank all Samurai for their hard work
+in this mission. There have been new developments
+in this matter. A [Color:0x5]Black Samurai,[Color:0x0] appearing as [Color:0x5]a
+human clad in ebon armor,[Color:0x0] has been seen in the
+depths of Kiccigiorgi Forest. All Samurai are to
+make [Color:0x5]capturing this Black Samurai[Color:0x0] their highest
+priority.
+[END]

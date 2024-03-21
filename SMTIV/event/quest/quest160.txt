@@ -1,0 +1,16 @@
+0: A god once worshipped by the Samurai, the
+[Color:0x5]Kishin [Demon name 1],[Color:0x0] has appeared 
+in the northwestern part of Shinjuku called
+Nakano. It has said that if you want to receive
+a lesson from it, you should go to the Nakano
+Sun Plaza. It was too strong for me to
+beat, but I learned a lot from it.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

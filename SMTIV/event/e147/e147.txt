@@ -1,0 +1,12 @@
+0: (Isabeau) [7a 5][7b 65541, 65537][13 0, 147001]...May I have a word?
+[->][7b 196613, 65537][13 0, 147002]Do you smell something...?
+[END]
+1: (Jonathan) [7a 3][7b 393219, 65537][13 0, 147003]Now that you mention it... there is a
+sweet scent in the air.
+[END]
+2: (Walter) [7a 4][7b 786436, 65537][13 0, 147004]I know we'll be in severe trouble if
+we're caught, but I feel oddly
+lighthearted in spite of myself...
+[END]
+999: つなぎ用仮イベントです
+[END]

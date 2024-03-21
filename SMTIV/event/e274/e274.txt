@@ -1,0 +1,57 @@
+0: (Isabeau) [7b 196613, 65537][13 0, 274001]I−It's pitch black in here. You are
+there, aren't you, [Flynn]...?
+[END]
+1: (Voice) [7a 205][13 0, 274002]So you, too, returned from the world
+of possibility, [Flynn]...
+[END]
+2: (Voice) [7a 205][13 0, 274003]If you're here, does that mean you
+have come to upset the harmony of
+my goodwill?
+[END]
+3: (Isabeau) [7a 5][7b 458757, 65537][13 0, 274004]That voice...!
+[END]
+4: (Voice) [7a 205][13 0, 274005]Surely you must know already. Human
+suffering is what births the demons
+which trouble the world so...
+[->][13 0, 274006]The weak humans need an absolute as a
+foundation of their faith. Something
+that can banish despair...
+[->][13 0, 274007]That is God.
+[END]
+5: (Voice) [7a 205][13 0, 274008]God wished for man to become the
+extensions of His order so that we
+need not harbor unnecessary anxieties.
+[->][13 0, 274009]Why can you not see God's affection
+for us?
+[END]
+6: (Voice) [7a 205][13 0, 274010]Perhaps because you are nothing but
+a human born of common stock after
+all...
+[END]
+7: (Isabeau) [7b 655365, 65537][7a 5][13 0, 274011]That is you, isn't it, Jonathan?
+What are you saying...!?
+[END]
+8: (Voice) [7a 205][13 0, 274012]I am no longer the son of man you
+know as Jonathan.
+[END]
+9: (Angel) [7b 65741, 65537][7a 205][13 0, 274013]I am the Lord's chariot... the seraph
+Merkabah.
+[END]
+10: (Merkabah) [7b 65741, 65537][7a 205][13 0, 274014]Foolish ones who churlishly refuse
+the hand of salvation that the Lord
+has extended to you...
+[END]
+11: (Merkabah) [7b 65741, 65537][7a 205][13 0, 274015]I shall reduce you to ash for the sake
+of a new millenium of order.
+[END]
+12: (Isabeau) [7a 5][7b 196613, 65537][13 0, 274016]Jonathan fought fairly and valiantly
+to the end for the path he chose.
+[->][13 0, 274017]As his fellow Samurai... I must pay
+my respect to him.
+[END]
+13: [7b 524293, 131073]〉 Isabeau closed her eyes...
+[END]
+14: (Isabeau) [7a 5][7b 655365, 65537][13 0, 274018]Hark, what's this...?
+[END]
+901: メルカバーが消滅し虚構空間が消える
+[END]

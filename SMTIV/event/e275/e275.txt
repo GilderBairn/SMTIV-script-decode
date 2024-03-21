@@ -1,0 +1,46 @@
+0: (Isabeau) [7a 170][7b 458922, 65537][13 0, 275001]Is this... Mikado Castle?
+[->][7b 655530, 65537][13 0, 275002]We've returned to the Eastern Kingdom
+of Mikado...
+[END]
+1: (Isabeau) [7a 170][7b 655530, 65537][13 0, 275003]Look!
+[END]
+2: (Isabeau) [7a 170][7b 655530, 65537][13 0, 275004]It is very like the Great Spirit
+of Hope.
+[->][13 0, 275005]This must be the Great Spirit of
+Goodwill that was changed into God's
+chariot...
+[END]
+3: 〉 The Great Spirit of Goodwill flew
+towards [Flynn]...
+[END]
+4: 〉 Obtained the Great Spirit of Goodwill.
+[END]
+5: (Isabeau) [7a 170][7b 262314, 65537][13 0, 275006]Well then, [Flynn], I will part ways
+with you for the nonce.
+[->][13 0, 275007]I want to persuade the people of the
+Eastern Kingdom of Mikado to move to
+Tokyo.
+[END]
+6: (Isabeau) [7a 170][7b 262314, 65537][13 0, 275011]I trust that you can gain the Great
+Spirit of Spite without me.
+[END]
+7: (Isabeau) [7a 170][7b 65706, 65537][13 0, 275012]And once the matter is settled... Hm...
+[->][7b 655530, 65537][13 0, 275013]Let us reconvene at Cafe Florida in
+Shinjuku.
+[END]
+8: 〉 You decide to part ways with Isabeau.
+[END]
+100: ここで善意の大魂を表示したいです
+[END]
+102: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]
+105: (Isabeau) [7a 170][7b 393386, 65537][13 0, 275008]Don't worry... I doubt I'll need any
+assistance in this.
+[END]
+107: (Isabeau) [7a 170][7b 393386, 65537][13 0, 275014]I shall see you by and by.
+[END]
+205: (Isabeau) [7a 170][7b 589994, 65537][13 0, 275009]There are no more Luxurors. And the
+angels have lost their masters...
+[->][7b 262314, 65537][13 0, 275010]It strikes me as the ideal moment for
+us to emigrate to a new land.
+[END]

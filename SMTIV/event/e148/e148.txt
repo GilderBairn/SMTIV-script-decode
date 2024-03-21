@@ -1,0 +1,27 @@
+0: (Gas masked man) [7a 48][13 0, 148001]Hm? Who are you guys?
+[END]
+1: (Isabeau) [7a 5][7b 655365, 65537][13 0, 148002]We're for it now...
+[END]
+2: (Gas masked man) [7a 48][13 0, 148003]Oh, you're the next shift. Is it
+harvest time already?
+[END]
+3: (Gas masked man) [7a 48][13 0, 148004]So, are you guys new? I know it's
+tough at first.
+[->][13 0, 148005]Here's key #2. Don't lose it, or else
+you'll get buried in paperwork.
+[END]
+4: 〉 Obtained Card Key 2.
+[END]
+5: [END]
+6: (Gas masked man) [7a 48][END]
+7: (Gas masked man) [7a 48][13 0, 148006]Whew... I can finally take off
+this mask!
+[->][13 0, 148007]Alright, the rest is yours.
+[END]
+8: 〉 The gas masked man walked away...
+[END]
+9: (Isabeau) [7a 5][7b 524293, 65537][13 0, 148008]Fortunately for us, the guard was
+a simpleton.
+[END]
+10: (Jonathan) [7a 3][7b 393219, 65537][13 0, 148009]What is this ”harvest” he spoke of...?
+[END]

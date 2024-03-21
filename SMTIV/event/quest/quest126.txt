@@ -1,0 +1,7 @@
+0: I would like to hire someone to bring me a
+relic. The electric refrigerator in my shop
+has broken, and soon all I'll be able to
+serve is jerky. So, I'll start the usual
+competition: whoever brings me one of these
+magic [Color:0x5]refrigerators[Color:0x0] first wins a prize.
+[END]

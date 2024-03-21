@@ -1,0 +1,199 @@
+0: (Jonathan) [7a 3][7b 393219, 65537][13 0, 250001]Where are we...?
+[END]
+1: (Gabriel) [7a 65523][13 0, 250002]This is what was once Shene Duque.
+[->][13 0, 250003]It is now the eye that watches over
+the Eastern Kingdom of Mikado...
+the new Mikado Castle.
+[END]
+2: (Raphael) [7a 65521][13 0, 250005]But in Tokyo, the gate to the Expanse
+was opened with Tayama's death. Order
+there has been lost.
+[->][13 0, 250006]We have sealed Naraku...
+[END]
+3: (Uriel) [7a 65517][13 0, 250007]...But the Filth will once again head
+for Naraku, just as they did in days
+of old.
+[END]
+4: (Gabriel) [7a 65523][13 0, 250008]Blessed warriors of light, we require
+your assistance.
+[->][13 0, 250009]We have decided to annihilate Tokyo.
+[END]
+5: (Jonathan) [7a 3][7b 458755, 65537][13 0, 250010]Annihilate it...!?
+[END]
+6: (Gabriel) [7a 65523][13 0, 250014]If the Yamato Reactor is allowed to
+run amok, Great Abaddon... a black
+hole... will be created.
+[->][13 0, 250015]Our plan is to have Great Abaddon
+swallow up Tokyo.
+[END]
+7: (Gabriel) [7a 65523][13 0, 250017]He will surely stand in our way. We
+must devise a plan to deal with him.
+[END]
+8: (Gabriel) [7a 65523][彼奴/きゃつ]が[行/ゆ]く[手/て]を[阻/はば]むというのであれば
+[我/われ]らも[本来/ほんらい]の[力/ちから]で[挑/いど]まねばなりません
+[->][神/かみ]の[御使/みつか]いである[我/われ]ら[天使/てんし]たちと
+[神/かみ]に[選/えら]ばれた[人間/にんげん]が[合体/がったい]すれば…
+[->][悪魔/あくま][王/おう]に[匹敵/ひってき]する [我/われ]ら[本来/ほんらい]の[力/ちから]
+[神/かみ]の[戦車/せんしゃ]の[力/ちから]を[得/え]られましょう
+[END]
+9: (Jonathan) [7a 3][7b 655363, 65537][13 0, 250020]God's chariot...
+[END]
+10: (Gabriel) [7a 65523]だが[我/われ]らとの[合体/がったい]は
+[貴方/あなた]たちに[死/し]を[願/ねが]うも[同/おな]じこと
+[END]
+11: (Gabriel) [7a 65523][13 0, 250022]Who will serve as the blessed martyr?
+Will it be you, Jonathan? Or you,
+[Flynn]?
+[->][13 0, 250023]We will remain here in anticipation
+of your choice.
+[END]
+12: 仮処理です
+ここではカットアニメで
+ヨナタンと天使の合体演出が行われます
+(削除予定)
+[END]
+13: (Angel) [7a 64478][13 0, 250055]......
+[END]
+14: (Angel) [7a 64478][13 0, 250056]I...
+[END]
+15: (Angel) [7a 205][13 0, 250057]I am the Lord's chariot, the seraph
+Merkabah.
+[END]
+16: (Merkabah) [7a 205][13 0, 250058]Filth, or ”doubts,” must be cleansed
+from this world.
+[END]
+17: (Gabriel) [7a 88][13 0, 250037]We have been waiting for you, blessed
+warriors of light.
+[END]
+18: (Gabriel) [7a 88][13 0, 250038]Which of you will fuse with us and
+enter martyrdom...?
+[END]
+19: ”I'll do it.”
+Ask Jonathan to do it
+”I need more time to think about this.”
+[END]
+20: (Jonathan) [7a 3][7b 786435, 131073][13 0, 250039]...No, not you, [Flynn]. I'll be
+our martyr.
+[END]
+21: (Gabriel) [7a 88]...Then leave this place for now.
+[->]Come to us again when you are prepared,
+truly blessed warriors of the Lord.
+[END]
+22: (Jonathan) [7a 3][7b 655363, 131073][13 0, 250043]I have ever been at a loss...
+[->][13 0, 250044]Both humans and demons speak only of
+themselves whenever they open their
+mouths...
+[->][7b 196611, 65537][13 0, 250045]If only people would think and act for
+the sake of their fellow man... Just
+imagine it...
+[->][13 0, 250046]What is preventing them from doing so?
+Why can they not shed a tear for the
+plight of others?
+[END]
+23: (Jonathan) [7a 3][7b 131075, 65537][13 0, 250047]Are humans creatures which cannot band
+together as one? Are they creatures
+not worth salvation...?
+[->][7b 786435, 131073][13 0, 250048]But now, I understand what I must do.
+[END]
+24: (Jonathan) [7a 3][7b 458755, 131073][13 0, 250049]I am one of those people. I am at
+a loss; wracked with anxiety.
+[END]
+25: (Jonathan) [7a 3][7b 458755, 131073][13 0, 250050]That is why... I will sacrifice
+everything to drive out everyone's
+fear and doubt.
+[->][13 0, 250051]I do this to forge a new world... one
+where today's peace lasts unto eternity.
+[END]
+26: (Jonathan) [7a 3][7b 65539, 65537][13 0, 250052]I am honored to have traveled by
+your side, [Flynn].
+[->][7b 262147, 65537][13 0, 250053]...Thank you.
+[END]
+27: (Jonathan) [7a 3]…[Flynn]の[覚悟/かくご]を見なければ
+こんな[風/ふう]には[思/おも]えなかっただろう
+[->][Flynn]との[旅/たび]の[経緯/けいい]は
+[僕/ぼく]の[誇/ほこ]りだ ありがとう
+[END]
+28: (Jonathan) [7a 3]4[大/だい][天使/てんし]の[皆々/みなみな][様/さま]
+お[願/ねが]い[申/もう]しあげます
+[END]
+29: (Gabriel) [7a 88][13 0, 250054]Now, Jonathan. Come here...
+[END]
+30: (Jonathan) [7a 3][7b 196611, 65537][13 0, 250024]To fuse with them...
+[->][13 0, 250025]It would mean... death.
+[END]
+31: (Jonathan) [7a 3][7b 393219, 65537][13 0, 250026]Tell me, what are your...
+[->][7b 196611, 65537][13 0, 250027]......
+[END]
+32: 〉 Jonathan falls silent.
+[END]
+33: Talk to Jonathan
+Head to New Mikado Castle
+[END]
+34: (Jonathan) [7a 3][7b 196611, 65537][13 0, 250028]......
+[END]
+35: (Jonathan) [7a 3][7b 196611, 65537][13 0, 250030]I simply feel so defeated...
+[END]
+36: (Jonathan) [7a 3][7b 196611, 65537][13 0, 250031]That day we went to the rooftop of
+Mikado Castle...
+[->][13 0, 250032]I vowed then that I would fulfill my
+role as a Samurai for the sake of the
+people.
+[->][13 0, 250033]Yet, now that the specter of death has
+been raised before me, I... I...!
+[END]
+37: (Jonathan) [7a 3][7b 655363, 65537][13 0, 250034][Flynn]... Are you going?
+[->][13 0, 250035]......
+[END]
+38: 〉 Jonathan falls silent.
+[END]
+39: (Jonathan) [7a 3][7b 196611, 65537][13 0, 250036]......
+[END]
+100: (Michael) [7a 65525][13 0, 250004]We have purified every last Filth in
+the Eastern Kingdom of Mikado.
+[END]
+105: (Gabriel) [7a 65523][13 0, 250011]It is infested with demons... They are
+possessed by ”knowledge” and have
+lost sight of what must be done.
+[->][13 0, 250012]There is no other way if we are to
+purify them and sever the roots of
+the Filth.
+[->][13 0, 250013]These are the wishes of the Lord...
+[END]
+106: (Uriel) [7a 65517][13 0, 250016]However... we have heard troubling
+news that the Demon Lord Lucifer has
+resurrected in Tokyo.
+[END]
+108: (Michael) [7a 65525][13 0, 250018]If we archangels, the heralds of the
+Lord, were to fuse with the son of man
+that He has chosen...
+[->][13 0, 250019]It would bring forth the power of
+God's chariot, which exceeds that of
+the Demon Lord.
+[END]
+110: (Raphael) [7a 65521][13 0, 250021]But to fuse with us is akin to facing
+death for one of your kind.
+[END]
+116: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+120: (Jonathan) [7a 3][7b 786435, 65537][13 0, 250040]......
+[->][13 0, 250041][7b 786435, 131073]I've made up my mind. I'm ready to
+be martyred.
+[END]
+121: (Gabriel) [7a 88][13 0, 250042]We will remain here in anticipation
+of your choice.
+[END]
+134: (Jonathan) [7a 3][7b 393219, 65537][13 0, 250029]Hm...? Oh... my apologies.
+[END]
+216: (Merkabah) [7a 205][13 0, 250059]Now, [Flynn].
+[->][13 0, 250060]Armageddon between His Eastern Kingdom
+of Mikado and the Unclean Tokyo begins.
+[->][13 0, 250061]Let us depart together. Our destination
+is the Yamato Perpetual Reactor.
+[END]
+925: ここで疑似キーフリーのイベントが挟まります
+選択肢 ヨナタンと話す
+    天使の間へ行く
+『天使の間へ行く』を選択すると次に進みます
+[->]『天使の間へ行く』を選択しました
+[END]

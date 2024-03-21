@@ -1,0 +1,25 @@
+0: [13 0, 242001](Voice) It seems you've slain the White.
+[END]
+1: (Lucifer) [7a 64451][13 0, 242002]Their influence over the Expanse
+appears to have temporarily faded.
+[END]
+2: (Lucifer) [7a 64451][13 0, 242004]As long as humans exist, beings such
+as myself, God, and the White will
+never truly disappear.
+[END]
+3: (Walter) [7a 4][7b 131076, 65537][13 0, 242008]I saw how pitiful Kiyoharu and Kenji
+were... I'd do anything to avoid
+becoming like them.
+[->][13 0, 242009][7b 65540, 65537]Let's go back, [Flynn]. To our world...
+[END]
+101: (Walter) [7a 4][7b 131076, 65537][13 0, 242003]Temporarily...? But we defeated them...
+[END]
+102: (Lucifer) [7a 64451][13 0, 242005]Now, let us go back. Your final task
+awaits you.
+[END]
+202: (Lucifer) [7a 64451][13 0, 242006]You intend to create a new world, no?
+Where the strong can shape it as they
+see fit...
+[END]
+302: (Walter) [7a 4][7b 65540, 65537][13 0, 242007]Indeed. I haven't forgotten...
+[END]

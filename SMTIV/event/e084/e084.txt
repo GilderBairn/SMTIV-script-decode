@@ -1,0 +1,95 @@
+0: 〉 An array of machines is lined up
+before you.
+[->]〉 Burroughs scanned the room.
+[END]
+1: (Burroughs) [7a 2][13 0, 84001]This is the Counter−Demon Force's
+briefing room.
+[->][13 0, 84002]Huh... It feels familiar for some
+reason...
+[END]
+2: (Isabeau) [7a 5][7b 65541, 65537][13 0, 84003]What's the matter, Burroughs?
+[END]
+3: (Burroughs) [7a 2][13 0, 84004]Who knows? I don't have emotions in
+the first place...
+[->][13 0, 84005]Okay then, I'll start retrieving the
+data here.
+[END]
+4: 〉 Burroughs accessed the terminal and
+retrieved data from the briefing room.
+[END]
+5: (Burroughs) [7a 2][13 0, 84006]Master [Flynn], I've forwarded the
+important data to the Monastery.
+[->][13 0, 84007]Congratulations on completing the quest.
+[END]
+6: (Gabby) [7a 11][13 0, 84008]Glory be to you Blessed Samurai.
+[END]
+7: (Walter) [7a 4][7b 655364, 65537][13 0, 84009]Ah... Remind me who this woman is?
+[END]
+8: (Jonathan) [7a 3][7b 655363, 65537][13 0, 84010]W−Walter! How terribly rude! She's
+Sister Gabby of the Monastery.
+[END]
+9: (Gabby) [7a 11][13 0, 84011]Burroughs has made me aware of your
+discovery of the Counter−Demon
+Force Base.
+[->][13 0, 84012]I shall continue to look forward to
+your meritorious service.
+[END]
+10: (Gabby) [7a 11][13 0, 84013]But I come to you with a message
+from Abbot Hugo.
+[->][13 0, 84014]He asks that you retrieve certain
+mystic relics.
+[->][13 0, 84015]On the occasion that you return to the
+Eastern Kingdom of Mikado, please
+consult the blackboard in K's Tavern.
+[->][13 0, 84016]That is all. Until we speak next,
+Blessed Samurai...
+[END]
+11: (Walter) [7a 4][7b 655364, 65537][13 0, 84017]Aren't we meant to be hunting the
+Black Samurai? That Hugo...
+[->][13 0, 84018]Now he's outright telling us to find
+him mystic relics. Perhaps it really
+was them he was after all along...
+[END]
+12: (Jonathan) [7a 3][7b 65539, 65537][13 0, 84019]Don't be that way, Walter.
+[->][13 0, 84020]Think of it this way: bringing back
+mystic relics can only enrich the
+lives of the people of Mikado.
+[->][13 0, 84021]I'm certain Abbot Hugo only issues
+such orders because he has the
+people's happiness at heart.
+[END]
+13: ”I share your view of it.”
+”I am not so certain...”
+[END]
+14: (Walter) [7a 4][7b 393220, 65537][13 0, 84023]So quick to obey, aren't you,
+[Flynn]?
+[END]
+15: (Jonathan) [7a 3][7b 786435, 65537][13 0, 84024]Walter, what profit would it be if
+we, the Samurai who serve the court,
+lost faith in our kingdom?
+[->][13 0, 84025]At the least, we have the King and the
+Monastery to thank for the tranquil
+lives we've always known thus far.
+[END]
+16: (Walter) [7a 4][7b 589828, 65537][13 0, 84026]I'll grant that, but...
+[END]
+17: (Walter) [7a 4][7b 786436, 65537][13 0, 84027]Do you hear that, Jonathan?
+[->][13 0, 84028]Trust the kingdom too much, and they'll
+eventually play you for a rube.
+[END]
+18: (Jonathan) [7a 3][7b 786435, 65537][13 0, 84029]I don't believe that at all, Walter.
+[->][13 0, 84030]Why, I'd say we have the King and the
+Monastery to thank for the tranquil
+lives we've always known thus far.
+[END]
+19: (Isabeau) [7a 5][7b 65541, 131073][13 0, 84031]That's quite enough, I think...
+[->][13 0, 84032]The Black Samurai has ties to Tokyo,
+this much is certain. At least we've
+made progress in learning that.
+[END]
+119: (Isabeau) [7a 5][7b 65541, 65537][13 0, 84033]There's still more we don't know.
+[->][13 0, 84034]If only there was a large town where
+the Unclean Ones gathered...
+[END]
+212: (Jonathan) [7a 3][7b 65539, 65537][13 0, 84022]Wouldn't you say so, [Flynn]?
+[END]

@@ -1,0 +1,667 @@
+0: Dummy Message
+[END]
+1: [71 1]Why... Why does no one understand...?
+It's not... my fault...
+[->]It's all... society's fault...
+You... take responsibility...
+[->][END]
+2: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]NOT USED
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]I'm... [Color:0x5][Demon race 1] [Demon name 1]...[Color:0x0]
+You... take responsibility...
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]You're trying... to run away...
+without me...? I won't let you...
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]This is... your fault... How are
+you... going to... make this up...
+to me...?
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]Then... give me something...
+Take... responsibility...
+[->][END]
+26: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+27: [71 1]You took... responsibility...
+You can... go home... now...
+[->][END]
+28: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+29: [71 1]I was... sleeping...
+Why did you... wake me up...?
+[->]Take... responsibility...
+and leave...
+[->][END]
+30: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+31: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+32: [71 1]Why don't you... try and...
+heal yourself... at least...?
+[->][END]
+33: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+34: [71 1]Will you... take responsibility...?
+Then... give it... to me...
+[->][END]
+35: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+36: [71 1]Responsibility... has been taken...
+Ahh... I feel... relieved...
+[->][END]
+37: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+38: [71 1]Haha...hahaha... You'll take...
+responsibility... for me...?
+[->]That... makes me... so happy...
+This is how... society should be...
+[->][END]
+39: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+40: [71 1]I'm so glad... I kept complaining...
+Heheh... heheheh...
+[->][END]
+41: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+42: [71 1]Then... give me... something...
+Take... responsibility...
+[->][END]
+43: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+44: [71 1]*sigh* Fine... Will this... do...?
+[->][END]
+45: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+46: [71 1]I'm... sleepy...
+Don't... bother me...
+[->]I'll heal you... so just...
+let me sleep...
+[->][END]
+47: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+48: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+49: [71 1]What...? Not enough...?
+*sigh* Aren't we... shameless...
+[->][END]
+50: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+51: [71 1]Hey... wait... I didn't do...
+anything... wrong...
+[->][END]
+52: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+53: [71 1]I hate you... I... hate... you...
+Society... is the one...
+that's wrong...!
+[->][END]
+54: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+55: [71 1]Take... responsibilityyyyy...!
+Apologize... with your... life...!
+[->][END]
+56: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+57: [71 1]N... Nooooooo...
+[->][END]
+58: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+59: [71 1]Whyyyyyy...? Why me...?
+[->][END]
+60: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+61: [71 1]Fine... dammit... Is this...
+what you want...?
+[->][END]
+62: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+63: [71 1]Arrrrrrrgh! Cut it... out...!
+[->][END]
+64: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+65: [71 1]Hey... wait... I didn't do...
+anything... wrong...
+[->][END]
+66: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+67: [71 1]Then... give me something...
+Take... responsibility...
+[->][END]
+68: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+69: [71 1]*sigh* Fine... Will this... do...?
+[->][END]
+70: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+71: [71 1]Haha...hahahaha... You want it...?
+Here...
+[->]It's not... like I have...
+anything... to lose...
+[->][END]
+72: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+73: [71 1]What...? Not enough...?
+*sigh* Aren't we... shameless...
+[->][END]
+74: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+75: [71 1]NOT USED
+[->][END]
+76: NOT USED
+[END]
+77: [71 1]NOT USED
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]NOT USED
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]Give me... [Color:0x1]a little...[Color:0x0]
+of your [Color:0x1]life...[Color:0x0]
+[->][END]
+82: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+83: [71 1]Give me... [Color:0x1]some...[Color:0x0]
+of your [Color:0x1]life...[Color:0x0]
+[->][END]
+84: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+85: [71 1]Give me... [Color:0x1]a lot...[Color:0x0]
+of your [Color:0x1]life...[Color:0x0]
+[->][END]
+86: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+87: [71 1]Give me... [Color:0x1]practically all...[Color:0x0]
+of your [Color:0x1]life...[Color:0x0]
+[->][END]
+88: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+89: [71 1]Give me... [Color:0x1]a little...[Color:0x0]
+of your [Color:0x1]spirit...[Color:0x0]
+[->][END]
+90: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+91: [71 1]Give me... [Color:0x1]some...[Color:0x0]
+of your [Color:0x1]spirit...[Color:0x0]
+[->][END]
+92: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+93: [71 1]Give me... [Color:0x1]a lot...[Color:0x0]
+of your [Color:0x1]spirit...[Color:0x0]
+[->][END]
+94: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+95: [71 1]Give me... [Color:0x1]practically all...[Color:0x0]
+of your [Color:0x1]spirit...[Color:0x0]
+[->][END]
+96: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+97: [71 1]NOT USED
+[->][END]
+98: NOT USED
+[END]
+99: [71 1]Give me... [Color:0x1]that...[Color:0x0]
+[->][END]
+100: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+101: [71 1]You should know... what... I want...
+[->][END]
+102: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+103: [71 1]I thought... so...
+[->][END]
+104: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+105: [71 1]No... Are you... making a fool...
+of me...?
+[->][END]
+106: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]I think... this'll do...
+[->][END]
+121: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+122: [71 1]Ooh... This is good...
+You sure do... understand...
+[->][END]
+123: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+124: [71 1]Why...!?
+[->][END]
+125: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+126: [71 1]You... held back...?
+Not... taking responsibility...?
+[->]Dammit... Die... Die then...!
+[->][END]
+127: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+128: [71 1]Screw you... I don't... want to...
+talk with you...
+[->][END]
+129: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+130: [71 1]You're... trying to... trick me...?
+Not... taking responsibility...?
+[->]Dammit... Die... Die then...!
+[->][END]
+131: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+132: [71 1]You're supposed to... have it...
+[->][END]
+133: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+134: [71 1]How can... you not have...
+a Life Stone...?
+[->][END]
+135: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+136: [71 1]Fine... I'll... let you off...
+with that...
+[->][END]
+137: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+138: [71 1]Stopping... now...?
+Not... taking responsibility...?
+[->]Dammit... Die... Die then...!
+[->][END]
+139: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+140: [71 1]You keep... refusing... Refusing to
+take... responsibility...?
+[->]Oh... whatever... I feel...
+better now... anyway...
+[->][END]
+141: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+142: [71 1]You just... say yes... to all of
+my demands...
+[->]Half−hearted replies...? Are you...
+making a fool... of me...?
+Forget it... I quit...
+[->][END]
+143: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+144: [71 1]You... don't have... anything...
+You can't... take responsibility...?
+[->]Oh... whatever... I feel...
+better now... anyway...
+[->][END]
+145: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]Oh... [Flynn]...
+We meet... again...
+[->]You're the only one... who
+understands... my feelings...
+[->][END]
+149: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]Sure... I don't mind...
+You aren't... responsible...
+[->][END]
+153: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+154: [71 1]You'll... cheer for me...?
+Thank you... That makes...
+me happy...
+[->][END]
+155: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+156: [71 1]We both... have it hard...
+Is this... okay...?
+[->][END]
+157: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+158: [71 1]I have... money with me...
+I got... from suing someone...
+[->]You can have... some of it...
+[->][END]
+159: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+160: [71 1]I have... some items... with me...
+I got... from suing someone...
+[->]You can have... some of them...
+[->][END]
+161: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+162: [71 1]You've been... repeating... the same
+thing... Even zombies... get tired...
+[->][END]
+163: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+164: [71 1]Why do I... have to get lost...?
+[->]This is... your fault...
+Take... responsibility...
+[->][END]
+165: [71 1]This isn't... my fault... Why am I...
+being attacked... for it...?
+[->]Please... don't... kill me...
+I'll do... anything...
+[->][END]
+166: Reserve
+[END]
+167: [71 1]Okay... then...
+[->][END]
+168: Reserve
+[END]
+169: [71 1]I'll curse... you...
+[->][END]
+170: Reserve
+[END]
+171: [71 1]Reserve
+[->][END]
+172: [71 1]Reserve
+[->][END]
+173: [71 1]Reserve
+[->][END]
+174: [71 1]Reserve
+[->][END]

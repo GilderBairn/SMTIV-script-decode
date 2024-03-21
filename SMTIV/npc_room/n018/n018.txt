@@ -1,0 +1,121 @@
+0: (Female demonoid) [7a 147][13 1, 418002]I'm sure Akira wishes he could ditch
+this tiny base and move out to the
+center of the city...
+[->]But he doesn't have the firepower.
+Not enough soldiers, you know? He's
+trying to find good allies nearby.
+[END]
+1: (Female demonoid) [7a 147][13 1, 418002]When Akira starts to get drunk around
+his people, he always rambles on about
+his dream...
+[->]He says he doesn't want his people
+cooped up in this tiny base. He wants
+to set them up in central Tokyo...
+[->]But he needs more men to pull that off.
+I wonder if there are any good soldiers
+for hire out there...
+[END]
+2: (Female demonoid) [7a 147][13 1, 418002]When Akira starts to get drunk around
+his people, he always rambles on about
+his dream...
+[->]He says he doesn't want his people
+cooped up in this tiny base. He wants
+to set them up in central Tokyo...
+[->]But that guy's all talk. He's got no
+muscle to back it up. Then again, he's
+also a guy who keeps his promises...
+[->]With the Intruders on his side, he just
+might make that dream come true...
+[END]
+3: (Female neurisher) [7a 147][13 1, 418002]The only way for weaklings to survive
+in this world is to become neurishers.
+[END]
+4: (Female demonoid) [7a 148][13 1, 417203]They give their thoughtpeaches to the
+demonoids as food, in exchange for
+the right to live.
+[END]
+5: (Female demonoid) [7a 147][13 1, 418004]You there! Have you finished with
+today's harvest? Slack off and you're
+dead, you hear?
+[END]
+6: (Female demonoid) [7a 147][13 1, 418002]It was Kenji who proposed the idea of
+making humans into neurishers.
+[->]Thanks to him, all our food problems
+are solved. He's not only strong,
+but smart too.
+[END]
+7: (Female demonoid) [7a 148][13 1, 417203]Speaking of smart, you know who else is
+clever? Akira.
+[->]He's got a motto... ”Don't pick fights
+unless you know you can win.”
+[END]
+8: (Female demonoid) [7a 147][13 1, 418003]Must be how he's still alive in this
+hellhole.
+[END]
+9: (Female demonoid) [7a 148][13 1, 417207]Yeah... just don't count on his muscle,
+though. He ain't got any.
+[END]
+10: (Female demonoid) [7a 147][13 1, 418002]The Counter−Demon Force that Kenji used
+to belong to was a special organization
+made to drive the demons from Tokyo.
+[END]
+11: (Female demonoid) [7a 148][13 1, 417203]It was formed about 25 years ago when
+a war between demons and angels had
+broken out in Tokyo.
+[END]
+12: (Female demonoid) [7a 147][13 1, 418003]Kenji later threw in with the demons,
+who had been his enemies up to then,
+to defeat the forces of the angels.
+[END]
+13: (Female demonoid) [7a 148][13 1, 417203]Ever since then, it's been the rule of
+the strongest in Tokyo. And Kenji is
+the King.
+[->]You might say Tokyo of the last 25
+years has been the Kenji era.
+[END]
+14: (Male demonoid) [7a 146][13 1, 415201]Daaaaamn! I'm so pissed off! I just
+wanna smack someone right now...!
+[->]Heh, and with no cops or law in this
+city anymore, who's gonna stop me!?
+[END]
+15: (Female demonoid) [7a 146][13 1, 415200]Daaaaamn! I'm so pissed off! I'm dying
+to lay into someone right now...!
+[->]Heh, and with no cops or law in this
+city anymore, who's to say I can't!?
+[END]
+17: (Male demonoid) [7a 146][13 1, 415201]Daaaaamn! I'm so pissed off! I just
+wanna smack someone right now...!
+[->]Heh, and with no cops or law in this
+city anymore, who's gonna stop me!?
+[END]
+18: (Male demonoid) [7a 146][13 1, 415200]Hey, you killed the boss of Shinjuku,
+right? That's great... like how it feels
+when you give someone a good smack!
+[->]We was told to guard this place. You're
+off to whack Kenji, right?
+[->]Hey Intruders, go kick some ass for
+me too while you're out!
+[END]
+19: (Male demonoid) [7a 146][13 1, 415201]Hey, you killed the boss of Shinjuku,
+right? That's great... like how it feels
+when you give someone a good smack!
+[->]We was told to guard this place.
+King Akira's orders.
+[END]
+20: (Male demonoid) [7a 146][13 1, 415201]Hey, we was told to guard this place.
+King Akira's orders, man.
+[->]I wonder what's Akira doing now...
+He seems pretty busy nowadays. We can't
+get in to see him.
+[END]
+21: (Akira) [7a 85][13 1, 401701]Huh!? What brings you glorious
+Intruders here? Why come to
+Kasumigaseki...?
+[->]Kenji is in Camp Ichigaya. He has the
+remote, too.
+[->]But... I need to start worrying about
+Shinjuku too, not just Kasumigaseki.
+[->]And if I become King of Tokyo, won't I
+have to worry about the whole city...?
+Man, this is sounding pretty hard...
+[END]

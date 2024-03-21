@@ -1,0 +1,117 @@
+0: (Issachar) [7a 0][13 0, 300601]Hrrghhh... Grrrrr...
+Hraaaaaaagh...
+[END]
+1: (Issachar) [7a 0][13 0, 300602][Flynn]... It was mortifying, the
+way I was passed over to become
+a Samurai...
+[->][13 0, 300603]But the books the Black Samurai brought
+me were greatly cheering.
+[->][13 0, 300604]It was such fun... For the first time
+in life, I was thoroughly absorbed in
+something...
+[->][13 0, 300605]And then, bile rose within me.
+[->][13 0, 300606]I realized that it was all the fault of the
+Luxurors that I turned out this way!
+[END]
+2: (Issachar) [7a 0][13 0, 300616]What's the matter, you Luxuror toads?
+Is this the best you can muster?
+[->][13 0, 300617]Trample me underfoot like the refuse
+you believe me to be!
+[END]
+3: (Issachar) [7a 0][13 0, 300618][Flynn]... Don't look away... Keep
+your eyes fixed on my pitiable state...!
+[END]
+4: (Issachar) [7a 0][13 0, 300619]I−It hurts... The bleeding won't stop...
+[->][13 0, 300620]I'm begging you, [Flynn]...
+End my pain...
+[->][13 0, 300621]Won't you put an end to me... with a
+Samurai's hands... your hands...?
+[END]
+5: Finish him off
+Spare him
+[END]
+6: (Jonathan) [7a 3][13 0, 300622]You mean to do it, [Flynn]?
+He's suffered enough already!
+[END]
+7: (Walter) [7a 4][13 0, 300623]Jonathan... What you suggest is no
+kindness.
+[END]
+8: (Jonathan) [7a 3][13 0, 300624]What...?
+[END]
+9: (Walter) [7a 4][13 0, 300625]'Tis only an excuse to avert your gaze
+from the painful reality.
+[->][13 0, 300626]You ought follow [Flynn]'s example
+and act with clear intent.
+[END]
+10: (Jonathan) [7a 3][13 0, 300627]Ngh...
+[END]
+11: (Issachar) [7a 0][13 0, 300628]Thank you...
+[END]
+12: (Walter) [7a 4][13 0, 300629]Are you mad, [Flynn]?
+[->][13 0, 300630]He's not human anymore. He's become
+a demon through and through...
+[->][13 0, 300631]Your pretense of kindness is merely
+masking your unwillingness to face
+the truth.
+[->][13 0, 300632]Wouldn't putting him out of his misery
+be a far kinder act?
+[END]
+13: (Issachar) [7a 0][13 0, 300633]Gaaaaaaah...!
+[->][13 0, 300634][Flynn]... Why do you prolong
+my suffering...!?
+[END]
+14: (Issachar) [7a 7][13 0, 300635]A−Ah... It's so dark... I can't...
+I can't see anything...
+[->][13 0, 300636][Flynn]... Is that...
+you I sense...?
+[END]
+15: (Issachar) [7a 7][13 0, 300637]Do you remember...? That day we went
+to Mikado Castle... the first time...
+on an errand...
+[->][13 0, 300638]We vowed... to become Samurai...
+at any cost...
+[->][13 0, 300639]On the shores... of Lake Mikado...
+At that place... so special to us...
+[END]
+16: (Issachar) [7a 7][13 0, 300640][Flynn]... Please... make yourself a
+magnificent Samurai...
+[->][13 0, 300641]And change... this rotten world...
+[END]
+1000: (Issachar) [7a 0][13 0, 300607][Flynn]... Tell me how you
+truly feel.
+[->][13 0, 300608]Now that you are a Samurai, has your
+soul too become tainted like the
+Luxurors'?
+[->][13 0, 300609]Or... do you still consider yourself
+to be a Casualry?
+[END]
+1001: ”I'm a Luxuror.”
+”I'm a Casualry.”
+Ignore him and continue fighting
+[END]
+1002: (Issachar) [7a 0][13 0, 300610]I see... Well, as your best friend,
+here's to your success...
+[->][13 0, 300611]Hahahah! Did you think me to be
+serious? My, becoming a Luxuror has
+addled your brains!
+[->][13 0, 300612]You sold your soul to authority!
+You're no longer a friend of mine!
+[END]
+1003: 〉 [Flynn]'s team flinches from
+Issachar's dauntless aura!
+[END]
+1004: 〉 Issachar uses this momentary
+opening to act!
+[END]
+1005: (Issachar) [7a 0][13 0, 300613]Th−That can't be! You're merely saying
+that to assuage your conscience!
+[->][13 0, 300614]But no... Then I... What have I done...?
+[->][13 0, 300615]Gaaaaah...!
+[END]
+1006: 〉 Issachar writhes in pain!
+[END]
+1007: 〉 Issachar loses a chance to act!
+[END]
+1008: 〉 [Flynn] ignores Issachar and
+continues to fight...
+[END]

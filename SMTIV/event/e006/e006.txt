@@ -1,0 +1,87 @@
+0: 〉 An epigraph is carved on the Obelisk.
+[->]〉 Will you read it?
+[END]
+1: Read it
+Don't read it
+[END]
+2: 〉 Which part would you like to read?
+[END]
+3: 〉 [Flynn] turned away from the
+Obelisk.
+[END]
+4: The war of angels and demons
+The founding of the Samurai
+The Eastern Kingdom of Mikado
+Exit
+[END]
+5: In ancient times, this land was shared
+by angels and those blessed by God.
+[->]One day, the Unclean Ones emerged
+from the underworld, and decided of
+their own mind to live here.
+[->]The Unclean Ones summoned demons and
+the angels knew they could not be
+allowed to go unchecked.
+[->]Fearing the power of the angels sent
+by God, the Unclean Ones retreated to
+the underworld from whence they came.
+[->]Thus were the land blessed by God
+and the people who dwelled there
+protected by angels...
+[END]
+6: (Issachar) [7a 7][13 1, 400505]This is a mere fairy tale. Angels and
+demons are the stuff of legend, not
+history.
+[END]
+7: 〉 Read another section?
+[END]
+8: In the long ago war of angels and
+demons, one soldier stood with the
+angels.
+[->]Like the Unclean Ones, this soldier
+summoned demons; but he did so to
+combat the demonic hordes.
+[->]With this power, the soldier forced
+the demons into the underworld, and
+sealed the path to their country...
+[->]This soldier was the first Samurai,
+as well as the first monarch of the
+Eastern Kingdom of Mikado... Aquila.
+[->]King Aquila's great achievement is
+the reason why Samurai are even today
+the cornerstone of our defenses.
+[END]
+9: (Issachar) [7a 7][13 1, 400502]Yes, the Samurai... When I am made a
+Samurai, then I, too, shall be...
+[END]
+10: 〉 Read another section?
+[END]
+11: In the first year of the Gregorian
+Calendar, King Aquila established the
+Eastern Kingdom of Mikado in this land.
+[->]The king built a castle in the sealed
+land and prayed to God. His subjects,
+following his example, prayed as well.
+[->]Under God's watchful eye, the people
+were guaranteed equality and peace
+everlasting.
+[END]
+12: (Issachar) [7a 7][13 1, 400505]Luxurors and Casualries... We may
+be of different classes, but we're all
+equals inside.
+[END]
+13: 〉 Read another section?
+[END]
+109: During the struggle, the remaining
+demons regained their power. The
+wounded angels were unable to...
+[->]〉 The rest of the epigraph has been
+scraped off from the Obelisk's
+surface and is illegible.
+[END]
+112: In the first year of the Gregorian
+Calendar... King Aqu...
+[->]〉 The rest of the epigraph has been
+scraped off from the Obelisk's
+surface and is illegible.
+[END]

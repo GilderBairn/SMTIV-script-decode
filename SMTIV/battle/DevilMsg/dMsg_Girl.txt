@@ -1,0 +1,73 @@
+0: [71 1]Ooh, a new skill! Now I can kill
+even more!
+[->][END]
+1: [71 1]Yay, a new skill! Let's try to use
+it a lot, Mister!
+[->][END]
+2: [71 1]I've got a new skill, Mister!
+Don't wear it out!
+[->][END]
+3: [71 1]What should I do, Mister? I think
+I might be too strong now!
+[->][END]
+4: [71 1]I have too many skills...
+I need to get rid of one!
+[->][END]
+5: [71 1]Hey, Mister, can I change my
+[Color:0x5][Skill 1][Color:0x0] into
+[Color:0x5][Skill 2]?[Color:0x0]
+[->][END]
+6: [71 1]Hey, Mister, can I change my
+[Color:0x5][Skill 1][Color:0x0] into
+a really nice new skill?
+[->][END]
+7: [71 1]Hee hee hee! Yay!
+[->][END]
+8: [71 1]Awwwww... Let me do it next time!
+[->][END]
+9: [71 1]It became [Color:0x5][Skill 1]![Color:0x0]
+Isn't that nice?
+[->][END]
+10: [71 1]I feel so tickly...!
+Am I going to transform?
+[->][END]
+11: [71 1]Wh−What's happening to me?
+[->][END]
+12: [71 1]Awwww...
+[->][END]
+13: [71 1]Yay! I've become a cute demon!
+[->][END]
+14: [71 1]I'm starting to feel tickly...
+Am I going to [Color:0x5]transform[Color:0x0] soon,
+Mister?
+[->][END]
+15: [71 1]Here you go! [Color:0x5][Item 1]![Color:0x0]
+Don't lose it!
+[->][END]
+16: [71 1]Want a snack, Mister?
+Here, [Color:0x5][Item 1]![Color:0x0]
+[->][END]
+17: [71 1][Color:0x5][Item 1]![Color:0x0] Grown−ups say
+it's dangerous, so be careful.
+[->][END]
+18: [71 1]Heehee! You're going to have the
+power of demons inside you!
+[->][END]
+19: [71 1]Do you want more, Mister?
+[->][END]
+20: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1]![Color:0x0]
+Nice meeting you, Mister!
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

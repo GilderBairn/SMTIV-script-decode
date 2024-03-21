@@ -1,0 +1,75 @@
+0: 〉 A vast, white space spreads as far
+as you can see...
+[END]
+1: 〉 Walter and Jonathan are nowhere to be
+seen...
+[END]
+2: (The White) [7a 77][13 0, 225001]Your atom has brushed against two
+possible worlds.
+[END]
+3: (The White) [7a 77][13 0, 225002]You have touched the possible world
+one chooses to preserve...
+[->][13 0, 225003]...and the possible world where one
+chooses to fight the stillness.
+[END]
+4: (The White) [7a 124][13 0, 225004]...You have sensed it.
+[END]
+5: (The White) [7a 124][13 0, 225005]Even if you elect to preserve the world,
+if it does not align with God's will,
+it will be cast into destruction...
+[->][13 0, 225006]Even if you choose not to preserve the
+world, it will lead inexorably down
+a path of self−destruction...
+[END]
+6: (The White) [7a 78][13 0, 225007]Humans are but prisoners of God's
+expectations.
+[END]
+7: (The White) [7a 78][13 0, 225008]But we know a way... A way to escape
+God's grasp.
+[->][13 0, 225009]Yes... We will simply turn all to
+nothing to begin with.
+[END]
+8: (The White) [7a 75][13 0, 225010]Because we lack forms, we entrust the 
+choice to you who have shape, [Flynn]...
+[->][13 0, 225011]Release all of humanity from God's
+control and become the true Messiah.
+[END]
+9: (The White) [7a 124][13 0, 225012]Now [Flynn], the time of fate.
+[->][13 0, 225013]The power is in your hands to save
+every being in every world.
+[->][13 0, 225014]Will you turn the world to naught with
+your hands as the Messiah...?
+[END]
+10: Return the world to nothing
+Don't return the world to nothing
+[END]
+11: (The White) [7a 124][13 0, 225015]No...
+[->][13 0, 225016]You and your messianic tendencies...
+What do you think you can do, leaving
+this world intact...?
+[->][13 0, 225017]Do you intend to preserve the current
+status quo? Are you going to destroy
+the order of things?
+[END]
+12: ”I'll preserve the status quo.”
+”I'll destroy the order of things.”
+”I don't know.”
+[END]
+13: (The White) [7a 124][13 0, 225018]Then let us ask you once more.
+[END]
+14: (The White) [7a 124][13 0, 225019]Release all of humanity from God's
+control and become the true messiah.
+[END]
+15: (The White) [7a 124][13 0, 225020]Now is the moment of fate...
+[->][13 0, 225021][Flynn], will you bring the world
+to naught?
+[END]
+16: ニュートラルルートへ飛びますか
+[END]
+17: 飛ぶ
+飛ばない
+[END]
+18: ニュートラルルートへ遷移します
+[END]
+19: 通常の流れに戻ります
+[END]

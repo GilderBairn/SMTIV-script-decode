@@ -1,0 +1,6 @@
+0: SQFLG_006 ON
+[END]
+1: (Burroughs) [7a 2][13 1, 400002]...Be careful.
+[END]
+2: 〉 The demon is looking for a fight...
+[END]

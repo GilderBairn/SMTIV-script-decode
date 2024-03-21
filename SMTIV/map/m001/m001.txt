@@ -1,0 +1,171 @@
+0: ”Your safety cannot be guaranteed
+aboveground. You are responsible for
+your own actions.”
+[->]〉 ...So the mystic script says.
+[END]
+11: (Hunter man) I got myself a supply of demon meat
+today as well. Now I can feed everyone.
+[END]
+12: (Hunter man) I killed tons of demons today too!
+It really gets the blood pumping.
+[END]
+13: (Hunter man) The demons are everyone's common enemy.
+Let's you and me show those bastards
+what a Hunter's got.
+[END]
+14: (Young man) Ack! Is that... Is that demon blood
+on you...?
+[END]
+15: (Young man) I'm not crazy about those Ashura−kai
+people... They scare me out of my mind!
+[END]
+16: (Hunter man) Are you a Hunter too? Don't even think
+about taking my jobs.
+[END]
+17: (Hunter man) We've gotta be armed to the teeth to
+fight against demons.
+[END]
+18: (Friendly Hunter) [13 1, 403002]Hey there. You're a Hunter, right?
+[->]I'm glad to see you here, because I'm
+in the market for some food.
+[->][13 1, 403042]Let's see... Do you have any
+[Color:0x5][Item 1]?[Color:0x0]
+[->]I'd buy [Color:0x5][Item 1][Color:0x0] for triple
+the market price right now.
+[END]
+19: 〉 Hand over your [Color:0x5][Item 1]?[Color:0x0]
+[END]
+20: Yes
+No
+[END]
+21: (Friendly Hunter) [13 1, 403041]I can't thank you enough. Here's the
+[Color:0x5][Amount 1] Macca[Color:0x0] I owe you.
+[END]
+22: (Friendly Hunter) [13 1, 403033]I hope you'll be around to help me out
+again in a bit.
+[END]
+23: (Friendly Hunter) [13 1, 403042]Oh. Well, that's okay. If you ever
+change your mind, you know where
+to find me.
+[END]
+24: (Friendly Hunter) [13 1, 403042]Hm? You don't have any [Item 1].
+[->]Oops. Sorry if that was an unreasonable
+request.
+[END]
+25: (Friendly Hunter) [7a 29][13 1, 403001]I've got plenty of food right now. But
+if you come back another time, maybe
+we can do business then.
+[END]
+26: (Greedy Hunter) [7a 29][13 1, 403013]Whaddaya want!? Don't come over here!
+[->]The treasure around here's all mine.
+[->]I'm gonna grab every last one!
+[END]
+27: (Hunter man) [13 1, 403002]I do quests to make a living... Reminds
+me of the days I used to work in bars.
+[END]
+28: (Hunter man) [13 1, 403031]I never thought I could sleep out on
+the streets, but you get used to it.
+Haha...
+[END]
+29: (Young man) [13 1, 403012]Walking's a pain, but that's all I can
+think of doing...
+[END]
+30: (Young man) [13 1, 403421]What's ”morning”? When the sky is bright?
+...You're not making any sense here.
+[END]
+31: This area still has echoes of what it
+was like in the past. The Golden Gai
+was known for its bars.
+[END]
+32: Some stores around here even turned away
+average customers. I wonder where the
+people who were here have gone...
+[END]
+33: There was a time long ago that this
+place was a farm. Strange, isn't it,
+that it was in the middle of a city?
+[END]
+34: The household electronics stores stand
+out on the west entrance side. No buses
+have shown up here in a while, either.
+[END]
+35: This place is probably best known for
+the Shinjuku Niagara Falls. The people
+who used to sleep here are gone now too.
+[END]
+36: I think this area had a lot of office
+buildings. Have you ever gotten lost
+here in the urban sprawl?
+[END]
+37: Underground Shinjuku is supposedly like
+a labyrinth. There's a lot more people
+there, compared to other places.
+[END]
+38: This place was once bustling with
+customers. The map doesn't give a good
+sense of how extensive it is...
+[END]
+39: This passage seems to stretch all the
+way to the Metropolitan Government
+Office. It's pretty dusty around here.
+[END]
+40: I didn't have any data on this passage.
+Looks like there aren't any stores here.
+[END]
+41: (Heavily accented man) [13 0, 94004]Huh? What's that? Ya want me to let
+ya past here?
+[->][13 0, 94005]Sorry, ain't happenin'. I do that,
+and the demons on the other
+side'll get through.
+[END]
+42: (Heavily accented man) [13 0, 94006]That thing with the Corpses ain't
+over yet either. I don't got time to
+worry about the west side right now.
+[END]
+43: (Burroughs) [13 0, 400063]Looks like the quest is going well.
+[END]
+44: (Heavily accented man) [13 0, 94007]Huh? What's that? Ya want me to let
+ya past here?
+[->][13 0, 94008]Sorry, ain't happenin'. I do that,
+and the demons out on the other
+side'll get through.
+[END]
+45: (Heavily accented man) [13 0, 94009]That is, unless you help out with
+defeatin' that monster at the
+Metropolitan Government Office... Huh?
+[->][13 0, 94010]Some Jirae demon's occupied the place
+and it's givin' us a huge headache.
+[->][13 0, 94011]We'll give ya the Jirae Talisman we
+stole from it as a reward. Whaddaya
+say? Will ya off it for us?
+[END]
+46: Off it
+Don't off it
+[END]
+47: (Heavily accented man) [13 0, 94012]Heh, that'd be nice.
+[->][13 0, 94013]One of our boys went on ahead with
+some hired Hunters. The more the
+better, they say.
+[END]
+48: (Burroughs) [13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+49: (Heavily accented man) [13 0, 94015]You're free to pass now, so I'll be
+countin' on you to deal with that demon
+at the Metropolitan Government Office.
+[END]
+50: 〉 There's a switch.
+Push it?
+[END]
+51: Push it
+Don't do anything
+[END]
+52: (Heavily accented man) [13 0, 94016]Geez, what a stiff. All of us here in
+Shinjuku are havin' a hard time 'cause
+of that thing, ya know.
+[->][13 0, 94017]Alright, I got no business with
+ya, then. Take a hike.
+[END]
+53: 〉 The Ashura−kai man opened the shutter
+and left.
+[END]

@@ -1,0 +1,4 @@
+0: (Burroughs) [7a 2][13 1, 400002]...Careful.
+[END]
+1: 〉 The demon intends to fight you.
+[END]

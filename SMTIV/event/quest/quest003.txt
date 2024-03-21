@@ -1,0 +1,7 @@
+0: This is the final training exercise. A Samurai
+must have a thorough grasp on his surroundings.
+I have hidden a [Color:0x5]certain item of value[Color:0x0] in the
+[Color:0x5]2nd Stratum[Color:0x0] of [Color:0x5]Naraku. Find it and return to
+Aquila Statue Plaza with it.[Color:0x0] And make no inquiries
+regarding its nature...
+[END]

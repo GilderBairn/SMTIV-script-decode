@@ -1,0 +1,143 @@
+0: (Squinting man) [7a 59][13 0, 76022]......
+[END]
+1: 〉 The squinting man stared at
+[Flynn]'s Gauntlet.
+[END]
+2: (Squinting man) [7a 59][13 0, 76023]...I haven't seen you around here.
+[END]
+3: (Squinting man) [7a 59][13 0, 76024]If you don't mind, tell me where
+you're from and why you came to Tokyo.
+[END]
+4: Tell him
+Don't tell him
+[END]
+5: 〉 [Flynn] told him they hailed from
+the Eastern Kingdom of Mikado, and had
+come in search of the Black Samurai.
+[END]
+6: (Squinting man) [7a 59][13 0, 76030]Alright then. No, I'm sorry to have
+bothered you.
+[END]
+7: (Squinting man) [7a 59][13 0, 76025]Alright... So in other words, you're
+trying to get to the Counter−Demon
+Force Base, right?
+[END]
+8: (Squinting man) [7a 59][13 0, 76026]That base is across the river south
+of here, in Kasumigaseki.
+[END]
+10: (Squinting man) [7a 59][13 0, 76028]All you gotta do is take a look at
+the bulletin board.
+[END]
+11: (Squinting man) [7a 59][13 0, 76031]Once the quest's done, go see the
+Kelpies near the river at Ryogoku,
+southeast of here.
+[->][13 0, 76032]You do that, and you just might make
+it to Kasumigaseki...
+[->][13 0, 76033]Heh, the Counter−Demon Force...
+There's something I haven't heard
+about in a long time.
+[END]
+12: (Isabeau) [7a 5][13 0, 76001]Eek...! What a ratty establishment!
+And the din...!
+[END]
+13: (Walter) [7a 4][13 0, 76002]All the Unclean Ones I see here seem
+like they'd be confident in their
+abilities.
+[END]
+14: (Bartender) [7a 23][13 0, 76003]You four there! Willya quit lounging
+around the entrance?
+[END]
+15: (Bartender) [7a 23][13 0, 76004]So, what's it gonna be today?
+Booze? Or are you here for work?
+[END]
+16: (Jonathan) [7a 3][13 0, 76005]No, we're, ah...
+[END]
+18: (Bartender) [7a 23][13 0, 76006]Oh, you're rookies.
+[->][13 0, 76007]In that case, the bulletin board's up
+there. I got no time for Hunters if
+they're not working on quests.
+[END]
+19: (Jonathan) [7a 3][13 0, 76008]Uh, excuse me, but what are ”Hunters”...?
+[END]
+20: (Bartender) [7a 23][13 0, 76009]You know... Demon Hunters. Is this
+some kinda joke?
+[END]
+21: (Jonathan) [7a 3][13 0, 76010]N−No... I didn't mean to offend...
+[END]
+22: (Bartender) [7a 23][13 0, 76011]Hunters are reckless jack−of−all−
+trades.
+[->][13 0, 76012]They take on work from clients and
+bum around Tokyo, trying to finish
+the job.
+[->][13 0, 76013]If you're gonna be a Hunter, you
+gotta know at least that much.
+[END]
+23: (Jonathan) [7a 3][13 0, 76014]Please, sir, pardon my ignorance...
+[END]
+24: (Walter) [7a 4][13 0, 76015]Hoy, look at that bulletin board thing.
+[END]
+25: 〉 [Flynn] examines the bulletin
+board above the counter.
+[END]
+26: (Isabeau) [7a 5][13 0, 76016]Oh! It's just the same as the
+blackboard in K's Tavern.
+[END]
+27: (Walter) [7a 4][13 0, 76017]Sounds as though these ”Hunters” are
+the Samurai of the Unclean Ones.
+[END]
+28: (Burroughs) [7a 2][13 0, 76018]I can automatically register quests
+for you, even in Tokyo.
+[->][13 0, 76019]There are new quests on the bulletin
+board. I'll register them to the list.
+[END]
+29: 〉 From now on, you can also accept quests
+in Hunter Associations in Tokyo.
+[END]
+30: (Bartender) [7a 23][13 0, 76020]Hey, rookies. Make yourselves pros
+right quick, got it?
+[->][13 0, 76021]No matter how many humans we got
+fighting the demons here in Tokyo,
+it isn't enough.
+[END]
+31: (Burroughs) [7a 2][13 0, 76034]...Master [Flynn], look out.
+I'm detecting a strong demon nearby.
+[END]
+32: (Burroughs) [7a 2][13 0, 76035]I'm detecting a demon's Domain.
+Do you want to go on?
+[END]
+33: [END]
+34: (Burroughs) [7a 2][13 0, 76036]I'm detecting a strong demon ahead.
+Do you want to go on?
+[END]
+35: Yes
+No
+[END]
+108: (Burroughs) [7a 2][13 0, 86020]This seems like important evidence.
+I'll make a note of it in the quest.
+[END]
+113: 〉 The bartender started to talk to you
+without looking at you.
+[END]
+208: (Squinting man) [7a 59][13 0, 76027]But the Ashura−kai has destroyed most
+of the bridges across Tokyo. Getting
+across the river won't be so simple.
+[->][13 0, 76029]There is this quest, though, called
+”Peallaidh Extermination.” Why not
+give that one a try?
+[END]
+308: 〉 The squinting man took something from
+his pocket and handed it to [Flynn].
+[END]
+900: 初めて商会に入った時に
+店主から商会について聞きます
+このイベント以降 サブクエの登録受注が
+可能になります
+[END]
+901: 仮処理
+本来は黒板を調べてクエストを受注しますが
+現状は準備が整っていないため
+従来通り自動的にクエストを受注します
+[END]
+902: 不要と思われるイベントなので
+新宿人外ハンターへへ復帰します
+[END]

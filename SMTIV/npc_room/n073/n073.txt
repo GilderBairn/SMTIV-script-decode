@@ -1,0 +1,23 @@
+0: (Demonoid woman) [7a 147][13 1, 418004]I saw Akira on his way to Ichigaya.
+He looks so trustworthy now.
+[->]I feel that responsibility can change
+a man. Right now... Akira's got all
+of Tokyo on his shoulders.
+[END]
+1: (Demonoid man) [7a 146][13 1, 415205]The guys who came from Kasumigaseki
+killed a number of people here.
+[->]I mean, they were saying things like
+”We'll never bow to someone like
+Akira,” and all, but still...
+[->]Those guys might be Akira's old
+friends, but isn't this going too
+far? They're acting like fanatics.
+[END]
+2: (Demonoid man) [7a 145][13 1, 415101]What was King Akira talking about?
+”Equality” or something?
+[->]I remember... That word used to mean
+a lot to me when I was human...
+[->]...But I've been a demonoid for so
+long that I can't really bring myself
+to care.
+[END]

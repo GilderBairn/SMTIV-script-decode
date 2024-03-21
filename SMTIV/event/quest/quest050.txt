@@ -1,0 +1,5 @@
+0: I registered your exchange with that accented
+manager as a quest. So someone named Tayama is
+waiting for you at the [Color:0x5]Hills Building in Roppongi,[Color:0x0]
+huh? I hope your fellow Samurai is safe.
+[END]

@@ -1,0 +1,161 @@
+0: (Merkabah) [7a 0][13 0, 307700]You who are the roots of evil, formed
+of a tainted body, debased heart, and
+fallen soul...
+[->][13 0, 307701]Be smote in the Lord's name.
+[END]
+1: (Merkabah) [7a 0][13 0, 307725]It is unthinkable that you have driven
+the Lord's chariot to such desperation...
+Is the power of demons so dreadful...?
+[END]
+2: (Demon Lord Lucifer) [7a 92][13 0, 307726]We are animated by the flames of life
+and passion. You are animated by
+nothing but the empty breath of God.
+[->][13 0, 307727]It is to be expected that we who truly
+live are superior to a cold thing
+which calls itself God's chariot.
+[->][13 0, 307728]The time is ripe to end this.
+Destroy God's order that spoils the
+universe.
+[END]
+3: (Merkabah) [7a 0][13 0, 307729]This cannot be... We are... the
+heralds of the Lord... How have we
+been thus defeated...?
+[END]
+4: (Merkabah) [7a 0][13 0, 307730]The stars... the wind... the beasts...
+All nature... follows His order...
+[->][13 0, 307731]Why, then... do humans and demons...
+struggle to deviate from it...?
+[->][13 0, 307732]Is there... no end to your avarice...?
+What is it... that you desire...?
+[END]
+1000: (Merkabah) [7a 0][13 0, 307702]Tell me, you who have devoted yourself
+to unclean lusts, casting aside the
+holiness of order...
+[->][13 0, 307703]For whom are you waging this profane
+battle?
+[END]
+1001: ”For all the demons.”
+”For the people of Tokyo.”
+”For myself.”
+”.........”
+[END]
+1002: (Merkabah) [7a 0][13 0, 307704]Then you are little but a bloody
+sacrifice offered up to them.
+[->][13 0, 307705]Foolish one, who has degenerated from
+a human to a sacrifice... The spark
+of life is wasted upon you.
+[END]
+1003: 〉 [Flynn]'s party loses their
+turn!
+[END]
+1004: (Merkabah) [7a 0][13 0, 307706]And what is it that you offer to the
+people of Tokyo? You spread only
+dissension and strife.
+[->][13 0, 307707]Your fraudulent righteousness masks
+only a depraved and fallen man.
+[END]
+1005: 〉 Merkabah's argument cuts [Flynn]
+down to the very soul...
+[END]
+1006: 〉 All of [Flynn]'s stats decreased!
+[END]
+1007: (Merkabah) [7a 0][13 0, 307708]So, you preach the gospel of dissent
+merely to satisfy your own urges?
+[->][13 0, 307709]You have fallen so far from the light
+that you are no longer worthy even
+to be called human.
+[->][13 0, 307710]So I shall call you this. I name you
+Demon, one who overflows with Filth...
+[END]
+1008: 〉 [Flynn] feels the power of chaos
+fill him...
+[END]
+1009: 〉 All of [Flynn]'s stats increased!
+[END]
+1010: (Merkabah) [7a 0][13 0, 307711]What am I to call this vain creature
+whose heart is empty of resolve?
+[->][13 0, 307712]You are refuse; the congealed mass of
+the Filth of the sons of man. I shall
+return you to the dust.
+[END]
+1011: 〉 Merkabah is filled with divine
+power...
+[END]
+1012: 〉 Merkabah's attack power has greatly
+increased!
+[END]
+1013: (Merkabah) [7a 0][13 0, 307713]So, you still will not fall? I see
+why the Demon Lord took you as a
+disciple.
+[->][13 0, 307714]Nonetheless... just as darkness is
+pierced by light, your defeat is part
+of the natural order of things.
+[->][13 0, 307715]Now behold your own disgrace and
+insignificance before my light!
+[END]
+1014: 〉 Merkabah gives [Flynn] a stern
+and piercing stare...
+[END]
+1015: Stare back with hatred
+Quietly accept it
+Smile devilishly
+Look away coldly
+[END]
+1016: 〉 [Flynn] glares back, with murder
+in his eyes...
+[END]
+1017: (Merkabah) [7a 0][13 0, 307716]See the evil glare in its eyes...
+The dark, stagnant eyes of a demon.
+[->][13 0, 307717]Thus, were I to release the light
+within me, it would overcome your
+darkness, and I should see nothing.
+[END]
+1018: 〉 [Flynn]'s party was suddenly hit
+with a feeling of blindness...
+[END]
+1019: 〉 [Flynn]'s party's accuracy
+decreased greatly!
+[END]
+1020: 〉 [Flynn] quietly accepts
+Merkabah's gaze...
+[END]
+1021: (Merkabah) [7a 0][13 0, 307718]My gaze is no longer a blessing to
+those who have strayed from the path.
+[->][13 0, 307719]It is instead an admonishing stare
+whose judgement shall wrack you in
+mind and body.
+[END]
+1022: 〉 [Flynn] is tormented by Merkabah's
+gaze...
+[END]
+1023: 〉 [Flynn] smiles devilishly...
+[END]
+1024: (Merkabah) [7a 0][13 0, 307720]You continue to mock the Lord with
+every fiber of your being...
+[->][13 0, 307721]That is darkness. This demon is truly
+black in spirit; a raging, chaotic
+darkness that swallows all light.
+[->][13 0, 307722]It is profound horror to see how far
+a human can fall...
+[END]
+1025: 〉 [Flynn] feels the power of chaos
+fill him...
+[END]
+1026: 〉 All of [Flynn]'s stats increased
+greatly!
+[END]
+1027: 〉 [Flynn] looks away coldly...
+[END]
+1028: (Merkabah) [7a 0][13 0, 307723]See how the demon casts its eyes away,
+unable to endure the righteousness
+of the Lord.
+[->][13 0, 307724]You meager demon who cannot face the
+light; you shall be changed into a
+form more suitable.
+[END]
+1029: 〉 Merkabah's glare crushes
+[Flynn]'s spirit...
+[END]
+1030: 〉 All of [Flynn]'s stats greatly
+decreased!
+[END]

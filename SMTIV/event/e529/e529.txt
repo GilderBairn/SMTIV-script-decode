@@ -1,0 +1,25 @@
+0: (Demonoid) [7a 148][13 1, 417105]...Oh, it's you, Akira. Why are you in
+Ikebukuro? Is today trash day? Oh well.
+[->]I just stepped on a dead demon over
+there. Can you lick my foot clean like
+usual?
+[END]
+1: (Akira) [7a 85][13 1, 401704]...Huhhhh? Did I get lost? Tokyo's a big
+place...
+[->]I was just on my way to Shinjuku. Sorry
+to bother you...!
+[END]
+2: 〉 Akira tugged strongly on [Flynn]'s
+arm...
+[END]
+3: (Demonoid) [7a 148][13 1, 417104]Huh? A neurisher? What, you want us to
+adopt you?
+[->]Sorry, we only feed on adults. Could you
+come back when you've grown up a little?
+[END]
+4: (Demonoid) [7a 148][13 1, 417101]Oh, Akira... sorry, Master Akira's
+bodyguard? You're a handsome one up
+close.
+[->]Of course you don't need to pay the
+entrance fee. Have fun in Ikebukuro.
+[END]

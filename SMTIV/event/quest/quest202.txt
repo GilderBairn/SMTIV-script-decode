@@ -1,0 +1,16 @@
+0: I have sent a group of my Celtic brethren to
+the world above to take back the [Color:0x5]Cauldron of
+Dagda,[Color:0x0] stolen from us by God. They did get
+the Cauldron, but they are injured and [Color:0x5]lost
+in the maze of Naraku.[Color:0x0] Please find them and
+bring the Cauldron to [Color:0x5]Brigid,[Color:0x0] who is in
+an area east of Tennozu called Daiba.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

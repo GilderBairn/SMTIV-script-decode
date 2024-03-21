@@ -1,0 +1,100 @@
+0: (Female Hunter) [7a 70][13 1, 403142]The city of Ginza's a nice place to
+live, if you've got power. But if you
+don't, you're gonna have a bad time.
+[->]In order to even be able to walk
+around the city, you have to prove
+yourself to the Ring of Gaea...
+[->]Even if you want to go around to
+explore the ruins, there are a lot
+of places that people can't go.
+[->]If they don't let you pass, you
+might be better off getting some fame
+in another city and coming back.
+[END]
+1: (Female Hunter) [7a 70][13 1, 403142]Have you tried to visit the surface
+of Ginza? I hear there's a lot of
+high−quality stuff you can find.
+[->]But, the way is guarded by the Ring
+of Gaea, and they only let celebrities
+pass through.
+[->]So, the only people allowed to search
+for treasure there are the rich, and
+the rich keep getting richer...
+[->]It's terrible how they try to maintain
+their position of wealth... And it's
+hypocritical to their ”meritocracy.”
+[->]I came to take a look at that famous
+store, the Luis Witon... But they
+won't let me. What a disappointment.
+[END]
+2: 〉 The Hunter leaves...
+[END]
+3: Show her the camera
+Shrug
+[END]
+4: (Female Hunter) [7a 70][13 1, 403141]Huh? Would you be willing to take a
+picture of the Luis Witon store
+for me?
+[->]Are you sure? It's very tough to get
+into Ginza's shopping district.
+[->]...Well, if you're offering, thanks!
+I would like to see this Luis Witon
+I've been hearing about.
+[->]I'll be looking forward to it.
+[END]
+5: (Burroughs) [7a 2][13 1, 502043]I'll register that as a new quest
+on the list.
+[END]
+6: (Female Hunter) [7a 70][13 1, 403131]I hear that ”Luis Witon” used to
+be worshipped like some sort of god
+back in the old days.
+[->]Isn't that interesting? It's just a
+name on a bag, but people take so
+much interest in it.
+[->]Please bring me a picture of
+Luis Witon once you get it.
+[END]
+7: (Female Hunter) [7a 70][13 1, 403123]...I guess a poor rookie Hunter like
+me isn't meant to be in a city like
+Ginza...
+[END]
+8: 〉 This appears to be the store that
+the Hunter wanted to see.
+[->]〉 Would you like to take a picture?
+[END]
+9: Take a picture
+Not right now
+[END]
+10: 〉 You now have a picture of the
+Luis Witon store in Ginza.
+[END]
+11: 〉 You leave the area.
+[END]
+12: (Female Hunter) [7a 70][13 1, 403142]Oh... Did you bring me a picture?
+[END]
+13: 〉 You give the woman the picture.
+[END]
+14: (Female Hunter) [7a 70][13 1, 403141]Yep, that's what I wanted to see.
+[->]The fact that you were even allowed
+over there must mean that you have
+a platinum card.
+[->]That's very impressive. Hahaha...
+[->]Maybe you'll be able to find that
+black card I left behind.
+[END]
+15: (Female Hunter) [7a 70][13 1, 403133]I wish you the best of luck.
+So long!
+[END]
+16: (Female Hunter) [7a 70][13 1, 403131]Oh, it would seem you already have a
+black card... You really are amazing.
+[->]I suppose Ginza is a place meant for
+people with power, like you.
+[->][13 1, 403133]I'll treasure this picture.
+So long!
+[END]
+100: (Female Hunter) [7a 70][13 1, 403142]You don't have the picture?
+Well, I'll keep waiting here for you
+to get it...
+[END]
+900: 〉 There is no one here...
+[END]

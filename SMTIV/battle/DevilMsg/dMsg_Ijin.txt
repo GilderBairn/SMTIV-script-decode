@@ -1,0 +1,68 @@
+0: [71 1]My hidden power hath come forth...
+[->][END]
+1: [71 1]...Come, o new power of mine.
+[->][END]
+2: [71 1]Awaken, ancient skill of demons...
+[->][END]
+3: [71 1]This is the infinite power of
+demons...
+[->][END]
+4: [71 1]I have no more room in my soul for
+skills. I command thee to discard
+one of them...
+[->][END]
+5: [71 1]I shall make [Color:0x5][Skill 1][Color:0x0]
+into [Color:0x5][Skill 2]...[Color:0x0]
+[->][END]
+6: [71 1]I shall make [Color:0x5][Skill 1][Color:0x0]
+into a terrifying skill...
+[->][END]
+7: [71 1]Observe, and be amazed...
+[->][END]
+8: [71 1]Let it be so...
+[->][END]
+9: [71 1]Fear the wrath of [Color:0x5][Skill 1]...[Color:0x0]
+[->][END]
+10: [71 1]This undulation within my body...
+The change is upon me.
+[->][END]
+11: [71 1]Bear witness, human...
+[->][END]
+12: [71 1]The undulation hath passed... 
+I must wait for the next time...
+[->][END]
+13: [71 1]Tremble in fear at my figure...
+[->][END]
+14: [71 1]I feel the breath of undulation...
+The time of [Color:0x5]change[Color:0x0] neareth...
+[->][END]
+15: [71 1]Let this [Color:0x5][Item 1][Color:0x0] be
+of use to thee.
+[->][END]
+16: [71 1]Thou hast served me well.
+Take this [Color:0x5][Item 1].[Color:0x0]
+[->][END]
+17: [71 1]I reward thee with this
+[Color:0x5][Item 1].[Color:0x0] 'Tis a fine item.
+[->][END]
+18: [71 1]Taint thyself with the power of
+demons...
+[->][END]
+19: [71 1]Hast thou had enough?
+[->][END]
+20: [71 1]I am [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+It is a pleasure to meet thee.
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

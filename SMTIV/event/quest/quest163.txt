@@ -1,0 +1,22 @@
+0: I would like to find some Samurai to slay
+[Color:0x5]four demons[Color:0x0] for us. This is for a ritual so
+that we may create a herald. If we succeed,
+then our victory in the next battle will be
+assured. If you accept, please meet me on the
+[Color:0x5]path to Shene Duque[Color:0x0] for more details.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]
+2: The four demons to be slain are in various
+parts of [Color:0x5]Tokyo.[Color:0x0] The first resides in [Color:0x5]Nakano,[Color:0x0]
+another in [Color:0x5]Ryogoku,[Color:0x0] the third in [Color:0x5]Shiba,[Color:0x0] and
+the last can be found in [Color:0x5]Komagome.[Color:0x0] Head for
+the underground, Samurai, and hasten the
+completion of the ritual.
+[END]

@@ -1,0 +1,15 @@
+0: My disciple Cu Chulainn is a skilled warrior,
+but loses himself in the fury of battle. This
+will be his downfall. I have transformed him
+into his younger self, [Color:0x5][Demon name 1],[Color:0x0] and wish to
+have him taught the ways of a human warrior.
+Meet him at Bugeikan, [Color:0x5]north[Color:0x0] of Kasumigaseki.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

@@ -1,0 +1,17 @@
+0: (Ring of Gaea member) [7a 53][13 1, 404331]Tayama's demon was here.
+He called himself Michizane.
+[->]I rushed over here to help fight him,
+but the child of carnage had slain
+the demon by the time I arrived.
+[END]
+1: (Demon) [7a 65082][13 1, 419301]This dark prison...
+Soon, we'll be able to leave.
+[->]We'll break through that damned
+Firmament and bask in the light of
+the sun!
+[END]
+3: (悪魔) [7a 65046][13 1, 419204][神/かみ]は[力/ちから]ある[我/われ]らを[虐/しいた]げた…
+だが その[屈辱/くつじょく]の[歴史/れきし]も[終/お]わる
+[->][皆/みな]が[平等/びょうどう]に[競/きそ]う
+[本当/ほんとう]の[自由/じゆう]が[訪/おとず]れるのだ…ッ
+[END]

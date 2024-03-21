@@ -1,0 +1,15 @@
+0: I'd like to have an [Color:0x5][Item 1][Color:0x0] in order to do
+some maintenance belowground, but since they
+aren't being made anymore, they're as precious
+as diamonds now. People will kill to get their
+hands on one! I've heard there are some in a
+[Color:0x5]store in Ueno,[Color:0x0] but a demon has a Domain there.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

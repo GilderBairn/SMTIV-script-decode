@@ -1,0 +1,64 @@
+0: (Pluto) [7a 0][13 0, 305600]YOU ARE NOT THE LORD'S CHOSEN...
+YOU ARE NOT THE LORD'S CHOSEN...
+[END]
+1: (Walter) [7a 4][13 0, 305601]Oh... It speaks?
+[END]
+2: (Pluto) [7a 0][13 0, 305602]OBLITERATE! OBLITERATE!
+IN THE LORD'S NAME...
+[END]
+3: (Jonathan) [7a 3][13 0, 305603]It speaks, but it does not converse.
+It is merely parroting words at us.
+[END]
+4: (Pluto) [7a 0][13 0, 305604]WE SHALL EXTERMINATE FILTH...
+WE SHALL EXTERMINATE FILTH...
+[->][13 0, 305605]DIE, FILTHY ONES.
+[END]
+5: (Pluto) [7a 0][13 0, 305606]STOP! STOP! YOUR ACTIONS ARE SINS.
+[->][13 0, 305607]SINS MUST BE PUNISHED...
+SINS MUST BE PUNISHED...
+[END]
+6: (Pluto) [7a 0][13 0, 305608]I AM A TOOL OF THE LORD...
+I AM A TOOL OF THE LORD...
+[->][13 0, 305609]THINK ON THIS. THINK ON THIS.
+MY PURPOSE HERE... IN OTHER WORDS,
+THE WILL OF THE LORD...
+[END]
+7: (Jonathan) [7a 3][13 0, 305610]You don't mean... God was the one who
+spread this poison throughout Tokyo...?
+Is this God's will?
+[END]
+8: (Walter) [7a 4][13 0, 305611]I'll not bother ”thinking on this.”
+It isn't worth my time.
+[->][13 0, 305612]You agree, don't you, [Flynn]?
+[END]
+9: ”Quite so.”
+”It does bear consideration.”
+[END]
+10: (Walter) [7a 4][7b 131076, 65537][13 0, 305613]God or not, he scorns humans too much.
+[->][13 0, 305614]I'll destroy his will along with this
+abomination!
+[END]
+11: (Jonathan) [7a 3][7b 786435, 65537][13 0, 305615]Yes... It does bear consideration.
+If this is God's will, then Pluto
+must be here for a reason.
+[->][13 0, 305616]However, at the moment, we have been
+given a task to fulfill.
+[->][7b 131075, 65537][13 0, 305617]We must overthrow Pluto and save the
+people of this Tokyo!
+[END]
+12: (Pluto) [7a 0][13 0, 305618]I AM A TOOL OF THE LORD...
+DESTROYING ME IS BLASPHEMY.
+[->][13 0, 305619]REVISE. REVISE.
+REPAIR MY FUNCTIONS...
+[END]
+13: (Walter) [7a 4][13 0, 305620]Sorry, but I think not.
+[END]
+14: (Jonathan) [7a 3][13 0, 305621]We are not very knowledgeable about
+mechanics, after all.
+[END]
+15: (Pluto) [7a 0][13 0, 305622]I AM... A TOOL OF THE LORD...
+DESTROYING... ME... IS... BLASPHEMY...
+[->][13 0, 305623]DIE...
+DIE...
+[->][13 0, 305624]DDDDIIIIEEEE...
+[END]

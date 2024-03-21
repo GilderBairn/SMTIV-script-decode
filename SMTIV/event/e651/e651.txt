@@ -1,0 +1,86 @@
+0: (Furtive man) [7a 31][13 1, 403002]Let me explain the details of this
+request to you.
+[->]I'm not going to name any names.
+I'm sure you understand.
+[->]A lot of us are worried about the
+future right now. We were thinking
+about getting some magic weapons.
+[->]As you probably already know, the
+gap between the Luxurors and
+Casualries has been closed.
+[->]It's almost as if this world is
+slowly progressing towards a utopia
+for us.
+[->]...But is this truly going to become
+a utopia? Is this what equality truly
+means?
+[->]I feel that all that has happened
+is that we have brought everyone down
+to the level of the former Casualries.
+[->]I believe that we must prepare for
+the day we have the power to pierce
+through to the sun shining above us!
+[->]I want you to lend us your strength.
+Would you help us in our search for
+weaponry?
+[END]
+1: ”Yes.”
+”No.”
+[END]
+2: (Furtive man) [7a 31][13 1, 403033]So you'll do it for us!?
+[->]We're specifically trying to find
+ancient weapons known as ”guns.”
+[->]I've only read about them in books,
+but apparently these weapons were
+completely ground−breaking.
+[->]I'd prefer to get some of the larger
+ones. If you can, try to find us some
+guns known as [Color:0x5]bazookas.[Color:0x0]
+[->]Why don't you try searching for them
+in a military facility? I mean, they
+are powerful weapons.
+[->]I'm counting on you.
+[END]
+3: (Furtive man) [7a 31][13 1, 403012]Why don't you understand? At the
+rate things are going, our future
+holds nothing but disaster...!
+[->]...I don't intend to force you into
+this. We will wait for you to change
+your mind on your own.
+[END]
+4: (Furtive man) [7a 31][13 1, 403002]It looks like you brought me the
+weapons.
+[->]Did you find the bazookas?
+[->]So you really did it...
+[END]
+5: (Furtive man) [7a 31][13 1, 403043]The goods have been delivered.
+...Don't look so worried.
+[->]We don't want to use these to trigger
+a war.
+[->]These are only to be used to protect
+people's lives. You have my word.
+[->][13 1, 403033]...It's unlikely that our paths will
+ever cross again, but you have my
+thanks.
+[END]
+6: 〉 The man leaves...
+[END]
+7: (Furtive man) [7a 31][13 1, 403042]What's wrong? You haven't found the
+weapons yet?
+[->]Please, tell me once you've found
+the weapons I'm looking for.
+[->]Why don't you try searching for them
+in a military facility? I mean, they
+are powerful weapons.
+[END]
+8: (Furtive man) [7a 31]Did you bring me the weapons?
+[END]
+9: (Furtive man) [7a 31]I'll keep asking as many times as I
+need to. Will you help us search for
+weapons?
+[END]
+100: (Burroughs) [7a 2][13 1, 502043]I'll register that as a new quest
+on the list.
+[END]
+900: 〉 There is nobody here...
+[END]

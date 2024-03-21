@@ -1,0 +1,43 @@
+0: (Accented manager) [7a 111][13 1, 405424]...Wait a sec.
+[->]You must be here for that thing, but I'm
+sorry. We've got reasons why you can't
+have any.
+[END]
+1: (Accented manager) [7a 111]We don't accept any complaints, either.
+So I'll have to ask you to leave.
+[END]
+2: (Demon) [7a 65113][13 1, 412103]You still insist on staying human here
+in Shibuya? The birthplace of fashion?
+[->]C'mon, eat a Red already and take that
+step toward becoming a demon.
+[END]
+3: (Demon) [7a 65067][13 1, 411001]Reds don't just fill your belly. It's
+that... What's it called? Intellectual
+curiosity, yeah?
+[->]You sense the troubles and joys of
+humans, too. It's like slipping into
+another world.
+[->]It's a kick for us since we live off
+reason. Once you get hooked, you can't
+eat just one.
+[END]
+4: (Demon) [7a 65066][13 1, 419100]Looks like my demands helped. Tayama's
+finally making a move about the Reds.
+[->]He's going to send in a skilled human
+to take care of that demon.
+[->]Not that I care what he does as long as
+he keeps the Reds coming. If he doesn't,
+the humans underground look tempting...
+[END]
+5: (Demon) [7a 65066][13 1, 419100]Looks like my demands helped. Some more
+Reds have finally come in.
+[->]I guess that skilled human did his job.
+[->]I should get going to Club Milton or
+my share of the Reds will be gone!
+[END]
+102: 〉 No one is here...
+[END]
+103: 〉 No one is here...
+[END]
+105: 〉 No one is here...
+[END]

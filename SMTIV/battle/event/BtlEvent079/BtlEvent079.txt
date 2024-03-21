@@ -1,0 +1,163 @@
+0: (Demon Lord Lucifer) [7a 0][13 0, 307900]I am the radiant morning star which
+lights the way to the sons of man.
+[->][13 0, 307901]Come. I shall grant your yearning
+desire for battle...
+[END]
+1: (Demon Lord Lucifer) [7a 0][13 0, 307929]Hnngh...!
+[->][13 0, 307930]To think that a son of man who
+draws strength from neither God nor
+demons could show such power...
+[END]
+2: (Burroughs) [7a 0][13 0, 307931]Humans really are mysterious.
+[->][13 0, 307932]They're like gods who can give others
+hope or despair.
+[END]
+3: (Demon Lord Lucifer) [7a 0][13 0, 307933]This cannot be... My paradise... has
+been brought low... by a mere son of
+man...?
+[END]
+4: (Demon Lord Lucifer) [7a 0][13 0, 307934]The sons of man... are not strong
+enough... to live while repressing...
+their desires...
+[->][13 0, 307935]There will come another... who yearns
+for us... be sure of that...
+[->][13 0, 307936]I shall see you again... when that
+time comes...
+[END]
+1000: (Demon Lord Lucifer) [7a 0][13 0, 307503]I put it to you, who have defeated
+countless demons and would challenge
+I, the Demon Lord...
+[->][13 0, 307504]For whom are you fighting this
+relentless, dreadful battle?
+[END]
+1001: ”For the people of Tokyo.”
+”For my old friend.”
+”For myself.”
+”.........”
+[END]
+1002: (Demon Lord Lucifer) [7a 0][13 0, 307904]So you are the star of hope for the
+people of Tokyo. I admire your spirit.
+[->][13 0, 307905]But is it not reasonable that hope be
+tested and shattered if found wanting?
+[->][13 0, 307906]Try and keep your hope alive without
+yielding to my might.
+[END]
+1003: 〉 [Flynn] is filled with a powerful
+resolve...
+[END]
+1004: 〉 [Flynn] recovered!
+[END]
+1005: (Demon Lord Lucifer) [7a 0][13 0, 307907]Your one−time friend, Walter, has been
+accepted into our legion of chaos.
+[->][13 0, 307908]'Tis because he expressed his desire
+without feigning ignorance of it.
+[->][13 0, 307909]His resolve differs from yours in
+every way; you could not even commit
+to one value or another.
+[->][13 0, 307910]You must part with such sentimentality,
+weak one...
+[END]
+1006: 〉 Lucifer's argument cuts [Flynn]
+down to the very soul...
+[END]
+1007: 〉 All of [Flynn]'s stats have
+greatly decreased!
+[END]
+1008: (Demon Lord Lucifer) [7a 0][13 0, 307911]Though you have given hope to the sons
+of man, you fight only for yourself?
+[->][13 0, 307912]Then this hope will fade. And despair
+will follow on its heels...
+[END]
+1009: 〉 [Flynn] was overwhelmed by
+Lucifer's murderous determination...
+[END]
+1010: 〉 Lucifer takes this opportunity to
+take action!
+[END]
+1011: (Demon Lord Lucifer) [7a 0][13 0, 307913]Hope without purpose is nothing but
+an empty display.
+[->][13 0, 307914]I will crush preening warriors such
+as you with a single strike.
+[END]
+1012: 〉 Lucifer's overflowing spirit of
+battle eats away at [Flynn]...
+[END]
+1013: 〉 [Flynn]'s defense has greatly
+decreased!
+[END]
+1014: (Demon Lord Lucifer) [7a 0][13 0, 307915]...To think that you would match me
+thus far. Little wonder that you have
+shown hope to the sons of man.
+[->][13 0, 307916]But my light is that of the bright,
+ever−shining morning star.
+[->][13 0, 307917]I shall demonstrate why it is that
+you can never surpass me.
+[END]
+1015: 〉 Lucifer gives [Flynn] an evil, cruel
+stare...
+[END]
+1016: Glare back intensely
+Stare back calmly
+Quietly close your eyes
+Silently look away
+[END]
+1017: 〉 [Flynn] glares back at Lucifer
+with astonishing intensity...
+[END]
+1018: (Demon Lord Lucifer) [7a 0][13 0, 307918]As I have said, your nature is far
+removed from the essence of power.
+[->][13 0, 307919]Fierce though your gaze may be, you
+cannot exceed the limits of a son
+of man.
+[->][13 0, 307920]My power shall easily overwhelm you.
+[END]
+1019: 〉 [Flynn] is tormented by Lucifer's
+gaze...
+[END]
+1020: 〉 [Flynn] returns Lucifer's glare
+with a calm, silent stare...
+[END]
+1021: (Demon Lord Lucifer) [7a 0][13 0, 307921]Then do you accept the presence of
+demons? Would you go so far as to
+subsume them?
+[->][13 0, 307922]Will you control those who follow the
+sons of man as shadows, with your
+hopes and dreams?
+[->][13 0, 307923]So that is the power the sons of man
+hold... where your faith lies...
+[END]
+1022: 〉 [Flynn] awakens to an unlimited
+power...
+[END]
+1023: 〉 All of [Flynn]'s stats have
+increased greatly!
+[END]
+1024: 〉 [Flynn] recovered!
+[END]
+1025: 〉 [Flynn] quietly closes his
+eyes...
+[END]
+1026: (Demon Lord Lucifer) [7a 0][13 0, 307924]Are you trying to keep from being
+swallowed by my might? What a shallow,
+trifling means of resistance.
+[->][13 0, 307925]The folly of closing one's eyes before
+an enemy...
+[->][13 0, 307926]You shall learn a lesson in pain of
+what that means in the halls of power.
+[END]
+1027: 〉 Lucifer suddenly attacks!
+[END]
+1028: 〉 [Flynn] silently looks away...
+[END]
+1029: (Demon Lord Lucifer) [7a 0][13 0, 307527]Locking gazes is a kind of battle
+as well. Those who avert their eyes
+are as good as vanquished.
+[->][13 0, 307528]Be tormented by your impotence in
+defeat!
+[END]
+1030: 〉 Lucifer has branded [Flynn] with
+the stigma of powerlessness...
+[END]
+1031: 〉 [Flynn]'s attack power has decreased
+to its minimum!
+[END]

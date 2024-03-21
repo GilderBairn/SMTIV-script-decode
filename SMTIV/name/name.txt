@@ -1,0 +1,18 @@
+0: 〉 Enter a name.
+[END]
+1: Is ”[Quest? 50]” correct?
+[END]
+2: Yes
+No
+[->][END]
+3: 〉 What will you do?
+[END]
+4: Cancel entering name
+Continue entering name
+Return to default name
+[->][END]
+5: Continue entering name
+Return to default name
+[->][END]
+6: 〉 That name cannot be used.
+[END]

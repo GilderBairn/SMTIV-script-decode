@@ -1,0 +1,86 @@
+0: (K) [7a 22][13 0, 60001]Ah, welcome.
+[->][13 0, 60002]...I've received the quest from that
+Hugo.
+[->][13 0, 60003]This blackboard was meant to give
+Samurai a bit of fun...
+[->][13 0, 60004]Yet he's gone and defaced it with this
+official business. Seems there's naught
+the Monastery won't try to control.
+[END]
+6: 〉 Walter, Jonathan, and Isabeau are
+standing in front of the blackboard.
+[END]
+7: (Walter) [7a 4][7b 786436, 65537][7b 65541, 131073][13 0, 60005]Ah, you're here. Isabeau was just
+telling us something interesting.
+[END]
+8: (Isabeau) [7a 5][7b 65541, 196609][7b 786436, 65537][13 0, 60006]Something I heard from the other master
+Samurai... They say the Monastery's
+request has a hidden motive to it.
+[END]
+9: (Jonathan) [7a 3][13 0, 60008]Relics akin to Gauntlets...
+[->][13 0, 60009]They are extraordinarily valuable
+finds which cannot be created by
+our artisans' skill.
+[END]
+10: (Isabeau) [7a 5][7b 65541, 196609][13 0, 60010]The Monastery has never been public
+about their desire, but they have
+always been researching these relics.
+[->][7b 655365, 65537][13 0, 60011]They would move heaven and earth to
+get their hands on one.
+[END]
+11: (Jonathan) [7a 3][7b 786435, 131073][7b 655365, 131073][13 0, 60012]Thus, the hunt for the Black Samurai−−
+it is a veil that allows them to order
+us to break our code.
+[END]
+12: (Walter) [7a 4][13 0, 60013]Hence the lengths they went to,
+issuing the quest and providing such
+a generous reward...
+[END]
+13: (Isabeau) [7a 5][7b 65541, 196609][13 0, 60014]The Black Samurai's emergence may in
+truth be cause for celebration at the
+Monastery.
+[->][13 0, 60015]Even some of the masters say so.
+[END]
+14: (Walter) [7a 4][13 0, 60016]Hoy, [Flynn]. Do you think that
+we should go through with the
+Monastery's quest?
+[END]
+15: ”We should.”
+”It is unseemly.”
+[END]
+16: (Jonathan) [7a 3][7b 262147, 65537][13 0, 60017]I, too, think it best.
+[END]
+17: (Jonathan) [7a 3][7b 196611, 65537][13 0, 60019]I, too, had my doubts at first.
+But then again...
+[END]
+18: (Walter) [7a 4][7b 786436, 65537][7b 655365, 131073][13 0, 60021]The code is all well and good, but
+I'm in this for the fun of it.
+[END]
+19: (Isabeau) [7a 5][7b 65541, 131073][13 0, 60022]If you all are going, then I may as
+well accompany you.
+[END]
+20: (Walter) [7a 4][7b 262148, 65537][13 0, 60023]Very good. Let's register the quest
+on our Gauntlets.
+[END]
+21: 〉 [Flynn] and his fellow Samurai
+raised their Gauntlets to the blackboard.
+[END]
+22: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+23: 〉 Walter, Jonathan, and Isabeau are now
+traveling with you.
+[END]
+108: (Isabeau) [7a 5][13 0, 60007]Some whisper that there are mystic
+relics buried in the Unclean Ones'
+country.
+[END]
+116: (Jonathan) [7a 3][7b 786435, 131073][13 0, 60018]If it's for the good of the people,
+we haven't really a choice.
+[END]
+117: (Jonathan) [7a 3][7b 786435, 131073][13 0, 60020]If it's for the good of the people,
+we haven't really a choice.
+[END]
+900: (Burroughs) [7a 2][13 1, 400005]Wait a second. You already have
+another quest active
+[END]

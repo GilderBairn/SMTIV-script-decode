@@ -1,0 +1,46 @@
+0: (Man's voice) [7a 2][13 0, 285001]Whoa, whoa, whoaaa! Hold it right there!
+[END]
+1: 〉 A man suddenly rushes towards you and
+blocks your passage.
+[END]
+2: (Intuitive man) [7a 118][13 0, 285002]Whew... Sorry kid, but I'm not gonna
+let you go any further.
+[->][13 0, 285003]Folks call me the Terminal Guardian.
+I'm a tried and true veteran who's been
+on the job for over twenty years.
+[END]
+3: (Intuitive man) [7a 118][13 0, 285004]Huh...? You're that kid from before!
+You're gonna pay for last time...
+[->][13 0, 285005]Well, never mind that, though! My
+guardian's intuition came into play.
+[END]
+4: (Intuitive man) [7a 118][13 0, 285006]So, it was you... That was a close one.
+I'll skip the introduction this time.
+[->][13 0, 285007]After all, surely you know... If I'm
+here, a Terminal's not far off!
+[END]
+5: (Intuitive man) [7a 118][13 0, 285008]You're my sworn enemy... You've really
+done a number on the Terminals in
+Tokyo!
+[->][13 0, 285009]I've bounced from job to job, trying
+to feed my family...
+[->][13 0, 285010]But my keenly−honed intuition told
+me what's here!
+[END]
+6: (Intuitive man) [7a 118][13 0, 285012]If there's a Terminal behind me, then
+I'll kill anyone who gets near it!
+[END]
+7: 〉 The Domain lifted...
+[END]
+8: (Burroughs) [7a 2][13 1, 400063]Looks like the quest is going well.
+[END]
+9: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+10: (Burroughs) [7a 2][13 0, 74005]This seems to be a type of Terminal
+too. The activation program ran
+normally, anyway.
+[->][13 1, 405718]This is the Purgatorium Terminal.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]

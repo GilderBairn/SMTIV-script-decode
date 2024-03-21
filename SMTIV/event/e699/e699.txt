@@ -1,0 +1,74 @@
+0: (Aniel) [7a 65519][13 0, 699000]Ah, my thanks for coming. It would
+seem that you have accepted the quest
+in question.
+[->][13 0, 699001]I shall call for Sister Gabby.
+Please wait a moment.
+[END]
+1: (Gabby) [7a 11][13 0, 699002]So, you have accepted our task,
+honorable warrior of light.
+[END]
+2: 〉 Gabby leaves quietly...
+[END]
+3: (Aniel) [7a 65519][13 1, 465003]Honorable warrior of light. Thou hath
+already received Sister Gabby's
+request, correct?
+[->]Hurry and slay Mastema, who can be
+found in Tokyo. This should be no
+problem for one of your strength.
+[END]
+4: 〉 You sense a presence nearby...
+[END]
+5: (Voice) [7a 1][13 0, 699009]...Oh, it's you.
+[END]
+6: (Mastema) [7a 0][13 0, 699010]There is no need to say anything.
+I know exactly why you are here.
+[->][13 0, 699011]Even so... I never expected that my
+comrade would be the one to try to
+crush me.
+[END]
+7: (Mastema) [7a 65520]Gah...
+Oh... Almighty Lord...
+[->]Why...? Am I not the one who was most
+faithful to your... will...?
+[->]Curse you... Gabriel...
+Gah...
+[END]
+8: (Gabby) [7a 11][13 0, 699013]Mastema's presence has been removed.
+I thank the Lord for your safe return.
+[->][13 0, 699014]I have sent an angel to you as a
+messenger. This angel shall give you
+a blessing.
+[->][13 0, 699015]Please continue to wield your holy
+powers as a warrior of light.
+[END]
+9: (Aniel) [7a 65519][13 0, 699016]Honorable warrior of light. Slaying
+Mastema was a job well done.
+[->][13 0, 699017]Sister Gabby has sent me to deliver
+this reward to you. Accept it.
+[END]
+10: (Mastema) [7a 0][13 0, 699012]...You shall not interfere with my
+plan. I will obliterate you.
+[END]
+11: 〉 Mastema disappears...
+[END]
+12: (Gabby) [7a 11][13 0, 699003]I have taken the form of Gabby to make
+this request, so I shall keep it while
+speaking to you.
+[->][13 0, 699004]The Great Raven that I would like
+slain is the Herald Mastema.
+[->][13 0, 699005]He has fortified Midtown as his base
+of activity, and has continued to act
+on his own.
+[->][13 0, 699006]We, the four Archangels, have come to
+the conclusion that his actions are
+extremely dangerous.
+[->][13 0, 699007]We ask you to slay Mastema and rid us
+of this impending threat.
+[->][13 0, 699008]This is something that only you can
+do. We are counting on you.
+[END]
+13: 〉 After giving you your reward,
+Aniel leaves...
+[END]
+900: 〉 There is no one here...
+[END]

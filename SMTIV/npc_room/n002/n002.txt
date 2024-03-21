@@ -1,0 +1,184 @@
+0: (Quiet man) [7a 45][13 1, 403603]Ah, are you lost? This is a residential
+area for we Luxurors.
+[->]Of all the lands of the Eastern Kingdom
+of Mikado, we Luxurors only live inside
+this castle.
+[->]I won't forbid you to come here exactly,
+but... I would certainly prefer you to
+keep to the town's unwritten rules.
+[END]
+1: (Quiet man) [7a 45][13 1, 403641]I hear tell that there is a stranger
+making appearances in the Casualry
+District...
+[->]No matter. So long as this stranger
+doesn't disturb the peace and keeps clear
+of our district, I don't mind at all.
+[END]
+2: (Quiet man) [7a 45][13 1, 403642]I hear tell that the Black Samurai was
+making regular visits to the Casualry
+district...
+[->]No matter. So long as this stranger
+doesn't disturb the peace and keeps clear
+of our district, I don't mind at all.
+[END]
+3: (Quiet man) [7a 45][13 1, 403641]The public execution had quite a sense
+of occasion to it. It's something I'll
+be telling my grandchildren about.
+[END]
+4: (Quiet man) [7a 45][13 1, 403601]The town is abuzz regarding our new
+leader. I can feel our kingdom uniting
+as one. I sense it in my pores...
+[->]It's a feeling that's impossible to put
+into words. I must repent of my sins
+now...
+[->]Our beloved leader has given us such a
+sense of fulfillment... Whatever she
+wishes, I shall carry out!
+[END]
+5: (Quiet man) [7a 45][13 1, 403622]There were some former Luxurors who
+took issue with the new leader's orders.
+[->]So I've requested the Blessed Samurai
+to execute them.
+[->]'Tis such joy to know that I have done
+my part for the new millennium of this
+kingdom...!
+[END]
+6: (Quiet man) [7a 45][13 1, 403621]There were some former Luxurors who
+took issue with the new leader's orders.
+[->]So I've requested the Blessed Samurai
+to execute them.
+[->]My deeds have robbed them of their
+future... They, too, were privileged
+to join us in the new land...
+[END]
+7: (Loud woman) [7a 41][13 1, 403701]There haven't been any new Samurai for
+years now.
+[->]I wonder if the Gauntlets will accept
+anyone this year...
+[END]
+8: (Loud woman) [7a 41][13 1, 403702]My elderly maid heard an interesting
+thing from the baker when she was out
+buying bread...
+[->]It seems there's a person calling himself
+the Black Samurai? Is he related to
+your sort?
+[END]
+9: (Loud woman) [7a 41][13 1, 403721]My elderly maid said that when she
+passes by the Casualry district...
+[->]She overhears people saying the nastiest
+things about we Luxurors. I believe she
+must have misheard... but...
+[END]
+10: (Loud woman) [7a 41][13 1, 403722]The Casualries who attended the public
+execution will finally see the truth...
+[->]Yes, all the negativity of late stemmed
+from that Black Samurai. All of it!
+[->]No one can blame the Luxurors−−after
+all, we are God's chosen!
+[END]
+11: (Loud woman) [7a 41][13 1, 403723]There'll be no Casualries nor Luxurors
+any longer.
+[->]I am only an ordinary subject of the
+Eastern Kingdom of Mikado now. So said
+our new leader to me.
+[END]
+12: (Slant−eyed man) [7a 40][13 1, 403601]Is this your first time in the castle
+town? You're here for the Rite, aren't
+you...?
+[->]It's Aquila Statue Plaza where you
+want to be. You can feel the kingdom's
+rich history all around you there.
+[END]
+13: (Slant−eyed man) [7a 40][13 1, 403621]I hear that more and more of the
+Casualries are becoming interested
+in that Literature.
+[->]I've never heard of the Monastery
+encouraging the Casualries to read...
+But what matter is it to me?
+[END]
+14: (Slant−eyed man) [7a 40][13 1, 403612]I hear that there's a growing interest
+in these ”Sabbath” gatherings among
+the Casualries.
+[->]I've never heard of the Monastery
+encouraging the Casualries to hold
+convocations... Not that I care much.
+[END]
+15: (Slant−eyed man) [7a 40][13 1, 403621]Since those Casualries wouldn't cease
+their babbling about the Sabbaths...
+[->]I snuck into a Sabbath held in Corto,
+disguised as a Casualry.
+[->]What I heard there was a torrent of foul
+talk about our kingdom! What cheek!
+I must report this to the Monastery...
+[END]
+16: (Slant−eyed man) [7a 40][13 1, 403603]I hear that the kingdom will not require
+Luxurors for the coming millennium...
+[->]Then in what way can I contribute...?
+I−I don't know... what can I do?
+[->]I don't know how to cultivate a field
+or raise a sow... I'm coming to realize
+that I'm quite useless indeed...
+[END]
+102: (Quiet man) [7a 45][13 1, 403642]So, that Black Samurai frequented the
+Casualry district, eh?
+[->]No matter. So long as this stranger
+doesn't disturb the peace and keeps clear
+of our district, I don't mind at all.
+[END]
+105: (Quiet man) [7a 45][13 1, 403622]Wh−What's happening!? I−I've just seen
+some sort of animal completely unknown
+to me...
+[->]It ate a woman...! And worse, it's
+happening everywhere in town!
+[->]But our God has not abandoned us! The
+Blessed Samurai are here for us...!
+[->]The Eastern Kingdom of Mikado is in
+great peril! Y−You must save us at
+once! Hurry!
+[END]
+109: (Loud woman) [7a 41][13 1, 403721]I hear that the Casualries will be
+permitted to view the execution.
+[->]In view of the Casualries' recent
+misunderstandings regarding the
+Luxurors...
+[->]I think that this was a wise decision
+on the Monastery's part. It will clear
+the air between us.
+[END]
+110: (Loud woman) [7a 41][13 1, 403722]That Black Samurai was executed, yes?
+I saw it with my own eyes.
+[->]But Mikado Castle seems to be in a state
+of panic... Whatever is going on...?
+[END]
+111: (Loud woman) [7a 41][13 1, 403743]There'll be no Casualries nor Luxurors
+in this kingdom any longer.
+[->]All of those still living in this land
+are chosen by God. So said our new
+leader to us.
+[END]
+114: (Slant−eyed man) [7a 40][13 1, 403612]Those Sabbath gatherings the Casualries
+favored so are now banned.
+[->]What did they expect? The Casualries
+were not put on this earth to discuss
+and debate. Their role is to work!
+[END]
+202: (Quiet man) [7a 45][13 1, 403642]I hear tell that the Black Samurai will
+be publicly executed in the Obelisk Plaza
+this day.
+[->]Most of the Casualries will be in
+attendance... 'Tis an unpredecented
+event in our kingdom, I must say.
+[END]
+211: (Loud woman) [7a 41][13 1, 403743]There'll be no Casualries nor Luxurors
+in this kingdom any longer.
+[->]Those still living in this land are the
+ones who'll make their own decisions.
+So said that young Samurai girl to us.
+[END]
+214: (Slant−eyed man) [7a 40][13 1, 403612]I have heard that the Black Samurai gave
+the Casualries the idea for the Sabbaths,
+just as she did with that Literature.
+[->]Do you know what the worst thing in
+this world is? Evil deeds born of good
+intentions.
+[END]

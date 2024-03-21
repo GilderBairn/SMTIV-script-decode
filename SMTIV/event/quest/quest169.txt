@@ -1,0 +1,15 @@
+0: Because of the demon Pluto, Tokyo is filled
+with poison, and we're running out of medical
+supplies. If you have [Color:0x5][Amount 1][Color:0x0] [Color:0x5][Item 1][Color:0x0]s and
+[Color:0x5][Amount 2][Color:0x0] [Color:0x5][Item 2][Color:0x0]s, can you give them to us?
+Please, there are many people in great need
+of this medicine.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

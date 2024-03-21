@@ -1,0 +1,68 @@
+0: (Burroughs) [7a 2][13 0, 11001]Be careful, Master. 
+I'm detecting a demon ahead.
+[END]
+1: (Burroughs) [7a 2][13 0, 11002]Do you need me to explain about demons?
+[END]
+2: Yes
+No
+[END]
+3: (Burroughs) [7a 2][13 1, 400053]Okay. We'll skip over that.
+[END]
+4: If you touch an enemy on the field,
+you will enter battle against it.
+[->]If you can strike the enemy with the
+X Button before it touches you...
+[->]You can begin the battle with a
+preemptive attack.
+[->]However, certain important battles will
+not let you gain a preemptive strike.
+[END]
+5: (Burroughs) [7a 2][13 1, 400055]Did you get all that?
+[END]
+6: ”I understand.”
+”Tell me once more.”
+[END]
+7: (Burroughs) [7a 2][13 1, 400056]All right. I'll display the
+information once more.
+[END]
+8: (Burroughs) [7a 2][13 0, 11006]...Oh.
+[END]
+9: (Burroughs) [7a 2][13 0, 11007]I'm sorry, Master, but I completely
+forgot.
+[->][13 0, 11008]Master Hope mentioned an important
+detail of this training exercise...
+[END]
+10: (Burroughs) [7a 2][13 0, 11009]I'll register this as a quest to
+”Defeat a demon.”
+[END]
+11: (Burroughs) [7a 2][13 0, 11010]Would you like me to provide an
+explanation of quests?
+[END]
+12: Yes
+No
+[END]
+13: (Burroughs) [7a 2][13 1, 400053]Okay. We'll skip over that.
+[END]
+14: The [Color:0x5]Quest[Color:0x0] icon has been added to the
+menu on the lower screen. You can now
+see the details of your quests there.
+[->]Burroughs will automatically register
+important objectives there.
+[->]By completing these quests, the story
+will unfold.
+[END]
+15: (Burroughs) [7a 2][13 1, 400055]Did you get all that?
+[END]
+16: ”I understand.”
+”Tell me once more.”
+[END]
+17: (Burroughs) [7a 2][13 1, 400056]All right. I'll display the
+information once more.
+[END]
+18: (Burroughs) [7a 2][13 1, 400057]Until next time, Master [Flynn].
+[END]
+19: (Burroughs) [7a 2][13 0, 11015]Wait a sec, Master [Flynn].
+There's a demon nearby.
+[->][13 0, 11016]This is your chance to complete the
+quest. It'd be a shame to leave.
+[END]

@@ -1,0 +1,29 @@
+0: (Female voice) Oh ho... I see you've come this far
+with the flame intact.
+[END]
+1: 〉 A woman from the Ring of Gaea stands
+in your way...
+[END]
+2: (Ring of Gaea woman) [7a 54]The main temple you're looking for is
+right in front of you.
+[->]But if you want to pass... you must
+prove your strength to me.
+[END]
+3: (Ring of Gaea woman) [7a 54]Are you ready?
+[END]
+4: ”Let us begin.”
+”Not as yet...”
+[END]
+5: (Ring of Gaea woman) [7a 54]Then I will summon my strongest demon.
+Fight for your life...!
+[END]
+6: (Ring of Gaea woman) [7a 54]...Then leave.
+[END]
+7: (Ring of Gaea woman) [7a 54]...You're back?
+[END]
+8: (Ring of Gaea woman) [7a 54]That makes four of you...
+[->]Samurai from the Firmament... It seems
+you are a force to be reckoned with.
+[END]
+9: (Ring of Gaea woman) [7a 54]Now proceed.
+[END]

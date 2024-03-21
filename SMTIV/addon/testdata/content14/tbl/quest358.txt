@@ -1,0 +1,9 @@
+0: [Color:0x5]In a world consumed by wastelands and death...[Color:0x0]
+A small hope for freedom has begun to blossom,
+but a greater force seeking tyrannical order
+is reaching out to trample it. We shall send
+you to the [Color:0x5]future[Color:0x0] of this land, and show you
+a world where sorrows can never be healed.
+[END]
+1: Download Quest 1 Second time
+[END]

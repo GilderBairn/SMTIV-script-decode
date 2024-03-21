@@ -1,0 +1,15 @@
+0: I would like to ask a child of man to slay a
+certain being for me. Its name is [Color:0x5][Demon name 1],[Color:0x0]
+an entity that broke away from God to become
+the ruler of the silent world. I will use my
+powers to link the [Color:0x5]Sky Tower[Color:0x0] to its home
+dimension temporarily. Please come to my aid.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

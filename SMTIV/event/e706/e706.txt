@@ -1,0 +1,41 @@
+0: 〉 The area around you is slowly being
+warped. You sense a foul presence in
+the air...
+[END]
+1: 〉 A very powerful being is about to
+tear itself into this dimension.
+[END]
+2: 〉 Demiurge has disappeared.
+The space warping has stopped, and
+everything has returned to normal.
+[END]
+3: (Demon Lord Lucifer) [7a 65056][13 0, 706000]...Well done, [Flynn]. 
+[->][13 0, 706001]It would seem that the only child of
+man capable of carrying out my
+requests is you.
+[->][13 0, 706002]Now that you have defeated this demon,
+your spiritual powers should have
+risen substantially.
+[->][13 0, 706003]But that was a mere Godly Spirit,
+only pretending to be the Creator.
+[->][13 0, 706004]The true enemy that we seek to defeat
+will be far superior.
+[->][13 0, 706005]Let us go, to regain the true light...
+[END]
+4: (Demiurge) [7a 0][13 0, 351501]So, you have forced my materializing,
+in the hopes of defeating me.
+[->][13 0, 351502]Not only that, but you have beguiled
+one of my creations and mean to use
+him against me.
+[->][13 0, 351503]Still relying on your cheap tricks,
+Lucifer?
+[->][13 0, 351504]Very well. I shall bring the lightning
+of punishment down on the symbols of
+evil, demons, and mankind.
+[END]
+5: (Demiurge) [7a 0][13 0, 351505]I shall slay you, just as I have all
+the others that strayed from the path
+of justice!
+[END]
+900: 〉 There is no one here...
+[END]

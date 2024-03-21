@@ -1,0 +1,153 @@
+0: (Isis) [7a 65161][13 1, 418004]Thank you for coming, [Flynn].
+It pleases me to meet you again.
+[->]I had faith that you would once again
+come to my aid in my hour of need.
+[->]My current situation is related to
+your retrieving the coffin of my
+husband, Osiris.
+[->]Thanks to you, I was able to make
+the necessary preparations for his
+resurrection.
+[->][13 1, 418006]However, Seth caught wind of my goal,
+and attacked us once again.
+[->]This time, he has dismembered the
+body of my husband, and scattered the
+parts in different areas of Tokyo...
+[->]As you can probably guess, I ask of
+you to collect the pieces of Osiris'
+body and bring them back to me.
+[->]I am sorry that I must always ask
+you to undertake these troublesome
+tasks...
+[->]Please, help my bring back my
+husband.
+[END]
+1: (Isis) [7a 65161][13 1, 418003]Once you have collected all of the
+body parts, please bring them back
+to me.
+[->]The continual sacrilege to Osiris'
+body is causing his anger to build.
+[->]At this rate, there may be some
+negative effects in the areas where
+the parts of his body are hidden.
+[->]I am counting on you.
+[END]
+2: (Isis) [7a 65161][13 1, 418004]Could it be... Have you found all of
+my husband's body?
+[END]
+3: 〉 You try to give Osiris' body to
+Isis...
+[END]
+4: (Demon's voice) [7a 65411][13 1, 494205]I will not allow the resurrection of
+Osiris...
+[END]
+5: (Isis) [7a 65161][13 1, 418007]As I expected, Seth was waiting for
+us to collect all the parts...
+[->]But you defeated Seth, [Flynn].
+[->]I am finally able to conduct the
+ritual necessary to resurrect Osiris.
+[->]Now, [Flynn].
+Place Osiris' body here.
+[END]
+6: (Isis) [7a 65161][13 1, 418003]What is the matter? You're being
+quite the tease, you know.
+[->]I suppose I am getting a little too
+worked up from the joy of being able
+to see my husband again.
+[->]Very well. I shall wait a little
+longer.
+[END]
+7: (Isis) [7a 65161][13 1, 418000]Now, [Flynn].
+Place Osiris' body here.
+[END]
+8: (Isis) [7a 65161][13 1, 418001]Thank you. Now I can finally
+resurrect my husband.
+[END]
+9: 〉 Isis places her hand over Osiris'
+body...
+[END]
+10: (Osiris) [7a 0][13 1, 412201]Ah, Isis, my lovely wife, you have
+finally restored me to life.
+[END]
+11: (Isis) [7a 0][13 1, 418002]Yes. And it is all thanks to this
+human... [Flynn].
+[->]He ran all over the place for you,
+and even defeated Seth.
+[END]
+12: (Osiris) [7a 0][13 1, 412200]Is that so? Then you have my thanks,
+[Flynn].
+[->]If I were to not do anything for you
+in return, it would reflect badly on
+my dignity as a king.
+[->]I shall go with you on your journey,
+[Flynn], and aid you.
+[->]Is that all right, Isis?
+[END]
+13: (Isis) [7a 0][13 1, 418003]Very well.
+[->]I shall return to our palace and wait
+for your return.
+[->]I will prepare a banquet to celebrate
+the return of our king.
+[END]
+14: 〉 Isis bows and leaves, looking much
+happier than before...
+[END]
+15: (Osiris) [7a 0][13 1, 412200]A banquet... I will have to look
+forward to it.
+[->]Now then, [Flynn].
+Let us go.
+[END]
+16: (Osiris) [7a 0][13 1, 412203]Just between you and me...
+I'm still missing part of my body.
+[->]I'm hoping that I will be able to
+find it if I remain in this world.
+[->][13 1, 412201]Aha... My wife can never hear of
+this, though. Do you understand?
+[->]Now then...
+[->][13 1, 412210]I am the Deity Osiris, at your
+service.
+[END]
+17: 〉 Osiris has joined you.
+[END]
+18: (Osiris) [7a 0][13 1, 412209]Oh, it seems as though there is not
+enough space for me on your machine.
+[->]Very well, I shall wait here.
+[END]
+19: (Osiris) [7a 0][13 1, 412203]Are you prepared for me to join you?
+[END]
+20: 〉 A demon's voice speaks from
+somewhere...
+[END]
+21: (Osiris) [7a 0][13 1, 412202]Ah, good. It would appear that
+everything is in order.
+[END]
+22: 〉 You give Osiris' body to Isis...
+[END]
+23: 〉 According to the map, this place
+is called the ”Zojoji Temple.”
+[->]〉 It is in ruins, but the air in the
+area is pure and fresh...
+[END]
+24: 〉 You no longer have any business
+here...
+[END]
+25: (Osiris) [7a 0][13 1, 412209]Oh? It seems that a portion of my
+spirit already travels with you.
+[->]In that case, I shall let that portion
+of me do the work of assisting you.
+[->][13 1, 412203]Just between you and me...
+I'm still missing part of my body.
+[->]I'm hoping that I will be able to
+find it if I remain in this world.
+[->][13 1, 412201]Haha... But, I shall let this spirit
+double of mine look for that as well.
+[END]
+800: (Megami Isis) [7a 65161]Is there no one who will help me find
+my husband's body parts, after Seth
+scattered them all about the city?
+[->][END]
+900: 〉 There is no one here...
+[END]
+901: 〉 The goddess Isis stands here.
+She appears to be desperate...
+[END]

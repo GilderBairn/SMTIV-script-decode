@@ -1,0 +1,201 @@
+0: (Patrolling Samurai) [7a 116][13 1, 403042]Today is like any other peaceful day
+in the Eastern Kingdom of Mikado.
+No sign of conflicts or strife.
+[->]There were a few of the usual skirmishes,
+of course, but nothing like what a Samurai
+might face elsewhere.
+[END]
+1: (Patrolling Samurai) [7a 116][13 1, 403042]Hail, fellow prentices. Are you growing
+accustomed to being Samurai?
+[->]You have proven yourselves in the
+”field exercise” and the teachings of
+Sir K. You have done well.
+[->]Seize today to relax and make merry
+like the youths you are.
+[END]
+2: (Patrolling Samurai) [7a 116][13 1, 403042]Dummy Message
+[END]
+3: (Patrolling Samurai) [7a 116][13 1, 403011]I have heard that the Monastery is
+ready to formally declare the reading
+of Literature to be anathema.
+[->]What will I tell the people if they
+ask me why? Shall I be direct and say
+it turns one into a demon...?
+[->]I am not certain how to answer such
+a question...
+[END]
+4: (Patrolling Samurai) [7a 116][13 1, 403042]We've searched the people's homes while
+they attended the public execution...
+[->]Much Literature has been confiscated.
+Though I doubt the people have given
+up their passion for it...
+[END]
+5: (Patrolling Samurai) [7a 116][13 1, 403042]I'll tell you what I have experienced
+of late, but I must preface it by
+insisting that I have not gone mad.
+[->]I had the honor of seeing our new
+leader in a dream... Her inconceivably
+warm voice encouraged me...
+[->]The next day, I found that the people
+had regained their peace, as if they
+had been exorcised...
+[END]
+6: (Patrolling Samurai) [7a 116][13 1, 403042]Today is like any other peaceful day
+in the Eastern Kingdom of Mikado.
+No sign of conflicts or strife.
+[->]Our new leaders have informed us that no
+more Black Samurai shall emerge in
+this kingdom.
+[->]We will at last be rid of the demons
+that tormented our kingdom for so long...
+[END]
+7: (Patrolling Samurai) [7a 116][13 1, 403042]I love my fellow subjects dearly.
+But at the same time, they are the
+seedbeds of the demons...
+[->]Does the Samurai code compel me to
+protect the roots of this evil? I felt
+conflicted over my duties...
+[->]But then I saw Isabeau dashing about,
+desperate to pacify and listen to the
+people.
+[->]I understand now that I needn't
+rationalize it at all. I love both
+the kingdom and its people...
+[END]
+8: (Guiding Samurai) [7a 117][13 1, 403002]Hello. Are you two here for the
+Gauntlet ceremony?
+[->]Then you'll want to go inside Mikado
+Castle and make for the Aquila Statue
+Plaza.
+[END]
+9: (Guiding Samurai) [7a 115][13 1, 403001]Do not be fooled by my clothing.
+I, too, am a Samurai.
+[->]I am conducting a mission incognito,
+you see. You might say I am looking
+for a suspicious person...
+[->]In recent days, the man has seemed to
+enter and exit the castle town quite
+frequently.
+[->]The scuttlebutt is that the man is
+providing something to the Casualries.
+[->]I've been watching from this post since
+morning, though. I suppose he may not
+show his face today...
+[END]
+10: (Guiding Samurai) [7a 117][13 1, 403043]The Black Samurai has been sighted in
+many places around Mikado.
+[->]The first sightings were in Cheoda and
+Setteguye, but she has been seen all
+around the Eastern Kingdom of Mikado.
+[->]I must say, it's hard to believe. How
+can she move so quickly in so short
+a time?
+[END]
+11: (Guiding Samurai) [7a 117][13 1, 403002]The Black Samurai said she would
+live again...
+[->]The subjects who attended the public
+execution spread word of her claim far
+and wide across Mikado.
+[->]In some regions, they are only holding
+more Sabbaths to pray for her revival!
+This turn of events is alarming...
+[END]
+12: (Guiding Samurai) [7a 117][13 1, 403022]In many regions of the kingdom, those
+who supported the Black Samurai or took
+part in Sabbaths have disappeared.
+[->]Perhaps it was God's wrath, as our
+new leader would have it.
+[->]People in this kingdom now fear and
+respect God... it has brought down the
+number of Sabbaths held dramatically.
+[END]
+13: (Guiding Samurai) [7a 117][13 1, 403002]On advice from our new leaders, we are
+conducting a loyalty test in many
+regions across the kingdom.
+[->]We show an image of the Black Samurai
+and see if a subject is willing to
+trample it underfoot.
+[->]This splendid idea will allow us to root
+out what demon forces remain. Soon, our
+kingdom shall be free from their curse.
+[END]
+14: (Guiding Samurai) [7a 117][13 1, 403001]Some of the people, upset that the new
+leaders make no public appearances,
+have started to hold Sabbaths again.
+[->]It has forced me to think about one
+thing I should have considered sooner.
+Why we control the friendly demons...
+[->]After all, humans and demons are but
+two sides of a coin. Perhaps we should
+not be separated...
+[->]It may be better to attempt to live in
+harmony with them. There may be one out
+there testing this point...
+[END]
+15: (Demon) [7a 65225][13 1, 411007]I swear, the people in this country...
+Are they nuts!? C'mon, look at me!
+I'm a frickin' demon, y'know?
+[->]But all they do when they see me is
+scream and whimper God's name. They
+don't even try to run!
+[->]And that ain't no fun at all! The
+thrill of the hunt is in the chase!
+[END]
+16: (Guiding Samurai) [7a 117][13 1, 403002]There are some who are opposed to the
+idea of moving to a new land...
+[->]But all it took was the mention of
+your name to convince them and stop
+their grumbling.
+[->]It crossed my mind at such times that
+God is a necessary evil to keep the
+people in line... 
+[END]
+103: (Patrolling Samurai) [7a 116][13 1, 403011]Even if the Monastery wants to prohibit
+Literature, once people have the taste
+for it, they won't easily give it up.
+[->]I hear that the people pretend to
+normalcy while concealing the books.
+They loan them out to one another...
+[->]We are certain of it, but we haven't
+proof. And I loathe myself for turning
+a suspicious eye on my fellow subjects.
+[END]
+104: (Patrolling Samurai) [7a 116][13 1, 403042]Were I to ask any subject if he had
+read Literature, he would respond:
+[->]”Of course not, master Samurai, Sir!”
+[->]It saddens me... The glorious people,
+chosen by God to be part of our
+kingdom...
+[->]They have learned deceit in order to
+indulge their desires...
+[END]
+107: (Patrolling Samurai) [7a 116][13 1, 403042]We considered bringing the pigs along
+with us to Tokyo...
+[->]But in the end, we had to preserve most
+of them in salt and let the people
+bring them that way.
+[->]They made the ultimate sacrifice for us.
+It reminds us how precarious our
+situation is.
+[->]We must not forget all that. We must
+stay humble in the new world...
+[END]
+110: (Guiding Samurai) [7a 117][13 1, 403043]There were some men who had planned a
+protest movement upon hearing that the
+Black Samurai was to be executed.
+[->]To a man, they turned out to be covert
+supporters of the Black Samurai. We've
+rounded them all up, naturally.
+[->]But no matter how tight a grip we try
+to keep on some things, word of mouth
+always slips through our fingers...
+[END]
+203: (Patrolling Samurai) [7a 116][13 1, 403011]Abbot Hugo has devised a scheme to
+invite the people into Mikado Castle.
+[->]While they attend the public execution,
+the Samurai are under orders to search
+their dwellings.
+[->]Abbot Hugo would have we noble Samurai
+doing the work of common thieves!
+It is preposterous!
+[END]

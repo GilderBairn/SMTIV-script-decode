@@ -1,0 +1,15 @@
+0: I require [Color:0x5]3[Color:0x0] [Color:0x5][Item 1]s[Color:0x0] immediately.
+Our food supply is starting to run low.
+Our only option is to hunt demons and live
+off their meat. I believe you can find some
+[Item 1]s in the [Color:0x5]aboveground[Color:0x0] areas near
+[Color:0x5]Shinjuku.[Color:0x0] I wish you the best of luck.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

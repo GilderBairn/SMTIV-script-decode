@@ -1,0 +1,15 @@
+0: It is I, Abbot Hugo, leader of the Monastery.
+We seek to acquire more relics to further
+develop our nation, but we lack the
+”electricity” to run them. According to
+ancient texts, a relic called a [Color:0x5]wind
+turbine generator[Color:0x0] can create it. Find one.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

@@ -1,0 +1,148 @@
+0: ”Well done, fellow Samurai, in your
+fight against the demons. Rest at the
+barracks and heal the day's wounds.”
+[->]〉 ...So the sign says.
+[END]
+1: ”Praise be to the brave Samurai!
+And let us mourn our comrades who have
+fallen before achieving their goals.”
+[->]〉 ...So the sign says.
+[END]
+2: ”Beware the appearance of demons.”
+...So the sign says.
+[END]
+3: ”Go forth, fellow Samurai.”
+[->]”Those who descend these stairs and
+live to climb them again will be renowned
+as heroes.”
+[->]〉 ...So the sign says.
+[END]
+4: ”Suggestions for prentice Samurai:”
+[->]”One, check your Gauntlet often.”
+[->]”Two, be mindful of your stamina.
+A single strike from a demon may be
+enough to slay.”
+[->]”Three, there is a limit to how many of
+a kind of item you can carry. Use them
+rather than take them to the grave.”
+[->]〉 ...So the sign says.
+[END]
+5: ”Mind what's at your feet.”
+[->]”Some say that new paths have been
+found by doing so.”
+...So the sign says.
+[END]
+6: ”Only Samurai who have obtained this
+door's key have leave to pass through.”
+[->]〉 ...So the sign says.
+[END]
+7: ”Mind what is above you.”
+[->]”Some say that new paths have been
+found by doing so.”
+...So the sign says.
+[END]
+8: ”Beware... Injuries may occur in even
+the most familiar battles.”
+...So the sign says.
+[END]
+9: ”Waste Storage Manager: Hope”
+...So the sign says.
+[END]
+10: ”Paths are meant to be cut open.”
+[->]”If you come across a new wall and find
+yourself lost, training against a wall
+is one idea!”
+[->]”It may even lead to a new path.”
+[->]〉 ...So the sign says.
+[END]
+11: ”Be wary of poison up ahead.”
+...So the sign says.
+[END]
+12: ”A treatment for poison:”
+[->]”Those who find themselves poisoned
+should use a Detox Solution.”
+[->]〉 ...So the sign says.
+[END]
+13: ”Upon finding relics, take them promptly
+to Q's Blacksmith or B's Apothecary.”
+[->]〉 ...So the sign says.
+[END]
+14: ”Beware the hazards of falling.”
+...So the sign says.
+[END]
+15: ”Passage forbidden.”
+[->]”Across this bridge is the forbidden land.
+Obey the code.”
+[->]〉 ...So the sign says.
+[END]
+16: ”Opening the door ahead is strictly
+forbidden.”
+...So the sign says.
+[END]
+17: ”From here on is within the bedrock.”
+...So the mystic script says.
+[END]
+18: ”Smoking in the pit is forbidden.”
+...So the mystic script says.
+[END]
+19: ”There is a danger of encountering
+angels from above on. Do not approach.”
+[->]〉 ...So the mystic script says.
+[END]
+20: ”Look, the ceiling is almost there.
+Do not lose your life over a foolish accident.”
+[->]〉 ...So the mystic script says.
+[END]
+21: ”Don't give up. Recall the blue skies.”
+[->]〉 ...So the mystic script says.
+[END]
+22: ”From here on is below the ceiling.
+Be careful of rockslides. Take care not
+to destroy our future.”
+[->]〉 ...So the mystic script says.
+[END]
+23: ”Always wear a safety harness when
+working in high places.”
+[->]〉 ...So the mystic script says.
+[END]
+24: ”The smallest bit of carelessness can
+cause accidents.”
+[->]〉 ...So the mystic script says.
+[END]
+30: 〉 It's a statue shaped like a human.
+[END]
+31: 〉 It's a statue shaped like a human.
+[END]
+32: 〉 It's a statue shaped like a human.
+[END]
+33: 〉 It's a statue shaped like a human.
+[END]
+50: (Samurai) [13 1, 403042]You're a prentice, no?
+[->]You are unready to be here now. Leave
+at once before you are hurt.
+[END]
+51: (Samurai) [13 1, 403042]You haven't a light with you.
+[->]You are unready to be here now. Leave
+at once before you are hurt.
+[END]
+52: (Samurai) I see that you are working hard,
+prentice from the Casualries.
+[END]
+53: 〉 The door is locked...
+[END]
+54: 〉 Use the Key to Naraku?
+[END]
+55: Use it
+Don't use it
+[END]
+56: 〉 The door is now open.
+[END]
+57: Use [button 1376256] to look down.
+[END]
+58: Use [button 1310720] to look up.
+[END]
+59: Use [button 196608] to open the menu.
+[END]
+60: Some walls can be destroyed by attacking
+them with [button 131072] from a set direction.
+[END]

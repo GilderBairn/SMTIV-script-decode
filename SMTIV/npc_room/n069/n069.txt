@@ -1,0 +1,12 @@
+0: 〉 The people of the Eastern Kingdom of
+Mikado are no longer here...
+[END]
+1: (Dignified Samurai) [7a 116][13 1, 403042]To march off to unknown lands without
+any knowing where we might sleep next...
+[->]It pains me to think of how anxious the
+people whose lives we are uprooting
+must be.
+[->]But K, Abbot Hugo, and our Commander
+will be with us. And more than that...
+[->]You are with us, [Flynn].
+[END]

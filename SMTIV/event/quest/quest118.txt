@@ -1,0 +1,15 @@
+0: Vodyanik are demons that scavenge sunken
+ships for treasure. These Vodyanik have been
+searching the Ameyoko areas in Ueno. Since
+there aren't any sunken ships there, they've
+been coming up on land. Exterminate these
+Vodyanik and [Color:0x5]other pirate hordes[Color:0x0] for a reward!
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

@@ -1,0 +1,26 @@
+0: (Hope) [7a 8][13 0, 58009]All Samurai, this is Hope speaking.
+[->][13 0, 58010]Assemble in Aquila Plaza at once.
+There will be an important announcement.
+[->][13 0, 58011]Once more: assemble in Aquila Plaza
+immediately.
+[END]
+1: (Walter) [7a 4][13 0, 58001]...We meet again.
+[END]
+2: (Walter) [7a 4][13 0, 58002]Have you begun to notice yet? How
+this world is beyond salvation...
+[->][13 0, 58003]Let us wipe the slate clean and create
+a new one together!
+[->][13 0, 58004]Hurry to the underground...
+[END]
+3: (Jonathan) [7a 3][13 0, 58005]You cannot let suspicion fester into
+idle fear.
+[END]
+4: (Jonathan) [7a 3][13 0, 58006]Would you destroy what our forebears
+have wrought over a passing delusion?
+[->][13 0, 58007]We are charged with keeping the peace
+we know today for the children of
+tomorrow.
+[->][13 0, 58008]You musn't go to the underground...
+[END]
+100: 〉 The next day...
+[END]

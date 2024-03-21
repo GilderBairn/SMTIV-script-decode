@@ -1,0 +1,131 @@
+0: (Arrogant man) [7a 24][13 1, 403643]What was this year in the Gregorian
+Calendar...? What year was it...?
+[->]I met my wife for the first time in...
+Ah! It must be 1492 by the Gregorian
+Calendar now...
+[END]
+1: (Arrogant man) [7a 24][13 1, 403611]There seem to be more Casualries now
+who can read the mystic script...
+[->]Take that baker in the castle town.
+He even labels his wares in the script.
+[->]We Luxurors study the script at a young
+age in school, but how and where did
+THEY learn it?
+[END]
+2: (Arrogant man) [7a 24][13 1, 403641]There seem to be more Casualries now
+who can read the mystic script...
+[->]They claim to have mastered it naturally
+by reading Literature written in the
+language.
+[->]But books written in the mystic script
+are extremely hard to come by... Just
+where did they happen upon theirs?
+[END]
+3: (Arrogant man) [7a 24][13 1, 403621]I've heard that the Black Samurai was
+disseminating Literature written in the
+mystic script.
+[->]Just what did she aim to accomplish by
+handing out such precious volumes to
+those ignorant louts?
+[->]Ah well... I've more pressing concerns
+than a fool who was just executed.
+[END]
+4: (Arrogant man) [7a 24][13 1, 403603]Just as our God is one and only...
+We do not need two languages in this
+kingdom.
+[->]I'm ashamed of myself. To think I was
+once so proud to have mastered the
+mystic script...
+[END]
+5: (Gentle woman) [7a 41][13 1, 403731]I was born a Luxuror. My unborn child
+will be a Luxuror. As will all his
+descendants...
+[->]In the Eastern Kingdom of Mikado, we
+are all born to a purpose that God has
+given us, unto our last descendant.
+[END]
+6: (Gentle woman) [7a 41][13 1, 403741]I saw a band of Samurai today near the
+castle gate, departing on an expedition.
+I'd never seen them thus before.
+[->]That white−haired gentleman on the
+front line... I wonder if he would
+care a fig for the age difference...
+[->]Oh... Oh, my! Did I say that out...
+P−Please, forget you heard anything!
+[END]
+7: (Gentle woman) [7a 41][13 1, 403721]I saw a band of Samurai departing on
+a mission...
+[->]I've heard that their task is to conduct
+an inspection of many towns across the
+Eastern Kingdom of Mikado...
+[->]Alas... I did not see the dignified
+gentleman with white hair among their
+number...
+[END]
+8: (Gentle woman) [7a 41][13 1, 403722]At last, I recently had the fortune to
+meet that gentleman before he departed
+on another mission!
+[->]The white−haired Samurai's name is...
+Commander Hope.
+[->]I should be thankful to have got that
+much out of him. He seemed to have very
+pressing business that day...
+[END]
+9: (Gentle woman) [7a 41][13 1, 403702]At last, I recently had the fortune to
+meet that gentleman before he departed
+on another mission!
+[->]The white−haired Samurai's name is...
+Commander Hope.
+[->]Master Hope and I were both chosen by
+God as subjects of this kingdom... I am
+honored to count him as a countryman.
+[END]
+10: (Gentle woman) [7a 41][13 1, 403722]Master Hope has many errands all across
+the kingdom each day...
+[->]But his absence has done nothing to
+quench my feelings for him...
+[->]If I could put one question to God,
+'twould be this: Why did you teach me
+the sensation of love...?
+[END]
+11: (Gentle woman) [7a 41][13 1, 403721]A Samurai woman called Isabeau was
+here not long ago.
+[->]She told me to prepare for a journey and
+then went straight for Mikado Castle.
+[END]
+102: (Arrogant man) [7a 24][13 1, 403641]There seem to be more Casualries now
+who can read the mystic script...
+[->]I've heard that the Literature provided
+by the Black Samurai was written in
+that script.
+[->]But books written in the mystic script
+are extremely hard to come by... Just
+where did she happen upon them?
+[END]
+107: (Gentle woman) [7a 41][13 1, 403721]That dignified gentleman with the white
+hair who leads the other Samurai...
+[->]He has been scurrying across the Eastern
+Kingdom of Mikado most every day.
+[->]I know this, for I watch him every day.
+And that is how I know that he is
+fearful of something...
+[END]
+110: (Gentle woman) [7a 41][13 1, 403713]P−Please...! Help me, Master Hope...!
+[END]
+202: (Arrogant man) [7a 24][13 1, 403641]I've heard that the Black Samurai was
+disseminating Literature written in the
+mystic script.
+[->]Just what did she aim to accomplish by
+handing out such precious volumes to
+those ignorant louts?
+[->]Ah well... I've more pressing concerns
+than a fool about to be executed.
+[END]
+210: (Demon) [7a 65327][13 1, 412100]So what's that ”sensation of love” this
+woman has inside taste like...?
+[->]Is it sweet?  Or could it be sour...?
+Maybe a little bit of both?
+[->][13 1, 412101]It would be too frustrating to wait for
+her to be converted to Reds... Maybe I
+should nibble on her brain directly, ha.
+[END]

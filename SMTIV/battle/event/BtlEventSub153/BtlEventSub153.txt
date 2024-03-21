@@ -1,0 +1,13 @@
+0: (Announcer) [7a 138][13 1, 406002]Our cameras in Kabuki−cho have
+spotted another run−in between a
+Hunter and a demon!
+[->]The demon from the Red Team who
+faces off against the White Team's
+hardy Hunter is...
+[->]The beautiful songstress of the
+Expanse who sings mysterious and
+magical melodies, Lorelei!
+[END]
+1: (Lorelei) [7a 0][13 1, 418002]Please, hear my song of tragic
+love...
+[->][END]

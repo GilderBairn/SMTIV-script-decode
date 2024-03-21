@@ -1,0 +1,32 @@
+0: (Walter) [7a 4][7b 655364, 65537][13 0, 155001]Hoy, look...
+[END]
+1: 〉 Before you is an enormous cocoon−
+shaped object...
+[END]
+2: (Jonathan) [7a 3][7b 786435, 65537][13 0, 155002]So that is the holy land... I've heard
+tell of it, but this is the first time
+looking upon it with my own eyes...
+[END]
+3: (Voice) [13 0, 155003]It has been some time, Blessed Samurai.
+[END]
+4: (Gabby) [7a 11][7b 65547, 65537][13 0, 155004]I would like to introduce you to
+someone.
+[->][13 0, 155005]You will soon be in the presence of the
+new leaders of this kingdom.
+[END]
+5: (Gabby) [7a 11][7b 65547, 65537][13 0, 155006]Come, let us hence.
+[END]
+6: (Isabeau) [7a 5][13 0, 155007]Introduce us...? What's going on?
+[END]
+7: (Walter) [7a 4][13 0, 155008]Are we to go inside that sort of
+cocoon thing?
+[END]
+8: 〉 [Flynn] followed Gabby inside
+the enormous cocoon...
+[END]
+9: (Jonathan) [7a 3][13 0, 156001]My goodness...
+[END]
+10: (Walter) [7a 4][13 0, 156002]It's like a beehive in here...
+[END]
+102: (Burroughs) [7a 2][13 0, 400051]Congratulations on completing the quest.
+[END]

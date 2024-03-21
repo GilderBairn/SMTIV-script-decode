@@ -1,0 +1,43 @@
+0: (Mother Harlot) Ha! To think the someone would
+willingly chase after a demon...
+A foolish decision, for a warrior.
+[->]I do respect your determination,
+however.
+[->]If you wish to challenge me, then
+so be it. I will face you!
+[END]
+1: 〉 Mother Harlot disappears...
+[END]
+2: (Follower) [7a 53]Impossible... How could Mother be
+defeated...?
+[->]We were one step away before you
+showed up...
+[->]You've ruined everything...
+[END]
+3: (Hunter) [7a 67]Damn it!
+My dreams, my paradise...
+[->]I haven't given up yet!
+You hear me!?
+[END]
+4: 〉 The people who have gathered for
+the ritual disperse...
+[END]
+5: (Pales) [7a 65410]I was concerned when I realized
+that the ritual had been completed.
+[->]But, you have done well.
+Mother Harlot has been defeated.
+[->]Now we can maintain a peaceful
+balance between humans and demons
+in this world.
+[->]Who knew that a human would be
+capable of such things...?
+[->]It seems that I have misjudged your
+people.
+[->]In any case, good work, [Flynn].
+[END]
+6: (Pales) [7a 65410][Flynn]! You're alive!
+[->][END]
+7: Test
+[->][END]
+8: (Mother Harlot) How could... this be?
+[->][END]

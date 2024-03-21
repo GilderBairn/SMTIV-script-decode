@@ -1,0 +1,10 @@
+0: Money makes even the underworld go 'round... However,
+all the souls we see recently are paupers. I can hear
+Master Charon's sighs, for he has gone without payment
+for some time. I will teach you of a place where you
+can amass a large amount of [Color:0x5]Macca,[Color:0x0] so that when next
+you die, you can give him the riches he deserves. Your
+reward will be whatever you can earn within this place.
+[END]
+1: Download Quest 1 Second time
+[END]

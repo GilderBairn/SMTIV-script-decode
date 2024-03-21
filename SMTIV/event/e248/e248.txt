@@ -1,0 +1,30 @@
+0: (White) [7a 124][13 0, 248001]Our fifth son, who chose neutrality...
+[END]
+1: (White) [7a 220][我/われ]らが[慈悲/じひ]が[伝/つた]わらぬとは[残念/ざんねん]だよ
+[->][世界/せかい]の[維持/いじ]も[世界/せかい]の[破壊/はかい]も[選/えら]ばず
+…そして[世界/せかい]が[無/む]に[帰/き]すことも[拒/こば]む[者/もの]よ
+[END]
+2: (White) [7a 220][13 0, 234002]It is our fate to endlessly repeat the
+same mistakes.
+[->][13 0, 248003]Given this, what other salvation can
+there be than returning everything
+to naught...?
+[END]
+3: (White) [7a 220][13 0, 248004]Your choice is wrong... We will prove
+that to you...
+[END]
+4: (Burroughs) [7a 2][間/ま]もなく[元/もと]の[世界/せかい]に[戻/もど]れると
+そう[認識/にんしき]してね
+[END]
+5: (Burroughs) [7a 2][唐突/とうとつ]だけど[過去/かこ]のデータを[参照/さんしょう]したの
+[Flynn][様/さま]
+[->][以前/いぜん] [神/かみ]にも[悪魔/あくま]にも[頼/たよ]らず
+[Flynn][様/さま]は[人間/にんげん]であろうとしたの
+[->]でも そう[選/えら]んだ[行動/こうどう]は
+かなりの[悲劇/ひげき]だと[記憶/きおく]しているの
+[END]
+6: (Burroughs) [7a 2][今度/こんど]は あんなことにならないことを
+[推奨/すいしょう]させてね
+[END]
+104: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[END]

@@ -1,0 +1,115 @@
+0: (Earthy man) [7a 59][13 0, 301500]Think I'd better send a horde after
+a kid like you...
+[->][13 0, 301501]This one tends to lean towards prettier
+faces and doesn't pack as much of
+a punch...
+[->][13 0, 301502]But it'll be more than enough to
+stomp you flat!
+[END]
+1: (Guard−like man) [7a 60][13 0, 301503]For a rotten kid like you, I'd better
+send a whole horde.
+[->][13 0, 301504]This one is mostly pretty faces and
+doesn't pack as much of a punch...
+[->][13 0, 301505]But it'll do the job, that's for sure!
+[END]
+2: (Host−like man) [7a 120][13 0, 301506]In the life of a host, women are truly
+a horde that surges ever forward.
+[->][13 0, 301507]Can you deal with these?
+[END]
+3: (Sloppy man) [7a 63][13 0, 301508]An above−average nuisance like you
+deserves a whole horde...
+[->][13 0, 301509]The one I got is easy on the eyes and
+doesn't pack much of a punch...
+[->][13 0, 301510]But it'll do the job of knocking you
+flat well enough!
+[END]
+4: (Heavily made−up girl) [7a 123][13 0, 301511]So I guess if I wanna get rid of you,
+I'll need like, a whole horde?
+[->][13 0, 301512]Wouldn't it be sweet if like, a horde
+of girls took you out? I rilly don't
+think you can win this time!
+[END]
+5: (Anachronistic man) [7a 29][13 0, 301513]If I am to rid myself of a scoundrel
+like you, I must send a horde to do
+mine work.
+[->][13 0, 301514]The one I hath prepared tends toward
+the sweetly−visaged and is a trifle
+lacking in might...
+[->][13 0, 301515]But it shall be adequate to crush the
+likes of thee!
+[END]
+6: (Businesslike man) [7a 47][13 0, 301516]If I want to get rid of a youth like
+you, I think I'll be needing a horde.
+[->][13 0, 301517]And I have just the one. It's made
+mostly of prettier faces, and doesn't
+have as much stopping power...
+[->][13 0, 301518]But it'll be enough to handle you,
+I think.
+[END]
+7: (Intuitive man) [7a 118][13 0, 301519]I can see that I'll need a horde to
+get rid of you.
+[->][13 0, 301520]This one leans toward prettier faces
+and doesn't pack quite as much of a
+punch...
+[->][13 0, 301521]But my guess is it'll be more than
+enough to handle you!
+[END]
+500: (Earthy man) [7a 59][13 0, 301224]It ain't gonna be like this next time!
+You better remember that!
+[END]
+501: (Guard−like man) [7a 60][13 0, 301225]You're not getting off this easy
+next time. Remember that!
+[END]
+502: (Host−like man) [7a 120][13 0, 301226]You'll be singing a different tune
+next time! Just remember that!
+[END]
+503: (Sloppy man) [7a 63][13 0, 301227]It ain't gonna go like this next time!
+You better remember that!
+[END]
+504: (Heavily made−up girl) [7a 123][13 0, 301228]So like, I hope you know it's not
+gonna go so crappy for me next time
+and stuff!
+[END]
+505: (Anachronistic man) [7a 29][13 0, 301229]'Twill not go so miserably for me
+our next go−round! Remember that!
+[END]
+506: (Businesslike man) [7a 47][13 0, 301230]It won't go this way next time.
+You can bank on that.
+[END]
+507: (Intuitive man) [7a 118][13 0, 301231]I don't see it going this way the
+next time! You remember that!
+[END]
+600: (Earthy man) [7a 59][13 0, 305041]Damn, you took all the Terminals.
+[->][13 0, 305042]Heh, you got me good! Man, Samurai
+are something else!
+[END]
+601: (Guard−like man) [7a 60][13 0, 305043]Well, you've taken all the Terminals
+now...
+[->][13 0, 305044]You win. I gotta say, Samurai are
+pretty impressive.
+[END]
+602: (Host−like man) [7a 120][13 0, 305045]So all the Terminals are yours now.
+[->][13 0, 305046]All right, I accept defeat. Samurai
+are pretty impressive, it seems.
+[END]
+603: (Sloppy man) [7a 63][13 0, 305047]You got all the Terminals now...
+[->][13 0, 305048]Yep, time to pack it in. Guess
+there ain't no beating a Samurai!
+[END]
+604: (Heavily made−up girl) [7a 123][13 0, 305049]Aww, is that like, all the Terminals?
+[->][13 0, 305050]So I guess I lose? Was there like,
+any way I could have beaten a Samurai?
+[END]
+605: (Anachronistic man) [7a 29][13 0, 305051]'Twould seem that thou hath captured
+all of the Terminals.
+[->][13 0, 305052]I concede defeat. Thou Samurai art
+truly impressive.
+[END]
+606: (Businesslike man) [7a 47][13 0, 305053]All the Terminals are yours now.
+[->][13 0, 305054]Very well, you win. Samurai are truly
+fearsome opponents.
+[END]
+607: (Intuitive man) [7a 118][13 0, 305055]You've taken all the Terminals now...
+[->][13 0, 305056]Alright, I admit defeat! I should've
+seen this coming against a Samurai!
+[END]

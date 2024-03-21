@@ -1,0 +1,11 @@
+0: 〉 The city has been sealed off by the
+demon's Domain.
+[END]
+1: (Burroughs) [7a 2][13 1, 502044]I've captured the signals of some
+other demons.
+[->]I'll display them on the navigation
+map.
+[END]
+2: You can exit the Domain either by
+completing or abandoning the quest.
+[END]

@@ -1,0 +1,94 @@
+0: (Medusa) [7a 0][13 0, 300901]What kind of pose shall I ask of you?
+[->][13 0, 300902]Hmmm... How about one with both arms
+outstretched to the sky, as if
+yearning for the sun?
+[->][13 0, 300903]As for the expression... I think
+your faces, twisted in fear, would
+be best!
+[END]
+1: (Medusa) [7a 0][13 0, 300910]Y−You insolent brats... You're nothing
+but Tayama's dogs!
+[->][13 0, 300911]All you can do is carry out orders
+like the moles you are!
+[END]
+2: (Walter) [7a 4][13 0, 300912]What's she talking about?
+[END]
+3: (Isabeau) [7a 5][13 0, 300913]Is the battle going so badly for her
+that she's losing her mind...?
+[END]
+5: (Medusa) [7a 0][13 0, 300921]No...! I'm crumbling...!
+[->][13 0, 300922]My beautiful... body...
+I... I...
+[->][13 0, 300923]Gaaaaaaaah...!
+[END]
+1000: (Medusa) [7a 0][13 0, 300904]Say, tell me something.
+[->][13 0, 300905]The statues you've seen in my
+collection... You can appreciate
+their beauty, can't you?
+[END]
+1001: ”Indeed, they're beautiful.”
+”They're ugly.”
+Ignore her and continue fighting
+[END]
+1002: (Medusa) [7a 0][13 0, 300906]You think so too? *chuckle*
+[->][13 0, 300907]A fellow connoisseur like you will
+be the jewel of my collection without
+a doubt!
+[END]
+1003: 〉 Medusa relaxes her guard!
+[END]
+1004: 〉 Medusa's attack decreases!
+[END]
+1005: (Medusa) [7a 0][13 0, 300908]Did I just hear the word ”ugly” from
+you...?
+[->][13 0, 300909]What cheek! You won't get off easy
+for that! How dare you imply that
+I'm... that I'm...!
+[END]
+1006: 〉 Medusa's expression fills with rage!
+[END]
+1007: 〉 Medusa's attack increases!
+[END]
+1008: 〉 [Flynn] ignores her and continues
+fighting...
+[END]
+1009: (Medusa) [7a 0][13 0, 300914]This can't be... How could mere
+humans be so fearsome...!?
+[->][13 0, 300915]Fine... I admit defeat. I give up on
+trying to add you to my collection
+of statues.
+[->][13 0, 300916]Really, it's not a trick. Look into
+my eyes and you'll see I'm telling
+the truth...
+[END]
+1010: Seriously look at her
+Give her a side glance
+Ignore her and continue fighting
+[END]
+1011: 〉 [Flynn] looks deeply into Medusa's
+eyes, searching for sincerity...
+[END]
+1012: (Medusa) [7a 0][13 0, 300917]You fell for it, you stupid brats!
+[->][13 0, 300918]Now, turn to stone!
+[END]
+1013: 〉 An inexplicable power is released
+from Medusa's gaze!
+[END]
+1014: 〉 [Flynn] glances sidelong at
+Medusa...
+[END]
+1015: (Medusa) [7a 0][13 0, 300919]Ngh! Your attitude is awful...!
+You've made a complete fool of me!
+[->][13 0, 300920]H−How mortifying! To suffer such
+humiliation at the hands of humans...!
+[END]
+1016: 〉 Medusa loses her calm and is
+disheartened...
+[END]
+1017: 〉 Medusa's defense decreases!
+[END]
+1018: 〉 [Flynn] ignores her and continues
+fighting...
+[END]
+1019: 〉 [Flynn] cannot move!
+[END]

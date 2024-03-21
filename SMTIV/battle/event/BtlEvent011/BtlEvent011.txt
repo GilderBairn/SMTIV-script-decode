@@ -1,0 +1,15 @@
+0: Try and befriend a demon by talking
+to it.
+[->]Select [Color:0x5]Talk[Color:0x0] from the command list and
+then [Color:0x5]Scout.[Color:0x0] This will invite the demon
+to join you.
+[->]Before they do so, demons will ask you
+questions and make demands, so answer
+them well for a successful conversation.
+[->][END]
+1: 〉 End the explanation and continue
+the battle?
+[END]
+2: Continue the battle
+Hear the explanation again
+[END]

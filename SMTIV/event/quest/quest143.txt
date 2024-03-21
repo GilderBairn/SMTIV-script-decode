@@ -1,0 +1,15 @@
+0: There are many edible demons in Shinjuku
+National Park. However, another demon has
+been laying waste to the area recently.
+I'd like you to kill [Color:0x5][Amount 1][Color:0x0] of these vermin
+[Color:0x5][Demon name 1][Color:0x0]s to drive them away. But there's
+another demon attacking them, so watch out.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

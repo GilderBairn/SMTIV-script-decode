@@ -1,0 +1,431 @@
+0: Dummy
+[END]
+1: [71 1]...You have already rejected me.
+Our paths will not cross again.
+[->]The power of demons shall overwhelm
+that vain body, fit for nothing but
+to be God's tool.
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]Are you denying your urge to do battle?
+You are God's tool to the bone, I see...
+[->]But this battle will not stop until the
+moment one side's lifeblood ebbs from
+their body...
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]NOT USED
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]NOT USED
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]NOT USED
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]NOT USED
+[->][END]
+33: NOT USED
+[END]
+34: [71 1]Pointless chatter, hm?
+[->]I see. So that is how you hope to
+survive in this world dominated by
+power.
+[->][END]
+35: NOT USED
+[END]
+36: [71 1]Very well. I am confident enough in my
+power to converse with you.
+[->][END]
+37: NOT USED
+[END]
+38: [71 1]Ahahaha...! A slave of God wants to
+chitchat?
+[->]Very well, I accept! Though I doubt
+you'll appreciate my blasphemies...
+[->][END]
+39: NOT USED
+[END]
+40: [71 1]Hahaha...! If it's you I'm facing, I
+have nothing to fear no matter how long
+I spend chatting.
+[->][END]
+41: NOT USED
+[END]
+42: [71 1]You beg mercy from me, and not the God
+you so love?
+[->]Very well... as long as you prepare
+a suitable offering.
+[->][END]
+43: NOT USED
+[END]
+44: [71 1]Here is my mercy... I'll keep you alive
+for a short while longer.
+[->][END]
+45: NOT USED
+[END]
+46: [71 1]Storing power, nurturing it... Slumber
+can be very important...
+[->]You shall see it for yourself...
+[->][END]
+47: NOT USED
+[END]
+48: NOT USED
+[END]
+49: [71 1]More! I want to fill your body and soul
+with more of my power!
+[->][END]
+50: NOT USED
+[END]
+51: [71 1]Oh? A servant of authority requires
+money from me?
+[->]Even though He calls Himself God, He
+cannot win against worldly desires...
+[->][END]
+52: NOT USED
+[END]
+53: [71 1]Hahaha...! Dirty your hands with even
+more wealth!
+[->][END]
+54: NOT USED
+[END]
+55: [71 1]Desire preserves life, yet can also
+destroy it in a world founded on power.
+[->]If you cannot control your desires,
+you must perish here.
+[->][END]
+56: NOT USED
+[END]
+57: [71 1]Wh−What...!?
+[->][END]
+58: NOT USED
+[END]
+59: [71 1]What's the matter? Would something like
+this satisfy your desire?
+[->][END]
+60: NOT USED
+[END]
+61: [71 1]Enough with this slow, pitiful process
+of plucking one by one.
+[->]I'll give you what you seek! Take it
+with all the desire that burns in you!
+[->][END]
+62: NOT USED
+[END]
+63: [71 1]...Oh, how unfortunate. It seems you've
+gone a little too far.
+[->]You've succumbed to your desires.
+[->][END]
+64: NOT USED
+[END]
+65: [71 1]Oh? A servant of authority requires
+money from me?
+[->]Even though He calls Himself God, He
+cannot win against worldly desires...
+[->][END]
+66: NOT USED
+[END]
+67: [71 1]My, my. Did your beloved God not provide
+you with tools to fight me?
+[->][END]
+68: NOT USED
+[END]
+69: [71 1]I'll give you this... in God's stead,
+who has given you nothing.
+[->][END]
+70: NOT USED
+[END]
+71: [71 1]Ahahaha...! So your beloved God didn't
+give you even the tools to fight me!
+[->]Oh, wretched child. I'll give you
+this... in God's stead, who has given
+you nothing.
+[->][END]
+72: NOT USED
+[END]
+73: [71 1]Take this as well. Use both arms to
+carry a demon's gifts...
+[->][END]
+74: NOT USED
+[END]
+75: [71 1]Why not settle this with one
+transaction?
+[->][Color:0x1][Amount 1] Macca...[Color:0x0]
+Can you pay that much?
+[->][END]
+76: NOT USED
+[END]
+77: [71 1][Color:0x1][Item 1][Color:0x0] is what I demand.
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]Offer to me [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]Offer to me [Color:0x1]a little[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+82: NOT USED
+[END]
+83: [71 1]Offer to me [Color:0x1]some[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+84: NOT USED
+[END]
+85: [71 1]Offer to me [Color:0x1]a lot[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+86: NOT USED
+[END]
+87: [71 1]Offer to me a [Color:0x1]tremendous amount[Color:0x0] of
+your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+88: NOT USED
+[END]
+89: [71 1]Offer to me [Color:0x1]a little[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+90: NOT USED
+[END]
+91: [71 1]Offer to me [Color:0x1]some[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+92: NOT USED
+[END]
+93: [71 1]Offer to me [Color:0x1]a lot[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+94: NOT USED
+[END]
+95: [71 1]Offer to me a [Color:0x1]tremendous amount[Color:0x0] of
+your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+96: NOT USED
+[END]
+97: [71 1]Your demon there... I demand the
+[Color:0x1]life of [Demon name 2].[Color:0x0]
+[->][END]
+98: NOT USED
+[END]
+99: [71 1]Offer to me [Color:0x1]that[Color:0x0] which I know
+you have.
+[->][END]
+100: NOT USED
+[END]
+101: [71 1]Now, what do you think I desire?
+[->][END]
+102: NOT USED
+[END]
+103: [71 1]Yes, that is what I desire...
+[->][END]
+104: NOT USED
+[END]
+105: [71 1]It seems you do not understand desire
+after all...
+[->][END]
+106: NOT USED
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]Very good... My desires have been
+satisfied.
+[->][END]
+121: NOT USED
+[END]
+122: [71 1]Ah...! Excellent! My desires are
+being well satisfied...
+[->][END]
+123: NOT USED
+[END]
+124: [71 1]...So, you reject me.
+[->][END]
+125: NOT USED
+[END]
+126: [71 1]You have it, yet you will not relinquish
+it...
+[->]Such stubbornness will not stem the
+tide of desire!
+[->][END]
+127: NOT USED
+[END]
+128: [71 1]...No more of this. You cannot satisfy
+my desires.
+[->][END]
+129: NOT USED
+[END]
+130: [71 1]Did you think you could cheat me?
+[->]Such petty trickery will not stem the
+tide of desire!
+[->][END]
+131: NOT USED
+[END]
+132: [71 1]It seems you lack for hunger.
+[->][END]
+133: NOT USED
+[END]
+134: [71 1]Nothing can begin without Life Stones.
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]...It's true that prolonged desire is
+weak and unsightly.
+[->][END]
+137: NOT USED
+[END]
+138: [71 1]Did you think you could cut short
+our negotiation?
+[->]Such petty trickery will not stem the
+tide of desire!
+[->][END]
+139: NOT USED
+[END]
+140: [71 1]Hahaha... You remain that resolute in
+the face of my overwhelming desire?
+[->]...I cannot let God have the world
+after all. Coming to understand that
+has been quite useful in itself.
+[->][END]
+141: NOT USED
+[END]
+142: [71 1]You won't refuse me even a little. You
+really are nothing but a puppet...
+[->]It sickens me. No more.
+[->][END]
+143: NOT USED
+[END]
+144: [71 1]Hahaha... You truly have nothing.
+Is this the asceticism God demands?
+[->]...I cannot let God have the world
+after all. Coming to understand that
+has been quite useful in itself.
+[->][END]
+145: NOT USED
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: [71 1]...You keep repeating the same things,
+as if you are nothing but God's puppet.
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]As long as the will to power exists,
+you and I are fated to be reunited...
+[->]Now, let us tread the path that leads
+to paradise...
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USED
+[END]
+171: [71 1]NOT USED
+[->][END]
+172: [71 1]NOT USED
+[->][END]
+173: [71 1]NOT USED
+[->][END]
+174: [71 1]NOT USED
+[->][END]

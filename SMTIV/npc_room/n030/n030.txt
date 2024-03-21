@@ -1,0 +1,57 @@
+0: (Starving man) [7a 63][13 1, 403601]I bumped into a demon the other day.
+I gave him a Red so he'd leave me
+alone...
+[->]He wolfed it down pretty quick.
+I wonder how those taste...
+[END]
+1: (Starving man) [7a 63][13 1, 403601]I got surrounded by demons the other
+day when I was out scavenging in
+Shinjuku National Park.
+[->]If I didn't have a handful of reds
+with me, I wouldn't be here talking
+to you now.
+[END]
+2: (Starving man) [7a 63][13 1, 403601]By the way, did I hear that there's
+a cafe in Shinjuku? I don't get out
+from underground much, so...
+[->]If it's true, I wonder if there's any
+food left there. I always loved having
+a pastry with my morning coffee...
+[END]
+3: (Demon) [7a 65018][13 1, 412105]What is it, human? You seem puzzled.
+Does my presence here make you
+uncomfortable?
+[->]Not that I care a fig for your feelings.
+But if you have a problem with me...
+By all means, let's hear it.
+[END]
+100: (Starving man) [7a 63][13 1, 403601]H−Hey, you think the rumor is true?
+Ashura−kai forbids it, so I don't
+really know, but...
+[->]If... if I eat a red pill... Will I
+really turn into a demon?
+[END]
+101: (Starving man) [7a 63][13 1, 403601]They haven't captured the guy who snuck
+into Shinjuku National Park yet, right?
+[->]Lucky bastard... He must've stuffed
+himself on all the meat there...
+[->]Maybe the Ashura−kai's security has
+some holes... Think I should try?
+[END]
+102: (Starving man) [7a 63][13 1, 403601]What if... What if the Ring of Gaea
+defeats the Ashura−kai...?
+[->]The Ring of Gaea wouldn't spare the
+life of anyone without any special
+skills like me, would they...?
+[->]Ahhhhhhghhhh! Thinking about it
+makes me hungryyyyy!
+[END]
+202: (Starving man) [7a 63][13 1, 403601]What if... What if the Ring of Gaea
+defeats the Ashura−kai...?
+[->]The Ring of Gaea wouldn't spare the
+life of anyone without any special
+skills like me, would they...?
+[->]Ahhhhhhghhhh! Thinking about it
+makes me hungryyyyy! The Ashura−kai
+just HAVE to win this war!
+[END]

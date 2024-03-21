@@ -1,0 +1,47 @@
+0: (Baker) [7a 23][13 0, 628000]*sigh* ...I don't understand
+anymore... What's the point in
+living...?
+[END]
+1: Talk to him
+Leave him be
+[END]
+2: (Baker) [7a 23][13 0, 628001]Huh? ...Oh. Hello. Yeah, sorry,
+but... I'm not baking bread anymore.
+[->][13 0, 628002]And you can't run a bakery if the
+baker doesn't bake. I've decided
+that I need to find knowledge.
+[->][13 0, 628003]You see... Academics is nothing but
+vanity, an effort by humans to make
+themselves less human. Or so I hear.
+[->][13 0, 628004]I want to... to learn more.
+I want to know everything I've been
+missing out on.
+[END]
+3: (Baker) [7a 65114][13 0, 628005]So if learning things makes me less
+human... then it doesn't matter if I
+become a demon!
+[END]
+4: 〉 You decide to leave...
+[END]
+5: (Baker) [7a 65114][13 0, 628006]What did I... do wrong...?
+Is it so wrong... to want to know...?
+[END]
+6: (Samurai) [7a 29][13 0, 628007]Oh, [Flynn]. Good work. I'm glad we
+were able to execute that man before
+anyone else was affected.
+[->][13 0, 628008]Is it just me, or have there been a
+lot of cases like this recently? I
+hope it isn't some kind of ill omen...
+[END]
+105: 〉 A Samurai runs up to you...
+[END]
+106: 〉 The demon disappears...
+[END]
+900: While talking to the baker,
+the baker turns into a demon,
+and proceeds to a battle.
+[END]
+901: You have defeated the baker. A
+Samurai will come by and end the
+quest.
+[END]

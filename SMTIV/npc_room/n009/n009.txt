@@ -1,0 +1,91 @@
+0: (Hermit man) [7a 97][13 1, 403212]Kiyoharu had a very hard time of it
+in this shelter, just after God's
+wrath rained down.
+[->]Since his friend allied with the angels
+to defeat the demons, there was no one
+to stop God...
+[->]And in the end, His wrath came down...
+[->]Kiyoharu must've felt responsible. He
+kept praying to God, even while everyone
+mocked him for it.
+[->]He was your age when all that started.
+No wonder he looks the way he does
+now, eh?
+[END]
+1: (Hermit man) [7a 97][13 1, 403202]Kiyoharu told us Pluto is dead!
+[->]He said he just sensed it. Only Kiyoharu
+could do something like that...
+[->]He was running around inside the
+shelter. Seemed so happy.
+[END]
+2: (Hermit man) [7a 97][13 1, 403202]Everyday, we have a series of meetings
+with Akira. The time flies around here.
+[->]But keeping busy makes me feel like
+we're getting somewhere, you know?
+So it's not so bad.
+[END]
+3: (Downtrodden man) [7a 162][13 1, 403242]I remember... There were guys who
+worshipped demons...
+[->]I know now that there is no God. If
+those guys asked, I would probably
+follow them...
+[END]
+4: (Downtrodden man) [7a 162][13 1, 403242]Hmm... Pluto's dead, huh? One less
+headache, I guess.
+[->]But we're still loaded with chores.
+Ain't got time to blame God.
+[END]
+5: (Downtrodden man) [7a 162][13 1, 403242]I know the idea of the Eastern Kingdom
+of Mikado is important, but we also
+need guys who can fight.
+[->]There's more and more demons all the
+time now. Geez... we don't even have
+time to curse God, you know?
+[END]
+6: (Hunter woman) [7a 100][13 1, 403103]The place we call Pluto Castle is to
+the southeast from here. Go over the
+bridge there and you'll see it.
+[->]You'll know it when you see a dome−
+shaped building with horns.
+[END]
+7: (Hunter woman) [7a 100][13 1, 403103]So Pluto Castle's still standing, even
+after its master is dead...
+[->]I still feel like God has abandoned us.
+I guess we're on our own no matter how
+far we go...
+[END]
+8: (Hunter woman) [7a 100][13 1, 403133]So Pluto Castle's still standing, even
+after its master is dead... Heh, why
+wouldn't it?
+[->]I still feel like God has abandoned us.
+I guess we're on our own no matter how
+far we go...
+[END]
+9: (Akira) [7a 84][13 1, 401601]We've always imagined God as something
+that's good for our cause...
+[->]So maybe killing Pluto is going against
+His will.
+[->]But think about it... Doesn't it make
+you mad? All I want is to fight back.
+Give Him a firm answer.
+[->]I'm counting on you about this Pluto
+thing. The remote'll be your reward...
+[END]
+10: (Akira) [7a 84][13 1, 401601]By the way, you released the people in
+Shibuya, right?
+[->]Can't say I approve of your unauthorized
+use of a Terminal, but...
+[->]You made everyone's dreams come true.
+From the bottom of my heart, thank you
+for that.
+[END]
+11: (Tough woman) [7a 98][13 1, 403333]You guys beat Pluto, right? Then why
+not help out our association too?
+[->]I know Tokyo's a mess, but it's where
+we've got to live.
+[END]
+12: (Tough woman) [7a 98][13 1, 403333]You guys seem like you know how to
+fight. Why not help out our association?
+[->]I know Tokyo's a mess, but it's where
+we've got to live.
+[END]

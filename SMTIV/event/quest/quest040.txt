@@ -1,0 +1,25 @@
+0: [Color:0x5]Offer the Great Spirit of Hope[Color:0x0] as a substitute
+for my lost powers. When the [Color:0x5]chalice[Color:0x0] is brimming
+with the hopes of the people of Tokyo, the Great
+Spirit of Hope shall appear.
+[END]
+1: Dummy
+[END]
+2: A ”champion,” eh? Humans dream up such delightful
+things. If you truly wish to bring hope to the
+world of man, then it must be a man who delivers
+it, not any god or demon. Will you [Color:0x5]assume the
+throne of this ”champion”?[Color:0x0]
+[END]
+3: Your title of ”champion” brings hope that elicits
+spontaneous hosannas from the people. Even my ”new
+emperor” could not accomplish this. That is why
+hope will surge wherever you go. I suggest that
+you [Color:0x5]bring the people hope by showing your
+personage across the lands.[Color:0x0]
+[END]
+4: I see that you have in your possession the Great
+Spirit of Hope. The hopes of all Tokyo's peoples
+are within your hands. Hurry and [Color:0x5]bring the Great
+Spirit of Hope to me.[Color:0x0]
+[END]

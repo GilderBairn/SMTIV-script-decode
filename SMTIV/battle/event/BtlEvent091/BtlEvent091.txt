@@ -1,0 +1,9 @@
+0: 〉 The horde of demons fell and Ixtab
+appeared!
+[END]
+2: (Ixtab) [13 0, 305205]You reject... my salvation...?
+[->][13 0, 305206]You choose... not to live in the
+paradise of death... but... in the
+wasteland of pain... and suffering...?
+[->][13 0, 305207]You will... soon... regret it...
+[END]

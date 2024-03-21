@@ -1,0 +1,10 @@
+0: (Demonoid man) [13 1, 415204]PK... Bukuroooo! O−Oh, I was just talking
+to myself. It's not like I'm a clown or
+anything.
+[END]
+1: (Demonoid woman) [13 1, 419412]Ikebukuro's gotten pretty messed up...
+But this is still Japan after all.
+[END]
+2: 〉 The shutter is closed. It doesn't seem
+that it will open.
+[END]

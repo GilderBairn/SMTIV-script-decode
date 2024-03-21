@@ -1,0 +1,324 @@
+0: Test
+[END]
+200: 〉 There is nothing here but an all−
+enveloping whiteness...
+[END]
+201: (The White) [7a 77]Our existence is one with yours.
+[->]As long as you exist, we shall return.
+[END]
+202: (The White) [7a 124]An alternate Tokyo grasped towards
+what they perceived to be hope...
+[->]Yet that hope will soon fade away...
+[END]
+203: (The White) [7a 78]We brought you here, through the means
+of transferring dimensions, to show
+you the despair the future holds.
+[END]
+204: (The White) [7a 75]Now, go... We shall show you the
+despair of the human race, as many
+times as it takes.
+[END]
+300: 〉 [Flynn] was sent through a rift
+between dimensions, arriving in a
+desert stretching to all horizons.
+[END]
+301: (Voice) [7a 2]You−−! You're the Messiah from before!
+[END]
+302: (Akira) [7a 84][7b 262228, 65537]What are you doing here?
+[->]I thought you said you were going
+back to your world after you defeated
+Pluto.
+[END]
+303: (Akira) [7a 84][7b 786516, 65537][13 1, 401602]...What? You didn't defeat Pluto?
+[END]
+304: (Akira) [7a 84][7b 65620, 65537]Look, never mind that right now.
+We can't stay here too long... Let's
+talk once we've found somewhere safe.
+[END]
+305: (Akira) [7a 84][7b 65620, 65537]Nobody got left behind, right?
+[END]
+306: (Armed man) [7a 99]Yes, sir. All survivors have been
+evacuated.
+[END]
+307: (Akira) [7a 84][7b 65620, 65537]Good... Right, let's get back to the
+”castle,” then.
+[END]
+308: (Burroughs) [7a 2][13 1, 400005]I see no log entries concerning a fight
+with a demon named ”Pluto.”
+[END]
+309: (Akira) [7a 84][7b 786516, 65537]You should come with us, too.
+We've got to get out of here as
+soon as we can.
+[END]
+310: 〉 [Flynn] followed Akira...
+[END]
+311: 〉 Akira appeared, accompanied by some
+armed men.
+[END]
+400: 〉 [Flynn] followed Akira to a
+sturdy−looking building...
+[->]〉 There are many injured people
+huddled inside...
+[END]
+401: (Akira) [7a 84][7b 786516, 65537]...Thanks to your victory over Pluto,
+we've been released from the curse
+that God placed upon us.
+[->]We wished to create a new nation,
+from our own efforts, and resolved
+to venture up to the world above...
+[END]
+402: (Akira) [7a 84][7b 65620, 65537][13 1, 401603]And then... a being appeared from
+high up in the sky.
+[->]It calls itself [Color:0x5]Ancient of Days,[Color:0x0] saying
+it is a part of God.
+[->]The Ancient of Days burns with a light
+so bright that all our cities have
+burned to the ground.
+[->]The survivors are hiding away here,
+behind this castle's impenetrable
+walls.
+[END]
+403: (Kiyoharu) [7a 83][7b 65619, 65537]Messiah! It's me, Kiyoharu!
+[->]I prayed to God that he would send you
+back to us, and now here you are.
+[->]...See? God hasn't truly forsaken us,
+not yet. Hee hee!
+[END]
+404: (Akira) [7a 84]...Of course, Kiyoharu.
+[END]
+405: 〉 Kiyoharu leaves, dancing a strange
+dance...
+[END]
+406: (Akira) [7a 84][7b 786516, 65537]......
+[->]I hate to admit it, but we're completely
+powerless right now. We don't even have
+a god to pray to.
+[->]This isn't the time to be worried
+about creating nations. We're at the
+verge of extinction.
+[->]I know it makes me sound pathetic,
+but... For everyone's sake, Messiah,
+I need your help again.
+[->]The Ancient of Days must be...
+[END]
+407: (Lookout) [7a 2]Emergency! The Ancient of Days is
+approaching from the east!
+[->]I repeat, the Ancient of Days is
+approaching from the east!
+[END]
+408: (Akira) [7a 84][13 1, 401603]He's here...!
+[END]
+409: 〉 Akira runs off...
+[END]
+410: 〉 What will you do?
+[END]
+411: Fight the Ancient of Days
+Return to your world
+[END]
+412: 〉 There is nothing here but an all−
+enveloping whiteness...
+[END]
+413: (The White) [7a 77]So you decided to run before you
+could witness true despair...
+[END]
+414: (The White) [7a 124]That is fine. All that will do is
+cause one possible outcome to crumble.
+[END]
+415: (The White) [7a 78]If you wish to see this despair again,
+merely ask, and I will not hesitate
+to show it to you.
+[END]
+416: (The White) [7a 75]Now return, back to where you belong.
+[END]
+417: (Akira) [7a 84][7b 786516, 65537]This is Pluto Castle. It used to be
+the Overlord's headquarters.
+[->]Ironically enough, it's the safest
+place in Tokyo at the moment...
+[END]
+418: 〉 Akira tends to the wounded while
+he talks to [Flynn]...
+[END]
+419: (Survivor) [13 1, 403803]Ah... It's the Messiah! Akira has
+brought him back to us!
+[END]
+420: (Survivor) Messiah... Please save us again...
+[END]
+421: (Akira) [7a 84][7b 786516, 65537]There's something I want to talk with
+you about. Can you come with me to the
+back?
+[END]
+422: 〉 Akira leads [Flynn] to a room
+in the rear...
+[END]
+423: (Innocent voice) [7a 2][13 0, 401504]M−Messiah! You came!
+[END]
+424: 〉 [Flynn] hurries towards the
+exit...
+[END]
+425: (Akira) [7a 84][7b 786516, 65537]I want you all to begin caring for
+the wounded immediately.
+[END]
+426: (Armed man) [7a 99]Yes, sir.
+[END]
+427: (Akira) [7a 84][13 1, 401603].........
+[->]...Messiah, I will go help the injured
+and protect the people as we get to
+shelter.
+[->]Please, defeat the Ancient of Days...!
+[END]
+428: 〉 The area around [Flynn] begins to
+brighten...
+[END]
+429: (Armed man) [7a 99]Akira! We've suffered casualties from
+that attack!
+[END]
+430: (Fully−suited man) [7a 97]What're we gonna do!? If we lose this
+place, we're...!
+[END]
+500: 〉 There is no one here...
+[->]〉 Yet, an ominous presence can be
+felt...
+[END]
+501: (Akira) [7a 84][7b 786516, 65537]Look out, you won't be able to see it.
+You'll just have to sense it...
+[->]Careful, it's pretty close now.
+[END]
+502: 〉 Some kind of presence can be felt
+directly ahead...
+[END]
+503: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+504: (Burroughs) [7a 2][13 1, 405604]It's no use, Master [Flynn]...
+I can't analyze this. All I get is
+an error.
+[->]It's possible that this entity isn't
+even composed of material from this
+world. Be careful.
+[END]
+505: Unused
+[END]
+506: 〉 Something within [Flynn] begins
+to pulse...
+[END]
+507: Unused
+[END]
+508: (Ancient of Days) [7a 231]...Can you see me, then, you lesser
+creature?
+[END]
+509: (Ancient of Days) [7a 231]My name is the Ancient of Days... I am
+a part of the Lord, as well as His
+messenger.
+[->]I am the one who casts many beasts
+into the burning fire. 
+[END]
+510: (Akira) [7a 84][7b 786516, 65537][13 1, 401603]Line cut,
+Akira does not appear here
+[END]
+511: (Ancient of Days) [7a 231][7b 131303, 65537]My mission is to purge the world of
+its humans, and guide a new humanity
+into their place.
+[->]In order to carry out this task, I
+must eliminate all that remains of
+the previous humanity.
+[END]
+512: (Ancient of Days) [7a 231][7b 131303, 65537]This is the Lord's will.
+Accept your destruction.
+[END]
+600: (Akira) [7a 84][7b 262228, 65537]You were able to defeat even the
+Ancient of Days...
+[->]You saved us once again.
+[->]Now we can start building our
+Eastern Kingdom of Mikado...
+[END]
+601: [7b 65620, 65537]〉 Something within [Flynn] and
+Akira begins to pulse...
+[END]
+602: (Akira) [7a 84][7b 786516, 65537]What the−−It can't be...!?
+[END]
+603: (Prominent voice) [7a 2]Death shall not take me. My existence
+is eternal... I have lost but one of
+my forms...
+[->]Such trifles shall not sway the fate
+of the world from its course.
+[END]
+604: (Akira) [7a 84][7b 65620, 65537]......! Look up there...
+[END]
+605: 〉 [Flynn] looked up to the sky...
+[END]
+606: (Akira) [7a 2]That's a cocoon...
+[->]God's ark...!
+[->]Is that the ark from 25 years ago...!?
+It's coming back...!
+[END]
+607: (Prominent voice) [7a 2]The new humanity shall soon make
+descend upon this land.
+[->]Genesis... has already begun.
+[END]
+608: 〉 The voice faded away...
+[END]
+609: (Akira) [7a 84][7b 65620, 65537]That ark has... the new humanity?
+[->]What's supposed to happen now...!?
+[END]
+610: (Akira) [7a 84][7b 786516, 65537]Whatever happens, there's going to be
+hope.
+[->]You've given us a fighting chance,
+Messiah. I'm not giving up now.
+[END]
+611: (Akira) [7a 84][7b 786516, 65537]...If another society is really
+inside that ark...
+[->]I shall approach them representing the
+Eastern Kingdom of Mikado and try to
+negotiate a way for us to live in peace.
+[->]To create a world where everyone can
+live a free and peaceful life...
+[END]
+612: (Akira) [7a 84]Thank you... Messiah.
+[->]I hope that we'll meet again, in
+our own nation, the Eastern Kingdom
+of Mikado...
+[END]
+613: 〉 Akira began to walk towards the
+cocoon...
+[END]
+614: 〉 There is nothing here but an all−
+enveloping whiteness...
+[END]
+615: (The White) [7a 77]Why do you not despair?
+[END]
+616: (The White) [7a 124]The only possible way to be freed
+from the cycle of despair is through
+emptiness.
+[END]
+617: (The White) [7a 78]I will return you to your world, but
+remember: you have not rid your world
+of the despair that is to come.
+[END]
+618: (The White) [7a 75]Even should you try to enkindle the
+hopes of the people, the cycle will
+only repeat itself.
+[END]
+619: 〉 The survivors have come outside...
+[END]
+620: (Survivors) The Ancient of Days is gone...
+[->]Our Messiah defeated the Ancient of
+Days...!
+[->]Yeaaaaah...!
+[END]
+621: 〉 You hear a prominent voice from
+the heavens...
+[END]
+700: 〉 Where would you like to start the
+quest?
+[END]
+701: From the beginning
+The battle with the Ancient of Days
+[END]
+702: 〉 The White returns [Flynn] to the
+real world...
+[END]
+2100: 〉 Where would you like to start the
+quest?
+[END]
+2101: From the beginning
+The battle with the Ancient of Days
+[END]

@@ -1,0 +1,69 @@
+0: (Voice) [13 0, 244001]The law of God, the temptation of
+demons, and the despair of the White...
+[->][13 0, 244002]You turned them all down and chose
+your own path.
+[END]
+1: (Stephen) [7a 14][13 0, 244003]For your current self, I am willing
+to tell you everything that I know.
+[->][13 0, 244004]...Wouldn't you say so, Burroughs?
+[END]
+2: (Stephen) [7a 14]For your current self, I am willing
+to tell you everything that I know.
+[->]...Wouldn't you say so, Burroughs?
+[END]
+3: (Burroughs) [7a 2][13 0, 244005]The choices Master [Flynn] made
+followed the same pattern as from
+the past.
+[END]
+4: (Burroughs) [7a 2][13 0, 244006][Flynn] is indeed the one you seek,
+Doctor.
+[END]
+5: (Stephen) [7a 14][13 0, 244007]I see... Thank you.
+[END]
+6: (Stephen) [7a 14][13 0, 244008]Now...
+[->][13 0, 244009]If you are truly the one who has
+inherited his will, then for the sake
+of both Mikado and Tokyo...
+[->][13 0, 244010]You must return to your home world to
+revive the goddess of Tokyo.
+[->][13 0, 244011]I will help you with that.
+[END]
+7: (Stephen) [7a 14][13 0, 244012]This is a world made by the thoughts
+of humanity... it is the Expanse.
+[->][13 0, 244013]It's a bit different from the place
+where you met that girl before.
+[->][13 0, 244014]The White are also aggregates of
+thought. This is their home.
+[END]
+8: (Stephen) [7a 14][13 0, 244015]Though you rejected their proposal,
+the White's influence persists.
+[->][13 0, 244016]There are four of the White lurking
+somewhere in this forest.
+[->][13 0, 244017]I would like you to defeat them all
+and break their hold on this place.
+[END]
+9: (Stephen) [7a 14]There are four of the White lurking
+somewhere within this forest.
+[->]Kill them all and break their influence
+on this place.
+[END]
+10: (Stephen) [7a 14][13 0, 244019]Let me heal your wounds.
+[END]
+11: 〉 Stephen disappeared...
+[END]
+12: (Stephen) [7a 14][13 1, 401001]Ah, hello.
+[->]Let me treat those wounds.
+[END]
+13: (Stephen) [7a 14][13 1, 401004]There is more we have to discuss,
+but defeating the White takes
+priority now.
+[->]I'll heal you again whenever you want.
+[END]
+109: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+110: (Stephen) [7a 14][13 0, 244020]If you're ever injured in battle, you
+should go back to the forest entrance.
+[END]
+210: (Stephen) [7a 14][13 0, 244021]I'll heal you whenever you want.
+[END]

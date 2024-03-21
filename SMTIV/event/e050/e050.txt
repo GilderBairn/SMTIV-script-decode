@@ -1,0 +1,89 @@
+0: (Issachar) [7a 7][7b 458759, 65537][13 0, 50001][Flynn]... You're here.
+[END]
+1: (Walter) [7b 196612, 65537][7a 4][13 0, 50002]He's the one from that morning...
+[END]
+2: (Jonathan) [7b 262147, 65537][7a 3][13 0, 50003]It's quite a relief to see you unharmed.
+You must hurry and join the others at
+the forest entrance where it's safe.
+[END]
+3: (Issachar) [7a 7][7b 131079, 65537][13 0, 50004]So... you rushed to save your hometown
+in crisis. You've certainly risen to
+greatness, haven't you?
+[->][13 0, 50005]You, who couldn't even bait a fishhook.
+[END]
+4: (Issachar) [7a 7][7b 196615, 65537][13 0, 50006]I, on the contrary, will forever be
+a Casualry in a remote village.
+[END]
+5: (Issachar) [7a 7][7b 65543, 65537][13 0, 50007]Though it must be said, I'm not who I
+once was either. The Black Samurai's
+books have opened my eyes.
+[END]
+6: (Isabeau) [7a 5][13 0, 50008]Who is this ”Black Samurai”...?
+[END]
+7: (Issachar) [7a 7][7b 131079, 65537][13 0, 50009]Unfortunately, the Eastern Kingdom of
+Mikado belongs to the Luxuror toads.
+[->][13 0, 50010]They establish practices convenient
+for themselves while starving us of
+any knowledge or learning...
+[->][13 0, 50011]They use our innocence to drive us
+hard to work.
+[END]
+8: (Issachar) [7a 7][7b 65543, 65537][13 0, 50012]But we don't need the Luxurors, no?
+After all, it's our backbreaking labor
+that turns society's wheel.
+[END]
+9: (Burroughs) [7a 2][13 0, 50013]Sorry to interrupt the conversation...
+[->][13 0, 50014]But I'm detecting a demon extremely
+close by. Watch out.
+[END]
+10: (Jonathan) [7a 3][7b 458755, 131073][13 0, 50015]No...
+[END]
+11: (Issachar) [7a 7][7b 65543, 65537][13 0, 50016]I'm telling you this, [Flynn],
+because you're you. Now that I've
+seen the light...
+[END]
+12: (Jonathan) [7a 3][13 0, 50018]Ngh... Was there no other way to
+ease his pain...?
+[END]
+13: (Walter) [7a 4][13 0, 50019]What you did was correct.
+[END]
+14: (Walter) [7a 4][13 0, 50021]You... How could you dither so
+uselessly in ending his pain!?
+[END]
+15: (Jonathan) [7a 3][13 0, 50024]How can you be so cruel, Walter?
+Try and show [Flynn] some empathy.
+[END]
+16: (Isabeau) [7a 5][7b 196613, 65537][13 1, 400302]......
+[END]
+17: (Hope) [7a 8][13 0, 50028]To all Samurai within the forest,
+this is Hope speaking.
+[->][13 0, 50029]We have testimony that the Black
+Samurai was witnessed in the innermost
+region of the Kiccigiorgi Forest.
+[->][13 0, 50030]Those who receive this message must
+make [Color:0x5]the Black Samurai's capture[Color:0x0]
+their utmost priority.
+[->][13 0, 50031]The Black Samurai appears as a human
+clad in ebon armor.
+[->][13 0, 50032]I repeat, for the benefit of those
+receiving this message late: make [Color:0x5]the
+Black Samurai's capture[Color:0x0] your priority.
+[END]
+18: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]
+111: (Issachar) [7a 7][7b 720903, 65537][13 0, 50017]I've embraced the demonic.
+[END]
+113: (Walter) [7a 4][7b 327684, 65537][13 0, 50020]Given the man's torment, I believe
+it was the most realistic choice.
+[END]
+114: (Walter) [7a 4][13 0, 50022][7b 196612, 65537]I know his suffering too damn well.
+I was Casualry too, after all.
+[END]
+115: (Jonathan) [7a 3][13 0, 50025][7b 786435, 65537]I think that [Flynn]'s choice
+was the right one.
+[->][13 0, 50026]A man who loses the ability to be kind
+is little different than a demon.
+[END]
+214: (Walter) [7a 4][13 0, 50023][7b 131076, 65537]But mark me when I say your clumsy
+”kindness” will be the death of us all!
+[END]

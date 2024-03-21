@@ -1,0 +1,16 @@
+0: Test
+[END]
+1: (Issachar) [7a 7][13 1, 400502]...Hm? There's a crowd at the plaza.
+Could this be where the Rite is to
+take place...?
+[->]Hoy, [Flynn]. Should we have a
+closer look? Well...?
+[END]
+2: ”Let's go and see.”
+”Not now.”
+[END]
+4: Yes
+No
+[END]
+6: Rest?
+[END]

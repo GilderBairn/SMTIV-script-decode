@@ -1,0 +1,89 @@
+0: 〉 The people here are praying with
+great fervor...
+[END]
+1: (Male inhabitant) [7a 59][13 0, 685000]Oh, Lord Gozutennou.
+Please forgive my sins.
+[END]
+2: (Male inhabitant) [7a 120][13 0, 685001]Oh, Lord Gozutennou, please come
+before us and give us our salvation.
+[END]
+3: (Red Knight) [7a 135][13 0, 685002]Yes, pray. Keep praying.
+[->][13 0, 685003]Your prayers shall be carried on
+through my summoning spell.
+[->][13 0, 685004]Hm? Who might you lot be?
+[->][13 0, 685005]Could it be that you are here to
+interrupt our ritual?
+[END]
+4: ”Yes, I am.”
+”No.”
+[END]
+5: (Red Knight) [7a 135][13 0, 685006]I see. You seem to be a skilled
+fighter.
+[->][13 0, 685007]Very well. Fight me, then.
+Everyone else, continue the ritual!
+[END]
+6: (Red Knight) [7a 135][13 0, 685008]Then leave at once. This has nothing
+to do with you.
+[END]
+7: 〉 Some strong men forcefully ”escort”
+you from the building...
+[END]
+8: (Male inhabitant) [7a 59][13 0, 685009]Master, are you all right!?
+[END]
+9: (Male inhabitant) [7a 120][13 0, 685010]What's wrong with you!? All we want
+to do is meet Gozutennou!
+[->][13 0, 685011]Don't interfere!
+[END]
+10: (Red Knight) [7a 135][13 0, 685012]There is nothing to worry about, my
+children.
+[->][13 0, 685013]The demon you seek is right here.
+[->][13 0, 685014]All that is required before he can
+take physical form is an offering.
+[END]
+11: (Male inhabitant) [7a 59][13 0, 685015]Wait... What kind of offering?
+[END]
+12: 〉 Some kind of invisible creature
+begins devouring the worshippers...
+[END]
+13: (Demon's voice) [7a 65369][13 0, 685017]Hahaha...
+[->][13 0, 685018]The inhabitants of this city were only
+able to survive due to what I offered
+them.
+[->][13 0, 685019]It's only fair that you return the
+favor.
+[->][13 0, 685020]I give you the chance to become the
+Gozutennou. Or, rather... the [Color:0x5]Demon
+Lord Baal[Color:0x0]'s flesh and blood!
+[END]
+14: 〉 The demon has disappeared...
+[->]〉 The Red Knight seems to have
+escaped as well...
+[END]
+15: (Old man) [7a 63][13 0, 685021]...Oh, woe is upon us.
+They have all been devoured.
+[->][13 0, 685022]Lord Gozutennou has punished us
+all...
+[->][13 0, 685023]Ahh, please forgive us...
+[END]
+16: 〉 The remaining worshippers slowly
+disperse...
+[END]
+17: (Red Knight) [7a 135][13 0, 685004]Hm? Who might you lot be?
+[->][13 0, 685005]Could it be that you are here to
+interrupt our ritual?
+[END]
+18: (Male inhabitant) [7a 59]Oh, Lord Gozutennou,
+please forgive my sins...
+[->]What are you doing here?
+No outsiders are allowed inside!
+[END]
+19: (Male inhabitant) [7a 1][13 0, 685016]Wha−−AHHHHHHH!
+[END]
+20: (Burroughs) [7a 2][13 0, 76036]I'm detecting a strong demon ahead.
+Do you want to go on?
+[END]
+21: Yes
+No
+[END]
+900: 〉 There is no one here...
+[END]

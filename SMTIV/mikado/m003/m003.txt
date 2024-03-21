@@ -1,0 +1,55 @@
+0: (Burroughs) [7a 2][13 0, 502025]Let me give you a few things to watch
+out for about Challenge Quests.
+[END]
+1: (Burroughs) [7a 2][13 0, 502026]Challenge Quests are only registered
+to the list...
+[->][13 0, 502027]So if you don't accept it, the quest
+doesn't count as being started.
+[->][13 0, 502028]I can explain how to accept them if
+you want. Need me to tell you?
+[END]
+2: Yes
+No
+[END]
+3: (バロウズ) [7a 2]オッケー いいわよ
+[END]
+4: (Burroughs) [7a 2][13 0, 502031]Understood. I'll skip over that.
+[->][13 0, 502032]Let's surprise everyone and be the
+first to finish the Challenge Quests!
+[END]
+5: Challenge quests other than those where
+you must turn in items, such as those
+where you must slay certain demons, must
+be accepted from the list.
+[->]Select Quests from the menu screen and
+then select Challenge Quest.
+[END]
+9: (Burroughs) [7a 2][13 0, 502044]Hold on, I have news for you.
+[->]Since you can come to Mikado now, I'll
+make it so certain quests can be accepted
+again.
+[END]
+10: Challenge quests other than those where
+you must turn in items, such as those
+where you must slay certain demons, must
+be accepted from the list.
+[->]These types of quests will not progress
+unless they are accepted. 
+[Color:0x5]Lion's roar echoing in Naraku[Color:0x0] counts as one, but it has already been accepted.
+[->]During Challenge Quests, normal quests will
+be put on hold. If you wish to proceed with
+normal quests, you are free to [Color:0x5]abandon[Color:0x0] the
+current Challenge Quest at any time.
+[->]Also, in regards to Challenge Quest
+rewards, if you already have the maximum
+allowed number of that item, [Color:0x5]you will be
+unable to obtain it.[Color:0x0]
+[END]
+900: (Burroughs) [7a 2][13 0, 400055]Did you get all that?
+[END]
+901: ”I did.”
+”Let's have it again.”
+[END]
+902: (Burroughs) [7a 2][13 0, 400056]All right. I'll display the
+information once more.
+[END]

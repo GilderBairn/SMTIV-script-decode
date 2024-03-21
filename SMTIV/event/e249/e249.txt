@@ -1,0 +1,48 @@
+0: (Voice) [13 0, 249001]Ah... you've done well.
+[END]
+1: (Stephen) [7a 14][13 0, 249002]The influence of the White seems to
+be gone for now.
+[->][13 0, 249003]As things stand, I should be able to
+return you to your home world.
+[END]
+2: (Stephen) [7a 14][13 0, 249004]You chose a world without bias.
+[END]
+3: (Stephen) [7a 14][7b 65550, 65537][13 0, 249005]Though its people will yearn for joy
+and affection, they will most likely
+feel more pain and sadness.
+[->][7b 262158, 65537][13 0, 249006]But there is a goddess who will gently
+embrace such people...
+[END]
+4: (Stephen) [7a 14][13 0, 249007]That girl you met before... she is
+Tokyo itself.
+[END]
+5: (Stephen) [7a 14][7b 65550, 65537][13 0, 249008]There was once a young man who
+answered her cries and protected Tokyo.
+[->][13 0, 249009]But in doing so, the people of Tokyo
+were divided in two...
+[END]
+6: (Stephen) [7a 14][13 0, 249010]You must remove that dome which divides
+the people and return Tokyo, which is
+to say the goddess, to her true form.
+[->][13 0, 249011]The world your past self protected must
+be returned to normal this time by
+your current self.
+[END]
+7: (Stephen) [7a 14][13 0, 249012]I'm sure that the dome which covers
+Tokyo will heed your voice.
+[->][13 0, 249013]For that dome is Masakado, the guardian
+deity of Tokyo...
+[END]
+8: (Stephen) [7a 14][13 0, 249014]But that should be enough chitchat.
+[END]
+9: (Stephen) [7a 14][13 0, 249015]I'm trusting you with this. Go and 
+return to your original world.
+[->][13 0, 249016]I'm sure a certain someone is waiting
+for you as well.
+[->][13 0, 249017]...I'll leave the rest to you,
+Burroughs.
+[END]
+10: (Burroughs) [7a 2][13 0, 249018]Okay, Doctor.
+[->][13 0, 249019]Well then, let's go back, shall we?
+[->][13 0, 249020]To the new world that you chose...
+[END]

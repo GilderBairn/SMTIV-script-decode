@@ -1,0 +1,41 @@
+0: (Girl's voice) [13 0, 254001]...Halt.
+[END]
+1: (Isabeau) [7a 5][7b 196613, 65537][13 0, 254002]We meet again, [Flynn].
+[END]
+2: (Isabeau) [7a 5][7b 65541, 196609][13 0, 254003]It's just as Walter said...
+[END]
+3: (Isabeau) [7a 5][7b 655365, 65537][13 0, 254004]You intend to annihilate Tokyo through
+the use of the Yamato Reactor, no?
+[END]
+4: (Isabeau) [7a 5][7b 131077, 65537][13 0, 254005]It may be for the sake of the people of
+the Eastern Kingdom of Mikado... but it
+is tantamount to genocide.
+[END]
+5: (Isabeau) [7a 5][7b 655365, 131073][7b 196613, 65537][13 0, 254007]...You, [Flynn], are a strong Samurai
+who can be proud of the path you've
+chosen...
+[END]
+6: (Isabeau) [7a 5][7b 655365, 65537][13 0, 254009]Nevertheless... I abhor the idea of
+you doing something so horrible as
+annihilating Tokyo!
+[END]
+7: (Isabeau) [7a 5][7b 131077, 65537][13 0, 254010]I am quite serious about this.
+[END]
+8: 〉 Isabeau lies still...
+[END]
+9: (Merkabah) [7a 64478][13 0, 254011]We must never forget this woman.
+[END]
+10: (Merkabah) [7a 205][13 0, 254013]Now, let us go, chosen warrior of light.
+[->][13 0, 254014]We will excise Tokyo, the root of
+the Filth, with our own hands.
+[END]
+104: (Merkabah) [7a 205][7b 65741, 65537][13 0, 254006]This woman has come in contact with
+Tokyo's manga. She is Unclean and would
+lead we righteous ones astray.
+[END]
+105: (Isabeau) [7a 5][7b 327685, 65537][13 0, 254008]But I... I could not make my decision
+until the very end.
+[END]
+109: (Merkabah) [7a 64478][13 0, 254012]If Tokyo is left untouched, there will
+be many more victims like her.
+[END]

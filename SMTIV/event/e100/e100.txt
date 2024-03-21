@@ -1,0 +1,30 @@
+0: (Hugo) [7a 10][7b 65546, 65537][13 0, 100001]Ah, you're...
+[->][13 0, 100002]Hm? That's...!
+[END]
+1: (Hugo) [7a 10][13 0, 100003]Yes... that's it exactly! You've
+found a bottle of wine!
+[END]
+2: 〉 Hugo snatched the Corked Bottle away
+from [Flynn].
+[END]
+3: [13 0, 100004](Hugo) [7a 10][7b 327690, 65537]Now I'll not have to endure my wife's
+endless nagging as to her wine...
+[END]
+4: (Hugo) [7a 10][7b 327690, 65537][13 0, 100005]I am sure my troubled acquaintance
+will be most relieved.
+[->][13 0, 100006]Permit me to leave you with a token
+of gratitude in his stead.
+[END]
+5: 〉 Obtained a Bead Chain.
+[END]
+6: (Hugo) [7a 10][13 0, 100007][7b 786442, 65537]Be certain that you breathe not
+a word of this to anyone...
+Is that understood?
+[END]
+7: (Hugo) [7a 10][13 0, 100008][7b 262154, 65537]...Well then, you are free to leave.
+[END]
+105: (Burroughs) [7a 2]I think that's my cue, Master [Flynn].
+[->]I've confirmed that you've completed
+the quest, ”Obtain wine.”
+[->]Well done.
+[END]

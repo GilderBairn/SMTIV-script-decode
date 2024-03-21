@@ -1,0 +1,102 @@
+0: (Youthful man) [7a 81][13 1, 403402]Before the ceiling appeared, Shibuya
+was filled with young guys.
+[->]But then after that, it was crowded
+with demons who want Reds...
+[->]Though since that demon moved in,
+things have quieted down...
+[END]
+1: (Youthful man) [7a 81][13 1, 403402]Just as I suspected, the reason Yuriko's
+interested in Ichigaya isn't the
+electricity...
+[->]The reactor there emits an electro−
+magnetic pulse in a frequency that
+attracts demons.
+[->]So that B−grade occult magazine article
+was right! The Ring of Gaea really is
+an evil cult!
+[END]
+2: (Youthful man) [7a 81][13 1, 403431]I hear there's a Samurai who's making
+a serious play for the champion title.
+[->]That's an admirable effort in this
+demon−wrecked world, don't you think?
+[END]
+3: (Youthful man) [7a 81][13 1, 403402]Just as I suspected, the reason Yuriko's
+interested in Ichigaya isn't the
+electricity...
+[->]The reactor there emits an electro−
+magnetic pulse in a frequency that
+attracts demons...
+[->]Where there are demons, soon there'll
+be angels, and next thing you know,
+full−scale war will break out in Tokyo.
+[->]So that B−grade occult magazine article
+was right! The Ring of Gaea really is
+a doomsday cult!
+[END]
+4: (Youthful man) [7a 81][13 1, 403403]There's a rumor that demons are pouring
+out from a reactor in Ichigaya...
+[->]We need electricity, so the reactor
+is a must−have.
+[->]In a way, Tokyo never was completely
+free from the threat of demons...
+[END]
+5: (Moody man) [7a 81][13 1, 403212]There were once office complexes where
+the Hills building and Midtown stand...
+[->]The Hills in Roppongi is the Ashura−kai
+headquarters now.
+[->]And I hear Midtown is a nest of demons...
+[END]
+6: (Moody man) [7a 81][13 1, 403212]Someone told me that the angels are
+coming down from above the ceiling...
+is that true?
+[->]I bet they're planning to kill us all
+along with the demons...!
+[END]
+7: (Moody man) [7a 81][13 1, 403241]I hear a Samurai named [Flynn]
+is a hair's breadth from the champion's
+title.
+[->]It's good to know there's one man who
+stands above the rest in this awful
+world...
+[END]
+8: (Moody man) [7a 81][13 1, 403241]Hey, champion! You can stop them,
+right!?
+[->]If those angels really are coming down
+to Tokyo, you can stop them, can't you!?
+[END]
+9: (Moody man) [7a 81][13 1, 403213]You really stopped the angels! You're
+the best, champion!
+[->]B−But... Tokyo's still full of demons...
+[->]You can stop them for us too, right,
+champion?
+[END]
+10: (Moody man) [7a 81][13 1, 403213]You stopped both the angels and the
+demons! You're the best, champion!
+[->]B−But... Tokyo still has no sunrise...
+[->]You can do something about that for us
+too, right, champion?
+[END]
+100: (Youthful man) [7a 81][13 1, 403402]Before the ceiling appeared, Shibuya
+was filled with young guys.
+[->]But then after that, it was crowded
+with demons who want Reds...
+[->]And since that one demon isn't here
+now, I expect that others will start
+coming back...
+[END]
+200: (Youthful man) [7a 81][13 1, 403402]This is just a rumor I heard, but the
+reason Yuriko's interested in Ichigaya
+isn't the electricity...
+[->]That reactor of the Ashura−kai's is
+actually a−−
+[->]Well, maybe I've already said too much.
+It's just a rumor, you know?
+[END]
+300: (Youthful man) [7a 81][13 1, 403402]This is just a rumor I heard, but the
+reason Yuriko's interested in Ichigaya
+isn't the electricity...
+[->]That reactor of the Ashura−kai's is
+the demon's−−
+[->]Well, maybe I've already said too much.
+It's just a rumor, you know?
+[END]

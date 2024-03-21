@@ -1,0 +1,65 @@
+0: (Hunter) [7a 119][13 1, 403001]The Ring of Gaea people rarely leave
+their main temple.
+[->]But, since they've come to Ikebukuro,
+does that mean that woman is going
+to make a move as well?
+[END]
+1: (Hunter) [7a 119][13 1, 403001]The Ring of Gaea people rarely leave
+their main temple.
+[->]But, since they've come to Ikebukuro,
+does that mean Yuriko is going to
+make a move as well?
+[END]
+2: (Hunter) [7a 119][13 1, 403001]Someone who actually saw her in
+person told me that Yuriko's a
+young woman.
+[->]So, a young girl leads an organization
+like the Ring of Gaea? I wonder what
+kind of leader she is.
+[END]
+3: (Hunter) [7a 119][13 1, 403001]Tayama's sent his men to kill Yuriko
+a number of times.
+[->]But I hear that she sends the corpses
+back, cut into tiny slices and kept
+in formaldehyde...
+[->]That Yuriko woman's so cold it gives
+me chills thinking about her. I'd
+never want to get on her bad side.
+[END]
+4: (Hunter) [7a 68][13 1, 403141]You picked a good time to come.
+The Ashura−kai's already been driven
+out.
+[->]The Ashura−kai uses Reds to tame
+demons, and the Ring of Gaea is
+openly opposed to them.
+[->]If you'd been here when the Ashura−kai
+and the Ring of Gaea were going at
+it... You would've been in trouble.
+[END]
+5: (Hunter) [7a 68][13 1, 403141]The people who didn't participate in
+the battle against Xi Wangu have left
+the city.
+[->]They appear quickly, and disappear
+without a trace when they go...
+[->]They're like some kind of military
+strike force.
+[END]
+6: (Hunter) [7a 68][13 1, 403141]If the Ashura−kai goes on a full−on
+assault, the Ring of Gaea will surely
+be greatly weakened.
+[->]But if that happened, the Yamato
+Reactor will be left poorly guarded,
+and the Ring of Gaea will take it...
+[->]The Ring of Gaea is cautious of
+Tayama's demons, and won't throw
+themselves into an all−out attack.
+[->]Both sides are looking for an opening,
+and they're currently at a standstill.
+[END]
+7: (Hunter) [7a 68][13 1, 403141]It looks like Yuriko's going to go
+for a full−on attack on Ichigaya.
+[->]She was being so careful and cautious
+about Tayama's demons, too...
+[->]Could this mean that she's gained
+a more powerful ally?
+[END]

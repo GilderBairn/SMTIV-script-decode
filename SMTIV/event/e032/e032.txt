@@ -1,0 +1,52 @@
+0: (Walter) [7a 4][7b 131076, 65537][7b 655365, 131073][13 0, 32002]...Who's there!?
+[END]
+1: 〉 A man in a strange chair appears
+in front of you.
+[END]
+2: (Man) [7a 14][7b 65550, 65537][13 0, 32003]My name is Stephen.
+[END]
+3: (Stephen) [7a 14][7b 65550, 65537][13 0, 32004]I see that you're using demons quite
+efficiently. No wonder the girl picked
+up an interest in you.
+[END]
+4: (Isabeau) [7a 5][7b 655365, 65537][7b 196612, 65537][13 0, 32005]That girl...?
+[END]
+5: (Stephen) [7a 14][7b 65550, 65537][13 0, 32006]You have probably encountered her
+here somewhere.
+[END]
+6: (Stephen) [7a 14][7b 65550, 65537][13 0, 32007]It will probably not be the last time
+you see her.
+[->][13 0, 32008]Especially if you truly are the ones
+they entrusted the future to...
+[END]
+7: (Jonathan) [7a 3][7b 655363, 65537][7b 65541, 196609][13 0, 32009]Sir, what's this about?
+[END]
+8: (Stephen) [7a 14][7b 65550, 65537][13 0, 32010]You'll understand eventually.
+[END]
+9: (Jonathan) [7a 3][7b 655363, 65537][7b 65541, 65537][13 0, 32011]......
+[END]
+10: (Stephen) [7a 14][7b 65550, 65537][13 0, 32012]This Domain will fade away if you
+defeat the demon who created it.
+[->][13 0, 32013]That demon is somewhere inside here.
+[END]
+11: (Stephen) [7a 14][7b 65550, 65537][13 0, 32014]If you are injured, come to the room
+further in.
+[->][13 0, 32015]I will heal your wounds there.
+[END]
+12: 〉 Stephen retreated into the room
+in back.
+[END]
+13: (Stephen) [7a 14][13 0, 32001]...Ah, you've come.
+[->]Let me heal you.
+[END]
+14: (Stephen) [7a 14]This Domain will fade away if you
+defeat the demon who created it.
+[->]That demon is somewhere inside here.
+[END]
+15: (Stephen) [7a 14]Come back again at any time if you
+want me to heal your wounds.
+[END]
+16: (Man) [7a 14]Ah, it's you.
+[END]
+100: (Voice) [7a 2][13 0, 32001]Ah, you've come.
+[END]

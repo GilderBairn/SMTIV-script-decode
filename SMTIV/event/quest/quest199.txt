@@ -1,0 +1,15 @@
+0: I would like you to slay a certain raven
+that has gotten into the underground. We
+cannot allow this bird to remain in these
+lands. I will tell you more in detail−−meet
+me on the [Color:0x5]road leading to Shene Duque.[Color:0x0]
+This urgent request is from Sister Gabby.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

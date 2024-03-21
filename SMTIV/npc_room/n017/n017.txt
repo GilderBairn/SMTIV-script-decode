@@ -1,0 +1,166 @@
+0: (Male neurisher) [7a 107][13 1, 403403]It was demons who destroyed Tokyo!
+H−How could I ever fuse with them!?
+[->]I−I mean... How could anyone choose to
+do such a horrible thing...? I'll never
+understand it...
+[END]
+1: (Male neurisher) [7a 107][13 1, 403403]It's all Kenji's fault that Tokyo's
+like this... Just because he defied
+God...
+[->]Huh? Archangels? Nah, can't be. Kenji
+supposedly killed all the angels.
+[->]But if the archangels really do exist...
+Do you think they'd drive all the demons
+out of Tokyo?
+[END]
+2: (Female demonoid) [7a 148][13 1, 419301]Hey, doesn't that thing on your arm
+have a demon summoning program
+installed?
+[->]Where'd you get it? What...? D−Did you
+say ”from a rite”?
+[->]So you didn't download it? Must be
+different from the one I had...
+[END]
+3: (Female demonoid) [7a 148][13 1, 419301]Say, Mr. Intruder... Have we met?
+[->]You know, I used to be in the Counter−
+Demon Force. Back when I was a human,
+that is.
+[->]So, if you have the demon summoning
+program, that means you were in the
+force too, right?
+[END]
+4: (Female demonoid) [7a 148][13 1, 419305]Kenji was originally from the Counter−
+Demon Force. He was about your age at
+the time...
+[->]He joined the force to fight demons
+and protect Tokyo...
+[->]But then he learned that the reason
+demons showed up in the first place
+was part of God's scheme...
+[->]After that, he sided with the demons
+to stop God's wrath.
+[->]That was 25 years ago...
+[END]
+5: (Female demonoid) [7a 148][13 1, 419307]Come to think of it, maybe the real
+reason Kenji turned the people of Tokyo
+into demonoids and neurishers...
+[->]Was because he was afraid of the
+Intruders. I don't know how that
+works, really, but...
+[->]It seems the demon summoning program
+can only be activated by someone with
+a strong will.
+[->]Kenji's thrashed enough demons in his
+day to know how strong a man's will
+can be...
+[END]
+6: (Female demonoid) [7a 148][13 1, 419307]Come to think of it, maybe the real
+reason Kenji turned the people of Tokyo
+into demonoids and neurishers...
+[->]Was because he was afraid of the
+Intruders. I don't know how that
+works, really, but...
+[->]It seems the demon summoning program
+can only be activated by someone with
+a strong will.
+[->]Kenji's thrashed enough demons in his
+day to know how strong a man's will
+can be...
+[END]
+7: (Female neurisher) [7a 110][13 1, 403503]Being a neurisher isn't so bad. We don't
+need to fight, for starters...
+[->]And the demonoids can't kill us,
+or else they'll starve to death.
+[END]
+8: (Female neurisher) [7a 110][13 1, 403503]Staying in Kasumigaseki makes me feel
+like those days in Ichigaya were just
+a bad dream...
+[->]These days, Kenji doesn't get many
+challengers. But he had to fend off
+all kinds of people back then.
+[->]Ichigaya was practically a war zone.
+I knew so many people who got killed
+in the crossfire...
+[->]You know, the neurishers in all of
+Tokyo's regions now are the ones who
+fled Ichigaya.
+[END]
+9: (Male demonoid) [7a 103][13 1, 415109]Who was the asshole screaming his head
+off in the briefing room!?
+[->]Keep quiet or you'll bring Akira down
+on you!
+[END]
+10: (Male demonoid) [7a 103][13 1, 415105]Hey, how'd you get in here, anyway?
+Isn't there a guard in front of the
+elevator?
+[->]And you just show up from the briefing
+room... Just what kind of magic show
+are you running?
+[END]
+11: (Jonathan) [7a 3][13 1, 400102]These ”Intruders”... I take it he
+refers to us.
+[->]It seems we've landed ourselves in a
+much more precarious position than we
+had thought.
+[->]Perhaps it would be wise to align
+ourselves with Akira...
+[END]
+12: (Male demonoid) [7a 103][13 1, 415102]I hear Kenji used to have a partner.
+A buddy from his Counter−Demon Force
+days...
+[->]That dude saved me when I was a human.
+[->]Your ponytailed dude kinda reminds me
+of him, as far as the looks and
+attitude goes...
+[->]But I heard that dude died in action
+against demons while he was covering
+for Kenji.
+[END]
+13: (Male demonoid) [7a 103][13 1, 415102]I hear Kenji used to have a partner.
+A buddy from his Counter−Demon Force
+days...
+[->]But I also heard he got killed in
+action while covering for Kenji.
+[->]That taught Kenji that even with a team
+of strong demons backing you up, the
+human body is too weak...
+[->]It was after that when Kenji decided
+to become a demonoid, or so I hear...
+[END]
+14: (Male demonoid) [7a 103][13 1, 415102]I hear Kenji used to have a partner.
+A buddy from his Counter−Demon Force
+days...
+[->]But I also heard he got killed in
+action while covering for Kenji.
+[->]That taught Kenji that even with a team
+of strong demons backing you up, the
+human body is too weak...
+[->]It was after that when Kenji decided
+to become a demonoid, or so I hear...
+[END]
+101: (Male neurisher) [7a 107][13 1, 403403]I told Akira I'd stay in Kasumigaseki.
+[->]I'm tired of the demonoids marching me
+around... Besides which, my legs are
+too weak to walk anymore.
+[->]Anyway, I never liked Shinjuku, even
+when I was just a human. Too crowded,
+you know?
+[END]
+201: (Male neurisher) [7a 107][13 1, 403403]King Akira promised us he'd rebuild
+Tokyo into someplace everyone could
+live in peace and equality...
+[->]A pretty heroic guy, ain't he? For a
+demonoid and all.
+[->]Then I'll become the ultimate neurisher.
+A superior neurisher to tantalize the
+taste buds of gourmet demonoids...
+[END]
+301: (Male neurisher) [7a 107][13 1, 403403]King Akira promised us he'd rebuild
+Tokyo into someplace everyone could
+live in peace and equality...
+[->]I'm just wondering how he plans to deal
+with the demonoids eating neurishers.
+[->]His promise raises some serious
+questions... But I still believe
+he can do it.
+[END]

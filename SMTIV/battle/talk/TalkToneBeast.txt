@@ -1,0 +1,2199 @@
+0: Dummy Message
+[END]
+1: [71 1]NO! ME EAT YOU WHOLE!
+[->][END]
+2: CONTRACT!?
+NO UNDERESTIMATE!
+DEMON PRIDE!
+GRRRR!
+ME REFUSE!
+[END]
+3: [71 1]GRRRRRRRRRRRR... YOU ATTACK FIRST!
+[->][END]
+4: YOU ATTACK!
+FIRST!
+NOW SPEAK!
+GRRRR...!
+YOU MEAN...!
+[END]
+5: [71 1]NO! ME EAT YOU WHOLE!
+[->][END]
+6: [71 1]NO ALLY FOR FREE! YOU GIVE ME!
+[->][END]
+7: WE!
+CONTRACT!
+NO FREE!
+YOU!
+GIVE?
+[END]
+8: [71 1]GRRRR... GOOD! NOW ME ALLY!
+[->][END]
+9: WE!
+HAPPY!
+GOOD!
+ME FULL!
+CONTRACT!
+[END]
+10: [71 1]ME HUNGRY! GIVE ME SOMETHING!
+[->][END]
+11: WE!
+HUNGRY!
+FIRST!
+SOMETHING!
+GIVE!
+[END]
+12: [71 1]BUT YOU STOCK FULL! FULL!
+[->]NO CAN BE YOU ALLY! SO LONG...
+[->][END]
+13: [71 1]ME [Color:0x5][Demon race 1] [Demon name 1]![Color:0x0]
+IT NICE MEET YOU!
+[->][END]
+14: [71 1]HRM...! YOU LEVEL NO GOOD!
+[->]YOU GET STRONG! ME WAIT UNTIL THEN!
+[->][END]
+15: [71 1]OOH! YOU ALLY MY FRIEND!
+[->]YOU TAKE CARE HIM!
+[->][END]
+16: [71 1]ME INVITE PACK! HUNT TOGETHER!
+[->][END]
+17: [71 1]YOU NO HAVE SPACE! ME NO INVITE!
+[->][END]
+18: [71 1]AWOOOOOOOOOO! ME HEARD VOICE
+CALLING ME!
+[->][END]
+19: [71 1]HRM, OH WELL... ME HUNT ALONE!
+[->][END]
+20: [71 1]NOW ME ALLY!
+[->][END]
+21: [71 1]ALRIGHT, ME INTRODUCE FRIEND!
+[->]ME KNOW STRONG DEMONS! ...YOU WAIT.
+[->][END]
+22: [71 1]THIS HUNTING GROUND! ME EAT
+EVERYTHING WHOLE!
+[->][END]
+23: HRM...!
+CONTRACT!
+ALREADY HAVE!
+YOU GOOD!
+CALL US!
+[END]
+24: DEMON CLAW!
+BEAST FANG!
+TEAR EVERYTHING!
+APART!
+CALL US!
+[END]
+25: [71 1]GRRRRRRRRRRRRR...! ME NO HAPPY!
+[->]YOU GIVE!
+[->][END]
+26: GRRRRR...!
+STOP BATTLE?
+BUT THEN...
+ME NO HAPPY!
+GIVE PRESENT!
+[END]
+27: [71 1]HRM...! ME SATISFIED NOW!
+[->]YOU GO AWAY!
+[->][END]
+28: ME!
+HAPPY!
+GOOD NOW!
+YOU...
+GO AWAY!
+[END]
+29: [71 1]ME... SLEEP... IT JOB OF WILD...
+[->]ME... NO FIGHT... YOU... GO AWAY...
+[->][END]
+30: ZZZZZZ...
+ZZZZZZ...
+ZZZZZZ...
+ZZZZZZ...
+*YAWN*
+[END]
+31: WE...
+SLEEP...
+RIGHT NOW...
+NO FIGHT...
+GO AWAY...
+[END]
+32: [71 1]HEAL BATTLE WOUNDS. THAT SECRET
+TO LIVING.
+[->][END]
+33: YOU!
+BAD WOUNDS!
+REFRESH!
+SECRET!
+OF LIVING!
+[END]
+34: [71 1]CHAT...? IS THAT JOKE?
+[->]...ANYWAY, GIVE SOMETHING!
+[->][END]
+35: FOOD!?
+IT FOOD!?
+GIFTS!
+ANYWAY!
+GIVE!
+[END]
+36: [71 1]ALRIGHT, ME CHAT! BEAST TALK!
+[->][END]
+37: ME HUNTED...
+ALL THIS!
+WE...
+AWESOME!
+GAHAHA...!
+[END]
+38: [71 1]AWOOOOOOOOOO! ME GOOD AT CHATTING!
+[->][END]
+39: GAHAHAHA...!
+ME AWESOME!
+ME CHAMPION!
+ME ROCKS!
+THIS COOL!
+[END]
+40: [71 1]ME FEEL GOOD! ME CHAT MORE!
+[->][END]
+41: HUNTED!
+TOOK!
+ALL THIS!
+WE...
+GENIUS!
+[END]
+42: [71 1]YOU WANT MERCY? THEN YOU GIVE!
+[->][END]
+43: MERCY?
+YOU WANT?
+BEAST DEMON!
+THEN!
+PRESENTS!
+[END]
+44: [71 1]ME HEAL YOU! YOU THANK DEMON MERCY!
+[->][END]
+45: HEAL!
+WE GOOD! 
+GAHAHAHA!
+YOU!
+THANK US!
+[END]
+46: [71 1]ME TIRED... SLEEP IS MERCY...
+[->]YOU CAN HAVE MERCY TOO...
+[->][END]
+47: ZZZZZZ...
+ZZZZZZ...
+ZZZZZZ...
+ZZZZZZ...
+*YAWN*
+[END]
+48: SLEEP...
+...IS MERCY.
+THEN...
+WE...
+GIVE YOU TOO...
+[END]
+49: [71 1]MERCY TASTE GOOD? ME HEAL MORE!
+SO EAT UP!
+[->][END]
+50: BEAST DEMON!
+AWESOME!
+SO...
+WE HEAL YOU!
+MORE!
+[END]
+51: [71 1]HRRRRM! THOSE EYES...! THEY ARE
+EYES OF HUNGRY BEAST...!
+[->][END]
+52: THOSE EYES...!
+HUNGRY EYES...!
+OF A BEAST...!
+YOU GOING...
+TO HUNT US!?
+[END]
+53: [71 1]HUMANS SCARY...! BEAST OF MACCA!
+[->][END]
+54: N−NO!
+MACCA HUNTER!
+THIS GUY...
+A BEAST...!
+SCARY...!
+[END]
+55: [71 1]YOU TOO GREEDY! NOW IT LAW OF WILD!
+[->]ME EAT YOU WHOLE!
+[->][END]
+56: YOU LEARN!
+LAW OF WILD!
+YOU GREEDY!
+WE NOW!
+BITE YOU WHOLE!
+[END]
+57: [71 1]A... A... AWOOOOOOOOOO!
+[->][END]
+58: AWOOOOOOOOOO!
+STOP IT...!
+QUIT IT...!
+STAY AWAY!
+GRRRRRR...!
+[END]
+59: [71 1]WHY...!? WHY ME BEING HUNTED...!?
+[->][END]
+60: URGH...!
+WHY!?
+WHY...?
+WHY YOU...
+HUNT US!?
+[END]
+61: [71 1]AWOOOOOOOOOO! ME GIVE UP! NO MORE!
+[->]YOU TAKE ALL, DAMMIT!
+[->][END]
+62: WE!
+GIVE UP!
+NO MORE!
+TAKE ALL!
+DAMMIT!
+[END]
+63: [71 1]RAAAAAAAAAAAAAAH! ME MAD!
+[->][END]
+64: YOU!
+NO FORGIVE!
+GRRRRR!
+RAAAAAAAH!
+WE MAD!
+[END]
+65: [71 1]ME NO CAN MOVE! FELL FOR HUMAN
+TRAP!
+[->]NO COME NEAR ME!
+[->][END]
+66: NO CAN MOVE!
+NOT GOOD!
+STOP!
+NO COME NEAR!
+STAY AWAY!
+[END]
+67: [71 1]YOU WANT ITEM!? THEN GIVE ME!
+[->][END]
+68: YOU WANT?
+ITEM?
+TRADE!
+YOU WANT...
+THEN GIVE!
+[END]
+69: [71 1]YOU GAVE! ME GIVE ITEM NOW!
+[->][END]
+70: YOU GAVE!
+THEN...
+WE GIVE!
+HERE!
+TAKE IT!
+[END]
+71: [71 1]AWOOOOOOOOOO! ME REALLY HAPPY!
+[->]YOU EAT THIS!
+[->][END]
+72: WE HAVE...
+BIG HEART!
+WE NO HUNT...
+BUT SHARE!
+TAKE THIS!
+[END]
+73: [71 1]THIS BONUS! YOU THANK ME!
+[->][END]
+74: SPECIAL PRESENT!
+THIS BONUS!
+THANK US!
+YEAH!
+HERE!
+[END]
+75: [71 1]HUNTING ALL ABOUT FIRST MOVE! CAN
+YOU DO IT?
+[->][Color:0x1][Amount 1] MACCA![Color:0x0] DECIDE NOW!
+[->][END]
+76: DECIDE NOW!
+[Color:0x1]MACCA![Color:0x0]
+CAN YOU PAY!?
+DO IT!
+[Color:0x1][Amount 1]![Color:0x0]
+[END]
+77: [71 1]YOU, [Color:0x1][Item 1]![Color:0x0]
+[->][END]
+78: YOU!
+[Color:0x1]ITEM![Color:0x0]
+GIVE ME!
+HAND OVER!
+[Color:0x1][Item 1]![Color:0x0]
+[END]
+79: [71 1]YOU, [Color:0x1][Amount 1] MACCA![Color:0x0]
+[->][END]
+80: YOU!
+[Color:0x1]MACCA![Color:0x0]
+GIVE ME!
+HAND OVER!
+[Color:0x1][Amount 1]![Color:0x0]
+[END]
+81: [71 1]YOU, [Color:0x1]LIFE![Color:0x0] GIVE [Color:0x1]JUST LITTLE![Color:0x0]
+[->][END]
+82: YOU!
+[Color:0x1]LIFE![Color:0x0]
+GIVE ME!
+HAND OVER!
+[Color:0x1]JUST LITTLE![Color:0x0]
+[END]
+83: [71 1]YOU, [Color:0x1]LIFE![Color:0x0] GIVE [Color:0x1]SOME![Color:0x0]
+[->][END]
+84: YOU!
+[Color:0x1]LIFE![Color:0x0]
+GIVE ME!
+HAND OVER!
+[Color:0x1]SOME![Color:0x0]
+[END]
+85: [71 1]YOU, [Color:0x1]LIFE![Color:0x0] GIVE [Color:0x1]BUNCH![Color:0x0]
+[->][END]
+86: YOU!
+[Color:0x1]LIFE![Color:0x0]
+GIVE ME!
+HAND OVER!
+[Color:0x1]BUNCH![Color:0x0]
+[END]
+87: [71 1]YOU, [Color:0x1]LIFE![Color:0x0] GIVE [Color:0x1]WHOLE LOT![Color:0x0]
+[->][END]
+88: YOU!
+[Color:0x1]LIFE![Color:0x0]
+GIVE ME!
+HAND OVER!
+[Color:0x1]WHOLE LOT![Color:0x0]
+[END]
+89: [71 1]YOU, [Color:0x1]SPIRIT![Color:0x0] GIVE [Color:0x1]JUST LITTLE![Color:0x0]
+[->][END]
+90: YOU!
+[Color:0x1]SPIRIT![Color:0x0]
+GIVE ME!
+HAND OVER!
+[Color:0x1]JUST LITTLE![Color:0x0]
+[END]
+91: [71 1]YOU, [Color:0x1]SPIRIT![Color:0x0] GIVE [Color:0x1]SOME![Color:0x0]
+[->][END]
+92: YOU!
+[Color:0x1]SPIRIT![Color:0x0]
+GIVE ME!
+HAND OVER!
+[Color:0x1]SOME![Color:0x0]
+[END]
+93: [71 1]YOU, [Color:0x1]SPIRIT![Color:0x0] GIVE [Color:0x1]BUNCH![Color:0x0]
+[->][END]
+94: YOU!
+[Color:0x1]SPIRIT![Color:0x0]
+GIVE ME!
+HAND OVER!
+[Color:0x1]BUNCH![Color:0x0]
+[END]
+95: [71 1]YOU, [Color:0x1]SPIRIT![Color:0x0] GIVE [Color:0x1]WHOLE LOT![Color:0x0]
+[->][END]
+96: YOU!
+[Color:0x1]SPIRIT![Color:0x0]
+GIVE ME!
+HAND OVER!
+[Color:0x1]WHOLE LOT![Color:0x0]
+[END]
+97: [71 1]YOU, [Color:0x1]DEMON LIFE![Color:0x0] GIVE [Color:0x1][Demon name 2]![Color:0x0]
+[->][END]
+98: YOU!
+[Color:0x1]DEMON LIFE![Color:0x0]
+GIVE ME!
+HAND OVER!
+[Color:0x1][Demon name 2]![Color:0x0]
+[END]
+99: [71 1]ALRIGHT, [Color:0x1]THAT![Color:0x0] YOU GIVE [Color:0x1]THAT![Color:0x0]
+[->][END]
+100: [Color:0x1]THAT![Color:0x0]
+[Color:0x1]THAT!?[Color:0x0]
+[Color:0x1]THAT!![Color:0x0]
+[Color:0x1]OH. THAT![Color:0x0]
+[Color:0x1]THAT!!![Color:0x0]
+[END]
+101: [71 1]YOU PICK!
+[->][END]
+102: HM?
+WHAT I WANT?
+HRM...
+YOU!
+PICK FOR ME!
+[END]
+103: [71 1]ME TAKE IT!
+[->][END]
+104: THAT IT!
+YOU GOOD!
+YEAH!
+THEN!
+ME TAKE!
+[END]
+105: [71 1]THAT NOT IT!
+[->][END]
+106: NO!
+THAT NOT IT?
+GRRRR?
+WHAT!?
+YOU NO GET IT!
+[END]
+107: [71 1]ME TASTE YOU! JUST LITTLE BITE!
+[->][END]
+108: WE TASTE YOU!
+BITE YOU!
+JUST A LITTLE!
+HOW ABOUT IT?
+MMMMMM!
+[END]
+109: ”Very well, taste me.”
+”You'd find me disagreeable.”
+[->][END]
+110: [71 1]*SLOBBER* YOU LOOK TASTY...!
+[->][END]
+111: *SLOBBER*
+OOH!
+YOU KNOW...
+YOU LOOK...
+TASTY!
+[END]
+112: 〉 The demon bit [Flynn]!
+[->][END]
+113: 〉 The demons bit [Flynn]
+all over!
+[->][END]
+114: [71 1]AWOOOOOOOOOO! DINNER TIME!
+ME EAT YOU WHOLE!
+[->][END]
+115: AWOOOOOOOOOO!
+DINNER TIME!
+NOW!
+ME!
+EAT YOU WHOLE!
+[END]
+116: 〉 The demon ate [Flynn] whole!
+[->][END]
+117: 〉 The demons ate [Flynn] whole!
+[->][END]
+118: [71 1]YOU NO GOOD! TASTE BAD!
+[->][END]
+119: HRM!
+THAT SO!?
+TASTE BAD...
+THEN...
+NEVER MIND...
+[END]
+120: [71 1]OK! ME FULL!
+[->][END]
+121: OK!
+ME FULL!
+HAPPY!
+ALRIGHT!
+IT ENOUGH!
+[END]
+122: [71 1]AWOOOOOOOOOO!
+[->]TASTES SO GOOD! ME SUPER HAPPY!
+[->][END]
+123: AWOOOOOOOOOO!
+TASTY!
+SUPER HAPPY!
+SO GOOD!
+ME SURPRISED!
+[END]
+124: [71 1]WHAT!?
+[->][END]
+125: WHAT!?
+WHY!?
+HRMMM...!
+WELL...
+WHAT DO NOW?
+[END]
+126: [71 1]HRM! YOU HAVE, BUT TELL ME TO WAIT!
+[->]GRRRRR...! THEN ME KILL AND TAKE!
+[->][END]
+127: HRM...!
+YOU HAVE!
+TELL ME WAIT!
+GRRRR...!
+ME KILL YOU!
+[END]
+128: [71 1]GRRRR! ME TIRED OF THIS!
+[->][END]
+129: GRRRR!
+NO!
+YOU!
+NO GOOD HUNTER!
+LEAVE!
+[END]
+130: [71 1]ME BEAST! NO FOOL ME!
+[->]GRRRRR... THEN ME HUNT YOU!
+[->][END]
+131: HRM...!
+NO FOOL ME!
+ME CAN SMELL!
+GRRRRR...!
+ME KILL YOU!
+[END]
+132: [71 1]ME DISAPPOINTED...
+[->][END]
+133: HRM...!?
+NO HAVE!?
+WHAT DO NOW...?
+THIS SUCKS...
+ME DISAPPOINTED.
+[END]
+134: [71 1]NO LIFE STONE!? NO TALKS!
+[->][END]
+135: NO LIFE STONE!?
+NO TALKS!
+NO GOOD!
+GRRRR!
+SUCKS!
+[END]
+136: [71 1]HRM, FINE! IMPORTANT TO KNOW WHEN
+QUIT IN HUNT!
+[->][END]
+137: FINE!
+WHEN TO QUIT!
+KNOWING THAT!
+IMPORTANT!
+DURING HUNT!
+[END]
+138: [71 1]WHY YOU QUIT!? ME STILL HUNTING!
+[->]GRRRRR... THEN ME HUNT YOU!
+[->][END]
+139: GRRRR...!
+ME NOT HAPPY!
+STILL WANT MORE...
+YOU!
+WE EAT WHOLE!
+[END]
+140: [71 1]HRM! YOU KEEP SAY NO! YOU HAVE
+IRON WILL!
+[->]YOU STRONG! ME IMPRESSED!
+[->][END]
+141: YOU KEEP SAY NO!
+IRON WILL!
+OK!
+ME GET IT!
+YOU WIN!
+[END]
+142: [71 1]HRM...! YOU JUST KEEP GIVING!
+[->]YOU NEED SAY NO! YOU JUST A COWARD!
+[->][END]
+143: FOLLOWER!
+KEEP GIVING!
+YOU NO HAVE...
+PRIDE!?
+NO GOOD!
+[END]
+144: [71 1]YOU HAVE NOTHING! SUCKS TO BE YOU!
+[->][END]
+145: POOR THING!
+YOU HAVE NOTHING!
+NADA!
+MY POLICY...
+ME HELP...
+[END]
+146: [71 1]ME GO NOW. AWOOOOOOOOO!
+[->][END]
+147: ME GO NOW...
+BYE...
+AWOOOOOOOOO!
+AWOOOOOOOOO!
+AWOOOOOOOOO!
+[END]
+148: [71 1]YOU [Flynn]! WE MEET AGAIN!
+[->]ME FRIENDS WITH YOU! DEMONS AND
+HUMANS HELP EACH OTHER!
+[->][END]
+149: YOU...!
+[Flynn]!
+FRIEND!
+MEET AGAIN!
+BOND OF WILD!
+[END]
+150: [71 1]OK! ME ALLY! WE HUNT TOGETHER!
+[->][END]
+151: CONTRACT?
+COINCIDENCE!
+WE LOOKING TOO!
+FOR PARTNER!
+WE SAME!
+[END]
+152: [71 1]OK! ME NO CAN HUNT YOU...
+[->]GO! LET'S MEET AGAIN! AWOOOOO!
+[->][END]
+153: TRUCE!?
+OK!
+THAT LIFE!
+YOU GO!
+LATER!
+[END]
+154: [71 1]OK! ME CHAT WITH YOU! YOU HAVE FUN!
+[->][END]
+155: PRESENT?
+IT OK!
+BIGGEST GIFT...
+WE CAN GET!
+THIS MEETING!
+[END]
+156: [71 1]YOU HURT? ME HELP! THIS MERCY
+OF WILD!
+[->]ME HEAL YOU!
+[->][END]
+157: WORSHIP?
+NO NEED!
+YOU, ME...
+FRIENDS!
+HEAL YOU!
+[END]
+158: [71 1]YOU NEED MACCA? ME HELP!
+[->]TAKE THIS!
+[->][END]
+159: TSK TSK...
+NO NEED!
+YOU WANT?
+MACCA!
+TAKE IT!
+[END]
+160: [71 1]ME HELP YOU! TAKE ITEM!
+[->][END]
+161: ITEM!
+YOU WANT?
+TAKE IT!
+WE SHARE!
+HELP OUT!
+[END]
+162: [71 1]GRRRR... ME BORED! YOU ALWAYS DO
+SAME THING!
+[->][END]
+163: DO SAME THING!
+OVER AND OVER!
+YOU!
+ONE−TRICK!
+STUPID!
+[END]
+164: [71 1]THERE YOU ARE, [Flynn]!
+[->]ME THOUGHT YOU HERE! ME INSTINCTS
+TELL ME!
+[->][END]
+165: [71 1]AWOOOOOOOOOO! ME DONE FOR! ME BEG
+FOR LIFE!
+[->]YOU LET ME GO! ME DO ANYTHING!
+[->][END]
+166: BEG FOR LIFE!
+LET ME GO!
+AWOOOOOOOOOO!
+ME DONE FOR!
+DO ANYTHING!
+[END]
+167: [71 1]OK! ME WANT TO LIVE TOO...
+[->][END]
+168: ALRIGHT!
+ME GET IT!
+HRM!
+BEAST DEMONS...
+WANT LIVE TOO!
+[END]
+169: [71 1]A... AWOOOOOOOOO!
+[->][END]
+170: AWOOOOOO!
+AWOOOOOO!
+AWOOOOOO!
+AWOOOOOO!
+AWOOOOOO!
+[END]
+171: [71 1]HRM, HUMAN! YOU! ME TALK TO YOU!
+[->]ME HAVE JOB! HOW ABOUT IT!
+[->][END]
+172: [71 1]HRM, HUNTER! YOU! ME TALK TO YOU!
+[->]ME HAVE JOB! HOW ABOUT IT!
+[->][END]
+173: [71 1]GOOD! THEN LISTEN!
+[->]ME FRIEND, IN TROUBLE... *WHISPER*
+[->][END]
+174: [71 1]YOU DO BEST! ME COUNT ON YOU!
+[->][END]
+176: [71 1]YOU SCARED TO DIE?
+[->][END]
+177: Reserve
+[END]
+178: [71 1]”It frightens me.”
+”I'm not frightened.”
+”I'd like to die now.”
+[->][END]
+179: NOT USED
+[->][END]
+180: [71 1]THAT NATURAL. ME SCARED DIE TOO.
+[->]TAKE THIS. TAKE CARE REST OF LIFE.
+[->][END]
+181: Reserve
+[END]
+182: [71 1]THEN ME GO WITH YOU. IF YOU DIE,
+ME EAT YOU.
+[->]NO NEED FEAR! YOU DEATH NO GO
+TO WASTE!
+[->][END]
+183: Reserve
+[END]
+184: [71 1]YOU NO WORRY! NO NEED FEAR
+WHEN DEAD!
+[->][END]
+185: Reserve
+[END]
+186: NOT USED
+[->][END]
+187: [71 1]YOU FEARLESS. THAT MEANS YOU DIE
+EASY.
+[->]TAKE THIS.
+[->][END]
+188: Reserve
+[END]
+189: [71 1]NOT USED
+[->][END]
+190: NOT USED
+[END]
+191: [71 1]THEN ME KILL YOU NOW.
+[->][END]
+192: Reserve
+[END]
+193: NOT USED
+[->][END]
+194: [71 1]NO, YOU NO RUN FROM REALITY! LIVE!
+[->][END]
+195: Reserve
+[END]
+196: [71 1]NOT USED
+[->][END]
+197: NOT USED
+[END]
+198: [71 1]YOU WANT DIE? NO WORTH KILLING...
+[->][END]
+199: Reserve
+[END]
+201: [71 1]HUMANS WEAK! HAVE NOTHING! NO FANG,
+CLAW, OR HIDE!
+[->][END]
+202: Reserve
+[END]
+203: [71 1]Tap your head
+Pound your chest
+Point your weapon at it
+[->][END]
+204: 〉 [Flynn] tapped his head with
+his finger...
+[->][END]
+205: [71 1]OOOH... NICE SOUND...
+[->]YOU HEAD, EMPTY.
+[->][END]
+206: Reserve
+[END]
+207: [71 1]NOT USED
+[->][END]
+208: NOT USED
+[END]
+209: [71 1]Special Control 12
+[->][END]
+210: Special Control 12
+[END]
+211: 〉 [Flynn] pounded his chest...
+[->][END]
+212: [71 1]HUMAN HEART... ME SEE! YOU DO
+HAVE STRENGTH.
+[->][END]
+213: Reserve
+[END]
+214: [71 1]Special Control 2
+[->][END]
+215: Special Control 2
+[END]
+216: [71 1]YOU ONLY HAVE ONE HEART.
+ME HAVE THREE!
+[->]HUMANS ARE WEAK...
+[->][END]
+217: Reserve
+[END]
+218: 〉 [Flynn] pointed his weapon
+towards the demon...
+[->][END]
+219: [71 1]ME BEAST. NO HAVE WEAPON...
+ME JEALOUS.
+[->][END]
+220: Reserve
+[END]
+221: [71 1]NOT USED
+[->][END]
+222: NOT USED
+[END]
+223: [71 1]THAT POWER ONLY BORROWED. YOU NO
+GET COCKY, HUMAN.
+[->][END]
+224: Reserve
+[END]
+226: [71 1]YOU SHOW ME GREETING!
+[->][END]
+227: Reserve
+[END]
+228: [71 1]Bow to the demon
+Embrace the demon
+”AWOOOOOO!”
+[->][END]
+229: 〉 [Flynn] bowed to the demon...
+[->][END]
+230: [71 1]PRESENTING HEAD TO BEAST...
+GREAT SIGN OF TRUST AND FRIENDSHIP!
+[->][END]
+231: Reserve
+[END]
+232: [71 1]NOT USED
+[->][END]
+233: NOT USED
+[END]
+234: [71 1]YOU LOOK AT ME! NO LOOK AWAY!
+[->][END]
+235: Reserve
+[END]
+236: 〉 [Flynn] hugged the demon...
+[->][END]
+237: [71 1]ME REMEMBER LAST MASTER...
+ME FEEL GOOD.
+[->][END]
+238: Reserve
+[END]
+239: [71 1]NOT USED
+[->][END]
+240: NOT USED
+[END]
+241: [71 1]GRRR! YOU SMELL! ME LIKE
+CLEANLINESS!
+[->][END]
+242: Reserve
+[END]
+243: 〉 [Flynn] gave a great roar,
+”AWOOOOOOOOOO!”
+[->][END]
+244: [71 1]THAT NOT BAD. ME GIVE YOU TREAT.
+[->][END]
+245: Reserve
+[END]
+246: [71 1]OH! YOU BEAST IN HUMAN SKIN?
+[->]THEN WE FRIENDS!
+[->][END]
+247: Reserve
+[END]
+248: [71 1]YOU CRAZY. ME NO SHOULD TALK
+WITH YOU.
+[->][END]
+249: Reserve
+[END]
+251: [71 1]YOU! GIVE ME TASTY TREAT!
+[->][END]
+252: Reserve
+[END]
+253: [71 1]Give him a fruit
+Give him liquor
+Give him garbage
+[->][END]
+254: 〉 [Flynn] gave the demon fruit...
+[->][END]
+255: [71 1]OOH! FRUIT! PERFECT TIMING!
+[->]ME ATE BUNCH OF HUMANS.
+WANTED DESSERT!
+[->][END]
+256: Reserve
+[END]
+257: [71 1]NOT USED
+[->][END]
+258: NOT USED
+[END]
+259: [71 1]THERE BETTER FRUIT THAN THIS.
+JUICY AND SMOOTH!
+[->]IT YOUR HEAD!
+[->][END]
+260: Reserve
+[END]
+261: 〉 [Flynn] gave the demon liquor...
+[->][END]
+262: [71 1]THEN ME GIVE YOU THIS.
+BOTTOMS UP!
+[->][END]
+263: Reserve
+[END]
+264: [71 1]*HIC* ME DRUNK. SO SLEEPY...
+[->]ME NAP IN YOUR STOCK...
+[->][END]
+265: Reserve
+[END]
+266: [71 1]GRR...! THIS WATER TASTE FUNNY!
+MUST BE POISON!
+[->][END]
+267: Reserve
+[END]
+268: 〉 [Flynn] picked up some trash and
+gave it to the demon...
+[->][END]
+269: [71 1]WHAT THIS? IT STILL EDIBLE.
+[->]NOM NOM NOM... HUMANS WASTE
+TOO MUCH.
+[->][END]
+270: Reserve
+[END]
+271: [71 1]YOU PICK UP TRASH! YOU GOOD!
+[->]...YOU CAN PICK ME UP TOO.
+[->][END]
+272: Reserve
+[END]
+273: [71 1]GRRRRR...! ME MAKE YOU TRASH!
+[->][END]
+274: Reserve
+[END]
+276: [71 1]IF YOU WANT POWER OF DEMONS, TAKE
+ME HAND...
+[->][END]
+277: Reserve
+[END]
+278: [71 1]Extend your hand
+Order him to shake
+”That's your foreleg.”
+[->][END]
+279: 〉 [Flynn] extended his hand towards
+the demon...
+[->][END]
+280: [71 1]YOU HAVE FIVE FINGERS!
+YOU FUNNY...
+[->][END]
+281: Reserve
+[END]
+282: [71 1]NOT USED
+[->][END]
+283: NOT USED
+[END]
+284: [71 1]Special Control 7
+[->][END]
+285: Special Control 7
+[END]
+286: 〉 [Flynn] extended his hand with
+the palm facing up...
+[->][END]
+287: [71 1]OH, YOU WANT ITEM? THEN YOU CAN
+HAVE THIS.
+[->][END]
+288: Reserve
+[END]
+289: [71 1]NOT USED
+[->][END]
+290: NOT USED
+[END]
+291: [71 1]ME KNOW THAT! HUMANS DO THAT
+TO PETS!
+[->]ME PET...? ME SHOW YOU HUMAN!
+[->][END]
+292: Reserve
+[END]
+293: NOT USED
+[->][END]
+294: [71 1]WHAT!? THIS NOT HAND...?
+ME LEARN NEW THING.
+[->][END]
+295: Reserve
+[END]
+296: [71 1]ME NO HAVE HAND...? BUT ME
+WANT HAND...
+[->]THEN ME ALLY! YOU ME HAND NOW!
+[->][END]
+297: Reserve
+[END]
+298: [71 1]SHUT UP! ME KNOW THAT!
+JUST MADE MISTAKE!
+[->]GRRRR...! YOU FAULT!
+[->][END]
+299: Reserve
+[END]
+301: [71 1]ME EAT YOU WHOLE! WHAT PART OF
+YOU GOOD?
+[->][END]
+302: Reserve
+[END]
+303: [71 1]”My head.”
+”My tongue.”
+”None of them, alas.”
+[->][END]
+304: NOT USED
+[->][END]
+305: [71 1]...YOU ACTUALLY GOOD LOOKING.
+[->]IF ME EAT YOU HEAD, ME BECOME
+HANDSOME!
+[->][END]
+306: Reserve
+[END]
+307: [71 1]NOT USED
+[->][END]
+308: NOT USED
+[END]
+309: [71 1]HUMANS STUPID. IF ME EAT,
+ME STUPID TOO.
+[->]GRRR...! ME NO LIKE THAT!
+[->][END]
+310: Reserve
+[END]
+311: NOT USED
+[->][END]
+312: [71 1]ME HEAR HUMANS DOUBLE−TONGUED.
+THAT DOUBLE THE VALUE!
+[->][END]
+313: Reserve
+[END]
+314: [71 1]NOT USED
+[->][END]
+315: NOT USED
+[END]
+316: [71 1]ME HEAR THAT HUMANS HAVE POISON
+TONGUE...
+[->]GRR! ME NO WANT POISON!
+[->][END]
+317: Reserve
+[END]
+318: NOT USED
+[->][END]
+319: [71 1]YOU STILL YOUNG. PROBABLY NOT TASTY.
+[->][END]
+320: Reserve
+[END]
+321: [71 1]HRM... NOW NOT THE TIME TO
+EAT YOU...?
+[->]THEN ME GO WITH YOU UNTIL
+IT TIME!
+[->][END]
+322: Reserve
+[END]
+323: [71 1]NO WORRY! ME KNOW GOOD RECIPE!
+[->][END]
+324: Reserve
+[END]
+326: [71 1]YOU KIND TO EARTH?
+[->][END]
+327: Reserve
+[END]
+328: [71 1]”I'm kind.”
+”Far from it.”
+”I've forgotten kindness.”
+[->][END]
+329: NOT USED
+[->][END]
+330: [71 1]KINDNESS GOES THROUGH EARTH.
+IT COME BACK TO YOU!
+[->]LOOK! THIS YOUR KINDNESS!
+[->][END]
+331: Reserve
+[END]
+332: [71 1]NOT USED
+[->][END]
+333: NOT USED
+[END]
+334: [71 1]NO GET COCKY, HUMAN!
+[->]EARTH NOT SO WEAK IT NEED YOU
+KINDNESS!
+[->][END]
+335: Reserve
+[END]
+336: NOT USED
+[->][END]
+337: [71 1]IT NOT TOO LATE. YOU BE KIND
+TO EARTH.
+[->]ME HAVE MACCA. ME DONATE FOR
+EARTH SAKE.
+[->][END]
+338: Reserve
+[END]
+339: [71 1]NOT USED
+[->][END]
+340: NOT USED
+[END]
+341: [71 1]YOU NO KIND TO EARTH? YOU PROBABLY
+NO NICE TO ME...
+[->]THEN ME GO...
+[->][END]
+342: Reserve
+[END]
+343: NOT USED
+[->][END]
+344: [71 1]YOU FORGETFUL? THIS IS KINDNESS.
+[->][END]
+345: Reserve
+[END]
+346: [71 1]YOU FORGOT KINDNESS...? YOU BEAST.
+YOU NOT HUMAN.
+[->]HRM!? THAT SAME AS ME. WE ALLIES!
+[->][END]
+347: Reserve
+[END]
+348: [71 1]KINDNESS IS STRENGTH. FORGET
+KINDNESS MEANS WEAKNESS.
+[->]HRM!? YOU WEAK!? WEAKLINGS SCRAM!
+[->][END]
+349: Reserve
+[END]
+351: [71 1]YOU WANT ME... WHAT ROLE ME PLAY?
+[->][END]
+352: Reserve
+[END]
+353: [71 1]”My pet.”
+”A spare, in case.”
+”Fodder for fusion.”
+[->][END]
+354: NOT USED
+[->][END]
+355: [71 1]ME ACTUALLY TIRED OF FIGHTING.
+LIFE AS PET NOT BAD IDEA.
+[->][END]
+356: Reserve
+[END]
+357: [71 1]NOT USED
+[->][END]
+358: NOT USED
+[END]
+359: [71 1]THEN IT TIME YOU FEED PET!
+[->][END]
+360: Reserve
+[END]
+361: NOT USED
+[->][END]
+362: [71 1]JUST IN CASE, ME RUN AWAY!
+YOU USE THIS INSTEAD.
+[->][END]
+363: Reserve
+[END]
+364: [71 1]...OK. IF YOU DIE, ME BURY YOU.
+[->]ME JOIN UNTIL THEN!
+[->][END]
+365: Reserve
+[END]
+366: [71 1]M−ME EMERGENCY FOOD!?
+[->]...ME GO NOW!
+[->][END]
+367: Reserve
+[END]
+368: NOT USED
+[->][END]
+369: [71 1]FORCING EVOLUTION? THAT AGAINST
+LAW OF WILD.
+[->]HMHMHM...! IT SOUND FUN!
+[->][END]
+370: Reserve
+[END]
+371: [71 1]NOT USED
+[->][END]
+372: NOT USED
+[END]
+373: [71 1]THAT NO GOOD! ME DISAPPEAR!
+[->]ME BEAST! AT LEAST LEAVE SKIN
+AND BONES...
+[->][END]
+374: Reserve
+[END]
+376: [71 1]Reserve
+[->][END]
+377: Reserve
+[END]
+378: [71 1]Reserve
+[->][END]
+379: Reserve
+[->][END]
+380: [71 1]Reserve
+[->][END]
+381: Reserve
+[END]
+382: [71 1]Reserve
+[->][END]
+383: Reserve
+[END]
+384: [71 1]Reserve
+[->][END]
+385: Reserve
+[END]
+386: Reserve
+[->][END]
+387: [71 1]Reserve
+[->][END]
+388: Reserve
+[END]
+389: [71 1]Reserve
+[->][END]
+390: Reserve
+[END]
+391: [71 1]Reserve
+[->][END]
+392: Reserve
+[END]
+393: Reserve
+[->][END]
+394: [71 1]Reserve
+[->][END]
+395: Reserve
+[END]
+396: [71 1]Reserve
+[->][END]
+397: Reserve
+[END]
+398: [71 1]Reserve
+[->][END]
+399: Reserve
+[END]
+401: [71 1]Reserve
+[->][END]
+402: Reserve
+[END]
+403: [71 1]Reserve
+[->][END]
+404: Reserve
+[->][END]
+405: [71 1]Reserve
+[->][END]
+406: Reserve
+[END]
+407: [71 1]Reserve
+[->][END]
+408: Reserve
+[END]
+409: [71 1]Reserve
+[->][END]
+410: Reserve
+[END]
+411: Reserve
+[->][END]
+412: [71 1]Reserve
+[->][END]
+413: Reserve
+[END]
+414: [71 1]Reserve
+[->][END]
+415: Reserve
+[END]
+416: [71 1]Reserve
+[->][END]
+417: Reserve
+[END]
+418: Reserve
+[->][END]
+419: [71 1]Reserve
+[->][END]
+420: Reserve
+[END]
+421: [71 1]Reserve
+[->][END]
+422: Reserve
+[END]
+423: [71 1]Reserve
+[->][END]
+424: Reserve
+[END]
+426: [71 1]ME STARVING TO DEATH! YOU DO
+SOMETHING...
+[->][END]
+427: Reserve
+[END]
+428: [71 1]”Eat me.”
+”Eat yourself.”
+”There's no hunger in death.”
+[->][END]
+429: NOT USED
+[->][END]
+430: [71 1]AWOOOOOOOO! YOU KIND!
+[->]ME SO TOUCHED, ME FULL!
+[->][END]
+431: Reserve
+[END]
+432: [71 1]NOT USED
+[->][END]
+433: NOT USED
+[END]
+434: [71 1]ME NO CAN EAT BAD−TASTING FOOD.
+[->][END]
+435: Reserve
+[END]
+436: NOT USED
+[->][END]
+437: [71 1]ME MADE OF FLESH AND BLOOD...
+ME EAT FLESH AND BLOOD...
+[->]OOH...! ME CAN EAT FOREVER!
+YOU GENIUS!
+[->][END]
+438: Reserve
+[END]
+439: [71 1]ME NOT VERY MEATY. NO GOOD PART
+TO EAT...
+[->]I KNOW! YOU MAKE ME ALLY!
+MAKE ME FATTER!
+[->][END]
+440: Reserve
+[END]
+441: [71 1]THAT GOOD IDEA! NOM!
+[->].........
+[->]AWOOOOOOOOOOOOOON!
+[->][END]
+442: Reserve
+[END]
+443: NOT USED
+[->][END]
+444: [71 1]THEN ME HAVE NO CHOICE...
+ME SUICIDE!
+[->]......
+[->]...ME TOO HUNGRY TO KILL ME...
+[->][END]
+445: Reserve
+[END]
+446: [71 1]ME WANT AT LEAST PICK PLACE TO
+DIE. ME LIKE YOUR STOCK...
+[->]IF ME DIE THERE, YOU BRING ME
+BACK TO LIFE!
+[->][END]
+447: Reserve
+[END]
+448: [71 1]ME SEE! IF YOU DIE, ME EAT YOU AND
+NOT BE HUNGRY NO MORE!
+[->]...NOW DIE!
+[->][END]
+449: Reserve
+[END]
+451: [71 1]WHAT HUMAN DISH IS GOOD?
+[->][END]
+452: Reserve
+[END]
+453: [71 1]”Roasts.”
+”My mother's cooking.”
+”Nothing at all.”
+[->][END]
+454: NOT USED
+[->][END]
+455: [71 1]ME KNOW THAT! ROAST DELICIOUS!
+[->]GRILL HUMANS THEN EAT WHOLE!
+[->][END]
+456: Reserve
+[END]
+457: [71 1]NOT USED
+[->][END]
+458: NOT USED
+[END]
+459: [71 1]YOU ROAST ME!? NOT HAPPENING!
+[->][END]
+460: Reserve
+[END]
+461: NOT USED
+[->][END]
+462: [71 1]DAD'S COOKING GOOD TOO!
+SHOW DAD MORE RESPECT!
+[->][END]
+463: Reserve
+[END]
+464: [71 1]NOT USED
+[->][END]
+465: NOT USED
+[END]
+466: [71 1]ME REMEMBER ME MOM. NO SEE HER
+IN WHILE...
+[->]ME SHOULD GO SAY HI...
+[->][END]
+467: Reserve
+[END]
+468: NOT USED
+[->][END]
+469: [71 1]THEN YOU TRY COOK THIS. IT TASTY!
+[->][END]
+470: Reserve
+[END]
+471: [71 1]LIAR! YOU WANT TO KEEP ALL GOOD
+THINGS FOR YOU SELF!
+[->]THEN ME JOIN YOU! ME EAT GOOD
+THINGS TOO!
+[->][END]
+472: NOT USED
+[END]
+473: [71 1]YOU NO CAN TASTE GOOD STUFF...
+YOUR SOUL DEAD...
+[->]YOU DIE TOO!
+[->][END]
+474: Reserve
+[END]
+476: [71 1]YOU TAKE CHANCE! YOU DIG HERE!
+HURRY!
+[->][END]
+477: Reserve
+[END]
+478: [71 1]Dig
+Dig
+Dig
+[->][END]
+479: 〉 [Flynn] dug up the ground in
+front of him...
+[->][END]
+480: [71 1]OOH! IT LIFE STONE! YOU LUCKY!
+[->][END]
+481: Reserve
+[END]
+482: [71 1]HRM, NOTHING THERE. YOU NO LUCKY.
+[->]CONSOLATION PRIZE! ME JOIN YOU!
+[->][END]
+483: Reserve
+[END]
+484: [71 1]YOU DID GOOD! THAT YOUR GRAVE!
+[->][END]
+485: Reserve
+[END]
+486: 〉 [Flynn] dug up the ground in
+front of him...
+[->][END]
+487: [71 1]OOH! IT LIFE STONE! YOU LUCKY!
+[->][END]
+488: Reserve
+[END]
+489: [71 1]HRM, NOTHING THERE. YOU NO LUCKY.
+[->]CONSOLATION PRIZE! ME YOUR ALLY!
+[->][END]
+490: Reserve
+[END]
+491: [71 1]YOU DID GOOD! THAT YOUR GRAVE!
+[->][END]
+492: Reserve
+[END]
+493: 〉 [Flynn] dug up the ground in
+front of him...
+[->][END]
+494: [71 1]OOH! IT LIFE STONE! YOU LUCKY!
+[->][END]
+495: Reserve
+[END]
+496: [71 1]HRM, NOTHING THERE. YOU NO LUCKY.
+[->]CONSOLATION PRIZE! ME YOUR ALLY!
+[->][END]
+497: Reserve
+[END]
+498: [71 1]YOU DID GOOD! THAT YOUR GRAVE!
+[->][END]
+499: Reserve
+[END]
+501: [71 1]Reserve
+[->][END]
+502: Reserve
+[END]
+503: [71 1]Reserve
+[->][END]
+504: Reserve
+[->][END]
+505: [71 1]Reserve
+[->][END]
+506: Reserve
+[END]
+507: [71 1]Reserve
+[->][END]
+508: Reserve
+[END]
+509: [71 1]Reserve
+[->][END]
+510: Reserve
+[END]
+511: Reserve
+[->][END]
+512: [71 1]Reserve
+[->][END]
+513: Reserve
+[END]
+514: [71 1]Reserve
+[->][END]
+515: Reserve
+[END]
+516: [71 1]Reserve
+[->][END]
+517: Reserve
+[END]
+518: Reserve
+[->][END]
+519: [71 1]Reserve
+[->][END]
+520: Reserve
+[END]
+521: [71 1]Reserve
+[->][END]
+522: Reserve
+[END]
+523: [71 1]Reserve
+[->][END]
+524: Reserve
+[END]
+526: [71 1]Reserve
+[->][END]
+527: Reserve
+[END]
+528: [71 1]Reserve
+[->][END]
+529: Reserve
+[->][END]
+530: [71 1]Reserve
+[->][END]
+531: Reserve
+[END]
+532: [71 1]Reserve
+[->][END]
+533: Reserve
+[END]
+534: [71 1]Reserve
+[->][END]
+535: Reserve
+[END]
+536: Reserve
+[->][END]
+537: [71 1]Reserve
+[->][END]
+538: Reserve
+[END]
+539: [71 1]Reserve
+[->][END]
+540: Reserve
+[END]
+541: [71 1]Reserve
+[->][END]
+542: Reserve
+[END]
+543: Reserve
+[->][END]
+544: [71 1]Reserve
+[->][END]
+545: Reserve
+[END]
+546: [71 1]Reserve
+[->][END]
+547: Reserve
+[END]
+548: [71 1]Reserve
+[->][END]
+549: Reserve
+[END]
+551: [71 1]YOU HUNGRY NOW?
+[->][END]
+552: Reserve
+[END]
+553: [71 1]”I'm HUNGRY.”
+”I'm FULL.”
+[->][END]
+554: NOT USED
+[->][END]
+555: [71 1]ME HUNGRY. VERY HAPPY.
+[->]YOU HUNGRY. ME CHEER FOR YOU!
+[->][END]
+556: Reserve
+[END]
+557: [71 1]ME HUNGRY. HUNTING BAD LATELY...
+[->]WE HUNT TOGETHER! HUNT GO WELL
+THIS TIME!
+[->][END]
+558: Reserve
+[END]
+559: [71 1]YOU TRY EAT ME!? ME NO LET YOU!
+[->][END]
+560: Reserve
+[END]
+561: NOT USED
+[->][END]
+562: [71 1]ME FULL TOO. ATE LOTS OF HUMANS.
+[->]YOU ATE HUMANS TOO?
+[->][END]
+563: Reserve
+[END]
+564: [71 1]NOT USED
+[->][END]
+565: NOT USED
+[END]
+566: [71 1]SO YOUR STOCK FULL... TOO BAD...
+[->][END]
+567: Reserve
+[END]
+568: NOT USED
+[->][END]
+569: [71 1]NOT USED
+[->][END]
+570: NOT USED
+[END]
+571: [71 1]NOT USED
+[->][END]
+572: NOT USED
+[END]
+573: [71 1]NOT USED
+[->][END]
+574: NOT USED
+[END]
+576: [71 1]Reserve
+[->][END]
+577: Reserve
+[END]
+578: [71 1]Reserve
+[->][END]
+579: Reserve
+[->][END]
+580: [71 1]Reserve
+[->][END]
+581: Reserve
+[END]
+582: [71 1]Reserve
+[->][END]
+583: Reserve
+[END]
+584: [71 1]Reserve
+[->][END]
+585: Reserve
+[END]
+586: Reserve
+[->][END]
+587: [71 1]Reserve
+[->][END]
+588: Reserve
+[END]
+589: [71 1]Reserve
+[->][END]
+590: Reserve
+[END]
+591: [71 1]Reserve
+[->][END]
+592: Reserve
+[END]
+593: Reserve
+[->][END]
+594: [71 1]Reserve
+[->][END]
+595: Reserve
+[END]
+596: [71 1]Reserve
+[->][END]
+597: Reserve
+[END]
+598: [71 1]Reserve
+[->][END]
+599: Reserve
+[END]
+601: [71 1]Reserve
+[->][END]
+602: Reserve
+[END]
+603: [71 1]Reserve
+[->][END]
+604: Reserve
+[->][END]
+605: [71 1]Reserve
+[->][END]
+606: Reserve
+[END]
+607: [71 1]Reserve
+[->][END]
+608: Reserve
+[END]
+609: [71 1]Reserve
+[->][END]
+610: Reserve
+[END]
+611: Reserve
+[->][END]
+612: [71 1]Reserve
+[->][END]
+613: Reserve
+[END]
+614: [71 1]Reserve
+[->][END]
+615: Reserve
+[END]
+616: [71 1]Reserve
+[->][END]
+617: Reserve
+[END]
+618: Reserve
+[->][END]
+619: [71 1]Reserve
+[->][END]
+620: Reserve
+[END]
+621: [71 1]Reserve
+[->][END]
+622: Reserve
+[END]
+623: [71 1]Reserve
+[->][END]
+624: Reserve
+[END]
+626: [71 1]Reserve
+[->][END]
+627: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+628: [71 1]Reserve
+[->][END]
+629: Reserve
+[->][END]
+630: [71 1]Reserve
+[->][END]
+631: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+632: [71 1]Reserve
+[->][END]
+633: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+634: [71 1]Reserve
+[->][END]
+635: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+636: Reserve
+[->][END]
+637: [71 1]Reserve
+[->][END]
+638: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+639: [71 1]Reserve
+[->][END]
+640: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+641: [71 1]Reserve
+[->][END]
+642: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+643: Reserve
+[->][END]
+644: [71 1]Reserve
+[->][END]
+645: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+646: [71 1]Reserve
+[->][END]
+647: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+648: [71 1]Reserve
+[->][END]
+649: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+651: [71 1]Reserve
+[->][END]
+652: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+653: [71 1]Reserve
+[->][END]
+654: Reserve
+[->][END]
+655: [71 1]Reserve
+[->][END]
+656: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+657: [71 1]Reserve
+[->][END]
+658: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+659: [71 1]Reserve
+[->][END]
+660: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+661: Reserve
+[->][END]
+662: [71 1]Reserve
+[->][END]
+663: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+664: [71 1]Reserve
+[->][END]
+665: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+666: [71 1]Reserve
+[->][END]
+667: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+668: Reserve
+[->][END]
+669: [71 1]Reserve
+[->][END]
+670: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+671: [71 1]Reserve
+[->][END]
+672: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+673: [71 1]Reserve
+[->][END]
+674: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+676: [71 1]Reserve
+[->][END]
+677: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+678: [71 1]Reserve
+[->][END]
+679: Reserve
+[->][END]
+680: [71 1]Reserve
+[->][END]
+681: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+682: [71 1]Reserve
+[->][END]
+683: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+684: [71 1]Reserve
+[->][END]
+685: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+686: Reserve
+[->][END]
+687: [71 1]Reserve
+[->][END]
+688: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+689: [71 1]Reserve
+[->][END]
+690: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+691: [71 1]Reserve
+[->][END]
+692: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+693: Reserve
+[->][END]
+694: [71 1]Reserve
+[->][END]
+695: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+696: [71 1]Reserve
+[->][END]
+697: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+698: [71 1]Reserve
+[->][END]
+699: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+701: [71 1]Reserve
+[->][END]
+702: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+703: [71 1]Reserve
+[->][END]
+704: Reserve
+[->][END]
+705: [71 1]Reserve
+[->][END]
+706: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+707: [71 1]Reserve
+[->][END]
+708: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+709: [71 1]Reserve
+[->][END]
+710: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+711: Reserve
+[->][END]
+712: [71 1]Reserve
+[->][END]
+713: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+714: [71 1]Reserve
+[->][END]
+715: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+716: [71 1]Reserve
+[->][END]
+717: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+718: Reserve
+[->][END]
+719: [71 1]Reserve
+[->][END]
+720: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+721: [71 1]Reserve
+[->][END]
+722: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+723: [71 1]Reserve
+[->][END]
+724: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+726: [71 1]Reserve
+[->][END]
+727: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+728: [71 1]Reserve
+[->][END]
+729: Reserve
+[->][END]
+730: [71 1]Reserve
+[->][END]
+731: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+732: [71 1]Reserve
+[->][END]
+733: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+734: [71 1]Reserve
+[->][END]
+735: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+736: Reserve
+[->][END]
+737: [71 1]Reserve
+[->][END]
+738: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+739: [71 1]Reserve
+[->][END]
+740: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+741: [71 1]Reserve
+[->][END]
+742: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+743: Reserve
+[->][END]
+744: [71 1]Reserve
+[->][END]
+745: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+746: [71 1]Reserve
+[->][END]
+747: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+748: [71 1]Reserve
+[->][END]
+749: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+751: [71 1]Reserve
+[->][END]
+752: Reserve
+[END]
+753: [71 1]Reserve
+[->][END]
+754: Reserve
+[->][END]
+755: [71 1]Reserve
+[->][END]
+756: Reserve
+[END]
+757: [71 1]Reserve
+[->][END]
+758: Reserve
+[END]
+759: [71 1]Reserve
+[->][END]
+760: Reserve
+[END]
+761: Reserve
+[->][END]
+762: [71 1]Reserve
+[->][END]
+763: Reserve
+[END]
+764: [71 1]Reserve
+[->][END]
+765: Reserve
+[END]
+766: [71 1]Reserve
+[->][END]
+767: Reserve
+[END]
+768: Reserve
+[->][END]
+769: [71 1]Reserve
+[->][END]
+770: Reserve
+[END]
+771: [71 1]Reserve
+[->][END]
+772: Reserve
+[END]
+773: [71 1]Reserve
+[->][END]
+774: Reserve
+[END]

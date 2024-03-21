@@ -1,0 +1,35 @@
+0: (Ring of Gaea member) [7a 53][13 1, 404321]If we allow the Ashura−kai to run
+Tokyo, the precious survivors will
+suffer and become corrupted.
+[->]That is why the Ring of Gaea must
+change Tokyo.
+[->]Tokyo must be ruled by the strong.
+That gives us all a chance for true
+equality.
+[END]
+1: (Ring of Gaea member) [7a 53][13 1, 404302]Now is the time to release Tokyo
+from the reign of the Ashura−kai!
+[->]The Ring of Gaea will bring change!
+[->]Tokyo must be ruled by the strong.
+That gives us all a chance for true
+equality.
+[END]
+2: (Ring of Gaea member) [7a 53][13 1, 404311]Can you imagine living in a Tokyo
+dominated by Tayama?
+[->]The Ring of Gaea offered you a great
+future, a future where only the
+strong will rule.
+[->]Your choice will lead you all to a
+tragic end. Your fate as demon
+fodder awaits...
+[END]
+3: (Ring of Gaea member) [7a 53][13 1, 404343]Our goals for Tokyo will be realized
+once we seize the Yamato Perpetual
+Reactor...
+[->]That is what Lady Yuriko said, but I
+don't really know what she actually
+meant by it.
+[->]I will dedicate all my strength into
+this mission to take control of the
+reactor!
+[END]

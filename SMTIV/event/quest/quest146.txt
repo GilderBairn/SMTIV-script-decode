@@ -1,0 +1,16 @@
+0: At last, the Hunter Tournament Finals are
+about to begin. All Hunters representing
+their districts, meet at the Tokyo Dome in
+Suidobashi. We'll have all the old favorites
+competing this year, as well as one
+surprising rookie. It's going to be crazy!
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+    
+[END]

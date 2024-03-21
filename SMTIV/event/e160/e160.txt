@@ -1,0 +1,15 @@
+0: 〉 There is no one here...
+[END]
+1: (Jonathan) [7a 3][7b 786435, 65537][13 0, 160001]Where is Lilith...?
+[END]
+2: (Man's voice) [13 0, 160002]Pathetic fools who cannot comprehend
+Lady Yuriko's wisdom...
+[END]
+3: (Ring of Gaea man) [7a 53][13 0, 160003]You are fighting the wrong people.
+[END]
+4: 〉 The Domain's seal is still active...
+[END]
+5: (Jonathan) [7a 3][7b 786435, 65537][13 0, 160004]Lilith... Where has she gone...?
+[END]
+6: 〉 [Flynn] proceeded further in...
+[END]

@@ -1,0 +1,15 @@
+0: This is a job from Q the blacksmith.
+He requires [Color:0x5][Amount 1][Color:0x0] [Color:0x5][Item 1][Color:0x0]s.
+Gryphons may be strong, but they can be beaten.
+Also, he said he'd start selling the
+[Color:0x5]”Bone Sword”[Color:0x0] at his shop, which
+would be perfect for you guys. Best of luck!
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

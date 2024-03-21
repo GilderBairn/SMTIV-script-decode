@@ -1,0 +1,97 @@
+0: Look at blackboard
+Talk
+Deliver
+[END]
+1: Deliver
+Cancel
+[END]
+6: (K) [7a 22]That'll be [Amount 1] Macca.
+Is that all right?
+[END]
+7: Heal
+Cancel
+[END]
+8: (K) [7a 22][13 1, 405010]Ah, did you bring something?
+[END]
+10: (K) [7a 22][13 1, 405000]Ah, welcome, prentice.
+[END]
+11: (K) [7a 22][13 1, 405004]Is there anything else?
+[END]
+12: (K) [7a 22][13 4, 405001]Come again.
+[END]
+13: (K) [7a 22]Understood. I was looking for...
+[END]
+14: (K) [7a 22][Item 1] x[Amount 1].
+[END]
+15: (K) [7a 22][Item 1].
+[END]
+16: (K) [7a 22]Okay, I'll keep the
+[Item 1] x[Amount 1] safe.
+[END]
+17: (K) [7a 22]Okay, I'll keep the
+[Item 1] safe.
+[END]
+18: (K) [7a 22][13 1, 405002]I have indeed accepted it.
+[END]
+19: (K) [7a 22][13 1, 405003]You don't have it?
+[END]
+20: 〉 [Flynn] looks at the blackboard.
+It shows the current rankings...
+[END]
+21: (Burroughs) [7a 2][13 0, 502024]I found some new quests. I'll go ahead
+and register them to the list.
+[END]
+22: 〉 Quest(s) have been added to the
+Gauntlet.
+[END]
+23: (Burroughs) [7a 2][13 0, 502023]I've checked, but... there don't seem
+to be any new quests.
+[END]
+24: 〉 It seems [Flynn] doesn't yet
+have enough rank to be listed.
+[END]
+25: 〉 It seems [Flynn] didn't make
+the rankings this time.
+[END]
+26: (K) [7a 22]Hoy, I can't heal you.
+[END]
+27: (K) [7a 22][13 0, 60001]Ah, welcome, warriors of light.
+[END]
+28: (K) [7a 22][13 0, 60001]Ah, welcome.
+[END]
+100: Deliver
+Cancel
+[END]
+101: (K) [7a 22]Understood. I was after, hm...
+[END]
+102: (K) [7a 22]That's right.
+[Item 1] x[Amount 1].
+[END]
+103: (K) [7a 22]That's right.
+[Demon name 1].
+[END]
+104: (K) [7a 22]That's right.
+[Item 1].
+[END]
+105: (K) [7a 22]Very well, I'll keep the
+[Item 1] x[Amount 1] safe.
+[END]
+106: (K) [7a 22]Very well, I'll keep the
+[Demon name 1] safe.
+[END]
+107: (K) [7a 22]Very well, I'll keep the
+[Item 1] safe.
+[END]
+108: 〉 There are currently no delivery quests
+you can fulfill.
+[END]
+109: (K) [7a 22][13 1, 405021][Demon name 1] is currently
+registered for the DDS.
+[->]You need to cancel its registration
+and then come again.
+[END]
+110: (K) [7a 22][13 1, 405021]It seems [Demon name 1] is
+lost right now.
+[->]Return here after you've taken it back
+into the fold.
+[END]

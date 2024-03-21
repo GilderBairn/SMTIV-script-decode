@@ -1,0 +1,5 @@
+0: (Tokisada) [7a 0][13 0, 351001]...What is happening?
+[END]
+1: (Tokisada) [7a 0][13 0, 351002]I see... I am to be a sacrifice to God
+once more...
+[END]

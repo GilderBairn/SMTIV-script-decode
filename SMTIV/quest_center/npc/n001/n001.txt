@@ -1,0 +1,510 @@
+0: (K) [13 1, 405000]Ol' K's the one with a lesson to teach
+today.
+[->]First, have a look at the blackboard
+behind the bar.
+[END]
+1: (K) [13 1, 405010]Eh? Where did the name ”K” originate?
+Why, it's simply the order of things.
+[->]The first bartender was A, the next
+was B, then C... After these many
+years, I, the current barman, am K.
+[->]I'm not sure exactly how many cycles
+have passed. It simply goes to show
+you how long our history is.
+[END]
+2: (K) [13 1, 405000]It looks to me like you were the sole
+winner of that ”contest.”
+[->]Talking of which, where are Walter and
+Navarre? The contest's over, but they're
+still in Naraku...?
+[END]
+3: (K) [13 1, 405010]So, I heard that you ran afoul of a
+demon's Domain?
+[->]Whenever I hear that word ”Domain,”
+I feel my arm and eye throb...
+[->]No, it's something that happened long
+ago. Before you were born, I'd wager.
+[END]
+4: (K) [13 1, 405010]That Hugo was once a Samurai too. Though
+he was more effective with his brush
+than his sword...
+[->]He persuaded the king with his grand
+righteousness and won the people's
+support by claiming it was all for them.
+[->]You see, he foresaw the people's response
+and fixed it so that any who rejected
+his ideals was branded an evildoer.
+[->]...Too clever by half, if you ask me.
+[END]
+5: (K) [13 1, 405010]Hope's been coming by a lot lately.
+He's been grumbling, that one...
+[->]They can slay the people who've become
+demons, but they can't prevent it from
+happening to more of our kinsmen.
+[->]Hugo's public execution is nothing more
+than pageantry to turn the public eye
+away from the true problem...
+[->]But I don't mind temporary measures,
+as long as they can stem the tide
+of demons.
+[END]
+6: (K) [13 1, 405010][最近/さいきん] ホープがよく[顔/かお]だしてくれるんだ
+[奴/やつ]がこぼしてたよ…
+[->][悪魔/あくま]に[堕/お]ちた[民/たみ]を[討/う]つことはできても
+…[民/たみ]が[悪魔/あくま]に[堕/お]ちることは[防/ふせ]げないってな
+[->]ウーゴの[公開処刑/こうかいしょけい]なんて [民/たみ]の[目/め]を
+[問題点/もんだいてん]から[背/そむ]けさせるだけの『[演出/えんしゅつ]』だ…
+[->]けど[仮初/かりそめ]でもいい [悪魔/あくま]の[数/かず]を[抑/おさ]えられる
+…それは[期待/きたい]してるんだ
+[END]
+7: (K) [13 1, 405010]Gabby's one of the Monastery's most
+senior members. Nobody knows much
+about her past, though.
+[->]I recall asking her out to breakfast
+when I was an active Samurai. I didn't
+stand a chance, naturally.
+[->]She's lost none of her beauty in the
+years since... which is a bit eerie,
+in truth. How old must she be now?
+[END]
+8: (K) [13 1, 405010]You'll find if you talk to the men in
+the castle and the castle town, most of
+them will speak of the new leaders.
+[->]It may sound hard to credit, but everyone
+had the same dream that night.
+[->]I was no exception...
+[END]
+9: (K) [13 1, 405020]Speaking personally, I don't think that
+those who are given power should act
+selfishly.
+[->]It tends to make the lives of those
+around them miserable.
+[->]You have power, too, ever since you
+became a Samurai. Who will you use your
+power on behalf of?
+[END]
+10: (K) [13 1, 405010]Hoy, Jonathan, [Flynn].
+[->]I heard that the new leaders have
+appointed you two to slay the Black
+Samurai.
+[->]It wasn't so long ago that you prentices
+couldn't even use the blackboard...
+And look at you now!
+[->]I warn you, though. Your opponent is
+a dreadfully clever woman who has
+eluded our grasp at every turn.
+[->]She'll be a handful, that one.
+Go cautiously, all right?
+[END]
+11: (K) [13 1, 405020]We all had the same dream on the same
+night again. A dream of a new millennium
+brought about by the warrior of light.
+[->]But the man who appeared in that dream
+as a candidate to martyr himself to
+become God's chariot...
+[->]Perhaps I saw wrongly, but he seemed
+to resemble Jonathan...
+[END]
+12: (K) [13 1, 405010]About what Isabeau said... How we're
+all to live in Tokyo now...
+[->]The irony may be that this is ultimately
+thanks to the Literature the Black
+Samurai brought, and our new leaders.
+[->]If all our kingdom's people were alive
+and well, this would be a futile
+endeavor.
+[->]It reminds me of the talk about how only
+”God's chosen” can be saved. I don't
+credit it... but I can't deny it.
+[END]
+13: (Prudent Samurai) [13 1, 403001]K was originally the Samurai's Commander.
+His arm and eye were lost in honorable
+combat...
+[->]Even Sir Hope, our present Commander,
+pales in comparison.
+[END]
+14: (Prudent Samurai) [13 1, 403001]This talk of more demons seen in Naraku
+has in truth been cropping up for
+some months.
+[->]And now, a demon emerges who is capable
+of erecting a Domain... I hope this
+does not bode ill...
+[END]
+15: (Prudent Samurai) [13 1, 403001]I don't think that any have been awarded
+the Third Order of Merit since K was an
+active Samurai.
+[->]With all the melancholy news of late,
+your heroism is quite inspiring.
+[END]
+16: (Prudent Samurai) [13 1, 403001]I don't think that any have been awarded
+the Third Order of Merit since K was an
+active Samurai.
+[->]With all the melancholy news of late,
+your heroism is quite inspiring.
+[END]
+17: (Prudent Samurai) [13 1, 403001]Shene Duque is holy ground. It's said
+to be the site in this kingdom closest
+to God.
+[->]Perhaps that's the reason that demons
+have never been seen in Shene Duque.
+[END]
+18: (思慮深いサムライ) [13 1, 403001][新/あたら]しい[指導者/しどうしゃ]は[相変/あいか]わらず[正体不明/しょうたいふめい]
+[隠然/いんぜん]と[権力/けんりょく]だけが[浸透/しんとう]している[風/ふう]だ…
+[->][東/ひがし]のミカド[国/こく]は
+この[先/さき]どうなってしまうのだろう…
+[END]
+19: (Prudent Samurai) [13 1, 403001]Thinking on it, the Eastern Kingdom of
+Mikado and Tokyo were both distorted
+in their own way.
+[->]If that distortion is corrected, it
+should be a thing to be welcomed.
+[->]...Even if it means the end of our
+home country.
+[END]
+20: (Talkative Samurai) [13 1, 403042]There is a clear divide between the
+loud ones and the quiet ones in this
+year's crop of prentices.
+[->]Every time Walter and Navarre come
+around, they say anything that pops
+into their heads.
+[->]Whereas Jonathan and Isabeau are oddly
+quiet, it seems. I feel almost ashamed
+to engage them in idle conversation.
+[->]And then there's yourself, who is nearly
+silent. I can't recall the last time I
+met anyone who said so little.
+[END]
+21: (Talkative Samurai) [13 1, 403001]...Ho there, prentice.
+[->]I... I am not daunted by the Black
+Samurai. 'Tis just that she... is
+a lady...
+[->]A scoundrel who has wronged our kingdom
+she may be, but my blade was not meant
+to be wielded against the fairer sex.
+[END]
+22: (Talkative Samurai) [13 1, 403002]Ho there, prentice. I heard that you
+have the Black Samurai in hand. Everyone
+in the castle town is aquiver about it!
+[->]Though your names haven't been spoken.
+I suppose that is how the Monastery
+does things...
+[->]But I know quite well the names of
+our kingdom's heroes.
+[END]
+23: (Talkative Samurai) [13 1, 403001]Sister Gabby has given the order to keep
+the Black Samurai's resurrection a grave
+secret.
+[->]S−Still, I believe the people should
+be told...
+[->]This is a dire situation that requires
+caution on the part of the people. I see
+no reason to hide this from them.
+[END]
+24: (Talkative Samurai) [13 1, 403042]Ho there, prentice... Ah, but my
+mistake. You're no prentice, not now.
+Are you alone today?
+[->]Jonathan's gone to the entrance of
+Naraku and Walter, it seems, has
+retired to the barracks.
+[->]Well, you've spent enough time on the
+same missions thus far. Take some time
+for yourself once in a while.
+[END]
+25: (Talkative Samurai) [13 1, 403001]Ah, [Flynn]. Our new leaders
+speak very highly of you.
+[->]Not only did you give the new Terminal
+its name, you've become a blessed
+warrior of light.
+[->]You've uttelry overshadowed me. As a
+fellow Samurai, it's quite vexing...
+Yet I'm not entirely unhappy.
+[END]
+26: (Talkative Samurai) [13 1, 403001]Ah, it's you, [Flynn].
+Was what Isabeau said true...?
+[->]But you named the new Terminal...
+You two were awarded the Third Order
+of Merit together...
+[->]Very well, I'll believe you. Who am I
+to doubt the words of my proud fellows?
+[END]
+27: (Old−looking Samurai) [13 1, 403001]Hoy, prentice. Let me give you a little
+advice as a Master.
+[->]”Don't get upset at everything the
+Monastery does.” You'll see what I
+mean by that in time...
+[END]
+28: (Old−looking Samurai) [13 1, 403002]Until now, the Samurai mostly came to
+us from the ranks of the Luxurors.
+[->]I'm not condoning what Navarre and his
+cronies did... but they probably didn't
+understand.
+[->]This may have been their first time
+coming into contact with Casualries,
+after all.
+[END]
+29: (Old−looking Samurai) [13 1, 403002]That young lady next to Hugo at the
+emergency meeting... Gabby, yes?
+[->]I've heard of her before, but this is
+the first I've seen of her in person.
+[->]If Hugo keeps her close by, she must
+be able indeed.
+[END]
+30: (Old−looking Samurai) [13 1, 403002]Sister Gabby's administration is nothing
+short of miraculous.
+[->]In such a short time, she made the
+arrangements for such a large gathering
+all on her own.
+[->]Everything seems to fall perfectly into
+place for her. It's as if she knew this
+would happen from the start.
+[END]
+31: (Old−looking Samurai) [13 1, 403002]I won't be enjoying any drinks here
+for much longer.
+[->]They're sending Samurai out to each
+region in a thorough hunt for the
+Black Samurai.
+[->]I'm to head up the search in Cebouia.
+[END]
+32: (Old−looking Samurai) [13 1, 403002]I was stationed in Cebouia to search
+for the Black Samurai...
+[->]But the villagers who had turned to
+demons cut off our means of escape.
+And then...
+[->]A ray of light descended from the night
+sky, followed by a deafening roar...
+I'm ashamed to say I lost consciousness.
+[->]When I awoke, I trembled at the sight
+before me. Every last one of the demons
+had disappeared.
+[END]
+33: (Old−looking Samurai) [13 1, 403002]The Eastern Kingdom of Mikado will return
+to the olden days wherein the people and
+angels joined hands to praise God.
+[->]Seeing God's chariot with you is all
+the proof that I require.
+[END]
+34: (Brotherly Samurai) [13 1, 403042]He is quite warmhearted now, but when
+Mr. K was one of us... H−He was a terror
+to behold.
+[->]If he spotted any errors in our kit,
+we would face his dreadful fists, 
+excuses be damned...
+[->]I can laugh about it now, but then...
+I thought that Mr. K was more of a demon
+than the actual beasts we hunted.
+[END]
+35: (Brotherly Samurai) [13 1, 403042]I saw myself the eastern skies turn
+bluish−white... the bloodied people
+collapsed upon the ground.
+[->]It seems they intended to reach Mikado
+Castle from another village, yet they
+used all their strength at the gates.
+[->]Those merciless wounds could not have
+been dealt by humans. And some say there
+are demons who can erect Domains afoot...
+[->]I believe that the Commander decided on
+his sudden departure in order to confirm
+these recent rumors.
+[END]
+36: (Brotherly Samurai) [13 1, 403042]The Black Samurai has been apprehended.
+This ought to be a time to raise a glass
+in celebration...
+[->]But K there seems to have a cloud over
+his brow.
+[END]
+37: (Brotherly Samurai) [13 1, 403042]I've seen our Commander speaking directly
+to Sister Gabby often of late.
+[->]Given Hugo's penchant for self−
+aggrandizement, I thought he would be
+furious to be so upstaged...
+[->]But on the contrary, 'twould seem he's
+not exchanged words with Sister Gabby
+at all.
+[END]
+38: (Brotherly Samurai) [13 1, 403202]Is something wrong with Isabeau? I saw
+her standing alone at Obelisk Plaza.
+[->]Don't tell me that romance is blossoming
+amongst the Samurai... Honestly, don't.
+I don't want to think about it...
+[->]Then again, we owe it to our new leaders
+that we can discuss such things now.
+[END]
+39: (Brotherly Samurai) [13 1, 403202]Is something wrong with Isabeau? I saw
+her standing alone at Obelisk Plaza.
+[->]Don't tell me that romance is blossoming
+amongst the Samurai... Honestly, don't.
+I don't want to think about it...
+[->]Then again, we owe it to our new leaders
+that we can discuss such things now.
+[END]
+40: (兄貴肌のサムライ) [13 1, 403042][最初/さいしょ]にイザボーの[話/はなし]を[聞/き]いた[時/とき]は
+[何/なん]の[冗談/じょうだん]かと[思/おも]っちまってさ…
+[->]でもあの[真剣/しんけん]な[顔/かお]を[見/み]て
+こいつは[本気/ほんき]なんだって[分/わ]かった
+[->]…[民衆/みんしゅう]の[避難/ひなん]は[俺/おれ]たちが[引/ひ]き[受/う]ける
+お[前/まえ]は[東京/とうきょう]に[行/い]って[悪魔/あくま]を[倒/たお]せ
+[END]
+41: (Armored Samurai) [13 1, 403002]The Monastery seems to have existed 
+before the kingdom's founding, but that
+is not true of our order.
+[->]King Aquila established the Samurai
+personally. You should be honored to
+be counted among them.
+[END]
+42: (Armored Samurai) [13 1, 403002]The Monastery seems to have existed 
+before the kingdom's founding, but that
+is not true of our order.
+[->]King Aquila established the Samurai
+personally. You should be honored to
+be counted among them.
+[END]
+43: (Armored Samurai) [13 1, 403042]I'm a Samurai, chosen by the Gauntlet!
+[->]How dare the Monastery treat me as
+a pawn!? They could not rid the world
+of even a single demon...!
+[END]
+44: (Armored Samurai) [13 1, 403042]I'm a Samurai, chosen by the Gauntlet!
+[->]How dare the Monastery treat me as
+a pawn!? They could not rid the world
+of even a single demon...!
+[END]
+45: (Armored Samurai) [13 1, 403042]Dammit... How can I pass up a drink
+at such a time?
+[->]Everything has changed. This is no longer
+the kingdom I know!
+[END]
+46: (Armored Samurai) [13 1, 403042]Tensions have been at a fever pitch
+between the Ashura−kai and Ring of Gaea,
+the two main factions in Tokyo.
+[->]The conflict seems to be on the verge
+of boiling over...
+[END]
+47: (Armored Samurai) [13 1, 403042]They were recruiting for an urgent
+mission before the Black Samurai was
+slain...
+[->]I nominated myself, but the Commander
+chose Jonathan instead.
+[->]Well, I can't fault his decision.
+Jonathan is a particularly distinguished
+member of our order, after all.
+[END]
+48: (Armored Samurai) [13 1, 403042]Our kingdom has God's chariot and the
+warrior of light! How could we possibly
+fall before the vile demons?
+[->]Some of us here have begun celebrating
+a trifle early. You should hurry to play
+out your role...
+[->]It won't be a celebration without you,
+after all. Make sure to prepare some
+tasteful remarks, yes?
+[END]
+49: (Isabeau) ...If only both wishes could come true.
+That is a path I'd gladly walk...
+[->]But such thoughts are naive. The world
+is spun through our choices and
+decisions.
+[->]What kind of world will we weave...?
+[END]
+50: (目の鋭いサムライ) ………
+[END]
+51: サムライがこちらを[睨/にら]んでいる
+どうやら[場違/ばちが]いなようだ…
+[END]
+52: (目の鋭いサムライ) [新人/しんじん]がこんな[所/ところ]で[何/なに]をしている
+さっさと[訓練/くんれん]に[行/い]ってこい
+[END]
+102: (K) [13 1, 405010]Did I hear right that you and Walter
+were ”taught a lesson” by the Masters?
+[->]There was constant squabbling in my
+day as well, but to think they'd band
+together as a group to trick you...
+[->]Well, it wouldn't have been done in
+my day. I can't understand what the
+young ones were thinking.
+[END]
+103: (K) [13 1, 405010]...The situation seems quite serious.
+I heard from Hope about the ”Black
+Samurai.”
+[->]She has a Gauntlet and uses demons, eh?
+In this kingdom, only Samurai are known
+for those things...
+[->]In which case, the Eastern Kingdom of
+Mikado must have run afoul of a foreign
+country.
+[END]
+104: (K) [13 1, 405022]...Take a look at the blackboard.
+Hugo's added more official business.
+[->]Hope will be leading the extermination
+of demons in the various regions. That
+much, at least, is a relief...
+[->]But there's no denying that our kingdom
+faces a crisis. He must have a deep and
+abiding love for ”mystic relics”...
+[END]
+110: (K) [13 1, 405010]Hoy, Walter, [Flynn].
+[->]I can tell simply by looking at your
+faces that you're up to something.
+[->]Let me give you a piece of advice as a
+master Samurai. Don't do anything that
+would be harmful to the kingdom.
+[->]Then again, there is a bit in the
+Samurai code about, ”If you commit to
+a thing, see it through to the end.”
+[->]I wonder which would apply in a case
+such as this. I don't know... I suppose
+it's for you to decide.
+[END]
+111: (K) [13 1, 405020]I've noticed a decline in customers
+today. Is it because of the commotion
+outside?
+[->]I think I can more or less imagine
+what's going on...
+[->]A Samurai founded this kingdom, and it
+will be a Samurai who draws the curtains
+on it, eh...?
+[->]Let me put on a brave face this once
+and say that I had a feeling this day
+would eventually come...
+[->]And if it has, then I am thankful to
+see it happen in my lifetime.
+[END]
+124: (Talkative Samurai) [13 1, 403042]Ah, Jonathan. And [Flynn] too.
+[->]I always see you two together. You should
+value your friends when you're young.
+[->]It's good to have someone you can share
+memories with...
+[->]If you come to that realization late
+in life, after they're gone... you'll
+end up a sad old man like me.
+[END]
+129: (Old−looking Samurai) [13 1, 403002]The true seeker of the Terminal and
+that ”Counter−Demon Force” base...
+[->]Seems it was Gabby, not Hugo. Though
+I believe Hugo was the one to give
+the order...
+[->]That Gabby woman is quite canny for
+one so young.
+[END]
+148: (Armored Samurai) [13 1, 403002]If the Eastern Kingdom of Mikado is not
+long for this world, then this next
+quest will be our last.
+[->]Our task is to escort the people to the
+new land. This would appear to also be
+our most overwhelming endeavor...
+[END]
+224: (Talkative Samurai) [13 1, 403042]Ho there, Walter. And [Flynn] too.
+[->]I always see you two together. You should
+value your friends when you're young.
+[->]It's good to have someone you can share
+memories with...
+[->]If you come to that realization late
+in life, after they're gone... you'll
+end up a sad old man like me.
+[END]
+1042: (Armored Samurai) [13 1, 403012]I'm sure that wretched monk will be present at
+the emergency meeting as well. I am less
+than eager to be in his presence...
+[->]Ah, but never mind me. I'll go once I've
+drunk this. You were called by the
+Commander, no? You should go to him.
+[END]

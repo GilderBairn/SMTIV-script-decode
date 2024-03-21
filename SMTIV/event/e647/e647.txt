@@ -1,0 +1,61 @@
+0: 〉 There is a demon standing at the
+back of the room...
+[END]
+1: (Demon) [7a 65355][13 1, 411200]There you are, human. So, you're
+my next challenger, huh?
+[->]Looks like that Hunter is keeping
+his promise to me.
+[->]My name is Take−Mikazuchi.
+[->](Take−Mikazuchi) [7a 65355]I was summoned to this country in
+order to save it while it was losing
+a war about a hundred years ago.
+[->]But the other nation had stronger
+spirits on their side. I was severely
+injured, and the country lost the war...
+[->]Ever since then, I've been hanging
+out around here. It's rather dull.
+[->]This land lacks a Summoner.
+[->][13 1, 411201]And today, you've come to challenge
+me...
+[->]So I suppose the Hunter I asked must
+think highly of you.
+[->]All right, that's enough chit−chat.
+Are you ready to fight?
+[END]
+2: ”Yes.”
+”No.”
+[END]
+3: (Take−Mikazuchi) [7a 65355][13 1, 411204]Good answer!
+[->]That Hunter met my expectations
+better than I could have hoped!
+He's brought me a good opponent.
+[->]Let's fight!
+[END]
+4: (Take−Mikazuchi) [7a 65355][13 1, 411211]Well, that just killed the mood.
+[->]But, if you don't want to face off
+against a god of war, I certainly
+can't blame you.
+[->]Come back when you feel like fighting
+me.
+[END]
+5: (Take−Mikazuchi) [7a 65355][13 1, 411200]Oh, it's you.
+[->]Well, since you're back here, I take
+it you want to fight?
+[END]
+6: (Take−Mikazuchi) [7a 65355][13 1, 411201]Pretty good, human. To think I,
+Take−Mikazuchi, would be defeated
+by you.
+[->]I've decided to leave this place...
+[->]It's been pretty hard, you know,
+looking for someone stronger than me.
+[->]Well, I'll be going now.
+[->]...Now that I think about it, there
+were other demons summoned here years
+ago, as well.
+[->]I wonder if they're still trying to
+protect this country...
+[END]
+7: 〉 The demon disappears...
+[END]
+900: 〉 There is nobody here...
+[END]

@@ -1,0 +1,53 @@
+0: 〉 You felt something's presence...
+[END]
+1: (Voice) [13 0, 145001]...Who goes there?
+[END]
+2: (Demon) [7a 65520][13 0, 145002]I thought I told him to kill any vermin
+who scuttles in here.
+[END]
+3: (Demon) [7a 222][13 0, 145003]Foolish sons of man...
+[->][13 0, 145004]I shall direct you to Hell.
+[END]
+4: (Jonathan) [7a 3][7b 65539, 65537][7b 65541, 196609][13 0, 145005]Revered angel... It is a blessing
+to know that an ally such as yourself
+is here in Tokyo.
+[->][13 0, 145006]Can you accompany us?
+[END]
+5: (Mastema) [7a 222][13 0, 145007]Alas, I cannot. I am not to leave my
+post here.
+[->][13 0, 145008]I must be vigilant for intruders from
+the Ring of Gaea and those who would
+steal the red pills.
+[END]
+6: (Isabeau) [7a 5][7b 655365, 65537][7b 786435, 65537][13 0, 145009]Red pills...?
+[END]
+7: (Mastema) [7a 222][13 0, 145010]Yes. Your objective is deeper within,
+correct?
+[->][13 0, 145011]If the red pills are lost to us, all
+hope of order in Tokyo will be lost.
+[END]
+8: (Mastema) [7a 222][13 0, 145013]Hahaha...! You have already bested
+Tenkai. I have no desire to be struck
+down.
+[->][13 0, 145014]Besides which, if you raise havoc
+here, Tayama will know.
+[END]
+9: (Mastema) [7a 222][13 0, 145016]So you wish to go on ahead...?
+I shall remove the barrier.
+[END]
+10: (Mastema) [7a 65520][13 0, 145017]Mrgh... nrgh... Hah!
+[END]
+11: (Mastema) [7a 222][13 0, 145018]...Please do not let on about this
+to Tayama, my fellows.
+[->][13 0, 145019]I am carrying out the Lord's will in
+my own way...
+[END]
+107: (Walter) [7a 4][7b 65540, 131073][7b 655365, 131073][13 0, 145012]And what would you do if we were dogs
+of the Ring of Gaea?
+[END]
+108: (Walter) [7a 4][7b 655364, 65537][7b 524293, 65537][13 0, 145015]This is a rather shady character...
+I'd want to inspect the halo before
+I took him at his word.
+[END]
+111: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]

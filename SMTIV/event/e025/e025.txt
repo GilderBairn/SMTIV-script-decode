@@ -1,0 +1,21 @@
+0: 〉 Walter gives a pained gasp as he
+stands...
+[END]
+1: (Walter) [7a 4][7b 131076, 65537][13 0, 25001]...Oh, it's you, [Flynn].
+[END]
+2: (Walter) [7a 4][7b 131076, 65537][13 0, 25002]Damn it to hell... I was caught off
+guard, and well, you can see what it
+got me.
+[END]
+3: (Walter) [7a 4][7b 131076, 65537][13 0, 25003]And for this to happen while looking
+for that Navarre fop, no less! That
+makes it all the more galling...
+[END]
+4: (Walter) [7a 4][7b 131076, 65537][13 0, 25004]That hooded bastard... He'll rue the
+day I find him!
+[END]
+104: 〉 Walter disappeared into the depths
+of Naraku...
+[END]
+900: (Error) Erro
+[END]

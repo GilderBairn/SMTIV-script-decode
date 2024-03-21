@@ -1,0 +1,2291 @@
+0: [END]
+1: [71 1]Hee−ho−ho! Let's do battle, ho!
+I'll kill you hee−humans, ho!
+[->][END]
+2: Contract, ho?
+Hee−no way!
+I'm awesome!
+You suck!
+It hee−won't work!
+[END]
+3: [71 1]Hee−ho−ho−ho... That hee−hurt, ho!
+[->]Hee−ho−ho! Why you...!
+[->][END]
+4: You hit me−ho!
+That hee−hurt, ho!
+Hee−ho−ho−ho...
+Hee−ho−ho!
+Why, you...!
+[END]
+5: [71 1]Stop fighting, hee−ho? No way, ho!
+[->]Hee−ho−ho! Let's do battle, ho!
+I'll kill you hee−humans, ho!
+[->][END]
+6: [71 1]Gimme a present, ho! Then I'll hee−come
+your ally!
+[->][END]
+7: Contract, hee−ho!
+But hee−fore that...
+Gimme, ho!
+Hee−hand it over!
+Gifts, hee−ho!
+[END]
+8: [71 1]Yeah, that'll do, hee−ho! I'll be−ho
+your best friend, ho!
+[->][END]
+9: Alright, ho!
+I'm contracted!
+I'm your mascot, ho!
+Image up!
+Nice, hee−ho!
+[END]
+10: [71 1]Now gimme presents, ho! I hee−have
+nothing to say to people who don't
+butter me up, ho!
+[->][END]
+11: Hee−ho−ho! 
+Presents, ho!
+Hee−hurry, ho!
+I won't talk!
+Fork it over, ho!
+[END]
+12: [71 1]But your stock is full, hee−ho.
+Forget this, I'm going hee−home!
+[->][END]
+13: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1],[Color:0x0] ho!
+Nice to meet you, ho!
+[->][END]
+14: [71 1]But your level is too hee−low, ho...
+[->]No losers, ho!
+[->][END]
+15: [71 1]Hee−ho−ho! You hee−have a friend of ours
+with you, hee−ho!
+[->]Alright, ho! You are now an hee−honorary
+hee−ho like us!
+[->][END]
+16: [71 1]Oh yeah! Let's invite everyone else, ho!
+[->][END]
+17: [71 1]Oh... But you only hee−have one opening
+left in your stock, ho...
+[->]Ho well... Hee−so much for that, ho.
+[->][END]
+18: [71 1]I'm the new mascot character, ho!
+It's good PR to hee−have me in your
+party, ho!
+[->][END]
+19: [71 1]Hee−ho−ho! What party poopers, ho.
+[->][END]
+20: [71 1]Alright, it's my turn to be your
+ally, hee−ho!
+[->][END]
+21: [71 1]I'll introduce you to a buddy of mine,
+hee−ho.
+[->]With my connections, any demon would
+say yes, ho!
+[->][END]
+22: [71 1]Heeeee−hoooo!
+[Demon name 1] is here, ho!
+[->]I'm the new hee−ro, ho! You can step
+off the stage now, ho.
+[->][END]
+23: Hee−gion skill!
+I already have it!
+Hee−ho−ho!
+You hee−handle this!
+Nice to meet you, ho!
+[END]
+24: Hee−gion power, ho!
+We'll hee−show you!
+Call us, hee−ho!
+Anytime!
+Leave it to us, ho!
+[END]
+25: [71 1]You want me to let you hee−go? Then
+gimme some stuff, ho!
+[->][END]
+26: What, ho?
+Let you go, ho?
+Hee−ho...
+Gimme stuff, ho!
+Presents now!
+[END]
+27: [71 1]Hee−ho−ho−ho! Now hee−go somewhere
+else, ho!
+[->][END]
+28: Weak, ho!
+Loser, ho!
+Hee−ho−ho! 
+Leave, ho!
+Scram, hee−ho!
+[END]
+29: [71 1]Hee−ho−ho−ho... I'm... sleepy, ho...
+[->]Hee...? Let you hee−go, ho...? Sure,
+whatever, hee−ho... Let me sleep−ho...
+[->][END]
+30: Zzzzz...
+Zzzzz...
+Zzzzz...
+Zzzzz...
+Hee... ho ho ho...
+[END]
+31: What...?
+Let you go...?
+I'm sleepy, ho...
+Let me sleep−ho...
+Go ahead...
+[END]
+32: [71 1]...Ho yeah! I'll hee−l you, ho. Look
+hee−both ways before crossing the
+street, ho!
+[->][END]
+33: Hold on, ho!
+Before you go...
+Hee−re!
+Take this, ho!
+Feel better?
+[END]
+34: [71 1]You want to chat with me, ho? I don't
+talk for free, ho! It's pay to play!
+[->][END]
+35: A present, ho?
+For me, ho?
+Really!?
+Hee−ho−ho! 
+I'll talk, hee−ho!
+[END]
+36: [71 1]Just a little, ho. Now, let's chat, ho!
+[->][END]
+37: Alright!
+I got it, ho!
+A lot, hee!
+Hee−ho−ho−ho!
+Of course!
+[END]
+38: [71 1]Hee−ho−ho−ho! You want to waste time
+chatting? Hee−ho! I'll waste my life
+with you, ho!
+[->][END]
+39: Hee−ho?
+A present?
+For me−ho?
+Really?
+Hee−ho−ho−ho!
+[END]
+40: [71 1]Hee−ho−ho! Just for you, I'll let this
+keep−ho going, ho!
+[->][END]
+41: Hee−ho!
+Really, ho!?
+Wow!
+This is cool!
+Incredi−ho!
+[END]
+42: [71 1]You want mercy from a demon, ho?
+You really don't know hee−how the
+world works, ho!
+[->]Anyways, gimme something, ho!
+[->][END]
+43: Mercy, ho?
+Seriously, ho?
+Ho well...
+Pay up, ho!
+Hee−hurry!
+[END]
+44: [71 1]Here's my mercy, ho! Now thank me, ho!
+[->][END]
+45: Fine then, ho.
+We'll have mercy.
+Kinda, ho...
+Feels weird, ho.
+Thank us, ho!
+[END]
+46: [71 1]Hee−ho−ho−ho... I'm sleepy, ho...
+Don't bother me...
+[->]You want mercy, ho...? Fine...
+Whatever, ho...
+[->][END]
+47: Zzzzz...
+Zzzzz...
+Zzzzz...
+Zzzzz...
+Hee−ho−ho−ho...
+[END]
+48: Mercy...?
+Really ho...?
+Pipe down, ho.
+Fine...
+Whatever, ho...
+[END]
+49: [71 1]I'll hee−l you more, ho... Be sure
+to ”favorite” and ”like” that one, ho!
+[->][END]
+50: Hee−ho−ho!
+More!
+Another hee−l, ho!
+I'll be popular!
+There!
+[END]
+51: [71 1]Hee−ho−ho! What are you saying, ho?
+You don't look like a wise investment...
+[->][END]
+52: Y−You...!
+You're serious, ho!
+Hee... He−eho!
+What is this...?
+To a hee−ho!
+[END]
+53: [71 1]My money! That's a month's salary, ho!
+[->][END]
+54: Hee−ho!
+This month's pay!
+It's ours, ho!
+What the ho!?
+Hooooo!
+[END]
+55: [71 1]You risked your life just for some
+money, ho?
+[->]Your life must be cheap, ho! No better
+than junk, ho! I'll toss you out with
+the trash, ho!
+[->][END]
+56: Just for this, ho?
+So cheap, ho!
+Junk!
+I'll kill you, ho!
+Put out the trash!
+[END]
+57: [71 1]Hee−ho! What the ho!?
+[->][END]
+58: Hee−ho!
+What the ho!?
+Stop it!
+Help me, ho!
+What're you doing!?
+[END]
+59: [71 1]Wh−What are you doing, ho!? You don't
+need−ho money, ho...
+[->][END]
+60: What're you doing!?
+Thief, ho!
+Hee−ho...!
+Stop it!
+Or else...!
+[END]
+61: [71 1]Heeeeeeeee−ho−ho! Screw this, ho!
+[->]Ho! That's all of it! Now take it, ho!
+[->][END]
+62: Hee!
+Ho!
+Ho!
+Screw this!
+Take it, ho!
+[END]
+63: [71 1]...Hey, punk! You think you can pick
+on me just hee−cause I'm a hee−ho?
+[->][END]
+64: ...Hee−ho−ho−ho...
+You shouldn't...
+Mess with us, ho!
+We'll...
+Kill you, ho!
+[END]
+65: [71 1]Wait, you tie me up, THEN ask for
+money, ho?
+[->]Hee−ho−ho... This is bad, ho!
+[->][END]
+66: Wh−What the!?
+What're you doing!?
+I know I'm cute...
+But you wouldn't...!
+Kidnapper, ho!
+[END]
+67: [71 1]You want what I've got, ho? Then let's
+trade, ho!
+[->][END]
+68: Items, ho!
+You want?
+Hee−ho−ho! 
+Then...
+Trade, ho!
+[END]
+69: [71 1]Hee−ho−ho−ho! We hee−have a deal, ho!
+Here−ho you go!
+[->][END]
+70: Hee−ho−ho−ho!
+A done deal, ho!
+Here, ho!
+You can have it!
+My treasure, ho!
+[END]
+71: [71 1]You want what I've got, ho? Then let's
+trade, ho...
+[->]...Meh, whatever, ho! You can just
+hee−have it for free−ho!
+[->][END]
+72: Item, ho?
+You want it?
+Hee−ho−ho! 
+Whatever!
+It's free−ho!
+[END]
+73: [71 1]Here's a little on top, ho! Where's
+the love, ho!?
+[->][END]
+74: Something extra, ho!
+Take this, ho!
+Use it, ho!
+Thank us, ho!
+Here−ho!
+[END]
+75: [71 1]Hee−ho−ho! Let's decide this fast
+with cash! That's hee−how the market
+works, ho!
+[->][Color:0x1][Amount 1] Macca![Color:0x0] Now you hee−go!
+[->][END]
+76: [Color:0x1]Money, ho![Color:0x0]
+Decide it now!
+The smart way, ho!
+Market price, ho!
+[Color:0x1][Amount 1], ho![Color:0x0]
+[END]
+77: [71 1][Color:0x1][Item 1],[Color:0x0] ho!
+[->][END]
+78: [Color:0x1]Item, ho![Color:0x0]
+Gimme, ho!
+Hee−hurry, ho!
+Now, ho!
+[Color:0x1][Item 1]![Color:0x0]
+[END]
+79: [71 1][Color:0x1][Amount 1] Macca,[Color:0x0] ho!
+[->][END]
+80: [Color:0x1]Macca, ho![Color:0x0]
+Gimme, ho!
+Hee−hurry, ho!
+Now, ho!
+[Color:0x1][Amount 1], ho![Color:0x0]
+[END]
+81: [71 1]Your [Color:0x1]HP,[Color:0x0] ho! Gimme [Color:0x1]just a little,[Color:0x0] ho!
+[->][END]
+82: [Color:0x1]Your HP, ho![Color:0x0]
+Gimme, ho!
+Hee−hurry, ho!
+Now, ho!
+[Color:0x1]Just a little, ho![Color:0x0]
+[END]
+83: [71 1]Your [Color:0x1]HP,[Color:0x0] ho! Gimme [Color:0x1]some of it,[Color:0x0] ho!
+[->][END]
+84: [Color:0x1]Your HP, ho![Color:0x0]
+Gimme, ho!
+Hee−hurry, ho!
+Now, ho!
+[Color:0x1]Some of it, ho![Color:0x0]
+[END]
+85: [71 1]Your [Color:0x1]HP,[Color:0x0] ho! Gimme [Color:0x1]lots of it,[Color:0x0] ho!
+[->][END]
+86: [Color:0x1]Your HP, ho![Color:0x0]
+Gimme, ho!
+Hee−hurry, ho!
+Now, ho!
+[Color:0x1]Lots of it, ho![Color:0x0]
+[END]
+87: [71 1]Your [Color:0x1]HP,[Color:0x0] ho! Gimme [Color:0x1]a whole hee−ho
+of it,[Color:0x0] ho!
+[->][END]
+88: [Color:0x1]Your HP, ho![Color:0x0]
+Gimme, ho!
+Hee−hurry, ho!
+Now, ho!
+[Color:0x1]The hee−ho of it, ho![Color:0x0]
+[END]
+89: [71 1]Your [Color:0x1]MP,[Color:0x0] ho! Gimme [Color:0x1]just a little,[Color:0x0] ho!
+[->][END]
+90: [Color:0x1]Your MP, ho![Color:0x0]
+Gimme, ho!
+Hee−hurry, ho!
+Now, ho!
+[Color:0x1]Just a little, ho![Color:0x0]
+[END]
+91: [71 1]Your [Color:0x1]MP,[Color:0x0] ho! Gimme [Color:0x1]some of it,[Color:0x0] ho!
+[->][END]
+92: [Color:0x1]Your MP, ho![Color:0x0]
+Gimme, ho!
+Hee−hurry, ho!
+Now, ho!
+[Color:0x1]Some of it, ho![Color:0x0]
+[END]
+93: [71 1]Your [Color:0x1]MP,[Color:0x0] ho! Gimme [Color:0x1]lots of it,[Color:0x0] ho!
+[->][END]
+94: [Color:0x1]Your MP, ho![Color:0x0]
+Gimme, ho!
+Hee−hurry, ho!
+Now, ho!
+[Color:0x1]Lots of it, ho![Color:0x0]
+[END]
+95: [71 1]Your [Color:0x1]MP,[Color:0x0] ho! Gimme [Color:0x1]a whole hee−ho
+of it,[Color:0x0] ho!
+[->][END]
+96: [Color:0x1]Your MP, ho![Color:0x0]
+Gimme, ho!
+Hee−hurry, ho!
+Now, ho!
+[Color:0x1]The hee−ho of it, ho![Color:0x0]
+[END]
+97: [71 1]Your ally [Color:0x1][Demon name 2] hee−has to
+die,[Color:0x0] ho!
+[->][END]
+98: [Color:0x1]Your ally's life, ho![Color:0x0]
+Gimme, ho!
+Hee−hurry, ho!
+Now, ho!
+[Color:0x1][Demon name 2]![Color:0x0]
+[END]
+99: [71 1][Color:0x1]That,[Color:0x0] ho! Give me [Color:0x1]you−hee−know−what,[Color:0x0] ho!
+[->][END]
+100: [Color:0x1]That, ho![Color:0x0]
+[Color:0x1]You hee−know...[Color:0x0]
+Hee−hurry, ho!
+Gimme, ho!
+Hand it ho−ver!
+[END]
+101: [71 1]Hee−ho quiz! What do I want, ho?
+[->][END]
+102: Quiz, ho!
+What do I want?
+Guess, ho!
+Get it right!
+Do you hee−know?
+[END]
+103: [71 1]You're right, ho! Now I'll take it, ho!
+[->][END]
+104: You're right, ho!
+Easy, ho?
+Hee−ho−ho! 
+Now then!
+I'll take it, ho!
+[END]
+105: [71 1]Bzzzzzt! Wrong, ho!
+[->][END]
+106: Bzzzzt!
+Wrong, ho!
+Hee−ho!
+You serious, ho?
+Gee−ho!
+[END]
+107: [71 1]I thought up a new move, ho! Let me try
+it on you, ho.
+[->][END]
+108: Look at this!
+A new move, ho!
+C'mon!
+Let us try it!
+On you, ho!
+[END]
+109: ”Sure.”
+”No way.”
+[->][END]
+110: [71 1]Hee−ho−ho! Here I ho!
+[->]Super Mini Move!
+[Demon name 1] Flick!
+[->][END]
+111: Hee−ho−ho! 
+Here we ho!
+Take this!
+Mini Move!
+Forehead Flick!
+[END]
+112: 〉 The demon flicked [Flynn] on his
+forehead!
+[->][END]
+113: 〉 The demons began continuously flicking
+[Flynn] on his forehead!
+[->][END]
+114: [71 1]Hee−ho−ho! Here I ho!
+[->]Fatal Deadly Move!
+[Demon name 1] Buster!
+[->][END]
+115: Hee−ho−ho! 
+Here we ho!
+Take this!
+Fatal Move!
+Deadly Buster!
+[END]
+116: 〉 The demon dealt [Flynn] a merciless
+blow!
+[->][END]
+117: 〉 The demons dealt [Flynn] a merciless
+drubbing!
+[->][END]
+118: [71 1]You won't help me, ho? What a
+hee−lowlife, ho!
+[->][END]
+119: You won't help us?
+No, ho?
+You suck, ho.
+No good, ho!
+Loser, ho!
+[END]
+120: [71 1]Hee−ho! This'll do, ho!
+[->][END]
+121: I'm satisfied, ho!
+Hee−ho!
+Yay!
+This'll do, ho!
+Hee ho ho! 
+[END]
+122: [71 1]Hee−ho! Wow, ho! Crazy, ho! I'm super
+satisfied, ho!
+[->][END]
+123: Hee−ho!
+Wow, ho!
+Crazy, ho!
+Hee−ho−ho!
+That'll do, ho!
+[END]
+124: [71 1]Hee−ho... Come on, ho!
+[->][END]
+125: Hee−ho−ho...
+What the ho...
+Hee−pskate...
+Hee−ho...
+What next, ho?
+[END]
+126: [71 1]You hee−have it, but won't give it
+to me, ho?
+[->]Don't mess with a hee−ho! I'll kill
+you, ho!
+[->][END]
+127: You won't gimme?
+But you have it!
+Hee−ho−ho!
+What the ho...
+We'll kill you, ho!
+[END]
+128: [71 1]Forget you, ho!
+[->][END]
+129: Screw this, ho!
+Forget you, ho!
+I quit!
+Hee−ho−ho! 
+Hee−ho!
+[END]
+130: [71 1]Hee−hold on there, ho! You can't fool
+me, ho!
+[->]Don't mess with a hee−ho! I'll kill
+you, ho!
+[->][END]
+131: Hee−hold it, ho!
+You can't fool me!
+Hee−ho−ho! 
+What the ho...
+We'll kill you, ho!
+[END]
+132: [71 1]Hee−ho−ho! You don't hee−have it, ho?
+[->][END]
+133: Hee−ho−ho! 
+Don't have it, ho?
+What the ho...
+That sucks, ho...
+What a letdown, ho.
+[END]
+134: [71 1]You need a Life Stone to get the party
+started, ho!
+[->][END]
+135: Can't get started...
+Without a Life Stone!
+You suck, ho.
+*sigh* Ho...
+Seriously, ho.
+[END]
+136: [71 1]Hee−ho−ho! Hee−how pushy, ho.
+[->]Ho well! I got as much as I could, ho.
+[->][END]
+137: Hee−how pushy, ho.
+You didn't have to...
+Ho well!
+I got stuff, ho!
+Good enough...
+[END]
+138: [71 1]What're you doing, ho!? I wanted
+more, ho!
+[->]Don't mess with a hee−ho! I'll kill
+you, ho!
+[->][END]
+139: It was so fun...
+You ruined it, ho!
+Hee−ho−ho! 
+What the ho...?
+We'll kill you, ho!
+[END]
+140: [71 1]Hee−ho! You keep saying no! You're a
+tough hee−gotiator, ho!
+[->]Hee−ho−ho! I give up, ho... Just put
+me down as satisfied...
+[->][END]
+141: You keep saying no!
+Your hee−gotiation!
+So tough, ho!
+I give up, ho!
+I'm satisfied, ho.
+[END]
+142: [71 1]Hee−ho−ho! This is too easy, ho!
+[->]You need to fight back more, ho!
+Or it's boring, ho!
+[->][END]
+143: You keep saying yes!
+Too easy, ho!
+Hee−ho−ho! 
+Hee−show a spine!
+Boring!
+[END]
+144: [71 1]You don't have anything, ho? Are you
+a working stiff, ho?
+[->]I feel for you, ho... It's OK, ho!
+[->][END]
+145: You have nothing?
+Are you...
+A working stiff?
+I feel for you!
+It's OK, ho!
+[END]
+146: [71 1]I gotta get hee−home before rush hour!
+Bye, ho!
+[->][END]
+147: Bye, ho!
+Bye, ho!
+Bye, ho!
+Bye, ho!
+Bye, ho!
+[END]
+148: [71 1]It's [Flynn], ho!
+How've ya been, ho!?
+[->]You're a hee−honorary hee−ho!
+That's something a hee−human can
+take pride in, ho!
+[->][END]
+149: Hee−ho!
+It's you, ho!
+How're you, ho?
+An honorary hee−ho!
+Cool!
+[END]
+150: [71 1]You want me to join? Hee−ho! Sure!
+[->]Your sweaty party needs a cute mascot
+like me to liven things up, ho!
+[->][END]
+151: Contract, ho?
+With us?
+Hee−ho−ho!
+Of course, ho!
+We'll do it!
+[END]
+152: [71 1]Quit fighting? Sounds good to me, ho.
+[->]I'll do better in the hee−lection by
+ending the war hee−cefully, ho!
+[->][END]
+153: Quit fighting?
+Sure, ho!
+I'm a kind demon!
+Peace, ho!
+I'll win the vote!
+[END]
+154: [71 1]I usually charge money to talk, ho.
+[->]But for you, it's free−ho, just this
+once, ho!
+[->][END]
+155: Hee−ho−ho!
+I'm happy, ho!
+A present...
+From a fan!
+I'm famous!
+[END]
+156: [71 1]You want me to hee−l you, ho? Hee−ho!
+Leave it to me, ho!
+[->][END]
+157: Worship me!
+My minion, ho!
+A gift for my fans!
+A special, ho!
+Mercy, ho!
+[END]
+158: [71 1]Are your finances in the hee−hole?
+I'll give you some cash, ho!
+[->]I'm sure I'll make a profit if I
+invest in you, ho!
+[->][END]
+159: Strapped for cash?
+Take mine, ho!
+For the hee−honomy!
+I'll invest...
+In you, ho!
+[END]
+160: [71 1]You want my stuff, ho? Just for you,
+I'll let you hee−have it, ho!
+[->]Hee−hos are always hee−ger to please
+their fans, ho!
+[->][END]
+161: Item, ho?
+Special delivery!
+Just for you!
+Hee−hos are always...
+Hee−ger to please!
+[END]
+162: [71 1]You keep saying the same thing, ho!
+I'm so bored of this, ho...
+[->][END]
+163: Always the same!
+I'm bored, ho!
+The is lame, ho!
+A broken record!
+This sucks, ho!
+[END]
+164: [71 1]Hee−ho−ho! [Flynn], I found you, ho!
+[->]Don't get lost again now, ho.
+[->][END]
+165: [71 1]Hee−ho−ho! I give up, ho! You win, ho!
+[->]I'll do anything, ho! Just please
+forgive me, ho!
+[->][END]
+166: Hee−ho!
+I give up, ho!
+You win, ho!
+Forgive me, ho!
+I'll do anything!
+[END]
+167: [71 1]Leave it to me, ho! I'll do anything
+to save my hee−hide, ho!
+[->][END]
+168: Hee−ho!
+Leave it to me!
+I got it, ho!
+I'll do anything...
+To save my hee−hide!
+[END]
+169: [71 1]Killing hee−hos is a crime, ho!
+[->][END]
+170: Scumbag, ho!
+Scumbag, ho!
+Scumbag, ho!
+Scumbag, ho!
+Sleazebag, ho!
+[END]
+171: [71 1]Hee−ho−ho! A hee−human, ho!
+Nice timing, ho!
+[->]I hee−have a quest for you! Wanna hear
+it, ho?
+[->][END]
+172: [71 1]Hee−ho−ho! A hee−Hunter, ho!
+Nice timing, ho!
+[->]I hee−have a quest for you! Wanna hear
+it, ho?
+[->][END]
+173: [71 1]Roger that, ho! I'll explain the
+hee−tails, ho!
+[->]It's about my buddy, ho...
+[->][END]
+174: [71 1]Keep at it, ho!
+[->][END]
+176: [71 1]Reserve
+[->][END]
+177: Reserve
+[END]
+178: [71 1]Reserve
+[->][END]
+179: Reserve
+[->][END]
+180: [71 1]Reserve
+[->][END]
+181: Reserve
+[END]
+182: [71 1]Reserve
+[->][END]
+183: Reserve
+[END]
+184: [71 1]Reserve
+[->][END]
+185: Reserve
+[END]
+186: Reserve
+[->][END]
+187: [71 1]Reserve
+[->][END]
+188: Reserve
+[END]
+189: [71 1]Reserve
+[->][END]
+190: Reserve
+[END]
+191: [71 1]Reserve
+[->][END]
+192: Reserve
+[END]
+193: Reserve
+[->][END]
+194: [71 1]Reserve
+[->][END]
+195: Reserve
+[END]
+196: [71 1]Reserve
+[->][END]
+197: Reserve
+[END]
+198: [71 1]Reserve
+[->][END]
+199: Reserve
+[END]
+201: [71 1]Reserve
+[->][END]
+202: Reserve
+[END]
+203: [71 1]Reserve
+[->][END]
+204: Reserve
+[->][END]
+205: [71 1]Reserve
+[->][END]
+206: Reserve
+[END]
+207: [71 1]Reserve
+[->][END]
+208: Reserve
+[END]
+209: [71 1]Reserve
+[->][END]
+210: Reserve
+[END]
+211: Reserve
+[->][END]
+212: [71 1]Reserve
+[->][END]
+213: Reserve
+[END]
+214: [71 1]Reserve
+[->][END]
+215: Reserve
+[END]
+216: [71 1]Reserve
+[->][END]
+217: Reserve
+[END]
+218: Reserve
+[->][END]
+219: [71 1]Reserve
+[->][END]
+220: Reserve
+[END]
+221: [71 1]Reserve
+[->][END]
+222: Reserve
+[END]
+223: [71 1]Reserve
+[->][END]
+224: Reserve
+[END]
+226: [71 1]Hey, you... What is life, ho?
+[->][END]
+227: Reserve
+[END]
+228: [71 1]”I don't know.”
+”I'll teach you.”
+”That matters not to demons.”
+[->][END]
+229: Not Used
+[->][END]
+230: [71 1]So you don't hee−know either? Life is so
+mysterious, ho...
+[->]Almost as mysterious as the minds of
+women, ho.
+[->][END]
+231: Reserve
+[END]
+232: [71 1]Not Used
+[->][END]
+233: Not Used
+[END]
+234: [71 1]You're that old, and you don't hee−ven
+know that, ho?
+[->]I hee−had it all figured out before
+I was out of diapers, ho.
+[->][END]
+235: Reserve
+[END]
+236: Not Used
+[->][END]
+237: [71 1]No need, ho! I'll figure it out for
+myself, ho!
+[->]After all, this is something you can't
+hee−have someone else teach you, ho!
+[->][END]
+238: Reserve
+[END]
+239: [71 1]You'll teach me? You must be a hee−holy
+man, ho!
+[->]What cult do you run, ho? Let me
+join, ho!
+[->][END]
+240: Reserve
+[END]
+241: [71 1]I can't learn anything from a kid like
+you, ho!
+[->][END]
+242: Reserve
+[END]
+243: Not Used
+[->][END]
+244: [71 1]Hee−ho−ho! I'm a demon, ho?
+I forgot, ho!
+[->][END]
+245: Reserve
+[END]
+246: [71 1]Y−You're smart, ho! You must be an expert
+about life, ho...
+[->]I wanna be an expert too, ho! Take me
+with you!
+[->][END]
+247: Reserve
+[END]
+248: [71 1]So? You're a hee−human, ho!
+[->][END]
+249: Reserve
+[END]
+251: [71 1]Reserve
+[->][END]
+252: Reserve
+[END]
+253: [71 1]Reserve
+[->][END]
+254: Reserve
+[->][END]
+255: [71 1]Reserve
+[->][END]
+256: Reserve
+[END]
+257: [71 1]Reserve
+[->][END]
+258: Reserve
+[END]
+259: [71 1]Reserve
+[->][END]
+260: Reserve
+[END]
+261: Reserve
+[->][END]
+262: [71 1]Reserve
+[->][END]
+263: Reserve
+[END]
+264: [71 1]Reserve
+[->][END]
+265: Reserve
+[END]
+266: [71 1]Reserve
+[->][END]
+267: Reserve
+[END]
+268: Reserve
+[->][END]
+269: [71 1]Reserve
+[->][END]
+270: Reserve
+[END]
+271: [71 1]Reserve
+[->][END]
+272: Reserve
+[END]
+273: [71 1]Reserve
+[->][END]
+274: Reserve
+[END]
+276: [71 1]I wanna make friends with hee−humans.
+Let's shake hee−hands, ho!
+[->][END]
+277: Reserve
+[END]
+278: [71 1]Shake
+Refuse
+Shake with a tack
+[->][END]
+279: 〉 [Flynn] shook hands with the demon...
+[->][END]
+280: [71 1]Hee−ho−ho! You have a firm grip, ho...
+I think instead of fighting, I'll just
+talk with you, ho!
+[->][END]
+281: Reserve
+[END]
+282: [71 1]Wow...! You let a demon hee−hold your
+good hand, ho...!
+[->]You're a true man, ho! Let me join, ho!
+[->][END]
+283: Reserve
+[END]
+284: [71 1]Special Control 3
+[->][END]
+285: Special Control 3
+[END]
+286: Not Used
+[->][END]
+287: [71 1]You knew I was hee−holding a tack...
+Pretty sharp, ho!
+[->][END]
+288: Reserve
+[END]
+289: [71 1]Not Used
+[->][END]
+290: Not Used
+[END]
+291: [71 1]Hee−ho! That was a close one, ho.
+I almost got hee−human germs on me, ho.
+[->][END]
+292: Reserve
+[END]
+293: 〉 [Flynn] snuck a tack in his palm
+and shook hands with the demon...
+[->][END]
+294: [71 1]Hee−ho−ho! That prickliness feels
+good, ho!
+[->][END]
+295: Reserve
+[END]
+296: [71 1]Not Used
+[->][END]
+297: Not Used
+[END]
+298: [71 1]Hee−ho...! Why you...!
+[->]......
+[->]Hee−ho! A hee−human bullied me, ho!
+[->][END]
+299: Reserve
+[END]
+301: [71 1]Who's stronger: demons or hee−humans?
+[->][END]
+302: Reserve
+[END]
+303: [71 1]”Demons.”
+”Demons.”
+”Demons.”
+[->][END]
+304: Not Used
+[->][END]
+305: [71 1]You should say hee−humans, ho!
+You do hee−have your pride, right?
+[->][END]
+306: Reserve
+[END]
+307: [71 1]But it's boring if the game is so
+one−sided, ho.
+[->]Hee−hokay, I'll join you to balance
+things out, ho!
+[->][END]
+308: Reserve
+[END]
+309: [71 1]Huh? Hee−humans aren't the strongest, ho?
+[->]I don't wanna go around with a weakling,
+ho...
+[->][END]
+310: Reserve
+[END]
+311: Not Used
+[->][END]
+312: [71 1]You should say hee−humans, ho!
+You do hee−have your pride, right?
+[->][END]
+313: Reserve
+[END]
+314: [71 1]But it's boring if the game is so
+one−sided, ho.
+[->]Hee−hokay, I'll join you to balance
+things out, ho!
+[->][END]
+315: Reserve
+[END]
+316: [71 1]Huh? Hee−humans aren't the strongest, ho?
+[->]I don't wanna go around with a weakling,
+ho...
+[->][END]
+317: Reserve
+[END]
+318: Not Used
+[->][END]
+319: [71 1]You should say hee−humans, ho!
+You do hee−have your pride, right?
+[->][END]
+320: Reserve
+[END]
+321: [71 1]But it's boring if the game is so
+one−sided, ho.
+[->]Hee−hokay, I'll join you to balance
+things out, ho!
+[->][END]
+322: Reserve
+[END]
+323: [71 1]Huh? Hee−humans aren't the strongest, ho?
+[->]I don't wanna go around with a weakling,
+ho...
+[->][END]
+324: Reserve
+[END]
+326: [71 1]Reserve
+[->][END]
+327: Reserve
+[END]
+328: [71 1]Reserve
+[->][END]
+329: Reserve
+[->][END]
+330: [71 1]Reserve
+[->][END]
+331: Reserve
+[END]
+332: [71 1]Reserve
+[->][END]
+333: Reserve
+[END]
+334: [71 1]Reserve
+[->][END]
+335: Reserve
+[END]
+336: Reserve
+[->][END]
+337: [71 1]Reserve
+[->][END]
+338: Reserve
+[END]
+339: [71 1]Reserve
+[->][END]
+340: Reserve
+[END]
+341: [71 1]Reserve
+[->][END]
+342: Reserve
+[END]
+343: Reserve
+[->][END]
+344: [71 1]Reserve
+[->][END]
+345: Reserve
+[END]
+346: [71 1]Reserve
+[->][END]
+347: Reserve
+[END]
+348: [71 1]Reserve
+[->][END]
+349: Reserve
+[END]
+351: [71 1]Reserve
+[->][END]
+352: Reserve
+[END]
+353: [71 1]Reserve
+[->][END]
+354: Reserve
+[->][END]
+355: [71 1]Reserve
+[->][END]
+356: Reserve
+[END]
+357: [71 1]Reserve
+[->][END]
+358: Reserve
+[END]
+359: [71 1]Reserve
+[->][END]
+360: Reserve
+[END]
+361: Reserve
+[->][END]
+362: [71 1]Reserve
+[->][END]
+363: Reserve
+[END]
+364: [71 1]Reserve
+[->][END]
+365: Reserve
+[END]
+366: [71 1]Reserve
+[->][END]
+367: Reserve
+[END]
+368: Reserve
+[->][END]
+369: [71 1]Reserve
+[->][END]
+370: Reserve
+[END]
+371: [71 1]Reserve
+[->][END]
+372: Reserve
+[END]
+373: [71 1]Reserve
+[->][END]
+374: Reserve
+[END]
+376: [71 1]Reserve
+[->][END]
+377: Reserve
+[END]
+378: [71 1]Reserve
+[->][END]
+379: Reserve
+[->][END]
+380: [71 1]Reserve
+[->][END]
+381: Reserve
+[END]
+382: [71 1]Reserve
+[->][END]
+383: Reserve
+[END]
+384: [71 1]Reserve
+[->][END]
+385: Reserve
+[END]
+386: Reserve
+[->][END]
+387: [71 1]Reserve
+[->][END]
+388: Reserve
+[END]
+389: [71 1]Reserve
+[->][END]
+390: Reserve
+[END]
+391: [71 1]Reserve
+[->][END]
+392: Reserve
+[END]
+393: Reserve
+[->][END]
+394: [71 1]Reserve
+[->][END]
+395: Reserve
+[END]
+396: [71 1]Reserve
+[->][END]
+397: Reserve
+[END]
+398: [71 1]Reserve
+[->][END]
+399: Reserve
+[END]
+401: [71 1]What do you think we should do with bad
+hee−humans?
+[->][END]
+402: Reserve
+[END]
+403: [71 1]”Let the law judge them.”
+”Deliver justice ourselves.”
+”Forgive them.”
+[->][END]
+404: Not Used
+[->][END]
+405: [71 1]So you'd hee−hobey the laws of society,
+ho? Hee−ho−ho! What a responsible
+adult, ho!
+[->][END]
+406: Reserve
+[END]
+407: [71 1]Not Used
+[->][END]
+408: Not Used
+[END]
+409: [71 1]You can't beat bad guys with the law, ho.
+Don't you hee−know that?
+[->][END]
+410: Reserve
+[END]
+411: Not Used
+[->][END]
+412: [71 1]You'd do it yourself!? You're not like
+the other hee−humans who just complain
+about it, ho...
+[->][END]
+413: Reserve
+[END]
+414: [71 1]But the rules of the hee−human world
+would make you the bad guy, ho...
+[->]Ho! I hee−know! I'll join your group
+and do it for you, ho!
+[->][END]
+415: Reserve
+[END]
+416: [71 1]What about the rules, ho? If you go
+outside the lines, you lose, ho.
+[->][END]
+417: Reserve
+[END]
+418: Not Used
+[->][END]
+419: [71 1]Pardoning the bad guys!? You're a
+great man, ho...
+[->][END]
+420: Reserve
+[END]
+421: [71 1]Not Used
+[->][END]
+422: Not Used
+[END]
+423: [71 1]Hee−how pointless, ho! They'll just
+get cocky and do it again, ho!
+[->][END]
+424: Reserve
+[END]
+426: [71 1]What does it mean to be an adult, ho?
+[->][END]
+427: Reserve
+[END]
+428: [71 1]”To fight cold realities.”
+”To climb the stair of maturity.”
+”To join forces.”
+[->][END]
+429: Not Used
+[->][END]
+430: [71 1]My dad said that, too... While he was
+staring at his hee−hairline in the
+mirror, ho!
+[->]It's sad, hee−coming an adult, ho...
+[->][END]
+431: Reserve
+[END]
+432: [71 1]Realities...? Hee−ho! They sound like
+strong demons, ho...
+[->]I won't be able to face them alone!
+I want you to hee−help me, ho!
+[->][END]
+433: Reserve
+[END]
+434: [71 1]Then you have to fight too, ho...
+[->]The reality of demons coming to kill
+you, ho!
+[->][END]
+435: Reserve
+[END]
+436: Not Used
+[->][END]
+437: [71 1]Hee−ho−ho... You make no sense, ho.
+[->]You must've fell from the stair of
+maturity and bumped your hee−head on
+the way down, ho!
+[->][END]
+438: Reserve
+[END]
+439: [71 1]Not Used
+[->][END]
+440: Not Used
+[END]
+441: [71 1]No way, ho! Climbing stairs is hard work,
+ho! Find me a different way...
+[->][END]
+442: Reserve
+[END]
+443: Not Used
+[->][END]
+444: [71 1]...That's a lie, ho! But I'll play
+along, ho.
+[->]Hee−ho−ho! I hee−handled that like
+an adult, hee−huh?
+[->][END]
+445: Reserve
+[END]
+446: [71 1]My dad said that too, ho!
+[->]He became an adult from a demon girl who
+was in the stock with him, ho!
+[->][END]
+447: Reserve
+[END]
+448: [71 1]I didn't say I wanted to be an adult, ho.
+[->]So I won't be your ally either, ho!
+[->][END]
+449: Reserve
+[END]
+451: [71 1]I'm not supposed to talk with hee−humans,
+ho. Are you a hee−human, ho?
+[->][END]
+452: Reserve
+[END]
+453: [71 1]”I'm a god.”
+”I'm a demon.”
+”I'm the main character.”
+[->][END]
+454: Not Used
+[->][END]
+455: [71 1]You're god−awfully weak, ho? You sure
+hee−know yourself, ho!
+[->][END]
+456: Reserve
+[END]
+457: [71 1]Wow, you're missing a few screws, ho...
+[->]Ho well. I'll take you to a doctor, ho!
+[->][END]
+458: Reserve
+[END]
+459: [71 1]Hee−ho! You'll bring down divine
+punishment, ho! Run!
+[->][END]
+460: Reserve
+[END]
+461: Not Used
+[->][END]
+462: [71 1]Your name's ”A Demon,” ho? I can't
+hee−lieve the government let that name
+pass, ho!
+[->][END]
+463: Reserve
+[END]
+464: [71 1]Not Used
+[->][END]
+465: Not Used
+[END]
+466: [71 1]If you're a demon, you won't mind me
+doing this, right, ho!?
+[->][END]
+467: Reserve
+[END]
+468: Not Used
+[->][END]
+469: [71 1]I'm the main character too, ho! Everyone
+is the main character in their hee−hown
+lives, ho!
+[->][END]
+470: Reserve
+[END]
+471: [71 1]No fair, ho! I wanna be the main
+character too, ho!
+[->][END]
+472: Reserve
+[END]
+473: [71 1]When I was a kid, my dad used to
+tell me, ho...
+[->]A demon's job is to kill the main
+character, ho!
+[->][END]
+474: Reserve
+[END]
+476: [71 1]Reserve
+[->][END]
+477: Reserve
+[END]
+478: [71 1]Reserve
+[->][END]
+479: Reserve
+[->][END]
+480: [71 1]Reserve
+[->][END]
+481: Reserve
+[END]
+482: [71 1]Reserve
+[->][END]
+483: Reserve
+[END]
+484: [71 1]Reserve
+[->][END]
+485: Reserve
+[END]
+486: Reserve
+[->][END]
+487: [71 1]Reserve
+[->][END]
+488: Reserve
+[END]
+489: [71 1]Reserve
+[->][END]
+490: Reserve
+[END]
+491: [71 1]Reserve
+[->][END]
+492: Reserve
+[END]
+493: Reserve
+[->][END]
+494: [71 1]Reserve
+[->][END]
+495: Reserve
+[END]
+496: [71 1]Reserve
+[->][END]
+497: Reserve
+[END]
+498: [71 1]Reserve
+[->][END]
+499: Reserve
+[END]
+501: [71 1]I'll give you something good, ho!
+My specialty: mud balls!
+[->]Hee−ho hee−ho! Eat it, ho!
+[->][END]
+502: Reserve
+[END]
+503: [71 1]Eat it
+Toss it
+Share it
+[->][END]
+504: 〉 [Flynn] ate a mud ball...
+[->][END]
+505: [71 1]You look so hee−happy, ho... Is it
+really that good, ho?
+[->]Nom nom nom...
+[->]Hoooooooooooooooooo!
+[->][END]
+506: Reserve
+[END]
+507: [71 1]Not Used
+[->][END]
+508: Not Used
+[END]
+509: [71 1]Don't you hee−have any pride, ho?
+[->][END]
+510: Reserve
+[END]
+511: 〉 [Flynn] threw away the mud ball!
+[->][END]
+512: [71 1]Sorry, ho! I should've let it cool down
+some first, ho.
+[->][END]
+513: Reserve
+[END]
+514: [71 1]Hee−ho... What did you not like about
+my mud ball, ho...?
+[->]I'll study under you, ho! And one day,
+I'll make a mud ball you can enjoy, ho!
+[->][END]
+515: Reserve
+[END]
+516: [71 1]You wasted food, ho! I'm gonna tell
+the teacher on you, ho!
+[->][END]
+517: Reserve
+[END]
+518: 〉 [Flynn] split the mud ball in half...
+[->]〉 ...and gave half to the demon!
+[->][END]
+519: [71 1]You knew I was hee−hungry, ho? You're
+such a nice guy, ho...
+[->][END]
+520: Reserve
+[END]
+521: [71 1]Not Used
+[->][END]
+522: Not Used
+[END]
+523: [71 1]You're supposed to clean your plate, ho!
+Didn't your mom ever tell you, ho!?
+[->][END]
+524: Reserve
+[END]
+526: [71 1]Reserve
+[->][END]
+527: Reserve
+[END]
+528: [71 1]Reserve
+[->][END]
+529: Reserve
+[->][END]
+530: [71 1]Reserve
+[->][END]
+531: Reserve
+[END]
+532: [71 1]Reserve
+[->][END]
+533: Reserve
+[END]
+534: [71 1]Reserve
+[->][END]
+535: Reserve
+[END]
+536: Reserve
+[->][END]
+537: [71 1]Reserve
+[->][END]
+538: Reserve
+[END]
+539: [71 1]Reserve
+[->][END]
+540: Reserve
+[END]
+541: [71 1]Reserve
+[->][END]
+542: Reserve
+[END]
+543: Reserve
+[->][END]
+544: [71 1]Reserve
+[->][END]
+545: Reserve
+[END]
+546: [71 1]Reserve
+[->][END]
+547: Reserve
+[END]
+548: [71 1]Reserve
+[->][END]
+549: Reserve
+[END]
+551: [71 1]When you were a kid, did you play
+with bugs, ho?
+[->][END]
+552: Reserve
+[END]
+553: [71 1]”I killed them for sport.”
+”I raised them in cages.”
+”I was a bug.”
+[->][END]
+554: Not Used
+[->][END]
+555: [71 1]So did I, ho! The bugs called hee−
+humans, ho!
+[->][END]
+556: Reserve
+[END]
+557: [71 1]Not Used
+[->][END]
+558: Not Used
+[END]
+559: [71 1]To be hee−honest, I'm made of the grudges
+of all the bugs you murdered, ho.
+[->]I'll kill you, ho!
+[->][END]
+560: Reserve
+[END]
+561: Not Used
+[->][END]
+562: [71 1]We were so young and innocent then, ho...
+[->]That was hee−fore I found out that life
+is a giant insect cage, ho...
+[->][END]
+563: Reserve
+[END]
+564: [71 1]Not Used
+[->][END]
+565: Not Used
+[END]
+566: [71 1]...Were you gonna trap me in your stock
+just like them, ho?
+[->][END]
+567: Reserve
+[END]
+568: Not Used
+[->][END]
+569: [71 1]You shedded your skin and turned into
+a hee−human, ho!? Nice work, ho!
+[->][END]
+570: Reserve
+[END]
+571: [71 1]...To be hee−honest, I'm a bug too, ho.
+A yellow−bellied one, ho.
+[->]But if I fight at your side, I'll get
+braver, ho!
+[->][END]
+572: Reserve
+[END]
+573: [71 1]Well, you have the brain of a bug, ho.
+[->][END]
+574: Reserve
+[END]
+576: [71 1]Are you actually really strong, ho?
+[->][END]
+577: Reserve
+[END]
+578: [71 1]”Naturally.”
+”Would you like to try me?”
+”I'm strong against mornings.”
+[->][END]
+579: Not Used
+[->][END]
+580: [71 1]Hee−ho−ho! You're actually weak, ho?
+[->]Really strong guys don't brag about being
+strong, ho.
+[->][END]
+581: Reserve
+[END]
+582: [71 1]Not Used
+[->][END]
+583: Not Used
+[END]
+584: [71 1]Then now's my chance, ho! I'll attack
+while it's still my turn, ho!
+[->][END]
+585: Reserve
+[END]
+586: Not Used
+[->][END]
+587: [71 1]You want to fight, ho? Stop it...
+We're not friends anymore, ho!
+[->][END]
+588: Reserve
+[END]
+589: [71 1]D−Don't test yourself on me, ho! Try it
+on another demon!
+[->]I'll watch how strong you are from your
+stock, ho.
+[->][END]
+590: Reserve
+[END]
+591: [71 1]Special Control 4
+[->][END]
+592: Special Control 4
+[END]
+593: Not Used
+[->][END]
+594: [71 1]You can beat morning, ho?
+That's incredible, ho!
+[->][END]
+595: Reserve
+[END]
+596: [71 1]Morning is strong, ho. No matter hee−how
+many times I beat him, he−ho comes back
+the next day, ho!
+[->]Let's join forces to rid the world of
+morning, ho!
+[->][END]
+597: Reserve
+[END]
+598: [71 1]Morning is the weakest of the Four Daily
+Devas, ho.
+[->]Don't think you're strong just hee−cause
+you beat him, ho!
+[->][END]
+599: Reserve
+[END]
+601: [71 1]Hee−ho! I can't hold it, ho!
+[->]Hee−minus 5 seconds! 4... 3... 2... 1...!
+[->][END]
+602: Reserve
+[END]
+603: [71 1]Stop him
+Run away
+[->][END]
+604: 〉 [Flynn] quickly stopped the demon!
+[->][END]
+605: [71 1]Phew... That was close, ho...
+[->]Thanks, ho! You saved the world from
+certain anniheelation, ho!
+[->][END]
+606: Reserve
+[END]
+607: [71 1]Not Used
+[->][END]
+608: Not Used
+[END]
+609: [71 1]But I was ready to jump into your
+stock... Forget it, ho...
+[->][END]
+610: Reserve
+[END]
+611: Not Used
+[->][END]
+612: [71 1]Hee−ho−ho! What comes after one? I'm not
+good at matheematics, ho...
+[->][END]
+613: Reserve
+[END]
+614: [71 1]W−Why are you running away, ho! Take me
+with you, ho!
+[->][END]
+615: Reserve
+[END]
+616: [71 1]Time's up, ho! It's my turn now, ho!
+[->][END]
+617: Reserve
+[END]
+618: Not Used
+[->][END]
+619: [71 1]Not Used
+[->][END]
+620: Not Used
+[END]
+621: [71 1]Not Used
+[->][END]
+622: Not Used
+[END]
+623: [71 1]Not Used
+[->][END]
+624: Not Used
+[END]
+626: [71 1]Reserve
+[->][END]
+627: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+628: [71 1]Reserve
+[->][END]
+629: Reserve
+[->][END]
+630: [71 1]Reserve
+[->][END]
+631: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+632: [71 1]Reserve
+[->][END]
+633: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+634: [71 1]Reserve
+[->][END]
+635: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+636: Reserve
+[->][END]
+637: [71 1]Reserve
+[->][END]
+638: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+639: [71 1]Reserve
+[->][END]
+640: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+641: [71 1]Reserve
+[->][END]
+642: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+643: Reserve
+[->][END]
+644: [71 1]Reserve
+[->][END]
+645: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+646: [71 1]Reserve
+[->][END]
+647: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+648: [71 1]Reserve
+[->][END]
+649: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+651: [71 1]Reserve
+[->][END]
+652: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+653: [71 1]Reserve
+[->][END]
+654: Reserve
+[->][END]
+655: [71 1]Reserve
+[->][END]
+656: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+657: [71 1]Reserve
+[->][END]
+658: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+659: [71 1]Reserve
+[->][END]
+660: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+661: Reserve
+[->][END]
+662: [71 1]Reserve
+[->][END]
+663: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+664: [71 1]Reserve
+[->][END]
+665: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+666: [71 1]Reserve
+[->][END]
+667: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+668: Reserve
+[->][END]
+669: [71 1]Reserve
+[->][END]
+670: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+671: [71 1]Reserve
+[->][END]
+672: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+673: [71 1]Reserve
+[->][END]
+674: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+676: [71 1]Reserve
+[->][END]
+677: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+678: [71 1]Reserve
+[->][END]
+679: Reserve
+[->][END]
+680: [71 1]Reserve
+[->][END]
+681: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+682: [71 1]Reserve
+[->][END]
+683: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+684: [71 1]Reserve
+[->][END]
+685: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+686: Reserve
+[->][END]
+687: [71 1]Reserve
+[->][END]
+688: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+689: [71 1]Reserve
+[->][END]
+690: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+691: [71 1]Reserve
+[->][END]
+692: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+693: Reserve
+[->][END]
+694: [71 1]Reserve
+[->][END]
+695: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+696: [71 1]Reserve
+[->][END]
+697: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+698: [71 1]Reserve
+[->][END]
+699: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+701: [71 1]Reserve
+[->][END]
+702: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+703: [71 1]Reserve
+[->][END]
+704: Reserve
+[->][END]
+705: [71 1]Reserve
+[->][END]
+706: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+707: [71 1]Reserve
+[->][END]
+708: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+709: [71 1]Reserve
+[->][END]
+710: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+711: Reserve
+[->][END]
+712: [71 1]Reserve
+[->][END]
+713: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+714: [71 1]Reserve
+[->][END]
+715: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+716: [71 1]Reserve
+[->][END]
+717: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+718: Reserve
+[->][END]
+719: [71 1]Reserve
+[->][END]
+720: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+721: [71 1]Reserve
+[->][END]
+722: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+723: [71 1]Reserve
+[->][END]
+724: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+726: [71 1]Reserve
+[->][END]
+727: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+728: [71 1]Reserve
+[->][END]
+729: Reserve
+[->][END]
+730: [71 1]Reserve
+[->][END]
+731: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+732: [71 1]Reserve
+[->][END]
+733: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+734: [71 1]Reserve
+[->][END]
+735: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+736: Reserve
+[->][END]
+737: [71 1]Reserve
+[->][END]
+738: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+739: [71 1]Reserve
+[->][END]
+740: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+741: [71 1]Reserve
+[->][END]
+742: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+743: Reserve
+[->][END]
+744: [71 1]Reserve
+[->][END]
+745: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+746: [71 1]Reserve
+[->][END]
+747: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+748: [71 1]Reserve
+[->][END]
+749: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+751: [71 1]Reserve
+[->][END]
+752: Reserve
+[END]
+753: [71 1]Reserve
+[->][END]
+754: Reserve
+[->][END]
+755: [71 1]Reserve
+[->][END]
+756: Reserve
+[END]
+757: [71 1]Reserve
+[->][END]
+758: Reserve
+[END]
+759: [71 1]Reserve
+[->][END]
+760: Reserve
+[END]
+761: Reserve
+[->][END]
+762: [71 1]Reserve
+[->][END]
+763: Reserve
+[END]
+764: [71 1]Reserve
+[->][END]
+765: Reserve
+[END]
+766: [71 1]Reserve
+[->][END]
+767: Reserve
+[END]
+768: Reserve
+[->][END]
+769: [71 1]Reserve
+[->][END]
+770: Reserve
+[END]
+771: [71 1]Reserve
+[->][END]
+772: Reserve
+[END]
+773: [71 1]Reserve
+[->][END]
+774: Reserve
+[END]

@@ -1,0 +1,106 @@
+0: 〉 A demon is standing in the back
+of the room...
+[END]
+1: (Demon) [7a 65502][13 0, 668000]I haven't seen you before, human.
+Do you have business with me?
+[END]
+2: 〉 You ask the demon whether there is
+food here...
+[END]
+3: (Demon) [7a 65502][13 0, 668001]Yes, the room in the back is filled
+with corn.
+[->][13 0, 668002]However, giving it to humans is
+forbidden. I can't allow you to pass.
+[->][13 0, 668003]If you really want it, then you'll
+have to go through me.
+[END]
+4: 〉 Will you fight the demon?
+[END]
+5: Yes
+No
+[END]
+6: (Demon) [7a 65502][13 0, 668004]Good. I, Tlazolteotl, will accept any
+challenger.
+[END]
+7: (Demon) [7a 65502][13 0, 668005]What? Giving up already?
+Get the hell out of here...
+[END]
+8: (Demon) [7a 65502][13 0, 668006]You again?
+[->][13 0, 668007]You're not going to get any of this
+food without defeating me first.
+So, what's it going to be?
+[END]
+9: (Tlazolteotl) [7a 65502][13 0, 668008]Ah, well, you win. I was starting to
+get tired of the taste of corpses
+anyway...
+[->][13 0, 668009]I've unlocked the room in the back.
+Do whatever you want with the corn.
+[END]
+10: 〉 Tlazolteotl disappears...
+[END]
+11: (Shelter inhabitant) [7a 97][13 0, 668010]The demon has been defeated!
+[->][13 0, 668011]We can get our food supplies now!
+Thank you!
+[END]
+12: 〉 The people from the shelter start
+carrying the food out...
+[END]
+13: (Female voice) [7a 65432][13 0, 668012]So, Tlazolteotl has been
+defeated...
+[END]
+14: (Demon) [7a 65432][13 0, 668013]The goddess Tlazolteotl was sent to
+this world by the gods to annihilate
+humans, just like many other demons.
+[->][13 0, 668014]Her job was to eat the corpses of the
+dead and clean impurities from the
+world.
+[->][13 0, 668015]Do you know why she kept all that corn
+that she would never eat?
+[END]
+15: ”She wanted the people to have it.”
+”I do not know.”
+[END]
+16: (Demon) [7a 65432][13 0, 668016]Yes, that's right. It would seem that
+you understand.
+[->][13 0, 668017]I'm sure she is happy that the one to
+defeat her was someone like you.
+[END]
+17: (Demon) [7a 65432][13 0, 668018]I expected as much... That's why I'm
+here to tell you.
+[->][13 0, 668019]What she truly wanted was to share
+this food supply with the people.
+[END]
+18: (Demon) [7a 65432][13 0, 668020]She... Tlazolteotl was originally a
+goddess of the harvest.
+[->][13 0, 668021]She wished to return the corn that the
+humans worked so hard to grow.
+[->][13 0, 668022]However, the gods that sent her here
+seek the destruction of the human
+race, and would not allow that.
+[->][13 0, 668023]And so, the goddess Tlazolteotl
+chose to allow herself to be slain
+for the sake of the people.
+[->][13 0, 668024]...That is all that I wanted to say.
+[->][13 0, 668025]My job here was to transport the souls
+that she purified, but that is
+unnecessary now.
+[->][13 0, 668026]Please treasure the memories of
+those that have died, as well as
+this gift from the goddess.
+[END]
+19: 〉 The demon leaves...
+[END]
+20: 〉 A demon appears before you...
+[->]〉 It does not appear to be hostile.
+[END]
+21: (Demon) [7a 65502][13 0, 419009]What are you doing here? Sorry, but
+I don't have any business with living
+humans.
+[->]...Do you want me to play with you
+when you did? Well, you do look tasty.
+[END]
+22: 〉 The demon smiles, and everything
+suddenly goes dark...
+[END]
+900: 〉 There is no one here...
+[END]

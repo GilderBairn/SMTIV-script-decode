@@ -1,0 +1,58 @@
+0: 〉 A suspicious−looking man stands
+in a deserted area...
+[END]
+1: Follow him
+Leave him alone
+[END]
+2: 〉 The suspicious man looks in your
+direction...
+[->]〉 It appears that he has noticed you.
+[END]
+3: (Suspicious Man) [7a 35][13 0, 614000]I can tell you're following me.
+From the look of you, I'm guessing
+you're one of those... Samurai?
+[->][13 0, 614001]Bah... It doesn't matter who you are.
+I'm sure you have a problem with
+this country too, right?
+[->][13 0, 614002]Don't you think that this whole
+class system is ridiculous?
+[END]
+4: ”Yes, it is.”
+”Society needs rules.”
+[END]
+5: (Suspicious Man) [7a 35][13 0, 614003]Then here's what we need to do:
+start a revolution. We have to risk
+our lives to fight for freedom.
+[->][13 0, 614004]But you must be prepared to lay down
+your life for the cause, understand?
+So... you first.
+[END]
+6: (Suspicious Man) [7a 35][13 0, 614005]Yeah, that's what I thought a Samurai
+would say. You can take those ”rules”
+and shove 'em up your ass.
+[->][13 0, 614006]Nobody understands how this society
+oppresses us. Something must be done
+to wake the people up.
+[END]
+7: (Demon) [7a 64918][13 0, 614007]Did I surprise you? This is what it
+means to be truly awakened...
+[->][13 0, 614008]With this power, I'm going to end
+this tyranny forever!
+[END]
+8: 〉 [Flynn] decides to leave without
+following the man.
+[END]
+9: (Master Samurai) [7a 29][13 0, 614009]Hm? [Flynn], is that you over
+there? Ah, I see... You've slain the
+demon.
+[->][13 0, 614010]I expected as much from the star
+prentice. You even beat me to it...
+Impressive!
+[->][13 0, 614011]I have high hopes for you.
+Keep up the good work.
+[END]
+10: 〉 The man puts on a mask and raises
+his spear high into the air.
+[END]
+11: 〉 The demon has vanished.
+[END]

@@ -1,0 +1,16 @@
+0: (Demonoid man) [7a 145][13 1, 415004]That rookie demonoid who was once
+rummaging through the trash is now
+the King of Tokyo...
+[->]Wasn't there some legend about a
+Sengoku warrior like that? I like
+him, so I'm going to root for Akira.
+[END]
+1: (Demonoid man) [7a 103][13 1, 415102]A Tokyo where everyone can live in
+equality and enjoy life, huh?
+That's a big damn commitment.
+[->]...I knew Akira even before he
+became a demonoid!
+[->]There's a part of him that's weak.
+I bet he's really pushing himself
+to do this.
+[END]

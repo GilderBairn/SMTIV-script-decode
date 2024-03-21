@@ -1,0 +1,13 @@
+0: (Wu Kong) [7a 0][13 1, 411007]Holy shit! How long are you gonna
+chase me!?
+[->]Augh! You just won't stop! You're
+just like that jerk Erlang Shen!
+[->]Fine, whatever. If you want a fight,
+let's go. If you get killed, don't
+say I didn't warn you!
+[END]
+1: (Wu Kong) [7a 0][13 1, 411006]I... I give up! I surrender!
+I admit defeat!
+[->]Son of a bitch! How the hell did
+things end up like this...?
+[END]

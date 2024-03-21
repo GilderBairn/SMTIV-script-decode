@@ -1,0 +1,83 @@
+0: (Ashura−kai man) [7a 47][13 1, 403221]Aha! Here come those Samurai! I've been
+waiting for you guys.
+[->]I got my man waiting for you out by
+Club Milton.
+[->]Our orders on this came down straight
+from Mr. Tayama. Let's see whether or
+not you kids got any guts.
+[END]
+1: (Ashura−kai man) [7a 47][13 1, 403231]Hey, Samurai. Mr. Tayama's expecting you
+at the Hills building.
+[->]Oh, it ain't too far from Shibuya. Just
+head east and you'll see a skyscraper
+there.
+[END]
+2: (Ashura−kai man) [7a 47][13 1, 403221]Until now, the Reds were the only thing
+keeping Shibuya propped up.
+[->]But it's like a supermarket after a big
+natural disaster... All the demons are
+gonna come here, desperate for Reds.
+[->]Needless to say, Shibuya's finished!
+M−Maybe we should flush all the Reds...?
+[END]
+3: (Ashura−kai man) [7a 47][13 1, 403221]Until now, the Reds were the only thing
+keeping Shibuya propped up.
+[->]But now, Tokyo can say they've got the
+champ backing 'em up.
+[->]Soon, Tokyo won't need the Reds anymore...
+[END]
+4: (Ashura−kai man) [7a 47][13 1, 403203]Fujiwara sent a message to all the
+Ashura−kai troops...
+[->]He told 'em to keep the Ashura−kai shops
+in each region open for business.
+[->]It's like a supermarket after a natural
+disaster. We gotta stop people from
+panicking and fighting over supplies.
+[->]No wonder Mr. Tayama kept his hands off
+the dude... He's some kind of big−time
+player.
+[END]
+5: (Careful man) [7a 60][13 1, 403602]That Ashura−kai guy who was here is
+gone now.
+[->]He mentioned something about Ichigaya...
+Must be some kinda trouble.
+[END]
+6: (Careful man) [7a 60][13 1, 403602]That Ashura−kai dude who was here went
+away in a hurry.
+[->]He mentioned something about being
+stationed in Ichigaya or beefing up the
+defenses or something...
+[->]Is there some kinda trouble?
+[END]
+101: (Ashura−kai man) [7a 47][13 1, 403231]Hey, Samurai... I heard you're taking
+the entrance test for the Ring of Gaea.
+[->]Then you oughtta head for Kasumigaseki
+first and go down into Tokyo Station.
+[->]Go through the underground district
+and you'll find Tsukiji Hongwanji,
+first thing.
+[END]
+102: (Ashura−kai man) [7a 47][13 1, 403221]It's like a supermarket after a big
+natural disaster... All the demons are
+gonna come here, desperate for Reds.
+[->]Needless to say, Shibuya's finished!
+It's terrifying to think about...
+[->]The only thing that makes me feel better
+is looking at the tourney rankings.
+[END]
+201: (Ashura−kai man) [7a 47][13 1, 403231]Yo, Samurai. I heard you passed the
+entrance test for the Ring of Gaea...
+[->]You ain't thinking about actually joining
+up with those wackos and betraying us,
+are you?
+[->]Your one job is to off Yuriko... Don't
+you forget it.
+[END]
+301: (Ashura−kai man) [7a 47][13 1, 403231]It seems Yuriko's been up to shenanigans
+lately, so we've decided to beef up
+security ”out there.”
+[->]I'm headed there today myself, so I won't
+see you for a while.
+[->]But don't go forgetting your mission
+to whack Yuriko...
+[END]

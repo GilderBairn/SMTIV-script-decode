@@ -1,0 +1,70 @@
+0: (Voice) [13 0, 237001]Looks like you didn't fall for the
+White's moaning and kept right on
+going your own way.
+[END]
+1: (Voice) [->][END]
+2: (Hikaru) [7a 20][13 0, 237002]Hi, you guys! Long time no see.
+[END]
+3: (Hikaru) [7a 20][7b 262164, 65537][13 0, 237004]Hey, you don't think I'm one of the
+White too, do you?
+[->][13 0, 237005]*giggle* No way. I'm definitely the
+real me!
+[END]
+4: (Walter) [7a 4][END]
+5: (Demon) [7a 87][13 0, 237007]I am Lucifer.
+[END]
+6: (Lucifer) [7a 20][13 0, 237015]Though you rejected their proposal,
+the White's influence is still strong.
+[->][13 0, 237016]There are four of the White lurking
+somewhere within this forest.
+[->][13 0, 237017]Kill them all and break their influence
+on this place.
+[->][13 0, 237018]If you can do this, I shall return you
+to your own world.
+[END]
+7: (Lucifer) [7a 20][13 0, 237020]Let me heal your wounds.
+[END]
+8: 〉 Lucifer disappeared...
+[END]
+9: (Lucifer) [7a 64451][13 1, 401214]Hello, my allies who long for a new
+world.
+[->]I'll heal your wounds.
+[END]
+10: (Lucifer) [7a 64451]If the people's despair strengthens,
+the White will gain power as well.
+[->]Don't let the despair in. Hold fast
+to your desires...
+[END]
+102: (Walter) [7a 4][7b 196612, 65537][13 0, 237003]Hikaru...!?
+[END]
+103: (Hikaru) [7a 20][7b 65556, 65537][13 0, 237006]Although this is not precisely my
+true form...
+[END]
+105: (Lucifer) [7a 20][13 0, 237008]Thanks to your work in opening the
+gate to the Expanse, I live again.
+[END]
+106: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+107: (Lucifer) [7a 87][13 0, 237021]If you find yourself too wounded to
+continue, come to the forest entrance.
+[END]
+205: (Walter) [7a 4][7b 196612, 65537][13 0, 237009]So, Hikaru was a demon...
+[END]
+207: (Lucifer) [7a 87][13 0, 237022]I'll provide healing whenever you
+need it.
+[END]
+305: (Lucifer) [7a 20][13 0, 237010]Playing the fool to mask my subtle
+maneuverings is a sure strategy.
+[END]
+405: (Walter) [7a 4][7b 655364, 65537][13 0, 237011]Hikaru... Er, no, ”Lucifer”, was it?
+Why are you here...?
+[END]
+505: (Lucifer) [7a 20][13 0, 237012]I believe I mentioned before that I
+am interested in you all...
+[END]
+605: (Lucifer) [7a 20][13 0, 237013]We stand in the Expanse. It is a world
+fabricated by people's thoughts.
+[->][13 0, 237014]The White are also aggregations of
+thoughts. They are part of this space.
+[END]

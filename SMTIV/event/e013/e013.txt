@@ -1,0 +1,33 @@
+0: (Burroughs) [7a 2][13 0, 13001]Hey Master, you want to hear
+something useful?
+[->][13 0, 13002]There's a certain App that's a must
+for anyone who fights demons.
+[->][13 0, 13003]It's called the ”Demon Fusion” App.
+[END]
+1: (Burroughs) [7a 2][13 0, 13004]Want to me to go over how demon
+fusion works with you?
+[END]
+2: ”Please do.”
+”There's no need.”
+[END]
+3: (Burroughs) [7a 2][13 0, 13005]If you say so... But will you be all
+right without it? I'm a little anxious.
+[END]
+4: ”Fusion” has been added to the list
+of unlockable Apps in Burroughs.
+[->]By using Fusion, you can fuse demons
+at any time through the Main Menu.
+[END]
+5: (Burroughs) [7a 2][13 0, 13006]You can ask the AI inside the Demon
+Fusion App for more details.
+[END]
+6: (Burroughs) [7a 2][13 0, 13007]Until next time, Master [Flynn].
+[END]
+900: (Burroughs) [7a 2][13 0, 400055]Did you get all that?
+[END]
+901: ”I understand.”
+”Tell me once more.”
+[END]
+902: (Burroughs) [7a 2][13 0, 400056]All right. I'll display the
+information once more.
+[END]

@@ -1,0 +1,85 @@
+0: (Hope) [7a 8][13 0, 8001]I am Hope, head of the Samurai.
+[->][13 0, 8002]From today on, you will dwell in
+this room.
+[->][13 0, 8003]As a member of our band, you will
+work on the behalf of this kingdom
+alongside the rest of we Samurai.
+[->][13 0, 8004]Though you've just been inducted,
+your practical training will begin
+tomorrow morning.
+[->][13 0, 8005]I suggest you rest early tonight to
+recover from your journey. You'll get
+more details tomorrow.
+[END]
+1: 〉 Hope left your room.
+[END]
+2: 〉 [Flynn] decided to retire to bed
+early.
+[->]〉 His mind was a whirlwind of
+thoughts...
+[->]〉 About his life until now...
+His family and friends...
+[->]〉 Uncertainty regarding the new life
+suddenly thrust upon him... The high
+expectations...
+[->]〉 But soon, [Flynn] sunk into
+slumber...
+ 
+[END]
+3: (Young man) [7a 4][13 0, 8006]Oh, were you still asleep? Don't mind
+me barging in.
+[END]
+4: (Young man) [7a 4][7b 786436, 65537][13 0, 8009]My name's Walter.
+[END]
+5: (Walter) [7a 4][7b 786436, 65537][13 0, 8010]I heard that you came from the
+Casualries too.
+[END]
+6: ”Possibly...”
+”I don't believe so.”
+[END]
+7: (Walter) [7a 4][7b 262148, 65537][13 0, 8013]...No, of course we haven't.
+[->][13 0, 8014]That was only a dream... I'm imagining
+things. Pay me no mind.
+[END]
+8: (Walter) [7a 4][7b 262148, 65537][13 0, 8015]Hahahaha... A silly question, wasn't
+it? Sorry for asking something so odd.
+[->][13 0, 8016]But you see, I had this strange dream
+two days ago... Ah, but there I go
+again.
+[END]
+9: (Walter) [7a 4][7b 786436, 65537][13 0, 8017]You're heading to the practical
+training too, right?
+[->][13 0, 8018]I'll go on ahead, then, and I'll see
+you at the entrance to Naraku.
+[END]
+10: (Voice) [13 1, 400201]What the... You're still here?
+[END]
+11: (Walter) [7a 4][13 1, 405820]You're the slow, methodical sort,
+aren't you? I'd say I made the right
+decision, coming to check on you.
+[->]You're heading to practical training
+too, right? We're meeting at the
+Naraku entrance. I'll see you there.
+[END]
+12: (Walter) [7a 4][13 1, 405820]You're the slow, methodical sort,
+aren't you? I'd say I made the right
+decision, coming to check on you.
+[->]Everyone's already gone ahead. Get
+yourself ready and come to Naraku,
+double time.
+[END]
+100: 〉 The next morning...
+[END]
+103: (Young man) [7a 4][13 0, 8007][7b 786436, 65537]Hah, I'm no burglar, if that's what
+you're thinking. I'm a bona fide
+Samurai.
+[END]
+105: (Walter) [7a 4][7b 262148, 65537][13 0, 8011]That's why I came to introduce myself.
+It's good to meet you, [Flynn].
+[END]
+203: (Young man) [7a 4][13 0, 8008][7b 262148, 65537]I became one yesterday, just as you
+did, heh.
+[END]
+205: (Walter) [7a 4][7b 65540, 65537][13 0, 8012]By the by... have we met somewhere
+before?
+[END]

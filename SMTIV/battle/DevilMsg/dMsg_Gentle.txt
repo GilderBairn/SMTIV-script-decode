@@ -1,0 +1,76 @@
+0: [71 1]I devote this newfound power to
+you...
+[->][END]
+1: [71 1]With this new skill, I will
+enchant you...
+[->][END]
+2: [71 1]I have learned yet another
+interesting technique...
+[->][END]
+3: [71 1]My strength is virtually sinful...
+[->][END]
+4: [71 1]It seems I am absolutely full of
+skills. I shall allow you to choose
+which of them I shall relinquish.
+[->][END]
+5: [71 1]What would you say if I changed my
+[Color:0x5][Skill 1][Color:0x0] to 
+[Color:0x5][Skill 2]?[Color:0x0]
+[->][END]
+6: [71 1]Would you allow me to alter my
+skill [Color:0x5][Skill 1][Color:0x0] into
+a more wonderful skill?
+[->][END]
+7: [71 1]...Bear witness.
+[->][END]
+8: [71 1]It was not to your liking...?
+[->][END]
+9: [71 1][Color:0x5][Skill 1].[Color:0x0]
+Hmhmhm. I impress myself...
+[->][END]
+10: [71 1]I can sense my body yearning for a
+change...
+[->][END]
+11: [71 1]I shall transform... Burn this
+scene of accomplishment into your
+eyes...
+[->][END]
+12: [71 1]Very well. I shall make due with
+this body...
+[->][END]
+13: [71 1]...I have obtained an excellent new
+body.
+[->][END]
+14: [71 1]Ho ho... This feeling... It is a
+premonition of [Color:0x5]evolution...[Color:0x0]
+[->][END]
+15: [71 1]Take this [Color:0x5][Item 1].[Color:0x0]
+A gift from me to you.
+[->][END]
+16: [71 1]I give you [Color:0x5][Item 1]...[Color:0x0]
+It is quite becoming of you.
+[->][END]
+17: [71 1]Your work must be praised. I present
+you with this [Color:0x5][Item 1].[Color:0x0]
+[->][END]
+18: [71 1]Now, take this... The forbidden
+power of demons...
+[->][END]
+19: [71 1]You can have more if you like.
+[->][END]
+20: [71 1]My name is [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+It is a pleasure to meet you.
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

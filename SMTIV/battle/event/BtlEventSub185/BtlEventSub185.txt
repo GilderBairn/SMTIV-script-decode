@@ -1,0 +1,13 @@
+0: (Baal) [7a 0][13 0, 351101]Hahaha... You're quite a formidable
+opponent.
+[->][13 0, 351102]You would make a suitable offering to
+me, the king of gods.
+[->][13 0, 351103]You, too, shall become part of me,
+just as these ones have.
+[END]
+1: (Baal) [7a 0][13 0, 351104]How could this be...? I underestimated
+you... human...
+[->][13 0, 351105]At this rate... My body will start to
+decay...
+[->][13 0, 351106]I must return... to that body...
+[END]

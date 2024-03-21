@@ -1,0 +1,190 @@
+0: (Grimacing man) [7a 59][13 1, 403203]I haven't seen you guys before. Are you
+Hunters from somewhere else?
+[->]But the bridge is down, and the Kelpies
+are in no mood to negotiate...
+[->]So that leaves... you came from the
+Sky Tower? Nah, there's no way.
+[END]
+1: (Grimacing man) [7a 59][13 1, 403212]What...? You have access to the
+Ryogoku area? So does that mean you
+can get to Shinjuku?
+[->]I hear that place is full of buried
+treasure, but it's very dangerous to
+stick around for long.
+[->]...Though I guess it was always like
+that, huh?
+[END]
+2: (Grimacing man) [7a 59][13 1, 403212]Even though the demons occupying here
+and there around Tokyo are gone...
+[->]It suddenly seems like there are more
+demons around. Reminds me of when the
+ceiling first appeared...
+[END]
+3: (Grimacing man) [7a 59][13 1, 403212]It suddenly seems like there are more
+demons around. Reminds me of when the
+ceiling first appeared...
+[->]And all those stupid Hunters can do
+is fool around with their stupid
+tournament...
+[->]Although... that guy [Flynn]...
+He's really moving up the ranks,
+isn't he?
+[->]I don't care much about the scoreboard,
+but I keep hearing his name.
+[END]
+4: (Grimacing man) [7a 59][13 1, 403213]It suddenly seems like there are more
+demons around. Reminds me of when the
+ceiling first appeared...
+[->]But it's different this time, 'cause we
+got the champion on our side!
+[END]
+5: (Grimacing man) [7a 59][13 1, 403233]You know... I have this recurring dream
+lately... It's about Tokyo before the
+ceiling appeared.
+[->]I wish it was one of those prophetic
+dreams, but... Haha, nah. I shouldn't
+get my hopes up.
+[END]
+6: (Fragile−looking man) [7a 60][13 1, 403403]There's no safe place in Tokyo. Walk
+outside, and all you'll see are demons.
+[->]That's where these safe underground
+districts really come in handy. We
+have the Ashura−kai to thank.
+[END]
+7: (Fragile−looking man) [7a 60][13 1, 403402]H−Hey, I hear there are more demons
+outside. Is that true? Wh−What about
+inside the underground districts?
+[->]We're safe, right? Mr. Tayama will take
+care of us, yeah? I'm sure he'll work
+out a deal to protect us...
+[END]
+8: (Fragile−looking man) [7a 60][13 1, 403402]H−Hey, I hear there are more demons
+outside. Is that true? Wh−What about
+inside the underground districts?
+[->]But we've got you with us! You'll work
+something out with the demons, right?
+[->]Also, we'll need someone to negotiate
+with those angels coming down from up
+above the ceiling...
+[END]
+9: (Fragile−looking man) [7a 60][13 1, 403402]I haven't been outside the underground
+district for days since I heard there
+were more demons out there...
+[->]So I finally go outside and the first
+thing I hear is the Demon Lord's dead!
+Or was that just my wishful thinking...
+[END]
+100: (Grimacing man) [7a 59][13 1, 403203]What!? You struck a bargain with the
+Kelpies? So you can actually get to
+Kasumigaseki...?
+[->]Well, that bummer of a place used to be
+a government district. You won't find
+an Association or any shops there...
+[->]But the Ashura−kai's keeping a tight
+lid on it for some reason. It's not as
+if anyone would want to go, though...
+[END]
+101: (Grimacing man) [7a 59][13 1, 403212]What? You can actually go to Ryogoku
+now? That means we can get to Ikebukuro
+too, huh...
+[->]I dunno, though, I've heard some shady
+rumors about that place. Should I go?
+[END]
+102: (Grimacing man) [7a 59][13 1, 403212]It suddenly seems like there are more
+demons around. Reminds me of when the
+ceiling first appeared...
+[->]What're those stupid Hunters doing,
+fooling around with a tournament at
+a time like this?
+[END]
+106: (Fragile−looking man) [7a 60][13 1, 403403]The demon in Shinobazu Pond was bad,
+sure, but the one in Shinjuku National
+Park is a real terror.
+[->]But you'll be safe if you stay in the
+underground districts. Good thing we
+have the Ashura−kai, I guess.
+[END]
+107: (Fragile−looking man) [7a 60][13 1, 403402]H−Hey, I hear there are more demons
+outside. Is that true? Wh−What about
+inside the underground districts?
+[->]We're safe, right? Mr. Tayama will take
+care of us, yeah? I'm sure he'll work
+out a deal to protect us...
+[->]O−Or... maybe that [Flynn] guy
+can take care of all the demons in
+Tokyo. You think...?
+[END]
+108: (Fragile−looking man) [7a 60][13 1, 403402]H−Hey, I hear there are more demons
+outside. Is that true? Wh−What about
+inside the underground districts?
+[->]But we've got you with us! You'll work
+something out with the demons, right?
+[->]Oh, and can you get rid of that Demon
+Lord too? I don't know much about him,
+but he sounds bad...
+[END]
+201: (Grimacing man) [7a 59][13 1, 403212]Now we can get to the Ryogoku area...
+And not only that, but the west side
+of Shinjuku, too...
+[->]You know, little by little, it's getting
+easier to live in Tokyo.
+[END]
+206: (Fragile−looking man) [7a 60][13 1, 403403]The demon in Shinobazu Pond was bad,
+sure, but the one in Shibuya Park is
+a real terror.
+[->]But you'll be safe if you stay in the
+underground districts. Good thing we
+have the Ashura−kai, I guess.
+[END]
+301: (Grimacing man) [7a 59][13 1, 403212]I heard the demons who were terrorizing
+Shibuya are history.
+[->]You know, little by little, it's getting
+easier to live in Tokyo.
+[END]
+306: (Fragile−looking man) [7a 60][13 1, 403403]The demon in Shinobazu Pond was bad,
+sure, but those Ring of Gaea people
+are the real terrors.
+[->]But you'll be safe if you stay in the
+underground districts. Good thing we
+have the Ashura−kai, I guess.
+[END]
+401: (Grimacing man) [7a 59][13 1, 403212]Hey, you know about that demon that was
+always meditating in Midtown?
+[->]I heard someone took him out. Not that
+I got any business in Midtown, but...
+[->]The freer we are to get around Tokyo,
+the more it feels like its old self...
+You know, before the ceiling.
+[END]
+406: (Fragile−looking man) [7a 60][13 1, 403403]There are some nasty rumors about the
+Ashura−kai going around, but we still
+owe them a lot...
+[->]They're the ones who negotiated these
+safe underground districts with the
+demons.
+[->]Who else could have done it, I ask
+you? Only Mr. Tayama could have pulled
+it off.
+[END]
+501: (Grimacing man) [7a 59][13 1, 403212]I keep hearing about demons in charge
+of places around Tokyo getting snuffed
+right and left.
+[->]The freer we are to get around Tokyo,
+the more it feels like its old self...
+You know, before the ceiling.
+[->]The only places we can't reach now are
+Toyosu and the Tennozu Shelter...
+[->]Oh, and Ichigaya.
+[END]
+506: (Fragile−looking man) [7a 60][13 1, 403402]There are some nasty rumors about the
+Ashura−kai going around, but we still
+owe them a lot...
+[->]They're the ones who negotiated these
+safe underground districts with the
+demons.
+[->]Who else could have done it, I ask
+you? Only Mr. Tayama could have pulled
+it off.
+[->]That's why I support the Ashura−kai
+one hundred percent!
+[END]

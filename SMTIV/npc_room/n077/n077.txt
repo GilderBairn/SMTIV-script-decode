@@ -1,0 +1,26 @@
+0: (Ring of Gaea Member) [7a 51][13 1, 404311]We have chosen that we would fight
+with our lives to uphold our ideals.
+[->]Those are the teachings of our
+sublime leader, Lady Yuriko.
+[END]
+1: (Ring of Gaea Member) [7a 54][13 1, 404403]It appears that Kaga volunteered for
+the task of bringing Ikebukuro back
+under human control.
+[->]I heard that she used to live in
+Ikebukuro when she was young.
+[->]The Ashura−kai pressed Kaga's parents
+to give her up to be raised by them.
+[->]But, with her parents' help, Kaga
+escaped Ikebukuro and reached the
+temple of the Ring of Gaea.
+[->]Now that she has an opportunity to
+crush the Ashura−kai, she has been
+given a chance for revenge...
+[END]
+2: (Ring of Gaea Member) [7a 54][13 1, 404411]...The Ashura−kai? Those swine that
+prey on the weak and serve only
+to enrich themselves?
+[->]...Though, I must say that those who
+do the Ashura−kai's bidding and
+keep underground are the same.
+[END]

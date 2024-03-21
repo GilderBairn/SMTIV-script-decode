@@ -1,0 +1,485 @@
+0: Dummy Message
+[END]
+1: 〉 It appears that you cannot
+communicate with this demon using
+your current apps...
+[->][END]
+2: 〉 It appears that ”Scout” will not
+work on this demon...
+[->][END]
+3: 〉 It appears that you cannot escape
+from this battle...
+[->][END]
+4: [71 1]......!
+[->][END]
+5: 〉 The demon twitches in its sleep,
+but then settles down, frowning
+deeply...
+[->]〉 It appears that even in while
+asleep, this demon will not let you
+escape from this battle...
+[->][END]
+6: 〉 [Flynn] tries to start a
+conversation...
+[->][END]
+7: 〉 [Flynn] tries to start a
+conversation...
+[->]〉 ...but this object cannot speak.
+[->][END]
+8: 〉 [Flynn] tries to start a
+conversation...
+[->]〉 ...but the demon does not respond.
+[->][END]
+9: 〉 [Flynn] tries to start a
+conversation...
+[->]〉 ...It's no use! The zombie's grunts
+and groans are unintelligible.
+[->][END]
+10: 〉 [Flynn] tries to start a
+conversation...
+[->]〉 ...It's no use! This person has
+no intention of talking!
+[->][END]
+11: 〉 [Flynn] tries to start a
+conversation...
+[->]〉 ...It's no use! They're all
+talking at once!
+[->][END]
+12: 〉 [Flynn] tries to start a
+conversation...
+[->]〉 ...However, his voice cannot be
+heard by those who have pledged
+allegiance to God...
+[->][END]
+13: 〉 [Flynn] tries to start a
+conversation...
+[->]〉 ...but the demon has lost control
+of itself!
+[->][END]
+14: 〉 [Flynn] tries to start a
+conversation...
+[->]〉 ...However, the demon is a being on
+another plane of existence, and it
+cannot comprehend his words.
+[->][END]
+15: [71 1]......!
+[->][END]
+16: [71 1]You wish to talk? Have you become
+afraid...?
+[->]Stow your tongue and draw your weapon!
+We will fight in silence.
+[->][END]
+17: 〉 The enemy is in a foul mood, thanks
+to the previous attack...
+[->][END]
+18: 〉 The enemy wakes up at the sound of
+[Flynn]'s voice...
+[->][END]
+19: 〉 [Flynn] asks the opponent to
+become his ally...
+[->][END]
+20: 〉 [Flynn] asks the group of demons
+to lend him their power...
+[->][END]
+21: 〉 [Flynn] proposes a truce with
+the opponent...
+[->][END]
+22: 〉 [Flynn] proposes that he and
+the enemy engage in chitchat...
+[->][END]
+23: 〉 [Flynn] pleads with the enemy to
+show mercy...
+[->][END]
+24: 〉 [Flynn] politely asks the enemy
+to give him money...
+[->][END]
+25: 〉 [Flynn] politely asks the enemy
+to give him an item...
+[->][END]
+26: 〉 The enemy liked it!
+[->][END]
+27: 〉 The enemy's heart was swayed!
+[->][END]
+28: 〉 The enemy did not like that...
+[->][END]
+29: 〉 [Color:0x5][Demon race 1] [Demon name 1][Color:0x0] became
+an ally!
+[->][END]
+30: 〉 The enemy tried inviting other
+members of its party to come along...
+[->][END]
+31: 〉 [Demon name 1] volunteered!
+[->][END]
+32: 〉 ...but none volunteered...
+[->][END]
+33: 〉 [Demon name 1]'s stats increased!
+[->][END]
+34: 〉 [Demon name 1]'s stats increased
+by more than usual!
+[->][END]
+35: 〉 [Demon name 1]'s stats increased
+by far more than usual!
+[->][END]
+36: 〉 [Demon name 1] learned
+[Color:0x5][Skill 1]![Color:0x0]
+[->][END]
+37: 〉 [Flynn] obtained the Legion Skill
+[Color:0x5][79 1]![Color:0x0]
+[->][END]
+38: Legion Skills are powerful skills where you can temporarily summon an army of demons.
+[->]By successfully Scouting a group of demons, you can earn the Legion Skill of that group.
+[->]There are other Legion Skills other than the one you just obtained, so try Scouting other groups of demons when you run into one.
+[->]Mido of the Cathedral of Shadow knows the details about Legion Skills. When this battle ends try started the application.
+[->][END]
+39: .........
+.........
+.........
+.........
+.........
+[->][END]
+40: 〉 The enemy is sleepy!
+Its will to fight is gone!
+[->][END]
+41: 〉 The enemy let [Flynn] escape...
+[->][END]
+42: 〉 The enemy is confused, and begins
+to talk by itself...
+[->][END]
+43: 〉 The enemy is chatting amiably...
+This should keep it occupied for one
+press turn.
+[->][END]
+44: 〉 The enemy is preoccupied with
+talking... This should take up the
+next two press turns.
+[->][END]
+45: 〉 The enemy is sleepy, and gives
+[Flynn] mercy without hesitation!
+[->][END]
+46: 〉 [Flynn] uses every possible
+method there is to get money out
+of the enemy!
+[->][END]
+47: 〉 [Flynn] got [Color:0x1][Amount 1]
+Macca[Color:0x0] from the enemy!
+[->][END]
+48: 〉 The enemy was holding back
+[Color:0x1][Amount 1] Macca![Color:0x0]
+[->][END]
+49: Ask for more
+Stop talking
+[->][END]
+50: 〉 [Flynn] hurriedly backs away with
+the Macca...
+[->][END]
+51: 〉 The enemy has given up!
+[->][END]
+52: 〉 The enemy throws [Color:0x1][Amount 1]
+Macca[Color:0x0] at [Flynn]!
+[->][END]
+53: 〉 The enemy cannot move! It appears
+[Flynn] will be able to get a lot of
+money from this one...
+[->][END]
+54: 〉 [Flynn] spends a lot of time
+going through the enemy's pockets...
+[->][END]
+55: 〉 [Flynn] obtains a total of
+[Color:0x1][Amount 1] Macca![Color:0x0]
+[->][END]
+56: 〉 [Flynn] obtains a total of
+[Color:0x1][Amount 1] Macca![Color:0x0]
+[->]〉 ...But the enemy is furious!
+[->][END]
+57: 〉 [Flynn] doesn't get any Macca...
+[->]〉 ...Plus, the enemy is now furious!
+[->][END]
+58: 〉 The enemy is confused, and is
+being generous!
+[->][END]
+59: Comply
+Refuse
+Cheat
+[->][END]
+60: Comply
+Refuse
+Cheat
+End talks
+[->][END]
+61: ”I don't have it.”
+Cheat
+[->][END]
+62: ”I don't have it.”
+Cheat
+End talks
+[->][END]
+63: Take it
+Negotiate normally
+[->][END]
+64: Comply
+Refuse
+[->][END]
+65: Hand ”that” over
+Hand nothing over
+[->][END]
+66: Item
+Macca
+HP
+MP
+[->][END]
+67: 〉 [Flynn] responds with an evasive
+answer...
+[->][END]
+68: 〉 The enemy is satisfied!
+[->][END]
+69: 〉 ...But the enemy sees through his
+lies!
+[->][END]
+70: 〉 [Flynn] ended the conversation!
+[->][END]
+71: 〉 The enemy takes [Demon name 2]'s
+life...
+[->][END]
+72: 〉 The enemy is very satisfied!
+[->][END]
+73: 〉 The enemy is satisfied for some
+strange reason!
+[->][END]
+74: 〉 [Color:0x5][Demon name 1][Color:0x0] returns from
+being lost!
+[->][END]
+75: 〉 [Demon name 1] brought back a
+souvenir...
+[->][END]
+76: ”Become my ally.”
+”Give me an item.”
+”Give me money.”
+”Die.”
+[->][END]
+77: ”Make a contract with me.”
+”Give me an item.”
+”Give me money.”
+”Die.”
+[->][END]
+78: 〉 The demon attempts to speak...
+[->]〉 But [Flynn] can't understand
+anything it says!
+[->][END]
+79: 〉 The enemy is being friendly, and
+sees [Flynn] as an acquaintance.
+[->][END]
+80: Ask for details
+Go to the main topic
+[->][END]
+81: 〉 The demon tells [Flynn] the
+details about the request...
+[->][END]
+82: (Burroughs) [13 1, 502043]I see that you've accepted a job
+from this demon. I will register it
+as a quest.
+[->][END]
+83: 〉 The enemy seems tired of discussing
+this topic...
+[->][END]
+84: 〉 The enemy leaves...
+[->][END]
+85: 〉 The enemy is dead...
+[->][END]
+86: 〉 The enemy was surprised, and runs
+away...
+[->][END]
+87: 〉 [Flynn] obtains
+[Color:0x1][Item 1]![Color:0x0]
+[->][END]
+88: 〉 A [Color:0x1][Item 1][Color:0x0] was taken
+from [Flynn]!
+[->][END]
+89: 〉 [Flynn] obtains
+[Color:0x1][Amount 1][Color:0x0] Macca!
+[->][END]
+90: 〉 [Color:0x1][Amount 1][Color:0x0] Macca was taken
+from [Flynn]!
+[->][END]
+91: 〉 The enemy returns
+[Color:0x1][Amount 1][Color:0x0] Macca!
+[->][END]
+92: [Color:0x5]Fairy Napaea[Color:0x0] fused with
+a demon on her journey...
+[->][END]
+93: And returned as [Color:0x5]Night Mokoi![Color:0x0]
+[->][END]
+94: (Jack Frosts) Hurry, ho!
+[->][END]
+95: Created [Color:0x1]white DDM[Color:0x3]
+Created [Color:0x0]black DDM[Color:0x3]
+[->][END]
+96: Font Test 2
+[Color:0x2]Font Test 2
+[->][END]
+97: Font Test 3
+[Color:0x3]Font Test 3
+[->][END]
+98: Font Test 4
+[Color:0x4]Font Test 4
+[->][END]
+99: Font Test 5
+[Color:0x5]Font Test 5
+[->][END]
+100: 〉 ...but the demon was holding tacks
+in his hand!
+[->][END]
+101: [71 1]All right, let's do it!
+...But you're strong, right?
+[->]Give me a handicap!
+[->][END]
+102: 〉 The demon hits [Flynn]!
+[->][END]
+103: 〉 All of [Flynn]'s stats have
+decreased!
+[->][END]
+104: 〉 ...But when [Flynn] turns around,
+the demon is standing right there!
+[->][END]
+105: [71 1]You can't run away from me.
+[->][END]
+106: [71 1]Reserve
+[->][END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[->][END]
+109: [71 1]Then I'll give ya a fist.
+[->][END]
+110: 〉 The demon punches [Flynn] square
+in the face!
+[->][END]
+111: [71 1]Well, okay, but it's all in spare
+change. Here it comes!
+[->][END]
+112: 〉 A tidal wave of Macca coins slams
+into [Flynn]!
+[->][END]
+113: [71 1]Hmm... You know, I think I'll take
+it home.
+[->][END]
+114: [71 1]Wow, a rock. That's so useful.
+Hey, here's one use for it.
+[->][END]
+115: 〉 The demon throws the rock at
+[Flynn]!
+[->][END]
+116: [71 1]Really? Then carry this.
+[->][END]
+117: 〉 The demon gives [Flynn] an
+incredibly heavy keystone!
+[->][END]
+118: [71 1]I'm not going unless you carry me.
+I don't feel like walking.
+[->][END]
+119: 〉 The demon leans on [Flynn]!
+[->][END]
+120: [71 1]Reserve
+[->][END]
+121: [71 1]Reserve
+[->][END]
+122: [71 1]ME JUMP INTO YOU CHEST!
+AWOOOOOOOOO!
+[->][END]
+123: 〉 The demon pounces at [Flynn]!
+[->][END]
+124: [71 1]...HMPH!
+[->][END]
+125: 〉 The demon swipes at [Flynn]!
+[->][END]
+126: [71 1]YOU PAY MORE ATTENTION! BE CAREFUL
+OF DEMON CLAWS!
+[->][END]
+127: [71 1]YOU HEAD MADE OF STONE!?
+THEN ME TEST!
+[->][END]
+128: 〉 The demon headbutts [Flynn]!
+[->][END]
+129: 〉 But there were tacks hidden in the
+demon's palm!
+[->][END]
+130: [71 1]Hee−ho−ho! I'll do it, ho! But...
+you're strong, right?
+[->]I need a hee−handicap, ho!
+[->][END]
+131: 〉 The demon hits [Flynn]!
+[->][END]
+132: 〉 All of [Flynn]'s stats decreased!
+[->][END]
+133: [71 1]Reserve
+[->][END]
+134: [71 1]Reserve
+[->][END]
+135: [71 1]Reserve
+[->][END]
+136: [71 1]Reserve
+[->][END]
+137: [71 1]That candle... Are you going to burn
+me with it!?
+[->]I won't let you! I'll put it out!
+[->][END]
+138: [71 1]What's with the candle? Can you
+even fight holding that?
+[->]Here, I'll put it out for you!
+Then you can fight me for real!
+[->][END]
+139: [71 1]Why are you talking to me? Are you
+not in the middle of taking a test?
+[->]...You need to be penalized.
+[->][END]
+140: [71 1]A candle's flame is like the life
+of a man...
+[->]It shall be snuffed out.
+[->][END]
+141: [71 1]When yer old, sometimes you just
+feel ticklish 'round the ol' nose
+area...
+[->]Ah...
+Ahhhhhhhh...
+Achoo!
+[->][END]
+142: [71 1]Oh no! The candle's lit! The house
+is gonna burn down!
+[->]I'll put it out!
+[->][END]
+143: [71 1]Look at the way you're babying that
+candle... What, is it more important
+than moi?
+[->]...I'll put it out, then you'll
+HAVE to pay attention to me.
+[->][END]
+144: [71 1]That simple candle certainly ruins
+the mood...
+[->]I wish for it to be extinguished.
+[->][END]
+145: [71 1]Talking in the middle of the test?
+My, aren't we confident?
+[->]Then this should be nothing for you,
+right, boy?
+[->][END]
+146: [71 1]ME BEAST! CANDLE SCARY!
+[->]ME PUT IT OUT! FOOO!
+[->][END]
+147: [71 1]That candle... Are you going to burn
+me with it, ho?
+[->]I won't let you! I'll put it out, ho!
+[->][END]
+148: [71 1]Reserve
+[->][END]
+149: [71 1]Hisssss! Hiss!
+[->]Hsssssssssssss!
+[->][END]
+150: [71 1]GRAAAAAAAAAH!
+[->][END]
+151: [71 1]BN&0+W]WT['|am
+#q7%‘EVPe4m6itI+
+[->][END]
+152: 〉 The demon suddenly blows at the
+candle!
+[->][END]
+153: 〉 The demon sneezes at the candle!
+[->][END]

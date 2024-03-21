@@ -1,0 +1,71 @@
+0: 〉 The angels are no longer here...
+[END]
+1: 〉 A powerful barrier prevents you from
+proceeding...
+[END]
+2: (Masakado) [7a 65176]It seems that the angels who erected this
+barrier must be defeated before it will
+disappear.
+[END]
+3: (Masakado) [7a 65176]Come, [Flynn]. Let us find the angels
+and strike them down.
+[END]
+4: 〉 The atmosphere changed...
+[END]
+5: 〉 The barrier disappeared.
+[END]
+6: 〉 A powerful barrier prevents you from
+proceeding...
+[END]
+7: (Masakado) [7a 65176]This barrier created by the angels we
+must eliminate... It seems more powerful
+than the last.
+[END]
+8: (Masakado) [7a 65176]Come, [Flynn]. Let us find the angels
+and strike them down.
+[END]
+9: 〉 The atmosphere changed...
+[END]
+10: 〉 The barrier disappeared.
+[END]
+11: 〉 A powerful barrier prevents you from
+proceeding...
+[END]
+12: (Demon Lord Lucifer) [7a 65056]An elaborate trick... The barrier will
+remain so long as the angels who created
+it live...
+[END]
+13: (Demon Lord Lucifer) [7a 65056]In which case, [Flynn], we must
+simply hunt and kill all the angels.
+[END]
+14: 〉 The atmosphere changed...
+[END]
+15: 〉 The barrier disappeared.
+[END]
+16: 〉 A powerful barrier prevents you from
+proceeding...
+[END]
+17: (Demon Lord Lucifer) [7a 65056]This barrier... it is stronger than the
+last one we demolished.
+[END]
+18: (Demon Lord Lucifer) [7a 65056]There is nothing for it, [Flynn],
+than to hunt and kill all the angels
+who remain.
+[END]
+19: 〉 The atmosphere changed...
+[END]
+20: 〉 The barrier disappeared.
+[END]
+101: (Masakado) [7a 65176][13 1, 402002]A barrier the angels erected...
+[->]......
+[END]
+106: (Masakado) [7a 65176][13 1, 402002]Hrrrm... Another of the angels' barriers.
+[->]......
+[END]
+111: (Demon Lord Lucifer) [7a 65056][13 1, 401904]...One of the angels' barriers.
+[->]......
+[END]
+116: (Demon Lord Lucifer) [7a 65056][13 1, 401902]Another of the accursed angels' barriers,
+I see.
+[->]......
+[END]

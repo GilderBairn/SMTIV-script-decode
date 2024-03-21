@@ -1,0 +1,24 @@
+0: [71 1]All things shall pass...
+[->][END]
+1: [71 1]The task was completed... at the cost
+of a great many deaths, that is...
+[->][END]
+2: [71 1]I have witnessed it with my own eyes...
+The struggle of a Samurai who lives on...
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]Receive death's gift. Ah, but will it
+prolong your life...?
+[->][END]
+7: [71 1]I grant you a gift of life. It is a boon
+that kept the Samurai among the living.
+[->][END]
+8: [71 1]There was death, destruction, and
+annihilation. And in the end, this
+gift remained...
+[->][END]

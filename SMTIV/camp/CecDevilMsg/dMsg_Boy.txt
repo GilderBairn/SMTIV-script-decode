@@ -1,0 +1,27 @@
+0: [71 1]The world's so big!
+There were so many people stronger
+than me!
+[->][END]
+1: [71 1]I went and helped another Samurai!
+You guys are nothing without me, huh?
+[->][END]
+2: [71 1]I need to keep training until I
+become Super [Demon name 1]!
+[->][END]
+3: [71 1]I'm smaller now, but I got more
+power than before!
+[->][END]
+4: [71 1]I didn't plan to become a kid...
+But, oh well! This body's cool!
+[->][END]
+5: [71 1]Cool, huh!? I fused with a buncha
+demons!
+[->][END]
+6: [71 1]Mister, here's a gift!
+Isn't it cool?
+[->][END]
+7: [71 1]Mister, I brought you a present!
+It was really popular where I went!
+[->][END]
+8: [71 1]Eat this! A present from me!
+[->][END]

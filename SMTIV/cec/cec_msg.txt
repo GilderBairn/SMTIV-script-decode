@@ -1,0 +1,44 @@
+0: Activate StreetPass for Shin Megami
+Tensei IV?
+[END]
+1: In order to activate StreetPass, you must
+agree to the most recently updated
+User Agreement.
+[->]To activate StreetPass, go into System
+Settings in the 3DS HOME menu and then
+Internet Settings.
+[->]Then select Other Information and then
+User Agreement to agree to the newest
+User Agreement.
+[END]
+2: StreetPass cannot be activated
+for any more software titles on
+this Nintendo 3DS system.
+[->]StreetPass must be deactivated
+for some other title from
+StreetPass Management in the
+Nintendo 3DS System Settings.
+[->]This will allow you to activate StreetPass
+for this game.
+[END]
+3: StreetPass is currently restricted in
+Parental Controls.
+[->]As a result, the StreetPass feature in
+this game cannot be used.
+[END]
+4: Testing StreetPass.
+What will you do?
+[END]
+5: Activate StreetPass
+Check received data
+[END]
+6: No new data has been received.
+[END]
+7: Cancelled activating StreetPass.
+[END]
+8: StreetPass for Shin Megami Tensei IV
+has been activated.
+[END]
+100: Yes
+No
+[END]

@@ -1,0 +1,17 @@
+0: When the statue of Hachiko in front of
+Shibuya Station has three heads, 
+[Color:0x5]the pack from hell[Color:0x0] led by
+Cerberus appears. I'm sure they don't 
+mean any harm, but they also set the
+river ablaze and people have died.
+Can you get rid of them for us?
+ 
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

@@ -1,0 +1,26 @@
+0: 〉 A vast, white space spreads as far
+as you can see...
+[END]
+1: 〉 Jonathan and Walter are nowhere to
+be seen...
+[END]
+2: (The White) [7a 77][13 0, 205001]Your atom has brushed against one
+possible world.
+[->][13 0, 205002]It is the possible world that he
+chooses to preserve.
+[END]
+3: (The White) [7a 124][13 0, 205003]...You have sensed it.
+[->][13 0, 205004]You know that the future you chose to
+preserve was swallowed by an even
+higher power's will to preserve.
+[END]
+4: (The White) [7a 78][13 0, 205005]However, you have the choice to
+not preserve.
+[->][13 0, 205006]We shall show you that possibility too.
+[END]
+5: (The White) [7a 75][13 0, 205007]But do not forget...
+[END]
+6: (The White) [13 0, 205008]What lies in store for the future of
+humans is a wasteland of despair
+because they are mere tools.
+[END]

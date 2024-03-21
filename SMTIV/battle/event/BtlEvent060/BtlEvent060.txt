@@ -1,0 +1,56 @@
+0: (Burroughs) [7a 0][13 0, 306000]This encounter is a little unusual.
+I'll be supporting you.
+[->][13 0, 306001]I get the feeling this is where we
+part ways, Master [Flynn]...
+[END]
+1: (Burroughs) [7a 0][13 0, 306002]Your target is the control device for
+the particle accelerator. I'll scan it
+to see if it has a defense mechanism.
+[END]
+2: (Burroughs) [7a 0][13 0, 306003]Scan complete. The target has no
+defenses at all.
+[->][13 0, 306004]You should be able to destroy it just
+by attacking it normally.
+[END]
+3: 〉 The control device has noticeably
+taken damage...
+[END]
+4: (Burroughs) [7a 0][13 0, 306005]The target's damages are over 25%.
+[->][13 0, 306006]Keep it up.
+[END]
+5: 〉 The control device has begun to
+make odd sounds...
+[END]
+6: (Burroughs) [7a 0][13 0, 306007]The target's damages are over 50%.
+[->][13 0, 306008]Not bad at all.
+[END]
+7: 〉 The sound of tortured, twisted metal
+is coming from the inner workings of
+the control device...
+[END]
+8: (Burroughs) [7a 0][13 0, 306009]The target's damages are over 75%.
+[END]
+9: (Burroughs) [7a 0][13 0, 306010]Master [Flynn]...
+[->][13 0, 306011]You do understand what will happen
+once the control device is destroyed,
+right?
+[END]
+10: (Burroughs) [7a 0][13 0, 306012]...Of course. Sorry. There's no way
+you would be doing this if you didn't
+understand the consequences.
+[->][13 0, 306013]I'll back you up to the very end, so
+follow through on the path you chose.
+[END]
+11: 〉 The control device is showering
+sparks, and it is making deafening
+noises...
+[END]
+12: (Burroughs) [7a 0][13 0, 306014]The target's damages are over its
+permissible limits.
+[->][13 0, 306015]Its safeguards are failing and it's
+starting to go berserk. A black hole
+will form soon...
+[END]
+13: (Burroughs) [7a 0][13 0, 306016]Congratulations on completing your
+objective.
+[END]

@@ -1,0 +1,2 @@
+1: 〉 Obtained [Color:0x5][41 31][Color:0x0] x10.
+[END]

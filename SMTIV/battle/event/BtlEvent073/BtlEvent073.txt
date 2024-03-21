@@ -1,0 +1,15 @@
+1: 〉 The Pluto Army begins to move...
+[END]
+4: 〉 The Pluto Army falls to the ground
+and stops moving...
+[END]
+5: (Walter) [7a 4][13 0, 307300]They're dead... or should I say, broken.
+[->][13 0, 307301]Who the devil is this ”Pluto?” I'm
+beginning to wonder if he's indeed
+a living being.
+[END]
+6: (Jonathan) [7a 3][13 0, 307302]As am I... I feel like we're dealing
+with mystic artifacts.
+[->][13 0, 307303]At any rate, let us proceed. We'll
+find out who he is soon enough.
+[END]

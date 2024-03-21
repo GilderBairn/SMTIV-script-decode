@@ -1,0 +1,10 @@
+0: (Burroughs) [7a 2][13 0, 34001]Are you ready for bed?
+[END]
+1: Retire to bed
+Not yet
+[END]
+2: (Burroughs) [7a 2][13 0, 34002]Okay, Master [Flynn]. Good night.
+[END]
+3: (Burroughs) [7a 2][13 0, 34003]Okay, Master [Flynn]. Just don't
+run yourself ragged.
+[END]

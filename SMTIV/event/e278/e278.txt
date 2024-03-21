@@ -1,0 +1,44 @@
+0: (Voice) [13 0, 278001]So you returned from the world of
+possibilities too...
+[END]
+1: (Walter) [7a 4][7b 65540, 65537][13 0, 278002]I have heard what befell Jonathan.
+[->][13 0, 278003]And next? You plan to kill the Demon
+Lord Lucifer?
+[END]
+2: (Walter) [7a 4][7b 65540, 65537][13 0, 278004]...Do not do this.
+[END]
+3: (Walter) [7a 4][7b 65540, 65537][13 0, 278005]You've seen it, [Flynn]. That demons
+are the embodiment of humanity's
+limitless desires.
+[->][13 0, 278006]And Lucifer is their king. He's the
+desire of all humans... There is no
+way you can triumph.
+[END]
+4: (Walter) [7a 4][7b 65540, 65537][13 0, 278007]We both began as Casualries. I would
+weep to see you die.
+[END]
+5: (Walter) [7a 4][7b 65540, 65537][13 0, 278008]But then... if you're here, I assume
+nothing I will say will sway you, eh?
+[END]
+6: (Walter) [7a 4][7b 65540, 65537][13 0, 278010]I wanted to avoid using this power
+on you...!
+[END]
+7: (Demon) [7a 204][13 0, 278011]Look up at me and behold the Demon
+Lord Lucifer.
+[END]
+8: (Demon Lord Lucifer) [7a 204][13 0, 278012]The light of hope you saw in the world
+of the sons of man... will it shine
+without wavering, even before me?
+[END]
+9: (Burroughs) [7a 2][13 0, 278013]Master [Flynn]...
+[END]
+10: 〉 The space around you begins to warp...
+[END]
+105: (Walter) [7a 4][7b 65540, 65537][13 0, 278009]I did want to avoid this, you know.
+[END]
+109: (Burroughs) [7a 2][13 0, 278014]I think Master Walter fought fair and
+square for the path he chose.
+[->][13 0, 278015]As Master Isabeau put it, I believe
+you've ”paid your respects” to him,
+right?
+[END]

@@ -1,0 +1,15 @@
+0: The [Color:0x5]angel of death[Color:0x0] is coming.
+Has God really forsaken this world? The
+angel appears to be closing in on a place
+called Ikebukuro, even though it's only a
+crater now. We can't go down without a fight!
+Is anyone willing to battle this angel!?
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

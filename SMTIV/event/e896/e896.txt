@@ -1,0 +1,62 @@
+0: (Burroughs) [7a 2][13 0, 502036]Hey, can I share something with you?
+[END]
+1: (Burroughs) [7a 2][13 0, 502036]Hey, can I share something with you?
+[->][13 0, 502037]It's a combat training quest that makes
+use of virtual reality functions.
+[->][13 0, 502038]If you want, I can explain it to you
+in detail.
+[END]
+2: Hear the details
+Don't hear the details
+[END]
+3: These Challenge Quests involve winning
+a battle while meeting certain
+conditions.
+[->]There is no penalty for failing them,
+and they can be challenged as many
+times as necessary until completed.
+[->]More of these quests will be added
+periodically, so feel free to take
+them on.
+[END]
+4: (Burroughs) [7a 2][13 0, 502039]I'll register a few of them to the
+Challenge Quest list.
+[END]
+5: (Burroughs) [7a 2][13 0, 502040]...That should do it for now. Try
+them out whenever you feel like it.
+[END]
+6: (Burroughs) [7a 2][13 0, 502041]All right, I'll skip the explanation.
+[->][13 0, 502042]I'll register a few of them to the
+Challenge Quest list. Try them out
+whenever you feel like it.
+[END]
+7: (Burroughs) [7a 2][13 0, 502034]Hey, guess what? There's a type of
+quest you can do in VR!
+[->][13 0, 502035]I'll register a few of them to the
+Challenge Quest list. Try them out
+whenever you feel like it.
+[END]
+8: (Burroughs) [7a 2][13 0, 502044]Hold on, there's something I need to
+tell you.
+[->]I've lost contact with the Eastern
+Kingdom of Mikado.
+[->]I think it's because we've split
+from them.
+[->]For now, I'm going to set all Mikado−
+related quests as ineligible to be
+accepted.
+[END]
+9: (Burroughs) [7a 2][13 0, 502044]Hold on, there's something I need to
+tell you.
+[->]Since you can come to Mikado now, I'll
+make it so certain quests can be accepted
+again.
+[END]
+10: (Burroughs) [7a 2][13 0, 502044]Hold on, there's something I need to
+tell you.
+[->]Since the angels eradicated the demons,
+there are a few quests that can't be
+completed anymore.
+[->]I've made it so you can't accept those
+quests now.
+[END]

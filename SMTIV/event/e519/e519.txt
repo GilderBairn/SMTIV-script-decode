@@ -1,0 +1,15 @@
+0: 〉 The atmosphere changed...
+[END]
+1: 〉 The demons are no longer here...
+[END]
+2: 〉 A voice can be heard coming from
+somewhere...
+[END]
+3: (Voice) [13 1, 412207]This is His Excellency's castle...
+And you are uninvited guests.
+[END]
+4: (Voice) [13 1, 461008]...There is no need for us to show
+ourselves.
+[->]Wander the Hall of Eternity, leaving
+behind only your unsightly corpse.
+[END]

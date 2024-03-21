@@ -1,0 +1,96 @@
+0: (Demon) [7a 65327][13 1, 412107]Hmm... Is there any way I can
+retrieve it...?
+[->]If it realizes my intention, then it
+will become difficult for me to
+accomplish anything...
+[END]
+1: 〉 The demon seems lost in thought...
+[END]
+2: (Demon) [7a 65327][13 1, 412102]Ah, good, very good.
+Your help is much appreciated.
+[->]My name is Pabilsag, and I am a
+messenger from the lord of the
+Babylonian gods, Enlil.
+[->](Pabilsag) I would like you to retrieve the
+[Color:0x5]Tablet of Heaven's Will.[Color:0x0]
+[->]The Tablet of Heaven's Will is a clay
+tablet on which the fates of the gods
+are written.
+[->]Because it holds our destinies, we
+gods cannot lay a finger on this
+tablet ourselves.
+[->][13 1, 412101]That is why I have decided to ask a
+human to carry out this task for me.
+[->]Anzu is far too weak to maintain his
+appearance in this world. I need you
+to take the tablet back from him.
+[->]I have received information that Anzus
+have been seen near a [Color:0x5]red tower[Color:0x0]
+in [Color:0x5]Shiba.[Color:0x0]
+[->]Once you have obtained the Tablet of
+Heaven's Will, please bring it to me.
+[END]
+3: (Pabilsag) [7a 65327][13 1, 412103]The Anzus have gathered under a
+[Color:0x5]red tower[Color:0x0] in [Color:0x5]Shiba.[Color:0x0]
+[->]Once you have obtained the Tablet of
+Heaven's Will, please bring it to me.
+[END]
+4: (Demon) [7a 65327][13 1, 412102]Ah, good, very good.
+Your help is much appreciated.
+[->]My name is Pabilsag, and I am a
+messenger from the lord of the
+Babylonian gods, Enlil.
+[->](Pabilsag) I would like you to retrieve the
+[Color:0x5]Tablet of Heaven's Will.[Color:0x0]
+[->]The Tablet of Heaven's Will is a clay
+tablet on which the fates of the gods
+are written.
+[->]Because it holds our destinies, we
+gods cannot lay a finger on this
+tablet ourselves.
+[->][13 1, 412101]That is why I have decided to ask a
+human to carry out this task for me.
+[->]Anzu is far too weak to maintain his
+appearance in this world. I need you
+to take the tablet back from him.
+[->]Or... Could it be that you have
+obtained the Tablet of Heaven's Will
+already?
+[END]
+5: (Pabilsag) [7a 65327][13 1, 412102]Yes, this is indeed the Tablet of
+Heaven's Will. Very good.
+[->]I confess, I have always seen humans
+as weak and often intractable
+creatures.
+[->]Perhaps my opinion of your people has
+been in error.
+[->]I would like to deliver this tablet
+to my father Enlil in all haste.
+Please, excuse me.
+[->]Thank you for your help.
+[END]
+6: 〉 The demon leaves...
+[END]
+7: (Pabilsag) [7a 65327][13 1, 412109]Is there something wrong?
+Have you not retrieved it yet?
+[->]Once you have obtained the Tablet of
+Heaven's Will, please bring it to me.
+[END]
+8: (Pabilsag) [7a 65327][13 1, 412100]Ah, human. Have you obtained the
+Tablet of Heaven's Will?
+[END]
+9: (Demon) [7a 65327][13 1, 412100]Hmm... A human? Have you come here
+in response to the request that my
+lord has made?
+[END]
+10: ”Yes.”
+”No.”
+[END]
+11: (Demon) [7a 65327][13 1, 412107]I see. That is disappointing. Well,
+if you have no business here with
+me, then I must ask you to leave.
+[->]Both of us should spend what time we
+have wisely.
+[END]
+900: 〉 There is no one here...
+[END]

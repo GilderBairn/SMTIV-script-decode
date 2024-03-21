@@ -1,0 +1,202 @@
+0: 〉 ”[Quest? 40]”
+has been accepted.
+[END]
+1: 〉 ”[Quest? 40]”
+has been completed.
+[END]
+2: 〉 ”[Quest? 40]”
+has been abandoned.
+[END]
+3: 〉 There are [Amount 1]
+[Demon name 1] remaining.
+[END]
+4: 〉 A guest has joined the party.
+[END]
+5: 〉 A companion has left...
+[END]
+6: 〉 A companion has left the party
+temporarily...
+[END]
+7: 〉 The companion has rejoined the
+party...
+[END]
+8: 〉 Hand over the [Item 1]?
+[END]
+9: 〉 Hand over [Amount 1] [Item 1]s?
+[END]
+10: 〉 Hand over [Demon name 1]?
+[END]
+11: Yes
+No
+[END]
+12: 〉 The delivery has been cancelled.
+[END]
+13: 〉 ”[Quest? 40]”
+has been updated.
+[END]
+14: 〉 [Flynn] has recovered.
+[END]
+15: 〉 [Flynn] and the others have
+recovered.
+[END]
+16: 〉 ”[Quest? 40]”
+has been discarded.
+[END]
+17: ???
+[END]
+18: Deliver [Item 1] x[Amount 1].
+[END]
+19: Deliver [Item 1] x[Amount 1]
+and [Item 2] x[Amount 2].
+[END]
+20: Deliver [Item 1] x[Amount 1], [Item 2] x[Amount 2],
+and [Item 3] x[Amount 3].
+[END]
+21: Deliver [Item 1] x[Amount 1], [Item 2] x[Amount 2],
+[Item 3] x[Amount 3], and [Item 4] x[Amount 4].
+[END]
+22: Slay [Demon name 1] x[Amount 1].
+[END]
+23: Slay [Demon name 1] x[Amount 1]
+and [Demon name 2] x[Amount 2].
+[END]
+24: Slay [Demon name 1] x[Amount 1],
+[Demon name 2] x[Amount 2],
+and [Demon name 3] x[Amount 3].
+[END]
+25: Slay [Demon name 1] x[Amount 1],
+[Demon name 2] x[Amount 2], [Demon name 3] x[Amount 3],
+and [Demon name 4] x[Amount 4].
+[END]
+26: Show [Item 1] x[Amount 1].
+[END]
+27: Show [Item 1] x[Amount 1]
+and [Item 2] x[Amount 2].
+[END]
+28: Show [Item 1] x[Amount 1],
+[Item 2] x[Amount 2],
+and [Item 3] x[Amount 3].
+[END]
+29: Show [Item 1] x[Amount 1],
+[Item 2] x[Amount 2], [Item 3] x[Amount 3],
+and [Item 4] x[Amount 4].
+[END]
+30: Show [Demon name 1] x[Amount 1].
+[END]
+31: Show [Demon name 1] x[Amount 1]
+and [Demon name 2] x[Amount 2].
+[END]
+32: Show [Demon name 1] x[Amount 1],
+[Demon name 2] x[Amount 2],
+and [Demon name 3] x[Amount 3].
+[END]
+33: Show [Demon name 1] x[Amount 1],
+[Demon name 2] x[Amount 2], [Demon name 3] x[Amount 3],
+and [Demon name 4] x[Amount 4].
+[END]
+34: 〉 Will you accept
+”[Quest? 40]”?
+[END]
+35: 〉 Will you give up
+”[Quest? 40]”?
+[END]
+36: 〉 Will you abandon your current quest
+and accept this one?
+[END]
+37: 〉 ”[Quest? 40]”
+has been accepted.
+[END]
+38: 〉 You can not accept this quest
+at the moment.
+[END]
+39: 〉 There is no need to accept delivery
+quests.
+[END]
+40: (Burroughs) [7a 1][13 1, 400005]This quest may be somewhat dangerous
+at your current level. Do you still
+wish to attempt it?
+[END]
+41: Bring a demon that has [Amount 1]
+or more demon DNA sequences.
+[END]
+42: Bring a demon that has DNA from
+[Quest? 41].
+[END]
+43: Bring a demon that has DNA from
+[Quest? 41] and [Quest? 42].
+[END]
+44: Bring a demon that has DNA from
+[Quest? 41], [Quest? 42],
+and [Quest? 43].
+[END]
+45: Bring a demon that has DNA from
+[Quest? 41], [Quest? 42],
+[Quest? 43], and [Quest? 44].
+[END]
+46: Deliver [Demon name 1].
+[END]
+47: Deliver [Demon name 1]
+and [Demon name 2].
+[END]
+48: Deliver [Demon name 1],
+[Demon name 2],
+and [Demon name 3].
+[END]
+49: Deliver [Demon name 1],
+[Demon name 2], [Demon name 3],
+and [Demon name 4].
+[END]
+50: Accepting this quest will immediately
+begin a battle. Do you wish to do so?
+[END]
+51: You have already completed this
+quest.
+[END]
+52: Collect [Item 1] × [Amount 1].
+[END]
+53: Collect [Item 1] × [Amount 1]
+and [Item 2] × [Amount 2].
+[END]
+54: Collect [Item 1] × [Amount 1],
+[Item 2] × [Amount 2],
+and [Item 3] × [Amount 3].
+[END]
+55: Collect [Item 1] × [Amount 1],
+[Item 2] × [Amount 2], [Item 3] × [Amount 3],
+and [Item 4] × [Amount 4].
+[END]
+56: 〉 [Demon name 1] [Demon name 2] has
+joined the party.
+[END]
+57: Accepting this quest will immediately
+transfer you to a different location.
+Do you wish to do so?
+[END]
+58: 〉 [Flynn] delivered the required
+item.
+[END]
+59: 〉 [Flynn] delivered all the
+required items.
+[END]
+60: If you give up, you will be sent to
+the location you were when you
+accepted the quest. Is this all right?
+[END]
+61: 〉 There is no information regarding
+the accepted quest. The quest will
+be cancelled.
+[END]
+62: 〉 The accepted quest could not be
+read. The quest will be cancelled.
+[END]
+63: You will be returned to the location
+where you accepted the quest.
+[END]
+64: Accepting this quest will immediately
+transfer you to a different location.
+Do you wish to do so?
+[END]
+65: You have returned to your original
+location. The quest has been
+cancelled.
+[END]

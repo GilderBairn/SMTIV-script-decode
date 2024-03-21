@@ -1,0 +1,113 @@
+0: (Demonoid man) [13 1, 411001]...Aah! Drinks after a hard day of
+fighting hit the spot. I wonder how
+many I killed today?
+[->]Tomorrow it might be me who dies...
+When I think about that... it makes
+the drinks taste even better!
+[END]
+1: (Demonoid man) [13 1, 411001]Tokyo's virtually been taken over by
+demons. The boss over in Shinjuku is
+a big−shot demon from India.
+[->]At first, everyone became demonoids,
+hungry for power, so that we could take
+Tokyo back from the demons.
+[->]But then some of us got addicted to
+power, and others were overwhelmed by
+the demons and submitted to them.
+[->]Oh, I'm no different. Everyone's
+forgotten their initial enthusiasm and
+now just runs amok doing whatever.
+[END]
+2: (Demonoid man) [13 1, 411000]Hey there, Intruder bros. I heard you
+took over Shinjuku.
+[->]Apart from the guys who are still here,
+everyone else is picking up stakes and
+moving there.
+[->]I hear that most of the neurishers have
+been transferred to Shinjuku too.
+[END]
+3: (Demonoid man) [13 1, 411000]Hey there, Intruder bros. I heard you
+took over Ichigaya.
+[->]I also heard that Akira's gonna move
+there and take a bunch of guys from
+Shinjuku with him.
+[->]And right after they just finished
+moving to Shinjuku, too... Oh well,
+it's good news, really.
+[END]
+4: (Demonoid man) [13 1, 411001]Hey there, Intruder bro. Akira's all
+done moving now.
+[->]I think he wanted to see you, though.
+Do me a favor and go pay him a visit
+at Ichigaya.
+[END]
+5: (Demonoid man) [13 1, 415000]That thing on your arm... Nah, can't be.
+I thought for a second that it was
+a Demonica.
+[->]But the Counter−Demon Force was wiped
+out 25 years ago, and there's no way
+Kenji'd overlook something like that.
+[END]
+6: (Demonoid man) [13 1, 415005]When Akira was a kid−−this is when he
+was a human, I mean−−I heard he lost
+his sister.
+[->]The angels kidnapped her and trapped her
+inside the cocoon...
+[->]And thanks to Kenji killing the angels,
+I heard that all the humans shut up
+inside that cocoon rotted away.
+[->]The cocoon's still somewhere in Shinjuku,
+I'm pretty sure.
+[END]
+7: (Demonoid man) [13 1, 415005]When Akira was a kid−−this is when he
+was a human, I mean−−I heard he lost
+his sister.
+[->]The angels kidnapped her and trapped her
+inside the cocoon...
+[->]And thanks to Kenji killing the angels,
+I heard that all the humans shut up
+inside that cocoon rotted away.
+[->]Avenging his sister might be one reason
+Akira's so bent on becoming the King
+of Tokyo.
+[END]
+8: (Bartender) [13 1, 405120]If you're gonna wander around this
+base, you'd at least better introduce
+yourself to the boss.
+[->]You'll find Akira in the room to the
+left of this Association.
+[END]
+9: (Bartender) [13 1, 405120]I don't care if you're an Intruder or
+what. You up for doing some quests?
+[->]Everyone here lives on the rule of ”take
+what you want,” so they're not the types
+who'll work for a reward.
+[->]Just help us out, okay? You can go talk
+to Akira first if you want, that's fine.
+[END]
+10: (Bartender) [13 1, 405120]I don't care if you're an Intruder or
+what. You up for doing some quests?
+[->]Everyone here lives on the rule of ”take
+what you want,” so they're not the types
+who'll work for a reward.
+[->]I know you're busy, what with trying to
+take over Shinjuku and all, but spare
+a little time for us too, okay?
+[END]
+11: (Bartemder) [13 1, 405120]Well, I'm glad Akira took Shinjuku...
+[->]But Kasumigaseki's population dropped
+pretty drastically, and we lost a lot
+of guys willing to do quests.
+[->]I know you're busy, what with trying to
+kill Kenji and all, but spare a little
+time for us too, okay?
+[END]
+12: (Bartender) [13 1, 405120]Well, I'm glad Akira's the new king
+of Tokyo...
+[->]But Kasumigaseki's population dropped
+pretty drastically, and we lost a lot
+of guys willing to do quests.
+[->]Hey, Intruder bro. Since you're here
+already... why not take on a few
+quests?
+[END]

@@ -1,0 +1,15 @@
+0: Overwriting this save. Continue?
+[END]
+1: Yes
+No
+[END]
+2: Do not turn off the system while saving.
+[END]
+3: Save complete.
+[END]
+4: Do not turn off the system while loading.
+[END]
+5: Load complete.
+[END]
+10: Saving. Continue?
+[END]

@@ -1,0 +1,251 @@
+0: (門番) 貴様 見たことがない顔だな…
+[->]ここから先の街は我らガイア教団が
+もたらす 繁栄の象徴
+[->]入るにはそれなりの収入力が
+求められるぞ
+[->]通行料として
+5000マッカを頂こうか
+[END]
+1: 払う
+払わない
+[END]
+2: (門番) 貧乏人には用はない
+…とっとと消え失せろ
+[END]
+3: (門番) ほう 少しはもっておるようだな
+好きに通るがいい
+[END]
+4: (門番) …貴様か
+[->]5000マッカ
+用意出来たのだろうな
+[END]
+5: (門番) …なんだ 足りないではないか
+出直してくるんだな
+[END]
+6: (門番) ここから先は銀座に相応しい
+セレブリティのみが許される街
+[->][41 833]を持っている者
+のみが入れるのだ
+[END]
+7: (門番) っと 失礼した
+[41 833]を持っているのか
+[->]先へ進むといい
+[END]
+8: (門番) [41 834]は
+当然持っているのだろうな?
+[->]でなければこの門を通ること
+まかりならん
+[END]
+9: (門番) ほう そこに見えるのは
+[41 834]
+[->]先ほどは無礼を申した
+どうぞ先へ
+[END]
+10: (門番) ここはセレブな銀座の中でも
+最上級なショップが立ち並ぶ街
+[->][41 835]の所有者のみが
+入ることを許されるのだ
+[END]
+11: (門番) これは失礼
+[41 835]をお持ちか
+[->]存分に楽しむと良い
+[END]
+12: (ハンターの男) おいお前 この店を
+使うなら[41 833]が必須だぞ
+[->]ただ 無事買い物出来ても
+戻れるかどうかは怪しいがな…
+[->]さっきもやられた奴がいたらしい
+そこで[41 833]を拾っちまった
+[->]…見たところ
+お前は実力者のようだな
+[->]どうだ、この[41 833]
+10000マッカで買わないか?
+[->]お前なら有効に使えるだろう
+[END]
+13: 買う
+買わない
+[END]
+14: (ハンターの男) そうか…
+ではここは通せないな
+[->]気が変わったら
+また声をかけてくれ
+[END]
+15: (ハンターの男) 毎度あり 悪魔に殺されて
+買ったもの無駄にしないようにな
+[->]せっかく貴重なカードを手に入れても
+死んじまったら元も子もねえ
+[->]他を探せば[41 833]より上の
+[41 834]も落ちてるかもな
+[END]
+16: (ハンターの男) …よう また来たか
+[->][41 833] 10000マッカで
+買う気になったか?
+[END]
+17: (ハンターの男) 所持金が足りてないようだな
+出直してこい
+[END]
+18: (ハンターの男) よう お前か
+この街を楽しんでるようだな
+[->]……そうだな
+お前になら頼んでもいいかもしれん
+[->]実は少し金に困っていてな
+調子に乗って装備に使いすぎちまった
+[->]まあ 当然その分の対価は
+得てきたわけなんだが…
+[->]頼みっつうのは俺が手に入れてきた
+ブツを買い取って欲しいってことだ
+[->]この[41 836]だ
+いいとこに売ればそりゃあ大金が手に入る
+[->]そうだな… お前になら特別に
+100000マッカで譲ろう
+[->]どうだ 決して悪い話じゃないぜ?
+[END]
+19: 買う
+買わない
+[END]
+20: (ハンターの男) そうか 残念だ
+[->]なるべく早いうちに金を手に入れないと
+きついんだがな…
+[->]気が変わったらまた声かけてくれ
+[END]
+21: (ハンターの男) おおそうか! 助かるぜ
+[->]こんだけデカいの滅多にないからな
+きっと役立つだろうよ!
+[->]それじゃあな!
+[END]
+22: (ハンターの男) おいおい 金が足りてないぞ
+[->]こっちもこんなレアもの出してんだ
+[->]きっかり100000マッカ
+用意してまた来てくれ
+[END]
+23: (ハンターの男) また来たな
+[->][41 836] 100000マッカ
+で購入してくれるのか?
+[END]
+24: (ハンターの男) よう この間はおかげで助かったぜ
+[->][41 836]は銀座を屯する
+金持ちはよぉく欲しがってるぜ
+[->]無駄にすんなよ
+[END]
+69: (Ring of Gaea woman) [7a 54][13 1, 404411]I'm not interested in a low−ranked boy
+like you. I may not look it, but I'm
+of the Gold Class.
+[END]
+70: (Ring of Gaea woman) Come back when you can at least pay
+the man guarding the west side's
+asking price...
+[END]
+71: (Ring of Gaea woman) [7a 54][13 1, 404402]What? You want to get through here?
+[END]
+72: (Ring of Gaea woman) [7a 54]I only let those with a [Color:0x5][41 833][Color:0x0]
+through.
+[->]Do you have the strength to win a
+[Color:0x5][41 833]?[Color:0x0]
+[END]
+73: (Ring of Gaea woman) [7a 54][13 1, 404431]Oh...? You have a [Color:0x5][41 833].[Color:0x0]
+Most impressive.
+[END]
+74: (Ring of Gaea woman) [7a 54]Very well, I'll let you through.
+The south side is open to you now.
+[END]
+75: (Ring of Gaea woman) [7a 54]Are you satisfied with just the west
+and south sides? If you think you can
+do better...
+[->]Then perhaps we could talk.
+[END]
+76: (Ring of Gaea woman) [7a 54][13 1, 404402]What? You want to get through here?
+[END]
+77: (Ring of Gaea woman) [7a 54]I only let those with a [Color:0x5][41 833][Color:0x0]
+through.
+[->]Do you have the strength to win a
+[Color:0x5][41 833]?[Color:0x0]
+[END]
+78: (Ring of Gaea woman) [7a 54][13 1, 404431]Ah, you came. It's good to be confident
+in your own strength.
+[->]Now listen closely... I'm telling you
+this because you have the strength to
+possess a [Color:0x5][41 833].[Color:0x0]
+[END]
+79: (Ring of Gaea woman) [7a 54]Wouldn't you like to prove your strength
+even more? Then I have some good news
+for you...
+[END]
+80: Pay
+Don't pay
+[END]
+81: (Ring of Gaea woman) [7a 54][13 1, 404431]I admire your hunger...
+[END]
+82: (Ring of Gaea woman) [7a 54]Supposedly, there is a [Color:0x5][41 834][Color:0x0]
+somewhere in Ginza lacking an owner.
+[->]I already have one. If you can find this
+one, then it'll be yours to keep.
+[END]
+83: (Ring of Gaea woman) [7a 54][13 1, 404421]You don't even have that much...?
+[->]Ah well. If you want my information,
+you'd better prepare [Color:0x5]50,000 Macca.[Color:0x0]
+[END]
+84: (Ring of Gaea woman) [7a 54]You won't even spare that much?
+[->]...Forget everything that I told you.
+[END]
+85: (Ring of Gaea woman) [7a 54]I'm telling you this because you have
+the strength to possess a [Color:0x5][41 833].[Color:0x0]
+[END]
+86: (Ring of Gaea woman) [7a 54]Wouldn't you like to prove your strength
+even more? Then I have some good news
+for you...
+[END]
+87: (Ring of Gaea woman) [7a 54][13 1, 404431]...Oh, you're still here? You wish to
+prove your strength more, no?
+[END]
+88: (Ring of Gaea woman) [7a 54]Supposedly, there is a [Color:0x5][41 834][Color:0x0]
+somewhere in Ginza lacking an owner.
+[->]I already have one. If you can find this
+one, then it'll be yours to keep.
+[END]
+90: (Burroughs) [7a 2][13 0, 503001]I detect a very dangerous demon nearby.
+You should consider getting out of here.
+[END]
+91: 〉 Will you stay here?
+[END]
+92: 〉 Will you really stay here?
+[END]
+93: Yes
+No
+[END]
+101: (Hunter man) *sigh* Slim pickings today...
+[END]
+102: (Hunter man) This place is called ”Ginza” because
+silver coins, or ”ginka,” used to be
+made around here.
+[END]
+103: (Hunter man) This place is typical of Ginza. Doesn't
+it seem more luxurious compared to the
+other regions?
+[END]
+104: (Hunter man) The stores around here probably cost
+more than other places. You won't be
+able to buy anything with pocket change.
+[END]
+105: (Hunter man) The underground district was connected
+to the neighboring station.
+[END]
+106: There are lots of underground passages,
+but there are some areas underground
+where humans can't survive.
+[END]
+107: (Ring of Gaea man) [13 1, 404303]Ginza is under our thumb. The new rule
+here is that power is everything.
+[END]
+108: (Ring of Gaea woman) [13 1, 404412]I detest dogs... especially Tayama's
+bitches. I'm always careful to discipline
+them when I come across one.
+[END]
+150: 〉 This store doesn't seem to be
+in business...
+[END]
+179: (Ring of Gaea woman) [7a 54]I ask that you pay me [Color:0x5]50,000 Macca[Color:0x0] Macca.
+Think of it as paying for information.
+[END]
+186: (Ring of Gaea woman) [7a 54]I ask that you pay me [Color:0x5]50,000 Macca[Color:0x0] Macca.
+Think of it as paying for information.
+[END]

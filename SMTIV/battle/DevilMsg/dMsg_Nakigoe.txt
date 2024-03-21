@@ -1,0 +1,66 @@
+0: [71 1]Hsssss...! Hrrrrr! Hissssss!
+[->][END]
+1: [71 1]Hsss hsssss! Hrrr...! Hrrrrr!
+[->][END]
+2: [71 1]Hissssssssss! Hrrr...! Grrrr!
+[->][END]
+3: [71 1]Hssssssss!
+Hissssssssssssss!
+[->][END]
+4: [71 1]Hrrrrr...!
+Hss... Hissssssss!
+[->][END]
+5: [71 1][Color:0x5][Skill 1],[Color:0x0] [Color:0x5][Skill 2]...[Color:0x0]
+Hssssss?
+[->][END]
+6: [71 1]Grrr... [Color:0x5][Skill 1][Color:0x0]
+Hisss?
+[->][END]
+7: [71 1]Hssss hisssssssss!
+[->][END]
+8: [71 1]Grrrr...
+[->][END]
+9: [71 1][Color:0x5][Skill 1]![Color:0x0]
+Hrrrrr!
+[->][END]
+10: [71 1]Hssssss! Hrrrrrrr!
+Grrr hrrr hissssss!
+[->][END]
+11: [71 1]Hsss! Hissssss!
+[->][END]
+12: [71 1]Grrr hsss...
+[->][END]
+13: [71 1]Hsss hsss hsss...!
+[->][END]
+14: [71 1]Hrr... hrrrrrr...!
+Hsssssssssss!
+[->][END]
+15: [71 1][Color:0x5][Item 1]![Color:0x0]
+Hrr...! Hrr...!
+[->][END]
+16: [71 1]Hsss...! Grrrrrr...!
+[Color:0x5][Item 1]![Color:0x0]
+[->][END]
+17: [71 1]Hrrr! [Color:0x5][Item 1]![Color:0x0]
+Hisssssssss!
+[->][END]
+18: [71 1]Hssssss... Hrr... hssshisssss...
+[->][END]
+19: [71 1]Hissssss! Hrrr hrrr?
+[->][END]
+20: [71 1][Color:0x5][Demon race 1] [Demon name 1]![Color:0x0]
+Hisssssssss!
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

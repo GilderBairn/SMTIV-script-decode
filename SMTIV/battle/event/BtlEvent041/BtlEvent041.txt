@@ -1,0 +1,9 @@
+0: (Ring of Gaea woman) [7a 54][13 0, 304100]You must use all your might to defeat
+this demon.
+[->][13 0, 304101]If your might is not enough, then
+there will be nothing left but bones...
+[->][13 0, 304102]I shall gauge your true power that
+shines only on the verge of death.
+[END]
+1: (Ring of Gaea woman) [7a 54][13 0, 304103]Well done.
+[END]

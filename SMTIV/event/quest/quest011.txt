@@ -1,0 +1,55 @@
+0: The more [Color:0x5]Terminals[Color:0x0] you [Color:0x5]activate,[Color:0x0] the easier you
+will find it to [Color:0x5]travel.[Color:0x0] I have asked that you
+activate them all, though I have no information
+on where or how many there are. Consider learning
+that information part of the quest.
+[END]
+1: Dummy
+[END]
+2: It seems you've activated a Terminal.
+That makes [Color:0x5]one,[Color:0x0] by my count.
+Please keep up the hard work.
+[END]
+3: It seems you've activated a Terminal.
+That makes [Color:0x5]two,[Color:0x0] by my count.
+Please keep up the hard work.
+[END]
+4: It seems you've activated a Terminal.
+That makes [Color:0x5]three,[Color:0x0] by my count.
+Please keep up the hard work.
+[END]
+5: It seems you've activated a Terminal.
+That makes [Color:0x5]four,[Color:0x0] by my count.
+There may be many more... Please keep up
+the hard work.
+[END]
+6: It seems you've activated a Terminal.
+That makes [Color:0x5]five,[Color:0x0] by my count.
+Are you finding it easier to navigate Tokyo
+as a result? Please keep up the hard work.
+[END]
+7: It seems you've activated a Terminal.
+That makes [Color:0x5]six,[Color:0x0] by my count.
+I find myself wondering how many Terminals
+there can be... In any case, please keep up
+the hard work.
+[END]
+8: You activated yet another Terminal? Do you
+realize that makes [Color:0x5]seven[Color:0x0] of them thus far?
+There cannot possibly be that many more...
+can there?
+[END]
+9: You activated yet another Terminal? Do you
+realize that makes [Color:0x5]eight[Color:0x0] of them thus far?
+Your tenacity in completing this quest is most
+impressive, but I personally am tiring of hearing
+the word ”Terminal.” Still, please keep up the
+hard work.
+[END]
+10: You activated yet another Terminal? Do you
+realize that makes [Color:0x5]nine[Color:0x0] of them thus far?
+I'm at my wit's end... Pardon me for being abrupt,
+but [Color:0x5]when you find the next Terminal,[Color:0x0] I will
+consider [Color:0x5]this quest complete.[Color:0x0] We cannot while
+away all our time on finding Terminals, after all.
+[END]

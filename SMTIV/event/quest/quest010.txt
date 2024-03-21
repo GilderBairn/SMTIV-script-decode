@@ -1,0 +1,38 @@
+0: Capture the Black Samurai, who has disseminated
+[Color:0x5]Literature[Color:0x0] in the [Color:0x5]mystic script[Color:0x0] in our kingdom,
+causing the people to degenerate into demons.
+The Black Samurai may have ties with the [Color:0x5]Unclean
+Ones. You must [Color:0x5]investigate their country in the
+depths of Naraku,[Color:0x0] even though it violates this
+”Samurai code” you hold in such esteem.
+[END]
+1: Dummy
+[END]
+2: I have reviewed Burroughs' log and the images
+contained therein. The battle attire called a
+[Color:0x5]Demonica[Color:0x0] is very similar to the portrait of the
+Black Samurai drawn from the people's testimony.
+It seems my judgement was correct... I must ask
+that you [Color:0x5]continue searching Tokyo for her.[Color:0x0]
+[END]
+3: I have reviewed Burroughs' log. It seems you
+have learned valuable information from the
+Unclean Ones. This [Color:0x5]Juraku Bookstore[Color:0x0] in the place
+called [Color:0x5]Ikebukuro[Color:0x0] may be the origin of the
+Literature the Black Samurai introduced into
+Mikado. Please, [Color:0x5]continue searching Tokyo for her.[Color:0x0]
+[END]
+4: Burroughs' note:
+If you're going to search Tokyo, then you'll
+need access to everywhere... and it seems like
+this [Color:0x5]thing with the Corpses[Color:0x0] is keeping us from
+having that access. From what the heavily
+accented man said, it's probably a [Color:0x5]quest.[Color:0x0]
+[END]
+5: I have reviewed Burroughs' log. It seems you have
+assisted in an Unclean One's quest. Do remember
+that your ultimate goal is the capture of the
+Black Samurai. This [Color:0x5]Juraku Bookstore[Color:0x0] in the place
+called [Color:0x5]Ikebukuro[Color:0x0] seems suspicious, no? Then you
+know what must be done.
+[END]

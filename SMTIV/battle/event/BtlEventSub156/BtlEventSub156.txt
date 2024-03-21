@@ -1,0 +1,40 @@
+0: (Tiamat) [7a 0][13 1, 419005]I find it difficult to comprehend
+why all of you would want to
+participate in something like this.
+[->]...Unlike you, I have no choice. I
+was summoned and ordered to do this.
+[->]Really, I would prefer not to take
+part in such trash, but what can you
+do. Let's get this over with.
+[END]
+1: (Tiamat) [7a 0][13 1, 419004]You're pretty good.
+[->]I wouldn't have thought that I would
+be defeated.
+[END]
+2: (Tiamat) [7a 0][13 1, 419001]Would you be [Flynn], by any
+chance?
+[->]I thought so...
+[->]The Ashura−kai, the group that set
+up this project, were pretty wary
+about having you participate.
+[->]Hahaha... Things have certainly
+gotten interesting.
+[END]
+3: (Tiamat) [7a 0][13 1, 419001]Would you be [Flynn], by any
+chance?
+[->]I thought so...
+[->]The Ashura−kai, the group that set
+up this project, were pretty wary
+about having you participate.
+[->]I hear you played a large part in
+why the Ashura−kai fell apart.
+[->]No wonder...
+[->]Even after the fall of the
+Ashura−kai, humans still thirst for
+entertainment...
+[->]And I'm still here because my contract
+stipulates that I must be on this
+show.
+[->]Sorry if I'm boring you with my
+talking. I'll be on my way now.
+[END]

@@ -1,0 +1,19 @@
+0: (Voice) [13 0, 4001]Hoy... Hoy, wake up.
+[->][13 0, 4002]If we're not on our way soon,
+we'll be late.
+[END]
+1: (Youth) [7a 7][13 0, 4003]Are you awake? I admit, I fell asleep
+too...
+[END]
+2: (Youth) [7a 7][13 0, 4004]We've spent so many days out here at
+Lake Mikado, after all...
+[END]
+3: (Issachar) [7a 7][7b 65543, 65537][13 0, 4007]Drat, but now's not the time to argue.
+We must hurry to the Gauntlet Rite.
+[END]
+102: (Youth) [7a 7][7b 196615, 65537][13 0, 4005]When I thought about this being our
+last nap here, I couldn't bear to
+rouse myself.
+[->][13 0, 4006]So I don't want to hear, ”You promised
+to wake me up, Issachar!” eh?
+[END]

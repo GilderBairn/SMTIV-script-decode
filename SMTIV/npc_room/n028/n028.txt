@@ -1,0 +1,299 @@
+0: (Chubby man) [7a 121][13 1, 403601]Geez... I'm so hungry... Maybe I could
+eat that red pill I found on the street
+the other day...
+[->]Wait, those things are for demons,
+huh? Maybe that's not a good idea...
+[END]
+1: (Chubby man) [7a 121][13 1, 403601]Everyone's overreacting. So there's
+a few more demons around, so what.
+[->]C'mon, think about it! We got the
+Ashura−kai on our side! Tayama won't
+let this shit slide, right?
+[END]
+2: (Chubby man) [7a 121][13 1, 403642]I... I don't care about any champion.
+It's a dirty trick from the Association!
+[->]It's all gonna be over for Tokyo soon...
+This is just a sideshow to keep people
+distracted from the real problem...
+[->]I mean, c'mon! Everyone's talking about
+it! The angels are coming down here to
+wipe us all out!
+[END]
+3: (Chubby man) [7a 121][13 1, 403642]I... I don't care about any champion.
+It's a dirty trick from the Association!
+[->]It's all gonna be over for Tokyo soon...
+This is just a sideshow to keep people
+distracted from the real problem...
+[->]I mean, c'mon! Everyone's talking about
+it! There's a Demon Lord in Ichigaya!
+[END]
+4: (Chubby man) [7a 121][13 1, 403642]Mr. Fujiwara sent us Shinjuku folks
+a message.
+[->]He said the underground district would
+be crowded today, so we should stay
+home as much as possible...
+[->]Tokyo must be in some serious shit.
+They're putting on a flashy sideshow
+to keep attention off the real problem.
+[->]Something's about to happen here...
+Something real damn big...
+[END]
+6: (Rough man) [7a 59][13 1, 404301]Mr. Tayama is a truly great man.
+I mean, I'd name my kids after him,
+if I had kids.
+[->]Even if I bump into a demon, I can just
+toss him a red pill and he'll go on his
+way. It's that easy...
+[END]
+7: (Rough man) [7a 59][13 1, 404301]H−Hey, I heard there are demons in the
+underground district! Someone call the
+Ashura−kai quick!
+[->]The demons promised they wouldn't go
+into the underground districts!
+Mr. Tayama said so...!
+[END]
+8: (Rough man) [7a 59][13 1, 404311]H−Hey, I heard there are demons in the
+underground district! Someone call
+[Flynn] quick!
+[->]I don't really know the dude, but
+something tells me he can do something
+about it!
+[END]
+9: (Rough man) [7a 59][13 1, 404311]Oh hey, it's [Flynn]. I hear
+you're the champion, huh?
+[->]Listen, there's demons inside the
+underground district! I'm telling you
+'cause Tayama's gone now.
+[END]
+10: (Rough man) [7a 59][13 1, 404301]Oh hey, it's [Flynn]. I hear
+you're the champion, huh?
+[->]There used to be a demon in the west
+entrance of the underground district.
+He took off when the Demon Lord died.
+[->]Maybe he got uneasy... I'm mentioning
+this to you 'cause Tayama's gone now.
+[END]
+12: (Ordinary woman) [7a 122][13 1, 403301]The demon in the east entrance area is
+such a headache... But that demon in the
+government office makes me nervous too.
+[->]We'll be okay, right? Since Mr. Tayama
+and the Ashura−kai are backing us up?
+[END]
+13: (Ordinary woman) [7a 122][13 1, 403301]I heard from the Ashura−kai folks that
+the thing in the Metropolitan Government
+Office is over with.
+[->]I guess the Ashura−kai's elite troops
+took care of the demon for us.
+[->]Man... how would we get along without
+the Ashura−kai? They're the best!
+[END]
+14: (Ordinary woman) [7a 122][13 1, 403303]I heard from the Ashura−kai folks that
+the thing in the Metropolitan Government
+Office is over with.
+[->]I guess the Ashura−kai's elite troops
+convinced the demon to leave...
+[->]Man... how would we get along without
+the Ashura−kai? Not only are they
+tough, they're smart too.
+[END]
+15: (Ordinary woman) [7a 122][13 1, 403302]It's the Ring of Gaea's fault that
+we've got more demons in Tokyo!
+[->]The Ring of Gaea is nothing but a
+freaky cult! They're no match for
+the good people of the Ashura−kai!
+[->]C'mon, Mr. Tayama... Wipe those freaks
+out, quick!
+[END]
+16: (Ordinary woman) [7a 122][13 1, 403303]It's the Ring of Gaea's fault that
+we've got more demons in Tokyo!
+[->]The Ring of Gaea is nothing but a
+freaky cult!
+[->]C'mon, Mr. Tayama... Wipe those freaks
+out, quick!
+[END]
+17: (Ordinary woman) [7a 122][13 1, 403303]It's the Ring of Gaea's fault that
+we've got more demons in Tokyo!
+[->]The Ring of Gaea is nothing but a
+freaky cult!
+[->]Oh... It's the champion! Please go
+and wipe those freaks out, quick!
+[END]
+18: (Ordinary woman) [7a 122][13 1, 403303]I hope the people from the Eastern
+Kingdom of Mikado get used to life
+in Tokyo...
+[->]I'll do what I can to help them
+settle in.
+[END]
+19: (Gentle old lady) [7a 39][13 1, 403902]I've left my dear ancestral home for
+a place surrounded by these strange
+mystic relics...
+[->]Life is not easy, and it can be full
+of surprises. But I think I can get
+used to this, too, in time.
+[END]
+20: (Hunter woman) [7a 70][13 1, 403103]Do you know those Terminals? They're
+the strange devices you can find here
+and there around Tokyo...
+[->]Just don't get too close, or the
+guardian will come out. They're these
+ex−mercenaries hired by the Ashura−kai.
+[->]Though they have some weird nicknames,
+like ”Cosplay Pro” or ”Man of Many
+Voices.” Still, they're trained killers!
+[END]
+100: (Chubby man) [7a 121][13 1, 403601]I hear there's a little ranch in
+Shinjuku National Park. I haven't seen
+it myself, though...
+[->]The Ashura−kai sends folks there to
+take care of livestock and crops.
+[->]I wanna join them to claim just a tiny
+share, but I'm too scared to leave the
+underground district...
+[END]
+101: (Chubby man) [7a 121][13 1, 403601]Huh... the Association's up to something
+strange. Some kind of tournament...
+[->]M−Maybe Tokyo is finished... 'Cause
+you know, this is the kind of trick
+the top dogs always pull, right?
+[->]A flashy sideshow to keep people's eyes
+off the real problem...
+[END]
+106: (Rough man) [7a 59][13 1, 404301]I didn't care much about that thing
+with the Corpses, but this is what I
+heard from a friend of a friend...
+[->]The guy who did it was a terrorist who
+used to be a Hunter. He was after
+the Reds.
+[->]But in the end, the Ashura−kai captured
+him and put a stop to it. Or so I heard.
+[END]
+114: (Ordinary woman) [7a 122][13 1, 403341]I heard a rumor that the guys in
+Ikebukuro kicked the Ashura−kai out.
+[->]See, that makes no sense to me.
+They're just asking to bring the
+demons back for good that way.
+[->]Us regular folks can only live in Tokyo
+because of what Mr. Tayama did for us.
+[END]
+116: (Ordinary woman) [7a 122][13 1, 403303]It's the Ring of Gaea's fault that
+we've got more demons in Tokyo!
+[->]The Ring of Gaea is nothing but a
+freaky cult!
+[->]Hey, you're a high−ranking Hunter,
+right? Go and wipe those freaks out,
+quick!
+[END]
+120: (Hunter woman) [7a 70][13 1, 403103]I hear those Ring of Gaea guys were
+in Ikebukuro.
+[->]This one time, some Hunter and a Ring
+of Gaea guy were staring each other
+down in Shinjuku...
+[->]The Ring of Gaea guy silently pulled
+out his falchion and sliced off the
+Hunter's arm!
+[->]I thought the Ashura−kai were a bunch
+of tough guys, but the Ring of Gaea is
+just as dangerous...
+[END]
+200: (Chubby man) [7a 121][13 1, 403601]Did you hear someone snuck into Shinjuku
+National Park? Must've been some
+daredevil...
+[->]Or maybe he was just a thief after the
+meat and veggies there.
+[->]But what kind of nutcase would rob the
+Ashura−kai? Must have some nerve...
+My hat's off to him, really.
+[END]
+206: (Rough man) [7a 59][13 1, 404301]I didn't care much about that thing
+with the Corpses, but this is what I
+heard from a friend of a friend...
+[->]The guy who did it was a terrorist who
+used to be a Hunter. He was after
+the Reds.
+[->]But in the end, the Ashura−kai captured
+him and put a stop to it. Or so I heard.
+[END]
+214: (Ordinary woman) [7a 122][13 1, 403341]Can you believe this? Those Ring of
+Gaea people are talking smack about
+Mr. Tayama!
+[->]The Ring of Gaea is nothing but a
+freaky cult! They're no match for
+the good people of the Ashura−kai!
+[->]How can they say those things about
+Mr. Tayama!? They should shut their
+filthy mouths!
+[END]
+220: (Hunter woman) [7a 70][13 1, 403103]Since Shinjuku is at peace now,
+I thought I might go to Ikebukuro...
+[->]But I heard those dangerous nutcases
+are in Ikebukuro now. They're as bad
+as the Ashura−kai...
+[END]
+300: (Chubby man) [7a 121][13 1, 403601]You know, the top dogs aren't really
+great men, right? They're way shadier
+than us normal folks.
+[->]But it's different with those guys in
+the Ashura−kai. They set up a situation
+where a guy like me can get his fill.
+[->]That's why I respect them, you see?
+[END]
+306: (Rough man) [7a 59][13 1, 404311]Looks like the Ashura−kai have their
+eye on the whackjob who snuck into
+Shinjuku National Park.
+[->]Soon, Mr. Tayama will have 'em bring
+the poor bastard in...
+[->]Plus his family and everyone the
+bastard knows.
+[END]
+314: (Ordinary woman) [7a 122][13 1, 403341]I wonder what kind of man Mr. Tayama
+is... He doesn't leave Roppongi often,
+so I've never seen his face...
+[->]The word is he graduated from some
+state university and even studied
+abroad...
+[->]He's a real elite. He lives in a totally
+different world than us...
+[END]
+320: (Hunter woman) [7a 70][13 1, 403122]Slowly but surely, the Ring of Gaea is
+expanding their turf.
+[->]Not only that, there's some new players
+in town from on up above the ceiling...
+[->]Things are getting messy, I guess.
+Something big is about to happen,
+I can feel it.
+[END]
+400: (Chubby man) [7a 121][13 1, 403601]The Ring of Gaea is way too preachy.
+Who gives a shit about all that stuff
+about who's the strongest?
+[->]Tayama's no saint, but he set things
+up so a guy like me can get his fill.
+[->]That's why I respect the Ashura−kai,
+you see?
+[END]
+406: (Rough man) [7a 59][13 1, 404311]Looks like the Ashura−kai have their
+eye on the whackjob who snuck into
+Shinjuku National Park.
+[->]It wasn't just the park, either. That
+crazy bastard snuck into Kasumigaseki
+too...
+[->]Mr. Tayama must be pretty pissed. I feel
+sorry for that bastard... and anyone
+related to him.
+[END]
+414: (Ordinary woman) [7a 122][13 1, 403341]Can you believe this!? That Yuriko
+from the Ring of Gaea has launched
+an attack on Ichigaya!
+[->]The Ring of Gaea is nothing but a
+freaky cult! They're no match for
+the good people of the Ashura−kai!
+[->]How dare those losers take on
+Mr. Tayama!?
+[END]
+506: (Rough man) [7a 59][13 1, 404311]Even I heard the rumor about the
+underground district in Roppongi.
+[->]But only thieves and rapists get
+taken there.
+[->]Mr. Tayama's generous enough to keep
+our streets clean. He takes out the
+bad element for us regular folks...
+[END]

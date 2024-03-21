@@ -1,0 +1,53 @@
+0: (Hope) [7a 8][7b 65544, 65537][13 0, 57001]Well done, prentices.
+[->][13 0, 57002]I must ask that you report what
+happened right away.
+[END]
+1: 〉 [Flynn] made his report to Hope
+on what happened inside the forest.
+[END]
+2: (Hope) [7a 8][7b 458760, 65537][13 0, 57003]...I see. So the Black Samurai has
+some knowledge of demon summoning...
+[->][13 0, 57004]And those who read the Black Samurai's
+books turn into demons...
+[END]
+3: (Hope) [7a 8][7b 65544, 65537][13 0, 57005]Of late, we have heard more accounts
+of demons seen outside Naraku.
+[->][13 0, 57006]If this is the Black Samurai's doing,
+tonight's events make sense.
+[->][13 0, 57007]So, Abbot Hugo's surmise was
+correct...
+[END]
+4: (Walter) [7a 4][13 0, 57008]Hoy... If those who read the books
+became demons, then all those demons
+wandering within that forest...
+[END]
+5: (Jonathan) [7a 3][13 0, 57009]Shh, [Flynn]'ll hear you.
+[END]
+6: (Master Samurai) [7a 29][13 0, 57010]Commander.
+[->][13 0, 57011]We've searched every nook and cranny
+of the Kiccigiorgi Forest.
+[->][13 0, 57012]There is no sign there of the Black
+Samurai, or other survivors.
+[END]
+7: (Hope) [7a 8][13 0, 57013]I see. Thank you.
+[END]
+8: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[END]
+9: (Hope) [7a 8][13 0, 57015]To all the Samurai here...
+[END]
+10: (Hope) [7a 8][13 0, 57016]Our healers will remain here to treat
+the survivors.
+[->][13 0, 57017]The rest of you are dismissed. Return
+to Mikado Castle.
+[END]
+11: (Hope) [7a 8][13 0, 57018]Be certain that you all get plenty
+of rest. Especially you, [Flynn]...
+[END]
+12: 〉 [Flynn] and the other Samurai
+returned to Mikado Castle and retired
+to bed.
+[->]〉 That night...
+[END]
+110: 〉 You parted ways with Jonathan, Walter,
+and Isabeau.
+[END]

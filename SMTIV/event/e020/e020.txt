@@ -1,0 +1,41 @@
+0: (Walter) [7a 4][7b 786436, 65537][13 0, 20001]A tavern for Samurai, hm?
+[END]
+1: (Jonathan) [7a 3][7b 262147, 65537][13 0, 20014]It's a sign that we're fully fledged
+Samurai now.
+[END]
+2: (Eyepatched man) [7a 22][13 0, 20002]Ah, fresh faces. Are you this year's
+prentices?
+[END]
+3: (Navarre) [7a 6][7b 131078, 65537][7b 65541, 65537][13 0, 20003]It's rather off−putting to have you
+treat me the same as these Casualries
+chosen so capriciously, Mr. K.
+[END]
+4: (Walter) [7a 4][7b 196612, 65537][7b 65539, 131073][13 0, 20004]If you keep up that petty sniping,
+I'll rip the hair from your pate,
+do you hear me?
+[END]
+5: (Isabeau) [7a 5][7b 524293, 65537][7b 786438, 65537][13 0, 20005]That's enough, both of you. Honestly...
+Some men never grow up.
+[END]
+6: (Jonathan) [7a 3][7b 65539, 65537][7b 393220, 65537][13 0, 20006]...By the by, where is the Commander?
+[END]
+7: (K) [7a 22][7b 65558, 65537][13 0, 20007]Hope isn't coming. Ol' K's the one
+with a lesson to teach today.
+[END]
+8: (Walter) [7a 4][7b 655364, 65537][13 0, 20008]You...? Teach us...?
+[END]
+9: (Navarre) [7a 6][7b 131078, 65537][13 0, 20009]Walter! Don't be rude! I'll have you
+know this man is−−
+[END]
+10: (K) [7a 22][13 0, 20010][7b 131094, 65537]Ah, you flatter me. I'm only a master
+in comparison to you prentices.
+[END]
+11: (Navarre) [7a 6][7b 786438, 65537][13 0, 20011]Wha−−!? Hrgh...
+[END]
+12: (K) [7a 22][13 0, 20012][7b 65558, 65537]I say ”lesson,” but that's making more
+of it than it is. I'll teach you the
+trick to enjoying life as a Samurai.
+[END]
+13: (K) [7a 22][13 0, 20013][7b 65558, 65537]Anyway, have a look at the blackboard
+inside.
+[END]

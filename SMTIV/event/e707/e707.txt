@@ -1,0 +1,227 @@
+0: 〉 A woman wearing the uniform of the
+Ring of Gaea stands here...
+[END]
+1: (Ring of Gaea member) [7a 54][13 0, 707000]So, you are the Hunter who has
+accepted my request? You have my
+thanks.
+[->][13 0, 707001]Hm? Just a moment...
+[->][13 0, 707002]Hah... I remember you from the
+Astaroth incident.
+[->][13 0, 707003]We have crossed paths before.
+Do you recall?
+[END]
+2: ”I do.”
+”No.”
+[END]
+3: (Ring of Gaea member) [7a 54][13 0, 707004]Well, it is of little importance.
+[->][13 0, 707005]My name is Minako, a former member of
+the Ring of Gaea.
+[->](Minako) [7a 54][13 0, 707006]I have heard the rumors about you.
+If I recall correctly, you are
+[Flynn].
+[->][13 0, 707007]Not only have you defeated Astaroth,
+but you have been going around slaying
+powerful demons. You must be skilled.
+[->][13 0, 707008]I could not have asked for a better
+person to come to my aid.
+[->][13 0, 707009]Let me explain my plans, then.
+[->][13 0, 707010]What I strive for is the incarnation
+of the goddess Ishtar.
+[->][13 0, 707011]In order to do so, I am trying to
+collect the spirits of demons that
+stem from Ishtar's being.
+[->][13 0, 707012]You see, Ishtar no longer exists in
+this world.
+[->][13 0, 707013]So, we must recreate her from the
+demons that originate from her.
+[->][13 0, 707014]Now, Astaroth's soul reacted in both
+the [Color:0x5]northwest[Color:0x0] and [Color:0x5]southeast[Color:0x0] sides of
+Tokyo.
+[->][13 0, 707015]There should be demons with the same
+origin as Astaroth in those areas.
+[->][13 0, 707016]I want you to assist me in defeating
+these demons, in order to make Tokyo a
+land of rich harvest.
+[->][13 0, 707017]I wish you the best of luck.
+[END]
+4: (Minako) [7a 54][13 0, 707014]Now, Astaroth's soul reacted in both
+the [Color:0x5]northwest[Color:0x0] and [Color:0x5]southeast[Color:0x0] sides of
+Tokyo.
+[->][13 0, 707015]There should be demons with the same
+origin as Astaroth in those areas.
+[->][13 0, 707017]I wish you the best of luck.
+[END]
+5: 〉 Minako has appeared...
+[END]
+6: (Minako) [7a 54][13 0, 707018]Impressive. Not even an Overlord is a
+match for you.
+[->][13 0, 707019]Now I will take the soul of the great
+harlot.
+[END]
+7: 〉 Minako manipulates her smartphone,
+and places it on the demon's corpse.
+[END]
+8: 〉 A glowing mass rises from the
+body...
+[->]〉 Minako grabs it, then quickly
+places it in her mouth and swallows.
+[END]
+9: (Minako) [7a 54][13 0, 707020]......
+[->][13 0, 707021]Good. Now I want you to slay the other
+demon.
+[->][13 0, 707022]I will be heading southeast as soon
+as my body acclimates.
+[END]
+10: 〉 Minako leaves...
+[END]
+11: 〉 Minako appears...
+[END]
+12: (Minako) [7a 54][13 0, 707023]What power.
+[->][13 0, 707024]That demon was one of the most ancient
+gods. It was no ordinary opponent.
+[->][13 0, 707025]I will take this soul of the Lady of
+the Sea.
+[END]
+13: 〉 Minako manipulates her smartphone,
+and places it on the demon's corpse.
+[END]
+14: 〉 A glowing mass rises from the
+body...
+[->]〉 Minako grabs it, then quickly
+places it in her mouth and swallows.
+[END]
+15: (Minako) [7a 54][13 0, 707026]......
+[->][13 0, 707027]Good. Now I want you to slay the other
+demon.
+[->][13 0, 707028]I will be heading northwest as soon
+as my body acclimates.
+[END]
+16: 〉 Minako leaves...
+[END]
+17: (Minako) [7a 54][13 0, 707029]You have done well, [Flynn].
+[->][13 0, 707030]You have gathered many powerful souls.
+We should definitely be able to
+cause Ishtar to materialize now.
+[->][13 0, 707031]Now all that is left...
+[END]
+18: 〉 Minako takes a red pill from her
+pocket...
+[END]
+19: (Minako) [7a 54][13 0, 707032]The truth, young man, is that I was once
+part of a team analyzing the ”red pills”
+the demons consume.
+[->][13 0, 707033]It is widely know that if a human
+ingests one of these pills, she will
+turn into a demon.
+[->][13 0, 707034]If you already have some connection
+with a demon's power at the time you
+take a red pill...
+[->][13 0, 707035]...then you are more likely to turn
+into a demon that is closely related
+to it.
+[->][13 0, 707036]That's right. This is how I am going
+to bring Ishtar into this world.
+[->][13 0, 707037]I will use my body as a vessel.
+[END]
+20: ”You will become a demon?”
+”What about you?”
+”Don't do this!”
+[END]
+21: (Minako) [7a 54][13 0, 707038]Do not concern yourself with me.
+I have thought of gaining a demon's
+body for quite some time.
+[->][13 0, 707039]Even if the demon takes over my
+consciousness, I will become Ishtar.
+[END]
+22: (Minako) [7a 54][13 0, 707040]Hahaha... Well, yes, I suppose there
+is one problem.
+[->][13 0, 707041]If I become a demon in this way, it is
+likely that the demon's mind will take
+priority over mine.
+[->][13 0, 707042]But, I have already made up my mind.
+[->][13 0, 707043]Even if the demon takes over my
+consciousness, I will become Ishtar.
+[END]
+23: (Minako) [7a 54][13 0, 707044]Hahaha... Are you worried for me?
+[->][13 0, 707045]Rightly so. There is one problem with
+this method.
+[->][13 0, 707046]The demon's mind overrides that of the
+human, effectively removing that
+person's personality.
+[->][13 0, 707047]But I have already made up my mind.
+[->][13 0, 707048]Even if the demon takes over my
+consciousness, I will become Ishtar.
+[END]
+24: (Minako) [7a 54][13 0, 707049]I suppose this is farewell,
+[Flynn].
+[->][13 0, 707050]Thank you.
+[END]
+25: 〉 Minako quickly swallows the red
+pill...
+[END]
+26: (Ishtar) [7a 65500][13 0, 707051]I am the ancient goddess Ishtar.
+[->][13 0, 707052]I have come to fulfill my contract
+with Minako, and make this a fecund
+and bountiful land.
+[->][13 0, 707053][Flynn], I thank you for your aid
+in Minako's quest.
+[->][13 0, 707054]She sacrificed her body and soul in
+order that her prayers might reach me.
+[->][13 0, 707055]I shall keep my side of our promise,
+for that is what a goddess should do.
+[->][13 0, 707056]And, I shall tell you that the last
+of Minako's mind resides within me.
+[->][13 0, 707057]Now it is my turn to aid you.
+Would you please let me go with you?
+[END]
+27: ”It would be an honor.”
+”I cannot allow that.”
+[END]
+28: (Ishtar) [7a 65500][13 0, 707058]I understand.
+[->][13 0, 707059]Please call for me if you ever need
+my strength.
+[->][13 0, 707060]I shall call to the land, helping this
+barren Tokyo become a more fertile
+and productive place.
+[END]
+29: 〉 Ishtar disappears...
+[END]
+30: (Ishtar) [7a 65500]Very well, then.
+[->]Let me introduce myself...
+[END]
+31: (Ishtar) [7a 65500][13 0, 707061]I am the goddess Ishtar. It will be
+my pleasure to go with you.
+[END]
+32: 〉 Ishtar has joined the party...
+[END]
+33: (Ishtar) [7a 65500][13 0, 707062]But... You already have many demons
+with you. It would seem that there is
+no room for me.
+[->][13 0, 707063]Very well. I shall wait for you in
+that tower.
+[->][13 0, 707064]Please talk to me when your
+preparations for me are finished.
+[END]
+34: (Ishtar) [7a 65500][13 1, 491003]Are you ready for me to join you?
+[END]
+35: (Ishtar) [7a 65500]Hmm. It would appear that you still do
+not have room for me to join you.
+[->]Very well. I shall remain here for
+you.
+[->]Please come back when you are ready
+for me to join you.
+[END]
+36: (Ishtar) [7a 65500][13 0, 707065]But... It seems as though a fraction of
+my spirit is already with you.
+[->][13 0, 707066]I shall let this fraction continue to
+work for you. I shall take my leave.
+[END]
+37: (Ishtar) [7a 65500]But... It seems as though a fraction of
+my spirit is already with you.
+[->]I shall let this fraction continue to
+work for you. I shall take my leave.
+[END]
+900: 〉 A metal cage hangs from the
+ceiling...
+[->]〉 There is no one here...
+[END]

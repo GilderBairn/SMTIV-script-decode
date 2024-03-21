@@ -1,0 +1,70 @@
+0: 〉 A demon is standing at the back
+of the room...
+[END]
+1: (Demon) [7a 65142][13 1, 418004]Welcome, human.
+My name is Marici.
+[->](Marici) [7a 65142]I have the honor to have been
+worshipped by the samurai of old.
+[->]Personally, I do not find much joy
+in battle...
+[->]But, to be worshipped is an
+invigorating experience. So, I accept
+and appreciate their devotion.
+[->][13 1, 418003]And now that a new, modern Samurai
+has appeared, this city has become
+much more comfortable to me.
+[->]That is why I would like to lend a
+hand to the Samurai.
+[->]If you wish, I shall give you a
+lesson on the art of battle.
+Would you like to spar with me?
+[END]
+2: ”It would be an honor.”
+”I must refuse for now.”
+[END]
+3: (Marici) [7a 65142][13 1, 418001]Very well.
+Then let us get started.
+[->]En garde!
+[END]
+4: (Marici) [7a 65142][13 1, 418002]I see.
+Very well.
+[->]Come back when you are ready. I will
+be willing to train you any time.
+[END]
+5: (Marici) [7a 65142][13 1, 418004]Welcome, human.
+[->]If you wish, I shall give you a
+lesson on the art of battle.
+Would you like to spar with me?
+[END]
+6: (Marici) [7a 65142][13 1, 418003]I see. I have taken measure of your
+skill...
+[->]If there are more humans like you,
+who wield such great power...
+[->]...then I suppose there is little
+need for me to train them.
+[->]Now, then, I suppose I will return to
+the palace of my master, Lord Surya.
+[->]If you desire my aid, all you have
+to do is call for me.
+[->]I shall come immediately to your
+side.
+[END]
+7: 〉 The demon vanishes...
+[END]
+8: 〉 According to the navigation map,
+this place is called the ”Nakano
+Sun Plaza.”
+[END]
+9: (Old Man) [7a 0][13 1, 403831]Well, hello, lad. How's it going?
+Me? Oh, I'm just looking for someone.
+[->]There's a rumor that there's a
+gorgeous woman who appears around
+here.
+[->]If these rumors are true, then I just
+have to lay my eyes on her beauty.
+Otherwise, I'll never die happy.
+[END]
+10: 〉 You have no business here...
+[END]
+900: 〉 There is no one here...
+[END]

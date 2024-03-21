@@ -1,0 +1,130 @@
+0: (Isabeau) [7a 0][13 0, 307401]This is a solemn bout between Samurai.
+There is no need to treat me with
+kid gloves.
+[->][13 0, 307402]We begin...!
+[END]
+1: (Isabeau) [7a 0][13 0, 307414]As I thought, you are a hard foe...
+[->][13 0, 307415]I thought that I had grown as well...
+[->][13 0, 307416]But it seems that in this, too, you
+have surpassed me.
+[END]
+2: (Isabeau) [7a 0][13 0, 307417]I wish that I could have remained at
+your side forever...
+[END]
+3: (Isabeau) [7a 0][13 0, 307418]...But I will end this here. I hope
+that you are prepared.
+[END]
+4: (Isabeau) [7a 170][13 0, 307431]Gah...!
+[->][13 0, 307432]...M−Move... I must...
+[END]
+5: 〉 Isabeau unsteadily regains her
+footing...
+[END]
+6: (Isabeau) [7a 0][13 0, 307433]I will not... let your hands...
+be stained...
+[->][13 0, 307434]At least... m−my last choice...
+will be my own...
+[->][13 0, 307435]Rkh...!
+[END]
+7: 〉 Isabeau cuts her own throat!
+[END]
+8: 〉 Isabeau falls to the ground.
+[END]
+10: 〉 Isabeau summons her demons!
+[END]
+1000: (Isabeau) [7a 0][13 0, 307603]There is something I must know
+from you.
+[->][13 0, 307604]What you are about to do will cause
+a cycle of endless war, bringing
+grave misfortune to the people.
+[->][13 0, 307605]Do you truly believe that such an
+act will be forgiven?
+[END]
+1001: ”I do.”
+”It may not be, but it must be this way.”
+”It doesn't need to be forgiven.”
+[END]
+1002: (Isabeau) [7a 0][13 0, 307606]Are you saying that anything can be
+justified through strength? No... that
+is loathsome...!
+[->][13 0, 307607]Even if the law of power were to
+allow it, I could never pardon such
+an atrocity!
+[END]
+1003: 〉 Isabeau's fighting spirit grew stronger!
+[END]
+1004: 〉 Isabeau's attack increased greatly!
+[END]
+1005: (Isabeau) [7a 0][13 0, 307408]It must be this way...?
+[->][13 0, 307409]I never thought that I would hear such
+pessimism from you.
+[->][13 0, 307410]You disappoint me, [Flynn].
+[END]
+1006: 〉 [Flynn] lost his fighting spirit...
+[END]
+1007: 〉 [Flynn]'s defense decreased greatly!
+[END]
+1008: (Isabeau) [7a 0][13 0, 307611]Wh−What...?
+[->][13 0, 307612]Are you saying that you feel no
+remorse for the deaths of millions?
+[->][13 0, 307613]Have you no human feeling left in
+you...?
+[END]
+1009: 〉 Isabeau was shaken, creating an opening...
+[END]
+1010: 〉 [Flynn] gained the opportunity to attack!
+[END]
+1011: (Isabeau) [7a 0][13 0, 307419]Hngh...!
+[END]
+1012: 〉 Isabeau fell to her knee and is breathing in pain...
+[END]
+1013: (Isabeau) [7a 0][13 0, 307420]Tell me... once more...
+[->][13 0, 307421]This is your choice... It is the
+path you are set upon, correct?
+[END]
+1014: 〉 Isabeau is looking this way with strong eyes.
+[->]〉 How will you answer her action?
+[END]
+1015: Coldly look down upon her
+Turn your blade on her
+Don't do anything
+[END]
+1016: 〉 [Flynn] stared coldly down on Isabeau...
+[END]
+1017: (Isabeau) [7a 0][13 0, 307622]Does it please you to look down upon
+the weak?
+[->][13 0, 307623]Is withholding respect for one's
+opponent in a serious struggle how
+you show your nobility as a Samurai?
+[->][13 0, 307624]I will never allow a debased Samurai
+like you to defeat me...!
+[END]
+1018: 〉 Incredible spirit is flowing out of Isabeau!
+[END]
+1019: 〉 All of Isabeau's stats greatly increased!
+[END]
+1020: 〉 [Flynn] pointed his blade at Isabeau...
+[END]
+1021: (Isabeau) [7a 0][13 0, 307426]So, you will go your way no matter
+what...
+[->][13 0, 307427]Would that I had such strength...
+[END]
+1022: 〉 [Flynn] can feel the power of cruelty
+surge up within him...
+[END]
+1023: 〉 All of [Flynn]'s stats greatly increased!
+[END]
+1024: 〉 [Flynn] stood there without saying a word...
+[END]
+1025: (Isabeau) [7a 0].........
+[->][13 0, 307429]You should already have come to your
+decision. All that remains is for one
+of us to fall.
+[END]
+1026: 〉 Both [Flynn] and Isabeau can feel the power
+of resolution surge from within...
+[END]
+1027: 〉 All of Isabeau's stats greatly increased!
+[END]
+1028: 〉 All of [Flynn]'s stats greatly increased!
+[END]

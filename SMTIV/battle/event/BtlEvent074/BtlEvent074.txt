@@ -1,0 +1,146 @@
+0: (Isabeau) [7a 0][13 0, 307401]This is a solemn bout between Samurai.
+There is no need to treat me with
+kid gloves.
+[->][13 0, 307402]We begin...!
+[END]
+1: (Isabeau) [7a 0][13 0, 307414]As I thought, you are a hard foe...
+[->][13 0, 307415]I thought that I had grown as well...
+[->][13 0, 307416]But it seems that in this, too, you
+have surpassed me.
+[END]
+2: (Isabeau) [7a 0][13 0, 307417]I wish that I could have remained at
+your side forever...
+[END]
+3: (Isabeau) [7a 0][13 0, 307418]...But I will end this here. I hope
+that you are prepared.
+[END]
+4: (Isabeau) [7a 170][13 0, 307431]Gah...!
+[->][13 0, 307432]...M−Move... I must...
+[END]
+5: 〉 Isabeau unsteadily regains her
+footing...
+[END]
+6: (Isabeau) [7a 0][13 0, 307433]I will not... let your hands...
+be stained...
+[->][13 0, 307434]At least... m−my last choice...
+will be my own...
+[->][13 0, 307435]Rkh...!
+[END]
+7: 〉 Isabeau cuts her own throat!
+[END]
+8: 〉 Isabeau falls to the ground.
+[END]
+10: 〉 Isabeau summons her demons!
+[END]
+1000: (Isabeau) [7a 0][13 0, 307403]There is something I must know
+from you.
+[->][13 0, 307404]What you are about to do is an act of
+genocide upon the people of Tokyo.
+[->][13 0, 307405]Do you truly believe that such an
+act will be forgiven?
+[END]
+1001: ”I do.”
+”Perhaps not, but it must be this way.”
+”I don't need to be forgiven.”
+[END]
+1002: (Isabeau) [7a 0][13 0, 307406]Are you saying that it can be forgiven
+in the name of God? No... that is
+loathsome...!
+[->][13 0, 307407]Even if God were to forgive, I would
+never pardon this atrocity!
+[END]
+1003: 〉 Isabeau's will to fight grows
+stronger!
+[END]
+1004: 〉 Isabeau's attack power has greatly
+increased!
+[END]
+1005: (Isabeau) [7a 0][13 0, 307408]”It must be this way”...?
+[->][13 0, 307409]I never thought that I would hear such
+pessimism from you.
+[->][13 0, 307410]You disappoint me.
+[END]
+1006: 〉 [Flynn] loses his will to
+fight...
+[END]
+1007: 〉 [Flynn]'s defense has greatly
+decreased!
+[END]
+1008: (Isabeau) [7a 0][13 0, 307411]Wh−What...?
+[->][13 0, 307412]Are you saying that you feel no
+remorse for the wholesale slaughter
+of the people of Tokyo?
+[->][13 0, 307413]Have you no human feeling left in
+you...?
+[END]
+1009: 〉 Isabeau is visibly shaken, and she
+leaves herself open to attack...
+[END]
+1010: 〉 [Flynn] gains the opportunity to
+act!
+[END]
+1011: (Isabeau) [7a 0][13 0, 307419]Hngh...!
+[END]
+1012: 〉 Isabeau falls to one knee, gasping
+in pain...
+[END]
+1013: (Isabeau) [7a 0][13 0, 307420]Tell me... once more...
+[->][13 0, 307421]This is your choice... It is the
+path you are set upon, correct?
+[END]
+1014: 〉 Isabeau faces you with strength in
+her eyes.
+[->]〉 How will you respond?
+[END]
+1015: Extend your hand to her
+Turn your blade on her
+Don't do anything
+[END]
+1016: 〉 [Flynn] reaches out to Isabeau...
+[->]〉 ...but she knocks his hand away!
+[END]
+1017: (Isabeau) [7a 0][13 0, 307422]What is this foolishness!? This bout
+is solemn as the grave!
+[->][13 0, 307423]Is it not reasonable for us to cross
+swords here until one of us falls?
+[->][13 0, 307424]And are you not determined to walk your
+own path?
+[->][13 0, 307425]I will not be bested by a Samurai
+lacking in resolve!
+[END]
+1018: 〉 Isabeau's fighting spirit is
+incredible!
+[END]
+1019: 〉 All of Isabeau's stats have greatly
+increased!
+[END]
+1020: 〉 [Flynn] points his blade at
+Isabeau...
+[END]
+1021: (Isabeau) [7a 0][13 0, 307426]So, you will go your way no matter
+what...
+[->][13 0, 307427]Would that I had such strength...
+[END]
+1022: 〉 [Flynn] feels a heartless power
+surging up within him...
+[END]
+1023: 〉 All of [Flynn]'s stats have
+greatly increased!
+[END]
+1024: 〉 [Flynn] watches Isabeau
+wordlessly...
+[END]
+1025: (Isabeau) [7a 0].........
+[->][13 0, 307429]You should already have come to your
+decision. All that remains is for one
+of us to fall.
+[END]
+1026: 〉 Both [Flynn] and Isabeau have
+powerful surges of resolve...
+[END]
+1027: 〉 All of Isabeau's stats have
+increased!
+[END]
+1028: 〉 All of [Flynn]'s stats have
+increased!
+[END]

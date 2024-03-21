@@ -1,0 +1,90 @@
+0: (Minotaur) [7a 0][13 0, 300801]Now come, Samurai.
+[->][13 0, 300802]Put on a good show...
+[END]
+1: (Minotaur) [7a 0][13 0, 300819]I−I had not thought... you could
+be so skilled...
+[->][13 0, 300820]No wonder... you are descendants of
+Aquila...
+[END]
+2: (Jonathan) [7a 3][13 0, 300821]Minotaur.
+[->][13 0, 300822]You have proven your devotion to your
+master, King Aquila.
+[->][13 0, 300823]We will strike you down with the
+utmost respect!
+[END]
+3: (Minotaur) [7a 0][13 0, 300824]No... I am undone...
+[->][13 0, 300825]F−Forgive me... Aquila...
+Our pact... ends here...
+[->][13 0, 300826]But perhaps... we can entrust...
+the future to them...
+[END]
+1000: (Minotaur) [7a 0][13 0, 300803]You seem to have some skill... But
+it pales in comparison to what my
+master Aquila was capable of.
+[->][13 0, 300804]Do you genuinely believe it will be
+enough to triumph over me?
+[END]
+1001: ”We'll give it our best.”
+”We are determined to win.”
+Ignore him
+[END]
+1002: (Minotaur) [7a 0][13 0, 300805]Hahaha... You underestimate me.
+[->][13 0, 300806]Idle talk of ”doing one's best” will
+not harm a single hair on my body.
+[->][13 0, 300807]'Twas folly to even ask. Drown in
+a sea of your own blood!
+[END]
+1003: 〉 The demon broke [Flynn]'s
+spirit!
+[END]
+1004: 〉 [Flynn]'s attack decreased!
+[END]
+1005: (Minotaur) [7a 0][13 0, 300808]Hngh... ”Determination”...
+[->][13 0, 300809]Children you may be, but the strength
+of one truly determined is formidable
+indeed...
+[->][13 0, 300810]I have perhaps misappraised you...
+If so, I must brace myself with all
+my strength as well.
+[END]
+1006: (Walter) [7a 4][13 0, 300811]That was well done. You matched him
+measure for measure!
+[END]
+1007: 〉 [Flynn] felt his resolve
+strongly renewed!
+[END]
+1008: 〉 [Flynn]'s attack increased!
+[END]
+1009: 〉 [Flynn] ignored the demon's
+words...
+[END]
+1010: (Minotaur) [7a 0][13 0, 300812]Nngh... Have I met my match...?
+[->][13 0, 300813]Do the Samurai have no limits...?
+[END]
+1011: ”Indeed not.”
+”Far from it.”
+Ignore him
+[END]
+1012: (Minotaur) [7a 0][13 0, 300814]For the day to come again that I
+feared the prospect of defeat,
+remote as it may be...
+[->][13 0, 300815]Aquila... they may be...
+[END]
+1013: 〉 The demon grew disturbed!
+[END]
+1014: 〉 The demon's aim decreased!
+[END]
+1015: (Minotaur) [7a 0][13 0, 300816]Ha... Hahahaha...! Indeed so!
+[->][13 0, 300817]Your showing is merely a fluke from
+common soldiers. Your dream of victory
+will be fleeting and brief.
+[->][13 0, 300818]Now, I shall wake you from it!
+[END]
+1016: 〉 The demon regained his inner
+strength!
+[END]
+1017: 〉 The demon's aim increased!
+[END]
+1018: 〉 [Flynn] ignored the demon's
+words...
+[END]

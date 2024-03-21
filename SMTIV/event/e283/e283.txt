@@ -1,0 +1,58 @@
+0: (Man's voice) [7a 2][13 0, 283001]Halt, thou varlet!
+[->][13 0, 283002]This Domain hath been established to
+ensnare scoundrels like thee!
+[END]
+1: (Anachronistic man) [7a 29][13 0, 283003]The folk call me the Guardian of the
+Terminal! I am a seasoned hand who has
+performed thus for nigh twenty years.
+[END]
+2: (Anachronistic man) [7a 29][13 0, 283004]The folk call me the... Zounds! Thou
+art the varlet from before!
+[->][13 0, 283005]That thou wouldst follow the rail to
+come so far!
+[END]
+3: (Anachronistic man) [7a 29][13 0, 283006]I think thou hast surmised that there
+is a Terminal here to be won!
+[END]
+4: (Anachronistic man) [7a 29][13 0, 283007]Thou hast come... Thou Terminal−
+seeking scoundrel!
+[->][13 0, 283008]Wouldst thou deprive a patriarch of
+honest work, to chortle at the tears
+of his starving family?
+[->][13 0, 283009]...Yes, that's exactly what an actor
+would say at such a dramatic moment!
+Good thing I had a line prepared!
+[END]
+5: (Anachronistic man) [7a 29][13 0, 283010]Thou hath shown thine face, thou
+scoundrel. It seems this will be the
+stage of our final fray.
+[->][13 0, 283011]Let me end this vicious struggle with
+the pride of mine task as a guardian
+held fast to heart!
+[->][13 0, 283012]...That's how it would go in a play,
+anyway, but it's true that I do take
+pride in the work I do.
+[END]
+6: (Anachronistic man) [7a 29][13 0, 283013]See my armor? Doesn't it look perfect
+for a period piece? I found it in a
+run−down theater nearby.
+[->][13 0, 283014]The thread of thine fate shall be
+severed here! Fall before the blade
+of a steadfast guardian!
+[END]
+7: 〉 The Domain has lifted...
+[END]
+8: (Burroughs) [7a 2][13 1, 400063]Looks like the quest is going well.
+[END]
+9: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+10: (Burroughs) [7a 2][13 1, 405707]This is the Tennozu Terminal.
+[END]
+11: (Burroughs) [7a 2][13 0, 74001]I'm going to run the Terminal
+activation program.
+[END]
+12: (Burroughs) [7a 2][13 0, 74002]Activation complete.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]

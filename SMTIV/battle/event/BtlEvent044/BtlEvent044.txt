@@ -1,0 +1,5 @@
+0: (Gas masked man) [7a 48][13 0, 304400]You assholes... You always have to
+muck things up for us...
+[->][13 0, 304401]Now that you've seen our trade secret,
+you're not getting out of here alive!
+[END]

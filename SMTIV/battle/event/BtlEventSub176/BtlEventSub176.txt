@@ -1,0 +1,10 @@
+0: (Master Therion) [7a 0][13 1, 413204]You shall soon learn why others fear
+me and tremble at the very mention
+of ”the Beast.”
+[END]
+1: (Master Therion) [7a 0][13 1, 413206]Gah... To think that I would be
+defeated now, and here...
+[->]You have sought to defeat me, and
+you have succeeded...
+[->]Quite impressive.
+[END]

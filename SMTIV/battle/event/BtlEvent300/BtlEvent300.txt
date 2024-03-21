@@ -1,0 +1,5 @@
+0: 〉 Once the horde of demons has fallen,
+Mahamayuri reappears...
+[END]
+2: (Mahamayuri) [7a 0][13 0, 305804]W... Well done...!
+[END]

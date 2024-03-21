@@ -1,0 +1,31 @@
+0: (Burroughs) [7a 2][13 0, 279001]Hmm, what's this...?
+[END]
+1: 〉 The Great Spirit of Spite flew towards
+[Flynn].
+[END]
+2: 〉 Obtained the Great Spirit of Spite.
+[END]
+3: (Isabeau) [7a 5][13 0, 279006]Ah, thank goodness... I was growing
+worried when I found myself unable
+to reach you.
+[END]
+4: (Isabeau) [7a 5][13 0, 279007]The preparations are ready on my end.
+The Commander is leading everyone
+down to Tokyo.
+[->][13 0, 279008]They'll make their arrival in Shinjuku
+presently.
+[END]
+5: (Isabeau) [7a 5][13 0, 279009]Shall I see you there?
+[END]
+100: (Burroughs) [7a 2][13 0, 279002]Scanning...
+[END]
+200: (Burroughs) [7a 2][13 0, 279003]That bizarre thing that appeared after
+you defeated the Demon Lord...
+[END]
+300: (Burroughs) [7a 2][13 0, 279004]I've scanned it, but I'm still not
+sure what it is.
+[->][13 0, 279005]But I never could understand human
+emotions, so I assume it's the Great
+Spirit of Spite.
+[->][13 0, 400063]Looks like the quest is going well.
+[END]

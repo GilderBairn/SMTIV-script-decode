@@ -1,0 +1,8 @@
+0: [Color:0x5]Find a bottle of wine and bring it back to me.[Color:0x0]
+I have no clues for you as to its whereabouts,
+save that it was handled in large Tokyo shops
+known as department stores. It may help to know
+that clothing, food, and a wide assortment of
+sundries were offered there. Please do your
+utmost to find it for the sake of my friend...
+[END]

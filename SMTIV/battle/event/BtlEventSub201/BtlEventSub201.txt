@@ -1,0 +1,9 @@
+1: (Dionysus) [7a 0][13 0, 412003]Hm. I was not expecting a man to be
+drawn here by the piquant bouquet
+of my wine.
+[->]Very well, fellow oenophilist.
+Do you wish a taste of my vintage?
+...You may, in exchange for your life.
+[END]
+2: 〉 The demon is prepared to attack...
+[END]

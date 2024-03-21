@@ -1,0 +1,28 @@
+0: [71 1]I train as I travel this land, and
+dedicate my newfound strength to
+this country...
+[->][END]
+1: [71 1]These deadly techniques shall save
+the Samurai from death.
+[->][END]
+2: [71 1]No matter where they may be, as long
+as they fight for their duty, all
+Samurai share the same heart.
+[->][END]
+3: [71 1](provisional) StreetPass Transformation
+[->][END]
+4: [71 1](provisional) StreetPass Transformation 2
+[->][END]
+5: [71 1](provisional) StreetPass Transformation 3
+[->][END]
+6: [71 1]I shall give you a gift from my
+journey. Let it be used in the
+service of our land.
+[->][END]
+7: [71 1]Did you have any problems while I
+was gone? Perhaps this gift will
+make up for the inconvenience.
+[->][END]
+8: [71 1]I obtained this souvenir while on my
+journey. You may have it.
+[->][END]

@@ -1,0 +1,8 @@
+0: (Strix) [13 0, 300501]How despicable... How infuriating...
+The callow faces of Luxuror bastards
+and their sickening grace!
+[->][13 0, 300502]Have you come all this way to force
+upon us the arrogant rules you dreamt
+up from those brains of leaky shit?
+[->][13 0, 300503]You're not welcome here! Scram!
+[END]

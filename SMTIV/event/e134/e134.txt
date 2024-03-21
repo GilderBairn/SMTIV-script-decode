@@ -1,0 +1,57 @@
+0: (Man blocking way) [7a 64883][13 0, 134002]Not just anyone can enter. You should
+be on your way.
+[END]
+1: (Man blocking way) [7a 64883][13 0, 134001]Stop there, young man. Back there's
+the sacred ground of the Ring of Gaea.
+[->][13 0, 134002]Not just anyone can enter. You should
+be on your way.
+[END]
+2: 〉 What will you do?
+[END]
+3: Say you came to kill Yuriko
+Say you want to join the Ring
+Walk away
+[END]
+4: (Man blocking way) [7a 64883][13 0, 134003]Hahaha! Well, you're honest, I'll give
+you that much!
+[->][13 0, 134004]How about I test you to see if you
+have what it takes?
+[END]
+5: (Man blocking way) [7a 64883][13 0, 134005]Hahaha! You're pretty eager, I see.
+I like that!
+[->][13 0, 134006]How about I test you to see if you
+have what it takes?
+[END]
+6: (Man blocking way) [7a 64883][13 0, 134007]That's right. It's for your own good.
+[END]
+7: (Man blocking way) [7a 64883][13 0, 134008]You may just be a young man, but I can
+see you've been through hell. Your
+swordwork was top−notch.
+[END]
+8: (Man blocking way) [7a 64883][13 0, 134009]Alright, you can pass.
+[END]
+9: (Man blocking way) [7a 64883][13 0, 134012]You may just be a kid, but I can see
+you've been through hell. Your
+swordwork was top−notch.
+[END]
+10: (Man blocking way) [7a 64883][13 0, 134013]Alright, you can pass.
+[END]
+100: 〉 A man leading some demons stands in
+your way.
+[END]
+108: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]
+110: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]
+200: (Voice) [7a 1][13 0, 134001]Stop there, young man. Back there's
+the sacred ground of the Ring of Gaea.
+[END]
+208: (Man blocking way) [7a 64883][13 0, 134010]But you won't be able to kill Lady
+Yuriko like that.
+[->][13 0, 134011]Why don't you build some strength
+with us? Go take the entrance test
+at Tsukiji Hongwanji.
+[END]
+210: (Man blocking way) [7a 64883][13 0, 134014]You should go take the entrance test
+at Tsukiji Hongwanji.
+[END]

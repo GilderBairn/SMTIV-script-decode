@@ -1,0 +1,15 @@
+0: Back in the old days, there used to be a
+giant freezer around [Color:0x5]Toyosu.[Color:0x0] I'd like you
+to go there, see if you can find the
+valuable food known as [Color:0x5]tuna,[Color:0x0] and bring it
+to me. I've been making sushi since before
+Tokyo was sealed, and I want to do it again!
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

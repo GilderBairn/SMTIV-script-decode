@@ -1,0 +1,62 @@
+0: 〉 This appears to be the room that
+they want you to guard.
+[->]〉 Will you stay and keep watch?
+[END]
+1: Yes
+No
+[END]
+2: ...
+[->]......
+[->].........
+[->]〉 You hear footsteps nearby...
+[END]
+3: 〉 You leave the area...
+[END]
+4: (Male client) [7a 97][13 1, 403642]It appears that you've exterminated
+the demons.
+[->]I must admit, I had my suspicions
+about you at first, warrior from
+another world...
+[->]But, after seeing how much you have
+helped us, I've realized that I was
+wrong. I apologize for my rudeness.
+[END]
+5: (Male client) [7a 97][13 1, 403633]You have my thanks.
+[->]They might come back again later on...
+[->]But if that happens, I'll try your
+techniques out on them. I'm not going
+to sit back and let them rob me!
+[END]
+6: 〉 The client leaves...
+[END]
+7: (Male client) [7a 97][13 1, 403601]It seems you've helped us out again.
+[->]This isn't much, but I'm extremely
+grateful for your help.
+[END]
+8: (Male client) [7a 97][13 1, 403641]If you ever have time, please help us
+by getting rid of those demons again.
+[END]
+9: 〉 The client leaves...
+[END]
+10: (Shelter inhabitant) [7a 97][13 1, 403203]Are you the guy willing to fight
+Tlazolteotl for us?
+[->]Rumor has it that this demon only
+eats people. She's got all this corn,
+and she's not even gonna eat it!
+[->]So, it's far better for us to have
+that corn than for it to go to waste.
+Don't you agree?
+[->]Well, I'm not hiring you to talk
+philosophy. I've made it so this
+terminal will get you to Ikebukuro.
+[->]I'm sorry, but that's all I can do.
+I'll leave the fighting to a pro like
+yourself.
+[END]
+11: (Shelter inhabitant) [7a 97][13 1, 403242]The terminal to get you to Ikebukuro
+should be in Kasumigaseki.
+[->]We'll head over there soon as well.
+Head to Ikebukuro once you're ready.
+[END]
+900: 〉 There is no one here...
+[END]

@@ -1,0 +1,91 @@
+0: (Messenger) [7a 31][13 0, 695000]Ah, the hunter [Flynn]. I was awaiting
+your arrival.
+[->][13 0, 695001]I would like to begin the trial of the
+Four Devas now.
+[->][13 0, 695002]First, let me give you the Orb of the
+Four Gates.
+[->][13 0, 695003]Defeat the Four Devas without breaking
+the Orb.
+[->][13 0, 695004]That is the condition of this trial.
+[->][13 0, 695005]The Orb of the Four Gates is designed
+to store the memories of battle.
+[->][13 0, 695006]But, if it absorbs too many, then it
+will break.
+[->][13 0, 695007]In other words, you must avoid battle
+as much as possible in order to
+prevent the orb from breaking.
+[->][13 0, 695008]Take it, and defeat the Four Devas
+located in four different areas of
+Tokyo.
+[->][13 0, 695009]That is all the explanation you will
+get for this trial.
+[->][13 0, 695010]Now then, are you ready to begin the
+trial?
+[END]
+1: ”Yes.”
+”No.”
+[END]
+2: (Messenger) [7a 31][13 0, 695011]Very well.
+The trial will now begin.
+[END]
+3: 〉 You are now carrying the Orb of
+the Four Gates.
+[END]
+4: (Messenger) [7a 31][13 0, 695012]Very well. Once you are ready, come
+back to this place.
+[END]
+5: (Messenger) [7a 31][13 0, 695016]If you are planning to go through with
+the trial, then I shall hand you the
+Orb of the Four Gates.
+[->][13 0, 695017]Do you want to begin the trial?
+[END]
+6: (Messenger) [7a 31][13 0, 695013]This trial requires that you avoid
+battle as much as possible.
+[->][13 0, 695014]Take the Orb, and defeat the Four
+Devas located in four different areas
+of Tokyo.
+[->][13 0, 695015]Do you wish to begin the trial?
+[END]
+7: (Messenger) [7a 31][13 0, 695018]This trial requires that you find and
+defeat the Four Devas in Tokyo.
+[->][13 0, 695019]If you have any battles on the way,
+the Orb of the Four Gates will store
+the memories of those battles.
+[->][13 0, 695020]Please, be careful.
+[END]
+8: 〉 The Orb of the Four Gates has
+shattered...
+[->]〉 You must return to the Messenger
+for a new orb and start over.
+[END]
+9: (Zouchouten) [7a 0][13 0, 695021]Splendid.
+[END]
+10: (Koumokuten) [7a 0][13 0, 695022]You were the first to be able to
+defeat all four of us without the
+Orb of the Four Gates breaking.
+[END]
+11: (Jikokuten) [7a 0][13 0, 695023]Here is the reward we promised.
+Take it, you deserve it.
+[END]
+12: (Bishamonten) [7a 65142][13 0, 695024]You must be the one...
+[->][13 0, 695025]The reincarnation of the man who
+saved Tokyo from destruction.
+[->][13 0, 695026]Though you may tread a path of
+hardship, the future you strive for
+will never waver, young one.
+[->][13 0, 695027]I look forward to seeing what feats
+you will accomplish.
+[->][13 0, 695028]Now, go. Hold true to your ideals, and
+keep moving forward.
+[END]
+13: 〉 The Four Devas leave...
+[END]
+14: 〉 According to the map, this place
+is called Gokoku−ji.
+[->]〉 This area is surrounded with a
+mysterious and powerful energy...
+[END]
+15: 〉 You have no more business here...
+[END]
+900: 〉 There is no one here...
+[END]

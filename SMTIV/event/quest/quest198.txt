@@ -1,0 +1,14 @@
+0: The vanguard of the angel army has reached
+the tower reaching into the sky, and has
+made camp there. I hear it's a really big
+army... Why don't we have a little contest
+and see who can slay them first?
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

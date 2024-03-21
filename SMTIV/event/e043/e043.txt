@@ -1,0 +1,45 @@
+0: 〉 [Flynn] and his fellow Samurai
+rode overnight to reach Kiccigiorgi
+at dawn.
+[END]
+1: (Isabeau) [7a 5][7b 131077, 65537][13 1, 400307]......
+[->][13 0, 43002]There are... no words...
+[END]
+2: 〉 An old man approached you.
+[END]
+3: (Old villager) [7a 38][13 0, 43003]*shriek* Y−You...!? B−Be you demons!?
+[END]
+4: (Jonathan) [7a 3][7b 655365, 131073][7b 786435, 65537][13 0, 43004]Have no fear, sir. We Samurai are
+here to help.
+[END]
+5: (Old villager) [7a 38][13 0, 43005]O God... You have not forsaken us...
+[END]
+6: (Hope) [7a 8][7b 458760, 65537][13 0, 43006]Sir, did I hear you right? Did you
+speak of demons...?
+[END]
+7: (Old villager) [7a 38][13 0, 43007]M−Monsters I've never seen before
+came... and they... they went setting
+fire to the village...
+[->][13 0, 43008]That dreadful visage... I know what
+I saw! The demons from the fairy−
+stories have appeared in our time!
+[END]
+8: (Old villager) [7a 38][13 0, 43009]A few others escaped to Kiccigiorgi
+Forest. Blessed Samurai, I beg
+of you...
+[->][13 0, 43010]Please save them... Save the rest
+of the villagers...
+[END]
+9: (Hope) [7a 8][7b 458760, 65537][13 0, 43011]I shudder to think that the demons
+have encroached this far...
+[END]
+10: (Hope) [7a 8][7b 65544, 65537][13 0, 43012]Someone bring this elder a hot
+drink and show him to our healers.
+[END]
+11: (Hope) [7a 8][7b 65544, 65537][13 0, 43013]My fellow Samurai, our destination
+now is Kiccigiorgi Forest.
+[END]
+12: 〉 [Flynn] and his fellow Samurai
+followed Hope to the interior of
+Kiccigiorgi Forest...
+[END]

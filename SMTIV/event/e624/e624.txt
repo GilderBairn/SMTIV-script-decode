@@ -1,0 +1,243 @@
+0: (Entry Receptionist) [7a 0][13 1, 403001]Hey, kid. Are you a Hunter?
+If you're looking to sign up for the
+tournament, you're in the right place.
+[->]Winning and losing is the difference
+between Heaven and Hell here. You've
+got to have guts to enter this!
+[END]
+1: Enter the tournament
+Don't enter
+[END]
+2: (Entry Receptionist) [7a 0][13 1, 403042]Once you're in the tournament, you're
+not allowed to quit. Are you sure you
+want to enter?
+[END]
+3: (Entry Receptionist) [7a 0][13 1, 403042]That might be for the best.
+Only bloodthirsty, deranged maniacs
+enter these things.
+[END]
+4: ”Yes.”
+”No.”
+[END]
+5: (Entry Receptionist) [7a 0][13 1, 403041]Heh, heh... If you say so. You've got
+no idea what you're getting into!
+This tournament is Hell on Earth.
+[END]
+6: (Entry Receptionist) [7a 0][13 1, 403012]Then get the hell outta here, kid,
+before the crowd gets too crazy.
+[END]
+7: (Announcer) [13 1, 406001]Thank you for your patience,
+ladies and gentlemen!
+[->]The tournament testing the true might
+of these Hunters is about to begin!
+[END]
+8: (Announcer) The Ueno Hunter Tournament
+Preliminaries shall now commence!
+Our first contestants are...
+[->]A new face on the street who's
+become the talk of the city!
+The self−proclaimed Samurai!
+[->]His name is [Flynn]!
+[END]
+9: (Announcer) And his opponent, a bloodthirsty
+Hunter...
+[END]
+10: (Announcer) [13 1, 406004]Will both contestants please move
+to their designated areas!
+[->][13 1, 406005]Hunters, prepare for battle...
+[->][13 1, 406006]Ready... Go!
+[END]
+11: (Announcer) The audience is on its feet, waiting
+to see what [Flynn] does next...
+[END]
+12: Spare your foe
+Finish him
+[END]
+13: (Angry spectator) Hey, you wuss!
+Quit wasting my time!
+[END]
+14: (Announcer) [13 1, 406002]What's this!? [Flynn] has
+spared his opponent's life!
+[->]It looks like the crowd doesn't
+appreciate that!
+[END]
+15: (Announcer) [13 1, 406003]He's done it!
+He has pure ice in his veins!
+[->]You'd better watch out for this
+Hunter!
+[END]
+16: (Announcer) [13 1, 406001]This is already an unexpected turn
+of events!
+[->]The winner, [Flynn], will now move
+to the top eight!
+[->]The up−and−coming Hunter Samurai's
+next opponent will be...
+[END]
+17: (Announcer) He's one of our favorites in this
+tournament, user of high−voltage
+Zionga... Commander Dynamo!
+[END]
+18: (Announcer) [13 1, 406004]Will both contestants please move
+to their designated areas!
+[->][13 1, 406005]Hunters, prepare for battle...
+[->][13 1, 406006]Ready... Go!
+[END]
+19: (Announcer) Everybody's on the edge of their
+seats, waiting to see what the
+Samurai Hunter does next!
+[END]
+20: Spare your foe
+Finish him
+[END]
+21: (Irate spectator) What the hell are you doing!?
+I would've torn that guy a new
+asshole and shredded the rest!
+[END]
+22: (Announcer) [13 1, 406002]What's going on? It seems that
+[Flynn] has decided to spare the
+opponent he was beating so soundly!
+[END]
+23: (Announcer) [13 1, 406003]The stadium echoes with the roar of
+the crowd! This is what this Hunter
+Tournament is all about!
+[END]
+24: (Announcer) [13 1, 406001]It looks like that machine on his arm
+isn't just for show!
+[->]He's made it to the top four, and
+his popularity is still growing!
+[->]Now that he's in the semi−finals,
+[Flynn]'s next opponent will be...
+[END]
+25: (Announcer) The terrifying executioner, who gets
+joy from tearing his foes limb from
+limb... Buzzsaw Sanya!
+[END]
+26: (Announcer) [13 1, 406004]Will both contestants please move
+to their designated areas!
+[->][13 1, 406005]Hunters, prepare for battle...
+[->][13 1, 406006]Ready... Go!
+[END]
+27: (Announcer) A hush falls over the crowd
+as they wait to see what this
+unmatched Hunter does next!
+[END]
+28: Spare your foe
+Finish him
+[END]
+29: (Livid spectator) Hit him! I wanna see blood!
+Beat his ass! Come on!
+[END]
+30: (Announcer) [13 1, 406002]What's this!? [Flynn] doesn't
+give his opponent a second glance
+once he's down!
+[->]That's not what the audience came
+here to see! Listen to them boo!
+[END]
+31: (Announcer) [13 1, 406003]He did it! [Flynn] is drenched
+in his opponent's blood!
+[->]There wasn't even a moment of
+hesitation before the finishing blow!
+That's the fearsome Hunter Samurai!
+[END]
+32: (Announcer) [13 1, 406001]Who could've predicted this?
+This newcomer has made it all the
+way to the finals!
+[->]Let's begin the final matches!
+All Hunters who have made it to the
+finals, come on out!
+[END]
+33: (Announcer) First, let me introduce the man who
+surpassed our wildest expectations!
+The Hunter Samurai, [Flynn]!
+[END]
+34: (Announcer) His opponent will be champion of the
+Ueno tournament for the last ten
+years running!
+[->]The current title holder, the one
+and only... Captain Ayame Arei!
+[END]
+35: (Announcer) [13 1, 406001]How will the Ueno Tournament end?
+Who will move on to the finals!?
+[->][13 1, 406004]Will both contestants please move
+to their designated areas!
+[->][13 1, 406005]Hunters, prepare for battle...
+[->][13 1, 406006]Ready... Go!
+[END]
+36: (Announcer) [13 1, 406003]That was a direct hit! Could this
+be...? Yes! This is it!
+[END]
+37: (Announcer) What is [Flynn] going to do, now
+that he's beaten the former champ!?
+[END]
+38: Spare your foe
+Finish him
+[END]
+39: (Raging spectator) You little bitch! I didn't come to
+this arena to watch people not get
+killed! This is bullshit!
+[END]
+40: (Announcer) [13 1, 406003]Ladies and gentlemen, I've been doing
+this job for years, and I've never
+seen anything like this!
+[END]
+41: (Announcer) [13 1, 406003]Get a good eyeful, folks, because
+this is the only real form of
+entertainment!
+[END]
+42: (Announcer) The Ueno Hunter Tournament
+Preliminaries are over!
+[->]Nobody can deny that Ueno's new
+champion is [Flynn]!
+[END]
+43: (Announcer) We've had a wonderful show here
+today! Our winner earns the right
+to enter the Tokyo Finals Tournament!
+[->]Go there as Ueno's representative,
+and lay your life on the line to
+show us all your strength!
+[->]We'll be putting new information on
+the finals on the bulletin board, so
+be sure to check it out occasionally.
+[->][13 1, 406004]And now, the Ueno Hunter Tournament...
+[->]...is over!
+[END]
+44: (Gatekeeper) [7a 59]So you actually won!
+Good luck in the finals.
+I'll be rooting for you.
+[END]
+45: (Announcer) A man who talks softly and carries a
+murderous stick, but has a soft spot
+for dogs: Subzero Nodon!
+[END]
+46: (Announcer) [13 1, 406002]What's this!? Subzero Nodon is down!
+This is a perfect opportunity for
+[Flynn] to finish him off!
+[END]
+47: (Announcer) [13 1, 406003]Such a powerful attack!
+Dynamo is struggling to stand!
+[END]
+48: (Announcer) [13 1, 406003]Buzzsaw Sanya has lost all his
+demons! It looks like he's lost the
+will to keep fighting!
+[END]
+49: (Announcer) But what's this? Ayame Arei's always
+been a stubborn fighter! He's still
+got a grip on his weapon!
+[END]
+51: 〉 According to the map, this place is
+called Ryogoku Kokugikan.
+[END]
+52: (Man in Red Vest) [7a 0][13 1, 403002]Sorry... this place is off limits.
+We're still busy getting ready for
+the tournament.
+[->]...What, are you interested in taking
+part in the competition? You must be
+one of those adrenaline junkies.
+[->]Well, just keep doing requests.
+If you do enough, I'm sure you'll
+make a name for yourself.
+[END]
+53: You don't have any business here.
+[END]
+900: 〉 There is nobody here...
+[END]

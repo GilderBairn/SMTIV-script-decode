@@ -1,0 +1,3 @@
+1: (The White) [13 0, 306100]God's plan has ever led to our ruin...
+[->][13 0, 306101]You will surely follow the same path.
+[END]

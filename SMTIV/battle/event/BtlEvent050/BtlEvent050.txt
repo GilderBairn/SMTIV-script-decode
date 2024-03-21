@@ -1,0 +1,165 @@
+0: (Earthy man) [7a 59][13 0, 305001]How about this intense demon?
+It's good ol' Mara, makin' his
+long−awaited appearance!
+[->][13 0, 305002]Even you won't be able to beat off
+this magnificent schlong.
+[->][13 0, 305003]He'll show no mercy 'til you go down!
+You're gonna be totally impotent
+before his power!
+[END]
+1: (Guard−like man) [7a 60][13 0, 305004]Take a long, hard look at this intense
+demon. It's the one you've been
+waiting for... Mara!
+[->][13 0, 305005]Even you won't be able to beat off
+this magnificent schlong.
+[->][13 0, 305006]He'll show you no mercy until you go
+down! You'll be totally impotent
+before his power!
+[END]
+2: (Host−like man) [7a 120][13 0, 305007]He's definitely the biggest as far as
+size goes. It's Mara, making his long−
+awaited appearance!
+[->][13 0, 305008]Even you won't be able to beat off
+this magnificent schlong.
+[->][13 0, 305009]You'll be completely impotent by
+the time he's done working you.
+[END]
+3: (Sloppy man) [7a 63][13 0, 305010]Get a load of the size of this one!
+It's the one−eyed demon Mara, makin'
+his long−awaited appearance!
+[->][13 0, 305011]Even you won't be able to beat off
+this magnificent schlong.
+[->][13 0, 305012]He'll show no mercy 'til you go down!
+You're gonna be totally impotent
+before his power!
+[END]
+4: (Heavily made−up girl) [7a 123][13 0, 305013]So like, what do you think of this
+big guy? Are you ready for Mara to
+make his appearance, like, finally?
+[->][13 0, 305014]There's no way someone like you could
+beat off this magnificent schlong.
+[->][13 0, 305015]He'll totally show no mercy until you
+go down and stuff. You'll be all like,
+impotent before his power?
+[END]
+5: (Anachronistic man) [7a 29][13 0, 305016]What sayeth thou to this dread demon?
+'Tis the stiff−backed Mara, making
+his appearance at last.
+[->][13 0, 305017]Even one such as thou shalt ne'er
+beat off this magnificent member.
+[->][13 0, 305018]He shall show thee no mercy 'til thou
+goeth down. Thou shalt be utterly
+impotent before his might.
+[END]
+6: (Businesslike man) [7a 47][13 0, 305019]How about this intense demon? It's the
+always−prominent Mara, making his long−
+awaited appearance.
+[->][13 0, 305020]Even you, I think, will have trouble
+beating off this magnificent member.
+[->][13 0, 305021]You'll find yourself completely
+impotent before his merciless power.
+[END]
+7: (Intuitive man) [7a 118][13 0, 305022]I bet you didn't see this guy coming...
+It's good ol' Mara, making his
+long−awaited appearance!
+[->][13 0, 305023]Even you won't be able to beat off
+this magnificent schlong. Hehe...
+Get it? Beat off?
+[->][13 0, 305024]He'll show no mercy 'til you go down!
+You're gonna be totally impotent
+before his power!
+[END]
+8: (Earthy man) [7a 59][13 0, 305025]Even Mara can't beat you? Guess it
+really is all in how you use it...
+[->][13 0, 305026]Fine, the Terminal's yours.
+[END]
+9: (Guard−like man) [7a 60][13 0, 305027]Even Mara can't beat you? Guess it
+really is all in how you use it...
+[->][13 0, 305028]...Fine, I'll let you have this
+Terminal.
+[END]
+10: (Host−like man) [7a 120][13 0, 305029]Even Mara can't beat you? Guess it
+really is all in how you use it...
+[->][13 0, 305030]Fine, this Terminal's yours.
+[END]
+11: (Sloppy man) [7a 63][13 0, 305031]Even Mara can't beat you? Guess it
+really is all in how you use it...
+[->][13 0, 305032]...Oh well. The Terminal's yours.
+[END]
+12: (Heavily made−up girl) [7a 123][13 0, 305033]Even Mara can't beat you? I guess,
+like, it really is all how you use it.
+[->][13 0, 305034]So yeah and stuff, I'll like, let
+you have this Terminal. Okay?
+[END]
+13: (Anachronistic man) [7a 29][13 0, 305035]E'en Mara could not defeat thee?
+'Twould appear that it truly is all
+in how one uses it...
+[->][13 0, 305036]Very well! The Terminal is thine.
+[END]
+14: (Businesslike man) [7a 47][13 0, 305037]Even Mara can't beat you? I suppose
+it really is all in how you use it...
+[->][13 0, 305038]Very well. The Terminal is yours.
+[END]
+15: (Intuitive man) [7a 118][13 0, 305039]Even Mara can't beat you? Guess it
+really is all in how you use it...
+[->][13 0, 305040]Fine, the Terminal's yours.
+[END]
+500: (Earthy man) [7a 59][13 0, 301224]It ain't gonna be like this next time!
+You better remember that!
+[END]
+501: (Guard−like man) [7a 60][13 0, 301225]You're not getting off this easy
+next time. Remember that!
+[END]
+502: (Host−like man) [7a 120][13 0, 301226]You'll be singing a different tune
+next time! Just remember that!
+[END]
+503: (Sloppy man) [7a 63][13 0, 301227]It ain't gonna go like this next time!
+You better remember that!
+[END]
+504: (Heavily made−up girl) [7a 123][13 0, 301228]So like, I hope you know it's not
+gonna go so crappy for me next time
+and stuff!
+[END]
+505: (Anachronistic man) [7a 29][13 0, 301229]'Twill not go so miserably for me
+our next go−round! Remember that!
+[END]
+506: (Businesslike man) [7a 47][13 0, 301230]It won't go this way next time.
+You can bank on that.
+[END]
+507: (Intuitive man) [7a 118][13 0, 301231]I don't see it going this way the
+next time! You remember that!
+[END]
+600: (Earthy man) [7a 59][13 0, 305041]Damn, you took all the Terminals.
+[->][13 0, 305042]Heh, you got me good! Man, Samurai
+are something else!
+[END]
+601: (Guard−like man) [7a 60][13 0, 305043]Well, you've taken all the Terminals
+now...
+[->][13 0, 305044]You win. I gotta say, Samurai are
+pretty impressive.
+[END]
+602: (Host−like man) [7a 120][13 0, 305045]So all the Terminals are yours now.
+[->][13 0, 305046]All right, I accept defeat. Samurai
+are pretty impressive, it seems.
+[END]
+603: (Sloppy man) [7a 63][13 0, 305047]You got all the Terminals now...
+[->][13 0, 305048]Yep, time to pack it in. Guess
+there ain't no beating a Samurai!
+[END]
+604: (Heavily made−up girl) [7a 123][13 0, 305049]Aww, is that like, all the Terminals?
+[->][13 0, 305050]So I guess I lose? Was there like,
+any way I could have beaten a Samurai?
+[END]
+605: (Anachronistic man) [7a 29][13 0, 305051]'Twould seem that thou hath captured
+all of the Terminals.
+[->][13 0, 305052]I concede defeat. Thou Samurai art
+truly impressive.
+[END]
+606: (Businesslike man) [7a 47][13 0, 305053]All the Terminals are yours now.
+[->][13 0, 305054]Very well, you win. Samurai are truly
+fearsome opponents.
+[END]
+607: (Intuitive man) [7a 118][13 0, 305055]You've taken all the Terminals now...
+[->][13 0, 305056]Alright, I admit defeat! I should've
+seen this coming against a Samurai!
+[END]

@@ -1,0 +1,15 @@
+0: (Demon) [13 0, 304300]This shall be glorious... The last
+time I slaughtered the Unclean Ones
+was in the ancient days.
+[->][13 0, 304301]How shall I cook you...?
+[END]
+1: (Demon) [13 0, 304302]...I jest, Samurai.
+[->][13 0, 304303]I am a fellow of yours here in
+Tokyo.
+[END]
+2: (Demon) [13 0, 304304]Allow me to introduce myself.
+I am Mastema...
+[END]
+3: (Mastema) [13 0, 304305]A messenger of the powers that be
+from the kingdom of light.
+[END]

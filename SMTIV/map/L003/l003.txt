@@ -1,0 +1,25 @@
+0: Yes
+No
+[END]
+1: 〉 Go to region 1?
+[END]
+2: 〉 Go to region 2?
+[END]
+3: 〉 Go to region 3?
+[END]
+4: 〉 Go to region 4?
+[END]
+5: 〉 Go to region 5?
+[END]
+6: 〉 Go to region 6?
+[END]
+7: 〉 Go to region 7?
+[END]
+8: 〉 Go to region 8?
+[END]
+9: 〉 Go to region 9?
+[END]
+10: 〉 Fly?
+[END]
+11: I'll blast you with my bomb!
+[END]

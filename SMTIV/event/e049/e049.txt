@@ -1,0 +1,16 @@
+0: (Hope) [7a 8][13 0, 49001]To all Samurai, this is Hope speaking.
+[->][13 0, 49002]I have information from one of our
+fellows who was making inquiries
+nearby.
+[->][13 0, 49003]It seems a Sabbath was underway not
+long ago in the Kiccigiorgi Forest.
+[->][13 0, 49004]These are apparently gatherings where
+people meet to discuss the Literature
+distributed by the Black Samurai.
+[->][13 0, 49005]There may be other survivors further
+within the forest.
+[->][13 0, 49006]Go [Color:0x5]deeper in the forest[Color:0x0] and resume
+your search.
+[END]
+1: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]

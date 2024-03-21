@@ -1,0 +1,18 @@
+0: I appreciate the difficulties in searching for a
+single woman in a strange land. So I have issued
+a quest that may benefit you: [Color:0x5]find the base of
+this ”Counter−Demon Force”[Color:0x0] somewhere in Tokyo. I
+suspect it is related to the Black Samurai... There
+ought to be [Color:0x5]useful data there,[Color:0x0] so I ask that
+you retrieve it as well.
+[END]
+1: Dummy
+[END]
+2: I have reviewed Burroughs' log. It seems that you
+have learned important information from the Unclean
+Ones. Across the river from the place called [Color:0x5]Ueno[Color:0x0]
+is [Color:0x5]Kasumigaseki,[Color:0x0] where it would appear that
+the [Color:0x5]Counter−Demon Force Base[Color:0x0] is located. If you
+need to complete a quest in order to cross the river,
+then do so with my blessing.
+[END]

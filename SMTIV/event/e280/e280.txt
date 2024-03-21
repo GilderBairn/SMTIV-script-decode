@@ -1,0 +1,96 @@
+0: (Hope) [7a 8][7b 262152, 65537][13 0, 280001]It's you, [Flynn]...
+[->][13 0, 280002]You've become quite gallant in our
+short time apart.
+[END]
+1: (Hope) [7a 8][7b 65544, 65537][13 0, 280003]Go on inside. Everyone is waiting for
+you there.
+[END]
+2: (Hugo) [7a 10][7b 262154, 65537][7b 65555, 131073][13 0, 280004]Ah, the man of the hour. This must
+be a sign from God as well!
+[END]
+3: (Skins) [7a 19][7b 262163, 131073][13 0, 280005]Didn't you decide you'd stop saying
+that from now on, Mr. Hugo?
+[END]
+4: (K) [7a 22][7b 327702, 65537][13 0, 280006]That certainly was a lengthy trip.
+I would never have completed it had I
+been short one leg instead...
+[END]
+5: (Isabeau) [7a 5][7b 393221, 131073][13 0, 280007]Welcome back, [Flynn]. I take it you
+collected the Great Spirit of Spite
+without mishap.
+[->][13 0, 280008]Burroughs told me of your success.
+[END]
+6: (Fujiwara) [7a 18][7b 65554, 65537][7b 65558, 65537][13 0, 280010]Isabeau told us that the bedrock
+covering Tokyo is going to be removed.
+[->][13 0, 280011]I never thought that would even be
+possible...
+[END]
+7: (K) [7a 22][7b 65558, 65537][13 0, 280012]The legends make Tokyo out to be a
+fell place, but this is not so bad.
+[->][7b 327702, 65537][13 0, 280013]P'raps it's only in my imagination, but
+this doesn't feel like the first time
+I've been here.
+[END]
+8: (Hugo) [7a 10][7b 262154, 65537][13 0, 280014]This entire city is a mystic relic...
+We shall make great strides in our
+research.
+[END]
+9: (Skins) [7a 19][7b 262163, 131073][13 0, 280015]Heh! Those ”mystic relics” are common
+knowledge for us Tokyo folks, you know.
+[->][13 0, 280016]If you wanna stay a scholar, you'd
+better start boning up on stuff like
+your life depends on it.
+[END]
+10: (Hugo) [7a 10][7b 262154, 65537][13 0, 280017]Hm! Then I shall begin by researching
+wine...
+[END]
+11: (Fujiwara) [7a 18][7b 262162, 65537][13 0, 280018]You seem to have quite an enthusiasm
+for the subject, Mr. Hugo.
+[->][13 0, 280019]Very well, I'll treat you to a bottle
+of my precious Romanee.
+[END]
+12: (Fujiwara) [7a 18][私/わたし]たちはね お[祝/いわい]い[事/ごと]があると
+[互/たが]いに[酒/さけ]を[酌/く]み[交/か]わして[語/かた]らうんです
+[END]
+13: (Hugo) [7a 10][7b 262154, 65537][13 0, 280020]Tokyo is a treasure house of alcoholic
+relics as well. I would love to partake
+of them...
+[END]
+14: (Skins) [7a 19][7b 262163, 131073][7b 65558, 65537][13 0, 280021]How many years has it been since we
+drank without worrying what the future
+holds?
+[END]
+15: (K) [7a 22][13 0, 280022]Here, I'll work up some appetizers
+for the drinks. Don't mind me helping
+myself to what I can find in the shop!
+[END]
+16: (Isabeau) [7a 5][7b 393221, 131073][13 0, 280025]I think that everyone will get along
+splendidly, don't you?
+[END]
+17: (Isabeau) [7a 5][7b 65541, 196609][13 0, 280026]But we should be going. We have an
+appointment with Masakado to keep.
+[END]
+18: 〉 You decided to go with Isabeau.
+[END]
+19: (Hope) [7a 8][7b 262152, 65537][13 0, 280001]It's you, [Flynn]...
+[END]
+20: (Hope) [7a 8][7b 65544, 65537][13 0, 280003]Go on inside. Everyone is waiting for
+you there.
+[END]
+105: (Isabeau) [7a 5][7b 393221, 131073][13 0, 280009]I had Director Hugo and the Commander
+appeal to the public, so my own task
+has been fulfilled as well.
+[END]
+115: (Burroughs) [7a 2][13 0, 280023]This is different from the atmosphere
+I scanned in the Eastern Kingdom of
+Mikado or in Tokyo.
+[END]
+116: (Burroughs) [7a 2][13 0, 280024]...Anyway, congratulations on
+completing the quest.
+[END]
+119: (Hope) [7a 8][7b 262152, 65537][13 0, 280002]You've become quite gallant in our
+short time apart.
+[END]
+216: 〉 Isabeau finished drinking her coffee
+with a smile.
+[END]

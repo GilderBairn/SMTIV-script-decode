@@ -1,0 +1,16 @@
+0: 〉 You hear a voice coming from the other
+side of the wall...
+[END]
+1: (Accented voice) [13 1, 404321]What're ya prickin' up ya ears for?
+Have some chump demons come here to
+kill time?
+[END]
+2: (Accented voice) C'mon... Just eat us all and be done
+with it. The people of this city
+brought this on themselves.
+[->]They don't even know how much trouble
+us guys in the Ashura−kai go through
+to keep order around Tokyo.
+[->]But they'll be sorry once they're
+in your bellies, heheh.
+[END]

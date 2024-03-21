@@ -1,0 +1,87 @@
+0: (Demon) [7a 64895][13 0, 167001]......
+[END]
+1: (Jonathan) [7a 3][7b 131075, 65537][13 0, 167002]A demon...!
+[END]
+2: (Demon) [7a 64895][13 0, 167003]*pant* *pant*
+[END]
+3: (Jonathan) [7a 3][7b 458755, 65537][13 0, 167004]He's covered in wounds...?
+[END]
+4: (Demon) [7a 64895][13 0, 167005]Hah... Ha... hahaha...
+[->][13 0, 167006]That Tayama... A pitiful man who
+thought himself the King of Tokyo...
+[->][13 0, 167007]His wretched end is fitting...
+[END]
+5: 〉 The demon turned to stone...
+[END]
+6: (Walter) [7a 4][7b 786436, 131073][13 0, 167008]...Hoy.
+[END]
+7: (Walter) [7a 4][7b 786436, 131073][13 0, 167009]Your presence here means that Lilith
+was not all she made herself out to be.
+[END]
+8: (Jonathan) [7a 3][7b 458755, 131073][13 0, 167010]Walter, what are you doing here!?
+[END]
+9: (Walter) [7a 4][7b 786436, 65537][13 0, 167011]You came at the perfect time. I was
+about to open the gate to the Expanse.
+[->][13 0, 167012]Evidently, this Yamato Reactor can
+link our world to the Expanse.
+[END]
+10: (Walter) [7a 4][7b 65540, 131073][13 0, 167013]...Lilith taught me that.
+[->][13 0, 167014]I will summon demons, the incarnations
+of human desire, to this world.
+[END]
+11: (Walter) [7a 4][7b 65540, 131073][13 0, 167015]Tayama thought to stop me, so I blasted
+him along with his demons.
+[END]
+12: (Walter) [7a 4][7b 65540, 131073][13 0, 167016]When demons run amok over this world,
+human laws will lose their hold.
+[->][13 0, 167017]In the new world, only the survivors−−
+the strongest of all−−can shape it
+as they see fit.
+[END]
+13: (Walter) [7a 4][7b 65540, 131073][13 0, 167018]That's the world I long to see.
+[END]
+14: (Jonathan) [7a 3][7b 458755, 65537][13 0, 167019]But that is horrifying...!
+[END]
+15: (Walter) [7a 4][7b 262148, 65537][13 0, 167020]'Tis an error, Nicholas Maragos.
+[END]
+16: (Walter) [7a 4][7b 196612, 65537][13 0, 167020]It will cease to matter what family
+one is born into. Only the powerful
+will be respected...
+[->][13 0, 167021]That will be the new way of the
+Eastern Kingdom of Mikado.
+[->][13 0, 167022]In this kingdom, there will be no one
+who suffers as Issachar did.
+[END]
+17: (Walter) [7a 4][7b 65540, 131073][13 0, 167023]You mark me, yes, [Flynn]?
+As another Casualry.
+[END]
+18: ”Completely.”
+”Do not speak for me.”
+[END]
+19: (Jonathan) [7a 3][7b 458755, 131073][13 0, 167024][Flynn]... What are you saying!?
+[END]
+20: (Walter) [7a 4][7b 65540, 131073][13 0, 167025]Jonathan, this is reality.
+[->][7b 393220, 65537][13 0, 167026]It may be hard for one who has had
+such a comfortable life to grasp...
+[END]
+21: (Walter) [7a 4][7b 589828, 65537][13 0, 167027]...I thought that you would understand.
+[END]
+22: (Walter) [7a 4][7b 196612, 65537][13 0, 167028]......
+[END]
+23: 〉 Walter put his finger on the remote's
+switch...
+[END]
+24: (Walter) [7a 4][7b 196612, 65537][13 0, 167029]But no matter. I never expected my
+choice to be a popular one.
+[->][13 0, 167030]'Tis the price I pay for going my
+own way.
+[END]
+25: (Walter) [7a 4][7b 65540, 131073][13 0, 167031]...Well then.
+[END]
+26: 〉 Walter pushed the remote's switch and
+then tossed it aside.
+[END]
+107: 〉 Tayama is lying on the floor. Blood is
+trickling from his mouth and he is no
+longer breathing.
+[END]

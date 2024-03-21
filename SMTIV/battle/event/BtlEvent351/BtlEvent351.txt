@@ -1,0 +1,53 @@
+0: (Uriel) For the true Millennium Kingdom to be
+brought about, the tares of chaos must
+be cut.
+[->]Thou shalt perish as well, just as King
+Aquila with his Unclean blood did.
+[END]
+10: (Uriel) No... It is drifting away... Our...
+Millennium Kingdom...
+[->]Because of the Unclean Ones... our
+Millennium Kingdom... is becoming
+soiled...
+[END]
+1000: (Uriel) It is only natural that Unclean Ones
+will perish. As you are one of the newly
+chosen race, you must understand this.
+[->]Why, then, do you conspire with the
+fallen one?
+[END]
+1001: ”Because I wish to fight you.”
+”Because I wish to protect Tokyo.”
+Remain silent
+[END]
+1002: (Uriel) Oh...? Most intriguing.
+[->]I am called God's flame. If you wish
+to fall before my might...
+[->]Then I will meet your fire on the field
+of battle.
+[END]
+1003: 〉 [Flynn] was influenced by Uriel's
+fighting spirit...
+[END]
+1004: 〉 [Flynn] gains the power to
+act more!
+[END]
+1005: (Uriel) Ah, this desire to protect the Filth...
+It means that your heart has become
+Unclean as well.
+[->]I cannot allow you to join us in our
+Millennium Kingdom.
+[END]
+1006: 〉 Uriel overflows with murderous power...
+[END]
+1007: 〉 All of Uriel's abilities increased!
+[END]
+1008: (Uriel) Do you feel such guilt over your actions
+that you cannot answer? Then speak not.
+[->]You will fall to Hell, embracing that
+shame.
+[END]
+1009: 〉 Uriel overflows with murderous power...
+[END]
+1010: 〉 All of Uriel's abilities increased!
+[END]

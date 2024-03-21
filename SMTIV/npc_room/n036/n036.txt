@@ -1,0 +1,207 @@
+0: (Wishy−washy man) [7a 121][13 1, 403012]This CAN'T be happening! I just took a
+detour to get here from Shibuya...
+[->]And all the shops in Ikebukuro are
+closed!
+[END]
+1: (Wishy−washy man) [7a 121][13 1, 403022]At this rate, the demons will eat
+us all!
+[->]Please, Ashura−kai! Come back here
+and save us!
+[END]
+2: (Wishy−washy man) [7a 121][13 1, 403041]Some samurai named [Flynn] is
+climbing the ranks...
+[->]He's an outsider with amazing skills.
+This guy might be a serious contender
+for champion...
+[END]
+3: (Wishy−washy man) [7a 121][13 1, 403003]Guess what! I'm becoming a Hunter!
+[->]After seeing you in action, I just
+can't sit around and do nothing...!
+[END]
+4: (Wishy−washy man) [7a 121][13 1, 403403]Guess what! I'm becoming a Hunter!
+[->]There are way more strong demons around
+these days. It's a great time to start
+hunting 'em!
+[END]
+5: (Ashura−kai man) [7a 47][13 1, 403603]The guys in Ikebukuro are all idiots.
+They were hooting with joy when they
+kicked us out...
+[->]Well, guess what? Now the town belongs
+completely to the demons. The owner of
+the Association ran away too...
+[->]And with no Association, no Hunters
+will bother showing their faces.
+[->]It's like it's gone back to how it was
+when the ceiling first appeared. Wonder
+how long it'll take to get it back...
+[END]
+6: (Ashura−kai man) [7a 47][13 1, 403603]If I'd known this would happen, I woulda
+ditched Ikebukuro and went home.
+[->]That miserable bunch can't even wipe
+up their own shit. I'd hate to be on
+the same boat as those losers.
+[->]Or did I not manage 'em right...?
+[END]
+7: (Ashura−kai man) [7a 47][13 1, 403642]The guys in Ikebukuro are so damn
+simple, y'know? Guess what they said
+when I told 'em about you, ”Champ”?
+[->]They thanked me! ME! The guy who used
+to be part of the Ashura−kai!
+[->]Those dumbasses... Did I not teach 'em
+right when I was their boss?
+[END]
+8: (Ashura−kai man) [7a 47][13 1, 403603]The guys in Ikebukuro are so damn
+simple, y'know? Guess what they said
+when I told 'em the demons were gone?
+[->]They thanked me! ME! The guy who used
+to be part of the Ashura−kai!
+[->]Those dumbasses... Did I not teach 'em
+right when I was their boss?
+[END]
+9: (Sighing woman) [7a 62][13 1, 403312]The guys who kicked out the Ashura−kai
+are acting like they're some kind of
+heroes...
+[->]But without the Ashura−kai here,
+Xi Wangmu took over this town in
+no time.
+[END]
+10: (Flashy woman) [7a 123][13 1, 403503]My ex was in the Ashura−kai. But he got
+beaten up and kicked out of town.
+[->]They broke his nose, pulled out his
+hair... He looked awful. I'm more afraid
+of the people here than the Ashura−kai!
+[END]
+12: (Flashy woman) [7a 123][13 1, 403522]A woman from the underground district
+committed suicide by biting off her
+own tongue.
+[->]We gave her corpse to the demons out
+there to keep them at bay for now...
+[->]But I can't help wondering if they'll
+kill me, too, in my sleep.
+[->]I keep wishing over and over that we
+could be free from this suffering...
+[END]
+13: (Flashy woman) [7a 123][13 1, 403522]I'm away from home for a few days to
+hang out with the Ashura−kai and
+Ikebukuro turns into a huge mess...
+[->]I almost always welcomed death before.
+But now...
+[->]I just wanted to tell you one thing,
+champion: Thank you.
+[END]
+14: (Flashy woman) [7a 123][13 1, 403522]Ever since the demons came to Tokyo,
+I was looking for a good time and
+place to die.
+[->]But it seems I've lost all that, along
+with my chance to find Mr. Right.
+[->]I guess it's all your fault, haha.
+...Thanks, champion.
+[END]
+100: (Wishy−washy man) [7a 121][13 1, 403012]I just took a detour to get here from
+Shibuya... and all the shops in Ikebukuro
+are closed!
+[->]Well, I don't have much choice now.
+I'll keep going a little to Shinjuku...
+[END]
+105: (Ashura−kai man) [7a 47][13 1, 403603]Those guys in Ikebukuro are pathetic...
+The moment Xi Wangmu got whacked, they
+started to puff their chests at us.
+[->]I do what Mr. Tayama tells me to, of
+course. But how could a place without
+even a shop have any value to us?
+[->]Heh, maybe we should just convert
+everyone who lives there into...
+You know.
+[END]
+106: (Ashura−kai man) [7a 47][13 1, 403603]I heard a rumor that the Association's
+up to something...
+[->]But there's no way to check, since we
+got no Association in Ikebukuro.
+[END]
+109: (Sighing woman) [7a 62][13 1, 403312]I just want to leave this demon−infested
+city as soon as possible...
+[->]But when the Ashura−kai left town,
+all the Reds went with them.
+[->]I can't fight demons... I can't even
+buy weapons. Talk about a no−win
+situation...
+[END]
+111: (Flashy woman) [7a 123][13 1, 403503]I heard a strange rumor that the
+Ashura−kai were making a comeback...
+[->]But my ex was Ashura−kai, so I kinda
+know what is and isn't likely...
+[->]The Ashura−kai wouldn't waste manpower
+and time on a town like this if there
+was nothing in it for them.
+[END]
+200: (Wishy−washy man) [7a 121][13 1, 403041]I thought I'd enjoy some R&R in Shibuya
+after coming back from stocking up on
+supplies in Shinjuku.
+[->]But I saw they started to sell Reds in
+Ikebukuro again, so I came right back. I'd
+hate to miss an opportunity like that!
+[END]
+205: (Ashura−kai man) [7a 47][13 1, 403603]Percentage−wise, this town doesn't have
+as many women. But I'm sure it'll do
+just fine...
+[->]The question is whether the men can
+work out here. Once they're in Roppongi,
+they've gotta stick to it...
+[END]
+209: (Sighing woman) [7a 62][13 1, 403312]Someone brought some Reds from Shibuya!
+Thank you, lord!
+[->]I don't mind paying a fortune for some
+Reds if I have to. I'd even sell my
+organs if need be...
+[END]
+211: (Flashy woman) [7a 123][13 1, 403503]I heard from an old flame in the
+Ashura−kai that everyone in Ikebukuro
+is going to be sent to Roppongi...
+[->]In a couple days, I guess I'll be part
+of the ”harvest” too.
+[END]
+300: (Wishy−washy man) [7a 121][13 1, 403012]Whatever happened to the folks in
+Ikebukuro...?
+[->]They're suddenly saying they don't need
+the Reds anymore. I thought this would
+be a great business opportunity...
+[END]
+305: (Ashura−kai man) [7a 47][13 1, 403603]My buddies in Roppongi tell me that
+Mr. Tayama's quota is tough to meet.
+[->]Hmm... Ikebukuro will be thinned out
+a little, but we can fix that, you know
+what I mean?
+[END]
+309: (Sighing woman ) [7a 62][13 1, 403312]I just realized something... It doesn't
+matter if I spend everything I have
+on Reds, or if I get eaten alive...
+[->]It's just me who'd suffer.
+[->]But if I'm going to scream in despair,
+I'm going to scream while fighting.
+So I won't need the Reds anymore...
+[END]
+311: (Flashy woman) [7a 123][13 1, 403503]I heard from an old flame in the
+Ashura−kai that everyone in Ikebukuro
+is going to be sent to Roppongi...
+[->]But the people of Ikebukuro decided to
+fight back against the Ashura−kai.
+[->]I'm glad we're saved, but honestly...
+How many more times do we have to
+suffer like this?
+[END]
+405: (Ashura−kai man) [7a 47][13 1, 403603]The guys in Ikebukuro are all idiots.
+They were hooting with joy when they
+kicked us out...
+[->]If they'd come to Roppongi, at least
+they wouldn't have to starve.
+[->]Their pride was their downfall...
+Grade−A fools, all of 'em.
+[END]
+409: (Sighing woman) [7a 62][13 1, 403312]I just realized something... It doesn't
+matter if I spend everything I have
+on Reds, or if I get eaten alive...
+[->]It's just me who'd suffer.
+[->]But if I'm going to scream in despair,
+I'm going to scream while fighting.
+I don't need the Reds or the Ashura−kai.
+[END]

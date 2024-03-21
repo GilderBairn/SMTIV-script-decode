@@ -1,0 +1,291 @@
+0: 〉 The fairies have gathered
+together...
+[->]〉 You recognize a woman approaching
+you...
+[END]
+1: (Nozomi) [7a 136][13 0, 684000]Thanks, [Flynn].
+I knew you'd come to help me.
+[->][13 0, 684001]I had a feeling this was going to be
+a tough one, but...
+[->][13 0, 684002]I'm sure with your help, [Flynn],
+we'll make it through this okay.
+[END]
+2: (Demon) [7a 65302][13 0, 684007]Let me explain the situation.
+[->][13 0, 684008]You see, we fairy folks are the
+Tuatha De Denann...
+[->][13 0, 684009]That is, our people are descendants
+of the Lady Danu.
+[->][13 0, 684010]We would like Lady Danu to return and
+rule us again, as the mother of the
+fairy people.
+[->][13 0, 684011]Then, we can regain the authority and
+faith that we used to have.
+[->][13 0, 684012]You might have realized this by now,
+but ”Black Maria” is Lady Danu in
+another form.
+[->][13 0, 684013]Back when the Hebrew holy race began
+to encroach upon our world...
+[->][13 0, 684014]Lady Danu became part of the Judeo−
+Christian canon by merging with an
+interpretation of Mary.
+[->][13 0, 684015]She did this to protect us fairies,
+her children, from oppression by those
+awful beings...
+[END]
+3: (Demon) [7a 65288][13 0, 684016]But I have heard Maria's voice.
+[->][13 0, 684017]She said that if we asked the human
+named Nozomi, then we will be able to
+see her again.
+[->][13 0, 684018]Black Maria said that Nozomi can save
+us all.
+[END]
+4: (Nozomi) [7a 136][13 0, 684019]So, that's the story, [Flynn].
+They really need me.
+[->][13 0, 684020]I'd love to help them.
+[->][13 0, 684021]Even if the angels try to stop me, I
+at least want to let these guys talk
+to Maria.
+[->][13 0, 684022]You'll help me, right, [Flynn]?
+[END]
+5: ”Of course I will.”
+”No, I won't.”
+[END]
+6: (Nozomi) [7a 136][13 0, 684026]You know I'm always grateful for your
+assistance, [Flynn].
+[->][13 0, 684027]Well, I'm going to start the summoning
+program now.
+[->][13 0, 684028]I want you to stall the angels while
+it's summoning, [Flynn].
+[->][13 0, 684029]I'll summon Black Maria while you keep
+them at bay.
+[->][13 0, 684030]Are you ready?
+[END]
+7: ”Yes.”
+”No.”
+[END]
+8: (Nozomi) [7a 136][13 0, 684033]All right, let's do it.
+[END]
+9: 〉 Nozomi begins manipulating her
+smartphone...
+[END]
+10: 〉 You feel a chill.
+You sense a strong power nearby...
+[END]
+11: (Monotone voice) [7a 65458][13 0, 684034]We forbid this summoning...
+[END]
+12: (Nozomi) [7a 136][13 0, 684023]I see... Well, I know it is asking a
+bit much.
+[->][13 0, 684024]I'm sorry for getting you involved in
+all this.
+[->][13 0, 684025]Well, don't worry. I'll manage on my
+own, somehow.
+[END]
+13: (Nozomi) [7a 136][13 0, 684035]Hey, [Flynn]. Are you here to help?
+[END]
+14: (Nozomi) [7a 136][13 0, 684031]All right.
+[->][13 0, 684032]Come talk to me when you're ready.
+[END]
+15: (Nozomi) [7a 136][13 0, 684036]Good. I'm going to start up the
+summoning program.
+[->][13 0, 684037]I want you to stall the angels while
+it's summoning, [Flynn].
+[->][13 0, 684038]I'll summon Black Maria while you keep
+them at bay.
+[->][13 0, 684039]Are you ready?
+[END]
+16: (Nozomi) [7a 136][13 0, 684040]All right, let's try this one more
+time.
+[->][13 0, 684041]Are you ready?
+[END]
+17: 〉 You could not protect Nozomi...
+[->]〉 The ritual has failed.
+[END]
+18: (Nozomi) [7a 136][13 0, 684042]Looks like we managed to do it!
+It's all thanks to you, [Flynn].
+[->][13 0, 684043]All right, here we go!
+[END]
+19: 〉 The Lady Black Maria has been
+summoned.
+[END]
+20: (Demon) [7a 65288][13 0, 684044]It's finally time...
+[END]
+21: (Demon) [7a 65289]Oh, so beautiful...
+[END]
+22: (Demon) [7a 65302][13 0, 684045]Black Maria...
+[->][13 0, 684046]We hired a human to summon you here.
+[->][13 0, 684047]We are the Tuatha De Danann...
+Your people, Lady Danu.
+[->][13 0, 684048]Please, retake your original form as
+Lady Danu, and lead us once again!
+[->][13 0, 684049]The fairy race has dispersed, and we
+have lost our power.
+[->][13 0, 684050]We need your strength, Lady Danu!
+[END]
+23: (Black Maria) [7a 65169][13 0, 684051]...I see.
+[->][13 0, 684052]You have suffered many hardships
+during my absence.
+[->][13 0, 684053]...However, I carry the responsibility
+of my role as Black Maria.
+[->][13 0, 684054]I cannot return to my previous
+life as Danu.
+[->][13 0, 684055]Just as there are many who wish for
+the resurrection of the Lady...
+[->][13 0, 684056]...There are far more who need this
+personification of the Holy Mother to
+exist.
+[END]
+24: (Demon) [7a 65302][13 0, 684057]No...
+[->][13 0, 684058]Then is the fairy race doomed to
+perish?
+[END]
+25: (Black Maria) [7a 65169][13 0, 684059]No. I will not allow such a thing to
+happen.
+[->][13 0, 684060]I shall find another to lead the
+fairies...
+[->][13 0, 684061]Someone who can carry on the powers of
+Danu.
+[->][13 0, 684062]Fortunately, a suitable successor is
+close at hand.
+[->][13 0, 684063]Nozomi.
+[->][13 0, 684064]I realize that asking this of you is
+selfish on my part.
+[->][13 0, 684065]But, in exchange for the power of Danu
+and the protection of the fairies...
+[->][13 0, 684066]I would like you to become the leader
+of the fairy people.
+[->][13 0, 684067]This is the reason you were chosen to
+be the one to carry out this request.
+[->][13 0, 684068]I planned on you being the one to
+summon me, so that I would be able to
+ask this of you.
+[END]
+26: (Nozomi) [7a 136][13 0, 684069]Me, lead the fairies...?
+[->][13 0, 684070]But, I'm just a normal human!
+[END]
+27: (Black Maria) [7a 65169][13 0, 684071]It does not matter if the leader is
+a child of man.
+[->][13 0, 684072]Just as my counterpart Mary did, it is
+more than possible for humans to enter
+realms normally reserved to gods.
+[->][13 0, 684073]True, such great power can twist the
+fate of a child of man.
+[->][13 0, 684074]Some girls have received such power,
+only to be persecuted as witches and
+meet sad fates.
+[->][13 0, 684075]Such is the power that I would bestow
+to you. But, I will not force you to
+make this decision now.
+[END]
+28: (Nozomi) [7a 136][13 0, 684076]...
+[->][13 0, 684077]Hey, [Flynn]... I'm kinda overwhelmed
+by all this right now.
+[->][13 0, 684078]Do you think I'm cut out to do
+something like this? What should I do?
+[END]
+29: ”Lead the fairies.”
+”You can do it.”
+”This isn't your job.”
+”I don't know what to say.”
+[END]
+30: (Nozomi) [7a 136][13 0, 684079]...Yeah, you're right. I mean, I've
+already gone this far.
+[->][13 0, 684080]Might as well see it through to the
+end, right?
+[END]
+31: (Nozomi) [7a 136][13 0, 684081]Thanks.
+[->][13 0, 684082]Hearing that you believe in me gives
+me confidence.
+[->][13 0, 684083]Yep. I've made up my mind.
+[END]
+32: (Nozomi) [7a 136][13 0, 684084]Thanks for worrying about me.
+[->][13 0, 684085]But, I've already decided that I'm
+gonna give it my all.
+[->][13 0, 684086]I didn't expect things to go this far.
+[->][13 0, 684087]But I do want to help the fairies.
+[END]
+33: (Nozomi) [7a 136][13 0, 684088]...You're right. This is something I
+need to decide for myself.
+[->][13 0, 684089]...I'm gonna do it. I'm gonna give
+it my all.
+[END]
+34: (Nozomi) [7a 136][13 0, 684090]Please, let me do this.
+[->][13 0, 684091]I really do want to help the fairies.
+[->][13 0, 684092]If you'll give me the power to do
+that, then I'll gladly take it.
+[END]
+35: (Black Maria) [7a 65169][13 0, 684093]Thank you, Nozomi.
+[->][13 0, 684094]Please, come closer.
+[END]
+36: 〉 Black Maria places her hand on
+Nozomi's forehead.
+[END]
+37: (Black Maria) [7a 65169][13 0, 684095]The transfer of power has been
+completed.
+[->][13 0, 684096]From this point forth, Nozomi, you are
+the leader of the fairy people.
+[->][13 0, 684097]And, one day, you shall become the
+Lady Danu, and the fairy race shall
+thrive once more.
+[END]
+38: (Nozomi) [7a 136][13 0, 684098]Got it.
+[END]
+39: (Black Maria) [7a 65169][13 0, 684099]I must return.
+[->][13 0, 684100]Thank you, Nozomi.
+Thank you, [Flynn].
+[->][13 0, 684101]I, too, wish the best for the people
+who follow me as Black Maria.
+[->][13 0, 684102]The best of luck to the both of us.
+[END]
+40: 〉 Black Maria leaves...
+[END]
+41: (Nozomi) [7a 136][13 0, 684103]Hm. I don't feel all that different
+after whatever she did.
+[->][13 0, 684104]Anyway, I'm going to try my best with
+the fairy race.
+[->][13 0, 684105]I guess the first step's gotta be
+finding a place where the fairies can
+live in peace.
+[END]
+42: 〉 Nozomi leaves with the fairies...
+[END]
+43: (Nozomi) [7a 136][13 0, 684003]......
+[->][13 0, 684004]You see, the fairies here begged me to
+help them.
+[->][13 0, 684005]They wanted me to summon a demon
+called Black Maria.
+[->][13 0, 684006]The fairies seem desperate to meet
+this Maria.
+[END]
+44: (Nozomi) [7a 136][13 0, 684106]Thanks for everything.
+[->][13 0, 684107]You know, I thought I was going to be
+your mentor as a Hunter and as a
+photographer...
+[->][13 0, 684108]But then, I feel you've helped me out
+a lot more than I've helped you.
+[->][13 0, 684109]From now on, though, I have to be able
+to get through things without your
+help.
+[->][13 0, 684110]Well, see you around, [Flynn].
+I'm really grateful for all you've
+done for me.
+[END]
+45: 〉 According to the map, this place
+is called the ”St. Nicholas
+Cathedral”...
+[->]〉 A demon looks prepared to fight,
+but when it sees you, it sighs in
+relief...
+[END]
+46: (Demon) [7a 65290][13 1, 411007]Oh, it's just a human.
+Don't freak me out like that.
+[->]...This is the home of the fairies.
+Though there aren't many of us left
+by now.
+[->]We just need to hold out only a little
+longer... With her help, we're sure to
+get through this...
+[END]
+47: 〉 You have no more business here...
+[END]
+900: 〉 There is no one here...
+[END]

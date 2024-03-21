@@ -1,0 +1,7 @@
+0: [Color:0x5]Proceed immediately to Shene Duque.[Color:0x0] This comes
+from a certain individual, but as Abbot of the
+Monastery, I have deemed it worthy of the highest
+attention and have thus contacted you. Be sure
+that you go to Shene Duque straightaway, without
+any detours.
+[END]

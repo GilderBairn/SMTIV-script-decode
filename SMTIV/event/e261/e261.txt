@@ -1,0 +1,22 @@
+0: (Fujiwara) [7a 18][7b 65554, 65537][7b 458771, 65537][13 0, 261001]Hey, it's you... Long time no see.
+[END]
+1: (Skins) [7a 19][7b 458771, 65537][13 0, 261002]Seems you've been to Ichigaya. We heard
+all about it already.
+[->][13 0, 261003]Hard to miss a pillar of light in the
+sky and those demons pouring in... You
+opened the gate to the Expanse, huh?
+[END]
+2: (Fujiwara) [7a 18][7b 65554, 65537][13 0, 261004]It's true that with all those demons'
+power, it'll be easier for us to get
+to the Eastern Kingdom of Mikado.
+[->][13 0, 261005]With muscle like that, we can make it
+even if the angels show up.
+[END]
+3: (Fujiwara) [7a 18][7b 196626, 65537][13 0, 261006]But that'd mean bringing demons along
+with us to Mikado...
+[END]
+4: (Skins) [7a 19][7b 458771, 65537][13 0, 261007]And then we'd be no better off than
+we are here in Tokyo.
+[->][13 0, 261008]Looks like we'll be fighting demons
+'til the day we die...
+[END]

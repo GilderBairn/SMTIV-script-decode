@@ -1,0 +1,162 @@
+0: 〉 Someone−−or someTHING−−is hiding in
+the tall grass.
+[END]
+1: Call out to it
+Walk away
+[END]
+2: 〉 [Flynn] quickly leaves the area...
+[END]
+3: 〉 When [Flynn] calls out, Navarre
+appears from the grass.
+[->]〉 It seems that life on the run has not
+treated him well. His dirty clothing is
+tattered and disheveled...
+[END]
+4: (Navarre) [7a 134][7b 196614, 65537][13 0, 661000]Who are you? Are you an angel?
+Have you come to kill me!?
+[->][13 0, 661001][7b 458758, 65537]Demons, angels, Samurai...
+They're all trying to kill me.
+[->][7b 720902, 65537][13 0, 661002]I'm tired of this. I've had enough
+of this world! Take me back to the
+world where there are no demons!
+[->][7b 458758, 65537][13 0, 661003]I'm a Luxuror! You hear me!?
+A Luxuror!
+[END]
+5: 〉 Navarre pulls his hood up over his
+face to hide it.
+[->]〉 Navarre has joined you.
+[END]
+6: 〉 [Flynn] calls out to Navarre...
+[END]
+7: (Navarre) [7a 134][13 0, 661009]Ah... Ahhh! Help me!
+I don't want to die!
+[->][13 0, 661010]...Huh?
+O−Oh, it's just you.
+[END]
+8: 〉 Navarre has joined you.
+[END]
+9: (Heavenly voice) [7a 65515][13 0, 661013]...Halt. Thou canst not deceive the
+eyes of an angel.
+[END]
+10: (Angel) [7a 65516][13 0, 661014]All those who are not part of the
+Lord's plan are destined for
+judgement.
+[->][13 0, 661015]Judgement shall be rendered upon this
+one, in accordance with the Lord's
+will.
+[END]
+11: (Fujiwara) [7a 18][13 0, 661016]Oh, hello. I haven't seen him with
+you before. Did something happen?
+[END]
+12: 〉 You explain Navarre's situation
+to Fujiwara.
+[END]
+13: (Fujiwara) [7a 18][7b 65554, 65537][13 0, 661017]...I see. Well, if you survived an
+angel attack, you must be one lucky
+guy.
+[END]
+14: (Navarre) [7a 134]I no longer have any place to call
+home. If I can, I would like to live
+here in Tokyo...
+[END]
+15: (Fujiwara) [7a 18][7b 65554, 65537][13 0, 661018]Well, all right. I'll make
+arrangements so that he can live here.
+[->][7b 262162, 65537][13 0, 661019]Of course, he's more than welcome
+here. There aren't enough young people
+in Tokyo anymore.
+[->][13 0, 661020]Since he was a Samurai, I'm sure he
+won't have a problem making a living
+as a Hunter.
+[->][13 0, 661021]I'll get him a smartphone so he can
+summon.
+[END]
+16: (Navarre) [7a 134][7b 458758, 65537][13 0, 661022]Summon? Never! I've had enough.
+No more demons!
+[->][7b 655366, 65537][13 0, 661023]I'm through with being a Samurai!
+I'm a Luxuror! A Luxuror!
+[END]
+17: (Fujiwara) [7a 18][7b 458770, 65537][13 0, 661024]Uh... Okay...
+I guess he's had some bad experiences.
+[->][13 0, 661025]As long as you stay underground, the
+demons won't attack you. You should
+probably live there.
+[->][7b 65554, 65537][13 0, 661026]I'm sure he'll feel better once he's
+settled down for a while. We've got
+time to figure out what to do.
+[END]
+18: (Navarre) [7a 134][7b 720902, 65537][13 0, 661027]As long as there aren't any demons...
+There were no demons in the Eastern
+Kingdom of Mikado.
+[END]
+19: (Fujiwara) [7a 18][7b 65554, 65537][13 0, 661028]I'll get somebody to show him around
+the place. Well, that should about
+do it.
+[END]
+20: (Navarre) [7a 134][7b 196614, 65537][13 0, 661029]...I believe I owe you a great debt.
+[->][13 0, 661030]A person as noble as yourself must
+surely be a Samurai of Luxuror birth.
+[->][7b 196614, 65537][13 0, 661031]I count myself lucky that I was able
+to meet a Samurai like you. Take care.
+[END]
+21: 〉 You explain to Navarre that you
+have come to help him.
+[END]
+22: (Navarre) [7a 134][7b 196614, 65537][13 0, 661004]How do you know my name?
+[->][7b 458758, 65537][13 0, 661005]I've never met you...
+I don't remember...
+I don't want to remember!
+[END]
+23: (Navarre) [7a 134][7b 196614, 65537][13 0, 661006]...But you just said that you've come
+to help me. I heard you say it.
+[->][13 0, 661007]Then, please... Get me somewhere with
+no demons! Now! Oh, do it now!
+[->][13 0, 661008][7b 655366, 65537]I don't want to stay in this awful
+place. Please, get me out of here!
+[END]
+24: (Navarre) [7a 134][7b 458758, 65537][13 0, 661011]What's wrong with you? You said you'd
+help me, but you're not protecting me
+at all, you hypocrite.
+[->][7b 655366, 65537][13 0, 661012]Now, make sure to take me someplace
+where there are no demons!
+[END]
+25: 〉 Fujiwara leaves in order to make
+arrangements for Navarre.
+[END]
+26: 〉 An angel carrying a longsword
+stands before you.
+[END]
+400: 〉 You were unable to protect
+Navarre, so you made him take refuge
+in the location he had been hiding.
+[->]〉 You have parted ways with Navarre.
+[END]
+401: 〉 The Samurai at Mikado Castle are
+on the lookout...
+[->]〉 It's very likely that they will
+recognize Navarre, even under his
+hood.
+[->]〉 You and Navarre carefully head
+toward Naraku while avoiding the
+patrolling Samurai...
+[END]
+402: 〉 The Samurai at Mikado Castle are
+on the lookout...
+[->]〉 It's very likely that they will
+recognize Navarre, even under his
+hood.
+[->]〉 You and Navarre left Mikado
+Castle while avoiding the
+patrolling Samurai...
+[END]
+403: 〉 It is quite likely that Navarre
+will be discovered with you.
+[->]〉 Going to the Eastern Mikado
+Kingdom right now is not a good idea.
+[END]
+404: 〉 If you want to use the facilities
+in Mikado Castle such as K's Tavern
+or the Terminal, then you must first
+either complete or abandon the quest.
+[END]
+900: 〉 There is no one here...
+[END]

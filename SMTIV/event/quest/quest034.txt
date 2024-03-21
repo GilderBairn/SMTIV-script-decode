@@ -1,0 +1,27 @@
+0: The White are also embodiments of desire. Upon
+gaining knowledge and wisdom beyond their ken,
+they turned to a foolish despair. You need not
+waste time listening to their ravings. You must
+return to your own world and save the people.
+[Color:0x5]Slay the four White[Color:0x0] lurking within the forest.
+[END]
+1: Dummy
+[END]
+2: Know that to cast aside one's will and descend into
+despair is an insult toward one's beloved neighbors.
+You have done well to slay one of the White. Only
+[Color:0x5]three[Color:0x0] remain in this forest. Keep up your untiring
+efforts.
+[END]
+3: Know that to cast aside one's will and descend into
+despair is folly that speaks of weakness and
+intolerance. You have done well to slay two of
+the White. Only [Color:0x5]two[Color:0x0] remain in this forest. Keep
+up your untiring efforts.
+[END]
+4: What merit is there for a human to cast aside its
+own will and descend into despair? You have done 
+well to slay three of the White. Only [Color:0x5]one[Color:0x0] remains
+in this forest. I have faith that you, the warriors
+of light, will accomplish your task.
+[END]

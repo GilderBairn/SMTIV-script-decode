@@ -1,0 +1,25 @@
+0: (The White) [7a 75][13 0, 233001]Our fifth son, who chose preservation...
+[END]
+1: (The White) [7a 219][13 0, 233002]...You still do not understand?
+[END]
+2: (The White) [7a 219][13 0, 233003]Your will, which rejects our salvation,
+is the cause of your suffering...
+[END]
+3: (Jonathan) [7a 3]Man's will shall be the cause of
+our downfall in God's world?
+Preposterous.
+[->]'Tis by my own will that I choose
+to preserve this world.
+[->]Of course, it should be the same for
+you as well...
+[END]
+4: (Jonathan) [7a 3]To give up on self−determination and
+openly invite destruction... It is an
+insult to the family I love.
+[END]
+102: (The White) [7a 219][13 0, 233004]We will eliminate that will in
+preparation for the coming of a
+new Messiah.
+[END]
+104: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]

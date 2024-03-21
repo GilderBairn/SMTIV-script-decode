@@ -1,0 +1,114 @@
+0: (Tayama) [7a 17][13 0, 304800]You're gonna wish you hadn't forced me
+to pull out my ace.
+[->][13 0, 304801]Rebels against utopia, be judged by he
+who once protected this land.
+[END]
+1: (Tayama) [7a 17][13 0, 304802]Come, Yamato Takeru...
+[END]
+2: (Yamato Takeru) [7a 0][13 0, 304803]I am one of the relentless National
+Defense Divinities, Yamato Takeru...
+[->][13 0, 304804]I do this on the orders of my master.
+Do not think ill of me.
+[END]
+3: (Yamato Takeru) [7a 0][13 0, 304821]Wh... What power...
+[->][13 0, 304822]I shudder to think that chaos thrives
+so in this nation where harmony was
+once valued...
+[END]
+4: (Walter) [7a 4][13 0, 304823]”Harmony”...? You coat it in a sweet−
+sounding word.
+[END]
+5: (Yamato Takeru) [7a 0][13 0, 304826]No nation is a nation where the people
+are not united.
+[END]
+6: (Walter) [7a 4][7b 131076, 65537][13 0, 304829]I'll defeat you and grow ever
+stronger...!
+[END]
+7: (Yamato Takeru) [7a 0][13 0, 304830]History... has sided... with these
+young ones...
+[->][13 0, 304831]So this... is the fate... of this
+nation...
+[END]
+104: (Walter) [7a 4][7b 131076, 65537][13 0, 304824]But at its core, it is mere indulgence
+on the part of the weak.
+[->][13 0, 304825]It's a lure that turns the people into
+cowards.
+[END]
+106: (Walter) [7a 4][13 0, 304827]I would as soon not perish while
+licking each others' wounds.
+[->][13 0, 304828]I will become stronger.
+[END]
+1000: (Yamato Takeru) [7a 0][13 0, 304805]...I see that you are quite skilled.
+But we carry different burdens.
+[->][13 0, 304806]You are singular; a wild beast which
+carries nothing on its shoulders.
+[->][13 0, 304807]Know that you cannot compare to me,
+who holds a nation on his shoulders.
+I protect the people.
+[END]
+1001: ”You are merely authority's pawn.”
+”You are merely Tayama's slave.”
+Ignore him
+[END]
+1002: (Yamato Takeru) [7a 0][13 0, 304808]To protect the nation... For that
+purpose, I shall gladly be the
+government's lapdog.
+[->][13 0, 304809]I shall show you power which a beast
+that scavenges for chaos could never
+attain.
+[END]
+1003: 〉 You felt Yamato Takeru's fighting
+spirit surge...
+[END]
+1004: 〉 Yamato Takeru's attack increased!
+[END]
+1005: 〉 Yamato Takeru's defense increased!
+[END]
+1006: (Yamato Takeru) [7a 0][13 0, 304810]Urgh...!
+[->][13 0, 304811]...I do not serve this scum because
+I wish to...
+[->][13 0, 304812]An underling must fulfill his duty to
+the best of his ability.
+[END]
+1007: 〉 A pained expression spread over
+Yamato Takeru's face...
+[END]
+1008: 〉 Yamato Takeru's attack decreased!
+[END]
+1009: 〉 [Flynn] ignored him and
+pressed the attack...
+[END]
+1010: (Yamato Takeru) [7a 0][13 0, 304813]Did you truly consider the consequences
+before embarking on this course?
+[->][13 0, 304814]If such a system protected you and
+benefited you...
+[->][13 0, 304815]Would you allow this to happen?
+[END]
+1011: ”I would.”
+”I wouldn't.”
+Ignore him
+[END]
+1012: (Yamato Takeru) [7a 0][13 0, 304816]You invite destruction and chaos with
+no regard for your own well−being?
+[->][13 0, 304817]How terrifying... You are indeed a
+grave threat to this country...
+[END]
+1013: 〉 A hint of fear clouds Yamato Takeru's
+face...
+[END]
+1014: 〉 Yamato Takeru's defense decreased!
+[END]
+1015: (Yamato Takeru) [7a 0][13 0, 304818]Then you have no justification for
+simply venting your dissatisfaction?
+[->][13 0, 304819]In this case, you are but a child,
+flailing your arms in a tantrum.
+[->][13 0, 304820]You make me laugh. Learn your place!
+[END]
+1016: 〉 Yamato Takeru rebuked [Flynn]...
+[END]
+1017: 〉 All of [Flynn]'s abilities
+decreased!
+[END]
+1018: 〉 [Flynn] ignored him and
+pressed the attack...
+[END]

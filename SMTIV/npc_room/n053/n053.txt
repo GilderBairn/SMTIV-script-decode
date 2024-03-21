@@ -1,0 +1,224 @@
+0: (Ring of Gaea member) [7a 51][13 1, 404302]The Ring of Gaea recommends that
+those who yearn for power allow
+themselves to always want more.
+[->]”If you truly want, it shall be
+given.” Those are Lady Yuriko's words.
+[END]
+1: (Ring of Gaea member) [7a 51][13 1, 404302]So, even Lady Yuriko, who was praised
+as the witch of the night, could not
+stand against the sons of God...
+[->]But, not even God's glory will make
+us bow before Him.
+[->]Yes, indeed. You and your God will
+never have a complete victory.
+[END]
+2: (Ring of Gaea member) [7a 51][13 1, 404302]Both children of carnage are with
+the witch of the night. Now there is
+nothing to fear.
+[->]That goes for the demons of the
+Counter−Demon Force, now under the
+control of Tayama...
+[->]We need not fear even the National
+Defense Deities!
+[END]
+3: (Ring of Gaea member) [7a 51][13 1, 404302]Not even the warrior of light, with
+God's own chariot can make us submit.
+[->]Our belief in power cannot be crushed
+without the use of force. Even then,
+doing so does not deny our beliefs.
+[->]That's right. There will be no
+complete victory for you and your
+God...
+[END]
+4: (Ring of Gaea member) [7a 51][13 1, 404302]The Demon Lord has informed us that
+the dogs of Tokyo will strike upon
+the city.
+[->]If they are going to try to use force
+against us, then we will crash down
+upon them with even more power.
+[->]It is time to put to use all the
+strength that I have been training
+for all this time...
+[END]
+5: (Ring of Gaea member) [7a 51][13 1, 404302]You hold power that surpasses even
+the Demon Lord's... The people of
+Tokyo bow to you.
+[->]This only further proves that our
+belief that only the strong should
+rule is correct. Ha...
+[->]Hahahahahaha...!
+[END]
+6: (Ring of Gaea member) [7a 54][13 1, 404401]Ah, I remember you. It seems you've
+been very active in Ikebukuro.
+[->]It's unfortunate what happened to
+Kaga, but I have no sympathy for her.
+She died because she was weak.
+[END]
+7: (元ガイア教団の女) [7a 54][13 1, 404421]ユリコ[様/さま]の[死/し]により [私/わたし]たちは
+[大/おお]きな[喪失/そうしつ]を[被/かぶ]ることになりました
+[->]だからこそ ユリコ[様/さま]の[教/おし]えを[胸/むね]に
+その[喪失/そうしつ]を[克服/こくふく]しなければなりません
+[END]
+8: (ガイア教団の女) [7a 54][13 1, 404401]ガイアの[教義/きょうぎ]では [悪魔/あくま]は[人間/にんげん]の[化身/けしん]…
+[失/うしな]われた[半身/はんしん]と[言/い]ってもいいでしょう
+[->]さあ [魔界/まかい]の[扉/とびら]を[開/ひら]くのです
+その[半身/はんしん]と[出会/であ]うために
+[END]
+9: (元ガイア教団の女) [7a 54][13 1, 404442][悪魔/あくま]は[人間/にんげん]の[化身/けしん]…
+[失/うしな]われた[半身/はんしん]と[言/い]ってもいいでしょう
+[->][悪魔/あくま]の[溢/あふ]れる[今/いま]こそ [私/わたし]たちは
+あるべき[姿/すがた]へと[還/かえ]るのです
+[END]
+10: (ガイア教団の女) [7a 54][13 1, 404442][悪魔/あくま]は[人間/にんげん]の[化身/けしん]…
+[失/うしな]われた[半身/はんしん]と[言/い]ってもいいでしょう
+[->][悪魔/あくま]の[溢/あふ]れる[今/いま]こそ [私/わたし]たちは
+あるべき[姿/すがた]へと[還/かえ]るのです
+[END]
+11: (元ガイア教団の女) [7a 54][13 1, 404442][悪魔/あくま]は[人間/にんげん]の[化身/けしん]…
+[失/うしな]われた[半身/はんしん]と[言/い]ってもいいでしょう
+[->][邪魔/じゃま]な[天使/てんし]どもが[消/き]えた[今/いま]こそ
+[待/ま]ち[焦/こ]がれし[悪魔/あくま]との[融和/ゆうわ]を…
+[END]
+12: (ガイア教団の女) [7a 54][13 1, 404442][悪魔/あくま]は[人間/にんげん]の[化身/けしん]…
+[失/うしな]われた[半身/はんしん]と[言/い]ってもいいでしょう
+[->][邪魔/じゃま]な[天使/てんし]どもが[消/き]えた[今/いま]こそ
+[待/ま]ち[焦/こ]がれし[悪魔/あくま]との[融和/ゆうわ]を…
+[END]
+13: (元ガイア教団の女) [7a 54][13 1, 404442][悪魔/あくま]は[人間/にんげん]の[化身/けしん]…
+[失/うしな]われた[半身/はんしん]と[言/い]ってもいいでしょう
+[->][消/け]し[去/さ]れるかどうかではなく
+いかに[向/む]き[合/あ]うかが[肝要/かんよう]なのです
+[END]
+14: (Hunter man) [7a 67][13 1, 403002]...I'm surprised.
+Am I really in Tokyo right now...?
+[->]There isn't a single Ashura−kai
+member in sight, and people are
+openly badmouthing Tayama...
+[->]Most of all, to think that humans
+and demons are living together in
+the same space...
+[END]
+15: (Hunter man) [7a 67][13 1, 403002]...The Ring of Gaea guys are saying
+something about Yuriko.
+[->]It started immediately after you guys
+came back from Tsukiji Hongwanji.
+D−Don't tell me, did you guys−−!?
+[END]
+16: (Hunter man) [7a 67][13 1, 403002]The Ring of Gaea guys seem ecstatic
+for some reason.
+[->]It started immediately after you guys
+came back from Tsukiji Hongwanji.
+What did you guys do...?
+[END]
+17: (Hunter man) [7a 67][13 1, 403012]It seems the Ring of Gaea is looking
+forward to this nightmare when demons
+will pour into Tokyo...
+[->]It's not like they're just acting very
+tough about it. Are they really
+humans like us?
+[END]
+18: (Hunter man) [7a 67][13 1, 403012]I got called over by the Association's
+bartender a moment ago. It looks like
+they're doing some kind of tournament?
+[->]Seriously, why in the middle of an
+emergency like this? He's one hell
+of a salesman.
+[END]
+19: (Hunter man) [7a 67][13 1, 403002]Each city's Association must've made
+a ton of money off that Hunter
+Championship thing.
+[->]They must take hope from growing
+a business, even in a place like
+this.
+[END]
+20: (Hunter man) [7a 67][13 1, 403002]Being a Hunter seems to be a popular
+occupation with the young ones.
+[->]I mean, I'm a Hunter myself.
+It's not that I don't like it...
+[->]But, I just feel... that it'd be
+better if we weren't in a situation
+where Hunters had to exist.
+[END]
+21: (Confident woman) [7a 80][13 1, 404401]How could a frail woman like me come
+all this way?
+[->]Well, not even the Ring of Gaea
+members can resist my feminine
+charms.
+[->]But I'm nothing compared to Lady
+Yuriko, though...
+[END]
+24: (Confident woman) [7a 80][13 1, 404431]I've thought back on Lady Yuriko's
+beauty, and I've reached a conclusion.
+[->]Strength isn't all about muscular
+power. Looking at me, don't you
+agree? Femininity is real strength.
+[->]Men may be the ones that move this
+world, but any man can be controlled
+by a woman. That is the real power.
+[END]
+25: (Confident woman) [7a 80][13 1, 416100]So, a champion has been born among
+the common folk?
+[->]Well, then, since I've made it this
+far on my own charms...
+[->]I must be the champion of women.
+[END]
+26: (Confident woman) [7a 80][13 1, 416100]So, a champion has been born among
+the common folk?
+[->]Well, then, since I've made it this
+far on my own charms...
+[->]I must be the champion of women.
+[END]
+100: (Ring of Gaea member) [7a 51][13 1, 404302]So you passed the entrance exam.
+You are now a member of the Ring
+of Gaea...
+[->]If you yearn for power, then you
+should always be looking for more.
+That is what Lady Yuriko advises.
+[END]
+104: (Ring of Gaea member) [7a 51][13 1, 404302]No matter what the result of this
+battle of Armageddon between God and
+the demons is...
+[->]Our belief in the right of the strong
+to rule will never wither!
+[->]Even if I lose my limbs and must
+live in the mud, I will survive...!
+[END]
+117: (Hunter man) [7a 67][13 1, 403012]I got called over by the Association's
+bartender a moment ago. Something
+about some kind of ”event”...
+[->]Seriously, why in the middle of an
+emergency like this? He's one hell
+of a salesman.
+[END]
+200: (Ring of Gaea member) [7a 51][13 1, 404302]Sons of God, domesticated in your
+pens above the Firmament... You are
+too late.
+[->]The prophesied ”child of carnage”
+has already been drawn to our cause.
+[->]Your objective here must be Lady
+Yuriko. Hahaha! Go on, then, and
+she will destroy you utterly.
+[END]
+204: (Ring of Gaea member) [7a 51][13 1, 404302]It is an impossibility, but even if
+God were to win this battle of
+Armageddon...
+[->]Our belief in the right of the strong
+to rule will never wither!
+[->]Even if I lose my limbs and must
+live in the mud, I will survive...!
+[END]
+300: (Ring of Gaea member) [7a 51][13 1, 404302]Ah, you've come. You are the ”child
+of carnage,” as prophesied by
+Lady Yuriko.
+[->]Now, Lady Yuriko awaits you.
+Hurry and meet with her.
+[END]
+304: (Ring of Gaea member) [7a 51][13 1, 404302]The one who gained the power of the
+Demon Lord is a fellow member... He
+is the foretold ”child of carnage.”
+[->]This only further proves that our
+belief that only the strong should
+rule is correct.
+[->]Even if Tokyo were to be taken over
+by demons, I will survive!
+[END]

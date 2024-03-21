@@ -1,0 +1,32 @@
+23: (B) [13 0, 405306]Please allow me to appraise those
+for you.
+[END]
+24: (B) I can give you this much for these.
+Here you are...
+[END]
+25: (B) [13 0, 405300]Welcome, Blessed Samurai.
+[END]
+26: (B) [13 0, 405303]Might there be anything else I can
+assist you with?
+[END]
+27: (B) [13 4, 405302]Please be careful on your way.
+[END]
+28: (B) [Item 1] x[Amount 1], correct?
+That will be [Amount 2] Macca.
+[END]
+29: (B) [Item 1] x[Amount 1], correct?
+I'd pay [Amount 2] Macca for that.
+[END]
+30: (B) [13 0, 405307]Thank you very much.
+[END]
+31: (B) Would you like to equip this now?
+[END]
+32: (B) [13 0, 405305]What have you to sell?
+[END]
+33: (B) [13 0, 405304]How about this item here?
+[END]
+34: (B) [13 0, 405301]Please allow me to give you a discount.
+[END]
+55: Yes
+No
+[END]

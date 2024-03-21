@@ -1,0 +1,62 @@
+0: 〉 You feel an extremely terrifying
+presence nearby...
+[->]〉 Will you remain here?
+[END]
+1: Yes
+No
+[END]
+2: 〉 Do you really wish to remain here?
+[END]
+3: 〉 You leave the area...
+[END]
+4: (Dignified voice) [7a 65048][13 0, 681000]So, you have defeated the four
+knights.
+[END]
+5: (Belial) [7a 65048][13 0, 681001]I am Belial, one of the demon lords
+who were cast down onto the Earth.
+[->][13 0, 681002]I never expected that someone could
+repeatedly repel the messengers of
+God, as you did.
+[->][13 0, 681003]Interesting...
+You are very interesting.
+[->][13 0, 681004]Most unfortunately, you are a son
+of man from another world.
+[->][13 0, 681005]...Indeed, I have waited for a human
+of this world to do as you did. But,
+not a single one has.
+[->][13 0, 681006]Perhaps... All who could have perished
+before they could show themselves.
+[->][13 0, 681007]Still, a promise is a promise.
+This is your reward.
+[END]
+6: (Belial) [7a 65048][13 0, 681008]Farewell.
+[->][13 0, 681009]Perhaps we shall meet again, in
+another world.
+[->][13 0, 681010]If we do, give me your regards.
+[->][13 0, 681011]Or... you can prepare for death.
+[END]
+7: 〉 Belial leaves...
+[END]
+8: 〉 A demon appears before you...
+[->]〉 He does not seem to be an enemy.
+[END]
+11: 〉 There is no one here...
+[->]〉 Still, you feel an unknown presence
+in the room.
+[END]
+12: (Dignified voice) [7a 65048][13 1, 461004]You are early, son of man from 
+another world.
+[END]
+13: 〉 A dignified voice echoed throughout the room.
+[END]
+14: (Dignified voice) [7a 65048][13 1, 461001]To come here without assistance from
+anyone is quite a feat...
+[->]However, this is not the time for
+such talk. Until then... farewell,
+son of man!
+[END]
+15: 〉 The area is suddenly enveloped
+in darkness...
+[END]
+900: 〉 There is no one here...
+[END]

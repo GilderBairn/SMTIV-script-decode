@@ -1,0 +1,406 @@
+0: Dummy
+[END]
+1: [71 1]I believe I said once already that
+I would strike you down.
+[->]Now let us do battle!
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]I believe I said once already that
+I would strike you down.
+[->]Now let us do battle!
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]NOT USED
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]NOT USED
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]NOT USED
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]NOT USED
+[->][END]
+33: NOT USED
+[END]
+34: [71 1]Carryong on in the midst of a battle?
+What is he thinking...!?
+[->]Even if I were willing to entertain the
+notion, you would need to make it worth
+my while.
+[->][END]
+35: NOT USED
+[END]
+36: [71 1]Oh, very well. I can at least keep a
+civil tongue long enough to engage in
+some pointless banter.
+[->][END]
+37: NOT USED
+[END]
+38: [71 1]Pointless banter during combat, eh?
+Very stylish. Just what I like to see!
+[->][END]
+39: NOT USED
+[END]
+40: [71 1]It's been a while since I engaged in
+such pointless banter... I can't help
+but go on and on.
+[->][END]
+41: NOT USED
+[END]
+42: [71 1]You want mercy? Then you had better
+make it very worth my while.
+[->][END]
+43: NOT USED
+[END]
+44: [71 1]Despite dealing with the likes of you...
+Very well. I'll show you mercy.
+[->][END]
+45: NOT USED
+[END]
+46: [71 1]This is my only rest... within sorrow...
+Please... do not disturb it...
+[->]If you want assistance... I'll give it...
+[->][END]
+47: NOT USED
+[END]
+48: NOT USED
+[END]
+49: [71 1]Having mercy's not so bad. Why, I'd
+even do it again.
+[->][END]
+50: NOT USED
+[END]
+51: [71 1]Supply you with funds? A young one like
+you should find his own...
+[->][END]
+52: NOT USED
+[END]
+53: [71 1]What is this...? Do the youth of this
+country lust for nothing but money!?
+[->][END]
+54: NOT USED
+[END]
+55: [71 1]You seem to have entirely sold your
+pride and self−worth.
+[->]I shall strike you down!
+[->][END]
+56: NOT USED
+[END]
+57: [71 1]D−Damn it...!
+[->][END]
+58: NOT USED
+[END]
+59: [71 1]Stop it...! What about your pride
+and self−worth...!?
+[->][END]
+60: NOT USED
+[END]
+61: [71 1]Stop this! I'll give you money, if that
+is what you want. But I'll be a party
+to this no longer!
+[->]I don't want to weep for the youth of
+this country any further...!
+[->][END]
+62: NOT USED
+[END]
+63: [71 1]...That's it!
+[->][END]
+64: NOT USED
+[END]
+65: [71 1]Supply you with funds? A young one like
+you should find his own...
+[->][END]
+66: NOT USED
+[END]
+67: [71 1]You want to negotiate, eh? Very well,
+as long as it does not involves Reds.
+[->][END]
+68: NOT USED
+[END]
+69: [71 1]Our negotiations are complete.
+Now, take this.
+[->][END]
+70: NOT USED
+[END]
+71: [71 1]Hahaha...! I will give you anything
+you ask.
+[->]However... that does not include Reds!
+[->][END]
+72: NOT USED
+[END]
+73: [71 1]I may as well give you this, too.
+[->][END]
+74: NOT USED
+[END]
+75: [71 1]...The less time this takes, the better.
+Let's finish this in one swift strike.
+[->][Color:0x1][Amount 1] Macca.[Color:0x0]
+If you can pay that much, then...
+[->][END]
+76: NOT USED
+[END]
+77: [71 1][Color:0x1][Item 1][Color:0x0] is what I want.
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]Give me [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]Give me [Color:0x1]a little[Color:0x0] of your stamina.
+[->][END]
+82: NOT USED
+[END]
+83: [71 1]Give me [Color:0x1]some[Color:0x0] of your stamina.
+[->][END]
+84: NOT USED
+[END]
+85: [71 1]Give me [Color:0x1]a lot[Color:0x0] of your stamina.
+[->][END]
+86: NOT USED
+[END]
+87: [71 1]Give me [Color:0x1]the majority[Color:0x0] of your stamina.
+[->][END]
+88: NOT USED
+[END]
+89: [71 1]Give me [Color:0x1]a little[Color:0x0] of your spirit.
+[->][END]
+90: NOT USED
+[END]
+91: [71 1]Give me [Color:0x1]some[Color:0x0] of your spirit.
+[->][END]
+92: NOT USED
+[END]
+93: [71 1]Give me [Color:0x1]a lot[Color:0x0] of your spirit.
+[->][END]
+94: NOT USED
+[END]
+95: [71 1]Give me [Color:0x1]the majority[Color:0x0] of your spirit.
+[->][END]
+96: NOT USED
+[END]
+97: [71 1]Your demon there... I want that
+[Color:0x1][Demon name 2]'s life.[Color:0x0]
+[->][END]
+98: NOT USED
+[END]
+99: [71 1][Color:0x1]That...[Color:0x0] Yes, [Color:0x1]that[Color:0x0] is exactly
+what I want.
+[->][END]
+100: NOT USED
+[END]
+101: [71 1]Can you figure out what I want?
+[->][END]
+102: NOT USED
+[END]
+103: [71 1]That's right. Your intuition serves
+you well.
+[->][END]
+104: NOT USED
+[END]
+105: [71 1]You don't understand at all...
+[->][END]
+106: NOT USED
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]There, that should be enough.
+[->][END]
+121: NOT USED
+[END]
+122: [71 1]Hah, this is nice. I like it...!
+[->][END]
+123: NOT USED
+[END]
+124: [71 1]Is that so...? I see.
+[->][END]
+125: NOT USED
+[END]
+126: [71 1]Trying to hold out on me, eh? You'll
+pay for that.
+[->]I'll cut you down!
+[->][END]
+127: NOT USED
+[END]
+128: [71 1]That's enough. No more of this.
+[->][END]
+129: NOT USED
+[END]
+130: [71 1]Trying to cheat me, eh? You'll pay
+for that.
+[->]I'll cut you down!
+[->][END]
+131: NOT USED
+[END]
+132: [71 1]...So you don't have it.
+[->][END]
+133: NOT USED
+[END]
+134: [71 1]If you don't have any Life Stones,
+there's no point in any of this.
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]...Bah, that went on for far too long.
+Shame on me for being so churlish.
+[->][END]
+137: NOT USED
+[END]
+138: [71 1]You tried to hold out on me, eh?
+You'll pay for that.
+[->]I'll cut you down!
+[->][END]
+139: NOT USED
+[END]
+140: [71 1]I'm impressed that you won't yield an
+inch to my demands.
+[->][END]
+141: NOT USED
+[END]
+142: [71 1]Throughout these negotiations, you've
+given me everything I want...
+[->]But what I really want is for the youth
+of Tokyo not to be so spineless.
+[->][END]
+143: NOT USED
+[END]
+144: [71 1]A youth who fights despite having
+nothing in the world...
+[->]Your spirit is impressive.
+[->][END]
+145: NOT USED
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: [71 1]Are we on this subject again...?
+I'm growing bored of it, you know.
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]...I had wept for the fate of this
+country alone for a while.
+[->]But now, [Flynn], you and I must
+go to see our pride through.
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USED
+[END]
+171: [71 1]NOT USED
+[->][END]
+172: [71 1]NOT USED
+[->][END]
+173: [71 1]NOT USED
+[->][END]
+174: [71 1]NOT USED
+[->][END]

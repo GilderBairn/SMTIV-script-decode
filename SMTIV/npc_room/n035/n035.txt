@@ -1,0 +1,175 @@
+0: (Emotional man) [7a 60][13 1, 403021]I... I did it! I just kicked an
+Ashura−kai goon!
+[->]I−I've got no regrets! We just saved
+Ikebukuro!
+[END]
+1: (Emotional man) [7a 60][13 1, 403002]Hey! W−We're surrounded by demons now!
+Wh−What the hell's the Ashura−kai doing!?
+[->]You've gotta save us! I'll do anything!
+I'll lick your boots, if that's what
+you want!
+[END]
+2: (Emotional man) [7a 60][13 1, 403041]Hunters are fighting fiercely thesedays...
+Is this the effect of the overall ranking?
+[->]M−Maybe... We just might defeat demons...
+[END]
+3: (Emotional man) [7a 60][13 1, 403002]Hey! Th−There's demons everywhere now!
+And not just that, but the angels are
+coming too!
+[->]Y−You're the champion, right!? Help us!
+I−I'll even lick your boots clean if
+you do!
+[END]
+4: (Emotional man) [7a 60][13 1, 403002]I−I hear there are some strange folks
+in the Shinjuku area...
+[->]Now that the demons are gone... Maybe I
+should go see what's up there...
+[END]
+5: (Bookworm) [7a 59][13 1, 403221]...That's not what I heard! They said
+once the Ashura−kai was kicked out,
+they'd release it!
+[->]I can't get to the east entrance station
+because of that demon's Domain! How am I
+supposed to go to Juraku Books!?
+[->]I really shouldn't have trusted that
+foreign demon...
+[END]
+6: (Bookworm) [7a 59][13 1, 403212]I−I'm sure it's all fine. Even if there
+are more demons, we have the Ring of
+Gaea, don't we?
+[->]We've joined forces to oust the
+Ashura−kai before... I'm sure they'll
+help us in our time of crisis!
+[END]
+7: (Bookworm) [7a 59][13 1, 403242]I hear the Hunter tournament is getting
+pretty heated!
+[->]Hmm... I guess this is no time to
+keep my nose in a book... I'd better
+check it out!
+[END]
+8: (Bookworm) [7a 59][13 1, 403203]Relying on the Ring of Gaea in Ginza
+never changed anything, after all...
+[->]But after seeing how hard the champion
+works, I feel something inside of me
+has changed.
+[->]Of course, the future is still very
+uncertain. But at least we have hope...
+[END]
+9: (Bookworm) [7a 59][13 1, 403232]The demons are no more. I guess our
+excuse to waste time underground has
+gone with them, eh?
+[->]Then perhaps I should get a job at
+Juraku Books again. Books would help the
+people working on rebuilding to relax...
+[->]Yes... I think that will be my role in
+the new Tokyo...
+[END]
+10: (Nosy Samurai) [7a 117][13 1, 404303]Even the Eastern Kingdom of Mikado is
+becoming infested with demons...
+[->]'Tis better to devote oneself to
+finding mystic relics in Tokyo, no?
+[->]Particularly in light of the side
+benefits...
+[END]
+16: (Hunter woman) [7a 70][13 1, 403122]Everyone's pissed at the Ashura−kai, and
+I kinda get why. It's like it used to be
+with normal businesses, y'know?
+[->]Your employer took care of you
+financially. Well, the Ashura−kai
+takes care of us too.
+[->]...But since the Association is gone
+now, I'm getting out of here soon too.
+[END]
+17: (Hunter woman) [7a 70][13 1, 403103]Fujiwara told me that even with the
+demons gone, the Association will stay
+in business.
+[->]He said they'll need Hunters like us
+for the reconstruction of Tokyo.
+[->]Maybe he was anticipating this situation
+would come about someday... and that's
+why he formed the Association.
+[END]
+100: (Emotional man) [7a 60][13 1, 403021]Xi Wangmu is gone... the Ring of Gaea
+isn't coming anymore...
+[->]So who's going to be in charge of
+Ikebukuro? Who's going to protect
+us from the demons...?
+[->]I−It's gotta be the Ashura−kai, right!?
+They are coming back here, right!?
+[END]
+101: (Emotional man) [7a 60][13 1, 403002]Hey! Th−There's demons everywhere now!
+Somebody! Help us! Please, I'll do
+anything!
+[->]I don't give a damn if you're with the
+Ashura−kai or what! I'd even lick your
+boots clean if you help me!
+[END]
+103: (Emotional man) [7a 60][13 1, 403002]Hey! Th−There's demons everywhere now!
+And not just that, but something called
+the Demon Lord is coming too!
+[->]Y−You're the champion, right!? Help us!
+I−I'll even lick your boots clean if
+you do!
+[END]
+105: (Bookworm) [7a 59][13 1, 403241]The strange wall blocking the east
+station entrance has suddenly
+disappeared.
+[->]Are you a Hunter? This must be nice
+timing for you.
+[->]Now you can go through the northeast
+exit to reach Juraku Books and do
+some reading!
+[END]
+110: (Nosy Samurai) [7a 117][13 1, 404342]Abbot Hugo has sent a message to all
+Samurai in Tokyo.
+[->]It seems to be a matter of the utmost
+importance... Eh? Shene Duque?
+[->]I've received no messages regarding
+that village...
+[END]
+116: (Hunter woman) [7a 70][13 1, 403103]...Hey, it's you. You're the one who
+killed Xi Wangmu, right?
+[->]Everyone's talking about you. Even in
+Ueno and Shinjuku. A young, highly
+talented Hunter...
+[->]But what brought you to Ikebukuro?
+The Association is gone now. I was
+just on my way out too.
+[END]
+200: (Emotional man) [7a 60][13 1, 403021]What the hell is the Ashura−kai doing
+now!? The reconstruction of Ikebukuro
+is going nowhere!
+[->]At this rate, who's going to be in
+charge of Ikebukuro? Who's going to
+protect us from the demons...!?
+[END]
+205: (Bookworm) [7a 59][13 1, 403242]You know, I saw a woman in a black suit
+get taken away from Juraku Books...
+[->]Wait... You guys were with her at the
+time, weren't you?
+[->]Just what did she do...? 
+[END]
+300: (Emotional man) [7a 60][13 1, 403021]What the hell is the Ashura−kai doing
+now!? The reconstruction of Ikebukuro
+is going nowhere!
+[->]I can't take this anymore...! If no
+one else will step up and make it
+happen, I'll take over myself!
+[->]And if anyone's got a problem with
+that, they can say it to my fist!
+[END]
+305: (Bookworm) [7a 59][13 1, 403242]According to rumor, the Ring of Gaea's
+Yuriko went in and out of Ikebukuro
+alone many times.
+[->]For the leader of a huge organization
+like that to visit this demon−infested
+region... without any bodyguards...
+[->]Yuriko must be very confident in her
+power, and have very trusting minions
+to let her travel on her own...
+[END]
+400: (Emotional man) [7a 60][13 1, 403031]I did it... I did it again...!
+I kicked an Ashura−kai goon!
+[->]I−I've got no regrets! We'll rebuild
+Ikebukuro our own damn selves!
+[END]

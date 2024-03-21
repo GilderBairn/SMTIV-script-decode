@@ -1,0 +1,679 @@
+0: Dummy Message
+[END]
+1: [71 1]Fight...! Fight!
+[->]We must... expel the foreign
+invaders... from the homeland...
+For Japan!
+[->][END]
+2: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]A truce...? Outsider... what right
+do you have to peace here...?
+[->]I must fight...!
+I must kill...!
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]No... Your battalion is full.
+We cannot join forces...
+[->][END]
+13: [71 1]I am... [Color:0x5][Demon race 1] [Demon name 1]...[Color:0x0]
+Let us fight... for our country...
+[->][END]
+14: [71 1]Your level... of patriotism...
+is not high enough...
+[->]I can't... team up... with you...
+[->][END]
+15: [71 1]I see... My comrade is serving...
+under your command...
+[->]Keep serving... your country...
+my friend!
+[->][END]
+16: [71 1]Are there... any fellow patriots...?
+Allow me... to ask around...
+[->][END]
+17: [71 1]But... Your ranks are too full...
+We cannot invite new recruits...
+[->][END]
+18: [71 1]Wait... my comrade... I shall... fight with you...
+[->][END]
+19: [71 1]Never mind them...
+We are... strong enough...
+[->][END]
+20: [71 1]Now... I shall join...
+your platoon...
+[->][END]
+21: [71 1]Let me call upon... my friends...
+[->]They are all... quite fierce...
+and loyal...
+[->][END]
+22: [71 1]Reporting... for duty...!
+Are you... my new CO...?
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]Are you... telling me... to stop
+fighting... for the homeland...?
+[->]Then... give me... supplies...
+[->][END]
+26: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+27: [71 1]Go... and continue...
+to love your country...
+[->][END]
+28: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+29: [71 1]Even the best... of patriots...
+need sleep... Don't bother... me...
+[->]Just... leave...
+[->][END]
+30: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+31: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+32: [71 1]I'll... heal you... This is...
+something... only patriotism...
+can achieve...
+[->][END]
+33: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+34: [71 1]You want... information? All right...
+But I must have... supplies...
+[->][END]
+35: Reserve
+[END]
+36: [71 1]Let's share war stories...
+and tales of patriotism...
+[->][END]
+37: Reserve
+[END]
+38: [71 1]Oh... You want... to talk...
+about serving our nation...?
+[->]Of course... I would be...
+happy to...!
+[->][END]
+39: Reserve
+[END]
+40: [71 1]Oooooh...! My love... for my
+country... can't stop...
+[->][END]
+41: Reserve
+[END]
+42: [71 1]You wish... for mercy...
+from a patriot...?
+[->]Then... Give me supplies...
+[->][END]
+43: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+44: [71 1]It seems... you too... are a
+patriot... I'll heal you...
+[->][END]
+45: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+46: [71 1]Even war heroes need rest...
+[->]You, too... should recover...
+[->][END]
+47: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+48: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+49: [71 1]Fellow patriot... I shall...
+heal you even more...
+[->][END]
+50: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+51: [71 1]Why would... I give you my spoils
+of war...?
+[->][END]
+52: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+53: [71 1]One day... I'll have you shot...
+for treason...!
+[->][END]
+54: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+55: [71 1]In the name of Japan... I punish
+you... to death!
+[->][END]
+56: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+57: [71 1]Whyyyyy...
+[->][END]
+58: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+59: [71 1]Stop it... you... traitor...!
+[->][END]
+60: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+61: [71 1]Urgh... Do not... defile my
+patriotism... with money...!
+[->]You can... have it...!
+[->][END]
+62: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+63: [71 1]Arrrrrgh...! You... will be shot...!
+[->][END]
+64: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+65: [71 1]What...? You...? My country does not
+negotiate with... the likes of you...
+[->][END]
+66: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+67: [71 1]You wish for... supplies...
+from a patriot...?
+[->]Then... give me... your supplies...
+[->][END]
+68: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+69: [71 1]Here are... the goods... Use them...
+in our battle for... our country!
+[->][END]
+70: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+71: [71 1]My friend... I will not hold
+nothing back... from you...
+[->][END]
+72: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+73: [71 1]Make us... of this... as well...
+[->][END]
+74: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+75: [71 1]NOT USED
+[->][END]
+76: NOT USED
+[END]
+77: [71 1]I order you... to hand over...
+[Color:0x1][Item 1]...[Color:0x0] 
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]I order you... to hand over...
+[Color:0x1][Amount 1] Macca...[Color:0x0]
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]I order you... to hand over...
+[Color:0x1]a minor amount...[Color:0x0]
+of your [Color:0x1]life...[Color:0x0]
+[->][END]
+82: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+83: [71 1]I order you... to hand over...
+[Color:0x1]a small amount...[Color:0x0]
+of your [Color:0x1]life...[Color:0x0]
+[->][END]
+84: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+85: [71 1]I order you... to hand over...
+[Color:0x1]a major amount...[Color:0x0]
+of your [Color:0x1]life...[Color:0x0]
+[->][END]
+86: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+87: [71 1]I order you... to hand over...
+[Color:0x1]an extreme amount...[Color:0x0]
+of your [Color:0x1]life...[Color:0x0]
+[->][END]
+88: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+89: [71 1]I order you... to hand over...
+[Color:0x1]a minor amount...[Color:0x0]
+of your [Color:0x1]spirit...[Color:0x0]
+[->][END]
+90: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+91: [71 1]I order you... to hand over...
+[Color:0x1]a small amount...[Color:0x0]
+of your [Color:0x1]spirit...[Color:0x0]
+[->][END]
+92: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+93: [71 1]I order you... to hand over...
+[Color:0x1]a major amount...[Color:0x0]
+of your [Color:0x1]spirit...[Color:0x0]
+[->][END]
+94: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+95: [71 1]I order you... to hand over...
+[Color:0x1]an extreme amount...[Color:0x0]
+of your [Color:0x1]spirit...[Color:0x0]
+[->][END]
+96: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+97: [71 1]Your ally... [Color:0x1][Demon name 2]...[Color:0x0]
+is a war criminal... I demand that
+you hand over the prisoner...
+[->][END]
+98: NOT USED
+[END]
+99: [71 1]I order you... to hand over...
+[Color:0x1]that...[Color:0x0]
+[->][END]
+100: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+101: [71 1]If you're... a fellow patriot...
+then you should know... what
+supplies... I want...
+[->][END]
+102: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+103: [71 1]You are... a true patriot...
+[->][END]
+104: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+105: [71 1]So... your patriotism...
+is that low...?
+[->][END]
+106: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]Yes... This should... do...
+[->][END]
+121: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+122: [71 1]This... is more than sufficient...
+[->][END]
+123: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+124: [71 1]You... refuse me...?
+[->][END]
+125: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+126: [71 1]You withhold supplies... from me...
+You underestimate... my mission...
+[->]For the sake... of our country...
+I must punish you...!
+[->][END]
+127: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+128: [71 1]You have... disappointed me...
+[->][END]
+129: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+130: [71 1]You withhold the truth... from me...
+You underestimate... my mission...
+[->]For the sake... of our country...
+I must punish you...!
+[->][END]
+131: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+132: [71 1]Worthless... fool...
+[->][END]
+133: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+134: [71 1]You cannot say... you love... your
+country... without a Life Stone...
+[->][END]
+135: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+136: [71 1]Being too greedy... would hurt...
+the name... of our country...
+[->]This... should be... enough...
+[->][END]
+137: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+138: [71 1]You dare... cut me off...?
+You underestimate... my mission...
+[->]For the sake... of our country...
+I must punish you...!
+[->][END]
+139: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+140: [71 1]Standing up for yourself...
+Your bravery is impressive...
+[->]You are a patriot...
+[->][END]
+141: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+142: [71 1]You are a coward... Afraid to tell
+me your real thoughts...
+[->]You are... an eyesore... Begone...
+[->][END]
+143: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+144: [71 1]Even without... any supplies...
+you fight... for our homeland...
+[->]I am... impressed...
+[->][END]
+145: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+146: [71 1]Fall back...
+[->][END]
+147: NOT USED
+[END]
+148: [71 1][Flynn]...
+We meet again...
+[->]Are you... as patriotic... as ever...?
+[->][END]
+149: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+150: [71 1]Normally... I would refuse...
+but I was commanded to come...
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]We are... both patriots...
+There is... no reason...
+for us to fight...
+[->]Farewell... soldier...
+May we... meet again...
+[->][END]
+153: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+154: [71 1]Let us... talk about... patriotism...
+[->][END]
+155: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+156: [71 1]It is... only natural... to help...
+our comrades...
+[->][END]
+157: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+158: [71 1]To fight... for our homeland...
+funds are needed...
+[->]Take this... with you...
+[->][END]
+159: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+160: [71 1]To fight... for our homeland...
+funds are needed...
+[->]Take this... with you...
+[->][END]
+161: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+162: [71 1]Even if... you are... a patriot...
+I grow tired... of the same talk...
+[->][END]
+163: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+164: [71 1]I finally... found you...
+Comrade [Flynn]...
+[->]Let us... go...
+To the battlefield... of heroes...
+[->][END]
+165: [71 1]Don't kill... me...
+We are... both... patriots...
+[->]I'll do... anything... Name it...
+[->][END]
+166: Reserve
+[END]
+167: [71 1]A patriot... never goes back...
+on his word...
+[->][END]
+168: Reserve
+[END]
+169: [71 1]I shall die... for my country...!
+[->][END]
+170: Reserve
+[END]
+171: [71 1]Reserve
+[->][END]
+172: [71 1]Reserve
+[->][END]
+173: [71 1]Reserve
+[->][END]
+174: [71 1]Reserve
+[->][END]

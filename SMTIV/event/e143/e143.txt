@@ -1,0 +1,453 @@
+0: 〉 You hear a voice...
+[END]
+1: (Voice) [7a 20][13 0, 143001]Do you see more clearly what kind of
+human you are now?
+[END]
+2: (Black Samurai) [7a 13][7b 65549, 65537][7b 655365, 65537][13 0, 143002]I didn't think that I'd meet subjects of
+the Eastern Kingdom of Mikado here.
+[END]
+3: (Jonathan) [7a 3][7b 131075, 65537][13 0, 143003]You're the Black Samurai...! Why are
+you here!?
+[END]
+4: (Isabeau) [7a 5][13 0, 143004]She truly still lives...
+[END]
+5: (Black Samurai) [7a 13][7b 65549, 65537][13 0, 143005]Enough with the formalities. We're all
+acquainted with each other, yes?
+[END]
+6: (Black Samurai) [7a 13][7b 65549, 65537][13 0, 143006]So you can call me Yuriko.
+[END]
+7: (Walter) [7a 4][7b 458756, 131073][7b 458757, 65537][13 0, 143007]Yuriko...!?
+[->][13 0, 143008]You're Yuriko!?
+[END]
+8: (Burroughs) [7a 2][13 0, 143009]Well, that's a shock. Hmm, that means...
+[END]
+9: (Burroughs) [7a 2][13 0, 143010]”Kill the Black Samurai” and ”Kill
+Yuriko”...
+[->][13 0, 143011]They're the same quest!
+[END]
+10: (Jonathan) [7a 3][7b 131075, 65537][7b 655365, 131073][13 0, 143012]'Tis an ill twist of fate, our task
+and Tayama's wishes dovetailing so.
+[END]
+11: (Yuriko) [7a 13][7b 262157, 65537][13 0, 143013]Are you going to kill me, the way
+Tayama and Gabby coerced you to?
+[END]
+12: (Yuriko) [7a 13][7b 262157, 65537][13 0, 143015]Hmhmhm...
+[END]
+13: (Yuriko) [7a 7][13 0, 143016]Hmhmhmhahahaha......
+[END]
+14: (Demon) [7a 206][7b 65742, 65537][13 0, 143017]I am Lilith...
+[END]
+15: (Lilith) [7a 206][7b 65742, 65537][13 0, 143018]I have observed this world from before
+the birth of your species.
+[END]
+16: (Walter) [7a 4][7b 196612, 65537][13 0, 143019]The Black Samurai... she's a demon!
+[END]
+17: (Jonathan) [7a 3][7b 131075, 65537][7b 131077, 65537][7b 131076, 65537]'Tis an error, my dear Atlus comrades!
+[END]
+18: (Isabeau) [7a 5][7b 655365, 65537][13 0, 143020]Then it was by a demon's hand that
+the foul books were carried into
+our kingdom.
+[END]
+19: (Jonathan) [7a 3][7b 131075, 65537][13 0, 143021]You are a monster who reduced our
+countrymen to base demons!
+[->][7b 131075, 65537][13 0, 143022]And I shall have your head for it!
+[END]
+20: (Lilith) [7a 206][7b 65742, 65537][13 0, 143023]Since you seem incapable of subtlety,
+let me explain something to you.
+[END]
+21: (Lilith) [7a 206][7b 65742, 65537][13 0, 143024]It wasn't me who changed them into
+demons. It's the natural result of
+humans suppressing their desires.
+[END]
+22: (Isabeau) [7a 5][7b 131077, 65537][13 0, 143025]Do you mean to say that... humans and
+demons are the same in essence?
+[END]
+23: (Lilith) [7a 206][7b 65742, 65537][13 0, 143026]Exactly. It isn't demons you should
+hate.
+[END]
+24: (Jonathan) [7a 3][7b 131075, 65537][13 0, 143027]Pay no heed to this nonsense, Isabeau!
+[END]
+25: (Lilith) [7a 206][7b 65742, 65537][13 0, 143028]Listen, children of man. You have
+witnessed it.
+[->][13 0, 143029]You have seen yourself the emotions of
+the people of the Eastern Kingdom
+of Mikado as they became demons.
+[END]
+26: (Lilith) [7a 206][7b 65742, 65537][13 0, 143030]Those absurd rules created to bend the
+ignorant to their will...
+[->][13 0, 143031]That is what you humans should reserve
+your hatred for.
+[END]
+27: (Walter) [7a 4][7b 786436, 131073][13 0, 143032]”Absurd rules”...?
+[END]
+28: (Lilith) [7a 206][7b 65742, 65537][13 0, 143033]I simply want to restore the human
+world to its natural order.
+[->][13 0, 143034]A state unbound by the whims of rulers,
+where the strong can shape the world
+as they please...
+[END]
+29: (Lilith) [7a 206][7b 65742, 65537][13 0, 143035]Tokyo... and of course, your Eastern
+Kingdom of Mikado as well.
+[END]
+30: (Walter) [7a 4][7b 196612, 65537][13 0, 144023]......
+[END]
+31: (Jonathan) [7a 3][7b 131075, 65537][13 0, 143037]I'll waste not one word rebutting this
+blasphemy! I shall smite you now!
+[END]
+32: (Walter) [7a 4][7b 196612, 65537][13 0, 143038]...Hold, Jonathan.
+[END]
+33: (Walter) [7a 4][7b 786436, 131073][13 0, 143039]Yuriko... or rather, Lilith.
+[->][13 0, 143040]This talk of a world which the strong
+can reshape as they see fit...
+[END]
+34: (Walter) [7a 4][7b 65540, 131073][13 0, 143041]In such a world, provided that he had
+the strength, could a Casualry do as
+he pleased?
+[END]
+35: (Jonathan) [7a 3][7b 131075, 65537][13 0, 143042]Walter! I warned you against allowing
+her words purchase! We are here to
+strike her down...!
+[->][13 0, 143043]Demon... prepare yourself!
+[END]
+36: 〉 Walter stopped Jonathan's strike with
+his own blade.
+[END]
+37: (Walter) [7a 4][7b 131076, 65537][13 0, 143045]...I said to hold, Jonathan!
+[END]
+38: (Jonathan) [7a 3][7b 458755, 65537][13 0, 143046]What...!?
+[END]
+39: (Walter) [7a 4][7b 131076, 65537][7b 131075, 65537][13 0, 143047]Lilith, this world... How would you
+bring it about?
+[END]
+40: (Lilith) [7a 206][7b 65742, 65537][13 0, 143048]You have an important role... not as
+Samurai, but as humans...
+[END]
+41: (Walter) [7a 4][7b 196612, 65537][13 0, 143049]We have a role...?
+[END]
+42: (Lilith) [7a 206][7b 65742, 65537][13 0, 143050]First, gain knowledge and wisdom.
+[END]
+43: (Lilith) [7a 206][7b 65742, 65537][13 0, 143051]You know of the Hills in Roppongi, yes?
+[->][13 0, 143052]There is a facility below ground there,
+run by Tayama.
+[->][13 0, 143053]Go and have a look for yourselves.
+You will see there what true evil is.
+[END]
+44: (Lilith) [7a 206][7b 65742, 65537][13 0, 143054]But if that doesn't sway your
+opinion... Then I'll be happy to
+stand as your adversary.
+[END]
+45: (Walter) [7a 4][7b 196612, 65537][13 0, 143055]My friends, I am sorry, but refrain
+from killing Yuriko until I return.
+[END]
+46: (Jonathan) [7a 3][7b 458755, 131073][13 0, 143056]Walter, what are you saying...?
+[END]
+47: (Walter) [7a 4][7b 65540, 131073][13 0, 143057]I must know what this ”true evil” is...
+[->][13 0, 143058]And what true role we humans have
+to play.
+[END]
+48: (Jonathan) [7a 3][7b 131075, 65537][13 0, 143059]Those are lies from the honeyed lips
+of a demon!
+[->][13 0, 143060]Humanity has no ”true role”!
+[END]
+49: (Walter) [7a 4][7b 196612, 65537][13 0, 143061]In all my eighteen years, there's one
+thing I've never once considered...
+[->][7b 131076, 65537][13 0, 143062]...Changing the world.
+[END]
+50: (Isabeau) [7a 5][13 0, 143066]Oh, look...
+[END]
+51: (Jonathan) [7a 3][7b 131075, 65537][13 0, 143067]Walter!
+[END]
+52: (Walter) [7a 4][13 0, 143068]Ah...!
+[END]
+53: 〉 Walter ran off.
+[END]
+54: (Hikaru) [7a 20][13 0, 143069]Hi there.
+[END]
+55: (Hikaru) [7a 20][7b 65556, 65537][13 0, 143070]You're not all together today, huh?
+[->][13 0, 143071]Did you have an argument?
+[END]
+56: (Isabeau) [7a 5][7b 131077, 65537][13 0, 143072]What were you discussing with Walter?
+Out with it.
+[END]
+57: (Hikaru) [7a 20][7b 65556, 65537][13 0, 143073]He wanted to go under Roppongi, so I
+told him about someone who might know
+how to get there.
+[->][13 0, 143074]He's a guy called Fujiwara in Shinjuku.
+[END]
+58: (Hikaru) [7a 20][7b 65556, 65537][13 0, 143075]Okay, I'll be going now...
+[END]
+59: (Hikaru) [7a 20][13 0, 143076]Oh, that's right!
+[->][13 0, 143077]If you run into him, tell him that
+Florida is a members−only cafe.
+[END]
+60: (Hikaru) [7a 20][13 0, 143078]That matchbox proves you're a member.
+[END]
+61: 〉 Before he knew it, there was a box
+of matches in [Flynn]'s hand...
+[->]〉 Obtained the Matchbox.
+[END]
+62: (Hikaru) [7a 20][13 0, 143079]Hope you find him!
+[END]
+63: 〉 Hikaru walked away.
+[END]
+64: (Hikaru) [7a 20][7b 262164, 65537][13 0, 143090]Hi there.
+[END]
+65: (Walter) [7a 4][7b 655364, 65537][13 0, 143091]You're...! Why the devil are you here!?
+[END]
+66: (Skinny man) [7a 18][7b 65554, 65537][13 0, 143092]Are these the people you were talking
+about, Hikaru?
+[END]
+67: (Hikaru) [7a 20][7b 65556, 65537][13 0, 143093]They sure are!
+[END]
+68: (Heavily sutured man) [7a 19][7b 458771, 65537][13 0, 143094]So, Medusa still being alive was one
+of the Ashura−kai's lies after all.
+[END]
+69: (Skinny man) [7a 18][7b 65554, 65537][13 0, 143095]We already know about most of your
+accomplishments.
+[END]
+70: (Skinny man) [7a 18][7b 262162, 65537][13 0, 143096]You passed through Naraku, right?
+[->][13 0, 143097]Did you hit up the Terminal in there?
+[END]
+71: (Jonathan) [7a 3][7b 458755, 131073][7b 196612, 65537][13 0, 143098]How do you know about that...?
+[END]
+72: (Skinny man) [7a 18][7b 262162, 65537][13 0, 143099]You mean the place above the
+Firmament? The Eastern Kingdom of
+Mikado, right? I know a little.
+[->][13 0, 143100]We were still young then. Weren't we,
+Skins?
+[END]
+73: (Skins) [7a 19][7b 458771, 65537][13 0, 143101]Heh... Thanks to those days, I'm
+better at stitching up wounds than
+your average sawbones.
+[END]
+74: (Walter) [7a 4][7b 786436, 131073][7b 786435, 65537][13 0, 143102]Pardon, but I didn't come here to
+make idle conversation.
+[->][13 0, 143103]I want to talk with Fujiwara.
+[END]
+75: (Skinny man) [7a 18][7b 262162, 65537][7b 458771, 65537][13 0, 143104]You want to go below Roppongi, right?
+[->][13 0, 143105]...Fujiwara's me.
+[END]
+76: (Fujiwara) [7a 18][7b 262162, 65537][13 0, 143108]I don't mind giving you some info.
+[->][13 0, 143109]But do you mind if I speak my piece
+a little first?
+[END]
+77: (Fujiwara) [7a 18][7b 196626, 65537][13 0, 143110]Like, I'm curious... You people
+of the Eastern Kingdom of Mikado, and
+those of us here in Tokyo...
+[->][13 0, 143111]Do you think we could ever coexist?
+[END]
+78: (Walter) [7a 4][7b 655364, 65537][7b 786435, 65537][13 0, 143112]...That's a poser you put to me so
+suddenly, but I don't think it out
+of the question.
+[END]
+79: (Jonathan) [7a 3][7b 655363, 65537][13 0, 143113]Speaking purely from intuition,
+I feel like it would be a difficult
+proposition...
+[END]
+80: (Fujiwara) [7a 18][7b 65554, 65537][13 0, 143114]What about you...?
+[END]
+81: 〉 Fujiwara looked at [Flynn]...
+[END]
+82: (Fujiwara) [7a 18][7b 65554, 65537][13 0, 143115]Do you think we could live in harmony?
+[END]
+83: ”I see no reason why not.”
+”It is an impossibility.”
+[END]
+84: (Fujiwara) [7a 18][7b 262162, 65537][7b 458771, 65537][13 0, 143116]Hm, I see...
+[END]
+85: (Fujiwara) [7a 18][7b 196626, 65537][13 0, 143117]Interesting.
+[END]
+86: (Isabeau) [7a 5][7b 786435, 65537][7b 655365, 65537][13 0, 143118]Fujiwara, sir, could you kindly
+elaborate on the purpose of the
+question?
+[END]
+87: (Fujiwara) [7a 18][7b 196626, 65537][7b 458771, 65537][13 0, 143119]You shouldn't believe that everyone
+living in Tokyo now is happy with
+their situation.
+[->][13 0, 143120]Life here takes a lot out of you.
+A lot of people are searching for
+somewhere to live in peace.
+[->][13 0, 143121]What do you suppose those people will
+do when they hear about you...?
+[END]
+88: (Fujiwara) [7a 18][7b 65554, 65537][13 0, 143122]They'll all set out for the Eastern
+Kingdom of Mikado. Naraku will be
+flooded with humans from Tokyo.
+[END]
+89: (Isabeau) [7a 5][7b 655365, 65537][13 0, 143123]What are you driving at...?
+[END]
+90: (Skins) [7a 19][7b 458771, 65537][7b 196626, 65537][13 0, 143124]I'll be frank here.
+[->][13 0, 143125]We're seriously considering emigrating
+to the Eastern Kingdom of Mikado.
+[END]
+91: (Jonathan) [7a 3][7b 458755, 131073][13 0, 143126]What...!?
+[END]
+92: (Walter) [7a 4][7b 655364, 65537][13 0, 143127]You'd come to our kingdom!?
+[END]
+93: (Fujiwara) [7a 18][13 0, 143129]But we don't plan on just barging in
+like a bunch of barbarians.
+[END]
+94: (Skins) [7a 19][7b 458771, 65537][13 0, 143130]Yeah, I'd rather not add to the
+collection of scars on my face.
+[END]
+95: (Fujiwara) [7a 18][7b 262162, 65537][13 0, 143131]When the time comes, could you tell
+the leaders of your kingdom about us?
+[END]
+96: (Hikaru) [7a 20][7b 262164, 65537][13 0, 143133]Let's leave it at that, Fujiwara.
+They're here for a reason.
+[END]
+97: (Walter) [7a 4][7b 65540, 65537][7b 65539, 65537]'Tis an error, my dear Atlus friend.
+[END]
+98: (Fujiwara) [7a 18][7b 262162, 65537][7b 458771, 65537][13 0, 143134]Ahh, of course, sorry.
+[->][13 0, 143135]Below the Hills in Roppongi, right?
+[END]
+99: (Fujiwara) [7a 18][7b 65554, 65537][13 0, 143136]Below the Midtown center in Tokyo
+is a way to get to the underside of
+Roppongi.
+[->][13 0, 143137]If you want to get under the Hills,
+you'll need to go through Midtown.
+[END]
+100: (Skins) [7a 19][7b 458771, 65537][13 0, 143138]But Tayama's set a demon at Midtown
+to block the way.
+[END]
+101: (Walter) [7a 4][7b 262148, 65537]Error it is!
+[END]
+102: 〉 Walter has joined you.
+[END]
+103: (Walter) [7a 4][13 0, 143080]Come now...! You must hear me out!
+I'll ask one question and then leave
+peaceably.
+[END]
+104: (Stoic Hunter) [7a 118][13 0, 143081]Proof of membership?
+[END]
+105: (Walter) [7a 4][13 0, 143082]Are you deaf, man!? I only need a
+moment of Fujiwara's time! Please!
+[END]
+106: (Stoic Hunter) [7a 118][13 0, 143083]Proof of membership?
+[END]
+107: (Jonathan) [7a 3][13 0, 143084][7b 131075, 65537]Walter... So he did come here.
+[END]
+108: (Isabeau) [7a 5][13 0, 143085][7b 65541, 65537][Flynn]... Are you going to go
+to Walter's aid?
+[END]
+109: Show the matchbox
+Walk away
+[END]
+110: 〉 [Flynn] showed the matchbox to
+the stoic Hunter.
+[END]
+111: (Isabeau) [7a 5][13 0, 143086][7b 524293, 65537]You've quite a cold heart, don't you?
+[END]
+112: (Walter) [7a 4][13 0, 143087]Truly...!?
+[END]
+113: (Stoic Hunter) [7a 118][13 0, 143088]Sorry, sir. Please, come in.
+[END]
+114: 〉 A stoic Hunter stands in
+your way.
+[END]
+115: (Stoic Hunter) [7a 118][13 0, 143089]Proof of membership?
+[END]
+116: 〉 It seems you cannot proceed any
+further...
+[END]
+117: (Yuriko) [7a 13][13 1, 400904]Oh...!
+[END]
+118: (Yuriko) [7a 13]Aren't we ardent, walking into a lady's
+room without knocking.
+[END]
+119: (Yuriko) [7a 13]Tayama is running a facility below
+the Hills building in Roppongi.
+[->]Go and have a look for yourselves.
+If that doesn't sway your opinion...
+[END]
+120: (Lilith) [7a 65073][13 1, 437000]Then I'll be happy to stand as your
+adversary.
+[END]
+121: (Yuriko) [7a 13][13 1, 400904]Oh...!
+[END]
+123: (Yuriko) [7a 13]Aren't we bold, walking into a lady's
+room without knocking?
+[END]
+124: (Yuriko) [7a 13]Did you see what was below Roppongi?
+[END]
+125: (Yuriko) [7a 13]Tayama is holding innocents of his
+own kind captive there and breeding
+them as fodder for demons...
+[->]Meanwhile, the Monastery breeds
+suffering by assigning the people rank
+without allowing them to doubt...
+[END]
+126: (Yuriko) [7a 13]I would expect as much from the agents
+of God. It has the arrogant hallmark
+of a father, wouldn't you say?
+[END]
+127: (Yuriko) [7a 13][13 1, 400903]But it seems you're still not at the
+point of making a decision.
+[END]
+128: (Yuriko) [7a 13]I don't like forcing the issue. The
+choice is, of course, yours.
+[->]I'll wait until you come up with your
+own answer...
+[END]
+129: (Lilith) [7a 65073][13 1, 437000]Hmhmhmhmhm...
+[END]
+130: 〉 Lilith is no longer here...
+[END]
+131: 〉 The passage continues into darkness.
+It seems to be a hidden path to the
+surface.
+[END]
+136: (Isabeau) [7a 5][7b 131077, 65537][13 0, 143044]Walter!
+[END]
+149: 〉 Walter walked away...
+[->]〉 Walter has parted ways with you.
+[END]
+157: (Burroughs) [7a 2][13 0, 86020]This seems like important evidence.
+I'll make a note of it in the quest.
+[END]
+175: (Walter) [7a 4][7b 655364, 65537][13 0, 143106]Oh...
+[END]
+195: (Isabeau) [7a 5][7b 655365, 65537][7b 786435, 65537][13 0, 143132]The time...?
+[END]
+196: (Hikaru) [7a 20][7b 65556, 65537][7b 65554, 65537][13 0, 143128]*giggle*
+[END]
+201: (Jonathan) [7a 3][7b 786435, 65537][7b 196612, 65537][13 0, 143140]*sigh*
+[->][7b 131075, 65537][13 0, 143141]Walter... let us go there together.
+The demons of Tokyo are too much for
+one man to handle alone.
+[END]
+211: (Yuriko) [7a 13][7b 262157, 65537][13 0, 143014]And if not, what will you do...?
+[END]
+249: (Burroughs) [7a 2][13 0, 400050]I'll register that as a new quest
+on the list.
+[END]
+275: (Walter) [7a 4][7b 589828, 65537][13 0, 143107]G−Greetings...
+[END]
+301: (Walter) [7a 4][7b 196612, 65537][13 0, 143142]...I suppose.
+[END]
+349: (Isabeau) [7a 5][7b 327685, 65537][13 0, 143064]That we might cross swords with one
+of our fellows...
+[END]
+449: (Jonathan) [7a 3][7b 131075, 65537][13 0, 143065]That Walter...!
+[END]
+549: 〉 [Flynn] and his fellow Samurai
+took their leave of Lilith's room...
+[END]
+900: ここでカットアニメ
+『黒きサムライの正体』
+が流れます
+[END]
+901: ※10月ROM対応箇所です
+[->]ユリコが黒きサムライだとわかり
+真実を知るため六本木ヒルズへ向かいます
+[->]メインクエスト
+『六本木に隠された真実を調査せよ』 受注
+[END]
+902: ツギハギとフジワラに会う
+ミッドタウンからヒルズ内へ行くことになる
+[END]
+1100: (Skins) [7a 19][7b 262163, 65537][13 0, 143139]Be careful, Samurai...
+[END]
+2100: (Burroughs) [7a 2][13 0, 86020]This seems like important evidence.
+I'll make a note of it in the quest.
+[END]

@@ -1,0 +1,2266 @@
+0: [END]
+1: [71 1]I don't wanna be your ”ally”!
+I wanna play ”kill the human”!
+[->]Come on, let's fight! I'll massacre
+your assacre!
+[->][END]
+2: No!
+Let's kill humans!
+I wanna fight!
+It'll be fun!
+Attaaaaaack!
+[END]
+3: [71 1]Owie! No fair! You hit me first, you
+dirty bird!
+[->][END]
+4: No fair!
+You hit me!
+Jerk!
+Ugh!
+Doody−face!
+[END]
+5: [71 1]No no no! I want to kill you, mister!
+[->][END]
+6: [71 1]Gimme something! Gimme something
+and I'll become yours!
+[->][END]
+7: Give us something!
+Something good!
+We'll join you!
+Make it nice!
+Come on!
+[END]
+8: [71 1]Hmmmmmmmmmmmmmmmmmmm...
+Okay! I'll join you!
+[->][END]
+9: Hooray!
+Let's go!
+We'll join you!
+C'mon, girls!
+Woo−hoo!
+[END]
+10: [71 1]If you don't give me something,
+I'm gonna cry!
+[->][END]
+11: Not yet!
+Give us something!
+Yeah!
+Give it!
+Or we'll cry!
+[END]
+12: [71 1]Awww, you don't have any room for me!
+[->]Fine, jerkface! Be that way!
+[->][END]
+13: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1]![Color:0x0]
+Nice to meet you, mister!
+[->][END]
+14: [71 1]...But you're weaker than me, mister.
+[->]I can't be your ally, then. I don't
+want to be around weak humans.
+[->][END]
+15: [71 1]Oh! You have my friend! Mommy said I
+should call the police if I see my
+friends with strange old guys...
+[->]...Just kidding, mister!
+Be nice to her.
+[->][END]
+16: [71 1]Hey, let's ask the others.
+[->][END]
+17: [71 1]Oh... But you don't have room for
+anybody else, mister.
+[->]Maybe next time?
+[->][END]
+18: [71 1]Hee hee! You look like fun. I wanna
+come along!
+[->][END]
+19: [71 1]Huh? No one wants to come with us?
+They must be shy!
+[->][END]
+20: [71 1]Okay, now it's my turn.
+[->][END]
+21: [71 1]...Oh, hey! Can I call a friend?
+[->]I actually know some famous demons,
+y'know?
+[->][END]
+22: [71 1]Hee hee! Nice to meet you! 
+[->][Demon name 2] asked if I wanted
+to hang out, so I came over!
+[->][END]
+23: Oh!
+You've got it!
+What skill!
+Wow!
+Bye−bye!
+[END]
+24: Call us!
+We'll play!
+A bunch of us!
+Hee hee!
+Bye−bye!
+[END]
+25: [71 1]Gimme something!
+Then I'll let you go!
+[->][END]
+26: Hmm...
+We'll let you go...
+If you give us stuff!
+Yeah!
+Give!
+[END]
+27: [71 1]Surrendering to a little girl...
+You're a loser, mister!
+[->]There, there. Run back home to your
+mommy.
+[->][END]
+28: Loser!
+Go home!
+Poor thing.
+Tsk, tsk...
+Ha ha!
+[END]
+29: [71 1]*yawn* I'm sleepy...
+[->]You want to go home...? Okay...
+[->][END]
+30: Zzzzz...
+Zzzzz...
+Zzzzz...
+Zzzzz...
+*yawn*
+[END]
+31: You want to go home?
+Okay...
+*yawn*
+I'm sleepy...
+Good night...
+[END]
+32: [71 1]Oh, yeah! Before you leave, you can
+have this.
+[->]Healy−dealy bo−beelie!
+[->][END]
+33: Wait!
+Don't go yet!
+Let me do this!
+Here!
+Be healed!
+[END]
+34: [71 1]Give me something, then!
+Or else I'm not talking to you!
+[->][END]
+35: A present?
+For us?
+Really?
+Yay!
+What do we want...
+[END]
+36: [71 1]Okay, we'll keep talking, mister.
+...But just for a little while.
+[->][END]
+37: Yay!
+Thank you!
+Hee hee!
+Yippy skippy!
+We're happy!
+[END]
+38: [71 1]You'll chat with me?
+[->]Yaaaaaaaay! Um, um, well...
+[->][END]
+39: A present?
+For us?
+Really, really?
+What should I do?
+Yaaaaaaay!
+[END]
+40: [71 1]It's so fun to just sit and talk!
+[->][END]
+41: Hee hee!
+So good!
+More!
+More!!
+Gimme more!
+[END]
+42: [71 1]I know what that means! You want me
+to heal you, right?
+[->]If I heal you, will you give me
+something?
+[->][END]
+43: I know that!
+You want healing?
+Hmm...
+Not for free!
+Give us something!
+[END]
+44: [71 1]Okay! Here you go!
+Heeeeeeeeeeeeal!
+[->][END]
+45: All right!
+You want healing?
+Here we go!
+Heeeeeeal!
+Woo−ha!
+[END]
+46: [71 1]*yawn* Heal... you...?
+[->]...Okay... *yawn*
+[->][END]
+47: Zzzzz...
+Zzzzz...
+Zzzzz...
+Zzzzz...
+*yawn*
+[END]
+48: You want us...
+To heal you...?
+Okay...
+Zzzzz...
+Here......
+[END]
+49: [71 1]...Huh? That's it?
+Sorry, I'll do it again.
+[->][END]
+50: That's it?
+Huh?
+All right!
+Then...
+One more time!
+[END]
+51: [71 1]Huh? You want money?
+But, my allowance...
+[->][END]
+52: Huh!?
+What!?
+Ahhh!
+Stop it!
+You bully!
+[END]
+53: [71 1]*sob* *sob* My money...!
+[->][END]
+54: *sob*
+*sob*
+You meanie!
+Argh!
+My money!
+[END]
+55: [71 1]You buttface! You know what happens
+when you make a demon mad, right!?
+[->]I'll kill you until you're dead!
+Nobody puts Baby Demon in a corner!
+[->][END]
+56: You jerkbutt!
+Now we're mad!
+I'll kill you!
+Until you're dead!
+We're demons, too!
+[END]
+57: [71 1]Waaaaah! Stop it!
+[->][END]
+58: Waaaaah!
+Stop it!
+Aaaaaah!
+Noooooo!
+Eeeeeek!
+[END]
+59: [71 1]*sniff* Why? What did I do...?
+[->][END]
+60: Hey!
+Stop it!
+It's no good!
+You bully!
+Shame on you!
+[END]
+61: [71 1]Ugh! Fine! You can have it all!
+[->]Take it and leave me alone!
+You greedy pig!
+[->][END]
+62: Fine, then!
+Take it!
+Now go away!
+Scum!
+Die!
+[END]
+63: [71 1]Arrrrgh! Cut it out! Don't let it
+get to your head, jerk!
+[->][END]
+64: Arrrrgh!
+Cut it out!
+You're so mean!
+You suck!
+Jerkbutt!
+[END]
+65: [71 1]Hey! What're you trying to do,
+mister!? I can't move!
+[->][END]
+66: Hey!
+Mister!
+We can't move!
+Stay away!
+Freak!
+[END]
+67: [71 1]You want an item? Then let's trade!
+[->][END]
+68: An item?
+You want one?
+Then...
+Let's trade!
+Yeah!
+[END]
+69: [71 1]Ta−dah! Here's your prize!
+[->][END]
+70: Ta−dah!
+Your prize!
+Good for you!
+Thank us!
+Here!
+[END]
+71: [71 1]Hee hee! That was nice!
+My mind's so clear and free!
+[->]Hey, mister! Let me give you
+something else!
+[->][END]
+72: Hee hee!
+That was fun!
+I feel good!
+Mister!
+Bonus!
+[END]
+73: [71 1]Ta−dah! A bonus from a demon!
+[->][END]
+74: Ta−dah!
+A bonus!
+How's that!
+Aren't you happy?
+It's cool, huh?
+[END]
+75: [71 1]Hey! Let's get right down to it.
+Gimme money!
+[->][Color:0x1][Amount 1] Macca![Color:0x0]
+That's what I want! Easy, huh?
+[->][END]
+76: Decide now!
+[Color:0x1]Macca![Color:0x0]
+Cool, huh?
+Easy, right?
+[Color:0x1][Amount 1]![Color:0x0]
+[END]
+77: [71 1]I want [Color:0x1][Item 1]![Color:0x0]
+[->][END]
+78: [Color:0x1]An item![Color:0x0]
+[Color:0x1]We want an item![Color:0x0]
+Gimme gimme!
+It's okay, right?
+[Color:0x1][Item 1]![Color:0x0]
+[END]
+79: [71 1]I want [Color:0x1][Amount 1] Macca![Color:0x0]
+[->][END]
+80: [Color:0x1]Macca![Color:0x0]
+[Color:0x1]We want Macca![Color:0x0]
+Gimme gimme!
+That's okay, right?
+[Color:0x1][Amount 1]![Color:0x0]
+[END]
+81: [71 1]Mister, your [Color:0x1]life...[Color:0x0]
+Can I have [Color:0x1]a little?[Color:0x0]
+[->][END]
+82: [Color:0x1]Life force![Color:0x0]
+[Color:0x1]We want some![Color:0x0]
+Give it
+Pleeeeease?
+[Color:0x1]Just a little![Color:0x0]
+[END]
+83: [71 1]Mister, your [Color:0x1]life...[Color:0x0]
+Can I have [Color:0x1]some?[Color:0x0]
+[->][END]
+84: [Color:0x1]Life force![Color:0x0]
+[Color:0x1]We want some![Color:0x0]
+Give it
+Pleeeeease?
+[Color:0x1]A small sip![Color:0x0]
+[END]
+85: [71 1]Mister, your [Color:0x1]life...[Color:0x0]
+Can I have [Color:0x1]a big bite?[Color:0x0]
+[->][END]
+86: [Color:0x1]Life force![Color:0x0]
+[Color:0x1]We want some![Color:0x0]
+Give it
+Pleeeeease?
+[Color:0x1]A lot![Color:0x0]
+[END]
+87: [71 1]Mister, your [Color:0x1]life...[Color:0x0]
+Can I have [Color:0x1]a whole lot?[Color:0x0]
+[->][END]
+88: [Color:0x1]Life force![Color:0x0]
+[Color:0x1]We want some![Color:0x0]
+Give it
+Pleeeeease?
+[Color:0x1]A big ol' bite![Color:0x0]
+[END]
+89: [71 1]Mister, your [Color:0x1]spirit...[Color:0x0]
+Can I have [Color:0x1]a little?[Color:0x0]
+[->][END]
+90: [Color:0x1]Spirit![Color:0x0]
+[Color:0x1]We want some![Color:0x0]
+Give it
+Pleeeeease?
+[Color:0x1]Just a little![Color:0x0]
+[END]
+91: [71 1]Mister, your [Color:0x1]spirit...[Color:0x0]
+Can I have [Color:0x1]some?[Color:0x0]
+[->][END]
+92: [Color:0x1]Spirit![Color:0x0]
+[Color:0x1]We want some![Color:0x0]
+Give it
+Pleeeeease?
+[Color:0x1]A small sip![Color:0x0]
+[END]
+93: [71 1]Mister, your [Color:0x1]spirit...[Color:0x0]
+Can I have [Color:0x1]a big bite?[Color:0x0]
+[->][END]
+94: [Color:0x1]Spirit![Color:0x0]
+[Color:0x1]We want some![Color:0x0]
+Give it
+Pleeeeease?
+[Color:0x1]A lot![Color:0x0]
+[END]
+95: [71 1]Mister, your [Color:0x1]spirit...[Color:0x0]
+Can I have [Color:0x1]a big bite?[Color:0x0]
+[->][END]
+96: [Color:0x1]Spirit![Color:0x0]
+[Color:0x1]We want some![Color:0x0]
+Give it
+Pleeeeease?
+[Color:0x1]A big ol' bite![Color:0x0]
+[END]
+97: [71 1]Can I have... your friend
+[Color:0x1][Demon name 2]'s life?[Color:0x0]
+[->][END]
+98: [Color:0x1]Your friend![Color:0x0]
+[Color:0x1]Your friend's life![Color:0x0]
+Give it
+Yeah, c'mon!
+[Color:0x1][Demon name 2]![Color:0x0]
+[END]
+99: [71 1]Ummmmm... Give me [Color:0x1]that![Color:0x0]
+[->][END]
+100: [Color:0x1]That![Color:0x0]
+[Color:0x1]You know, that![Color:0x0]
+Ummmm...
+So!
+Gimme!
+[END]
+101: [71 1]Hey, hey! Gimme something!
+[->][END]
+102: Hey, hey!
+Something!
+Something?
+Something!
+Gimme!
+[END]
+103: [71 1]Yay! I'll take it!
+[->][END]
+104: Yay!
+I'll take it!
+Ooh!
+How'd you know?
+Wow!
+[END]
+105: [71 1]Awww! That's not what I wanted!
+You should've known!
+[->][END]
+106: Awwww!
+That's not it!
+Come on!
+You should know!
+Ugh!
+[END]
+107: [71 1]I thought up a new spell!
+Can I try it out on you, mister?
+[->][END]
+108: Hey, hey!
+Mister!
+A new spell!
+We just made it!
+Can we try it?
+[END]
+109: ”Sure.”
+”No way.”
+[->][END]
+110: [71 1]Yay! It's a spell that's gonna cheer
+you up!
+[->]There!
+[->][END]
+111: Yay!
+It's a cheer spell!
+Good cheer!
+Happy spell!
+Here goes!
+[END]
+112: 〉 [Flynn] and the party all feel
+slightly more energetic!
+[->][END]
+113: 〉 [Flynn] and the party all feel
+slightly more energetic!
+[->][END]
+114: [71 1]Yay! It's a spell that's gonna cheer
+you up!
+[->]There! ...Wait.
+...Uh−oh.
+[->][END]
+115: Yay!
+It's a cheer spell!
+Good cheer!
+Wait...
+That's not it...
+[END]
+116: 〉 [Flynn] and the party all feel
+drained of energy!
+[->][END]
+117: 〉 [Flynn] and the party all feel
+drained of energy!
+[->][END]
+118: [71 1]Thhhhhhp! Coward!
+[->][END]
+119: Thhhhhhp!
+Fine!
+Coward!
+Cheapskate!
+Scumbag!
+[END]
+120: [71 1]Yay! I got a whole buncha stuff!
+[->][END]
+121: Hee hee!
+All right!
+Yay!
+This is good enough.
+Look at all this!
+[END]
+122: [71 1]Hee hee! Wow, I got this!
+[->][END]
+123: Hee hee!
+Wow!
+Yeah!
+I'm so happy!
+Thank you, mister!
+[END]
+124: [71 1]Thhhhhhp! Cheapskate!
+[->][END]
+125: Awwwww!
+No?
+Why?
+Huh?
+Booooring!
+[END]
+126: [71 1]Huh? You do have it, right?
+You just won't share...
+[->]Fine then. I'll just kill you.
+[->][END]
+127: Huh?
+You have it...
+Why not share?
+You suck!
+Haaaaaate!
+[END]
+128: [71 1]No way! I quit!
+[->][END]
+129: I quit!
+I quit!
+I quit!
+I quit!
+I quit!
+[END]
+130: [71 1]Hey! You're lying!
+You're a naughty boy!
+[->]Fine then. I'll just kill you.
+[->][END]
+131: Hey!
+You're lying!
+Naughty!
+Hmph!
+Fine then!
+[END]
+132: [71 1]You don't even have that?
+[->][END]
+133: Huh?
+You don't have it?
+But...
+We wanted it...
+I'm sad...
+[END]
+134: [71 1]C'mon. You've got to at least have
+a Life Stone.
+[->][END]
+135: Wow...
+Not even a Life Stone?
+That sucks!
+Awww...
+You're no good.
+[END]
+136: [71 1]Wow! You musta given me everything
+you had, mister! Thanks!
+[->]I should be happy with what I've
+got right now.
+[->][END]
+137: I took too much!
+You're broke!
+All right.
+Good enough!
+Yeah!
+[END]
+138: [71 1]Awwwww! You won't give me it?
+[->]Fine then, I'll just kill you.
+[->][END]
+139: What!?
+Cheap human!
+You won't give?
+Hmph!
+We'll kill you!
+[END]
+140: [71 1]Wow, mister. You've just been
+shutting me down all day!
+[->]You're really stubborn!
+That's cool!
+[->][END]
+141: So many times...!
+You keep saying no!
+Wow!
+You're amazing!
+We're happy!
+[END]
+142: [71 1]Mister, all you do is say yes!
+[->]It's really creeping me out!
+You're just too friendly!
+[->][END]
+143: Stop saying yes!
+It's creepy!
+Eeeeew...
+*sob*
+Just... Just stop!
+[END]
+144: [71 1]Wow! You don't have anything!
+[->]Okay. I'll be a good girl and let
+you go.
+[->][END]
+145: Wow...
+You have nothing!
+I see...
+Well...
+We'll let you go.
+[END]
+146: [71 1]Bye−bye!
+[->][END]
+147: Bye−bye!
+Bye−bye!
+Bye−bye!
+Bye−bye!
+Bye−bye!
+[END]
+148: [71 1]Wow, it's Mr. [Flynn]!
+[->]You're good friends with demons
+now, huh?
+[->][END]
+149: A human!
+Oh, it's you!
+Oh!
+Hee hee!
+Hello again!
+[END]
+150: [71 1]Huh? You want an ally?
+Yay!
+[->]Let me help you massacre a whole lot
+of people, mister!
+[->][END]
+151: A team−up?
+Yeah!
+Let's do it!
+Massacre!
+It's killin' time!
+[END]
+152: [71 1]I didn't want to fight you right
+now anyway, mister.
+[->]...But I don't know about next time.
+[->][END]
+153: Let's stop.
+I don't wanna fight.
+Okay!
+We quit!
+Hee hee!
+[END]
+154: [71 1]Yay! I love talking!
+[->][END]
+155: A present!
+Yay!
+Mister!
+I love you!
+Yeah!
+[END]
+156: [71 1]Hey, are you all right, mister?
+You don't look so hot.
+[->]Let me help!
+Healy−healy bo−bealy!
+[->][END]
+157: Huh?
+What's that?
+Let us heal you!
+You could use it.
+Yeah!
+[END]
+158: [71 1]It must be hard being poor, mister.
+[->]...Here, I'll give you this.
+Don't give in to poverty!
+[->][END]
+159: Don't do that.
+We'll give you some.
+Here.
+Be nice!
+We're friends!
+[END]
+160: [71 1]You want my item? Here, you can
+have it!
+[->]But just this once, okay? Next time,
+you've gotta pay for it.
+[->][END]
+161: All right.
+Here's a present!
+Just for you.
+Just this once.
+Okay?
+[END]
+162: [71 1]Boooring! I'm tired of your talking.
+[->][END]
+163: Boooring!
+I'm bored!
+Is that all?
+You only know...
+...that stuff?
+[END]
+164: [71 1]Ooh, [Flynn]!
+[->]Don't get lost like that!
+I was looking for you!
+[->][END]
+165: [71 1]Ooooh! Stop being such a meanie!
+[->]You've had your fun, right?
+Let me go. I'll do anything!
+[->][END]
+166: Please, stop!
+Let us go!
+Be a grown−up!
+Pleeeeease!
+We'll do anything!
+[END]
+167: [71 1] Yay! Yay! I'm free!
+[->][END]
+168: Hee hee!
+Yay!
+Wow!
+Thank you!
+I'm free!
+[END]
+169: [71 1]You demon−murderer!
+[->][END]
+170: Thhhhhp!
+Buttface!
+Fine, then!
+Hmph!
+Die!
+[END]
+171: [71 1]Oh, is that a human?
+Yay! I was looking for one!
+[->]Hey, I have a job for you!
+Will you do it for me?
+[->][END]
+172: [71 1]Oh, is that a Hunter?
+Yay! I was looking for one!
+[->]Hey, I have a job for you!
+Will you do it for me?
+[->][END]
+173: [71 1]Ummm, my friend's in some trouble...
+[->][END]
+174: [71 1]All right, that's all I have to say
+about that! I'm going home now!
+[->][END]
+176: [71 1]Hee hee! You're so cute, mister!
+[->][END]
+177: Reserve
+[END]
+178: [71 1]”Thank you.”
+”Shush, you.”
+”That's 'Miss' to you.”
+[->][END]
+179: Not Used
+[->][END]
+180: [71 1]Yeah! Your shirt is so adorable!
+[->]I have to run out and buy one for
+myself right now! Gimme some money!
+[->][END]
+181: Reserve
+[END]
+182: [71 1]Not Used
+[->][END]
+183: Not Used
+[END]
+184: [71 1]Let's see... How can I make you
+even cuter...?
+[->]Let's see if you're cuter when
+you cry.
+[->][END]
+185: Reserve
+[END]
+186: Not Used
+[->][END]
+187: [71 1]Ooh, you're so arrogant, mister.
+[->]That's so hot!
+[->][END]
+188: Reserve
+[END]
+189: [71 1]Huh? You don't like being called
+cute? Fine, then.
+[->]I'll join you, then I'LL be the
+one everybody calls cute!
+[->][END]
+190: Reserve
+[END]
+191: [71 1]Hmmmm... I see...
+[->]I'll make your face uncute, then!
+[->][END]
+192: Reserve
+[END]
+193: Not Used
+[->][END]
+194: [71 1]Oh... You should take better care of
+your skin, then, miss!
+[->][END]
+195: Reserve
+[END]
+196: [71 1]Not Used
+[->][END]
+197: Not Used
+[END]
+198: [71 1]Any girl cuter than me should die!
+[->][END]
+199: Reserve
+[END]
+201: [71 1]You're not popular with girls, are
+you, mister?
+[->][END]
+202: Reserve
+[END]
+203: [71 1]”Is that a problem?”
+”I'm popular with everyone.”
+”I only care about you.”
+[->][END]
+204: Not Used
+[->][END]
+205: [71 1]Nope. That's all right, mister.
+[->]Everybody else is wrong for not
+seeing how cool you are.
+[->][END]
+206: Reserve
+[END]
+207: [71 1]Not Used
+[->][END]
+208: Not Used
+[END]
+209: [71 1]Your face is a problem. Your speech
+is a problem, and the way you act...
+It's all a problem!
+[->]You're alllll wrong!
+[->][END]
+210: Reserve
+[END]
+211: Not Used
+[->][END]
+212: [71 1]When you're dealing with a bunch of
+girls, I hear it's really tiring.
+[->]I'll heal you then!
+[->][END]
+213: Reserve
+[END]
+214: [71 1]Nooo! They must be evil women...
+[->]I'll protect you!
+[->][END]
+215: Reserve
+[END]
+216: [71 1]I want you to love only me!
+No being popular with anyone else!
+[->][END]
+217: Reserve
+[END]
+218: Not Used
+[->][END]
+219: [71 1]You're not popular with girls.
+There's no way you'd be popular
+with me.
+[->]You've got to stop with this laser−
+focus on one person or you'll never
+get a girlfriend.
+[->][END]
+220: Reserve
+[END]
+221: [71 1]Not Used
+[->][END]
+222: Not Used
+[END]
+223: [71 1]You've got a girl in your stock!
+I can smell her!
+[->]Urgh! You lied to me!
+[->][END]
+224: Reserve
+[END]
+226: [71 1]Reserve
+[->][END]
+227: Reserve
+[END]
+228: [71 1]Reserve
+[->][END]
+229: Reserve
+[->][END]
+230: [71 1]Reserve
+[->][END]
+231: Reserve
+[END]
+232: [71 1]Reserve
+[->][END]
+233: Reserve
+[END]
+234: [71 1]Reserve
+[->][END]
+235: Reserve
+[END]
+236: Reserve
+[->][END]
+237: [71 1]Reserve
+[->][END]
+238: Reserve
+[END]
+239: [71 1]Reserve
+[->][END]
+240: Reserve
+[END]
+241: [71 1]Reserve
+[->][END]
+242: Reserve
+[END]
+243: Reserve
+[->][END]
+244: [71 1]Reserve
+[->][END]
+245: Reserve
+[END]
+246: [71 1]Reserve
+[->][END]
+247: Reserve
+[END]
+248: [71 1]Reserve
+[->][END]
+249: Reserve
+[END]
+251: [71 1]Reserve
+[->][END]
+252: Reserve
+[END]
+253: [71 1]Reserve
+[->][END]
+254: Reserve
+[->][END]
+255: [71 1]Reserve
+[->][END]
+256: Reserve
+[END]
+257: [71 1]Reserve
+[->][END]
+258: Reserve
+[END]
+259: [71 1]Reserve
+[->][END]
+260: Reserve
+[END]
+261: Reserve
+[->][END]
+262: [71 1]Reserve
+[->][END]
+263: Reserve
+[END]
+264: [71 1]Reserve
+[->][END]
+265: Reserve
+[END]
+266: [71 1]Reserve
+[->][END]
+267: Reserve
+[END]
+268: Reserve
+[->][END]
+269: [71 1]Reserve
+[->][END]
+270: Reserve
+[END]
+271: [71 1]Reserve
+[->][END]
+272: Reserve
+[END]
+273: [71 1]Reserve
+[->][END]
+274: Reserve
+[END]
+276: [71 1]Reserve
+[->][END]
+277: Reserve
+[END]
+278: [71 1]Reserve
+[->][END]
+279: Reserve
+[->][END]
+280: [71 1]Reserve
+[->][END]
+281: Reserve
+[END]
+282: [71 1]Reserve
+[->][END]
+283: Reserve
+[END]
+284: [71 1]Reserve
+[->][END]
+285: Reserve
+[END]
+286: Reserve
+[->][END]
+287: [71 1]Reserve
+[->][END]
+288: Reserve
+[END]
+289: [71 1]Reserve
+[->][END]
+290: Reserve
+[END]
+291: [71 1]Reserve
+[->][END]
+292: Reserve
+[END]
+293: Reserve
+[->][END]
+294: [71 1]Reserve
+[->][END]
+295: Reserve
+[END]
+296: [71 1]Reserve
+[->][END]
+297: Reserve
+[END]
+298: [71 1]Reserve
+[->][END]
+299: Reserve
+[END]
+301: [71 1]Reserve
+[->][END]
+302: Reserve
+[END]
+303: [71 1]Reserve
+[->][END]
+304: Reserve
+[->][END]
+305: [71 1]Reserve
+[->][END]
+306: Reserve
+[END]
+307: [71 1]Reserve
+[->][END]
+308: Reserve
+[END]
+309: [71 1]Reserve
+[->][END]
+310: Reserve
+[END]
+311: Reserve
+[->][END]
+312: [71 1]Reserve
+[->][END]
+313: Reserve
+[END]
+314: [71 1]Reserve
+[->][END]
+315: Reserve
+[END]
+316: [71 1]Reserve
+[->][END]
+317: Reserve
+[END]
+318: Reserve
+[->][END]
+319: [71 1]Reserve
+[->][END]
+320: Reserve
+[END]
+321: [71 1]Reserve
+[->][END]
+322: Reserve
+[END]
+323: [71 1]Reserve
+[->][END]
+324: Reserve
+[END]
+326: [71 1]Reserve
+[->][END]
+327: Reserve
+[END]
+328: [71 1]Reserve
+[->][END]
+329: Reserve
+[->][END]
+330: [71 1]Reserve
+[->][END]
+331: Reserve
+[END]
+332: [71 1]Reserve
+[->][END]
+333: Reserve
+[END]
+334: [71 1]Reserve
+[->][END]
+335: Reserve
+[END]
+336: Reserve
+[->][END]
+337: [71 1]Reserve
+[->][END]
+338: Reserve
+[END]
+339: [71 1]Reserve
+[->][END]
+340: Reserve
+[END]
+341: [71 1]Reserve
+[->][END]
+342: Reserve
+[END]
+343: Reserve
+[->][END]
+344: [71 1]Reserve
+[->][END]
+345: Reserve
+[END]
+346: [71 1]Reserve
+[->][END]
+347: Reserve
+[END]
+348: [71 1]Reserve
+[->][END]
+349: Reserve
+[END]
+351: [71 1]Reserve
+[->][END]
+352: Reserve
+[END]
+353: [71 1]Reserve
+[->][END]
+354: Reserve
+[->][END]
+355: [71 1]Reserve
+[->][END]
+356: Reserve
+[END]
+357: [71 1]Reserve
+[->][END]
+358: Reserve
+[END]
+359: [71 1]Reserve
+[->][END]
+360: Reserve
+[END]
+361: Reserve
+[->][END]
+362: [71 1]Reserve
+[->][END]
+363: Reserve
+[END]
+364: [71 1]Reserve
+[->][END]
+365: Reserve
+[END]
+366: [71 1]Reserve
+[->][END]
+367: Reserve
+[END]
+368: Reserve
+[->][END]
+369: [71 1]Reserve
+[->][END]
+370: Reserve
+[END]
+371: [71 1]Reserve
+[->][END]
+372: Reserve
+[END]
+373: [71 1]Reserve
+[->][END]
+374: Reserve
+[END]
+376: [71 1]Reserve
+[->][END]
+377: Reserve
+[END]
+378: [71 1]Reserve
+[->][END]
+379: Reserve
+[->][END]
+380: [71 1]Reserve
+[->][END]
+381: Reserve
+[END]
+382: [71 1]Reserve
+[->][END]
+383: Reserve
+[END]
+384: [71 1]Reserve
+[->][END]
+385: Reserve
+[END]
+386: Reserve
+[->][END]
+387: [71 1]Reserve
+[->][END]
+388: Reserve
+[END]
+389: [71 1]Reserve
+[->][END]
+390: Reserve
+[END]
+391: [71 1]Reserve
+[->][END]
+392: Reserve
+[END]
+393: Reserve
+[->][END]
+394: [71 1]Reserve
+[->][END]
+395: Reserve
+[END]
+396: [71 1]Reserve
+[->][END]
+397: Reserve
+[END]
+398: [71 1]Reserve
+[->][END]
+399: Reserve
+[END]
+401: [71 1]Hey, have you ever died?
+[->][END]
+402: Reserve
+[END]
+403: [71 1]”I have.”
+”Never.”
+”I've killed before.”
+[->][END]
+404: Not Used
+[->][END]
+405: [71 1]Do you know what it's like for
+demons, getting killed over and over
+all the time?
+[->][END]
+406: Reserve
+[END]
+407: [71 1]Huh...!?
+Oh no! You're a Samurai's ghost,
+back for revenge!
+[->]Please forgive me! I'll join you!
+[->][END]
+408: Reserve
+[END]
+409: [71 1]Then you won't have a problem if I
+kill you again, right?
+[->][END]
+410: Reserve
+[END]
+411: Not Used
+[->][END]
+412: [71 1]Really? You've never died? You're not
+gonna be popular with the girls if
+you haven't even done that!
+[->][END]
+413: Reserve
+[END]
+414: [71 1]Not Used
+[->][END]
+415: Not Used
+[END]
+416: [71 1]Okay! I'll kill you, then!
+See? I'm so helpful!
+[->][END]
+417: Reserve
+[END]
+418: Not Used
+[->][END]
+419: [71 1]Did you know that every time you
+kill someone, a part of you dies,
+too?
+[->][END]
+420: Reserve
+[END]
+421: [71 1]Not Used
+[->][END]
+422: Not Used
+[END]
+423: [71 1]Then you've got to go to the
+afterlife and apologize!
+[->][END]
+424: Reserve
+[END]
+426: [71 1]I love pushing humans around!
+It's so fun!
+[->][END]
+427: Reserve
+[END]
+428: [71 1]”Bullying is for losers.”
+”I'll push you around.”
+”Please, push me around.”
+[->][END]
+429: Not Used
+[->][END]
+430: [71 1]Nuh−uh! In reality, the losers are
+the ones who get bullied.
+[->]This world's not fair, is it?
+[->][END]
+431: Reserve
+[END]
+432: [71 1]Not Used
+[->][END]
+433: Not Used
+[END]
+434: [71 1]So the reason you're not a bully is
+because it looks bad? Would you do
+it if it was cool?
+[->]You're just a poser, mister.
+[->][END]
+435: Reserve
+[END]
+436: Not Used
+[->][END]
+437: [71 1]See? Bullying causes more bullying.
+It's like the circle of strife.
+[->][END]
+438: Reserve
+[END]
+439: [71 1]Hey, be my friend! I'm sick of being
+mean to humans all the time.
+[->][END]
+440: Reserve
+[END]
+441: [71 1]What!? Then I'll bully the bullies
+who bully the bullies!
+[->][END]
+442: Reserve
+[END]
+443: Not Used
+[->][END]
+444: [71 1]You're trying to see how everyone
+feels, even the little people...
+That's really nice of you, mister.
+[->][END]
+445: Reserve
+[END]
+446: [71 1]Not Used
+[->][END]
+447: Not Used
+[END]
+448: [71 1]Being mean to someone who wants you
+to be mean to them isn't really being
+mean, is it...?
+[->][END]
+449: Reserve
+[END]
+451: [71 1]Oh... I wanna go to the bathroom...
+[->][END]
+452: Reserve
+[END]
+453: [71 1]”Hold it.”
+”I'll go for you.”
+”Just do it right here.”
+[->][END]
+454: Not Used
+[->][END]
+455: [71 1]If you want to order a demon around,
+you have to give her presents.
+[->]I'll take this.
+[->][END]
+456: Reserve
+[END]
+457: [71 1]Not Used
+[->][END]
+458: Not Used
+[END]
+459: [71 1]Ohhhh...
+That's easy for you to say...
+[->]I know! Maybe I'll feel better if
+I punch you!
+[->][END]
+460: Reserve
+[END]
+461: Not Used
+[->][END]
+462: [71 1]You can do that!? Humans are useful.
+[->][END]
+463: Reserve
+[END]
+464: [71 1]Not Used
+[->][END]
+465: Not Used
+[END]
+466: [71 1]”For me...”? Mister, are you just
+trying to get into the girls' room?
+[->]You... You pervert!
+[->][END]
+467: Reserve
+[END]
+468: Not Used
+[->][END]
+469: [71 1]I can't! I need a mirror!
+[->]...I was talking about doing my
+makeup, silly. Hee hee!
+[->][END]
+470: Reserve
+[END]
+471: [71 1]Ooooh... Maybe there's a bathroom
+for demons inside your little
+demon−keeper thingy...?
+[->][END]
+472: Reserve
+[END]
+473: [71 1]I'd die of embarrassment if I did
+it here by myself... You do it with
+me!
+[->]Humans crap themselves when you kill
+them, right? That'll do!
+[->][END]
+474: Reserve
+[END]
+476: [71 1]Reserve
+[->][END]
+477: Reserve
+[END]
+478: [71 1]Reserve
+[->][END]
+479: Reserve
+[->][END]
+480: [71 1]Reserve
+[->][END]
+481: Reserve
+[END]
+482: [71 1]Reserve
+[->][END]
+483: Reserve
+[END]
+484: [71 1]Reserve
+[->][END]
+485: Reserve
+[END]
+486: Reserve
+[->][END]
+487: [71 1]Reserve
+[->][END]
+488: Reserve
+[END]
+489: [71 1]Reserve
+[->][END]
+490: Reserve
+[END]
+491: [71 1]Reserve
+[->][END]
+492: Reserve
+[END]
+493: Reserve
+[->][END]
+494: [71 1]Reserve
+[->][END]
+495: Reserve
+[END]
+496: [71 1]Reserve
+[->][END]
+497: Reserve
+[END]
+498: [71 1]Reserve
+[->][END]
+499: Reserve
+[END]
+501: [71 1]Hey, old man?
+[->][END]
+502: Reserve
+[END]
+503: [71 1]”What is it?”
+”I'm not old.”
+”You're too old to call me that.”
+[->][END]
+504: Not Used
+[->][END]
+505: [71 1]Not you, mister! There's an old man
+behind you!
+[->]But he looks lonely. You should
+go keep him company.
+[->][END]
+506: Reserve
+[END]
+507: [71 1]Not Used
+[->][END]
+508: Not Used
+[END]
+509: [71 1]Yay! You're an old man!
+[->]I always wanted to beat up an old
+dude! I hear their bones break
+really easily.
+[->][END]
+510: Reserve
+[END]
+511: Not Used
+[->][END]
+512: [71 1]Don't worry about it. Humans get
+old really quick.
+[->]You'll be old before you know it,
+mister!
+[->][END]
+513: Reserve
+[END]
+514: [71 1]Huh!? Are you a baby?
+[->]Oh, no! I need to take care of you!
+[->][END]
+515: Reserve
+[END]
+516: [71 1]You're not just old, you're super−
+duper old! Let me help you!
+[->]Help you into a coffin, that is!
+[->][END]
+517: Reserve
+[END]
+518: Not Used
+[->][END]
+519: [71 1]H−How'd you know!? I'm actually over
+1000 years old. I just talk like this
+to hide it.
+[->][END]
+520: Reserve
+[END]
+521: [71 1]Not Used
+[->][END]
+522: Not Used
+[END]
+523: [71 1]Huh!? You think I'm old!? Oh no!
+I need to get younger!
+[->]Exercise! Exercise!
+[->][END]
+524: Reserve
+[END]
+526: [71 1]Reserve
+[->][END]
+527: Reserve
+[END]
+528: [71 1]Reserve
+[->][END]
+529: Reserve
+[->][END]
+530: [71 1]Reserve
+[->][END]
+531: Reserve
+[END]
+532: [71 1]Reserve
+[->][END]
+533: Reserve
+[END]
+534: [71 1]Reserve
+[->][END]
+535: Reserve
+[END]
+536: Reserve
+[->][END]
+537: [71 1]Reserve
+[->][END]
+538: Reserve
+[END]
+539: [71 1]Reserve
+[->][END]
+540: Reserve
+[END]
+541: [71 1]Reserve
+[->][END]
+542: Reserve
+[END]
+543: Reserve
+[->][END]
+544: [71 1]Reserve
+[->][END]
+545: Reserve
+[END]
+546: [71 1]Reserve
+[->][END]
+547: Reserve
+[END]
+548: [71 1]Reserve
+[->][END]
+549: Reserve
+[END]
+551: [71 1]Ummm, I found some money on the
+ground...
+[->]100,000,000 Macca!
+Wh−What should I do...!?
+[->][END]
+552: Reserve
+[END]
+553: [71 1]”Give it to me.”
+”Let's split it.”
+”I dropped it.”
+[->][END]
+554: Not Used
+[->][END]
+555: [71 1]Okay! ...Wait, I read that wrong.
+[->]It wasn't 100,000,000 Macca.
+It was 10.
+[->][END]
+556: Reserve
+[END]
+557: [71 1]No! I don't wanna give it to you!
+[->]I'll give you me instead!
+[->][END]
+558: Reserve
+[END]
+559: [71 1]Special Control 7
+[->][END]
+560: Special Control 7
+[END]
+561: Not Used
+[->][END]
+562: [71 1]Okay! Hang on... Huh!? I thought I
+had it here...
+[->]Hee hee... I must have dropped it!
+[->][END]
+563: Reserve
+[END]
+564: [71 1]Not Used
+[->][END]
+565: Not Used
+[END]
+566: [71 1]Sure, but there are so many of you,
+I won't get much...
+[->]I know! I'll just kill a few of you!
+[->][END]
+567: Reserve
+[END]
+568: Not Used
+[->][END]
+569: [71 1]It wouldn't be good if you dropped
+it again, so I'll just hold onto it
+for you!
+[->][END]
+570: Reserve
+[END]
+571: [71 1]Not Used
+[->][END]
+572: Not Used
+[END]
+573: [71 1]Ahem... You're supposed to give
+someone a reward for returning a
+lost wallet...
+[->]I want your life!
+[->][END]
+574: Reserve
+[END]
+576: [71 1]Which is stronger: being by yourself,
+or being with lots of people?
+[->][END]
+577: Reserve
+[END]
+578: [71 1]”Being with everyone.”
+”Being by yourself.”
+[->][END]
+579: Not Used
+[->][END]
+580: [71 1]Yeah, huh! You can team up with
+everybody!
+[->]...But one day, everyone will be
+gone. Will you be strong by yourself
+then, mister?
+[->][END]
+581: Reserve
+[END]
+582: [71 1]Not Used
+[->][END]
+583: Not Used
+[END]
+584: [71 1]So that's why you've got allies!
+[->]...But are you really strong?
+I'll test you out!
+[->][END]
+585: Reserve
+[END]
+586: Not Used
+[->][END]
+587: [71 1]Fighting by yourself means that
+you've got to be really strong!
+[->]But it's also lonely. Are you happy
+with a life like that?
+[->][END]
+588: Reserve
+[END]
+589: [71 1]Humans get stronger when they're by
+themselves? That's dangerous...
+[->]I know! I'll make sure you're not
+alone! I'll go with you!
+[->][END]
+590: Reserve
+[END]
+591: [71 1]Huh? You're not strong at all!
+[->]You're just a coward holding hands
+with another coward.
+[->][END]
+592: Reserve
+[END]
+593: Not Used
+[->][END]
+594: [71 1]Not Used
+[->][END]
+595: Not Used
+[END]
+596: [71 1]Not Used
+[->][END]
+597: Not Used
+[END]
+598: [71 1]Not Used
+[->][END]
+599: Not Used
+[END]
+601: [71 1]Hey mister. What are you doing here?
+[->][END]
+602: Reserve
+[END]
+603: [71 1]”I'm here for work.”
+”I'm waiting for someone.”
+”I'm looking for a place to die.”
+[->][END]
+604: Not Used
+[->][END]
+605: [71 1]It's your job to talk to litte girls?
+That's kind of sketchy...
+[->]You should find yourself a better
+job while you're still young.
+[->][END]
+606: Reserve
+[END]
+607: [71 1]Not Used
+[->][END]
+608: Not Used
+[END]
+609: [71 1]...Oh. I won't bother you if you're
+working, then. Bye−bye.
+[->][END]
+610: Reserve
+[END]
+611: Not Used
+[->][END]
+612: [71 1]I heard that human men smoke
+cigarettes while they wait.
+[->]Don't you smoke, mister? Then you
+can suck on this instead!
+[->][END]
+613: Reserve
+[END]
+614: [71 1]You're waiting for your girlfriend,
+aren't you? That sucks...
+[->]...I'll be your girlfriend, too!
+Love is meant to be stolen!
+[->][END]
+615: Reserve
+[END]
+616: [71 1]Oh... Maybe it was that human I
+just killed...
+[->]I−I'm sorry!
+I'll send you to meet him!
+[->][END]
+617: Reserve
+[END]
+618: Not Used
+[->][END]
+619: [71 1]Hee hee! That's funny! If you really
+wanted to die, you could've done it
+anywhere.
+[->]...You really want to live, huh?
+[->][END]
+620: Reserve
+[END]
+621: [71 1]Not Used
+[->][END]
+622: Not Used
+[END]
+623: [71 1]Killing humans is fun because they
+want to live...
+[->]It's boring killing someone who
+wants to die! Shoo! Go on!
+[->][END]
+624: Reserve
+[END]
+626: [71 1]*deep breath*
+[->]Help! Kidnapper!
+[->][END]
+627: Reserve
+[END]
+628: [71 1]”No, I'm not.”
+”No, I'm not.”
+”No, I'm not.”
+[->][END]
+629: Not Used
+[->][END]
+630: [71 1]Oh, sorry. My mistake.
+[->]You're still trying to talk to
+little girls, so you must be a pedo
+instead!
+[->][END]
+631: Reserve
+[END]
+632: [71 1]Yes you are! Because I'm coming with
+you!
+[->]See? Now you're a kidnapper, mister!
+Hee hee!
+[->][END]
+633: Reserve
+[END]
+634: [71 1]...You aren't? You won't take me
+away from this place, then?
+[->]Ah, you suck. Leave me alone!
+[->][END]
+635: Reserve
+[END]
+636: Not Used
+[->][END]
+637: [71 1]Oh, sorry. My mistake.
+[->]You're still trying to talk to
+little girls, so you must be a pedo
+instead!
+[->][END]
+638: Reserve
+[END]
+639: [71 1]Yes you are! Because I'm coming with
+you!
+[->]See? Now you're a kidnapper, mister!
+Hee hee!
+[->][END]
+640: Reserve
+[END]
+641: [71 1]...You aren't? You won't take me
+away from this place, then?
+[->]Ah, you suck. Leave me alone!
+[->][END]
+642: Reserve
+[END]
+643: Not Used
+[->][END]
+644: [71 1]Oh, sorry. My mistake.
+[->]You're still trying to talk to
+little girls, so you must be a pedo
+instead!
+[->][END]
+645: Reserve
+[END]
+646: [71 1]Yes you are! Because I'm coming with
+you!
+[->]See? Now you're a kidnapper, mister!
+Hee hee!
+[->][END]
+647: Reserve
+[END]
+648: [71 1]...You aren't? You won't take me
+away from this place, then?
+[->]Ah, you suck. Leave me alone!
+[->][END]
+649: Reserve
+[END]
+651: [71 1]Reserve
+[->][END]
+652: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+653: [71 1]Reserve
+[->][END]
+654: Reserve
+[->][END]
+655: [71 1]Reserve
+[->][END]
+656: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+657: [71 1]Reserve
+[->][END]
+658: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+659: [71 1]Reserve
+[->][END]
+660: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+661: Reserve
+[->][END]
+662: [71 1]Reserve
+[->][END]
+663: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+664: [71 1]Reserve
+[->][END]
+665: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+666: [71 1]Reserve
+[->][END]
+667: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+668: Reserve
+[->][END]
+669: [71 1]Reserve
+[->][END]
+670: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+671: [71 1]Reserve
+[->][END]
+672: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+673: [71 1]Reserve
+[->][END]
+674: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+676: [71 1]Reserve
+[->][END]
+677: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+678: [71 1]Reserve
+[->][END]
+679: Reserve
+[->][END]
+680: [71 1]Reserve
+[->][END]
+681: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+682: [71 1]Reserve
+[->][END]
+683: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+684: [71 1]Reserve
+[->][END]
+685: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+686: Reserve
+[->][END]
+687: [71 1]Reserve
+[->][END]
+688: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+689: [71 1]Reserve
+[->][END]
+690: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+691: [71 1]Reserve
+[->][END]
+692: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+693: Reserve
+[->][END]
+694: [71 1]Reserve
+[->][END]
+695: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+696: [71 1]Reserve
+[->][END]
+697: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+698: [71 1]Reserve
+[->][END]
+699: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+701: [71 1]Reserve
+[->][END]
+702: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+703: [71 1]Reserve
+[->][END]
+704: Reserve
+[->][END]
+705: [71 1]Reserve
+[->][END]
+706: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+707: [71 1]Reserve
+[->][END]
+708: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+709: [71 1]Reserve
+[->][END]
+710: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+711: Reserve
+[->][END]
+712: [71 1]Reserve
+[->][END]
+713: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+714: [71 1]Reserve
+[->][END]
+715: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+716: [71 1]Reserve
+[->][END]
+717: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+718: Reserve
+[->][END]
+719: [71 1]Reserve
+[->][END]
+720: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+721: [71 1]Reserve
+[->][END]
+722: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+723: [71 1]Reserve
+[->][END]
+724: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+726: [71 1]Reserve
+[->][END]
+727: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+728: [71 1]Reserve
+[->][END]
+729: Reserve
+[->][END]
+730: [71 1]Reserve
+[->][END]
+731: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+732: [71 1]Reserve
+[->][END]
+733: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+734: [71 1]Reserve
+[->][END]
+735: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+736: Reserve
+[->][END]
+737: [71 1]Reserve
+[->][END]
+738: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+739: [71 1]Reserve
+[->][END]
+740: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+741: [71 1]Reserve
+[->][END]
+742: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+743: Reserve
+[->][END]
+744: [71 1]Reserve
+[->][END]
+745: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+746: [71 1]Reserve
+[->][END]
+747: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+748: [71 1]Reserve
+[->][END]
+749: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+751: [71 1]Reserve
+[->][END]
+752: Reserve
+[END]
+753: [71 1]Reserve
+[->][END]
+754: Reserve
+[->][END]
+755: [71 1]Reserve
+[->][END]
+756: Reserve
+[END]
+757: [71 1]Reserve
+[->][END]
+758: Reserve
+[END]
+759: [71 1]Reserve
+[->][END]
+760: Reserve
+[END]
+761: Reserve
+[->][END]
+762: [71 1]Reserve
+[->][END]
+763: Reserve
+[END]
+764: [71 1]Reserve
+[->][END]
+765: Reserve
+[END]
+766: [71 1]Reserve
+[->][END]
+767: Reserve
+[END]
+768: Reserve
+[->][END]
+769: [71 1]Reserve
+[->][END]
+770: Reserve
+[END]
+771: [71 1]Reserve
+[->][END]
+772: Reserve
+[END]
+773: [71 1]Reserve
+[->][END]
+774: Reserve
+[END]

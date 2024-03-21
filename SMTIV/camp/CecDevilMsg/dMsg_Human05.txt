@@ -1,0 +1,18 @@
+0: [71 1](provisional) StreetPass Level Up
+[->][END]
+1: [71 1](provisional) StreetPass Level Up 2
+[->][END]
+2: [71 1](provisional) StreetPass Level Up 3
+[->][END]
+3: [71 1](provisional) StreetPass Transformation
+[->][END]
+4: [71 1](provisional) StreetPass Transformation 2
+[->][END]
+5: [71 1](provisional) StreetPass Transformation 3
+[->][END]
+6: [71 1](provisional) StreetPass Item Message
+[->][END]
+7: [71 1](provisional) StreetPass Item Message 2
+[->][END]
+8: [71 1](provisional) StreetPass Item Message 3
+[->][END]

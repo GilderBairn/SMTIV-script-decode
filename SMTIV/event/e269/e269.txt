@@ -1,0 +1,155 @@
+0: (Fujiwara) [7a 18][7b 458770, 65537][7b 458771, 65537][13 0, 269001]Huh? You're still in Tokyo?
+[->][13 0, 269002]I've heard the situation in your home
+country is pretty serious too.
+[END]
+1: (Isabeau) [7a 5][7b 196613, 65537][13 0, 269003]Yes... We are not certain what can
+be done...
+[END]
+2: (Skins) [7a 19][7b 458771, 65537][7b 196626, 65537][13 0, 269004]Sounds like we're both at a loss.
+[->][13 0, 269005]The Demon Lord Lucifer's been
+resurrected in Tokyo. It's looking
+more and more like doomsday is here...
+[->][13 0, 269006]And I don't think there's anything we
+humans can do about it this time.
+[END]
+3: (Burroughs) [7a 2][13 0, 269007]In that case, why not turn to a god?
+[->][13 0, 269008]And by that I mean the guardian deity
+of Tokyo which the Doctor mentioned.
+[END]
+4: (Skins) [7a 19][7b 458771, 65537][13 0, 269009]...Did you just say the guardian deity
+of Tokyo?
+[END]
+5: (Skins) [7a 19][7b 458771, 65537][13 0, 269010]Hey... You know who she means?
+[END]
+6: ”I do.”
+”I don't.”
+[END]
+7: (Skins) [7a 19][7b 458771, 65537][13 0, 269011]Then tell me his name.
+[END]
+8: (Skins) [7a 19][7b 458771, 65537][13 0, 269012]...I must have been overthinking it.
+Never mind, forget what I said.
+[END]
+9: (Skins) [7a 19][7b 458771, 65537][7b 196626, 65537][13 0, 269013]What...? So you do know about the
+guardian deity of Tokyo?
+[END]
+12: (Skins) [7a 19][7b 458771, 65537][13 0, 269012]...I must have been overthinking it.
+Never mind, forget what I said.
+[END]
+13: (Fujiwara) [7a 18][7b 458770, 65537][13 0, 269014]Hold on... are you...!?
+[END]
+14: (Skins) [7a 19][7b 458771, 131073][13 0, 269015]Hold this katana...!
+[END]
+15: 〉 Skins thrust the old katana he
+always carries with him out to you.
+[END]
+16: (Skins) [7a 19][13 0, 269016]Just hold it!
+[END]
+17: 〉 [Flynn] was forced to hold the
+old katana...
+[END]
+18: 〉 The old katana silently slipped from
+its sheath.
+[END]
+19: (Skins) [7a 19][7b 262163, 131073][13 0, 269017]Fujiwara...
+[END]
+20: (Fujiwara) [7a 18][7b 262162, 65537][13 0, 269018]The day's finally come.
+[END]
+21: (Skins) [7a 19][7b 458771, 65537][13 0, 269024]That... Er... That is another deity
+entirely, I think.
+[->][13 0, 269025]...I must have been overthinking it.
+Never mind, forget what I said.
+[END]
+22: (Burroughs) [7a 2][13 0, 269026]Umm, what was it...? It's on the tip
+of my tongue.
+[->][13 0, 269027]Ma−something...
+[->][13 0, 269028]...Oh, it's no use. The data records
+were corrupted by our trip through
+hyperspace.
+[END]
+23: (Skins) [7a 19][13 0, 269019]...I must have been overthinking it.
+Never mind, forget what I said.
+[END]
+24: (Burroughs) [7a 2][13 0, 269020]Umm, what was it...? It's on the tip
+of my tongue.
+[->][13 0, 269021]Ma−something...
+[->][13 0, 269022]Ma...vakado?
+[->][13 0, 269023]...Oh, it's no use. The data records
+were corrupted by our trip through
+hyperspace.
+[END]
+25: (Skins) [7a 19][7b 458771, 131073][7b 196626, 65537][13 0, 269029]Indulge me in a little story of the
+old days...
+[END]
+26: (Skins) [7a 19][7b 458771, 131073][13 0, 269030]I used to belong to the Counter−Demon
+Force.
+[->][13 0, 269031]Back then, I slayed Masakado together
+with... well, a certain young man.
+[END]
+27: (Skins) [7a 19][7b 458771, 65537][13 0, 269032]This sword is Masakado's Katana. It's
+the medium that controls Masakado.
+[END]
+28: (Skins) [7a 19][7b 458771, 65537][13 0, 269033]Together with Masakado, the young man
+became the ceiling over Tokyo...
+[->][13 0, 269034]It saved this city from the missiles.
+[END]
+29: (Skins) [7a 19][7b 458771, 65537][13 0, 269035]I ended up inheriting this katana...
+[->][13 0, 269036]But no one since then has been able to
+pull it from its sheath. Not even me.
+[END]
+30: (Fujiwara) [7a 18][7b 196626, 65537][13 0, 269037]We decided to bide our time until we
+were ready to act... by forming what
+you know as the Hunter's Association.
+[->][13 0, 269038]For the day when someone else showed
+up who could unsheathe that katana
+and save us once again...
+[END]
+31: (Skins) [7a 19][7b 65555, 131073][13 0, 269039]You should have this.
+[END]
+32: 〉 [Flynn] received Masakado's Katana
+from Skins.
+[END]
+33: (Skins) [7a 19][7b 458771, 131073][13 0, 269040]Masakado is a patriotic warrior who
+was known as a fearsome National
+Defense Divinity.
+[->][13 0, 269041]If someone deemed worthy of watching
+over Tokyo was to call to him, I'm
+sure he'd answer.
+[END]
+34: (Fujiwara) [7a 18][7b 65554, 65537][13 0, 269042]Even a human might be able to stop the
+war between angels and demons if they
+had Masakado's power on their side...
+[->][7b 262162, 65537][13 0, 269043]Us old folks can finally let go now.
+We'll leave the rest to you kids.
+[END]
+35: (Isabeau) [7a 5][7b 65541, 196609][13 0, 269044]Gracious, [Flynn]... It seems you've
+been chosen to represent humanity.
+[END]
+36: (Skins) [7a 19][7b 458771, 131073][13 0, 269045]Go to the giant boulder in Ginza and
+pull out that katana there.
+[END]
+37: (Skins) [7a 19][7b 262163, 131073][13 0, 269046]You'll understand what this is about
+when you do...
+[END]
+104: 〉 Skins' grip on the katana tightened.
+[END]
+107: (Burroughs) [7a 2][13 1, 278013]Hmm. I know I'm the one who got us on
+the subject, but what was his name...?
+[->]I kind of remember what it looked like
+written down. It was eight letters,
+I think...
+[END]
+137: (Burroughs) [7a 2][13 0, 400050]I'll register that as a new quest
+on the list.
+[END]
+900: ここでネームエントリー
+『マサカド』と入力すると
+イベントが先へ進みます
+それ以外は再びこのイベントが発生
+[END]
+901: どう答えますか?
+[END]
+902: マサカド
+間違った回答
+[END]
+903: [Flynn]は『マサカド』と答えた(仮)
+[END]

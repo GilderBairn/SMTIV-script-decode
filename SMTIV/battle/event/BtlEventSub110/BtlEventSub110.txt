@@ -1,0 +1,29 @@
+0: (Wu Kong) [7a 0][13 1, 411005]Who the hell are you?
+[->]Wait a minute, you were sent to find
+me, weren't you?
+[END]
+1: (Wu Kong) [7a 0][13 1, 411009]Damn it... I bet Erlang Shen put you
+up to this, didn't he?
+[END]
+2: (Wu Kong) [7a 0][13 1, 411007]Heh, yeah, right.
+It was Erlang Shen, wasn't it?
+[->]I'm guessing that he's asked you to
+capture me and take me back.
+[END]
+3: (Wu Kong) ...But from the looks of things, he
+still doesn't know about this place.
+[->]Well then, there's only one thing
+to do.
+[->]I'll just have to silence you, and
+then I can keep hiding here for a
+while longer.
+[END]
+4: (Wu Kong) [7a 0][13 1, 411006]Not bad...! Guess I'll just have to
+scram for now.
+[->]Bye now!
+[END]
+5: 〉 The demon runs away...
+[END]
+6: Yes
+No
+[END]

@@ -1,0 +1,21 @@
+0: (The White) [7a 77][13 0, 232001]Our fifth son, who chose preservation...
+[END]
+1: (The White) [7a 218][13 0, 232002]...Your actions are abominable.
+No matter how much you struggle,
+your despair will never be healed.
+[END]
+2: (The White) [7a 218][13 0, 232003]Very well... As your forebear, I will
+teach you...
+[->][13 0, 232004]The splendor of nonexistence...
+[END]
+3: (Jonathan) [7a 3]I cannot believe they dare utter such
+blasphemy as ”God's curse.”
+[->]Those who couldn't abide by the rules
+of this world only say such things
+in their own paltry defense.
+[->]To prize order and consideration for
+others is a high virtue of we humans,
+after all.
+[END]
+103: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]

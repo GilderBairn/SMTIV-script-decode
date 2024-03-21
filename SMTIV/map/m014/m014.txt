@@ -1,0 +1,29 @@
+0: TEST
+[END]
+1: (Burroughs) [7a 2][13 0, 503001]I detect a very dangerous demon nearby.
+You should consider getting out of here.
+[END]
+2: 〉 Will you stay here?
+[END]
+3: 〉 Will you really stay here?
+[END]
+4: Yes
+No
+[END]
+5: (Hunter man) [7a 0][13 1, 403031]Hey, look at all this valuable food
+I've got!
+[->]The rumor about there being tons of
+edible demons in Shinjuku was true...
+[->]It would feel weird to turn all these
+in, though. Maybe I should eat one...?
+[END]
+6: (Hunter man) [7a 0][13 1, 403021]Some say that this place is paradise,
+but hell with that...
+[->]Do you know what Fiends are? There's one
+that likes to show up in this region.
+[->]That demon's on a whole other level than
+the rest of them. It's already killed
+three of my buddies.
+[->]If you go in to a fight with one half−
+assed, be ready to die.
+[END]

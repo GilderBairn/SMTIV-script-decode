@@ -1,0 +1,123 @@
+0: (Ambitious Hunter) [7a 67][13 1, 403002]Hey, have you heard the rumors about
+Ikebukuro? They say that it's free
+from the Ashura−kai's control.
+[->]All the Hunters who dislike the
+Ashura−kai are heading there.
+[->]I haven't heard from anyone who went
+there, though. It must be so nice
+that they don't want to come back...
+[->]I really wish I knew what Ikebukuro
+is like.
+[END]
+1: (Ambitious Hunter) [7a 67][13 1, 403042]Hey, have you heard the rumors about
+Ikebukuro? They say that it's free
+from the Ashura−kai's control.
+[->]All the Hunters who dislike the
+Ashura−kai are heading there.
+[->]I haven't heard from anyone who went
+there, though. It must be so nice
+that they don't want to come back...
+[->]I really wish I knew what Ikebukuro
+is like.
+[->]I heard it used to be a big place for
+entertainment. Just thinking about a
+place like that fires me up.
+[END]
+2: (Ambitious Hunter) [7a 67]I really want to go!
+[->]I might even risk getting eaten by
+demons, just for the chance to go
+there...
+[->]I wonder if anybody has a picture of
+Ikebukuro... or something.
+[END]
+3: Show him the camera
+Ignore him
+[END]
+4: (Ambitious Hunter) [7a 67][13 1, 403041]Hey, that's something fancy you've
+got there. Would it be possible for
+you to take pictures of Ikebukuro?
+[->]There are only two places that I
+want to see.
+[->]First is the most famous building
+in Ikebukuro, the sixty−story
+Sun Building!
+[->]The other place is the Ikebukuro
+East Gate, where there is a row of
+huge department store buildings!
+[->]I'd like you to take pictures of
+these two places and show them to
+me.
+[END]
+5: (Burroughs) [7a 2][13 1, 502043]I will add this quest to the list.
+[END]
+6: (Ambitious Hunter) [7a 67][13 1, 403031]You look like you're a much better
+Hunter than I am. I'm sure you aren't
+afraid of going to Ikebukuro at all.
+[->]I'm counting on you to bring those
+pictures.
+[END]
+7: (Ambitious Hunter) [7a 67][13 1, 403042]I heard it used to be a big place for
+entertainment. Just thinking about a
+place like that fires me up.
+[END]
+8: (Burroughs) [7a 2][13 1, 502044]We appear to be in a location that
+matches the commission we have taken.
+[->]This would be the perfect location
+to take a picture of the Ikebukuro
+Sun Building.
+[END]
+9: 〉 Will you take a picture here?
+[END]
+10: Yes
+No
+[END]
+11: 〉 You have taken a picture of the
+Ikebukuro Sun Building.
+[END]
+12: 〉 You decided not to take a picture.
+[END]
+13: (Burroughs) [7a 2][13 1, 502044]We appear to be in a location that
+matches the commission we have taken.
+[->]This would be the perfect location
+to take a picture of the Ikebukuro
+East Gate.
+[END]
+14: 〉 Will you take a picture here?
+[END]
+15: Yes
+No
+[END]
+16: 〉 You have taken a picture of the
+Ikebukuro East Gate.
+[END]
+17: 〉 You decided not to take a picture.
+[END]
+18: (Ambitious Hunter) [7a 67][13 1, 403001]Oh... It's you!
+How was Ikebukuro?
+[->]You've got the pictures, right?
+Let me see 'em.
+[END]
+19: 〉 [Flynn] gave the man the
+pictures.
+[END]
+20: (Ambitious Hunter) [7a 67][13 1, 403021]This... this is... Ikebukuro...?
+[->]Pools of blood, lakes of poison...
+Just pandemonium wherever you look.
+Is this the cost of freedom...?
+[->]Damn, that was close. I was almost
+tricked by the promise of freedom.
+I was this close to running off...
+[->]The Ashura−kai might get on my nerves
+once in a while, but I guess I belong
+in Shinjuku.
+[->]Well, thanks for the pictures.
+You could say you just saved my life.
+[END]
+21: (Ambitious Hunter) [7a 67][13 1, 403042]You don't have the pictures?
+Well, I hope you get them soon.
+[END]
+22: 〉 [Flynn] climbed up to a high
+place.
+[END]
+900: 〉 There is nobody here...
+[END]

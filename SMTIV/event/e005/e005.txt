@@ -1,0 +1,32 @@
+0: (Issachar) [7a 7][7b 65543, 65537][13 0, 5001]...Here at last. It's such a long trip
+from the village.
+[END]
+1: (Issachar) [7a 7][7b 458759, 65537][13 0, 5002]The city is so big, I don't think I
+could even hazard a guess as to where
+they might hold the Rite...
+[END]
+2: (Issachar) [7a 7][7b 65543, 65537][13 0, 5003]Ah, sir! Excuse me!
+[END]
+3: (Elegant man) [7a 40][13 0, 5004]...What is it?
+[END]
+4: (Issachar) [7a 7][7b 458759, 65537][13 0, 5005]Well... Us two... We have come for the
+Rite and...
+[END]
+5: (Elegant man) [7a 40][13 0, 5006]Hmph... A Casualry brat.
+[END]
+6: (Elegant man) [7a 40][13 0, 5007]The Gauntlet Rite, you say...?
+[->][13 0, 5008]Seek it yourself.
+[->][13 0, 5009]Though you may as well begin preparing
+now for your journey home, hahaha...
+[END]
+7: (Issachar) [7a 7][7b 131079, 65537][13 0, 5010]Um... Thank you...?
+[END]
+8: (Issachar) [7a 7][7b 131079, 65537][13 0, 5011]Seems the tales I'd heard of the
+Luxurors' snoot undershot the mark...
+[END]
+9: (Issachar) [7a 7][7b 65543, 65537][13 0, 5012]But no matter, we'll find someone
+else to ask.
+[END]
+100: 〉 [Flynn] arrived in the castle
+town with Issachar.
+[END]

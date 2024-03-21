@@ -1,0 +1,30 @@
+0: (K) [7a 22][13 0, 252001]Hoy there, [Flynn]...
+[END]
+1: (K) [7a 22][13 0, 252002]Ah, but please excuse me. You're a
+blessed warrior of light now.
+[END]
+2: (K) [7a 22][13 0, 252003]I'm glad to see someone younger than
+me move up in the world, but I feel
+distance from you now...
+[END]
+3: (K) [7a 22][13 0, 252004]Whoa, it's [Flynn]... You should've
+come around sooner if you were alive!
+[END]
+4: (K) [7a 22][13 0, 252005]Isabeau was just here, saying that the
+Eastern Kingdom of Mikado was going to
+be no more.
+[->][13 0, 252006]She seemed very flustered, insisting
+that we needed to hurry and pack for
+a trip to Tokyo.
+[END]
+5: (K) [7a 22][13 0, 252008]...Well, no matter. It's been some
+time since we last saw your face here,
+so make yourself at home.
+[END]
+100: 〉 K hailed [Flynn] while crushing
+some ice.
+[END]
+104: (K) [7a 22][13 0, 252007]But come, you know we've never been
+to Tokyo before. What are we meant to
+wear when we go?
+[END]

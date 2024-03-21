@@ -1,0 +1,50 @@
+0: 〉 A passage in mystic script appears
+on the Gauntlet...
+[END]
+1: [->][END]
+2: Arrest... him...!
+Close... perimeter...!
+Shoot to kill...!
+VNOAIHFOF!
+ADOIFJGVUEIQO!
+[END]
+3: Check action start
+[->][END]
+4: Maintain... formation...!
+Request... backup...!
+Tables... have turned...!
+PWOUEJRL
+QIUEFKJZLAD
+[END]
+5: HP 50% or lower
+[->][END]
+6: HP 25% or lower
+[->][END]
+7: Check action end
+[->][END]
+8: 〉 The battle is over.
+[->][END]
+9: 〉 [Flynn] runs past the boundary to
+the virtual battle, and the simulation
+ends...
+[END]
+10: Check enemy escape
+[->][END]
+11: 〉 The enemy was not eliminated within
+the turn limit.
+[->]〉 The simulation ends...
+[END]
+12: Tentative enemy, Mastema
+[->][END]
+13: 〉 The enemy was successfully
+eliminated within the turn limit.
+[->]〉 The simulation ends...
+[END]
+100: ”Demon training program −− Ready
+ Training Battle 7 −− Begin”
+[->][Color:0x5]”Reduce the enemy's stats, and use
+attack and recovery skills to defeat
+a mob of demons within nine turns!”[Color:0x0]
+[END]
+1000: Test
+[->][END]

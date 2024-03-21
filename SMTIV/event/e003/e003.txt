@@ -1,0 +1,30 @@
+0: (Voice) [7a 112][13 0, 3004]Good, you've come. Now I can take
+shape too...
+[END]
+1: (Young man) [7a 9][13 0, 3005]I prayed and waited...
+longing for the day you'd come.
+[END]
+2: (Young man) [7a 9][13 0, 3006]You remember who I am, right?
+[->][13 0, 3007]Yes, that's right...
+[->][13 0, 3097]My name is Jonathan.
+[END]
+3: (Jonathan) [7a 9][13 0, 3008]You mustn't forget that my future
+is with you.
+[->][13 0, 3009]The two of us are going to make
+a world where the peace we know
+today lasts forever...
+[END]
+4: (Voice) [13 0, 3001]...Thank goodness you're here.
+[->][13 0, 3002]Please, come quick.
+[END]
+5: 〉 You are met with a vision of an
+endless desert...
+[END]
+6: (Voice) [13 0, 3003]Not that way. I'm over here.
+[END]
+7: (Girl) [7a 153][13 0, 3010]I... revive... every... sake...
+[END]
+8: (Girl) [7a 153][13 0, 3011]I... must... one's... sake...
+[END]
+9: (Girl) [7a 153][13 0, 3012]Please [Flynn], won't you revive me...?
+[END]

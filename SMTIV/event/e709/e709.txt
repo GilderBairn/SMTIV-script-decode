@@ -1,0 +1,181 @@
+0: 〉 It seems that there is no one here,
+but you feel as if you are being
+watched...
+[END]
+1: (Sharp−Eyed man) [7a 38]......
+[END]
+2: 〉 The man stares down at you...
+[->]〉 Do you want to ask him about the
+quest?
+[END]
+3: Yes
+No
+[END]
+4: 〉 [Flynn] asks about the quest that
+he had accepted earlier.
+[END]
+5: 〉 [Flynn] gives what he believes to
+be the password...
+[->]......
+[->]〉 It would seem that this password
+is incorrect.
+[->]......
+[->]〉 [Flynn] leaves the area...
+[END]
+6: 〉 [Flynn] leaves the area...
+[END]
+7: (Sharp−Eyed man) [7a 38][13 1, 403241]I see that you've accepted my
+request, Samurai.
+[->]......!
+[->]Wait a moment... Aren't you
+[Flynn]? You were formerly a
+Casualry, isn't that right?
+[->][13 1, 403242]I see...
+[->]My name is Rodolfo, a stonemason
+from O'Gickbough.
+[->](Rodolfo) [7a 38]You come from the Casualry class...
+I suppose I can trust you.
+[->]...Of course, it's not as if I'm
+asking for something strange.
+[->]I mean, it is the sort of thing that
+I need to request assistance from a
+Samurai for...
+[->]But, you see, the things I want to
+ask for are, well...
+[->]Let's just say that there's a good
+chance the Monastery won't approve
+of it.
+[->]That's why I want to directly make
+my request to a Samurai I can trust.
+[->]We've read the books. We know a
+little about the world below us.
+[->]There are Casualries that need those
+relics that come from the world below.
+[->]I want you to help these people out.
+[->]I'll leave it to you, [Flynn],
+as to whether or not you will accept
+the request.
+[->]If you do feel like fulfilling my
+requests, just come talk to me here.
+[->]That's all I have to say for now.
+[->]There aren't too many Samurai that
+I can trust, so I'm counting on you.
+[END]
+8: (Rodolfo) [7a 38][13 1, 403202]Ah, [Flynn].
+Thanks for coming.
+[END]
+9: ”How can I help you?”
+”Just seeing if you're still here.”
+[END]
+10: (Rodolfo) [7a 38][13 1, 403203]I... I see. Well, do come by again
+if you have time.
+[END]
+11: (Rodolfo) [7a 38][13 1, 403242]You're going to take on one of my
+requests? Thank you.
+[->]I have just the task in mind for
+you, [Flynn].
+[END]
+12: (Rodolfo) [7a 38][13 1, 403242]You're going to take on one of my
+requests? Thank you.
+[->]I have two requests that I would
+like to give to you at the moment.
+[->]Here is the first one...
+[->][END]
+13: (Rodolfo) [7a 38][13 1, 403242]You're going to take on one of my
+requests? Thank you.
+[->]I have three requests that I would
+like to give to you at the moment.
+[->]Here is the first one...
+[->][END]
+14: (Rodolfo) [7a 38]A certain group of young men has
+requested your assistance. I cannot
+talk about the details.
+[->]They will tell you more about this
+request in person.
+[END]
+15: (Rodolfo) [7a 38]This request comes from two brothers
+seeking to save their ill sister.
+[->]I want you to help them, but...
+[END]
+16: (Rodolfo) [7a 38]There's a certain man who needs an
+escort.
+[->]This man was once a member of the
+Luxuror caste...
+[->]I'm not sure what he's done, but
+someone's after his life.
+[->]I don't fully agree with this
+request, but I cannot in good
+conscience ignore it.
+[->]What I would ask of you, Samurai,
+is for you to take him to the world
+below.
+[->]There is nowhere left in the Eastern
+Kingdom of Mikado where this man can
+live in peace.
+[->]I have heard from other Samurai
+that a man named Fujiwara can be
+trusted with such matters.
+[->]Could you escort this man to
+Fujiwara?
+[->]A note, if you do plan to carry out
+this request...
+[->]Try going to the back of the forest
+after accepting it.
+[->]I'm sure he's determined that
+nobody finds him.
+[->]I leave him in your care.
+[END]
+17: (Rodolfo) [7a 38][13 1, 403242]This is the other request I wanted
+to ask you about.
+[END]
+18: (Rodolfo) [7a 38]Do you want to hear the details
+from the client?
+[END]
+19: ”Yes.”
+”No.”
+[END]
+20: (Rodolfo) [7a 38][13 1, 403242]Thanks. Let's go get the client.
+[END]
+21: (Rodolfo) [7a 38][13 1, 403243]...I see. Well, if you ever change
+your mind, I'll be waiting.
+[END]
+22: (Rodolfo) [7a 38][13 1, 403203]I appreciate your efforts, but you
+have already helped everyone who
+has requested your assistance.
+[->]All the requests you have carried
+out are things that we Casualries
+could never do on our own.
+[->]I am most grateful for your help.
+If anything new comes up, I will
+be sure to let you know.
+[END]
+23: (Rodolfo) [7a 38][13 1, 403242]It looks like everyone's problems
+have been solved thanks to you,
+[Flynn].
+[->]Thank you for all the help you have
+given us. You have my gratitude.
+[END]
+24: (Rodolfo) [7a 38][13 1, 403241]Ah, so you've brought the goods
+that were asked for.
+[->]Do you want to give them to the
+client right now?
+[END]
+25: (Rodolfo) [7a 38][13 1, 403241]...Hm? Looks like you've got the
+medicine in question.
+[->]Do you want to give it to the
+brothers right now?
+[END]
+26: (Rodolfo) [7a 38][13 1, 403242]Let me go get the clients, then.
+[END]
+27: 〉 What will you say to him?
+[END]
+28: (Rodolfo) [7a 38][13 1, 403241]...Hm? Looks like you've got the
+medicine in question.
+[->]Do you want to give it to the
+brothers right now?
+[END]
+100: (Burroughs) [7a 2][13 1, 502043]I'll register the new quest in
+the list.
+[END]
+900: 〉 There is no one here...
+[END]

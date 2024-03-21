@@ -1,0 +1,158 @@
+0: (Walter) [7a 4][13 1, 400203]Demons were no mere fairy−stories
+after all...
+[->]The aching wound on my shoulder, the
+taste of blood on my tongue... These are
+too real for any fairy−story.
+[->]If they come at me with the intent to
+kill, then I'll respond in kind.
+[END]
+1: (Navarre) [7a 6][13 1, 400401]...Gwah!?
+[->]O−Oh, it's you... I thought you to be
+a demon. Don't startle me so...
+[->]I've never carried a blade any heavier
+than a knife before.
+[->]If Mother were to see me dashing about
+with such a weapon in hand, I think
+that she would faint...
+[END]
+2: (Nosy Samurai) [7a 117][13 1, 404301]Hoy there. I've heard the rumors...
+They say you acquitted yourself well
+in the training exercises.
+[->]But we have a saying: one's reach should
+not exceed one's grasp. Strive for too
+much, and you could lose all.
+[END]
+3: (Nosy Samurai) [7a 117][13 1, 404303]Hasn't it been one problem after the next
+this year? Ever since you new prentices
+joined our ranks...
+[->]Could it be that in a past life, as
+some would have it, you did something
+blasphemous? Ah, but I jest.
+[END]
+4: (Grumpy Samurai) [7a 114]...Yes, but are we not all members of
+the same order? I can see no need to be
+unnecessarily modest.
+[END]
+5: (Grumpy Samurai) [7a 114][13 1, 403203]The Samurai who are not yet convinced
+have gone to petition Abbot Hugo.
+[->]Thanks to our Commander's intervention,
+nothing went seriously wrong...
+[->]Remember that this is Abbot Hugo we're
+speaking of. The dissenters could have
+found themselves on the block.
+[END]
+6: (Angel) [7a 65462][13 1, 483002]We have created a false space within the
+boundary of the Unclean Ones' influence.
+[->]I am nearly certain that no demon will
+be capable of passing through it to
+reach us here...
+[->]Not a single one of the Filth shall be
+allowed to taint the kingdom that the
+Lord has made.
+[END]
+100: (Walter) [7a 4][13 1, 400202]”Compete against each other”? This is
+no village wrestling contest, I hope
+he realizes.
+[->]For us to be in such grave peril, while
+that Hope... He's taken leave of his
+senses.
+[->]Small wonder he commands the Samurai,
+eh...?
+[END]
+101: (Navarre) [7a 6][13 1, 400404]During the first quest, I landed a
+critical blow when I accidentally
+tripped...
+[->]The next quest was simpler, since as you
+might expect, money is no object to me.
+'Twas actually easier than the first.
+[->]But the final challenge all depends on
+one's strength, and that's a field I'm
+particularly lacking in...
+[->]S−Someone else may have first place,
+I care not whom. Merely let this debacle
+of a training exercise be done with!
+[END]
+102: (Nosy Samurai) [7a 117][13 1, 404301]You look unwell... Is there something
+troubling you?
+[->]Don't tell me... has a fellow of ours
+gone missing? No, 'twas merely baseless
+suspicion. Pay me no mind.
+[END]
+104: (気難しいサムライ) [7a 114][13 1, 403242]納得できないサムライ衆の面々が
+ウーゴ殿の元へ抗議に向かったそうだ
+[->]お頭の仲介で
+大事にならずに済んだけど…
+[->]…下手したらウーゴ殿のことだ
+抗議した連中 処刑されたかもしれんぞ…
+[END]
+200: (Walter) [7a 4][13 1, 400204]Hoy, brother.
+[->]I don't seriously intend to do Navarre
+any harm, so be at ease on that score.
+[->]But... ever since I was young, my lowly
+birth, my inexperience, my weakness has
+been used as a cudgel against me.
+[->]I seethe inside to hear people say such
+things while hiding behind their sad
+excuses...
+[END]
+201: (ナバール) [7a 6][13 1, 400402][先/さき]の[実地/じっち][訓練/くんれん]では[不覚/ふかく]を[取/と]ったが
+[今度/こんど]こそ[私/わたし]が[勝/か]つ…ッ
+[->][君/きみ]もこんな[所/ところ]で[油/あぶら]を[売/う]ってないで
+クエストに[励/はげ]むべきじゃないのかね?
+[END]
+202: (Nosy Samurai) [7a 117][13 1, 404321]What will I do with that Navarre...?
+At the very least, he must be made to
+pay the request's reward.
+[->]...Oh, it's nothing. I was merely
+muttering to myself. I am glad, though,
+to hear that Navarre is safe.
+[END]
+204: (Grumpy Samurai) [7a 114][13 1, 403241]...What is it, prentice? 'Tis not my
+role to give guidance to fledgling
+Samurai.
+[->]But since you've come this far, I am
+willing to share a few truths, if you
+are of a mind to hear them.
+[END]
+300: (Walter) [7a 4][13 1, 400201]The essence of battling demons is thus:
+[->]You must strike at your enemy's weakness,
+while taking care that they do not strike
+your own.
+[->]And as for your fellow... er, I mean,
+your demons, you need a number of them
+to face the enemy...
+[->]Now that I think on it, it's something
+I've done since I was a boy.
+[END]
+304: Ask him to tell you
+Decline his offer
+[END]
+400: (Navarre) [7a 6][13 1, 400454]Hello, Casularies. You must be ahead of
+the game if you have time to dilly−
+dally so.
+[END]
+404: (Grumpy Samurai) [7a 114]Mystic relics can be excavated at the
+same location many times, endlessly.
+[->]For reasons unknown, the same relic may
+appear again after some time has passed.
+They are mystic indeed...
+[->]Once you have excavated a relic, you may
+wish to return to the site later and try
+your hand at it again.
+[END]
+500: (Navarre) [7a 6]I, meanwhile, have already completed
+the first Challenge Quest.
+[END]
+504: (Grumpy Samurai) [7a 114]...Of course. I'm sorry to disturb you
+during your training.
+[END]
+600: (Navarre) [7a 6]I, for my part, have already completed
+two of the Challenge Quests.
+[END]
+700: (Navarre) [7a 6]I'm presently at work on the third
+Challenge Quest... and very close to
+completing it, I'll have you know.
+[END]
+800: (Navarre) [7a 6]I may very well be the victor in our
+little contest.
+[END]

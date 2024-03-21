@@ -1,0 +1,6 @@
+0: I recorded your ”favor” to the accented man as
+a quest. Running his extremely heavy dialect
+through my translation module, I got, [Color:0x5]”I want
+you to off [this means ”kill”] the demon at the
+Metropolitan Government Office.[Color:0x0]”
+[END]

@@ -1,0 +1,257 @@
+0: 〉 Two Casualries are here.
+They appear to be brothers...
+[END]
+1: (Younger Brother) [7a 35][13 1, 403033]Thank you for deciding to accept our
+request, Blessed Samurai.
+[->]Our sister is suffering from some
+kind of lung ailment.
+[->]It is a serious illness, and the
+doctor says that he cannot do much
+for her.
+[->]But the doctor has also told us that
+a magical remedy may be found in the
+land of the Unclean Ones...
+[->]If we can obtain this remedy, there
+may be a chance that we can cure
+her of her illness.
+[END]
+2: (Older Brother) [7a 34]......
+[END]
+3: (Younger Brother) [7a 35][13 1, 403042]I have read a book containing a
+description of this remedy.
+[->]According to this book, our sister's
+illness is already in its final
+stage... Things are not looking well.
+[->]Please, this is our last hope.
+[END]
+4: (Older Brother) [7a 34]......
+[END]
+5: (Younger Brother) [7a 35]Please, would you go into the land
+of the Unclean Ones and find this
+remedy for our sister?
+[END]
+6: ”I accept.”
+”No.”
+[END]
+7: (Younger Brother) [7a 35][13 1, 403033]Thank you very much.
+[->]The book I read said that there was a
+large hospital in a place called
+[Color:0x5]Tsukiji.[Color:0x0]
+[->]Perhaps you will be able to find the
+remedy there. Please, help us save
+our sister.
+[END]
+8: 〉 The brothers leave...
+[END]
+9: (Older Brother) [7a 34][13 1, 403202]...A moment, please.
+[->]May I ask you something?
+[->]My brother just asked you to find
+that medicine.
+[->]...Do you think what you find will
+be able to help our sister?
+[END]
+10: ”I believe so.”
+”I have my doubts.”
+[END]
+11: (Older Brother) [7a 34][13 1, 403203]...I want to believe that, too.
+[->]But I read my brother's book... and
+the remedy has little effect when the
+disease is in its final stage.
+[END]
+12: (Older Brother) [7a 34][13 1, 403212]...You too, then.
+[->]I've read my brother's book... and
+the remedy has little effect when the
+disease is in its final stage.
+[END]
+13: (Older Brother) [7a 34][13 1, 403242]My sister is in extremely poor
+health. I honestly have little faith
+in any medicine's ability to save her.
+[->]I think anything we do to help at
+this point will only prolong her
+suffering.
+[->]...So I'd rather let her die
+peacefully.
+[->]I'm pretty sure my brother has begun
+to realize this on his own.
+[->]But... He is far too kind to allow
+himself to say as much.
+[->]......
+[->]If you do bring us the remedy, then
+I will gladly accept it.
+[->]But... If you have the choice, I'd
+like you to bring back something
+that will let her die in peace.
+[->]...Please.
+[END]
+14: 〉 The older brother leaves...
+[END]
+15: (Younger Brother) [7a 35][13 1, 403023]...Why?
+[->]......
+[->]...I understand. I'm sorry. I presume
+too much in asking a Samurai to help
+us.
+[->]If you do ever change you mind,
+please help my sister.
+[END]
+16: 〉 A terrible smell fills the room.
+[->]〉 From the things scattered about on
+the floor, it would appear that this
+room was used to store medication.
+[END]
+17: 〉 ...The sound of something being eaten
+can be heard coming from a corner of
+the room.
+[->]〉 A silhouette of someone gnawing on
+a skull slowly turns in [Flynn]'s
+direction...
+[END]
+18: 〉 The demon's Domain has receded.
+The hospital has returned to normal.
+[->]〉 Which medication will you take?
+[END]
+19: The medication for the lung disease
+Euthanizing drugs
+Take both 
+[END]
+20: 〉 The brothers have come...
+[END]
+21: (Younger Brother) [7a 35][13 1, 403042]Were you able to find the remedy,
+Blessed Samurai?
+[END]
+22: 〉 You hand over the medication...
+[END]
+23: (Younger Brother) [7a 35][13 1, 403033]Thank you very much!
+[->]I'm sure this will help our sister
+get better!
+[END]
+24: 〉 The polite brother falls to his
+knees and begins to pray with the
+medicine in hand...
+[END]
+25: (Older Brother) [7a 34][13 1, 403242]......
+[->]The fact that you brought the cure
+means that you want us to take our
+chances with this.
+[->]Very well. It's not as if I want my
+sister to die.
+[->]I'm sure she wants to get better
+and for us to live as a happy family
+again.
+[->]I'll pray that she gets better.
+Just like my brother.
+[END]
+26: 〉 The brothers leave...
+[END]
+27: 〉 You hand the quieter brother the
+euthenasia drugs.
+[END]
+28: (Younger Brother) [7a 35]...!?
+[->]That... That's not the remedy, is it?
+It can't be...
+[END]
+29: (Older Brother) [7a 34][13 1, 403242]...It is.
+I asked him for it.
+[END]
+30: (Younger Brother) [7a 35][13 1, 403023]But why...?
+[END]
+31: (Older Brother) [7a 34][13 1, 403212]...We both know there's no hope.
+She's far too weak now, and there's
+no way she can possibly recover.
+[->]She's been suffering for so long now.
+She's... barely even conscious.
+[->]You've already realized that,
+haven't you?
+[->]...It's enough already.
+We have to... let her go.
+[END]
+32: (Younger Brother) [7a 35]......
+[END]
+33: (Older Brother) [7a 34][13 1, 403242]My apologies, Blessed Samurai.
+From here on, this issue is ours
+to deal with.
+[->]Thank you for the medicine.
+[END]
+34: 〉 The brothers leave...
+[END]
+35: 〉 You hand over both the lung
+medication and the euthenasia drugs.
+[END]
+36: (Younger Brother) [7a 35][13 1, 403033]Thank you very much!
+[->]I'm sure my sister will...
+Wait, what's this?
+[END]
+37: (Older Brother) [7a 34][13 1, 403242]I asked for it.
+[END]
+38: (Younger Brother) [7a 35]......!
+[->]No, you couldn't!
+[END]
+39: (Older Brother) [7a 34][13 1, 403212]She's been suffering for so long.
+She's... barely even conscious.
+[END]
+40: (Younger Brother) [7a 35]But this... It's a magical cure!
+[END]
+41: (Older Brother) [7a 34]......
+[->]Blessed Samurai...
+[->]The fact that you brought us both
+of these means that you want us to
+decide for ourselves... right?
+[->]I agree. This problem is ours to
+handle now.
+[->]I've never really spoken my mind
+on this before. We will come to a
+decision after a long discussion.
+[->]Thank you for bringing us these
+medicines.
+[END]
+42: (Younger Brother) [7a 35]I want to take my chances with this
+magical remedy. I want us to be a
+happy family again!
+[END]
+43: (Older Brother) [7a 34][13 1, 403212]It's not that...
+I don't want to be happy again...
+[END]
+44: 〉 The brothers leave, glaring at
+each other...
+[END]
+45: 〉 You have obtained lung medication.
+[END]
+46: 〉 You have obtained euthanasia
+drugs.
+[END]
+47: 〉 The demon's Domain has receded.
+The hospital has returned to normal.
+[->]〉 You look around, but cannot find
+the medicine you are looking for...
+[END]
+48: (Younger Brother) [7a 35][13 1, 403042]Have you found the remedy yet?
+[END]
+100: (Burroughs) [7a 2][13 1, 502043]I'll register that as a new quest
+on the list.
+[END]
+101: (Burroughs) [7a 2][13 1, 502043]I'll register these as new quests
+on the list.
+[->]It would seem that completing either
+of these quests will prevent you from
+completing the other.
+[->]You should keep that in mind.
+[END]
+102: (Burroughs) [7a 2][13 0, 502044]I have something to tell you.
+[->]I have merged the two quests
+concerning the medicine into a
+single entry.
+[->]The quest is now on the list.
+[END]
+103: (Burroughs) [7a 2][13 0, 502044]I'll report the update to the quest.
+[->]About the other quest concerning the
+medicine...
+[->]I will delete it, as it is no longer
+necessary on the list.
+[END]
+120: (Burroughs) [7a 2][13 0, 76036]I'm detecting a strong demon ahead.
+Do you want to go on?
+[END]
+121: Yes
+No
+[END]
+900: 〉 There is no one here...
+[END]

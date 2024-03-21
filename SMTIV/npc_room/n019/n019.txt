@@ -1,0 +1,170 @@
+0: (Male demonoid) [7a 103][13 1, 415101]Oh, hello, my lovely Intruders. Wha−−
+Do you mean ME!?
+[->]Come now! You've met me before! I'm the
+demonoid from Akira's place.
+[->]Well, no offense taken. Demonoids do
+look similar to one another.
+[END]
+1: (Male demonoid) [7a 103][13 1, 415100]Oh, hello, my lovely Intruders. Akira
+already told me the whole story.
+[->]You whacked Kenji, right? No kidding!?
+Then Akira's the new King of Tokyo...
+[->]Hurrah for the birth of King Akira...!
+[END]
+2: (Female neurisher) [7a 147][13 1, 417103]These aren't the only neurishers we've
+got, you know. There's also a few
+from Kasumigaseki.
+[->]Since we have enough to go around,
+Akira told us to take turns feeding
+the demonoids.
+[->]I take the even−numbered days.
+You see? Akira's not so bad...
+[END]
+3: (Female neurisher) [7a 147][13 1, 417102]There are two types of neurishers in
+Shinjuku: The ones here from the start,
+and those from Kasumigaseki.
+[->]Since we have enough to go around,
+King Akira told us to take turns
+feeding the demonoids.
+[->]I take the even−numbered days.
+King Akira's a pretty cool guy, huh?
+[END]
+4: (Male neurisher) [7a 148][13 1, 417003]Around the time Kenji, who'd just become
+a demonoid, defeated the demon in
+Ichigaya and became King of Tokyo...
+[->]He declared that all residents of Tokyo
+must choose to become either neurishers
+or demonoids.
+[->]Kenji's men took all the normal humans
+left in Tokyo to Ichigaya...
+[->]There, we were forced to undergo
+surgery. Of course, he let us choose
+which operation we wanted...
+[END]
+5: (Male neurisher) [7a 148][13 1, 417000]If you've seen Kenji, maybe you've
+seen this too...
+[->]You went to a lab in Camp Ichigaya,
+didn't you? In a way, that was the
+birthplace for us all...
+[->]Since there are no normal humans left
+in Tokyo, that lab will never again
+see use, I'm sure...
+[END]
+6: (Female demonoid) [7a 104][13 1, 417102]This really is Shinjuku, isn't it!? It's
+like I'm in a dream! The underground
+mall looks like a huge garden...!
+[->]The old Shinjuku occupants were so
+short−sighted. Our boss chose right!
+[END]
+7: (Female demonoid) [7a 104][13 1, 417102]This really is Ichigaya, isn't it!? It's
+like I'm in a dream! Though the shopping
+isn't very good here...
+[->]But the defenses are top−notch! It'll
+make a great fort for us. Our boss
+chose right!
+[END]
+8: (Male demonoid) [7a 167][13 1, 415006]Huh? The boss!? He's over on the other
+side of the shutter... Why?
+[->]He's not the kind of guy you can see
+without an appointment. Get your ass
+home before you get yourself killed.
+[END]
+9: (Male demonoid) [7a 167][13 1, 412007]We cleaned out all the Shinjuku folks
+in this town.
+[->]Wouldn't want to get stabbed in the
+back, right? Huh...? What do you mean,
+my ”fellow demons”?
+[->]Listen, friends. Losers get whacked.
+That's the only rule here in Tokyo,
+you get me?
+[END]
+10: (Male demonoid) [7a 167][13 1, 412003]Our Kasumigaseki crew has rubbed out
+all the old Shinjuku folks.
+[->]Wouldn't want to get stabbed in the
+back, right? Huh...? What do you mean,
+my ”fellow demons”?
+[->]Listen, friends. Losers get whacked.
+That's the only rule here in Tokyo,
+you get me?
+[END]
+11: (Male demonoid) [7a 167][13 1, 412003]Our Kasumigaseki crew has already rubbed
+out all the old Shinjuku folks.
+[->]Wouldn't want to get stabbed in the
+back, right? Huh...? What do you mean,
+my ”fellow demons”?
+[->]Listen, friends. Losers get whacked.
+That's the only rule here in Tokyo,
+you get me?
+[END]
+12: (Akira) [7a 85][13 1, 401701]Oh, my dear masters! I thought you had
+all gone back to your own world!
+[->]I'm going to Ichigaya. A king should
+sit at his throne, you know?
+[->]When my sis died, I craved the power
+to fight... so I became a demonoid.
+[->]But in the end, I realized how
+important the order is... It was
+a little disappointing, sure, but...
+[->]Look, don't worry about this world,
+okay? The King of Tokyo's got it all
+under control!
+[END]
+100: (Male demonoid) [7a 103][13 1, 415101]What's this foul smell...? It smells
+like garbage... Oh, why it's Akira
+the scavenger, isn't it?
+[->]You did get permission from the guard
+to weasel in here, right? If not, I'll
+snap you right in half, you hear?
+[END]
+101: (Male demonoid) [7a 103][13 1, 415100]Hello, my lovely Intruders! Akira's the
+bona fide King of Tokyo now, you know.
+[->]Although... compared to Kenji, the old
+king, he doesn't pack much of a punch
+at all. I feel sorry for him.
+[->]Nevertheless... Hurrah for the birth of
+King Akira...!
+[END]
+103: (Female neurisher) [7a 147][13 1, 417102]There are two types of neurishers in
+Shinjuku: The ones here from the start,
+and those from Kasumigaseki.
+[->]Since we have enough to go around,
+King Akira told us to take turns
+feeding the demonoids.
+[->]I take the even−numbered days.
+You know... I wouldn't mind dating
+King Akira, if he asked...
+[END]
+105: (Male neurisher) [7a 148][13 1, 417000]This is just a rumor... But I heard
+there was a baby born in Kasumigaseki?
+[->]So... what do you think it'll grow up
+to be? A demonoid? Or a neurisher...?
+[->]I guess we can let him decide for
+himself down the line. Maybe he'll even
+have a chance to stay normal...
+[END]
+201: (Female neurisher) [7a 147][13 1, 417103]Huh? You're from Kasumigaseki? You mean
+you're from Akira's sorry crew...?
+[->]I feel sorry for the neurishers stuck
+with those losers.
+[->]They probably never get a moment's rest,
+since such a tiny, weak crew can't
+possibly own many neurishers...
+[END]
+203: (Male neurisher) [7a 148][13 1, 417003]I know it was my own decision, but
+becoming a neurisher was such a
+terrible idea...
+[->]I feel like a cow or something... Only
+alive to feed those above me on the
+food chain...
+[->]Sometimes I wonder what life would be
+like if I'd chosen differently at
+Ichigaya that day...
+[END]
+205: (Female demonoid) [7a 168][13 1, 417104]Say, Akira, who's that you have there
+with you? Huh? Intruders...?
+[->]...Gimme a break. They're probably
+just neurishers with some nifty toys
+they found somewhere, right?
+[->]Why are you so desperate to entertain
+us? Geez.
+[END]

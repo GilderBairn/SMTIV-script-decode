@@ -1,0 +1,18 @@
+0: 〉 Two demons are talking to each other...
+[END]
+1: (Old demon) [7a 65390][13 0, 221001]Look, I told you before...
+[->][13 0, 221002]It's a sad accident, but that's the
+risk you take with fusion.
+[END]
+2: (Demon) [7a 64989][13 0, 221003]......
+[END]
+3: (Old demon) [7a 65390][13 0, 221004]You knew the risks when you signed up
+to become a demonoid, right?
+[END]
+4: (Demon) [7a 64989][13 0, 221005]......
+[END]
+5: (Old demon) [7a 65390][13 0, 221006]No, there's no way to reverse the
+process. Give up.
+[END]
+6: 〉 The conversation continues...
+[END]

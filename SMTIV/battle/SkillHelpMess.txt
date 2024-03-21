@@ -1,0 +1,1266 @@
+1: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+2: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+3: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+4: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+5: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+6: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+7: 1−4 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+8: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+9: 1−4 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+10: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+11: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+12: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+13: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+14: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+15: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+16: 1−4 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+17: 1−4 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+18: Heavy [7d 14] attack
+Can instantly kill. Target: [7d 15]
+[END]
+19: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+20: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+21: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+22: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+23: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+24: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+25: 1−4 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+26: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+27: Heavy [7d 14] attack
+Target: [7d 15] May inflict Panic
+[END]
+28: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+29: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+30: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+31: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+32: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+33: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+34: 1−4 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+35: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+36: 1−4 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+37: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+38: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+39: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+40: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+41: Severe [7d 14] attack
+Target: [7d 15] Effect: Stats down
+[END]
+42: Medium [7d 14] attack
+Target: [7d 15] Effect: Panic
+[END]
+43: [7d 14] attack. Target: [7d 15]
+Effect: Varies with enemy's alignment
+[END]
+44: [7d 14] attack. Target: [7d 15]
+Effect: Varies with enemy's alignment
+[END]
+45: [7d 14] attack. Target: [7d 15]
+Effect: Varies with enemy's alignment
+[END]
+46: [7d 14] attack that drains 
+the enemy's HP. Target: [7d 15]
+[END]
+47: [7d 14] attack that drains 
+the enemy's MP. Target: [7d 15]
+[END]
+48: [7d 14] attack that drains 
+the enemy's HP/MP. Target: [7d 15]
+[END]
+49: [7d 14] instant kill
+Target: [7d 15]
+[END]
+50: [7d 14] instant kill
+Target: [7d 15]; High success.
+[END]
+51: [7d 14] instant kill
+Target: [7d 15]
+[END]
+52: [7d 14] instant kill
+Target: [7d 15]; High success.
+[END]
+53: [7d 14] instant kill
+Target: [7d 15]; Very high success.
+[END]
+54: [7d 14] instant kill
+Target: [7d 15]
+[END]
+55: [7d 14] instant kill
+Target: [7d 15]; High success.
+[END]
+56: [7d 14] instant kill
+Target: [7d 15]
+[END]
+57: [7d 14] instant kill
+Target: [7d 15]; High success.
+[END]
+58: [7d 14] instant kill
+Target: [7d 15]; Very high success.
+[END]
+59: Inflicts the Sleep ailment
+Target: [7d 15]
+[END]
+60: Inflicts the Sleep ailment
+Target: [7d 15]
+[END]
+61: Inflicts the Poison ailment
+Target: [7d 15]
+[END]
+62: Inflicts the Poison ailment
+Target: [7d 15]
+[END]
+63: Inflicts the Bind ailment
+Target: [7d 15]
+[END]
+64: Inflicts the Bind ailment
+Target: [7d 15]
+[END]
+65: Inflicts the Panic ailment
+Target: [7d 15]
+[END]
+66: Inflicts the Panic ailment
+Target: [7d 15]
+[END]
+67: Inflicts the Sick ailment
+Target: [7d 15]
+[END]
+68: Inflicts the Sick ailment
+Target: [7d 15]
+[END]
+69: Inflicts a random ailment
+Target: [7d 15]
+[END]
+70: Inflicts several ailments
+Target: [7d 15]
+[END]
+71: [7d 14] attack that decreases
+MP. Target: [7d 15]
+[END]
+72: [7d 14] attack that decreases
+MP. Target: [7d 15]
+[END]
+73: [7d 14] attack that decreases
+Macca. Target: [7d 15]
+[END]
+74: [7d 14] attack that decreases
+more Macca. Target: [7d 15]
+[END]
+75: [7d 14] attack that reduces
+HP to 1. Target: [7d 15]
+[END]
+76: 1−5 medium [7d 14] element attacks
+Target: [7d 15]
+[END]
+77: Weak [7d 14] attack that reduces HP to
+1 if target is Sick. Target: [7d 15]
+[END]
+78: Dummy
+[END]
+79: Dummy
+[END]
+80: Dummy
+[END]
+81: Heals HP
+Target: [7d 15]
+[END]
+82: Greatly heals HP
+Target: [7d 15]
+[END]
+83: Fully heals HP
+Target: [7d 15]
+[END]
+84: Heals HP
+Target: [7d 15]
+[END]
+85: Greatly heals HP
+Target: [7d 15]
+[END]
+86: Fully heals HP
+Target: [7d 15]
+[END]
+87: Fully heals HP and removes ailments
+Target: [7d 15]
+[END]
+88: Removes Sleep/Panic/Bind ailments
+Target: [7d 15]
+[END]
+89: Removes Sleep/Panic/Bind ailments
+Target: [7d 15]
+[END]
+90: Removes Poison/Sick ailments
+Target: [7d 15]
+[END]
+91: Dummy
+[END]
+92: Removes all ailments
+Target: [7d 15]
+[END]
+93: Revives from KO with half HP
+Target: [7d 15]
+[END]
+94: Revives from KO with full HP
+Target: [7d 15]
+[END]
+95: Revives and heals allies in exchange
+for all HP. Target: [7d 15]
+[END]
+96: Dummy
+[END]
+97: Dummy
+[END]
+98: Dummy
+[END]
+99: Dummy
+[END]
+100: Dummy
+[END]
+101: Increases attack
+Target: [7d 15]
+[END]
+102: Increases hit/evade rate
+Target: [7d 15]
+[END]
+103: Increases defense
+Target: [7d 15]
+[END]
+104: Increases attack/defense/hit/
+evade rate. Target: [7d 15]
+[END]
+105: Removes status buffs
+Target: [7d 15]
+[END]
+106: Decreases attack
+Target: [7d 15]
+[END]
+107: Decreases hit/evade rate
+Target: [7d 15]
+[END]
+108: Decreases defense
+Target: [7d 15]
+[END]
+109: Decreases attack/defense/hit/evade rate
+Target: [7d 15]
+[END]
+110: Removes status debuffs
+Target: [7d 15]
+[END]
+111: Removes status buffs and debuffs
+Target: [7d 15]
+[END]
+112: Decreases attack/defense
+Target: [7d 15]
+[END]
+113: Decreases attack/hit/evade rate
+Target: [7d 15]
+[END]
+114: Decreases defense/hit/evade rate
+Target: [7d 15]
+[END]
+115: Increases attack, decreases defense
+Target: [7d 15]
+[END]
+116: Dummy
+[END]
+117: Increases effect of magic for a few turns
+Target: [7d 15]; Inflicts Panic
+[END]
+118: Repels Phys and Gun attacks for 1 turn
+Target: [7d 15]
+[END]
+119: Repels magic attacks (besides ailments)
+for 1 turn. Target: [7d 15]
+[END]
+120: Prevents 1 Light/Dark instant kill
+Target: [7d 15]
+[END]
+121: Power of next Phys/Gun attack more than 
+doubles. Target: [7d 15]
+[END]
+122: Power of next magic attack more than doubles
+Target: [7d 15]
+[END]
+123: Increases attack/defense/hit/evade rate
+and reduces HP to 1. Target: [7d 15]
+[END]
+124: Summons/returns an ally demon
+Target: [7d 15]
+[END]
+125: Summons/returns an ally demon and revives
+from KO. Target: [7d 15]
+[END]
+126: Dummy
+[END]
+127: Resummons your highest level demons
+from the stock. Target: [7d 15]
+[END]
+128: Dummy
+[END]
+129: Dummy
+[END]
+130: Dummy
+[END]
+131: Dummy
+[END]
+132: Dummy
+[END]
+133: Dummy
+[END]
+134: Dummy
+[END]
+135: Dummy
+[END]
+136: Dummy
+[END]
+137: Guaranteed escape when possible
+Target: [7d 15]
+[END]
+138: Increases maximum HP during battle
+Target: [7d 15]
+[END]
+139: Induces Smirk. Cannot be used when
+suffering an ailment. Target: [7d 15]
+[END]
+140: After using this, attack an enemy on
+the map to banish it if it's low−level
+[END]
+141: Calls an ally
+Target: [7d 15]
+[END]
+142: Dummy
+[END]
+143: Dummy
+[END]
+144: Dummy
+[END]
+145: Dummy
+[END]
+146: Dummy
+[END]
+147: Dummy
+[END]
+148: Dummy
+[END]
+149: Dummy
+[END]
+150: Dummy
+[END]
+151: Weak [7d 14] attack. High critical
+rate/low hit rate. Target: [7d 15]
+[END]
+152: Medium [7d 14] attack. High critical
+rate/low hit rate. Target: [7d 15]
+[END]
+153: Heavy [7d 14] attack. High critical
+rate/low hit rate. Target: [7d 15]
+[END]
+154: Weak [7d 14] attack. High critical
+rate/low hit rate. Target: [7d 15]
+[END]
+155: Medium [7d 14] attack. High critical
+rate/low hit rate. Target: [7d 15]
+[END]
+156: Heavy [7d 14] attack. High critical
+rate/low hit rate. Target: [7d 15]
+[END]
+157: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+158: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+159: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+160: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+161: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+162: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+163: 1−3 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+164: 1−3 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+165: 1−3 heavy [7d 14] attacks
+Target: [7d 15]
+[END]
+166: 1−3 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+167: 1−3 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+168: 1−3 heavy [7d 14] attacks
+Target: [7d 15]
+[END]
+169: Weak [7d 14] attack
+Decreases attack. Target: [7d 15]
+[END]
+170: Weak [7d 14] attack
+Inflicts Sleep. Target: [7d 15]
+[END]
+171: 1−3 medium [7d 14] attacks
+Inflicts Panic. Target: [7d 15]
+[END]
+172: Weak [7d 14] attack
+Inflicts Lost. Target: [7d 15]
+[END]
+173: Dummy
+[END]
+174: Medium [7d 14] attack
+Inflicts Sick. Target: [7d 15]
+[END]
+175: Dummy
+[END]
+176: Weak [7d 14] attack
+Inflicts Poison. Target: [7d 15]
+[END]
+177: Medium [7d 14] attack
+Can instantly kill. Target: [7d 15]
+[END]
+178: Medium [7d 14] attack
+Inflicts Bind. Target: [7d 15]
+[END]
+179: Medium [7d 14] attack
+Inflicts Poison. Target: [7d 15]
+[END]
+180: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+181: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+182: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+183: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+184: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+185: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+186: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+187: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+188: Weak [7d 14] attack
+Inflicts Sleep. Target: [7d 15]
+[END]
+189: Weak [7d 14] attack
+Inflicts Poison. Target: [7d 15]
+[END]
+190: Weak [7d 14] attack
+Inflicts Bind. Target: [7d 15]
+[END]
+191: Weak [7d 14] attack
+Inflicts Panic. Target: [7d 15]
+[END]
+192: 1−3 medium [7d 14] attacks
+Inflicts Bind. Target: [7d 15]
+[END]
+193: 2−4 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+194: 1−5 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+195: Dummy
+[END]
+196: Dummy
+[END]
+197: Dummy
+[END]
+198: Dummy
+[END]
+199: Dummy
+[END]
+200: Dummy
+[END]
+201: Dummy
+[END]
+202: Dummy
+[END]
+203: Dummy
+[END]
+204: Dummy
+[END]
+205: Dummy
+[END]
+206: Dummy
+[END]
+207: Dummy
+[END]
+208: Dummy
+[END]
+209: Dummy
+[END]
+210: Dummy
+[END]
+211: Dummy
+[END]
+212: Dummy
+[END]
+213: Dummy
+[END]
+214: Dummy
+[END]
+215: Dummy
+[END]
+216: Dummy
+[END]
+217: Dummy
+[END]
+218: Dummy
+[END]
+219: Dummy
+[END]
+220: Dummy
+[END]
+221: Dummy
+[END]
+222: Dummy
+[END]
+223: Dummy
+[END]
+224: Dummy
+[END]
+225: Dummy
+[END]
+226: Dummy
+[END]
+227: Dummy
+[END]
+228: Dummy
+[END]
+229: Dummy
+[END]
+230: Dummy
+[END]
+231: Dummy
+[END]
+232: Dummy
+[END]
+233: Dummy
+[END]
+234: Dummy
+[END]
+235: Dummy
+[END]
+236: Dummy
+[END]
+237: Dummy
+[END]
+238: Dummy
+[END]
+239: Dummy
+[END]
+240: Dummy
+[END]
+241: Dummy
+[END]
+242: Dummy
+[END]
+243: Dummy
+[END]
+244: Dummy
+[END]
+245: Dummy
+[END]
+246: Dummy
+[END]
+247: Dummy
+[END]
+248: Dummy
+[END]
+249: Dummy
+[END]
+250: Dummy
+[END]
+251: Dummy
+[END]
+252: Dummy
+[END]
+253: Dummy
+[END]
+254: Dummy
+[END]
+255: Dummy
+[END]
+256: Dummy
+[END]
+257: Dummy
+[END]
+258: Dummy
+[END]
+259: Dummy
+[END]
+260: Dummy
+[END]
+261: Dummy
+[END]
+262: Dummy
+[END]
+263: Dummy
+[END]
+264: Dummy
+[END]
+265: Dummy
+[END]
+266: Dummy
+[END]
+267: Dummy
+[END]
+268: Dummy
+[END]
+269: Dummy
+[END]
+270: Dummy
+[END]
+271: Dummy
+[END]
+272: Dummy
+[END]
+273: Dummy
+[END]
+274: Dummy
+[END]
+275: Dummy
+[END]
+276: Dummy
+[END]
+277: Dummy
+[END]
+278: Dummy
+[END]
+279: Dummy
+[END]
+280: Dummy
+[END]
+281: Dummy
+[END]
+282: Dummy
+[END]
+283: Dummy
+[END]
+284: Dummy
+[END]
+285: Dummy
+[END]
+286: Dummy
+[END]
+287: Dummy
+[END]
+288: Dummy
+[END]
+289: Dummy
+[END]
+290: Dummy
+[END]
+291: Dummy
+[END]
+292: Dummy
+[END]
+293: Dummy
+[END]
+294: Dummy
+[END]
+295: Dummy
+[END]
+296: Dummy
+[END]
+297: Dummy
+[END]
+298: Dummy
+[END]
+299: Dummy
+[END]
+300: Dummy
+[END]
+301: 1−15 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+302: Heavy [7d 14] attack
+Pierce effect. Target: [7d 15] 
+[END]
+303: Removes Tetrakarn effect
+Target: [7d 15]
+[END]
+304: Heavy [7d 14] attack
+May inflict Brand. Target: [7d 15]
+[END]
+305: [7d 14] attack that drains
+the enemy's HP/MP. Target: [7d 15]
+[END]
+306: Heavy [7d 14] attack
+Pierce effect. Target: [7d 15]
+[END]
+307: Inflicts random ailment, including
+Brand. Target: [7d 15]
+[END]
+308: Heavy [7d 14] attack
+Pierce effect. Target: [7d 15]
+[END]
+309: Removes Makarakarn effect
+Target: [7d 15]
+[END]
+310: Induces Smirk. Cannot be used when
+suffering an ailment. Target: [7d 15]
+[END]
+311: [7d 14] attack for
+666 damage. Target: [7d 15]
+[END]
+312: Heavy [7d 14] attack
+Pierce effect. Target: [7d 15]
+[END]
+313: 1−8 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+314: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+315: 1−8 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+316: Heavy [7d 14] attack
+Inflicts Panic. Target: [7d 15]
+[END]
+317: [7d 14] attack for 333 damage. # of
+hits depends on enemy resists. Target: [7d 15]
+[END]
+318: Fully decreases one enemy's stats and
+fully increases your own stats
+[END]
+319: Heavy [7d 14] attack. Decreases
+hit/evade rate. Target: [7d 15]
+[END]
+320: Heavy [7d 14] attack.
+Inflicts enemy weakness. Target: [7d 15]
+[END]
+321: Adds 3 Press Turn Icons
+Target: [7d 15]
+[END]
+322: Dummy
+[END]
+323: Heavy [7d 14] attack
+Inflicts Poison. Target: [7d 15]
+[END]
+324: Heavy [7d 14] attack
+Inflicts Brand. Target: [7d 15]
+[END]
+325: Triples effect of next magic attack
+Target: [7d 15]
+[END]
+326: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+327: Heavy [7d 14] attack
+Inflicts Panic. Target: [7d 15]
+[END]
+328: Triples effect of next Phys/Gun attack
+Target: [7d 15]
+[END]
+329: Dummy
+[END]
+330: Dummy
+[END]
+331: Dummy
+[END]
+332: Dummy
+[END]
+333: Dummy
+[END]
+334: Dummy
+[END]
+335: Dummy
+[END]
+336: Dummy
+[END]
+337: Dummy
+[END]
+338: Dummy
+[END]
+339: Dummy
+[END]
+340: Dummy
+[END]
+341: Dummy
+[END]
+342: Dummy
+[END]
+343: Dummy
+[END]
+344: Dummy
+[END]
+345: Dummy
+[END]
+346: Dummy
+[END]
+347: Dummy
+[END]
+348: Dummy
+[END]
+349: Dummy
+[END]
+350: Dummy
+[END]
+351: Dummy
+[END]
+352: Dummy
+[END]
+353: Dummy
+[END]
+354: Dummy
+[END]
+355: Dummy
+[END]
+356: Dummy
+[END]
+357: Dummy
+[END]
+358: Dummy
+[END]
+359: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+360: Dummy
+[END]
+361: Dummy
+[END]
+362: Dummy
+[END]
+363: Dummy
+[END]
+364: Dummy
+[END]
+365: Dummy
+[END]
+366: Dummy
+[END]
+367: Dummy
+[END]
+368: Dummy
+[END]
+369: Dummy
+[END]
+370: Dummy
+[END]
+371: Dummy
+[END]
+372: Dummy
+[END]
+373: Dummy
+[END]
+374: Dummy
+[END]
+375: Dummy
+[END]
+376: Dummy
+[END]
+377: Dummy
+[END]
+378: Dummy
+[END]
+379: Dummy
+[END]
+380: Dummy
+[END]
+381: Dummy
+[END]
+382: Dummy
+[END]
+383: Dummy
+[END]
+384: Dummy
+[END]
+385: Dummy
+[END]
+386: Dummy
+[END]
+387: Dummy
+[END]
+388: [7d 14] attack
+Target: [7d 15]
+[END]
+389: 2 [7d 14] attacks
+Target: [7d 15]
+[END]
+390: 3 [7d 14] attacks
+Target: [7d 15]
+[END]
+391: 4 [7d 14] attacks
+Target: [7d 15]
+[END]
+392: 5 [7d 14] attacks
+Target: [7d 15]
+[END]
+393: 6 [7d 14] attacks
+Target: [7d 15]
+[END]
+394: 7 [7d 14] attacks
+Target: [7d 15]
+[END]
+395: 8 [7d 14] attacks
+Target: [7d 15]
+[END]
+396: 9 [7d 14] attacks
+Target: [7d 15]
+[END]
+397: 10 [7d 14] attacks
+Target: [7d 15]
+[END]
+398: 11 [7d 14] attacks
+Target: [7d 15]
+[END]
+399: 12 [7d 14] attacks
+Target: [7d 15]
+[END]
+400: Dummy
+[END]
+401: Increases resistance to Phys attacks
+Target: Self
+[END]
+402: Nulls Phys attacks
+Target: Self
+[END]
+403: Repels Phys attacks
+Target: Self
+[END]
+404: Drains Phys attacks
+Target: Self
+[END]
+405: Increases resistance to Gun attacks
+Target: Self
+[END]
+406: Nulls Gun attacks
+Target: Self
+[END]
+407: Repels Gun attacks
+Target: Self
+[END]
+408: Drains Gun attacks
+Target: Self
+[END]
+409: Increases resistance to Fire attacks
+Target: Self
+[END]
+410: Nulls Fire attacks
+Target: Self
+[END]
+411: Repels Fire attacks
+Target: Self
+[END]
+412: Drains Fire attacks
+Target: Self
+[END]
+413: Increases resistance to Ice attacks
+Target: Self
+[END]
+414: Nulls Ice attacks
+Target: Self
+[END]
+415: Repels Ice attacks
+Target: Self
+[END]
+416: Drains Ice attacks
+Target: Self
+[END]
+417: Increases resistance to Elec attacks
+Target: Self
+[END]
+418: Nulls Elec attacks
+Target: Self
+[END]
+419: Repels Elec attacks
+Target: Self
+[END]
+420: Drains Elec attacks
+Target: Self
+[END]
+421: Increases resistance to Force attacks
+Target: Self
+[END]
+422: Nulls Force attacks
+Target: Self
+[END]
+423: Repels Force attacks
+Target: Self
+[END]
+424: Drains Force attacks
+Target: Self
+[END]
+425: Increases resistance to Dark attacks
+Target: Self
+[END]
+426: Nulls Dark attacks
+Target: Self
+[END]
+427: Increases resistance to Light attacks
+Target: Self
+[END]
+428: Nulls Light attacks
+Target: Self
+[END]
+429: Nulls Sleep/Panic
+Target: Self
+[END]
+430: Nulls Poison/Bind/Sick
+Target: Self
+[END]
+431: Strengthens Phys attacks
+Target: Self
+[END]
+432: Greatly strengthens Phys attacks
+Target: Self
+[END]
+433: Strengthens Gun attacks
+Target: Self
+[END]
+434: Greatly strengthens Gun attacks
+Target: Self
+[END]
+435: Strengthens Fire attacks
+Target: Self
+[END]
+436: Greatly strengthens Fire attacks
+Target: Self
+[END]
+437: Strengthens Ice attacks
+Target: Self
+[END]
+438: Greatly strengthens Ice attacks
+Target: Self
+[END]
+439: Strengthens Elec attacks
+Target: Self
+[END]
+440: Greatly strengthens Elec attacks
+Target: Self
+[END]
+441: Strengthens Force attacks
+Target: Self
+[END]
+442: Greatly strengthens Force attacks
+Target: Self
+[END]
+443: Strengthens healing magic
+Target: Self
+[END]
+444: Greatly strengthens healing magic
+Target: Self
+[END]
+445: Revive from KO once per battle with 1 HP
+[END]
+446: Revive from KO once per battle with full HP
+[END]
+447: Chance of countering a Phys or Gun attack
+[END]
+448: High chance of countering a Phys or Gun
+attack
+[END]
+449: Chance of countering a Phys or Gun attack
+to an ally
+[END]
+450: High chance of countering a Phys or Gun
+attack to an ally
+[END]
+451: Recover some HP after a battle
+[END]
+452: Recover some MP after a battle
+[END]
+453: Recover full HP/MP after battle
+[END]
+454: Recover some HP after walking a certain
+distance. Inactive when in the stock.
+[END]
+455: Recover some MP after walking a certain
+distance. Inactive when in the stock.
+[END]
+456: Dummy
+[END]
+457: Dummy
+[END]
+458: Dummy
+[END]
+459: Dummy
+[END]
+460: Dummy
+[END]
+461: Slightly increases maximum HP
+Target: Self
+[END]
+462: Increases maximum HP
+Target: Self
+[END]
+463: Greatly increases maximum HP
+Target: Self
+[END]
+464: Slightly increases maximum MP
+Target: Self
+[END]
+465: Increases maximum MP
+Target: Self
+[END]
+466: Greatly increases maximum MP
+Target: Self
+[END]
+467: Dummy
+[END]
+468: Dummy
+[END]
+469: Dummy
+[END]
+470: Dummy
+[END]
+471: Enables use of healing/support items
+Target: Self
+[END]
+472: Dummy
+[END]
+473: Dummy
+[END]
+474: Dummy
+[END]
+475: Enables use of attack items
+Target: Self
+[END]
+476: Dummy
+[END]
+477: Recover a little HP after a battle
+[END]
+478: Recover a little MP after a battle
+[END]
+479: Increases Agility by 10
+[END]
+480: Increases Agility by 20
+[END]
+481: Increases all stats by 5
+[END]
+482: Decreases chances of suffering ailments
+[END]
+483: Obtain more EXP after battles
+[END]
+484: Obtain much more EXP after battles
+[END]
+485: Increases hit/evade rate
+[END]
+486: Greatly increases hit/evade rate
+[END]
+487: Increases critical hit rate
+[END]
+488: Attacks pierce and nullify the enemy's
+Phys Drain/Null/Resistance
+[END]
+489: Attacks pierce and nullify the enemy's
+Gun Drain/Null/Resistance
+[END]
+490: Attacks pierce and nullify the enemy's
+Fire Drain/Null/Resistance
+[END]
+491: Attacks pierce and nullify the enemy's
+Ice Drain/Null/Resistance
+[END]
+492: Attacks pierce and nullify the enemy's
+Elec Drain/Null/Resistance
+[END]
+493: Attacks pierce and nullify the enemy's
+Force Drain/Null/Resistance
+[END]
+494: Dummy
+[END]
+495: Dummy
+[END]
+496: Dummy
+[END]
+497: Dummy
+[END]
+498: Dummy
+[END]
+499: Dummy
+[END]
+500: Dummy
+[END]

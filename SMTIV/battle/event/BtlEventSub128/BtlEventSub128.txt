@@ -1,0 +1,28 @@
+0: (Dantalian) [7a 0][13 0, 350501]Hahaha... Only a demon can grant a
+human's greedy desire for knowledge.
+[->][13 0, 350502]Those who seek to learn shall become
+nourishment for me, and in turn have
+their wishes granted.
+[END]
+1: 〉 Dantalian's face suddenly turned
+into the baker's!
+[END]
+2: (Baker) [7a 0][13 0, 350503]P−Please! Stop, master Samurai!
+[->][13 0, 350504]I just wanted to know what the
+Luxurors are hiding from us!
+[END]
+3: Continue attacking
+Lower your weapon
+[END]
+4: (Baker) [7a 0][13 0, 350505]Gaaah! Someone... help me!
+[END]
+5: (Baker) [7a 0][13 0, 350506]P−Please...! Master Samurai...!
+[END]
+6: (Dantalian) [7a 0][13 0, 350507]HAHAHAHA. This is far too amusing.
+You shall die cursing your own
+foolishness.
+[END]
+7: (Dantalian) [7a 0][13 0, 350508]Impossible! Me, with my infinite
+knowledge... defeated by a mere
+human? ...How...?
+[END]

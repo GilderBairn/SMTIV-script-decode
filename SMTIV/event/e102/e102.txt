@@ -1,0 +1,16 @@
+0: 〉 You hear a voice coming from the other
+side of the wall...
+[END]
+1: (Voice) [13 1, 403221]It wasn't supposed to be like this...
+[END]
+2: (Voice) I cooperated with Xi Wangmu because
+she said she'd drive out the
+Ashura−kai!
+[->]But it turned out the Ashura−kai was
+the only thing stopping her from eating
+us humans whenever she pleased...
+[END]
+3: (Voice) This is the Ashura−kai's fault too!
+They never told anybody how important
+they were...!
+[END]

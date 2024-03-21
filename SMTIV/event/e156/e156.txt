@@ -1,0 +1,73 @@
+0: (Angel) [7a 91][7b 65627, 65537][13 0, 156011]I am the Herald Uriel.
+[END]
+1: (Angel) [7a 90][7b 65626, 65537][13 0, 156012]And I am Raphael.
+[END]
+2: (Angel) [7a 89][7b 65625, 65537][13 0, 156013]I am Michael.
+[END]
+3: (Angel) [7a 88][7b 65624, 65537][13 0, 156015]And I... I am not Gabby...
+[->][13 0, 156016]But in truth, the Herald Gabriel.
+[END]
+4: (Gabriel) [7a 88][7b 65624, 65537][13 0, 156017]We four Heralds shall act as the new
+leaders of this kingdom.
+[END]
+5: (Jonathan) [7a 3][7b 458755, 65537][13 0, 156018]The legendary angels are here before
+us... Is this a dream?
+[END]
+6: (Gabriel) [7a 88][7b 65624, 65537][13 0, 156019]Under the order of our Lord, I have
+watched over humans living in this
+land as Gabby.
+[->][13 0, 156020]However... as time passed, the people
+of this kingdom became warped.
+[END]
+7: (Gabriel) [7a 88][7b 65624, 65537][13 0, 156021]They speak the Lord's name in vain
+to trumpet their authority and
+manipulate the people to their will...
+[->][13 0, 156022]Our Lord is saddened by this state
+of affairs.
+[END]
+8: (Gabriel) [7a 88][7b 65624, 65537][13 0, 156023]We have sifted through the humans here
+and once again cleansed the land of
+those who were found wanting.
+[->][13 0, 156024]Every human in this land was created
+by our Lord...
+[->][13 0, 156025]There is no life except by following
+His will.
+[->][13 0, 156026]The people of the new Eastern Kingdom
+of Mikado will pursue the true Way
+with us.
+[END]
+9: (Jonathan) [7a 3][7b 655363, 65537][7b 196612, 65537][13 0, 156027]The true way... What could that be...?
+[END]
+10: (Walter) [7a 4][7b 196612, 65537][13 0, 156028]Lilith said something similar,
+didn't she?
+[END]
+11: (Isabeau) [7a 5][7b 655365, 65537][13 0, 156029]Oh, that's right... [Flynn]!
+[->][13 0, 156030]This would be an opportune time to
+tell them about Fujiwara...
+[END]
+12: (Gabriel) [7a 88][7b 65624, 65537][13 0, 156031]You need not tell us.
+[->][13 0, 156032]You must not succumb to the temptation
+of Filth.
+[->][13 0, 156033]Those trapped in Tokyo are the tainted
+souls who were not chosen by our Lord.
+[->][13 0, 156034]They are forbidden to live in this land.
+[END]
+13: (Gabriel) [7a 88][7b 65624, 65537][13 0, 156035]If they attempt to enter this kingdom,
+then we shall once again eliminate them.
+[END]
+14: (Walter) [7a 4][7b 131076, 65537][7b 458757, 65537][13 0, 156036]What do you mean by ”eliminate”!?
+Surely you jest!
+[END]
+15: (Isabeau) [7a 5][7b 655365, 65537][13 0, 156037]Stop it, Walter.
+[END]
+16: (Gabriel) [7a 88][13 0, 156038]I shall repeat myself.
+[->][13 0, 156039]For the sake of rebuilding the Eastern
+Kingdom of Mikado, kill the Black
+Samurai.
+[END]
+17: (Gabriel) [7a 88][13 0, 156040]That is all you need concern yourself
+with.
+[END]
+102: (Michael) [7a 89][7b 65625, 65537][13 0, 156014]Your deed at Shinjuku National Park
+was a grand accomplishment.
+[END]

@@ -1,0 +1,6 @@
+0: 主人公は皆と別れて自室で休みます
+[END]
+1: 〉 Jonathan parted ways with you.
+[->]〉 Walter parted ways with you.
+[->]〉 Isabeau parted ways with you.
+[END]

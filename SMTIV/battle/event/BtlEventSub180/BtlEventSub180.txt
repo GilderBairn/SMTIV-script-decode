@@ -1,0 +1,8 @@
+0: 〉 You have found the demon in
+question...
+[->]〉 The demon seems to have lost its
+mind. The only way to stop it is to
+defeat it and hope it calms down.
+[END]
+1: 〉 The demon runs away...
+[END]

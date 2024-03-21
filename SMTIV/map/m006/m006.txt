@@ -1,0 +1,80 @@
+0: ”There are scary demons outside.”
+[->]”Kids should play underground!”
+[->]〉 ...So the mystic script says.
+[END]
+1: ”Now recruiting Hunters!”
+[->]”For more details, see your local
+Hunter Association.”
+[->]〉 ...So the mystic script says.
+[END]
+12: (Friendly Hunter) [13 1, 403002]Hey there. You're a Hunter, right?
+[->]I'm glad to see you here, because I'm
+in the market for some food.
+[->][13 1, 403042]Let's see... Do you have any
+[Color:0x5][Item 1]?[Color:0x0]
+[->]I'd buy [Color:0x5][Item 1][Color:0x0] for triple
+the market price right now.
+[END]
+13: 〉 Hand over your [Color:0x5][Item 1]?[Color:0x0]
+[END]
+14: Yes
+No
+[END]
+15: (Friendly Hunter) [13 1, 403041]I can't thank you enough. Here's the
+[Color:0x5][Amount 1] Macca[Color:0x0] I owe you.
+[END]
+16: (Friendly Hunter) [13 1, 403033]I hope you'll be around to help me out
+again in a bit.
+[END]
+17: (Friendly Hunter) [13 1, 403042]Oh. Well, that's okay. If you ever
+change your mind, you know where
+to find me.
+[END]
+18: (Friendly Hunter) [13 1, 403042]Hm? You don't have any [Item 1].
+[->]Oops. Sorry if that was an unreasonable
+request.
+[END]
+19: (Friendly Hunter) [13 1, 403001]I've got plenty of food right now. But
+if you come back another time, maybe
+we can do business then.
+[END]
+20: (Greedy Hunter) [13 1, 403013]Whaddaya want!? Don't come over here!
+[->]The treasure around here's all mine.
+[->]I'm gonna grab every last one!
+[END]
+21: (Girl) Are you a Hunter, Mister? Good luck
+with your work!
+[END]
+22: (Boy) Are you a Hunter too? Go get those
+demons!
+[END]
+23: (Middle−aged woman) The world wasn't like this when I was
+younger...
+[END]
+24: (Hunter man) My job this time was a breeze. I made
+a bundle off it.
+[END]
+25: (Hunter man) All I run into lately are weak demons.
+Maybe it's just that I've gotten too
+strong?
+[END]
+26: (Hunter man) There's around 1,200 cherry blossom
+trees in Ueno Park. As you can see,
+though, they're all withered.
+[END]
+27: (Girl) [13 1, 404101]I'm good at polishing shoes! If I do a
+good job, will you pay me?
+[END]
+28: (Boy) [13 1, 404003]...My mom'll yell at me if I talk to
+strangers...
+[END]
+29: (Middle−aged man) [13 1, 403223]Huh? I got a thick accent? Dude, I was
+born an' raised in Tokyo my whole life!
+[END]
+30: (Hunter man) [13 1, 403021]I'm so hungry... I just want something in
+my mouth. Is there any candy around...?
+[END]
+31: (Hunter man) [13 1, 403021]......
+[END]
+32: 〉 The man gave you a sullen look...
+[END]

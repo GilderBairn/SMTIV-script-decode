@@ -1,0 +1,15 @@
+0: I registered your exchange with your fellow Samurai
+as a quest. Looks like that [Color:0x5]Tayama[Color:0x0] guy is calling
+you out. It was a pretty simple message, though...
+Anyway, you just need to get to [Color:0x5]Shibuya.[Color:0x0]
+[END]
+1: Dummy
+[END]
+2: I got a signal from a deep−voiced guy called Tayama,
+from the Ashura−kai. You're supposed to go to [Color:0x5]Club
+Milton[Color:0x0] in [Color:0x5]Shibuya,[Color:0x0] right? Apparently you need to
+[Color:0x5]meet with one of his ”boys”[Color:0x0] there. I've heard of
+Club Milton before, but the data I had on it was
+corrupted. Sorry, but you'll have to find it on
+your own, Master [Flynn].
+[END]

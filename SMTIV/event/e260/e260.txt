@@ -1,0 +1,36 @@
+0: カットアニメにて
+新生悪魔王ルシファーが誕生する
+[END]
+1: (Demon) [7a 64450][13 0, 260006]......
+[END]
+2: (Demon) [7a 64450][13 0, 260007]I...
+[END]
+3: (Demon) [7a 204][13 0, 260008]I am the Demon Lord Lucifer.
+[END]
+4: (Demon Lord Lucifer) [7a 204][13 0, 260009]The son of man, and a demon, reunited
+in one body... This is my truest form.
+[END]
+5: (Voice) [13 0, 260001]...Hoy, where are you going?
+[END]
+6: (Walter) [7a 4][13 0, 260002]Trying to slip away quietly, eh?
+If you mean to flee, you can at
+least let me know.
+[END]
+7: (Walter) [7a 4][13 0, 260003]Though come to think on it... We have
+nowhere to flee to.
+[END]
+8: (Walter) [7a 4][7b 589828, 65537][13 0, 260004]Hrm... what should we do...?
+[END]
+104: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+204: (Demon Lord Lucifer) [7a 204][13 0, 260010]You, son of man, who desires a world
+of freedom.
+[END]
+304: (Demon Lord Lucifer) [7a 204][13 0, 260011]Let us pass through Naraku together.
+We will demonstrate the laws of power
+to the kingdom of deceit.
+[END]
+900: ルシファーとの合体イベントが終了するまで
+ワルターによって部屋を出るのを止められます
+[END]

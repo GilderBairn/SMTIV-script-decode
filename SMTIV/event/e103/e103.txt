@@ -1,0 +1,20 @@
+0: 〉 You hear a voice coming from the other
+side of the wall...
+[END]
+1: (Voice) [13 1, 403103]Is someone there...?
+[->]I'm bored. Humor me and let's talk
+a while. That is what I do for a
+living, after all...
+[END]
+2: (Voice) Now don't get me wrong, I hated the
+Ashura−kai for the way they'd take
+their ”payment” in trade...
+[->]But it's better that than the
+alternative, you know? Those demons
+only want to devour us...
+[END]
+3: (Voice) I can understand that people are
+desperate for change...
+[->]But they really screwed everyone over
+in the name of ”justice”!
+[END]

@@ -1,0 +1,70 @@
+0: [71 1]A new... skill...
+Fitting... for a... patriot...
+[->][END]
+1: [71 1]A new... skill...
+Fitting... for a... patriot...
+[->][END]
+2: [71 1]A new... skill...
+Fitting... for a... patriot...
+[->][END]
+3: [71 1]My patriotism knows... no bounds...
+My terror... increases...
+[->][END]
+4: [71 1]I can't... hold any more... skills... Pick... which one... will be sacrifices... for our country...
+[->][END]
+5: [71 1][Color:0x5][Skill 1][Color:0x0] becomes...
+[Color:0x5][Skill 2]...[Color:0x0]
+What do you... think of... my plan...?
+[->][END]
+6: [71 1][Color:0x5][Skill 1][Color:0x0] becomes...
+another skill... What do you...
+think of... my plan...?
+[->][END]
+7: [71 1]Commencing... operation...
+[->][END]
+8: [71 1]You bastard...
+You call... yourself... a patriot...?
+[->][END]
+9: [71 1]It's... [Color:0x5][Skill 1]...[Color:0x0]
+Now we can... operate... even better...
+[->][END]
+10: [71 1]Transformation selection message (provisional)
+[->][END]
+11: [71 1]Transformation OK message (provisional)
+[->][END]
+12: [71 1]Transformation cancel message (provisional)
+[->][END]
+13: [71 1]Transformation complete message (provisional)
+[->][END]
+14: [71 1]Transformation omen message (provisional)
+[->][END]
+15: [71 1]Take this... [Color:0x5][Item 1]...[Color:0x0]
+I'm counting... on you... comrade...
+[->][END]
+16: [71 1]Take this... [Color:0x5][Item 1]...[Color:0x0]
+I'm counting... on you... comrade...
+[->][END]
+17: [71 1]Take this... [Color:0x5][Item 1]...[Color:0x0]
+I'm counting... on you... comrade...
+[->][END]
+18: [71 1]You will learn... to be as
+patriotic... as me...
+[->][END]
+19: [71 1]Do you... understand... patriotism...?
+[->][END]
+20: [71 1]I am... [Color:0x5][Demon race 1] [Demon name 1]...[Color:0x0]
+Let us fight... for our country...
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

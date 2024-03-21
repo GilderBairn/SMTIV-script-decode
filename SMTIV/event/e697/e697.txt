@@ -1,0 +1,66 @@
+0: (Aniel) [7a 65519][13 0, 697000]Ah, my thanks for coming. It would
+seem that you have accepted the quest
+in question.
+[->][13 0, 697001]I shall call for Sister Gabby.
+Please wait a moment.
+[END]
+1: (Gabby) [7a 11][13 0, 697002]So, you have accepted our task,
+honorable warrior of light.
+[END]
+2: (Aniel) [7a 65519][13 1, 465003]It appears that Azazel is deep within
+Kiccigiorgi Forest.
+[->]We are counting on you to eliminate
+him, honorable Samurai.
+[END]
+3: 〉 There is something standing near
+the cliff...
+[END]
+4: Take a closer look
+Keep your distance
+[END]
+5: 〉 You leave the area...
+[END]
+6: (Demon) [7a 64577][13 0, 697006]A child of man... Or, perhaps, a mere
+puppet taking one's shape...
+[->][13 0, 697007]My name is Azazel. Here, I bestow
+knowledge upon children of men.
+[END]
+7: (Azazel) [7a 64577][13 0, 697008]There is no need to say anything.
+I know why you are here.
+[->][13 0, 697009]You have ceased to think for yourself,
+and only act as the angels wish you
+to. You have come to slay me.
+[->][13 0, 697010]You would interfere with my plans,
+even though you are a child of man...
+Such a pitiful existence.
+[END]
+8: (Gabby) [7a 11][13 0, 697011]Splendid work on slaying the demon,
+O honorable warrior of light.
+[->][13 0, 697012]So Azazel was bestowing knowledge to
+people... Just as Lilith had done
+before.
+[->][13 0, 697013]It is true that knowledge will set
+people free.
+[->][13 0, 697014]But, this freedom also causes
+suffering.
+[->][13 0, 697015]Freedom does not necessarily lead to
+salvation.
+[->][13 0, 697016]The Lord's guidance is crucial for the
+people to have happiness. That is the
+path the Lord has ordained.
+[->][13 0, 697017]You must protect the Lord's will as
+well. We are all counting on you.
+[END]
+9: (Gabby) [7a 11][13 0, 697003]I have taken the form of Gabby to make
+this request, so I shall keep it while
+speaking to you.
+[->][13 0, 697004]I hear that the demon I wish slain,
+Azazel, is in Kiccigiorgi Forest.
+[->][13 0, 697005]I have no doubt that a warrior of
+light such as yourself will have no
+problems. I await your return.
+[END]
+10: 〉 Gabby leaves quietly...
+[END]
+900: 〉 There is no one here...
+[END]

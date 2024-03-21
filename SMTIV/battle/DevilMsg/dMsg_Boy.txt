@@ -1,0 +1,73 @@
+0: [71 1]I learned a new skill!
+I'm strong now!
+[->][END]
+1: [71 1]Look! It's my new super skill!
+[->][END]
+2: [71 1]Check out my new skill!
+I'm so awesome!
+[->][END]
+3: [71 1]Look how strong I am now!
+I'm the best!
+[->][END]
+4: [71 1]Why can't I hold all these skills?
+I have to drop one...
+[->][END]
+5: [71 1]All right! I'll change
+[Color:0x5][Skill 1][Color:0x0] into
+[Color:0x5][Skill 2]![Color:0x0]
+[->][END]
+6: [71 1]All right! I'll change
+[Color:0x5][Skill 1][Color:0x0] into
+something cool!
+[->][END]
+7: [71 1]Don't blame me if anything goes wrong!
+[->][END]
+8: [71 1]Urgh... Fine then!
+[->][END]
+9: [71 1]It became [Color:0x5][Skill 1]![Color:0x0]
+Isn't that cool?
+[->][END]
+10: [71 1]All right, time to transform!
+I'll show you who I really am!
+[->][END]
+11: [71 1]Here I go! Transsss...form!
+[->][END]
+12: [71 1]Aw... I really wanted to show you
+how awesome I really am...
+[->][END]
+13: [71 1]Yayyy! I'm done!
+[->][END]
+14: [71 1]I think I might be able to
+[Color:0x5]transform[Color:0x0] soon...
+[->][END]
+15: [71 1]Hey, I found a [Color:0x5][Item 1][Color:0x0]
+over there! You can have it.
+[->][END]
+16: [71 1]Here, have a [Color:0x5][Item 1],[Color:0x0]
+Mister... Because you're always
+fighting.
+[->][END]
+17: [71 1]Have this [Color:0x5][Item 1]![Color:0x0]
+It's my favorite!
+[->][END]
+18: [71 1]Hehehehehe! I'll teach you the power
+of demons!
+[->][END]
+19: [71 1]I still can teach you more!
+[->][END]
+20: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+Nice to meet you!
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

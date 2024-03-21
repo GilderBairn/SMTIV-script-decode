@@ -1,0 +1,8 @@
+0: (Bai Suzhen) [7a 0][13 1, 418007]Oh... Ohhhhh... He's so close...
+He's right here... Right above me!
+[->]Don't... get in my way...!
+...GET OUT OF MY WAY!
+[END]
+1: (Bai Suzhen) [7a 0][13 1, 418006]Augh... Why...?
+Why do you do this...?
+[END]

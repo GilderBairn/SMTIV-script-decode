@@ -1,0 +1,15 @@
+0: (Announcer) [7a 138][13 1, 406002]It would appear a Hunter and a demon
+have crossed paths here at the
+East Gate's Main Street.
+[->]The demons from the Red Team who
+face the White Team's skilled
+Hunter are...
+[->]It's the popular girl group,
+”The Apsaras Project”!
+[END]
+1: [13 1, 497250]With these legs!
+With these looks!
+With this dance!
+Please cheer us on!
+We'll charm you all!
+[->][END]

@@ -1,0 +1,51 @@
+0: 〉 A passage in mystic script appears
+on the Gauntlet...
+[END]
+1: (Pyro Jack) [7a 0]Hee ho there!
+We're the Jack Brothers, ho!
+[->]We've gotten even stronger since
+our long−lost brother, Jack the
+Ripper, joined us!
+[->]Our little team is totally
+balanced, and we've got some
+extr−hee−me firepower, ho!
+[->]Hee hee hee ho ho!
+You think you've got what it takes
+to b−hee−t us, ho?
+[END]
+2: [->][END]
+3: Check action start
+[->][END]
+4: HP 75% or lower
+[->][END]
+5: HP 50% or lower
+[->][END]
+6: HP 25% or lower
+[->][END]
+7: Check action end
+[->][END]
+8: [->][END]
+9: 〉 [Flynn] runs past the boundary to
+the virtual battle, and the simulation
+ends...
+[END]
+10: Check enemy escape
+[->][END]
+11: 〉 The enemy was not eliminated within
+the turn limit.
+[->]〉 The simulation ends...
+[END]
+12: Tentative enemy, Pyro Jack
+[->][END]
+13: 〉 The enemy was successfully
+eliminated within the turn limit.
+[->]〉 The simulation ends...
+[END]
+100: ”Demon training program −− Ready
+ Training Battle 2 −− Begin”
+[->][Color:0x5]”These demons have gathered to cover
+each others' weaknesses. Defeat them
+all in a single turn!”[Color:0x0]
+[END]
+1000: Test
+[->][END]

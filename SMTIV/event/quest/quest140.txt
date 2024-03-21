@@ -1,0 +1,17 @@
+0: I want to leave Shinjuku and make Ikebukuro
+my new base of operations. A city free from
+the Ashura−kai sounds like Heaven! But I want
+to know what kind of place Ikebukuro is. Please
+take two [Color:0x5]pictures[Color:0x0] for me: of the [Color:0x5]really tall
+building[Color:0x0] and of the [Color:0x5]train station east gate.[Color:0x0]
+Once you've got those pictures, come see me.
+I'll be near Shinjuku's west gate.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

@@ -1,0 +1,22 @@
+0: Rather than the Eastern Kingdom of Mikado granted
+by God, or the demon−haunted Tokyo, humanity will
+get their everyday world back. But first, you need
+to [Color:0x5]defeat God's chariot and the Demon Lord to
+remove the ceiling over Tokyo.[Color:0x0] I'm sure the goddess
+of Tokyo is dying to meet you, Master [Flynn].
+[END]
+1: Dummy
+[END]
+2: All that remains now is the Demon Lord. But where
+could he be? Come to think of it, we haven't heard
+anything about his whereabouts. But [Color:0x5]considering
+he's the lord of demons, he must be somewhere
+related to them.[Color:0x0] Sorry, Master [Flynn],
+but that's all I have for you. You'll have to
+find him on your own.
+[END]
+3: Finally, we have both the Great Spirit of Goodwill
+and the Great Spirit of Spite. The time for you to
+meet her has come at last. Come on, Master Isabeau
+is waiting! Let's hurry and [Color:0x5]go to Shinjuku.[Color:0x0]
+[END]

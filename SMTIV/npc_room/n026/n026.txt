@@ -1,0 +1,221 @@
+0: (Ashura−kai man) [7a 46][13 1, 404311]Just 'cause you're a Hunter, that don't
+make ya hot shit, capiche?
+[->]Even the toughest fighter ain't no
+match for the boss' demons.
+[END]
+1: (Ashura−kai man) [7a 46][13 1, 404311]I heard there's some guy who wears
+steel armor... Probably one of them
+Hunters.
+[->]And here I thought we salvaged pretty
+much all the goodies in Tokyo. Wonder
+where he found it...
+[END]
+2: (Ashura−kai man) [7a 46][13 1, 404311]I−I heard from the boys in Shibuya that
+they got demons pourin' outta Ichigaya,
+one after the other!
+[->]Wh−What's Mr. Tayama doing!? He ain't
+given us any orders yet...!
+[->]If he lets demons loose in Tokyo to do
+whatever they want, this city's gonna
+go straight to shit...
+[END]
+3: (Ashura−kai man) [7a 46][13 1, 404311]Oh hey, if it ain't the champ! I always
+knew you were somethin', ya know?
+[->]I say Tayama's old news! You're the
+risin' star in Tokyo!
+[END]
+4: (Ashura−kai man) [7a 46][13 1, 404311]Oh hey, if it ain't the champ! I always
+knew you were somethin', ya know?
+[->]I hear there's some wiseguy called the
+Demon Lord or somethin'... But you're
+the man right now!
+[END]
+5: (Ashura−kai man) [7a 46][13 1, 404311]If you're willin'... I could call
+around, make some arrangements.
+Whaddaya say?
+[->]C'mon, don't act like ya don't know!
+I'm talkin' about ya steppin' up as
+the Ashura−kai's new leader!
+[END]
+6: (Hunter woman) [7a 68][13 1, 403102]If you go south from Ueno, you'll find
+some demons called Kelpies by the
+riverbed.
+[->]They used to live in Shinobazu Pond,
+but they got kicked out after losing
+a turf dispute with another demon.
+[END]
+7: (Hunter woman) [7a 68][13 1, 403103]Kelpies aren't the only ones you can
+turn to for river crossings.
+[->]Sometimes you can hire a ferryman to
+help you across a river. Though it
+won't be free...
+[END]
+8: (Hunter woman) [7a 68][13 1, 403103]I hear the Ring of Gaea is pretty
+popular out in Ginza...
+[->]That's fine for folks who like buddying
+up with demons, but a girl like me can't
+even stand to bathe in the water there.
+[END]
+9: (Hunter woman) [7a 68][13 1, 403103]An overall ranking, huh? I bet it's
+some stunt of the Association's...
+[->]But it seems like everyone's doing it
+nowadays. Should I get in on it...?
+Hmm...
+[END]
+10: (Hunter woman) [7a 68][13 1, 403142]I hear the Ring of Gaea's still going
+strong in Ginza...
+[->]I'm sure the kind of guys who love
+buddying up to demons are thrilled
+that they're all over Tokyo.
+[END]
+11: (Hunter woman) [7a 68][13 1, 403103]I hear the Ring of Gaea's still going
+strong in Ginza...
+[->]Their motto is, ”So long as man roams
+the Earth, demons will always be there.”
+[->]The fact is, the demons aren't entirely
+wiped out... I guess it's a harsh
+reality we'll have to live with.
+[END]
+12: (Thug) [7a 121][13 1, 403021]Y'know what? I really wanna dig in with
+some real yakitori and get drunk on
+some real beer...
+[->]Say, you think the Ashura−kai's hiring?
+I could be a receptionist or a collection
+officer or whatever shit they want...
+[END]
+13: (Thug) [7a 121][13 1, 403021]If the rumor about the Ashura−kai
+gettin' disbanded is true... What's
+that mean for me...?
+[->]My whole plan to join up with them,
+drink their good hooch, and shack up
+with some broads will be for nothing!
+[END]
+14: (Thug) [7a 121][13 1, 403042]If that rumor about the Ashura−kai is
+true, I'll never get to drink their
+hooch or screw their broads!
+[->]Do they want me to die in this shithole
+of an underground district!?
+[END]
+15: (Thug) [7a 121][13 1, 403002]What the!?  It's the champion! I was
+followin' you in the rankings!
+[->]That finishin' surge was awesome! The
+best! Dude, I love you. No foolin',
+I seriously love you, man!
+[END]
+16: (Thug) [7a 121][13 1, 403002]Hey, champ. I came up with a good idea
+for work the other day.
+[->]Since that Demon Lord is gone, there'll
+be other morons doin' bad stuff, yeah?
+[->]So I could go around the city as a
+patrolman to warn 'em off.
+[->]Of course, I'd charge protection
+money... What do you think?
+[END]
+101: (Ashura−kai man) [7a 46][13 1, 404311]The schmuck who killed those demons in
+Shinjuku and Ikebukuro... According to
+eyewitnesses, it was the same guy...
+[->]Who the hell would have the nerve to
+mess around like that on our turf?
+[END]
+102: (Ashura−kai man) [7a 46][13 1, 404311]I−I heard from the boys in Shibuya that
+they got demons pourin' outta Ichigaya,
+one after the other!
+[->]Wh−What's Mr. Tayama doing!? He ain't
+given us any orders yet...!
+[->]If he lets demons loose in Tokyo to do
+whatever they want, this city's gonna
+go straight to shit...
+[END]
+106: (Hunter woman) [7a 68][13 1, 403102]For some reason, the Kelpies are always
+encouraging me to cross the bridge...
+[->]I don't, of course. Even if I cross,
+what's there for me? The only thing on
+the other side is some broken−down base.
+[END]
+110: (Hunter woman) [7a 68][13 1, 403142]I hear the Ring of Gaea's still going
+strong in Ginza...
+[->]All those demons coming out from
+Ichigaya... And those demon−lovers
+are standing there with welcome signs!
+[END]
+112: (Thug) [7a 121][13 1, 403021]Y'know what? I really wanna dig in with
+some real yakitori and get drunk on
+some real beer...
+[->]I hear you can get real meat in Shinjuku.
+That's why I love the Ashura−kai with
+all my heart!
+[END]
+114: (Thug) [7a 121][13 1, 403042]If that rumor about the Ashura−kai is
+true, I'll never get to drink their
+hooch or screw their broads!
+[->]Do they want me to die in this shithole
+of an underground district!?
+[->]Well, if that ranking shit wasn't as
+exciting as it is, I woulda died in
+here for real.
+[->]I had my eye on that guy called
+[Flynn], y'know?
+[END]
+201: (Ashura−kai man) [7a 46][13 1, 404311]That demon in Shibuya? It was a
+National Defense Divinity controlled
+by you−know−who.
+[->]And this guy cleans its clock! No wonder
+Mr. Tayama's taken an interest...
+[END]
+202: (Ashura−kai man) [7a 46][13 1, 404311]I−I heard from the boys in Shibuya that
+they got demons pourin' outta Ichigaya,
+one after the other!
+[->]Wh−What's Mr. Tayama doing!? He ain't
+given us any orders yet...!
+[->]M−Maybe I oughtta switch sides... Yeah,
+I'll go see what's goin' on in Shinjuku.
+[END]
+212: (Thug) [7a 121][13 1, 403021]Dude... Listen, man, real meat...
+Ueno should get in on that shit...
+[->]I'm talkin' about raisin' livestock,
+of course! They do that in Shinjuku
+National Park too.
+[END]
+301: (Ashura−kai man) [7a 46][13 1, 404311]Hey, I heard Mr. Tayama went easy
+on ya.
+[->]That mercy from a man who lives his life
+in a world where mercy is a weakness...
+It's a rare gift, capiche?
+[->]That means he's put his trust in ya.
+I wouldn't let him down, if ya know
+what I mean.
+[END]
+302: (Ashura−kai man) [7a 46][13 1, 404311]I−I heard from the boys in Shibuya that
+they got demons pourin' outta Ichigaya,
+one after the other!
+[->]Wh−What's Mr. Tayama doing!? He ain't
+given us any orders yet...!
+[->]M−Maybe I oughtta switch sides...
+[END]
+312: (Thug) [7a 121][13 1, 403021]Damn, Ueno sure is the pits. They should
+start sellin' Reds here. That'd liven
+up the place, no doubt.
+[->]Hell, there's plenty of good spots
+for it. Like that strip club or the
+old Ameya−Yokocho lot.
+[END]
+401: (Ashura−kai man) [7a 46][13 1, 404311]I knew this day would come someday...
+I feel sorry for you, I really do.
+[->]'Cause you've forced Mr. Tayama to
+summon his demon...
+[END]
+402: (Ashura−kai man) [7a 46][13 1, 404311]How come Mr. Tayama ain't given us any
+orders!? Demons are pourin' out from
+Ichigaya as we speak...
+[->]Maybe I oughtta switch sides... Who was
+that guy at the top of the rankings?
+[->]Yeah, [Flynn], him! I better
+sweeten him with some bribes while
+I can...
+[END]
+412: (Thug) [7a 121][13 1, 403021]What'll it mean for me if the Ashura−kai
+gets whacked...!?
+[->]My whole plan to join up with them,
+drink their good hooch, and shack up
+with some broads will be for nothing!
+[END]

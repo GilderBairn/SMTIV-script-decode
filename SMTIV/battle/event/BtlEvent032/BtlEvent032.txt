@@ -1,0 +1,125 @@
+0: (Earthy man) [7a 59][13 0, 303200]I've been playing it a little too
+straight with you so far. I gotta
+throw in a few curveballs, too.
+[->][13 0, 303201]How do these guys look? Seem like the
+technical types, don't they?
+[->][13 0, 303202]They'll toy with you some...
+before they send you to hell!
+[END]
+1: (Guard−like man) [7a 60][13 0, 303203]I've been playing it a little too
+straight with you so far. I gotta
+throw in a few curveballs, too.
+[->][13 0, 303204]What do you say to these guys? They're
+the technical type...
+[->][13 0, 303205]I'll let 'em toy with you a bit before
+they send you to hell!
+[END]
+2: (Host−like man) [7a 120][13 0, 303206]I've been playing it a little too
+straight with you so far. I gotta
+throw in a few curveballs, too.
+[->][13 0, 303207]Take these guys, for instance. Don't
+they look like the technical type
+to you?
+[->][13 0, 303208]They'll toy with you a little before
+they send you to hell...!
+[END]
+3: (Sloppy man) [7a 63][13 0, 303209]Maybe I've been keeping it too simple
+so far. I'd better try throwing you
+a curveball...
+[->][13 0, 303210]How about these guys? They're kinda
+technical types, I think.
+[->][13 0, 303211]They're gonna chew you up and spit
+you right out...!
+[END]
+4: (Heavily made−up girl) [7a 123][13 0, 303212]So like, I guess my demons were too
+boring until now. And I'd be better
+off mixing it up or something?
+[->][13 0, 303213]Like, how do these guys look? Don't
+they seem totally technical?
+[->][13 0, 303214]Doesn't it seem like they're gonna
+mess with you before they wipe you out?
+[END]
+5: (Anachronistic man) [7a 29][13 0, 303215]Mine demons hath been too regular in
+nature thus far. I must introduce a
+new wrinkle into our rivalry.
+[->][13 0, 303216]What sayest thou to these? Do they
+not seem the technical sort?
+[->][13 0, 303217]They shall sport with thee for a time
+before sending thee to hell!
+[END]
+6: (Businesslike man) [7a 47][13 0, 303218]Perhaps I've been approaching this
+too narrowly. I might be better served
+throwing a curveball or two.
+[->][13 0, 303219]Do you think these will qualify?
+I believe they're more the technical
+type.
+[->][13 0, 303220]I'll allow them to toy with you a bit
+before they send you to hell.
+[END]
+7: (Intuitive man) [7a 118][13 0, 303221]The problem is I've been playing it
+too predictable, eh? I gotta try
+somethin' you won't see comin'.
+[->][13 0, 303222]How do these guys look to you? Think
+you can handle the more technical type?
+[->][13 0, 303223]I can see them toying with you a
+little before finishing you off...!
+[END]
+500: (Earthy man) [7a 59][13 0, 301224]It ain't gonna be like this next time!
+You better remember that!
+[END]
+501: (Guard−like man) [7a 60][13 0, 301225]You're not getting off this easy
+next time. Remember that!
+[END]
+502: (Host−like man) [7a 120][13 0, 301226]You'll be singing a different tune
+next time! Just remember that!
+[END]
+503: (Sloppy man) [7a 63][13 0, 301227]It ain't gonna go like this next time!
+You better remember that!
+[END]
+504: (Heavily made−up girl) [7a 123][13 0, 301228]So like, I hope you know it's not
+gonna go so crappy for me next time
+and stuff!
+[END]
+505: (Anachronistic man) [7a 29][13 0, 301229]'Twill not go so miserably for me
+our next go−round! Remember that!
+[END]
+506: (Businesslike man) [7a 47][13 0, 301230]It won't go this way next time.
+You can bank on that.
+[END]
+507: (Intuitive man) [7a 118][13 0, 301231]I don't see it going this way the
+next time! You remember that!
+[END]
+600: (Earthy man) [7a 59][13 0, 305041]Damn, you took all the Terminals.
+[->][13 0, 305042]Heh, you got me good! Man, Samurai
+are something else!
+[END]
+601: (Guard−like man) [7a 60][13 0, 305043]Well, you've taken all the Terminals
+now...
+[->][13 0, 305044]You win. I gotta say, Samurai are
+pretty impressive.
+[END]
+602: (Host−like man) [7a 120][13 0, 305045]So all the Terminals are yours now.
+[->][13 0, 305046]All right, I accept defeat. Samurai
+are pretty impressive, it seems.
+[END]
+603: (Sloppy man) [7a 63][13 0, 305047]You got all the Terminals now...
+[->][13 0, 305048]Yep, time to pack it in. Guess
+there ain't no beating a Samurai!
+[END]
+604: (Heavily made−up girl) [7a 123][13 0, 305049]Aww, is that like, all the Terminals?
+[->][13 0, 305050]So I guess I lose? Was there like,
+any way I could have beaten a Samurai?
+[END]
+605: (Anachronistic man) [7a 29][13 0, 305051]'Twould seem that thou hath captured
+all of the Terminals.
+[->][13 0, 305052]I concede defeat. Thou Samurai art
+truly impressive.
+[END]
+606: (Businesslike man) [7a 47][13 0, 305053]All the Terminals are yours now.
+[->][13 0, 305054]Very well, you win. Samurai are truly
+fearsome opponents.
+[END]
+607: (Intuitive man) [7a 118][13 0, 305055]You've taken all the Terminals now...
+[->][13 0, 305056]Alright, I admit defeat! I should've
+seen this coming against a Samurai!
+[END]

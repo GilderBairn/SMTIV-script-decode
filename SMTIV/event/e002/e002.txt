@@ -1,0 +1,24 @@
+0: (Voice) [7a 112][13 0, 2004]...You finally made it. Now I can
+take shape too...
+[END]
+1: (Young man) [7a 27][13 0, 2005]I was fighting damn hard when I
+waited for you to show up.
+[END]
+2: (Young man) [7a 27][13 0, 2006]You do remember me, right?
+[->][13 0, 2007]That's right... 
+[->][13 0, 2097]I'm Walter.
+[END]
+3: (Walter) [7a 27][13 0, 2008]Whatever happens after this, you'd
+better not forget me.
+[->][13 0, 2009]Because you and me are going to
+make a world where anything can be
+changed if you have the will...
+[END]
+4: (Voice) [13 0, 2001]Oh, so there you are.
+[->][13 0, 2002]Hey. Over here.
+[END]
+5: 〉 You are met with a vision of a city
+in flames...
+[END]
+6: (Voice) [13 0, 2003]No, not there. Over here!
+[END]

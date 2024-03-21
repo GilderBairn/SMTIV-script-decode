@@ -1,0 +1,13 @@
+0: (Omoikane) [7a 0][13 0, 302701]Thinking about it, much time has passed
+since I governed over knowledge.
+[->][13 0, 302702]Those who repay their debt to this
+country with knowledge shall gain form,
+becoming a ghost of national defense.
+[->][13 0, 302703]If you are still a fool even after
+gaining knowledge, then you will learn
+the meaning of death.
+[END]
+1: (Omoikane) [7a 0][13 0, 302704]Knowledge... and wisdom... are for the
+happiness... of the people...
+[->][13 0, 302705]How will you... guide this country...?
+[END]

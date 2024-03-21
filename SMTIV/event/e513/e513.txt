@@ -1,0 +1,104 @@
+1: 〉 Things are scattered everywhere.
+[END]
+2: 〉 There is something on the floor.
+[END]
+3: 〉 There is nothing else here that seems
+useful.
+[END]
+4: 〉 Obtained Dx Incense.
+[END]
+5: 〉 Obtained St Incense.
+[END]
+6: 〉 Obtained Ma Incense.
+[END]
+7: 〉 Obtained Ag Incense.
+[END]
+8: 〉 Obtained Lu Incense.
+[END]
+9: (Mastema) [7a 65520][13 1, 446002]Though it may be temporary, Tayama
+brought order to a Tokyo filled with
+confusion...
+[->]I have decided that this is what the
+Lord desires. That is why I overlook
+the use of the Reds.
+[END]
+10: (Mastema) [7a 65520]...Ah, it seems I have said too much.
+[END]
+11: (Mastema) [7a 65520][13 1, 446004]You wish to go on ahead, correct? I have
+already lifted my barrier.
+[->]Be careful on your way... my fellow.
+[END]
+12: (Mastema) [7a 65520][13 1, 446004]You are free to condemn the Reds as
+inhumane or defend them as a necessary
+evil...
+[->]Temporary though it maybe, they bring
+order to Tokyo. I have decided that this
+is what the Lord wishes.
+[END]
+13: (Mastema) [7a 65520]My fellow, do not be deluded by the
+witch of the night...
+[END]
+14: (Mastema) [7a 65520][13 1, 446001]...You plan to slay the witch of the
+night, correct?
+[->]I leave that task to you. I will continue
+to supervise the Reds from here.
+[END]
+15: (Mastema) [7a 65520]Let us both carry out our roles. I wish
+you good luck...
+[END]
+16: (Mastema) [7a 65520][13 1, 446002]...You plan to side with the witch of
+the night, correct?
+[END]
+17: (Mastema) [7a 65520]Turning one's back to the Lord may also
+be a chance to learn of His greatness...
+[->]In the hopes this will come to pass,
+I shall overlook your actions.
+[END]
+18: (Mastema) [7a 65520][13 1, 446000]No matter what way you choose, I shall
+remain here to supervise the Reds.
+[->]...Now, go.
+[END]
+19: (Mastema) [7a 65520][13 1, 446003]Gracious... to think that a son of man
+could grow so great as to have the Lord's
+chariot at his beck and call.
+[END]
+20: (Mastema) [7a 65520]If the Lord wishes for the eradication
+of the Unclean Ones, you must devote
+yourself to carrying out His will.
+[END]
+21: (Mastema) [7a 65520]I shall continue to supervise the Reds
+from here...
+[->]Until the very moment you erase Tokyo...
+[END]
+22: (Mastema) [7a 65520][13 1, 446003]Ah... to think that the son of man,
+created by our Lord, would be in league
+with the Demon Lord...
+[END]
+23: (Mastema) [7a 65520]Hoho, be you relieved. I do not
+condemn you.
+[END]
+24: (Mastema) [7a 65520][13 1, 446000]My duty is to supervise the Reds, not to
+do battle with demons.
+[->]The Lord's chariot will be intervening.
+There is no need for me to take an
+active hand in the conflict...
+[END]
+25: (Mastema) [7a 65520][13 1, 446001]...I did not recognize you for a moment.
+Your face looks even more intrepid than
+before.
+[END]
+26: (Mastema) [7a 65520]I have heard that you rejected a world
+of angels or demons, and chose to return
+Tokyo to its previous state.
+[->]That is indeed an admirable choice.
+Though of course, it means prolonging
+the suffering of the sons of man...
+[->]What you see as the best way may not
+be desirable to all... no?
+[END]
+27: (Mastema) [7a 65520][13 1, 446004]...'Tis no sin to be troubled. Doubts
+are but an opportunity for the seed of
+belief in the Lord to germinate.
+[END]
+28: 〉 Mastema is no longer here...
+[END]

@@ -1,0 +1,80 @@
+0: [71 1]Look here, Sonny! This old dog's
+learned a new trick!
+[->][END]
+1: [71 1]I've got myself a new skill! That's
+the sort of thing you only learn
+after years of experience!
+[->][END]
+2: [71 1]I've got a hankerin' to try out this
+new move I learned.
+[->][END]
+3: [71 1]I'm even stronger now! You young'uns
+have nothing on me!
+[->][END]
+4: [71 1]Oh, um... I can't remember all these
+skills! I reckon I've got to give up
+on one of 'em.
+[->][END]
+5: [71 1]Maybe I should change
+[Color:0x5][Skill 1][Color:0x0] into
+[Color:0x5][Skill 2].[Color:0x0]
+[->][END]
+6: [71 1]Maybe I should change
+[Color:0x5][Skill 1][Color:0x0] into
+something more tasteful.
+[->][END]
+7: [71 1]Feast yer eyes on this, boy!
+[->][END]
+8: [71 1]But I'm still young...
+[->][END]
+9: [71 1][Color:0x5][Skill 1]![Color:0x0]
+Pretty amazing, you think?
+[->][END]
+10: [71 1]I can feel power comin' outta this
+ol' body of mine... Am I finally
+ready to transform...?
+[->][END]
+11: [71 1]Hopefully I'll get younger!
+[->][END]
+12: [71 1]I don't have much time left for
+waitin'...
+[->][END]
+13: [71 1]Well, well... This body sure has a
+good number of years left in it!
+[->][END]
+14: [71 1]I can feel some power in me...
+I reckon it's almost time for me to
+[Color:0x5]transform.[Color:0x0]
+[->][END]
+15: [71 1]Here, sonny, have a [Color:0x5][Item 1].[Color:0x0]
+You're always taking care of me.
+[->][END]
+16: [71 1]I'll give you [Color:0x5][Item 1].[Color:0x0]
+I heard it's popular with you kids.
+[->][END]
+17: [71 1]Have a [Color:0x5][Item 1].[Color:0x0]
+Maybe it's a bit too old for yer taste?
+[->][END]
+18: [71 1]Oh, let me teach you something...
+One of them demon moves you humans
+don't know about.
+[->][END]
+19: [71 1]Is that all?
+You don't hafta hold back.
+[->][END]
+20: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+Neet meetin' ya, sonny!
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

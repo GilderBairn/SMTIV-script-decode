@@ -1,0 +1,47 @@
+0: Return to the title screen without saving
+your clear data?
+[END]
+1: Return to the title screen
+Don't return yet
+[END]
+2: By saving your clear data, you can play
+on [Color:0x5]New Game Plus.[Color:0x0]
+[->]With New Game Plus, data from your
+last playthrough will be carried over
+as you play from the beginning again.
+[->]You will also be able to select the
+[Color:0x5]Expert[Color:0x0] difficulty mode.
+[END]
+3: Carrying over the clear data for
+New Game Plus.
+[->]The [Color:0x1]Demon Compendium, demon analysis
+info, play log, and allowed fusions[Color:0x0]
+will [Color:0x5]automatically[Color:0x0] be carried over.
+[->]All levels of the Burroughs Apps [Color:0x1]”Skill
+Expansion”[Color:0x0] and [Color:0x1]”Demon Skill+”[Color:0x0]
+are also passed on.
+[->]The [Color:0x1]demon[Color:0x0] attached to the DDS (Digital
+Demon Service) will also carry over.
+[->]Other data is carried over [Color:0x5]at the
+player's choice.[Color:0x0]
+[->]Choosing [Color:0x5]”Reincarnation Restart”[Color:0x0] allows
+you to carry over your [Color:0x1]level, App Points,
+Macca, equipment, and items.[Color:0x0]
+[->]Choosing [Color:0x5]”New Life Start”[Color:0x0] will cause you
+to carry over [Color:0x1]nothing[Color:0x0] besides what is
+carried over automatically.
+[->]Which restart would you like to play
+New Game Plus with?
+[->][END]
+4: Reincarnation Restart
+New Life Restart
+Read the explanation again
+[END]
+5: The difficulty mode can be changed at
+any time during the game.
+[->]Select [Color:0x5]Burroughs[Color:0x0] and then [Color:0x5]Difficulty[Color:0x0] in
+the menu screen to adjust the difficulty.
+[END]
+6: Return to the title screen without saving
+your clear data?
+[END]

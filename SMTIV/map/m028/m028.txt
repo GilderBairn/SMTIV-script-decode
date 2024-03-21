@@ -1,0 +1,3 @@
+0: (Burroughs) [7a 2][13 1, 400002]I'm detecting a strong demon ahead.
+Be careful.
+[END]

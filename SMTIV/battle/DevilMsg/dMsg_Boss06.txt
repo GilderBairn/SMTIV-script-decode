@@ -1,0 +1,73 @@
+0: [71 1]I offer this skill to my country...
+[->][END]
+1: [71 1]This skill shall pave the way for this
+country's future...
+[->][END]
+2: [71 1]Will this skill protect the country or
+bring carnage to it...?
+[->][END]
+3: [71 1]The road to mastery of the power to
+protect this country is endless...
+[->][END]
+4: [71 1]It seems I can hold no more skills.
+You must make a decision on which
+to discard.
+[->][END]
+5: [71 1]I shall change this [Color:0x5][Skill 1][Color:0x0]
+into [Color:0x5][Skill 1]...[Color:0x0]
+[->][END]
+6: [71 1]I shall leave [Color:0x5][Skill 1][Color:0x0]
+to the fates and change it...
+[->][END]
+7: [71 1]Now is the time for change...!
+[->][END]
+8: [71 1]It seems the time has not yet come...
+[->][END]
+9: [71 1]This is [Color:0x5][Skill 1]...[Color:0x0]
+A skill brought to me by heaven's will.
+[->][END]
+10: [71 1](仮)変異選択メッセージ
+[->][END]
+11: [71 1](仮)変異OKメッセージ
+[->][END]
+12: [71 1](仮)変異NGメッセージ
+[->][END]
+13: [71 1](仮)変異完了メッセージ
+[->][END]
+14: [71 1](仮)変異レベル未達メッセージ
+[->][END]
+15: [71 1]I present you with this [Color:0x5][Item 1].[Color:0x0]
+May it be of use.
+[->][END]
+16: [71 1]What a magnificent fight! Have this
+[Color:0x5][Item 1][Color:0x0] in its honor.
+[->][END]
+17: [71 1]The battles will continue... Use this
+[Color:0x5][Item 1][Color:0x0] to your advantage.
+[->][END]
+18: [71 1]Now is the time to teach you the secrets
+of we National Defense Divinities...
+[->][END]
+19: [71 1]Have you enshrined the secrets of power
+in your heart?
+[->][END]
+20: [71 1]I grieve over how much time has passed
+in my absence... This National Defense
+Divinity is at your service.
+[->]I am [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+Let us move forward for the sake of this
+country.
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

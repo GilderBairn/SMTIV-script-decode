@@ -1,0 +1,15 @@
+0: (Man on watch) [7a 46][13 0, 303401]This is a pretty important place for
+the bigshot demons of Tokyo.
+[->][13 0, 303402]We let kids like you through and the
+Ashura−kai's reputation will be shot
+to shit.
+[->][13 0, 303403]Hey, bodyguard! Come on out and
+take care of these guys, willya?
+[END]
+1: (Man on watch) [7a 46][13 0, 303404]Tch! Piece of shit demon!
+[->][13 0, 303405]Whoa... I ain't gonna fight ya.
+”While there's life, there's hope,”
+they say...
+[->][13 0, 303406]Only the smart ones survive here in
+Tokyo. See ya!
+[END]

@@ -1,0 +1,26 @@
+0: [71 1]Another world feels the taint of
+chaos...
+[->][END]
+1: [71 1]The number of Samurai who have been
+swallowed by my chaos is boundless...
+[->][END]
+2: [71 1]The worlds churn with greed.
+What land calls for me next...?
+[->][END]
+3: [71 1](provisional) StreetPass Transformation
+[->][END]
+4: [71 1](provisional) StreetPass Transformation 2
+[->][END]
+5: [71 1](provisional) StreetPass Transformation 3
+[->][END]
+6: [71 1]Is this a souvenir? Or merely a
+remnant of a world's destruction...?
+[->][END]
+7: [71 1]The world constantly changes. Things
+come and go... Let this item come
+to you now.
+[->][END]
+8: [71 1]I see chaos within this object.
+Therefore, I shall make it a gift
+to you.
+[->][END]

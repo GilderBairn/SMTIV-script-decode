@@ -1,0 +1,8 @@
+0: 〉 You find an unfamiliar landscape
+before your eyes...
+[END]
+1: (Voice) [13 0, 54001]Ah, you're awake.
+[END]
+2: (Stephen) [7a 14][13 0, 54002]That girl would like to see you.
+She's to the east from here.
+[END]

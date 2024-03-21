@@ -1,0 +1,136 @@
+0: 〉 A Demon Hunter appeared.
+[END]
+1: (Furious Hunter) [7a 69][13 0, 302401]Are you the ones that killed all the
+Corpses?
+[END]
+2: (Burroughs) [7a 2][13 0, 302402]Could he be a reinforcement Hunter?
+He's a little late for that.
+[END]
+3: (Furious Hunter) [7a 69][13 0, 302403]That was uncalled for, you twerps!
+[END]
+4: (Burroughs) [7a 2][13 0, 302404]Oh dear... I think you'd better be
+careful around this one.
+[END]
+5: (Furious Hunter) [7a 69][13 0, 302405]With things this messed up, I'm better
+off becoming a demon...
+[->][13 0, 302406]That's why I handed out Reds to
+everyone!
+[->][13 0, 302407]We got no hope, trapped here in
+Tokyo...
+[END]
+6: (Furious Hunter) [7a 69][13 0, 302408]Damn that Tayama... him and his
+Ashura−kai. He's betrayed us all!
+[->][13 0, 302409]He babbles about some law to coexist
+with demons and locks us up in those
+underground districts...!
+[END]
+7: (Furious Hunter) [7a 69][13 0, 302410]I won't let him make everyone in Tokyo
+into cowards, blind to the truth!
+[->][13 0, 302411]I'm going to release them all from
+Tayama's slavery...!
+[END]
+8: 〉 The Furious Hunter takes out a Red
+from his pocket.
+[END]
+9: (Furious Hunter) [7a 69][13 0, 302412]And I'll kill anyone who gets in my
+way! I'll show you how a real Hunter
+handles things...!
+[END]
+10: 〉 The furious Hunter swallowed the red
+pill...
+[END]
+11: (Dullahan) [7a 207][13 0, 302413]Ahahaha, how d'ya like me now?
+I'm not human anymore.
+[->][13 0, 302414]Ahhh, this rush of demonic power...
+I've left all those fears and
+anxieties behind...!
+[END]
+12: (Voice) [7a 3][13 0, 302415]...Go no further.
+[END]
+13: (Jonathan) [7a 3][7b 458755, 131073][7b 655365, 131073][13 0, 302416]We've seen everything. Please allow
+us to aid you.
+[END]
+14: (Isabeau) [7a 5][7b 655365, 65537][13 0, 302417]I cannot believe he elected to become
+a demon of his own free will...
+[END]
+15: (Walter) [7a 4][7b 786436, 131073][13 0, 302418]Regardless, it hardly absolves him
+from turning others into demons.
+[END]
+16: (Dullahan) [7a 207][13 0, 302419]No matter how many of you come at me,
+it'll turn out the same. You can't
+beat a human turned demon!
+[END]
+17: (Dullahan) [7a 207][13 0, 302420]That's right, Tayama...! You know
+your precious Tokyo?
+[->][13 0, 302421]I'm going to smash it all up!
+[END]
+18: (Jonathan) [7a 3][13 0, 94001]Unclean Ones suffer as well, I see.
+They have their own troubles...
+[END]
+19: (Walter) [7a 4][13 0, 94002]Just as we do...
+[END]
+20: (Isabeau) [7a 5][13 0, 94003]I wonder how they came to be called
+the ”Unclean Ones”...
+[END]
+21: (Heavily accented man) [7a 47][13 0, 94004]Huh? What's that? Ya want me to let
+ya past here?
+[->][13 0, 94005]Sorry, ain't happenin'. I do that,
+and the demons on the other
+side'll get through.
+[END]
+22: (Heavily accented man) [7a 47][13 0, 94006]That thing with the Corpses ain't
+over yet either. I don't got time to
+worry about the west side right now.
+[END]
+23: (Heavily accented man) [7a 47][13 0, 94007]Huh? What's that? Ya want me to let
+ya past here?
+[->][13 0, 94008]Sorry, ain't happenin'. I do that,
+and the demons out on the other
+side'll get through.
+[END]
+24: (Heavily accented man) [7a 47][13 0, 94009]That is, unless you help out with
+defeatin' that monster at the
+Metropolitan Government Office... Huh?
+[->][13 0, 94010]Some Jirae demon's occupied the place
+and it's givin' us a huge headache.
+[->][13 0, 94011]We'll give ya the [Color:0x5]Jirae Talisman[Color:0x0] we
+stole from it as a reward. Whaddaya
+say? Will ya off it for us?
+[END]
+25: ”We'll slay the demon.”
+”We'll do no such thing.”
+[END]
+26: (Heavily accented man) [7a 47][13 0, 94012]Heh, that'd be nice.
+[->][13 0, 94013]One of our boys went on ahead with
+some hired Hunters. The more the
+better, they say.
+[END]
+27: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+28: (Heavily accented man) [7a 47][13 0, 94015]You're free to pass now, so I'll be
+countin' on you to deal with that demon
+at the Metropolitan Government Office.
+[END]
+29: (Heavily accented man) [7a 47][13 0, 94016]Geez, what a stiff. All of us here in
+Shinjuku are havin' a hard time 'cause
+of that thing, ya know.
+[->][13 0, 94017]Alright, I got no business with
+ya, then. Take a hike.
+[END]
+30: [END]
+31: (Accented voice) Things are tough in Shinjuku right
+now because of that demon in the
+Metropolitan Government Office...
+[->]Right now, you should be workin' for
+the people of Shinjuku insteada tryin'
+to make bank for yourself, no?
+[END]
+32: (Accented voice) We're always on the lookout in this
+area, so we'll keep buggin' ya about
+this no matter where ya go.
+[END]
+33: (Accented voice) So hurry it up and kill that demon.
+[END]
+122: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]

@@ -1,0 +1,4 @@
+0: Before battle
+[END]
+1: After battle
+[END]

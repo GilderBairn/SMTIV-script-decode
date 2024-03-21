@@ -1,0 +1,97 @@
+0: 〉 You find a boy who looks lost.
+[END]
+1: (Lost Boy) [7a 32][13 1, 404003]Mister... Hey... *sniff*
+A−Are you... a Samurai?
+[->]I was training, but then a lot of
+demons came, and I got scared and
+ran, and then I hid, and then...
+[->]Huh? I'm Timothy.
+How do you know my name?
+[END]
+2: 〉 Timothy has joined you.
+[END]
+3: (Timothy) [7a 32][13 1, 404031]What? Mom asked you to come looking
+for me?
+[->]She's waiting at Mikado Castle, huh?
+Is that where we're going?
+[->][13 1, 404033]Thanks, Mister Samurai! I've always
+wanted to see the castle!
+[END]
+4: 〉 Timothy, the lost child, is here.
+[END]
+5: 〉 Timothy has joined you.
+[END]
+6: (Timothy) [7a 32][13 1, 404013]Psst! Mister! I'm over here...
+[->]I was scared of the demons, but I was
+a good boy, and stayed hidden.
+[END]
+7: 〉 Unable to protect Timothy, [Flynn]
+returned to Timothy's original hiding
+spot and made sure he was safe from demons.
+[END]
+8: 〉 Timothy has left the party.
+[END]
+9: (Timothy's Mother) [7a 36][13 1, 403311]Oh! Timothy! Are you all right?
+You had me so worried...
+[END]
+10: 〉 Timothy has left the party.
+[END]
+11: (Timothy) [7a 32][13 1, 404032]Mister Samurai was so cool!
+[->]When I grow up, I'm going to become
+a Samurai and protect Mom from demons!
+[END]
+12: (Timothy's Mother) [7a 36][13 1, 403321]Timothy! You shouldn't go wandering
+outside! It's so dangerous outside
+nowadays.
+[->]Thank you so much, Master Samurai...
+I am so grateful.
+[->]It may not be much, but please accept
+this as a sign of my gratitude.
+[END]
+13: (Timothy) [7a 32][13 1, 404033]Thank you for saving me!
+Bye−bye, Mister Samurai.
+[END]
+14: (Timothy's Mother) [7a 36][13 1, 403322]...Oh, Timothy!
+Where did you go...?
+[END]
+15: (Timothy's Mother) [7a 36][13 1, 403303]Oh!
+Master Samurai.
+[->]You came here because you saw my
+request in the tavern, correct?
+[->]Please, help me look for my son.
+He has been missing since yesterday.
+[->]I fear he has gone into the [Color:0x5]forest[Color:0x0]
+again... Who knows when those demons
+are going to begin to reappear?
+[->]Please, help me find Timothy!
+[END]
+16: (Timothy's Mother) [7a 36][13 1, 403303]Please, help me find Timothy.
+[->]I am certain that he has gotten lost
+in the [Color:0x5]forest...[Color:0x0]
+[END]
+17: 〉 [Flynn] tells Timothy about how
+his mother had been worried...
+[END]
+18: (Timothy) [7a 32][13 1, 404002]I was scared of the demons, but I was
+a good boy, and stayed hidden.
+[->]We're finally out of the forest.
+[END]
+19: While carrying Timothy, [Flynn]
+will only be able to use the ”Run” and
+”Next” commands in battle.
+[->]Also, when [Flynn] takes damage,
+Timothy will take damage also.
+[END]
+20: 〉 You cannot enter right now.
+[END]
+21: 〉 You must either finish or give up
+on your current quest.
+[END]
+22: (Samurai on Duty) [7a 117][13 0, 932]You there! Who is that with you?
+[->]No one is allowed to enter this place
+without permission.
+[END]
+23: 〉 [Flynn] takes Timothy to the
+outskirts of the city, where Timothy's
+mother is waiting for them.
+[END]

@@ -1,0 +1,35 @@
+0: Select either white or black for the
+color of your card. Which will it be?
+[END]
+1: White card
+Black card
+[END]
+2: Attach a demon to the card?
+[END]
+3: Yes
+No
+[END]
+4: The card has been created. It will be
+sent via StreetPass to other players
+with these details:
+[END]
+5: This demon cannot be attached.
+[END]
+6: Attach this demon?
+[END]
+7: You have no demons that can be attached.
+Sending the card as is...
+[END]
+8: When a summoned demon is attached, it
+will be removed from the party.
+[->]Attach this demon?
+[END]
+9: Choose a simple message for the people
+you exchange StreetPass data with.
+[END]
+10: Is this the message you want to use?
+[END]
+11: Yes
+No
+[END]
+12: [END]

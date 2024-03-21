@@ -1,0 +1,30 @@
+0: (Demon) [7a 0][13 0, 350701]Here I am, at last.
+Cernunnos has arrived!
+[END]
+1: (Cernunnos) [7a 0][13 0, 350702]You see, the more people die in my
+name, the higher my status rises.
+[->][13 0, 350703]It doesn't matter how they die.
+War, sacrifice, anything'll do.
+[->][13 0, 350704]What I'm trying to say is,
+I just want you humans dead.
+[->][13 0, 350705]Then I can reclaim my place as the
+king of fertility and the harvest,
+just like old times.
+[END]
+2: 〉 [Flynn] places the unconscions
+Nozomi on the ground and stands
+before the demon...
+[->]〉 Nozomi is no longer in the party.
+[END]
+3: (Cernunnos) [7a 0][13 0, 350706]How...? The Wicker Man sacrifices
+should have increased my power...!
+[->][13 0, 350707]But, you were still able to defeat
+me... You're one crazy human.
+[->][13 0, 350708]Don't you think I've given up, though.
+[->][13 0, 350709]I'll just resurrect more ancient
+gods like me...
+[->][13 0, 350710]I'm going to restore this world to
+the ancient gods.
+[END]
+4: 〉 The demon vanishes...
+[END]

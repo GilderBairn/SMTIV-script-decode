@@ -1,0 +1,204 @@
+0: 〉 It smells of antiseptic.
+[END]
+1: 〉 It smells of antiseptic.
+[END]
+2: (Demon) [7a 65446][13 1, 410001]Hm...? Why is there a human here−−Oh.
+[->]You must be an applicant to become a
+neurisher. Kenji doesn't even have to
+do anything anymore.
+[->]If you're headed toward the lab, you'll
+need to disinfect first. We don't need
+any sick neurishers.
+[END]
+3: (Demon) [7a 65446]Alright, stick your hands out, palms up.
+[END]
+4: Stick your hands out
+Leave
+[END]
+5: (Demon) [7a 65446]Here you go...
+[END]
+6: 〉 You feel something warm on your
+hands...
+[END]
+7: (Demon) [7a 65446]Be sure to rub thoroughly. You need to
+kill off ALL the germs.
+[END]
+8: (Demon) [7a 65446]Hm? There's still a little bacteria
+stink on you. Go disinfect in the other
+room too, okay?
+[END]
+9: (Demon) [7a 65446]You can go now.
+[END]
+10: (Demon) [7a 65446]...Alright, I don't smell any bacteria
+on you. You're completely disinfected.
+[END]
+11: (Demon) [7a 65446]I'll open the shutter for you.
+[END]
+12: (Demon) [7a 65446]You can go now.
+[END]
+13: (Demon) [7a 65446]Huh? You're not disinfecting? Well, you
+can't be a neurisher until you do.
+[END]
+14: (Demon) [7a 65446][13 1, 410001]Huh? You're back?
+[->]If you're headed toward the lab, you'll
+need to disinfect first. We don't need
+any sick neurishers.
+[END]
+15: (Demon) [7a 65446]Alright, stick your hands out, palms up.
+[END]
+16: (Demon) [7a 65446][13 1, 410001]Huh? You came again? But you already
+got disinfected.
+[->]Hurry up and go do the neurisher thing.
+And give me a taste when you're done...
+[END]
+17: (Demon) [7a 64940][13 1, 414000]Hurh? Why in tarnation are there humans−−
+Oh, I see.
+[->]Yer neurisher applicants, aren'tcha?
+Sorry, I thought I finished today's
+bunch.
+[->]Ya need to disinfect to get to the lab.
+The key to healthy livin' starts with
+choosin' clean food!
+[END]
+18: (Demon) [7a 64940]Now, step right up here in front of me.
+Bow and hold that pose.
+[END]
+19: Bow
+Leave
+[END]
+20: (Demon) [7a 64940]Here I go...
+[END]
+21: 〉 You feel warm wind blowing on your
+head...
+[END]
+22: (Demon) [7a 64940]Let me put some on the back of yer ears
+and neck, just in case.
+[END]
+23: (Demon) [7a 64940]Hm...? I still smell some of that there
+bacteria on ya. Go to the other
+disinfection station, OK?
+[END]
+24: (Demon) [7a 64940]Yer done here.
+[END]
+25: (Demon) [7a 64940]...Good! I don't smell any bacteria on
+ya no more. Yer disinfected now.
+[END]
+26: (Demon) [7a 64940]I'll open up the shutter fer ya.
+[END]
+27: (Demon) [7a 64940]You can go now, boy.
+[END]
+28: (Demon) [7a 64940]...Hm? Yer not disinfectin'? Ya can't
+be a neurisher if ya don't, sonny.
+[END]
+29: (Demon) [7a 64940][13 1, 414005]...Oh? Back again?
+[->]Ya need to disinfect ta get to the lab.
+The key to healthy livin' starts with
+eatin' clean food!
+[END]
+30: (Demon) [7a 64940]Now, step right up here in front of me.
+Bow and hold that pose.
+[END]
+31: (Demon) [7a 64940][13 1, 414000]...What? Back again? Ya already got
+disinfected!
+[->]Now git! Go be a neurisher! And let me
+have a little sip when yer done.
+[END]
+32: (Burroughs) [7a 2][13 1, 400005]Oh... Master [Flynn], the Yamato's
+remote control is here on the floor.
+[END]
+33: Press the remote button
+Walk away
+[END]
+34: 〉 [Flynn] placed his finger on the
+button...
+[END]
+35: (Burroughs) [7a 2][13 1, 400003]Sorry, Master [Flynn], but let me
+make sure of something...
+[END]
+36: (Burroughs) [7a 2]Which are you going to, the Tokyo
+below the ceiling or the Tokyo
+covered in desert?
+[END]
+37: ”The Tokyo below the ceiling.”
+”The Tokyo covered in desert.”
+”Neither, I think.”
+[END]
+38: (Burroughs) [7a 2]OK. I just wanted to know; sorry for
+butting in. Go right ahead.
+[END]
+39: 〉 [Flynn] pressed the button
+with the underground Tokyo in mind...
+[END]
+40: (Burroughs) [7a 2]OK. I just wanted to know; sorry for
+butting in. Go right ahead.
+[END]
+41: 〉 [Flynn] pressed the button
+with the blasted Tokyo in mind...
+[END]
+42: (Burroughs) [7a 2]OK. I think that's a perfectly valid
+choice too.
+[END]
+43: 〉 The Yamato Perpetual Reactor is
+here before you...
+[END]
+44: (Female demonoid) [7a 104][13 1, 417100]Wow, it's like a dream. This really is
+Ichigaya. He really became King...
+[->]This isn't a dream, is it? Well, even if
+it is...
+[->]...It was real while I was having it.
+[END]
+45: (Male demonoid) [7a 103][13 1, 415101]We took control of the lab. Now we don't
+have to worry about neurishers.
+[->]We just have to get the neurishers we
+brought to give birth to more and more.
+[->]Now that our food worries are taken care
+of... I'm starting to get an itch for
+something else...
+[->]I wanna be big−time! If I kill the King,
+would that do it...?
+[END]
+46: (Male neurisher) [7a 107][13 1, 403442]King Akira inspected all the neurishers
+of Tokyo and brought only the best here.
+[->]I know we're just neurishers... but
+being picked out personally by the King,
+I feel like we're Adam and Eve.
+[->]Someday, our descendants will fill Tokyo.
+[END]
+47: (Female neurisher) [7a 106][13 1, 403501]I may not be able to see, but my hearing
+is good. So I can tell...
+[->]King Akira is apologizing to me from the
+bottom of his heart.
+[->]But I'm actually grateful to him.
+He gave me−−someone who existed only to
+be food−−a role in life.
+[->]My role now is to become an offering in
+order to build our ideal Tokyo...
+[END]
+131: 〉 The remote control is on the ground.
+[END]
+231: Press the button
+Talk to Akira
+Leave
+[END]
+331: (King Akira) [7a 85]......
+[END]
+431: 〉 Akira seems distracted.
+[END]
+531: Talk to him again
+Leave him alone
+[END]
+631: (King Akira) [7a 85][13 1, 401701]...Oh, it's you, Boss. Sorry, I was...
+just doing some thinking.
+[->]I finally realized something after I
+became the King of Tokyo. When it comes
+to who I should be looking out for...
+[->]I need to put everyone else first,
+right? I mean, I'm the King of Tokyo,
+after all.
+[->]Having to worry about more than
+yourself is harder than a punch to
+the gut...
+[->]To be honest, I already want to ditch
+it all, but I already told my sis
+about it... so I gotta stand firm.
+[END]

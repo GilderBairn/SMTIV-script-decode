@@ -1,0 +1,73 @@
+0: (Chaste voice) [13 0, 264001]...I suspected that we would meet.
+[->][13 0, 264002]My former brother, blinded and consumed
+by pride, and the pitiful son of man
+who sold his soul to the demons.
+[END]
+1: (Merkabah) [13 0, 264003][7a 205]I am the Lord's chariot... the seraph
+Merkabah.
+[END]
+2: (Merkabah) [7a 205][13 0, 264004]You Unclean Ones, who mistakenly
+believe that chaos is an expression
+of free will...
+[END]
+3: (Merkabah) [7a 205][13 0, 264005]Let us see Armageddon through to the
+end, for a new millennium of order.
+[END]
+4: (Demon Lord Lucifer) [7a 65056][13 0, 264006]No matter how loyal one is to God,
+He will never answer.
+[->][13 0, 264007]That is all. What else need there be?
+[END]
+5: (Demon Lord Lucifer) [7a 65056][13 0, 264009]We have dispelled God's curse.
+[->][13 0, 264010]From now on, this world will be
+governed by the law of power.
+[END]
+6: (Lucifer) [7a 64451][13 1, 401214]We have dispelled even God's curse...
+[->]There are none left in the world who
+could stop us. So we have no need of
+the Demon Lord's power anymore.
+[->]Now, to the Eastern Kingdom of Mikado...
+[END]
+7: 〉 [Flynn] proceeded through Naraku
+with Lucifer...
+[END]
+8: 〉 The statue of Aquila was destroyed...
+[END]
+9: (Lucifer) [7a 64451]That statue was modeled after a great
+hero of this kingdom. To only allow
+God to be worshipped by the people...
+[->]That smacks of something that His
+puppets would do.
+[END]
+10: (Burroughs) [7a 2][13 1, 400004]We've come this far, so no need to
+take on any more quests.
+[->]I'll set all the quests as ineligible
+to be accepted.
+[END]
+11: (Lucifer) [7a 64451]Do I recall correctly that there is a
+rooftop view atop this castle? We can
+see the land from there...
+[->]Let us watch together as the country
+founded on lies meets its end.
+[END]
+12: 〉 Demons poured out of Naraku in an
+endless stream...
+[END]
+104: (Burroughs) [7a 2][13 0, 264008]This might be a little early, but
+congratulations on completing the quest.
+[END]
+105: (Demon Lord Lucifer) [7a 65056][13 0, 264011]Now, to the Eastern Kingdom of Mikado...
+[->][13 0, 264012]Let us watch together as the country
+founded on lies meets its end.
+[END]
+107: 〉 Along the way, they met resistance
+from the angels standing watch, but all
+were driven off...
+[->]〉 After passing through Naraku, they
+arrived in Aquila Statue Plaza.
+[END]
+108: (Lucifer) [7a 64451][13 1, 401214]There, the sun... That light...
+Ah, see how bright it is...
+[END]
+204: 〉 [Flynn] and the others were drawn
+by a mysterious power...
+[END]

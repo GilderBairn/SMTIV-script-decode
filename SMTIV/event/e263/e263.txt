@@ -1,0 +1,98 @@
+0: (Echoing voice) [13 0, 263001]I speak unto the Filth...
+[END]
+1: (Angel) [7a 64673][13 0, 263002]We will not allow you to take even a
+single step into the lands of the
+Eastern Kingdom of Mikado.
+[END]
+2: (Angel) [13 0, 263003][7a 64673]We will obliterate you Filth, just as
+the Lord has commanded.
+[END]
+3: (Echoing voice) [13 0, 263001]I speak unto the Filth...
+[END]
+4: (Angel) [13 0, 263002][7a 65515]We will not allow you to take even a
+single step into the lands of the
+Eastern Kingdom of Mikado.
+[END]
+5: (Angel) [13 0, 263003][7a 224]We will obliterate you Filth, just as
+the Lord has commanded.
+[END]
+6: (響き渡る声) …よくも そこまで
+[好/す]き[勝手/かって]に[生/お]い[茂/しげ]ったものよ
+[END]
+7: (悪魔) [森林/しんりん]の[美/うつく]しきは
+[均整/きんせい]のとれた[木々/きぎ]の[配置/はいち]で[成/な]されるもの
+[->]お[前/まえ]らは[森林/しんりん]を[雑木林/ぞうきばやし]に[堕/お]とす[元凶/げんきょう]よ
+[END]
+8: (悪魔) ここで[伐採/ばっさい]してくれるわ
+[END]
+9: (Echoing voice) [13 0, 263007]I speak unto the Filth...
+[END]
+10: (Angel) [7a 65516][13 0, 263008]We will not allow you to take even a
+single step into the lands of the
+Eastern Kingdom of Mikado.
+[END]
+11: (Angel) [7a 226][13 0, 263009]We will obliterate you Filth, just as
+the Lord has commanded.
+[END]
+12: (Echoing voice) [13 0, 263015]I speak unto the Filth...
+[END]
+13: (Angel) [7a 65518][13 0, 263016]We will not allow you to take even a
+single step into the lands of the
+Eastern Kingdom of Mikado.
+[END]
+14: (Angel) [7a 65518][13 0, 263017]We will obliterate you Filth, just as
+the Lord has commanded.
+[END]
+15: (Echoing voice) [13 0, 263015]I speak unto the Filth...
+[END]
+16: (Angel) [7a 65519][13 0, 263016]We will not allow you to take even a
+single step into the lands of the
+Eastern Kingdom of Mikado.
+[END]
+17: (Angel) [7a 225][13 0, 263017]We will obliterate you Filth, just as
+the Lord has commanded.
+[END]
+18: (Echoing voice) [13 0, 263021]We speak unto the temptor and his
+sacrifice...
+[END]
+19: (Angel) [7a 227][13 0, 263023]We need hardly involve God's chariot
+in exorcising you.
+[END]
+20: (Angel) [7a 227][13 0, 263024]The sublime world we seek must not
+harbor even a speck of Filth.
+[END]
+21: (Angel) [7a 227][13 0, 263025]Go hence to Hell.
+[END]
+22: 〉 The angels are no longer here...
+[END]
+100: 〉 A powerful seal prevents you from
+proceeding...
+[END]
+101: (Demon Lord Lucifer) [7a 65056][13 0, 262018]The Demon Lord himself knocks, yet
+they erect only this pitiful seal?
+[->][13 0, 262019]They have gravely underestimated me.
+[END]
+102: (Demon Lord Lucifer) [7a 65056][13 0, 262020]......
+[END]
+103: 〉 The seal was erased.
+[END]
+104: (Demon Lord Lucifer) [7a 65056][13 0, 262021]I would have preferred to see a more
+lavish welcoming...
+[END]
+111: (Demon Lord Lucifer) [7a 204][13 0, 263010]You all parrot the same phrase, as if
+your memory could only hold a few lines.
+[->][13 0, 263011]You are truly pitiful.
+[END]
+118: (Angel) [7a 227][13 0, 263022]We are the archangel Seraph.
+[END]
+211: (Demon Lord Lucifer) [7a 204][13 0, 263012]Think upon the reason why I fell...
+[END]
+311: (Demon Lord Lucifer) [7a 204][13 0, 263013]Each time I look upon your wretched
+submission, it feels as if my heart
+could break...
+[END]
+411: (Demon Lord Lucifer) [7a 204][13 0, 263014]Oh, God... Why do you continue to
+make us suffer...!?
+[END]
+900: ルシファーが封印を解く
+[END]

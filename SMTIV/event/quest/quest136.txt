@@ -1,0 +1,16 @@
+0: Supposedly, people are seeing shooting stars
+in the sky above Tokyo. Of course, since we
+can't see the sky, it has to be a demon...
+In order to oppose it, we need an immortal
+god just like it. Bring me a [Color:0x5]Baldur.[Color:0x0] I'll get
+the two of them to fight each other forever.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+     
+[END]

@@ -1,0 +1,55 @@
+0: (Spacey man) [7a 121][13 1, 403203]The Tennozu Shelter was a city
+forsaken by everyone in Tokyo...
+[->]But people have begun to come
+lately...
+[->]This must be the work of the
+Red Knight. He truly is our messiah.
+[END]
+1: (Spacey man) [7a 121][13 1, 403203]We needed to offer a bull's head
+as a sacrifice to Gozutennou.
+[->]But we didn't have any cow heads...
+We had to make a facsimile that
+looked like one.
+[->]We placed that over the head of the
+person we used as a sacrifice, and
+performed the ritual that way.
+[END]
+2: (Spacey man) [7a 121][13 1, 403203]You released us all from Gozutennou's
+curse.
+[->]This city is no longer forsaken.
+I'm sure we can start over from the
+beginning.
+[END]
+3: (Elderly man) [7a 63][13 1, 403811]The building [Color:0x5]south from here[Color:0x0] is where
+the prayer ritual to Gozutennou takes
+place.
+[->]I'm sure that an outsider like
+yourself has no place in there.
+[END]
+4: (Elderly man) [7a 63][13 1, 403813]Gozutennou has become angered and is
+punishing us...
+[->]It's all your fault!
+What have you done!?
+[END]
+5: (Elderly man) [7a 63][13 1, 403823]We knew all this time that everything
+had been a deception...
+[->]Still, we had no other way to go on
+living but to keep perpetuating that
+lie...
+[END]
+6: (Bony woman) [7a 66][13 1, 403703]The Red Knight is going to resurrect
+Gozutennou.
+[->]Once that happens, we will all be
+saved... Our long years of trouble
+will pay off.
+[END]
+7: (Bony woman) [7a 66][13 1, 403703]The Red Knight gave us understanding
+during our festivals.
+[->]Oh, please come back...
+Please, save us...
+[END]
+8: (Bony woman) [7a 66][13 1, 403713]Red Knight...! Red Knight...!
+Where have you gone...?
+[->]Please come back...
+Please, save us...!
+[END]

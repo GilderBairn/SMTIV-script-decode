@@ -1,0 +1,15 @@
+0: 〉 You hear a voice coming from the other
+side of the wall...
+[END]
+1: (Voice) [13 1, 403002]Is someone there...?
+[END]
+2: (Voice) Oh, I see. You're one of us. Looks
+like the Hunters have become the
+hunted.
+[->]Welcome to the man−eating city of
+Ikebukuro.
+[END]
+3: (Voice) There's no way anyone can take on
+Xi Wangmu... We've both come to the
+end of the line as Hunters...
+[END]

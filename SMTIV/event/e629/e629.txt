@@ -1,0 +1,74 @@
+0: (Isis) [7a 65161][13 1, 418003]So, you are the one who has come to
+hear my request.
+[->]As I said, the coffin of my husband,
+Osiris, has drifted all the way to
+Naraku.
+[->]If you return the coffin to me, I
+shall reward you.
+[->]Unfortunately... I do have ill news
+in that regard.
+[->]The Vile Seth, who threw the coffin
+into the river in the first place,
+will be in Naraku as well.
+[->]If you try to leave with Osiris'
+coffin, Seth is certain to come
+after you.
+[->]No human can stand against him.
+My advice to you is to run as fast
+as you can, before he catches you.
+[->]It will be an onerous task, but I
+have faith in you. I wish you good
+fortune.
+[END]
+1: 〉 You have found a beautifully
+decorated sarcophagus. This must be
+the coffin of Isis' husband, Osiris.
+[END]
+2: 〉 You have decided to carry Osiris'
+coffin along with you.
+[END]
+3: (Isis) [7a 65161][13 1, 418004]Oh... Osiris! You found him...
+Thank you so much.
+[->]As long as I have his remains in my
+possession, I'm sure I can protect
+him from Seth's grasp.
+[->]I doubt that Seth will give up that
+easily, though. I must stay on my
+toes for a while.
+[->]But, now then... Allow me to reward
+you for your service. You have my
+gratitude.
+[END]
+4: 〉 Isis thanks [Flynn] and
+leaves...
+[END]
+5: 〉 While carrying the coffin, only
+the ”Run” and ”Next” commands will
+be available to [Flynn] in battle.
+[->]〉 If [Flynn] takes damage, the
+coffin will take damage as well.
+[END]
+100: (Isis) [7a 65161][13 1, 418003]Osiris' coffin should have drifted
+along a river to somewhere within
+Naraku.
+[->]Please, beware of Seth. You cannot
+possibly stand a chance against him.
+[->]It will be an onerous task, but I
+have faith in you. I wish you good
+fortune.
+[END]
+200: (Isis) [7a 65161]It will be an onerous task, but I
+have faith in you. I wish you good
+fortune.
+[END]
+400: 〉 [Flynn] let go of Osiris'
+sarcophagus during the intense
+battle...
+[->]〉 The coffin has likely returned by
+the power of Osiris to where it had
+been found before.
+[END]
+900: 〉 No one is here...
+[END]
+901: 〉 Lady Isis stands here, grieving...
+[END]

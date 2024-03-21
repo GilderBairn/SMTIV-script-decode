@@ -1,0 +1,10 @@
+0: I am a wayfarer of space and time. My latest hobby is
+to hire dwarves to craft various items and give them
+to people of various timelines. This time, I have a copy
+of a [Color:0x5]school uniform[Color:0x0] once worn by the young and still
+hopeful children of Tokyo. I'd trade it in exchange 
+for [Color:0x5][Item 1][Color:0x0] x[Color:0x5][Amount 1].[Color:0x0] Just deliver them to a [Color:0x5]Hunter
+Association[Color:0x0] or [Color:0x5]K's Tavern,[Color:0x0] whichever suits you best.
+[END]
+1: Download Content 1 Second time
+[END]

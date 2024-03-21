@@ -1,0 +1,274 @@
+0: (Entry Receptionist) [7a 120][13 1, 404303]This is where the finals for the
+Hunter Tournament will be held.
+[->]Will you be participating in the
+Tournament?
+[END]
+1: 〉 [Flynn] hands the receptionist
+the entry form for the finals.
+[END]
+2: (Entry Receptionist) [7a 120][13 1, 404342]Ah, yes... [Flynn] from Ueno,
+right? We've been waiting for you.
+[->]The Tournament is going to begin soon.
+[->]I'm sure you've heard this before:
+”Winning and losing is the difference
+between Heaven and Hell here.”
+[->]Are you ready?
+[END]
+3: ”Yes.”
+”No.”
+[END]
+4: (Entry Receptionist) [7a 120][13 1, 404303]You're not going to be allowed to
+quit once this thing starts. Are
+you sure you're ready?
+[END]
+5: (Entry Receptionist) [7a 120][13 1, 404341]Well, come speak with me when you
+are ready, then.
+[END]
+6: ”Yes.”
+”No.”
+[END]
+7: (Entry Receptionist) [7a 120][13 1, 404331]Very well. If you'll follow me, I'll
+take you to the arena.
+[END]
+8: (Entry Receptionist) [7a 120][13 1, 404311]What's this? Cold feet already...
+Tsk, tsk.
+[->]I'll pretend I didn't hear that.
+[->]Come talk with me once you're ready
+to begin.
+[END]
+9: (Announcer) [13 1, 406001]Thank you for your patience,
+ladies and gentlemen!
+[->]The Fifteenth Grand Tokyo Hunter
+Tournament shall now commence!
+[END]
+10: (Announcer) And now, for the first match of the
+night, here is the first challenger.
+[->]The Ueno district's representative,
+the Hunter Samurai, [Flynn]!
+[END]
+11: (Announcer) And here is his opponent!
+[->]Uh−oh, he's going up against one of
+our most legendarily bloodthirsty
+Hunters in the first round!
+[->]The representative from the
+Ikebukuro district, Prisoner Yokota!
+[END]
+12: (Announcer) [13 1, 406004]Will both contestants please move
+to their designated areas!
+[->][13 1, 406005]Hunters, prepare for battle...
+[->][13 1, 406006]Ready... Go!
+[END]
+13: (Announcer) The audience is holding its breath,
+waiting for [Flynn]'s next move!
+What will he do next!?
+[END]
+14: Spare your foe
+Finish him
+[END]
+15: (Furious spectator) What!? Mercy in the very first
+round!? What a load of shit!
+Let's see some blood, assholes!
+[END]
+16: (Announcer) [13 1, 406002]What's this!? [Flynn] has sheathed
+his sword!
+[->]And you can tell what the crowd
+thinks of this display of generosity!
+Take it easy, everybody!
+[END]
+17: (Announcer) [13 1, 406003]And the crowd goes wild!
+This is what we've all come to see!
+[END]
+18: (Announcer) [13 1, 406001]The Ueno representative is just as
+formidable as the rumors say! He
+moves on to the next bracket!
+[->]Here is the young Samurai's next
+opponent...
+[END]
+19: (Announcer) The cannons salvaged from the JGSDF
+roar with the fury of Hell itself!
+[->]The representative from the Odaiba
+district in Toyosu: Fusou ”3K” Fujio!
+[END]
+20: (Announcer) [13 1, 406004]Will both contestants please move
+to their designated areas!
+[->][13 1, 406005]Hunters, prepare for battle...
+[->][13 1, 406006]Ready... Go!
+[END]
+21: (Announcer) The entire audience is in suspense!
+What will the Hunter Samurai do next?
+[END]
+22: Spare your foe
+Finish him
+[END]
+23: (Splenetic spectator) Aw, hell no! You goddamn wimp!
+Kill him! KILL HIM!
+[END]
+24: (Announcer) [13 1, 406002]What's this, [Flynn]!? It looks
+like he's decided to spare his
+opponent this round!
+[END]
+25: (Announcer) [13 1, 406003]Wow−ee! Listen to that crowd roar!
+This Hunter Tournament is a machine,
+and it runs on blood!
+[END]
+26: (Announcer) [13 1, 406001]So far, no one has stood a chance
+against [Flynn]! He moves on to the
+top four!
+[->]He's made it into the semi−finals,
+and his next opponent will be...
+[END]
+27: (Announcer) [13 1, 406003]All Hunters are a little off, but
+this next one seems positively normal
+compared to the others!
+[->]Honestly, folks, I have no idea why
+he would ever want to take part in
+this cavalcade of psychotics.
+[->]The representative of the Shibuya
+district, this veteran Hunter
+wields the power of the gods!
+[->]I present to you: Master Hiro Jingu!
+[END]
+28: (Announcer) [13 1, 406004]Will both contestants please move
+to their designated areas!
+[->][13 1, 406005]Hunters, prepare for battle...
+[->][13 1, 406006]Ready... Go!
+[END]
+29: (Announcer) The entire audience is on tenterhooks
+as we await [Flynn]'s next move.
+What will this unmatched Hunter do!?
+[END]
+30: Spare your foe
+Finish him
+[END]
+31: (Choleric spectator) Boo! ”Boo,” I say!
+Thrash him to a pulp!
+We are not entertained!
+[END]
+32: (Announcer) [13 1, 406002]What's this!? [Flynn] doesn't take
+a second look at Master Hiro once
+he's down! Listen to that crowd!
+[END]
+33: (Announcer) [13 1, 406003][Flynn] is absolutely covered in
+Master Hiro's blood! He didn't even
+pause for a second!
+[END]
+34: (Announcer) [13 1, 406001]Ueno's representatives usually end up
+losing in the first rounds, but this
+time they've got a real fighter!
+[->]It's the time you've all been
+waiting for! The final battle!
+[END]
+35: (Announcner) First: the man who blazed a trail
+through the preliminaries in his
+very first appearance...
+[->]...A miracle tale who has gone
+undefeated all the way to this,
+the final round...
+[->]The Hunter Samurai, [Flynn]!
+[END]
+36: (Announcer) And here: A Hunter known far and wide
+as a favorite here in this tournament
+for the past five years...
+[->]The representative of the Roppongi
+district: Godhand Hills!
+[END]
+37: (Announcer) [13 1, 406003]This is the final match in the
+Hunter Tournament!
+[->][13 1, 406004]Will both contestants please move
+to their designated areas!
+[->][13 1, 406005]Hunters, prepare for battle...
+[->][13 1, 406006]Ready... Go!
+[END]
+38: (Announcer) [13 1, 406003]What an amazing turn of events!
+[Flynn] is the last man standing!
+[->]The champion, Godhand Hills, is down!
+[END]
+39: (Announcer) I never expected to see this! The
+former champ is in desperate straits.
+[->]Let's see how [Flynn] takes his
+crown to become the ultimate victor.
+[->]Now then, what will [Flynn] do!?
+[END]
+40: Spare your foe
+Finish him
+[END]
+41: (Rabid spectator) What!? This is the final round!
+You're not even gonna kill him!?
+You're no champion! I'm outta here!
+[END]
+42: (Announcer) [13 1, 406003]Amazing! Shame that we couldn't get
+some blood flowing around here...
+[->]...But the new champion, [Flynn],
+shows respect for his predecessor
+and lets him live!
+[END]
+43: (Announcer) [13 1, 406002]What ruthlessness! A true warrior,
+without an ounce of compassion!
+[->]But, that's okay! We're all crazy
+here! Listen to that crowd cheer!
+[END]
+44: (Announcer) [13 1, 406004]Now then, ladies and gentlemen!
+[->]Let me present the Fifteenth Grand
+Tokyo Hunter Tournament champion...
+[->][Flynn]!
+[END]
+45: (Announcer) Know this, [Flynn]! Everybody's
+going to look at you differently
+now.
+[->]You know why? Because you're the
+Hunter who won this crazy tournament!
+[->]Not only will people expect more
+from you, [Flynn], but we're going
+to be watching your career closely.
+[->]To everybody else: keep your eyes
+on [Flynn]'s Hunter ranking from
+now on!
+[->]This concludes the Fifteenth Grand
+Tokyo Hunter Tournament!
+[END]
+46: (Announcer) [13 1, 406002]What's this? The Ikebukuro champion
+is down! Is this the end!?
+[END]
+47: (Announcer) [13 1, 406003]Fujio's infamous guns have fallen
+silent! It looks like he's finally
+been cornered!
+[END]
+48: (Announcer) [13 1, 406003]And Master takes a powerful blow to
+the head, and can barely remain
+standing!
+[->]Amazing! This is [Flynn]'s first
+appearance in this tournament, and
+he's already reached the finals!
+[END]
+49: (Entry Receptionist) [7a 120][13 1, 404331]Ah, yes... [Flynn] from Ueno,
+right? We've been waiting for you.
+[->]The Tournament is going to begin soon.
+[->]I'm sure you've heard this before:
+”Winning and losing is the difference
+between Heaven and Hell here.”
+[->]Are you ready?
+[END]
+50: (Announcer) All our contestants are veteran
+fighters who have carved bloody
+swaths through the preliminaries.
+[->]These Hunters are now going to go
+head−to−head here, in this arena...
+[->]...for the glory of being the
+strongest Hunter in all Tokyo!
+[END]
+51: 〉 According to the navigation map,
+this place is known as the Tokyo
+Dome.
+[END]
+52: (Man in Red Vest) [7a 0][13 1, 403002]Are you a Hunter, or are you just
+here to watch? ...Doesn't matter
+anyway, because you can't come in.
+[->]I know how you feel, though!
+[->]I mean, all the greatest Hunters are
+gonna be here. I can't wait for the
+Tournament to start!
+[END]
+53: 〉 You have no business here...
+[END]
+900: 〉 There is no one here...
+[END]

@@ -1,0 +1,148 @@
+0: (Mysterious man) [7a 0][13 0, 802000]Beyond the river is the land of
+the dead...
+[->][13 0, 802001]It is where the souls of the deceased
+endure nothingness as they await
+reincarnation...
+[END]
+1: (Mysterious man) [7a 0][13 0, 802002]Soul of the deceased youth, welcome
+to the river Styx.
+[->][13 0, 802003]My name is Charon. I am the ferryman
+of this river.
+[END]
+2: (Charon) [7a 0][13 0, 802004]Beyond the river is the land of
+the dead...
+[->][13 0, 802005]It is where the souls of the deceased
+endure nothingness as they await
+reincarnation...
+[->][13 0, 802006]Soul of the deceased youth, welcome
+to the river Styx.
+[END]
+3: (Charon) [7a 0][13 0, 802007]Oh, it's you again. You died so
+carelessly...
+[END]
+4: (Charon) [7a 0][13 0, 802008]But that aside, it seems you haven't
+saved your own life for some time.
+[->][13 0, 802009]If your death becomes final, I believe
+you will suffer great losses.
+[END]
+5: (Charon) [7a 0][13 0, 802010]I have a proposal for you. Wouldn't
+you like to be revived in the world
+of the living?
+[->][13 0, 802011]Do you see this immense mountain
+of souls?
+[->][13 0, 802012]They are all waiting their turn to
+undergo the ritual crossing of the
+river Styx.
+[->][13 0, 802013]But I can't keep up my dealings with
+them. Their number increases by
+the day.
+[END]
+6: (Charon) [7a 0][13 0, 802014]My point is, I don't want to accept
+anymore new souls.
+[->][13 0, 802015]If you return to the world of the
+living, it would make my job easier.
+[->][13 0, 802016]It will also allow you to be revived
+in the state you were in just before
+you died.
+[->][13 0, 802017]Well? Not a bad deal, hm?
+[END]
+7: (Charon) [7a 0][13 0, 802018]The only problem would be that doing
+this breaks the rules as a ferryman
+and treads on dangerous ground...
+[->][13 0, 802019]But don't worry. Macca opens all doors.
+I'd be willing to do this for you for
+a little compensation.
+[->][13 0, 802020]You can pay me when you return to the
+world of the living.
+[->][13 0, 802021]Though if you like, I can put it on
+a tab as well.
+[END]
+8: (Charon) [7a 0][13 0, 802022]Come now, don't you have unfinished
+business in the world of the living?
+You don't want to wait in line, do you?
+[END]
+9: (Charon) [7a 0][13 0, 802023]Macca opens all doors. I'd be willing
+to do this for you for a little
+compensation.
+[END]
+10: (Charon) [7a 0][13 0, 802024]Hm... Seeing as you have a healthy
+supply of Play Coins...
+[->][13 0, 802025]You can pay me in Play Coins, if
+you'd like.
+[END]
+11: Pay in Macca
+Pay in Play Coins
+[END]
+12: (Charon) [7a 0][13 0, 802026]You'll pay in Macca? Very well then...
+[END]
+13: (Charon) [7a 0][13 0, 802028]Very well then...
+[END]
+14: (Charon) [7a 0][13 0, 802027]I'll need [Color:0x1][Amount 1] Macca[Color:0x0] to revive
+you in the world of the living.
+Do we have a deal?
+[END]
+15: (Charon) [7a 0][13 0, 802031]Are you mad? This will only increase
+my workload! You'll die a true death!
+[->][13 0, 802032]Listen, I only need [Color:0x1][Amount 1] Macca[Color:0x0]
+to revive you in the world of the
+living.
+[END]
+16: (Charon) [7a 0][13 0, 802029]I'll need [Color:0x1][Amount 1][Color:0x0] Play Coins to
+revive you in the world of the living.
+Do we have a deal?
+[END]
+17: (Charon) [7a 0][13 0, 802031]Are you mad? This will only increase
+my workload! You'll die a true death!
+[->][13 0, 802033]Listen, I only need [Color:0x1][Amount 1][Color:0x0] Macca
+to revive you in the world of the
+living.
+[END]
+18: 〉 [Flynn] paid in Play Coins...
+[END]
+19: (Charon) [7a 0][13 0, 802035]This isn't enough... No, just a little
+more will do...
+[END]
+20: (Charon) [7a 0][13 0, 802030]Hehehe, thank you for your patronage.
+Now then, I'll send back your soul.
+[END]
+21: (Charon) [7a 0][13 0, 802040]You just had to make more work for
+me... Fine, take this number.
+[->][13 0, 802041]Let me be clear: your turn will come
+up long after the wind erodes the
+boulders down to sand.
+[->][13 0, 802042]Go idle the time away for eternity,
+soul of a former Samurai.
+[END]
+22: (Charon) [7a 1][13 0, 802043]Now then, what number was I at...?
+[->][13 0, 802044]Whew...
+[->][13 0, 802045]Honestly, this is going to take
+forever to settle...!
+[END]
+23: (Charon) [7a 0][13 0, 802036]Hm...?
+[->][13 0, 802037]The last bribe is still on your tab.
+[END]
+24: (Charon) [7a 0][13 0, 802038]If you can't pay the bribe, I can't
+possibly revive you.
+[->][13 0, 802039]You there, jailer. Throw this youth's
+soul into the mountain somewhere
+over there.
+[END]
+25: 〉 [Flynn]'s soul was forcefully
+taken by the jailer...
+[END]
+26: ”I wish to be revived.”
+”I'll wait my turn here.”
+[END]
+50: Pay in Play Coins
+Refuse to pay
+[END]
+51: (Charon) [7a 0][13 0, 802031]Are you mad? This will only increase
+my workload! You'll die a true death!
+[END]
+52: Pay in Play Coins after all
+Refuse to pay
+[END]
+118: 〉 [Flynn] tried to pay in
+Play Coins...
+[->]〉 But Charon stopped him...
+[END]

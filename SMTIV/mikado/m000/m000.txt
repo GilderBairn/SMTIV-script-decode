@@ -1,0 +1,8 @@
+0: Test
+[END]
+1: 〉 Go to Aquila Statue Plaza to
+participate in the Gauntlet Rite?
+[END]
+2: Yes
+No
+[END]

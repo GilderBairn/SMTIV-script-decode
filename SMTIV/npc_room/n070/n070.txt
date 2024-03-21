@@ -1,0 +1,11 @@
+0: 〉 The people of the Eastern Kingdom of
+Mikado are no longer here...
+[END]
+1: (Reserved Monk) [7a 43][13 1, 403702]Ah, [Flynn]. You are still here
+in Mikado?
+[->]Once I am sure that I haven't overlooked
+anything here, I'll be on my way at once
+for Tokyo.
+[->]I shall see you again in Shinjuku,
+I trust.
+[END]

@@ -1,0 +1,16 @@
+0: There is a small bar at the far end of
+[Color:0x5]Shinjuku Golden Gai.[Color:0x0] I'd like you to take
+a [Color:0x5]picture[Color:0x0] of this bar for me. I'm old now,
+but I used to run that bar, and before Tokyo
+was sealed off, all the boys used to love me.
+Once you have the picture, please bring it
+to me under Shinjuku.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

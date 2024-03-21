@@ -1,0 +1,12 @@
+0: 〉 There's a hole with a bizarre
+atmosphere about it. Jump down?
+[END]
+1: 〉 There's a hole with a bizarre
+atmosphere about it. Jump down?
+[END]
+2: 〉 There's a hole with a bizarre
+atmosphere about it. Jump down?
+[END]
+3: Jump down
+Don't jump down
+[END]

@@ -1,0 +1,87 @@
+0: (Demonoid man) [13 1, 412103]Kenji's damn strong, so it's pretty much
+set that he's the number one man.
+[->]The skirmishes going on now are just
+people fighting over who gets to be
+number two...
+[->]But none of that changes the fact that
+Shinjuku's doomed to be number two for
+a while.
+[END]
+1: (Demonoid man) [13 1, 412109]Akira headed to Ichigaya. You're meeting
+up with him, right?
+[->]Word about Akira taking over Shinjuku
+has spread. No matter where he goes now,
+all the demons get out of his way.
+[->]It was like that ”Ten Commandments”
+vid I saw once. Akira looked so damn
+confident as he walked off...
+[END]
+2: (Demonoid man) [13 1, 412101]Akira's back... and he's been crowned
+King of Tokyo.
+[->]Word about Akira killing Kenji has
+spread. No matter where he goes now,
+all the demons get out of his way.
+[->]It was like that ”Ten Commandments”
+vid I saw once. Akira looks like a real
+man... now that he's holding up Tokyo.
+[END]
+3: (Demonoid man) [13 1, 412101]Akira's gone off to the castle where the
+King of Tokyo usually sits.
+[->]Word about Akira killing Kenji has
+spread. No matter where he goes now,
+all the demons get out of his way.
+[->]But it was you guys who killed Kenji,
+right? I had to stop myself from laughing
+out loud when I found that out.
+[END]
+4: (Demonoid man) [13 1, 415105]Akira shouldn't go near Shinjuku if he
+knows it'll make him feel bad.
+[->]He used to go there even if it meant he
+had to pick through garbage. I asked him
+about it once 'cause it seemed weird...
+[->]He said something like, ”I might as well
+do it while I'm out visiting her grave.”
+[END]
+5: (Demonoid man) [13 1, 415100]You know, Akira muttered something weird
+to himself the other day...
+[->]”I won't be able to visit her grave for
+a while.” What did that mean...?
+[END]
+6: (Demonoid man) [13 1, 415100]You know, Akira muttered something weird
+to himself the other day...
+[->]”I won't be able to visit her grave for
+a while.” What did that mean...?
+[END]
+7: (Demonoid man) [13 1, 415100]That reminds me, Akira asked me to do
+a weird favor for him the other day.
+[->]He wanted me to pick up trash around
+Shinjuku National Park for him every
+now and then...
+[->]I mean, I'll do it, since he told me to,
+but he seemed strangely sad about it.
+[END]
+8: (Bartender) [13 1, 405120]...Oh? Is a Demonica on your arm? Then I
+guess that means you can handle quests.
+[->]Most Intruders have died, and demonoids
+don't command demons...
+[->]So there's no one left to do our quests.
+Help us out if you ever get the time.
+[END]
+9: (Bartender) [13 1, 405120]...Oh? Hey there, Intruder bros.
+If you've got a Demonica, that means
+you can handle quests, right?
+[->]Most Intruders have died, and demonoids
+don't command demons...
+[->]So there's no one left to do our quests.
+Help us out if you ever get the time.
+[END]
+10: (Bartender) [13 1, 405120]...Oh? Hey there, Intruder bros.
+If you've got a Demonica, that means
+you can handle quests, right?
+[->]There might be a new King of Tokyo,
+but there's still no one to take on
+the quests here.
+[->]When you've got time... well, you might
+not have much, but if you do, help us
+out a little, won't you?
+[END]

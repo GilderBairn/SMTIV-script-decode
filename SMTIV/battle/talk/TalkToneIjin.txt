@@ -1,0 +1,2187 @@
+0: Dummy Message
+[END]
+1: [71 1]Fate hath brought us together, you
+and I... Foe to foe.
+[->]Abandon any foolish optimism you may
+hold of us becoming allies.
+[->][END]
+2: Allies...?
+How insolent.
+A son of man?
+Why serve you?
+Bah.
+[END]
+3: [71 1]First thou attacketh, then thou
+speaketh? Be that any way to
+communicate?
+[->]Quite a daring move...
+[->][END]
+4: First an attack...
+Then a speech?
+How dare thee!?
+Such insolence!
+Such daring...
+[END]
+5: [71 1]...Yes? Thinkest thou we would simply
+allow thee to leave?
+[->][END]
+6: [71 1]Wishest thou to make me thine ally?
+Then offer me compensation.
+[->][END]
+7: A contract?
+Hmm. Perhaps.
+Give us gifts.
+We need compensation.
+Hurry, now.
+[END]
+8: [71 1]Very well. From this point forth,
+I am thine ally.
+[->][END]
+9: Very well.
+Our power is thine.
+You may summon us.
+We serve thee.
+Lead us well.
+[END]
+10: [71 1]...Just bequeath me with gifts.
+[->][END]
+11: Just...
+Give us gifts.
+.........
+.........
+.........
+[END]
+12: [71 1]However... Methinks thou hast enough
+demons serving thee already.
+[->]'Tis not my time to shine.
+[->][END]
+13: [71 1]I am [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+I am at thy service.
+[->][END]
+14: [71 1]...Thy level dost not exceed mine.
+[->]I cannot bring myself to become thy
+ally. Give up.
+[->][END]
+15: [71 1]Ah, a compatriot of mine doth
+accompany thee, I see.
+[->]I would have preferred to have been
+notified earlier...
+[->][END]
+16: [71 1]I shall take this opportunity to
+extend an invitation to the others.
+[->][END]
+17: [71 1]Ahh... But thou hast not enough room
+in thy stock for yet another...
+[->][END]
+18: [71 1]I shall join thee in thy quest.
+Give thanks.
+[->][END]
+19: [71 1]...What a bore.
+[->][END]
+20: [71 1]Now, if I may...
+[->][END]
+21: [71 1]T'would be a waste to leave like
+this. Allow me to introduce thee to
+an associate of mine.
+[->]Worry not. The demon I have in mind
+is most suitable for thee.
+[->][END]
+22: [71 1]At the request of [Demon name 2]...
+Fate is indeed twisty.
+[->][END]
+23: Wait...
+Thou hast one...
+Then...
+Farewell...
+Call us...
+[END]
+24: Call us.
+We shall come.
+Our power is thine.
+Let us know.
+Farewell.
+[END]
+25: [71 1]Desirest thou a truce? 'Tis natural,
+then, to give me gifts.
+[->][END]
+26: A truce?
+Give us gifts, then.
+Something of worth.
+Doth thou understand?
+Let us see.
+[END]
+27: [71 1]...Begone. Before I change my mind.
+[->][END]
+28: Begone.
+Now...
+Immediately.
+Leave.
+Be removed.
+[END]
+29: [71 1]I wish to slumber.
+I have no intention of fighting.
+[->]Dost thou wish to leave?
+Then leave.
+[->][END]
+30: Zzzzz...
+Zzzzz...
+Zzzzz...
+Zzzzz...
+Hrm...
+[END]
+31: We are...
+In slumber...
+We have...
+No will to fight...
+Begone...
+[END]
+32: [71 1]I shall heal thee... See if thou canst
+survive once this is over.
+[->][END]
+33: We shall heal thee.
+Would thou fight?
+A bold human...
+Go, then.
+Go, and survive.
+[END]
+34: [71 1]Wishest thou to exchange words with
+me? Then offer me gifts of value.
+[->][END]
+35: Eccentric man...
+What wishest thou?
+Gifts...
+So be it.
+We accept.
+[END]
+36: [71 1]I shall grant thee some time in
+which to engage in idle chatter.
+[->][END]
+37: Hrm...
+Excellent!
+How happy!
+Hahahah...
+Very satisfying.
+[END]
+38: [71 1]Hahahahah! 'Tis good! I must admit,
+I find it most amusing to spend time
+speaking with humans!
+[->][END]
+39: Gifts?
+Oooh!
+Truly?
+Well, well...
+Wonderful!
+[END]
+40: [71 1]The words do spill forth from my
+mouth! Our chat hath been most
+satisfying.
+[->][END]
+41: Oh, my...
+What joy!
+I cannot resist...
+Indeed.
+How marvelous!
+[END]
+42: [71 1]Thou wouldst ask mercy from a demon?
+How weak art thou, son of man...?
+[->]...Prove to me thy will.
+[->][END]
+43: Mercy, eh?
+From a demon?
+Son of man...
+How weak, human.
+Give us gifts.
+[END]
+44: [71 1]...In light of thy offerings, I
+shall grant thee my mercy.
+[->][END]
+45: Thy offerings...
+...They please me.
+We excuse thee.
+You have our mercy.
+Accept it.
+[END]
+46: [71 1]I am enjoying my slumber...
+Good sleep is most amazing.
+[->]Dost thou desire my mercy?
+Then thou shalt have it.
+[->][END]
+47: Zzzzz...
+Zzzzz...
+Zzzzz...
+Zzzzz...
+Hrm...
+[END]
+48: We slumber...
+Leave us be.
+You wish mercy?
+Then have it.
+Go on.
+[END]
+49: [71 1]Hrm... That was quite pleasant.
+Allow me to do that once more.
+[->][END]
+50: Ahh...
+That was pleasant.
+Ho ho...
+Once more.
+Allow us.
+[END]
+51: [71 1]I cannot comprehend thy motives.
+Why should I give thee anything?
+[->][END]
+52: Vile fiend...!
+What is this?
+I smell danger...!
+Those hands...!
+Stop at once!
+[END]
+53: [71 1]Woe is me! I have underestimated
+the greed of man...!
+[->][END]
+54: Woe is me...!
+This greed...
+Curses...!
+Son of man...
+I underestimated thee!
+[END]
+55: [71 1]Grasp that money!
+[->]Dost thou enjoy the feeling of taking
+what belongs to others?
+[->]Die!
+[->][END]
+56: Take it!
+Fie upon thee!
+Brigand!
+Filthy wastrel...
+Now die!
+[END]
+57: [71 1]Urgh, stop that!
+[->][END]
+58: Stop!
+I command thee!
+Urgh!
+Stop that!
+Help!
+[END]
+59: [71 1]Poisonous varlet...
+Cease now, or else...
+[->][END]
+60: Poisonous varlet...
+Cease now...
+Stop...
+I warn thee...
+Or else...
+[END]
+61: [71 1]Arrrrgh! Craven parasite!
+Cravest thou wealth so badly!?
+[->]Then take it, and begone!
+[->][END]
+62: Arrrrrrgh!
+Here!
+Take it!
+Begone!
+Parasite!
+[END]
+63: [71 1]Hmhmhmhmhm... Haaaahahahahaha!
+[->]Playtime is over!
+[->][END]
+64: Hmhmhmhm...
+Hahahaha...
+Haaaahahahaha!
+Playtime is...
+Over!
+[END]
+65: [71 1]Thou wouldst deny me mobility, then
+asketh for money...
+[->]Thy ”request” is a mere front for
+thy thieving heart...
+[->][END]
+66: I cannot move...!
+Urgh...
+Stealest thou...
+From us...!?
+Argh...!
+[END]
+67: [71 1]A barter...? Very well, so long as
+thou makest a fair exchange.
+[->][END]
+68: Not Used
+[END]
+69: [71 1]Our deal is done. I reward thee with
+this item.
+[->][END]
+70: Not Used
+[END]
+71: [71 1]Thou wouldst barter with me for my
+prized possession? Hahaha!
+I shall give it freely!
+[->]Who wouldst call me demon were I to
+be so miserly with my possessions?
+Now, take it!
+[->][END]
+72: Not Used
+[END]
+73: [71 1]...Thou mayst have this, as well.
+I need it not.
+[->][END]
+74: Not Used
+[END]
+75: [71 1]I have little time to spare. Let us
+decide this right now.
+[->]Give me [Color:0x1][Amount 1] Macca.[Color:0x0]
+That is my asking price.
+[->][END]
+76: Not Used
+[END]
+77: [71 1]I shall take [Color:0x1][Item 1].[Color:0x0]
+[->][END]
+78: Not Used
+[END]
+79: [71 1]I shall take [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+80: Not Used
+[END]
+81: [71 1]I shall take but [Color:0x1]a sampling[Color:0x0] of thy
+[Color:0x1]life force.[Color:0x0]
+[->][END]
+82: Not Used
+[END]
+83: [71 1]I shall take a [Color:0x1]fair amount[Color:0x0] of thy
+[Color:0x1]life force.[Color:0x0]
+[->][END]
+84: Not Used
+[END]
+85: [71 1]I shall take a [Color:0x1]considerable amount[Color:0x0] of
+thy [Color:0x1]life force.[Color:0x0]
+[->][END]
+86: Not Used
+[END]
+87: [71 1]I shall take a [Color:0x1]truly staggering amount[Color:0x0]
+of thy [Color:0x1]life force.[Color:0x0]
+[->][END]
+88: Not Used
+[END]
+89: [71 1]I shall take but [Color:0x1]a sampling[Color:0x0] of thy
+[Color:0x1]spiritual power.[Color:0x0]
+[->][END]
+90: Not Used
+[END]
+91: [71 1]I shall take a [Color:0x1]fair amount[Color:0x0] of thy
+[Color:0x1]spiritual power.[Color:0x0]
+[->][END]
+92: Not Used
+[END]
+93: [71 1]I shall take a [Color:0x1]considerable amount[Color:0x0] of
+thy [Color:0x1]spiritual power.[Color:0x0]
+[->][END]
+94: Not Used
+[END]
+95: [71 1]I shall take a [Color:0x1]frightening amount[Color:0x0] of
+thy [Color:0x1]spiritual power.[Color:0x0]
+[->][END]
+96: Not Used
+[END]
+97: [71 1]Thine ally... I shall take the [Color:0x1]life
+of [Demon name 2].[Color:0x0]
+[->][END]
+98: Not Used
+[END]
+99: [71 1]I do desire [Color:0x1]one thing...[Color:0x0]
+'Tis [Color:0x1]that.[Color:0x0] You know of what I speak.
+[->][END]
+100: Not Used
+[END]
+101: [71 1]Make thy selection.
+[->][END]
+102: Not Used
+[END]
+103: [71 1]...I shall take that.
+[->][END]
+104: Not Used
+[END]
+105: [71 1]...That is not what I want, fool.
+[->][END]
+106: Not Used
+[END]
+107: [71 1]Allow me to commemorate our meeting
+by striking thee, to leave an imprint
+upon both thy body and thy soul.
+[->][END]
+108: Not Used
+[END]
+109: ”It would be an honor.”
+”Hell no!”
+[->][END]
+110: [71 1]Brace thyself, sirrah. This blow
+shall remain within thy heart!
+[->][END]
+111: Not Used
+[END]
+112: 〉 The demon strikes [Flynn] with
+a memorable blow!
+[->][END]
+113: Not Used
+[->][END]
+114: [71 1]Brace thyself, sirrah. The memory of
+this blow will remain with thee in
+the afterlife!
+[->][END]
+115: Not Used
+[END]
+116: 〉 The demon strikes [Flynn] with
+a terrifying blow!
+[->][END]
+117: Not Used
+[->][END]
+118: [71 1]Hmph... What a bore...
+[->][END]
+119: Not Used
+[END]
+120: [71 1]...Hrm, I am satisfied.
+[->][END]
+121: Not Used
+[END]
+122: [71 1]Hrm! Excellent...
+[->][END]
+123: Not Used
+[END]
+124: [71 1]So that is thy move...
+[->][END]
+125: Not Used
+[END]
+126: [71 1]Is that thine answer? To deny me,
+despite having that which I request?
+[->]Such insolence can only be repaid
+with death!
+[->][END]
+127: Not Used
+[END]
+128: [71 1]Very well. I have nothing more
+to say.
+[->][END]
+129: Not Used
+[END]
+130: [71 1]Is that thine answer? Falsehood?
+[->]Such insolence can only be repaid
+with death!
+[->][END]
+131: Not Used
+[END]
+132: [71 1]...Waste of flesh.
+[->][END]
+133: Not Used
+[END]
+134: [71 1]Thou canst not hope to converse with me
+without so much as a Life Stone...
+[->][END]
+135: Not Used
+[END]
+136: [71 1]...Was that a tad too long?
+Pardon my rudeness.
+[->][END]
+137: Not Used
+[END]
+138: [71 1]Is that thine answer? Refusing to
+fulfill my requests...?
+[->]Such insolence can only be repaid
+with death!
+[->][END]
+139: Not Used
+[END]
+140: [71 1]That thou wouldst refuse me with such
+conviction, time and time again...!
+[->]...Thou art a curious being, human!
+[->][END]
+141: Not Used
+[END]
+142: [71 1]Hast thou no mind to form opinions
+of thine own? All I hear from thee are
+the agreeable bleatings of a sheep...
+[->]...I grow weary of thy mealy−mouthed
+attempts to curry my favor. Begone.
+[->][END]
+143: Not Used
+[END]
+144: [71 1]Muhahahaha...! Such a pitiful being!
+[->][END]
+145: Not Used
+[END]
+146: [71 1]Excellent work.
+Now, I bid thee farewell...
+[->][END]
+147: Not Used
+[END]
+148: [71 1]Ahh, 'tis thee, [Flynn].
+[->]Thou art quite a brazen fellow, to
+have demon acquaintances.
+[->][END]
+149: Ahh...
+'Tis thee.
+A human...?
+...With demons?
+How bold...
+[END]
+150: [71 1]...Very well. 'Tis a favor.
+[->][END]
+151: Very well.
+Since you ask...
+Hrm...
+We shall help.
+Indeed.
+[END]
+152: [71 1]Ho ho... Thou and I art in agreement
+today.
+[->]Now, thou mayst go.
+[->][END]
+153: Ho ho...
+How nice.
+We doth agree.
+Very convenient.
+Now go.
+[END]
+154: [71 1]Thou wouldst ask me to speak with
+thee? Truly, thou art quite bold.
+[->][END]
+155: A gift?
+Hahahah!
+How nice.
+Good!
+Very considerate.
+[END]
+156: [71 1]To beg for mercy from a demon is such
+a shameful act...
+[->]But I grant thee mercy, out of my
+respect for thee.
+[->][END]
+157: You beg mercy?
+How shameful.
+And yet...
+We respect you.
+Here.
+[END]
+158: [71 1]...Naturally. Knowing you is worth
+the price.
+[->][END]
+159: Greedy as ever.
+And yet...
+Very well.
+Just this once.
+Take it.
+[END]
+160: [71 1]Seekest thou mine item...?
+Very well. A gift, for a friend.
+[->][END]
+161: Hm? This?
+Very well.
+Take it.
+It is a gift.
+Good day, friend.
+[END]
+162: [71 1]This topic hath been well trod upon.
+Let it go, before it bores us both
+to death.
+[->][END]
+163: That again?
+How tedious.
+Cease this.
+Enough!
+Stop.
+[END]
+164: [71 1].........
+[->]Thou dost not know to what extent I
+have sought thee...
+[->][END]
+165: [71 1]Enough. This battle is over. There
+is no need for a wanton destruction
+of life...
+[->]What dost thou desire of me?
+[->][END]
+166: Enough...
+The battle is over.
+Thou hath won.
+Choose thy spoil.
+What dost thou wish?
+[END]
+167: [71 1]...A wise choice.
+[->][END]
+168: A wise choice...
+I see...
+Hrm...
+Very well...
+As thou wisheth...
+[END]
+169: [71 1].........
+[->][END]
+170: .........
+.........
+.........
+.........
+.........
+[END]
+171: [71 1]Ah, son of man. I was searching for
+thee.
+[->]Wilt thou carry out a task I have
+for thee?
+[->][END]
+172: [71 1]Ah, Hunter. I was searching for thee.
+[->]Wilt thou carry out a task I have
+for thee?
+[->][END]
+173: [71 1]Good... Thou hast saved thy own life.
+[->]Now, about this request. Mayhap
+thou hast heard of mine associate...
+[->][END]
+174: [71 1]...Do not disappoint me.
+[->][END]
+176: [71 1]Our meeting marks thy death.
+[->]Hast thou any last words?
+[->][END]
+177: Reserve
+[END]
+178: [71 1]”Spare me!”
+”I'm hungry.”
+”Let me think.”
+[->][END]
+179: Not Used
+[->][END]
+180: [71 1]Nay... Thy life is something thou
+must strive to save by thyself.
+[->]Mayhap thou canst still convince me
+that thou art worth sparing.
+[->][END]
+181: Reserve
+[END]
+182: [71 1]Not Used
+[->][END]
+183: Not Used
+[END]
+184: [71 1]...I have heard that line many a
+time.
+[->]And each time, I crushed the hopes
+of those who would utter it.
+[->][END]
+185: Reserve
+[END]
+186: Not Used
+[->][END]
+187: [71 1]...Very well. Let it not be said that
+I would deny a fool a last meal.
+[->][END]
+188: Reserve
+[END]
+189: [71 1]Not Used
+[->][END]
+190: Not Used
+[END]
+191: [71 1]Oh, there is a hunger here, and it
+shall be sated.
+[->]I will devour thee!
+[->][END]
+192: Reserve
+[END]
+193: Not Used
+[->][END]
+194: [71 1]Hm. Thou art a Samurai, art thou
+not? ...So be it.
+[->]I had thought thou wouldst have had a
+death poem ready at all times.
+[->][END]
+195: Reserve
+[END]
+196: [71 1]Hm. Tell me when you have thought
+of one. I shall stay with you until
+you do.
+[->][END]
+197: Reserve
+[END]
+198: [71 1]There is no point.
+[->]One's final words come naturally,
+carried on the wind of one's last
+breath.
+[->][END]
+199: Reserve
+[END]
+201: [71 1]I ask thee: art thou evil?
+[->][END]
+202: Reserve
+[END]
+203: [71 1]”The evilest.”
+”You're the evil one.”
+”What is 'evil'?”
+[->][END]
+204: Not Used
+[->][END]
+205: [71 1]Then thou art not truly evil.
+[->]True evil is done by those who
+thinketh themselves righteous.
+[->][END]
+206: Reserve
+[END]
+207: [71 1]Not Used
+[->][END]
+208: Not Used
+[END]
+209: [71 1]A Samurai, one of those who live to
+serve the people, admitting to evil?
+[->]Thou disappointest me. Farewell.
+[->][END]
+210: Reserve
+[END]
+211: Not Used
+[->][END]
+212: [71 1]Do not think all demons evil.
+[->]We are capable of good things, such
+as this.
+[->][END]
+213: Reserve
+[END]
+214: [71 1]And who is the one attempting to
+convince an evil being to join him?
+[->]Ho ho ho... Methinks thou art not as
+good as thou might claim.
+[->][END]
+215: Reserve
+[END]
+216: [71 1]Silence. You cannot master evil.
+[->][END]
+217: Reserve
+[END]
+218: Not Used
+[->][END]
+219: [71 1]It matters not. However...
+[->]Keep that doubt in thy mind.
+It shall become thy homework.
+[->][END]
+220: Reserve
+[END]
+221: [71 1]Hast thou the resolve to learn the
+meaning of true evil...?
+[->]Follow me, then...
+[->][END]
+222: Reserve
+[END]
+223: [71 1]Evil can be many things.
+[->]Like this!
+[->][END]
+224: Reserve
+[END]
+226: [71 1]Reserve
+[->][END]
+227: Reserve
+[END]
+228: [71 1]Reserve
+[->][END]
+229: Reserve
+[->][END]
+230: [71 1]Reserve
+[->][END]
+231: Reserve
+[END]
+232: [71 1]Reserve
+[->][END]
+233: Reserve
+[END]
+234: [71 1]Reserve
+[->][END]
+235: Reserve
+[END]
+236: Reserve
+[->][END]
+237: [71 1]Reserve
+[->][END]
+238: Reserve
+[END]
+239: [71 1]Reserve
+[->][END]
+240: Reserve
+[END]
+241: [71 1]Reserve
+[->][END]
+242: Reserve
+[END]
+243: Reserve
+[->][END]
+244: [71 1]Reserve
+[->][END]
+245: Reserve
+[END]
+246: [71 1]Reserve
+[->][END]
+247: Reserve
+[END]
+248: [71 1]Reserve
+[->][END]
+249: Reserve
+[END]
+251: [71 1]...I find myself in a foul mood.
+Give me something.
+[->][END]
+252: Reserve
+[END]
+253: [71 1]Throw a bottle of liquor at him
+Throw a dried fish at him
+Throw up at him
+[->][END]
+254: 〉 [Flynn] tosses a bottle of
+alcohol to the demon...
+[->][END]
+255: [71 1]I am not thirsty at the moment, but
+if we continue this conversation,
+this should suffice.
+[->][END]
+256: Reserve
+[END]
+257: [71 1]A fine gift, but I prefer to enjoy
+my drink in private.
+[->]Mayhap I could find privacy within
+your stock. Excuse me.
+[->][END]
+258: Reserve
+[END]
+259: [71 1]You bring me drink, but no snacks?
+[->]...Ah! You yourself are the snack!
+[->][END]
+260: Reserve
+[END]
+261: 〉 [Flynn] tosses a dried fish to the
+demon...
+[->][END]
+262: [71 1]...Hmm. This is no mere fish.
+[->]'Tis a human corpse, withered by
+time.
+[->][END]
+263: Reserve
+[END]
+264: [71 1]Not Used
+[->][END]
+265: Not Used
+[END]
+266: [71 1]This is... an item used in curses.
+Bearest thou such malice 'gainst me?
+[->][END]
+267: Reserve
+[END]
+268: 〉 [Flynn] begins to heave...
+[->][END]
+269: [71 1]Thou wouldst devote thyself to thy
+role as a Samurai, even in the throes
+of such illness?
+[->]Thy dedication is impressive.
+Use this medicine.
+[->][END]
+270: Reserve
+[END]
+271: [71 1]Not Used
+[->][END]
+272: Not Used
+[END]
+273: [71 1]Doth intelligent conversation make
+thee sick?
+[->]Methinks 'tis useless to speak with
+thee any longer...
+[->][END]
+274: Reserve
+[END]
+276: [71 1]Reserve
+[->][END]
+277: Reserve
+[END]
+278: [71 1]Reserve
+[->][END]
+279: Reserve
+[->][END]
+280: [71 1]Reserve
+[->][END]
+281: Reserve
+[END]
+282: [71 1]Reserve
+[->][END]
+283: Reserve
+[END]
+284: [71 1]Reserve
+[->][END]
+285: Reserve
+[END]
+286: Reserve
+[->][END]
+287: [71 1]Reserve
+[->][END]
+288: Reserve
+[END]
+289: [71 1]Reserve
+[->][END]
+290: Reserve
+[END]
+291: [71 1]Reserve
+[->][END]
+292: Reserve
+[END]
+293: Reserve
+[->][END]
+294: [71 1]Reserve
+[->][END]
+295: Reserve
+[END]
+296: [71 1]Reserve
+[->][END]
+297: Reserve
+[END]
+298: [71 1]Reserve
+[->][END]
+299: Reserve
+[END]
+301: [71 1]Reserve
+[->][END]
+302: Reserve
+[END]
+303: [71 1]Reserve
+[->][END]
+304: Reserve
+[->][END]
+305: [71 1]Reserve
+[->][END]
+306: Reserve
+[END]
+307: [71 1]Reserve
+[->][END]
+308: Reserve
+[END]
+309: [71 1]Reserve
+[->][END]
+310: Reserve
+[END]
+311: Reserve
+[->][END]
+312: [71 1]Reserve
+[->][END]
+313: Reserve
+[END]
+314: [71 1]Reserve
+[->][END]
+315: Reserve
+[END]
+316: [71 1]Reserve
+[->][END]
+317: Reserve
+[END]
+318: Reserve
+[->][END]
+319: [71 1]Reserve
+[->][END]
+320: Reserve
+[END]
+321: [71 1]Reserve
+[->][END]
+322: Reserve
+[END]
+323: [71 1]Reserve
+[->][END]
+324: Reserve
+[END]
+326: [71 1]Reserve
+[->][END]
+327: Reserve
+[END]
+328: [71 1]Reserve
+[->][END]
+329: Reserve
+[->][END]
+330: [71 1]Reserve
+[->][END]
+331: Reserve
+[END]
+332: [71 1]Reserve
+[->][END]
+333: Reserve
+[END]
+334: [71 1]Reserve
+[->][END]
+335: Reserve
+[END]
+336: Reserve
+[->][END]
+337: [71 1]Reserve
+[->][END]
+338: Reserve
+[END]
+339: [71 1]Reserve
+[->][END]
+340: Reserve
+[END]
+341: [71 1]Reserve
+[->][END]
+342: Reserve
+[END]
+343: Reserve
+[->][END]
+344: [71 1]Reserve
+[->][END]
+345: Reserve
+[END]
+346: [71 1]Reserve
+[->][END]
+347: Reserve
+[END]
+348: [71 1]Reserve
+[->][END]
+349: Reserve
+[END]
+351: [71 1]Reserve
+[->][END]
+352: Reserve
+[END]
+353: [71 1]Reserve
+[->][END]
+354: Reserve
+[->][END]
+355: [71 1]Reserve
+[->][END]
+356: Reserve
+[END]
+357: [71 1]Reserve
+[->][END]
+358: Reserve
+[END]
+359: [71 1]Reserve
+[->][END]
+360: Reserve
+[END]
+361: Reserve
+[->][END]
+362: [71 1]Reserve
+[->][END]
+363: Reserve
+[END]
+364: [71 1]Reserve
+[->][END]
+365: Reserve
+[END]
+366: [71 1]Reserve
+[->][END]
+367: Reserve
+[END]
+368: Reserve
+[->][END]
+369: [71 1]Reserve
+[->][END]
+370: Reserve
+[END]
+371: [71 1]Reserve
+[->][END]
+372: Reserve
+[END]
+373: [71 1]Reserve
+[->][END]
+374: Reserve
+[END]
+376: [71 1]Reserve
+[->][END]
+377: Reserve
+[END]
+378: [71 1]Reserve
+[->][END]
+379: Reserve
+[->][END]
+380: [71 1]Reserve
+[->][END]
+381: Reserve
+[END]
+382: [71 1]Reserve
+[->][END]
+383: Reserve
+[END]
+384: [71 1]Reserve
+[->][END]
+385: Reserve
+[END]
+386: Reserve
+[->][END]
+387: [71 1]Reserve
+[->][END]
+388: Reserve
+[END]
+389: [71 1]Reserve
+[->][END]
+390: Reserve
+[END]
+391: [71 1]Reserve
+[->][END]
+392: Reserve
+[END]
+393: Reserve
+[->][END]
+394: [71 1]Reserve
+[->][END]
+395: Reserve
+[END]
+396: [71 1]Reserve
+[->][END]
+397: Reserve
+[END]
+398: [71 1]Reserve
+[->][END]
+399: Reserve
+[END]
+401: [71 1]Reserve
+[->][END]
+402: Reserve
+[END]
+403: [71 1]Reserve
+[->][END]
+404: Reserve
+[->][END]
+405: [71 1]Reserve
+[->][END]
+406: Reserve
+[END]
+407: [71 1]Reserve
+[->][END]
+408: Reserve
+[END]
+409: [71 1]Reserve
+[->][END]
+410: Reserve
+[END]
+411: Reserve
+[->][END]
+412: [71 1]Reserve
+[->][END]
+413: Reserve
+[END]
+414: [71 1]Reserve
+[->][END]
+415: Reserve
+[END]
+416: [71 1]Reserve
+[->][END]
+417: Reserve
+[END]
+418: Reserve
+[->][END]
+419: [71 1]Reserve
+[->][END]
+420: Reserve
+[END]
+421: [71 1]Reserve
+[->][END]
+422: Reserve
+[END]
+423: [71 1]Reserve
+[->][END]
+424: Reserve
+[END]
+426: [71 1]I command thee to die.
+[->][END]
+427: Reserve
+[END]
+428: [71 1]”Very well.”
+”Never.”
+”You must die.”
+[->][END]
+429: 〉 [Flynn] tried to die!
+[->][END]
+430: [71 1]No, no. Do not worry thyself.
+[->]After all, if thou killed thyself,
+who would I get to kill?
+[->][END]
+431: Reserve
+[END]
+432: [71 1]Why!? Why do such weak creatures
+so often try to take their own lives?
+[->]...I cannot in good conscience simply
+allow this to happen. Stand up, young
+human. I shall follow thee.
+[->][END]
+433: Reserve
+[END]
+434: [71 1]Thinkest thou that killing thyself
+would impress me?
+[->][END]
+435: Reserve
+[END]
+436: Not Used
+[->][END]
+437: [71 1]Ho ho! Dost thou still desire to
+live, even in such a world of
+despair?
+[->]...An interesting view. I may be
+willing to go with thee.
+[->][END]
+438: Reserve
+[END]
+439: [71 1]Not Used
+[->][END]
+440: Not Used
+[END]
+441: [71 1]Canst thou not simply end thine own
+life? Truly, a human's lot is a
+miserable one.
+[->][END]
+442: Reserve
+[END]
+443: Not Used
+[->][END]
+444: [71 1]I died but the day before yesterday.
+I grow weary of death.
+[->][END]
+445: Reserve
+[END]
+446: [71 1]For a son of man to see my corpse
+would be a disgrace...
+[->]The only human I would allow to see
+my dead body would be one I call
+master.
+[->][END]
+447: Reserve
+[END]
+448: [71 1]Show me an example of how to die!
+[->][END]
+449: Reserve
+[END]
+451: [71 1]...I feel a premonition. Dost thou
+feel it as well?
+[->][END]
+452: Reserve
+[END]
+453: [71 1]”I have a good feeling.”
+”I have a bad feeling.”
+”I feel love is in the air.”
+[->][END]
+454: Not Used
+[->][END]
+455: [71 1]I would like to see how long that
+feeling lasts when you stand against
+me.
+[->][END]
+456: Reserve
+[END]
+457: [71 1]Not Used
+[->][END]
+458: Not Used
+[END]
+459: [71 1]Crushing that optimism would feel
+amazing...
+[->][END]
+460: Reserve
+[END]
+461: Not Used
+[->][END]
+462: [71 1]Thou art correct...
+[->]After all, if thou failest in this
+conversation, I shall surely eat thee.
+[->][END]
+463: Reserve
+[END]
+464: [71 1]You feel it as well...
+Doth a terrible danger approach us?
+[->]Better we should cooperate until
+such danger has passed...
+[->][END]
+465: Reserve
+[END]
+466: [71 1]Thou art correct.
+[->][END]
+467: Reserve
+[END]
+468: Not Used
+[->][END]
+469: [71 1]That long hair... I should have seen
+you for a damsel sooner. I profusely
+apologize, mistress.
+[->][END]
+470: Reserve
+[END]
+471: [71 1]Hahaha... But of course! 'Tis a
+demon's role to tempt sons of man!
+[->]Now, form a pact with me and make an
+alliance.
+[->][END]
+472: Reserve
+[END]
+473: [71 1]Speak not to me of love!
+[->][END]
+474: Reserve
+[END]
+476: [71 1]The other day, I was walking
+down the street when a young
+damsel looked at me and screamed.
+[->]...Why was that?
+[->][END]
+477: Reserve
+[END]
+478: [71 1]”Because you're scary.”
+”Because you're a lady−killer.”
+”Because you're so cute.”
+[->][END]
+479: Not Used
+[->][END]
+480: [71 1]...True, I was carrying a human
+head in each hand at the time.
+[->][END]
+481: Reserve
+[END]
+482: [71 1]Not Used
+[->][END]
+483: Not Used
+[END]
+484: [71 1]No... A demon on a simple stroll
+can throw the world into an abyss
+of fear!?
+[->]I must lock myself away, so that the
+world may thrive in peace.
+[->][END]
+485: Reserve
+[END]
+486: Not Used
+[->][END]
+487: [71 1]Ahh... I heard that quite often in
+my younger days.
+[->]Perhaps I should go back to chasing
+ladies, to hear those screams of joy
+once more.
+[->][END]
+488: Reserve
+[END]
+489: [71 1]Not Used
+[->][END]
+490: Not Used
+[END]
+491: [71 1]No mere lady−killer, I. If anything,
+I kill humans of all races, creeds,
+and genders without discrimination.
+[->]And thou art a human. Die!
+[->][END]
+492: Reserve
+[END]
+493: Not Used
+[->][END]
+494: [71 1]Ah hah...
+Stop, thou art embarrassing me.
+[->][END]
+495: Reserve
+[END]
+496: [71 1]Is that so...? Up until now, I could
+only stand and watch as those
+hee−hoing fools stole the spotlight.
+[->]But times have changed! Now I will
+be the one with the shirts, and the
+figures, and the love! Hahahaha!
+[->][END]
+497: Reserve
+[END]
+498: [71 1]Shall I play with thee, then?
+[->][END]
+499: Reserve
+[END]
+501: [71 1]State thy name.
+[->][END]
+502: Reserve
+[END]
+503: [71 1]”[Flynn].”
+”[Demon name 1].”
+”.........”
+[->][END]
+504: Not Used
+[->][END]
+505: [71 1]Ahh... Thou art the famed novice
+Samurai from the Eastern Kingdom
+of Mikado.
+[->]'Tis a pleasure to meet thee.
+[->][END]
+506: Reserve
+[END]
+507: [71 1]Not Used
+[->][END]
+508: Not Used
+[END]
+509: [71 1][Flynn]...
+[->]I now know what name to place on
+thy grave.
+[->][END]
+510: Reserve
+[END]
+511: Not Used
+[->][END]
+512: [71 1]...Oh? Another member of my race?
+Your cunning disguise hath fooled
+me, sir. Good show.
+[->][END]
+513: Reserve
+[END]
+514: [71 1]Not Used
+[->][END]
+515: Not Used
+[END]
+516: [71 1]What a coincidence! My name is
+also [Demon name 1].
+[->]But, this world doth not need two to
+answer to the same appellation.
+One of us shall die...
+[->][END]
+517: Reserve
+[END]
+518: 〉 [Flynn] said nothing...
+[->][END]
+519: [71 1]So, thou art ”Silence.”
+...A noble name, rare among humans.
+[->][END]
+520: Reserve
+[END]
+521: [71 1]Hast thou no name, miserable being?
+[->]Then you may use the name
+[Demon name 1], as I will stand
+in defense of the nameless.
+[->][END]
+522: Reserve
+[END]
+523: [71 1]Fightest thou without a name?
+Thou hast lost whatever humanity
+thou once had...
+[->][END]
+524: Reserve
+[END]
+526: [71 1]My shoulders ache...
+Massage them for me.
+[->][END]
+527: Reserve
+[END]
+528: [71 1]Massage his shoulders
+”No way.”
+Massage your own shoulders
+[->][END]
+529: 〉 [Flynn] begins giving the demon
+a back rub...
+[->][END]
+530: [71 1]...What is that contraption on thy
+arm? A massage device?
+[->]Methinks it works well.
+Ahhhhhh...
+[->][END]
+531: Reserve
+[END]
+532: [71 1]Not Used
+[->][END]
+533: Not Used
+[END]
+534: [71 1]Thy strong hands give me much
+pleasure.
+[->]I shall sever them and make them
+mine own.
+[->][END]
+535: Reserve
+[END]
+536: Not Used
+[->][END]
+537: [71 1]What sayest thou to me, worm...!?
+[->]Hm...? Oh! This anger hath unknotted
+my aching back!
+[->][END]
+538: Reserve
+[END]
+539: [71 1]Not Used
+[->][END]
+540: Not Used
+[END]
+541: [71 1]Hmph, I shan't ask thee again.
+[->][END]
+542: Reserve
+[END]
+543: 〉 [Flynn] begins giving himself a
+back rub...
+[->][END]
+544: [71 1]The ghosts of those you killed rest
+upon thy shoulders. That is why thy
+back aches...
+[->][END]
+545: Reserve
+[END]
+546: [71 1]Dost thou mock me!?
+[->]...That is no way to perform a
+massage. Thy form is all wrong.
+I shall teach thee the proper way.
+[->][END]
+547: Reserve
+[END]
+548: [71 1]It seems thou art warming up for
+battle. I shall not deny you.
+[->][END]
+549: Reserve
+[END]
+551: [71 1]...Where is thy happiness?
+[->][END]
+552: Reserve
+[END]
+553: [71 1]”At my feet.”
+”In my hands.”
+”In my memories.”
+[->][END]
+554: 〉 [Flynn] points at his feet...
+[->][END]
+555: [71 1]Thou takest joy in standing alive
+upon thine own two feet... 'Tis a
+natural reaction to meeting a demon.
+[->][END]
+556: Reserve
+[END]
+557: [71 1]Not Used
+[->][END]
+558: Not Used
+[END]
+559: [71 1]...Thou pointest at thy feet, and
+yet thy shoelace be untied. Surely
+that is an ominous sign...
+[->][END]
+560: Reserve
+[END]
+561: 〉 [Flynn] makes a fist and holds
+it out towards the demon...
+[->][END]
+562: [71 1]Thou takest joy in the act of
+spilling the blood of demons...
+[->]Truly, that is befitting a demon−
+hunting Samurai. Thou art a lucky
+fellow.
+[->][END]
+563: Reserve
+[END]
+564: [71 1]Ah, how strong thy fist art!
+Asketh thou to follow me?
+[->]Thou hast literally captured my
+heart!
+[->][END]
+565: Reserve
+[END]
+566: [71 1]The data inside thy Gauntlet?
+[->]That is but a false image...
+What good is there in indulging in
+that folly?
+[->][END]
+567: Reserve
+[END]
+568: Not Used
+[->][END]
+569: [71 1]I have memories, too. Memories of
+when a human and I fought together
+as allies...
+[->]Wouldst thou bring back these
+memories of those nostalgic times?
+[->][END]
+570: Reserve
+[END]
+571: [71 1]Not Used
+[->][END]
+572: Not Used
+[END]
+573: [71 1]Thy happiness liveth in the past.
+Those who cannot take pleasure from
+the present must die.
+[->][END]
+574: Reserve
+[END]
+576: [71 1]I ask thee: what is life?
+[->][END]
+577: Reserve
+[END]
+578: [71 1]”A long journey.”
+”A brief moment.”
+”I don't know.”
+[->][END]
+579: Not Used
+[->][END]
+580: [71 1]Then think of meeting me as a fork
+in thy road.
+[->]Will thy journey come to an end?
+Or shall thee gain a new ally?
+Choose wisely.
+[->][END]
+581: Reserve
+[END]
+582: [71 1]A journey? How foolish. Life should
+be treated as running about freely.
+[->]I shall show thee that even life and
+death are within thy grasp.
+[->][END]
+583: Reserve
+[END]
+584: [71 1]A long journey? What about those
+whose lives are short journeys?
+[->]Thou dost not see that there are
+others, who do not get to experience
+as much as thou hast in life.
+[->][END]
+585: Reserve
+[END]
+586: Not Used
+[->][END]
+587: [71 1]Souls are eternal... This life is
+but a blink of an eye in comparison.
+[->][END]
+588: Reserve
+[END]
+589: [71 1]Not Used
+[->][END]
+590: Not Used
+[END]
+591: [71 1]Then can I end thy brief moment?
+[->][END]
+592: Reserve
+[END]
+593: Not Used
+[->][END]
+594: [71 1]I lack an answer as well.
+[->]...Perhaps it is the search for an
+answer that gives our lives meaning.
+[->][END]
+595: Reserve
+[END]
+596: [71 1]Not Used
+[->][END]
+597: Not Used
+[END]
+598: [71 1]Thou hast not lived long enough to
+be able to say that...
+[->][END]
+599: Reserve
+[END]
+601: [71 1]I wish to return home.
+What dost thou think?
+[->][END]
+602: Reserve
+[END]
+603: [71 1]”Go home.”
+”Don't leave.”
+[->][END]
+604: Not Used
+[->][END]
+605: [71 1]You would dare order me around!?
+Nay, sir, I will stay right here!
+[->][END]
+606: Reserve
+[END]
+607: [71 1]Would it not be proper manners to
+escort me there?
+[->]I shall remain in thy stock until
+I have reached my home.
+[->][END]
+608: Reserve
+[END]
+609: [71 1]You would try to convince me to leave
+my companions in battle? That shall
+not happen.
+[->][END]
+610: Reserve
+[END]
+611: Not Used
+[->][END]
+612: [71 1]When thou sayest that... For some
+reason, I feel the urge to stay.
+[->][END]
+613: Reserve
+[END]
+614: [71 1]Not Used
+[->][END]
+615: Not Used
+[END]
+616: [71 1]Of course I shan't be leaving right
+now.
+[->]I must first kill thee.
+[->][END]
+617: Reserve
+[END]
+618: Not Used
+[->][END]
+619: [71 1]Not Used
+[->][END]
+620: Not Used
+[END]
+621: [71 1]Not Used
+[->][END]
+622: Not Used
+[END]
+623: [71 1]Not Used
+[->][END]
+624: Not Used
+[END]
+626: [71 1]Samurai, let us drink together and
+make merry.
+[->]...Now, drink.
+[->][END]
+627: Reserve
+[END]
+628: [71 1]”I can't drink that.”
+”I don't drink that.”
+”I won't drink that.”
+[->][END]
+629: 〉 The demon offers liquor, but
+[Flynn] refuses...
+[->][END]
+630: [71 1]I know, thou art still a minor.
+[->]Still, declining my temptation surely
+took fortitude. Thou art indeed a
+Samurai.
+[->][END]
+631: Reserve
+[END]
+632: [71 1]Ho ho... Your taste is excellent.
+Indeed, this wine hath yet to mature.
+[->]...Until it does, though, I shall wait
+with thee as thine ally. Let us drink
+in celebration when it is ready.
+[->][END]
+633: Reserve
+[END]
+634: [71 1]Then there is nothing to be done...
+[->]I shall pour this liquor upon thy
+grave.
+[->][END]
+635: Reserve
+[END]
+636: 〉 The demon offers liquor, but
+[Flynn] refuses...
+[->][END]
+637: [71 1]I know, thou art still a minor.
+[->]Still, declining my temptation surely
+took fortitude. Thou art indeed a
+Samurai.
+[->][END]
+638: Reserve
+[END]
+639: [71 1]Ho ho... Your taste is excellent.
+Indeed, this wine hath yet to mature.
+[->]...Until it does, though, I shall wait
+with thee as thine ally. Let us drink
+in celebration when it is ready.
+[->][END]
+640: Reserve
+[END]
+641: [71 1]Then there is nothing to be done...
+[->]I shall pour this liquor upon thy
+grave.
+[->][END]
+642: Reserve
+[END]
+643: 〉 The demon offers liquor, but
+[Flynn] refuses...
+[->][END]
+644: [71 1]I know, thou art still a minor.
+[->]Still, declining my temptation surely
+took fortitude. Thou art indeed a
+Samurai.
+[->][END]
+645: Reserve
+[END]
+646: [71 1]Ho ho... Your taste is excellent.
+Indeed, this wine hath yet to mature.
+[->]...Until it does, though, I shall wait
+with thee as thine ally. Let us drink
+in celebration when it is ready.
+[->][END]
+647: Reserve
+[END]
+648: [71 1]Then there is nothing to be done...
+[->]I shall pour this liquor upon thy
+grave.
+[->][END]
+649: Reserve
+[END]
+651: [71 1]Reserve
+[->][END]
+652: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+653: [71 1]Reserve
+[->][END]
+654: Reserve
+[->][END]
+655: [71 1]Reserve
+[->][END]
+656: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+657: [71 1]Reserve
+[->][END]
+658: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+659: [71 1]Reserve
+[->][END]
+660: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+661: Reserve
+[->][END]
+662: [71 1]Reserve
+[->][END]
+663: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+664: [71 1]Reserve
+[->][END]
+665: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+666: [71 1]Reserve
+[->][END]
+667: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+668: Reserve
+[->][END]
+669: [71 1]Reserve
+[->][END]
+670: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+671: [71 1]Reserve
+[->][END]
+672: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+673: [71 1]Reserve
+[->][END]
+674: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+676: [71 1]Reserve
+[->][END]
+677: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+678: [71 1]Reserve
+[->][END]
+679: Reserve
+[->][END]
+680: [71 1]Reserve
+[->][END]
+681: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+682: [71 1]Reserve
+[->][END]
+683: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+684: [71 1]Reserve
+[->][END]
+685: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+686: Reserve
+[->][END]
+687: [71 1]Reserve
+[->][END]
+688: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+689: [71 1]Reserve
+[->][END]
+690: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+691: [71 1]Reserve
+[->][END]
+692: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+693: Reserve
+[->][END]
+694: [71 1]Reserve
+[->][END]
+695: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+696: [71 1]Reserve
+[->][END]
+697: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+698: [71 1]Reserve
+[->][END]
+699: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+701: [71 1]Reserve
+[->][END]
+702: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+703: [71 1]Reserve
+[->][END]
+704: Reserve
+[->][END]
+705: [71 1]Reserve
+[->][END]
+706: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+707: [71 1]Reserve
+[->][END]
+708: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+709: [71 1]Reserve
+[->][END]
+710: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+711: Reserve
+[->][END]
+712: [71 1]Reserve
+[->][END]
+713: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+714: [71 1]Reserve
+[->][END]
+715: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+716: [71 1]Reserve
+[->][END]
+717: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+718: Reserve
+[->][END]
+719: [71 1]Reserve
+[->][END]
+720: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+721: [71 1]Reserve
+[->][END]
+722: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+723: [71 1]Reserve
+[->][END]
+724: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+726: [71 1]Reserve
+[->][END]
+727: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+728: [71 1]Reserve
+[->][END]
+729: Reserve
+[->][END]
+730: [71 1]Reserve
+[->][END]
+731: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+732: [71 1]Reserve
+[->][END]
+733: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+734: [71 1]Reserve
+[->][END]
+735: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+736: Reserve
+[->][END]
+737: [71 1]Reserve
+[->][END]
+738: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+739: [71 1]Reserve
+[->][END]
+740: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+741: [71 1]Reserve
+[->][END]
+742: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+743: Reserve
+[->][END]
+744: [71 1]Reserve
+[->][END]
+745: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+746: [71 1]Reserve
+[->][END]
+747: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+748: [71 1]Reserve
+[->][END]
+749: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+751: [71 1]Reserve
+[->][END]
+752: Reserve
+[END]
+753: [71 1]Reserve
+[->][END]
+754: Reserve
+[->][END]
+755: [71 1]Reserve
+[->][END]
+756: Reserve
+[END]
+757: [71 1]Reserve
+[->][END]
+758: Reserve
+[END]
+759: [71 1]Reserve
+[->][END]
+760: Reserve
+[END]
+761: Reserve
+[->][END]
+762: [71 1]Reserve
+[->][END]
+763: Reserve
+[END]
+764: [71 1]Reserve
+[->][END]
+765: Reserve
+[END]
+766: [71 1]Reserve
+[->][END]
+767: Reserve
+[END]
+768: Reserve
+[->][END]
+769: [71 1]Reserve
+[->][END]
+770: Reserve
+[END]
+771: [71 1]Reserve
+[->][END]
+772: Reserve
+[END]
+773: [71 1]Reserve
+[->][END]
+774: Reserve
+[END]

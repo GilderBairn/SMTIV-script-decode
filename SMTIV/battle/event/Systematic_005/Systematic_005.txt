@@ -1,0 +1,99 @@
+0: 〉 A passage in mystic script appears
+on the Gauntlet...
+[END]
+1: [->][END]
+2: (Demonee−ho) [7a 0]Attent−ho! Welcome, maggot, to the
+Counter−Demon Force! I am Demonee−ho,
+your drill instructor! Ho!
+[->]Hee−ho!
+What's your name, scumbag?
+[->][Flynn]? Bullho!
+From now on, you're Private Hee−ho!
+Do you like that name?
+[->]Are you eyeballing me, Hee−ho!?
+I will teach you to respect your
+superiors, ho!
+[END]
+3: Check action start
+[->][END]
+4: (Demonee−ho) [7a 0]Who did that!? Who the hee−ho
+reflected that!? Nobody, huh? The
+hee−ho−ing Fairy Godmother did it!?
+[->]Was it you, you scroungy little
+hee−ho? What have we got here, a
+hee−ho−ing comedian? Hell, I like you!
+[END]
+5: (Demonee−ho) [7a 64524]What is your major malfunction,
+ho!? All my hee−ho−ing attacks are
+being reflected, ho!
+[->]I'm gonna give you exactly three−ho
+seconds to fight fair or I'll gouge
+out your eyeballs and skull−ho you!
+[END]
+6: (Demonee−ho) [7a 0]Outstanding, Private Hee−ho...!
+I think we final−hee found something
+that you do well...
+[->]You keep this up, I may even allow
+you to serve in my beloved Counter−
+Demon Force!
+[END]
+7: Check action end
+[->][END]
+8: (Demonee−ho) [7a 0]Today, you are no longer a maggot...
+Today, you are a soldier in the
+Counter−Demon Force!
+[->]You've learned all I have to teach
+you, ho! You're ready for the real
+world now.
+[->]From now on until the day you die,
+wherever you are, every CDF soldier
+is your brother. You may die...
+[->]But that's what we do. But the
+Counter−Demon Force lives forever,
+which means YOU will live forever!
+[END]
+9: 〉 [Flynn] runs past the boundary to
+the virtual battle, and the simulation
+ends...
+[END]
+10: Check enemy escape
+[->][END]
+11: 〉 The enemy was not eliminated within
+the turn limit.
+[->]〉 The simulation ends...
+[END]
+12: Tentative enemy Demonee−ho
+[->][END]
+13: 〉 The enemy was successfully
+eliminated within the turn limit.
+[->]〉 The simulation ends...
+[END]
+20: 〉 Drill Instructor Demonee−ho begins
+manipulating the controls to his
+Demonica suit...
+[END]
+21: (Demonee−ho) [7a 0]Setting Demonee−ho suit to
+elemental absorption mode, ho!
+[->]Vaporize plasma!
+[END]
+22: (Demonee−ho) [7a 0]Allow me to explain this combat
+trial, ho!
+[->]Because I am a program in this
+virtual realit−hee, I can change
+the propert−hees of my power armor!
+[->]It will now create a special plasma
+barrier that absorbs all kinds of
+attacks, ho!
+[END]
+23: (Demonee−ho) [7a 0]Ver−hee well, let's begin the
+exercise!
+[->]Private Hee−ho! I will unscrew your
+head and hee−ho down your neck!
+[END]
+100: ”Demon training program −− Ready
+ Training Battle 8 −− Begin”
+[->][Color:0x5]”Defeat an enemy that can absorb your
+ attacks within ten turns!”[Color:0x0]
+[END]
+1000: Test
+[->][END]

@@ -1,0 +1,48 @@
+0: (Burroughs) [7a 2][13 1, 400005]Hm, are you tired? Would you like to
+take a nap?
+[END]
+1: Rest your head
+Don't rest your head
+[END]
+2: (Burroughs) [7a 2]If the ceiling over Tokyo is going away,
+that means the Eastern Kingdom of
+Mikado's days are numbered.
+[->]This could be the last time that you rest
+in this room.
+[END]
+120: (Burroughs) [7a 2][13 0, 405800]Good morning, Master.
+[END]
+121: (Burroughs) [7a 2][13 0, 405800]Good morning, Master.
+[END]
+122: (Burroughs) [7a 2][13 0, 405800]Good morning, Master.
+[END]
+130: (Jonathan) [7a 3][13 0, 405810]Have you recovered from your fatigue?
+[END]
+131: (Jonathan) [7a 3][13 0, 405810]Have you recovered from your fatigue?
+[END]
+132: (Jonathan) [7a 3][13 0, 405810]Have you recovered from your fatigue?
+[END]
+140: (Walter) [7a 4][13 0, 405820]Let's be on our way.
+[END]
+141: (Walter) [7a 4][13 0, 405820]Let's be on our way.
+[END]
+142: (Walter) [7a 4][13 0, 405820]Let's be on our way.
+[END]
+150: (Isabeau) [7a 5][13 0, 405830]Are you awake?
+[END]
+151: (Isabeau) [7a 5][13 0, 405830]Are you awake?
+[END]
+152: (Isabeau) [7a 5][13 0, 405830]Are you awake?
+[END]
+920: (Merkabah) [7a 92][13 0, 405840]Let us depart, Warrior of Light.
+[END]
+921: (Merkabah) [7a 92][13 0, 405840]Let us depart, Warrior of Light.
+[END]
+922: (Merkabah) [7a 92][13 0, 405840]Let us depart, Warrior of Light.
+[END]
+930: (Demon Lord Lucifer) [7a 93][13 0, 405850]Let us go hence to Armageddon.
+[END]
+931: (Demon Lord Lucifer) [7a 93][13 0, 405850]Let us go hence to Armageddon.
+[END]
+932: (Demon Lord Lucifer) [7a 93][13 0, 405850]Let us go hence to Armageddon.
+[END]

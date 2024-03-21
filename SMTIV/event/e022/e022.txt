@@ -1,0 +1,28 @@
+0: (Voice) [7a 1][13 0, 22001]...Pardon me. You there, the prentice.
+[END]
+1: (Unfamiliar Samurai) [7a 117][13 0, 22002]I saw your outstanding performance in
+those Challenge Quests.
+[->][13 0, 22003]And I have a favor to ask of a Samurai
+of your skill, [Flynn].
+[END]
+2: (Unfamiliar Samurai) [7a 117][13 0, 22004]You see, Navarre has actually gone
+missing in Naraku...
+[->][13 0, 22005]Would you please go find him?
+[END]
+3: (Unfamiliar Samurai) [7a 117][13 0, 22006]There is a catch, alas. You must do
+this as quietly as you can.
+[->][13 0, 22007]Navarre is very proud of himself.
+[->][13 0, 22008]Even should you rescue him safely,
+if such a stain on his reputation
+becomes public knowledge...
+[->][13 0, 22009]He may go so far as to choose death
+over the humiliation it would bring.
+[END]
+4: (Unfamiliar Samurai) [7a 117][13 0, 22010]I must ask that you begin searching
+for Navarre at once in Naraku.
+[END]
+5: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+100: (Burroughs) [7a 2][13 0, 400051]Congratulations on completing the quest.
+[END]

@@ -1,0 +1,15 @@
+0: Our leader, Mistress Amaterasu, has been
+sealed away by demons who want to take Tokyo
+for themselves. We, the Amatsugami, have lost
+much of our power. Please collect the three
+vessels of our god and bring them to [Color:0x5]Meiji
+Shrine[Color:0x0] [Color:0x5]south[Color:0x0] of [Color:0x5]Shinjuku[Color:0x0] so we can revive her.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

@@ -1,0 +1,38 @@
+0: (Man on watch) [7a 46][13 0, 122001]What the...? You kids foreign Hunters?
+[->][13 0, 122002]Then remember this: Past here's off
+limits to ya.
+[END]
+1: (Man on watch) [7a 46][13 0, 122001]What the...? You kids foreign Hunters?
+[->][13 0, 122002]Then remember this: Past here's off
+limits to ya.
+[END]
+2: (Man on watch) [7a 46][13 0, 122003]I highly doubt it, but... ya came
+here knowin' what's up ahead?
+[END]
+3: ”Certainly.”
+”No...”
+[END]
+4: (Man on watch) [7a 46][13 0, 122004]Ugh... What a pain.
+[->][13 0, 122005]Sometimes we get guys like ya who
+don't follow the rules.
+[->][13 0, 122006]When that happens, I gotta lay down
+the law.
+[END]
+5: (Man on watch) [7a 46][13 0, 122007]...Figures. Sorry, but rules is rules.
+[END]
+6: (Jonathan) [7a 3][7b 65539, 65537]They went to the trouble of
+posting a guard to bar entry by
+any trespassers...
+[->]I take that to mean there's something
+worth protecting further in.
+[END]
+7: (Walter) [7a 4][7b 65540, 65537]They went so far as to post a guard
+to bar our path.
+[->]Which can only mean there's something
+critically important ahead!
+[END]
+8: (Isabeau) [7a 5][7b 65541, 65537]The presence of a guard here rather
+tips their hand, doesn't it?
+[->]It's quite likely that there is
+something of importance further in.
+[END]

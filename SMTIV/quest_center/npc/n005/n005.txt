@@ -1,0 +1,359 @@
+0: (Hunter man) [13 1, 403042]I passed by Tsukiji Hongwanji a moment
+ago and it was oddly quiet. Isn't there
+supposed to be a war starting soon?
+[->]Could Yuriko have been...? Nah,
+couldn't be.
+[END]
+1: (Hunter man) [13 1, 403042]I passed by Tsukiji Hongwanji a moment
+ago and it was oddly quiet. Isn't there
+supposed to be a war starting soon?
+[->]The atmosphere there seemed like they
+were very sure they'd win.
+[END]
+2: (Hunter man) [13 1, 403012]All this stuff about the ”champion” is
+bullshit. I'm supposed to put doing
+quests over my own safety?
+[->]Anyone who'd fall for that is nothing
+but the champion idiot, if you ask me.
+[END]
+3: (Hunter man) [13 1, 403002]All this stuff about the ”champion” is
+bullshit. I'm supposed to put doing
+quests over my own safety?
+[->]Well... that's what I used to think,
+but I really have to hand it to whoever
+could pull all that off.
+[->]That's why I really look up to you,
+champion.
+[END]
+4: (Hunter man) [13 1, 403002]All this stuff about the ”champion” is
+bullshit. I'm supposed to put doing
+quests over my own safety?
+[->]Well... that's what I used to think,
+but I really have to hand it to whoever
+could pull all that off.
+[->]That's probably the reason Masakado
+was willing to help you.
+[END]
+5: (Hunter man) [13 1, 403002]You've even beaten that Demon Lord guy.
+There's no one who could take you now.
+[->]On top of that, you're the champion
+who's been accepted by the guardian
+of Tokyo...
+[->]Even your name has power now. Make sure
+you don't get taken advantage of by any
+unsavory types, all right?
+[END]
+6: (Hunter woman) [13 1, 403101]Have you ever been to Kasumigaseki?
+[->]I hear there's loads of supplies hidden
+there that politicians stockpiled with
+their filthy money.
+[->]Politicians... There's something that's
+useless in Tokyo today. Finders keepers,
+right?
+[END]
+7: (Hunter woman) [13 1, 403103]Looks like this ”Demon Lord” has been
+resurrected in Ichigaya. Who'd go and
+do a thing like that...!?
+[->]I've done all right for myself as a
+Hunter, but it's not like I'm a member
+of the Counter−Demon Force or anything.
+[->]I can't risk my life fighting demons...
+[END]
+8: (Hunter woman) [13 1, 403141]Since you became champion, it seems like
+the reputation of Hunters in general
+has gotten a boost.
+[->]Every time I go out for work, people
+keep coming up to talk to me. It can
+get a little nerve−wracking...
+[->]I wanted to stay a carefree, independent
+Hunter, but this... this isn't so bad.
+[END]
+9: (Hunter man) [13 1, 403002]There's a huge boulder in the middle of
+the intersection... Have you seen it
+already?
+[->]What could it be? It's supposedly been
+there since before the ceiling formed.
+[END]
+10: (Hunter man) [13 1, 403002]That huge boulder in the middle of the
+intersection... What was that?
+[->]Well, it doesn't matter now that there's
+this huge fuss about demons.
+[END]
+11: (Bartender) [13 1, 405120]There's a certain air about you...
+You're one of those Samurai, no?
+[->]Could you be here for the Ring of Gaea
+entrance test? We'll see how strong you
+folks from above really are.
+[->]To get to Tsukiji Hongwanji, leave by
+the southern passage and it'll be right
+in front of you.
+[END]
+12: (Bartender) [13 1, 405120]I heard that a kid about your age and
+wearing clothes like yours headed for
+Camp Ichigaya.
+[->]If you want to get there, you exit Ginza,
+head toward Shibuya, and then keep going
+north.
+[->]Didn't they declare war on Yuriko, though?
+I think that kid might be in danger...
+[END]
+13: (Bartender) [13 1, 405120]Looks like Tayama set up a defensive
+line at the Sendagaya Tunnel...
+[->]They're ready for war all the way up
+to there, I think.
+[->]Take it from me and don't go anywhere
+near the north of Shibuya.
+[END]
+14: (Bartender) [13 1, 405120]Looks like Yuriko's gone missing.
+I thought those Ring of Gaea guys would
+lose heart over that...
+[->]But it was the total opposite. They're
+all excited because some prophecy of
+Yuriko's came true.
+[->]Yuriko's cultivated an air of mystery by
+not showing herself. She's got her cult
+wrapped around her finger.
+[END]
+15: (Bartender) [13 1, 405120]Hey there, [Flynn]. Looks like
+things are going pretty well for you.
+[->]But a guy as strong as you, I'm sure
+you can aim even higher.
+[->]What you should try to do is make the
+top three. You do that, and then this
+tournament will really be something.
+[END]
+16: (Bartender) [13 1, 405120]Hey there, [Flynn]. Looks like
+you've been keeping busy.
+[->]Ever since you hit the top three,
+folks have been talking about you.
+[->]The other Hunters are starting to get
+into the spirit of things too...
+[->]Keep up the good work and help this
+tournament really blow up.
+[END]
+17: (Bartender) [13 1, 405123]Hey, [Flynn]!
+You've been on a roll!
+[->]People have been talking about how you're
+just a stone's throw from the champion's
+title.
+[->]The other Hunters are giving it all
+they've got to keep up.
+[->]So come on... you've come this far...
+You're going for the championship,
+right?
+[END]
+18: (Bartender) [13 1, 405120]Hey there, Tokyo's first champion.
+You did good. Thanks to you, things
+are picking up in Ginza.
+[->]Or, well... maybe not as much as some
+other regions. I guess this is the
+Ring of Gaea's turf, after all...
+[->]Sure, they respect your achievements,
+but they're still all about ”Lady
+Yuriko.”
+[END]
+19: (Cynical man) [13 1, 403202]You must be [Flynn], right?
+The one who's got Tokyo buzzing...
+[->]Sorry if this seems sudden, but are you
+interested in finding out what the people
+around you think about you?
+[END]
+20: (斜に構えた男) ちょいと[優/やさ]しすぎて ハンター[稼業/かぎょう]を
+やっていけるのか[心配/しんぱい]になるぜ
+[END]
+21: (Cynical man) Most people seem to think you're a very
+polite man.
+[->]Which is an admirable trait, but a little
+bizarre in Tokyo right now.
+[END]
+22: (Cynical man) Most people seem to think you're a hard
+man to get a handle on.
+[->]I've met all kinds, but people like you
+are pretty rare.
+[END]
+23: (Cynical man) Most people seem to think you're a real
+hot−blooded type.
+[->]Just like almost everyone in Tokyo...
+That's how you get if you live here
+whether you like it or not.
+[END]
+24: (斜に構えた男) [血/ち]に[飢/う]えすぎて [危険/きけん]な[予感/よかん]がするぜ
+オマエ [本当/ほんとう]に[大丈夫/だいじょうぶ]か?
+[END]
+25: (Cynical man) [13 1, 403202]You must be [Flynn], right?
+Yeah, I've seen you around.
+[->]Sorry if this seems sudden, but are you
+interested in finding out what the people
+around you think about you?
+[END]
+26: (斜に構えた男) この[東京/とうきょう]でお[前/まえ]ほどのカタブツは
+[見/み]たことがないって もう[評判/ひょうばん]だぜ
+[END]
+27: (Cynical man) Most people seem to think you're a very
+polite man.
+[->]I respect that, but here in this Tokyo...
+It's pretty hard to stay that way.
+[END]
+28: (Cynical man) Most people seem to think you're a hard
+man to get a handle on.
+[->]You go your own way, which is pretty
+damn cool. Even though there aren't
+many who would see things your way.
+[END]
+29: (Cynical man) Most people seem to think you're a real
+hot−blooded type.
+[->]I don't know if you've always been like
+that. It's just how you get if you live
+here whether you like it or not.
+[END]
+30: (斜に構えた男) お[前/まえ]の[行/い]く[所/ところ] [血/ち]と[暴力/ぼうりょく]が[渦巻/うずま]くって
+こりゃまた[随分/ずいぶん]な[評判/ひょうばん]だぜ
+[END]
+31: (Cynical man) [13 1, 403202]Hey there, [Flynn]. Not a day
+goes by that I don't hear about you.
+[->]Sorry if this seems sudden, but are you
+interested in finding out what the people
+around you think about you?
+[END]
+32: (斜に構えた男) [法/ほう]と[秩序/ちつじょ]の[申/もう]し[子/ご]たるサムライだって
+もはや[畏敬/いけい]の[象徴/しょうちょう]になってるぜ
+[END]
+33: (Cynical man) Everyone says you're a very polite man.
+[->]Considering the state Tokyo is in, it's
+rare that anyone like you still exists.
+[END]
+34: (Cynical man) Everyone says you're a hard man to get
+a handle on.
+[->]Which reminds me, there was another guy
+I said the same thing to. He was a young
+one too, about your age.
+[END]
+35: (Cynical man) Everyone says you're a real hot−blooded
+type.
+[->]The word is you're not from Tokyo, but
+you've started to fit in even more than
+some of the locals.
+[END]
+36: (斜に構えた男) [血/ち]に[染/そ]まりし[暴虐/ぼうぎゃく]のサムライだって
+もはや[恐怖/きょうふ]の[象徴/しょうちょう]になってるぜ
+[END]
+102: (Hunter man) [13 1, 403012]All this stuff about the ”champion” is
+bullshit. I'm supposed to put doing
+quests over my own safety?
+[->]And the thing is, they're actually
+getting people to do it! Meanwhile,
+I'm...
+[END]
+108: (Hunter woman) [13 1, 403112]If someone out there wants to shoot for
+the champion title, they can knock
+themselves out.
+[->]I just want to stay a carefree,
+independent Hunter. Plus...
+[->]Tokyo's going to belong to the demons
+soon anyway, right?
+[END]
+110: (Hunter man) [13 1, 403002]That huge boulder in the middle of the
+intersection... What was that?
+[->]Well, it doesn't matter now that there's
+this huge fuss about demons.
+[END]
+111: (Bartender) [13 1, 405120]I heard you passed the entrance test.
+Sounds like I had you all wrong...
+[->]Well, don't take it personally. Why not
+pick up a few quests to celebrate your
+success?
+[END]
+118: (Bartender) [13 1, 405120]Hey there, Tokyo's first champion.
+You did good. Thanks to you, Ginza's
+back to normal...
+[->]Hah, I wish. Those Ring of Gaea loons
+are the same as ever...
+[->]They've chosen to stick to their guns,
+huh? I don't think I could do that in
+this situation... but I respect that.
+[END]
+119: ”I'm interested.”
+”I've no interest.
+[END]
+125: ”I'm interested.”
+”I've no interest.”
+[END]
+133: ”I'm interested.”
+”I've no interest.”
+[END]
+208: (Hunter woman) [13 1, 403141]Since you became champion, it seems like
+the reputation of Hunters in general
+has gotten a boost.
+[->]I get a lot of civilians coming up to me
+lately, saying stuff like ”Please keep
+Tokyo safe,” and all that.
+[->]...I wanted to stay a carefree,
+independent Hunter, but I don't
+think I can anymore.
+[END]
+210: (Hunter man) [13 1, 403002]That huge boulder in the middle of the
+intersection... What could it be?
+[->]I saw a man with patchy skin muttering
+”Masa−something” to it once.
+[END]
+211: (Bartender) [13 1, 405120]What's with the scary look? Are you
+gonna go kill Yuriko or something?
+[->]...Huh? Seriously?
+[->]Uh, okay then... You'll probably find
+her in Tsukiji Hongwanji, along with
+all the groupies who protect her.
+[END]
+219: (Cynical man) Then hear me out...
+[END]
+225: (Cynical man) Then hear me out...
+[END]
+233: (Cynical man) Then hear me out...
+[END]
+308: (Hunter woman) [13 1, 403141]Since you became champion, it seems like
+the reputation of Hunters in general
+has gotten a boost.
+[->]I get a lot of civilians coming up to me
+lately, saying stuff like ”Please stop
+those angels,” and all that.
+[->]...I wanted to stay a carefree,
+independent Hunter, but I don't
+think I can anymore.
+[END]
+310: (Hunter man) [13 1, 403002]That huge boulder in the middle of the
+intersection... Huh? That was Masakado?
+[->]I−I learned about it on my smartphone...
+[->]Man, I've kicked that boulder before when
+I got frustrated over losing track of
+my target demon.
+[->]I−I hope he's a good sport...!
+[END]
+311: (Bartender) [13 1, 405120]What's with the solemn looks? You two
+look like you just ran away from home.
+[->]...Huh? Seriously?
+[->]But aren't you two in the Ring of Gaea?
+Just go over to Tsukiji Hongwanji.
+[END]
+319: (Cynical man) I see... Then we'll leave it at that.
+[END]
+325: (Cynical man) I see... Then we'll leave it at that.
+[END]
+333: (Cynical man) I see... Then we'll leave it at that.
+[END]
+410: (Hunter man) [13 1, 403002]That huge boulder in the middle of the
+intersection... That was Masakado, right?
+[->]If you could get Masakado, the guardian
+of Tokyo, on your side, you'd probably
+be set for life.
+[->]I bet even if the angels tried to pull
+something, Masakado would put a stop
+to it right quick.
+[END]
+510: (Hunter man) [13 1, 403002]That huge boulder in the middle of the
+intersection... That was Masakado, right?
+[->]If you could get Masakado, the guardian
+of Tokyo, on your side, you'd probably
+be set for life.
+[->]I bet even if the demons tried to pull
+something, Masakado would put a stop
+to it right quick.
+[END]

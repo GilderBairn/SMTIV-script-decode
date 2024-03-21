@@ -1,0 +1,41 @@
+0: (Demon) [7a 65354][13 0, 183001]You've come, young ones who command
+demons...
+[END]
+1: (Demon) [7a 213][13 0, 183002]I am the wise general Omoikane, of the
+fearsome National Defense Divinities.
+[END]
+4: 〉 The Domain's seal is broken. The demon
+turned to stone...
+[END]
+5: (Walter) [7a 4][7b 393220, 65537][13 0, 183004]These National Defense Divinities...
+[END]
+6: (Walter) [7a 4][7b 393220, 65537][13 0, 183005]I wonder how it feels to be so strong,
+yet to toil under Tayama's yoke...
+[END]
+7: [END]
+8: 〉 Yagokoro's Brain started to shine in your hand...
+[END]
+9: (Voice) [7a 2][13 1, 457002]I am Amatsu Omoikane, one of the
+fearsome National Defense Divinities.
+[END]
+10: (Omoikane) [7a 2][13 1, 457004]Who but you, who holds my medium,
+can be my master?
+[->][13 1, 457010]It's an honor to meet you.
+[END]
+11: 〉 You can now fuse
+[74 182] [42 182].
+[END]
+101: (Omoikane) [7a 213][13 0, 183003]And due to certain circumstances,
+I shall let you go no further...
+[END]
+105: 〉 The atmosphere in the area seems to
+have changed...
+[END]
+108: 〉 A voice emanates from the stone in
+front of you...
+[END]
+111: 〉 The stone that was once Omoikane is
+sitting in front of you...
+[END]
+211: 〉 Omoikane is no longer here...
+[END]

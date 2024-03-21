@@ -1,0 +1,37 @@
+1: (Shopkeeper) [7a 25][13 0, 75001]If you have relics, please let me know.
+[->][13 0, 75002]I will buy them from you with a
+wholehearted price.
+[END]
+3: (Shopkeeper) [7a 26][13 0, 75003]If you have relics, please feel free to
+let me know.
+[->][13 0, 75004]I will buy them from you with a
+wholehearted price.
+[END]
+4: (Shopkeeper) [7a 25][13 0, 75005]You're Hunters, right?
+[->][13 0, 75006]Ah, don't bother answering. I can
+tell. I've been at this business for
+a while now.
+[END]
+5: (Shopkeeper) [7a 25][13 0, 75007]If you find stuff that you don't know
+what it is, just bring them to a
+nearby shop.
+[->][13 0, 75008]We'll appraise them and buy them off
+you in exchange for Macca.
+[->][13 0, 75009]...What? ”Relics”?
+[->][13 0, 75010]Well... that's not what we call them,
+but that's probably it, yeah.
+[END]
+6: (Shopkeeper) [7a 26][13 0, 75011]Hm? I've never seen your face before.
+[->][13 0, 75012]Is this your first time coming to
+a shop like mine? Then, I'll let you
+in on a little tip.
+[END]
+7: (Shopkeeper) [7a 26][13 0, 75013]If you find something and you're not
+sure what it is, just bring it by
+your local shop.
+[->][13 0, 75014]We can appraise it for you and pay
+you Macca if you're willing to sell.
+[->][13 0, 75015]Huh? What's this about ”relics”?
+[->][13 0, 75016]Oh, okay... We don't call them that,
+but it's probably the same thing.
+[END]

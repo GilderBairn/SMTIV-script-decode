@@ -1,0 +1,44 @@
+0: (Old demon) [7a 65390][13 0, 220002]I messed up again. Waste of a perfectly
+good plug...
+[END]
+1: (Old demon) [7a 65390][13 0, 220003]Hm? What do you want? Oh, hold on
+a second...
+[END]
+2: (Old demon) [7a 65390][13 0, 220004]Hmp...!
+[END]
+3: 〉 The old demon replaced a part from the
+convulsing man...
+[END]
+4: (Old demon) [7a 65390][13 0, 220005]Oh, it's one of Tonankai Trade's.
+All their products are such junk.
+[END]
+5: (Old demon) [7a 65390][13 0, 220006]By the way... I don't recognize you
+from the applicant list...
+[->][13 0, 220007]Don't tell me you're here to see
+Kenji?
+[END]
+6: ”That's right.”
+”No.”
+[END]
+7: (Old demon) [7a 65390][13 0, 220008]Ho−ho, you came to see him in person?
+Aren't you a bold one.
+[END]
+8: (Old demon) [7a 65390][13 0, 220011]...I figured as much.
+[END]
+9: (Old demon) [7a 65390][13 0, 220012]Then could you leave? I have a quota
+to meet.
+[END]
+10: (Old demon) [7a 65390][13 0, 220009]I like you. Take this.
+[END]
+11: 〉 Obtained a scorched card key.
+[END]
+12: (Old demon) [7a 65390][13 0, 220010]It's a dog eat dog world. Good luck,
+now. Eeh heh heh heh...
+[END]
+13: (Old demon) [7a 65390][13 0, 220014]Another failure. The plug missed its
+mark...
+[END]
+14: (Old demon) [7a 65390][13 0, 220015]...Hm? Weren't you just here...?
+[->][13 0, 220016]I'm probably just imagining it.
+But could you leave? I'm busy.
+[END]

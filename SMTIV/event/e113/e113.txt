@@ -1,0 +1,24 @@
+0: (Demon) [7a 64656][13 0, 113001]...Hm? What is it? I only finished
+my dinner a moment ago.
+[END]
+1: (Demon) [7a 64656][13 0, 113002]But then, I find the people of this
+city to be very bland and unfilling...
+Is it perhaps their weak will?
+[END]
+2: (Demon) [7a 64656][13 0, 113003]I hope that when I devour you that you
+will be more pleasing to the palate...
+[END]
+3: 〉 The atmosphere in the area is changing...
+[END]
+4: (Jonathan) [7a 3][13 0, 113004]We'd have perished if not for the
+Ring of Gaea and that Kaga woman.
+[END]
+5: (Walter) [7a 4][13 0, 113005]Did you hear her words regarding...
+”Struggling,” was it? The humans of
+Tokyo aren't altogether without merit.
+[END]
+6: (Isabeau) [7a 5][13 0, 113006]”Humans”... You have the right of it.
+They are humans, just as we are.
+[END]
+103: (Burroughs) [7a 2][13 0, 400051]Congratulations on completing the quest.
+[END]

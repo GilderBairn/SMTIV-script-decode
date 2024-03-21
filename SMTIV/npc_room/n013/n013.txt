@@ -1,0 +1,28 @@
+0: (Male ghost) [7a 101][13 1, 404541]I, too, was infected by Pluto's poison.
+I feared that death might arrive at
+any time...
+[->]But now I'm free from that fear! Because
+I'm already dead...
+[END]
+1: (Male ghost) [7a 101][13 1, 404542]Perhaps I should have tried a little
+harder to survive...
+[->][13 1, 404532]Oh well, too late now! Hahaha!
+[END]
+2: (Female ghost) [7a 102][13 1, 404621]That demon killed me and turned me
+into... this...
+[->]I know I'm dead, but I'm still tied to
+this place...
+[->]Some paradise this is!
+[END]
+3: (Female ghost) [7a 102][13 1, 404623]Despair... All is despair...
+[END]
+4: (Male ghost) [7a 101][13 1, 404503]If you have come to this paradise to
+find tranquility, I welcome you.
+[->]But if you have come as a destroyer,
+you will be judged by Lady Ixtab...
+[END]
+5: (Female ghost) [7a 101][13 1, 404521]You have ruined our paradise! Why could
+you not leave us in peace?
+[->][13 1, 404522]You will suffer...! Suffer until the
+very moment of your death
+[END]

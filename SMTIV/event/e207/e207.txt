@@ -1,0 +1,55 @@
+0: (Akira) [7a 85][7b 65621, 65537][13 0, 207001]You interested yet, Intruder buddies?
+[->][13 0, 207002]Will you take on Kenji with me?
+[END]
+1: Defeat Kenji with Akira
+Don't defeat Kenji
+[END]
+2: (Akira) [7a 85][7b 786517, 65537][13 0, 207007]Heheh... hell yeah.
+[END]
+3: (Akira) [7a 85][7b 196693, 65537][13 0, 207003]...I see.
+[->][13 0, 207004]And here I was ready to tell ya where
+the remote can be found.
+[END]
+4: (Akira) [7a 85][7b 786517, 65537][13 0, 207005]...Whoops, slip of the tongue there.
+[->][13 0, 207006]Well, talk to me if you change
+your mind.
+[END]
+5: (Jonathan) [7a 3][7b 786435, 131073][7b 196612, 65537][13 0, 207008]So... where is this man Kenji?
+[END]
+6: (Akira) [7a 85][7b 196693, 65537][13 0, 207009]Don't rush me, goody−two−shoes.
+There's an order to everything.
+[END]
+7: (Jonathan) [7a 3][7b 655363, 65537][7b 262148, 65537][13 0, 207010]”Goody−two−shoes”...?
+[END]
+8: (Akira) [7a 85][7b 196693, 65537][13 0, 207011]Kenji's damn strong. We need weapons
+if we want to take him out.
+[->][13 0, 207012]Northwest of here, there's a town
+called Shinjuku.
+[->][7b 786517, 65537][13 0, 207013]I plan to defeat the guys in charge
+there and take the town.
+[END]
+9: (Walter) [7a 4][7b 65540, 131073][7b 655363, 65537][13 0, 207014]We'll be pillaging the entire town?
+[END]
+10: (Akira) [7a 85][7b 786517, 65537][13 0, 207015]Exactly, bad boy.
+[END]
+11: (Walter) [7a 4][7b 524292, 65537][7b 65539, 65537][13 0, 207016]So I'm ”bad boy,” then...
+[END]
+12: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+13: (Akira) [7a 85][7b 65621, 65537][13 0, 207018]Oh yeah... do you guys need a map
+of Tokyo?
+[->][13 0, 207019]I can hook you up.
+[END]
+14: 〉 Akira awkwardly manipulated his
+smartphone...
+[->]〉 A map of Tokyo has been uploaded to
+the Samurai's Gauntlets.
+[END]
+15: (Burroughs) [7a 2][13 0, 207020]Master [Flynn], I've received
+the geographic data for this Tokyo.
+[->][13 0, 207021]The map functions are available now.
+[END]
+16: (Akira) [7a 85][7b 786517, 65537][13 0, 207022]Alright, let's go. You got me on your
+side now!
+[END]

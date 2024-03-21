@@ -1,0 +1,24 @@
+0: [71 1]Our journey will continue to bring this
+world together in the name of order...
+[->][END]
+1: [71 1]Where is the next evil? I shall set
+forth to banish it.
+[->][END]
+2: [71 1]This world has received blessings upon
+blessings. My journey was truly a
+fruitful one.
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]Now, accept these blessings of light...
+[->][END]
+7: [71 1]On my journey, the heavens granted me
+this gift...
+[->][END]
+8: [71 1]You have done well to endure in my
+absence. Take this gift as a blessing.
+[->][END]

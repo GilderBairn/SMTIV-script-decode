@@ -1,0 +1,15 @@
+0: I'm Reaper Hel. I feel like a lot of things
+are about to go down soon, so I want to get
+ready and build a boat for the dead. I need
+[Color:0x5][Item 1][Color:0x0] to build my ship, and I'd like you
+to collect some for me. I'll be waiting
+underground beneath [Color:0x5]Ikebukuro[Color:0x5].
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

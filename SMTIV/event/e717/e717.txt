@@ -1,0 +1,102 @@
+0: (Master) [7a 29][13 1, 403003]Hey, prentice. Looks like you're
+taking part in the little competition
+that's up on the board.
+[->]Legion Skills can be very powerful
+weapons in a Samurai's quiver.
+[->]This quest will teach you how to
+attain these skills.
+[->]Is there anything you wish to know?
+[END]
+1: ”What is a Legion Skill?”
+”How cam I attain Legion Skills?”
+”Not really, no.”
+[END]
+2: (Master) [7a 29][13 1, 403042]Legion Skills are skills that demons
+can use when gathered into hordes.
+[->]Under a Samurai's command, they are
+strong attacks that temporarily
+summon a group of demons.
+[->]These hordes can be troublesome foes,
+but if you can convince one to help
+you, it can be a tremendous asset.
+[->]If you are going to be a real Samurai,
+you should be able to use one or two
+Legion Skills.
+[END]
+3: (Master) [7a 29][13 1, 403042]Legion Skills are attained from
+demon hordes.
+[->]Hordes are pretty easy to find,
+since they look like swarms.
+[->]Once you enter battle, try using the
+”Scout” command while in conversation
+with the demons.
+[->]If you are successful, the horde may
+”teach” you the Legion Skill.
+[->]...This is possible by having them
+Whisper the skill to you.
+[->]Don't worry; it's not difficult.
+If you can make demons your allies
+singularly, this is about the same.
+[END]
+4: (Master) [7a 29][13 1, 403042]Well, according to my information,
+demon hordes tend to appear between
+the [Color:0x5]3rd and 5th levels[Color:0x0] of Naraku.
+[->]Once you have attained a Legion Skill,
+come show it to me, and I'll judge
+it for you.
+[END]
+5: (Master) [7a 29][13 1, 403003]Legion Skills can be very powerful
+weapons in a Samurai's quiver.
+[->]This quest will teach you how to
+attain these skills.
+[->]Is there anything you wish to know?
+[END]
+6: (Master) [7a 29][13 1, 403003]Hey, prentice. Did you attain a
+Legion Skill?
+[END]
+7: (Master) [7a 29][13 1, 403041]Ah, yes. It seems you do have a
+Legion Skill.
+[->]Well, well, you've exceeded my
+expectations. You're in first place.
+[->]We've all been betting on the outcome
+of the competition...
+[->]Looks like K's gonna take the pot.
+That guy sure knows how to pick 'em.
+[->]Well, that's the joy of
+Challenge Quests.
+[->]Good luck to you, prentice.
+[END]
+8: (Master) [7a 29][13 1, 403042]What's wrong? If you don't hurry,
+the others are going to beat you
+to it.
+[->]Well, according to my information,
+demon hordes tend to appear between
+the [Color:0x5]3rd and 5th levels[Color:0x0] of Naraku.
+[->]Once you have attained a Legion Skill,
+come show it to me, and I'll judge
+it for you.
+[END]
+9: (Master) [7a 29][13 1, 403003]Hey, prentice. Looks like you're
+taking part in the little competition
+that's up on the board.
+[->]Legion Skills can be very powerful
+weapons in a Samurai's quiver.
+[->]...Wait a minute, do you already
+have one?
+[END]
+10: (Master) [7a 29][13 1, 403002]Is there anything else you wish to
+know?
+[END]
+11: (Master) [7a 29][13 1, 403042]Why don't you ask Mido from the
+Cathedral of Shadows? He's the
+expert on this sort of thing.
+[->]Anyway, first you must obtain a
+contract with a demon.
+[->]That way, Mido can give you a thorough
+explanation on how to fuse demons.
+[END]
+12: Yes
+No
+[END]
+900: 〉 There is no one here...
+[END]

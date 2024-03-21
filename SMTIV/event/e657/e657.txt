@@ -1,0 +1,88 @@
+0: (Nozomi) [7a 136][13 0, 657000]Oh! It's you, [Flynn].
+Thanks for coming.
+[->][13 0, 657001]How's that camera I gave you?
+You take any good pictures?
+[END]
+1: ”Of course.”
+”Not at all.”
+[END]
+2: (Nozomi) [7a 136][13 0, 657002]Well, good! I'm glad you're taking
+a shine to it.
+[->][13 0, 657003]Fighting for survival is nice and
+all, but it's good to have a cultural
+experience once in a while.
+[END]
+3: (Nozomi) [7a 136][13 0, 657004]...Awww.
+Well, that's disappointing.
+[->][13 0, 657005]You're still going to join me for
+this job, right?
+[->][13 0, 657006]I guess you just prefer fighting,
+don't you, [Flynn]?
+[END]
+4: 〉 After speaking with Nozomi for a
+while, it becomes apparent that nobody
+else is going to be joining you...
+[END]
+5: (Nozomi) [7a 136][13 0, 657007]Well, it looks like you're the only
+one who showed up, [Flynn].
+[->][13 0, 657008]I can never rely on any of the other
+Hunters.
+[->][13 0, 657009]Whenever they ask me for a favor,
+they all suck up to me and call me
+stuff like ”Boss Lady.”
+[->][13 0, 657010]Ah, well. Guess it's just the two of
+us again.
+[->][13 0, 657011]The demons are running around the
+main street near the east gate like
+they run the place.
+[->][13 0, 657012]I've got high hopes for you,
+[Flynn].
+[END]
+6: 〉 Nozomi has decided to accompany
+you.
+[END]
+7: (Nozomi) [7a 136][13 0, 657013]Hmm. I guess we sorta underestimated
+that demon.
+[->][13 0, 657014]Well, let's give it another shot.
+I'm counting on you.
+[END]
+8: 〉 Nozomi awakens...
+[END]
+9: (Nozomi) [7a 136][13 0, 657015]Huh? Was I out this whole time,
+[Flynn]?
+[END]
+10: 〉 You tell Nozomi what happened while
+she was passed out.
+[END]
+11: (Nozomi) [7a 136][13 0, 657016]I see. So that demon was controlling
+all the Wicker Men to try to get his
+power back.
+[->][13 0, 657017]And you were able to defeat him!
+[->][13 0, 657018]I kinda get the feeling that you're
+already a better Hunter than I am.
+[->][13 0, 657019]Looks like I really do owe you my
+life this time.
+[->][13 0, 657020]Thanks, [Flynn].
+[->][13 0, 657021]Well, here's your reward. You deserve
+it. If anything else comes up, I'll
+make sure to contact you.
+[END]
+12: 〉 Nozomi leaves...
+[->]〉 Nozomi has left your party.
+[END]
+13: (Nozomi) [7a 136][13 0, 402102]The demons are running around the
+main street near the east gate like
+they run the place.
+[->]Well, let's go.
+[END]
+400: 〉 You were unable to protect
+Nozomi, so you take her back to
+where she had joined you.
+[->]〉 You and Nozomi have parted ways...
+[END]
+500: 〉 You sense a sinister power nearby...
+[->]〉 You lay Nozomi's body down and
+prepare for a fight.
+[END]
+900: 〉 There is nobody here...
+[END]

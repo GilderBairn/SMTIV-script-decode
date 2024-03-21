@@ -1,0 +1,135 @@
+0: (Jonathan) [7a 3][13 1, 400101]As a boy, I had my doubts about training
+each day when I lived in such a tranquil
+land...
+[->]But today is the day I truly sense my
+father's deep love for me.
+[->]Had it not been for those days spent
+training, I expect I should be lying
+now in a pool of my own blood...
+[END]
+1: (Dignified Samurai) [7a 116]Yes... you must be bone tired now.
+Please, don't mind me.
+[END]
+2: (Dignified Samurai) [7a 116][13 1, 403042]Yes, the Unclean Ones' country demands
+our attention, but I worry about the
+Eastern Kingdom of Mikado as well.
+[->]If the Black Samurai's Literature has
+spread, we may be facing demons in every
+region of the kingdom.
+[->]But no... I must take these troubles
+one at a time. The Black Samurai has
+precedence.
+[END]
+3: (Cheerful Samurai) [7a 29][13 1, 403001]Hello, prentice. I see you're working
+hard at your training.
+[->]Tell me, have you ever wished for more
+money than your salary offers? I may
+have the answer you seek...
+[END]
+4: (Cheerful Samurai) [7a 29][13 1, 403002]I've read in the Monastery's historical
+documents of rare relics that can be
+found in the depths of Naraku.
+[->]In truth, I grow bored of fulfilling the
+same role each day. I know not what the
+Monastery schemes, but I play my part.
+[END]
+5: (Angel) [7a 65461][13 1, 412001]The sons of man do not know that we are
+preventing the demons from invading.
+[->]And that is as it should be. If we
+angels were to grow less distanced from
+the sons of man...
+[->]Then God's desire to raise the sons of
+man as the shepherds of the earth
+would go unmet.
+[END]
+6: (Isabeau) [7a 5][13 1, 400301]...Ah, [Flynn].
+[->]I'm performing a sweep of Naraku to
+ensure our fellows are not here.
+[->]The situation is too grave to permit any
+misunderstandings. I felt that I should
+personally attend to this...
+[->]But worry not, I can manage on my own.
+The Great Spirit of Spite, now become
+the ”Demon Lord,” is your task.
+[END]
+100: (Jonathan) [7a 3][13 1, 400102]So these are training exercises for a
+Samurai. I'm exhausted as I've never
+been before...
+[->]Naturally, I aim to finish first, but
+I must take care not to overdo it and
+withdraw to recover myself if needed.
+[END]
+101: (Dignified Samurai) [7a 116][13 1, 403042]This is a pretty spot of trouble
+Navarre's gotten himself into.
+Caught in a demon's Domain...
+[->]I saw him on the way out. From the look
+of it, he may have difficulties resuming
+his duties.
+[END]
+103: (明朗なサムライ) [7a 29][13 1, 403043]修道院で歴史書を読んだことがある
+ナラクの奥には珍しい遺物があるらしい
+[->]…正直 毎日同じ役割で退屈してたんだ
+修道院が何か企んでようが 俺は乗るよ
+[END]
+200: (Jonathan) [7a 3][13 1, 400101]Casualries and Luxurors were both given
+their roles by God...
+[->]I suppose, as this is a solemn contest
+amongst Samurai, 'twould be uncouth for
+me to object to it.
+[->]But I pray that you and Walter find
+luck. Though I would rather you not let
+on to Navarre...
+[END]
+201: (Dignified Samurai) [7a 116][13 1, 403003]...You've come, prentice. A Samurai's
+training exercises are rigorous.
+[->]Pardon me for being forward, but will
+you allow me to pass on some useful
+advice?
+[END]
+203: (Cheerful Samurai) [7a 29][13 1, 403001]Hello, prentice. I see you're working
+hard at your training.
+[->]If you happened to squander your salary
+from the Commander, I have a solution,
+if you'd care to hear it.
+[END]
+300: (Jonathan) [7a 3][13 1, 400101]Hm? Navarre? Are you worried for him?
+[->]Well then, why don't we attempt to
+raise him?
+[END]
+301: ”By all means.”
+”That won't be necessary.”
+[END]
+303: Ask him to tell you
+Decline his offer
+[END]
+400: 〉 Jonathan operates his Gauntlet...
+[END]
+401: (Dignified Samurai) [7a 116]'Twas not the people of the Eastern
+Kingdom of Mikado who dug Naraku.
+[->]As the Monastery has it, this cavern
+seems to have been in place since the
+founding of our kingdom.
+[->]The demons and mystic relics have been
+in existence as long as Naraku has...
+[->]If some predecessor to our kingdom dug
+this... then to what purpose...?
+[END]
+403: (Cheerful Samurai) [7a 29]Take the mystic relics you unearth to
+each of the shops in Aquila Statue Plaza.
+[->]Q and B will gladly appraise them and
+buy them from you. With the Monastery's
+blessing, of course.
+[->]Remember well how lucrative the sale of
+mystic relics can be. I myself have oft
+made use of it when my purse was light.
+[END]
+500: (Jonathan) [7a 3]Odd... No response. Perhaps he's in the
+thick of battle with a demon...?
+[END]
+501: (Dignified Samurai) [7a 116]Of course... you are in the midst of
+your training, after all. Pardon.
+[END]
+503: (Cheerful Samurai) [7a 29]You must be quite responsible when it
+comes to fiduciary matters. An estimable
+trait in someone so young...
+[END]

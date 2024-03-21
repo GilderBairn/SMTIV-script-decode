@@ -1,0 +1,415 @@
+0: Dummy Message
+[END]
+1: [71 1]Those who reach out to the raging god
+of lightning shall be electrocuted.
+[->]I'm sure you take my meaning.
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]Such raging sparks of anger are flying
+already... How can it be stopped?
+[->]It cannot be. You must only do your
+best to withstand it.
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]NOT USED
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]NOT USED
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]NOT USED
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]NOT USED
+[->][END]
+33: NOT USED
+[END]
+34: [71 1]You wish to speak with this savage
+thunder?
+[->]Then you must first quell the storm
+with an offering.
+[->][END]
+35: NOT USED
+[END]
+36: [71 1]Now, allow me to speak... The thunder
+of my voice shall sound...
+[->][END]
+37: NOT USED
+[END]
+38: [71 1]Muhahaha... Then let us speak! I have
+countless grudges I'm eager to relay!
+[->][END]
+39: NOT USED
+[END]
+40: [71 1]This pleasure in speaking of things of
+no consequence... It is a rare and
+unique gift.
+[->][END]
+41: NOT USED
+[END]
+42: [71 1]You plead for mercy from the fierce and
+violent storm? Then make your offer.
+[->][END]
+43: NOT USED
+[END]
+44: [71 1]The rare and fleeting mercy of a thunder
+god... Let it wash over you.
+[->][END]
+45: NOT USED
+[END]
+46: [71 1]The sleepy rumble of distant thunder...
+sometimes conveys unexpected blessings...
+[->]The mercy you yearn for... I shall not
+deny it to you...
+[->][END]
+47: NOT USED
+[END]
+48: NOT USED
+[END]
+49: [71 1]The mercy of a thunder god has a special
+quality, does it not? Here, once more.
+[->][END]
+50: NOT USED
+[END]
+51: [71 1]Do you really think you can wrest wealth
+from the raging thunder...?
+[->][END]
+52: NOT USED
+[END]
+53: [71 1]For you to wrest money from even the
+thunder, your hunger for money must
+be insatiable...
+[->][END]
+54: NOT USED
+[END]
+55: [71 1]You are fool blinded by greed, sneaking
+his hand into the storm's pockets...
+[->]Let lightning rain down on you and your
+greed both, burning you to char...
+[->][END]
+56: NOT USED
+[END]
+57: [71 1]U...Urrrrrrgh...!
+[->][END]
+58: NOT USED
+[END]
+59: [71 1]Are you not yet deterred from picking
+the pocket of the thunderous storm...?
+[->][END]
+60: NOT USED
+[END]
+61: [71 1]Enough! I shall give you the wealth
+you seek!
+[->]And with that, I would do battle with
+you! Let me rain down my thunderbolts...!
+[->][END]
+62: NOT USED
+[END]
+63: [71 1]......!
+[->]Let the lightning rain down!
+[->][END]
+64: NOT USED
+[END]
+65: [71 1]Do you really think you can wrest wealth
+from the raging thunder...?
+[->][END]
+66: NOT USED
+[END]
+67: [71 1]You have courage, negotiating with a
+thunder god. Very well, I will oblige
+you in this.
+[->][END]
+68: NOT USED
+[END]
+69: [71 1]Take this boon which comes from the
+midst of the thunderstorm...
+[->][END]
+70: NOT USED
+[END]
+71: [71 1]My secret prize? Muhahaha! It shall
+be yours!
+[->]In the midst of a raging storm, any
+manner of thing might fall from the
+heavens...!
+[->][END]
+72: NOT USED
+[END]
+73: [71 1]...You can have this as well. I have no
+need for it.
+[->][END]
+74: NOT USED
+[END]
+75: [71 1]I have little time to spare. Let us
+decide this, quick as the lightning.
+[->][Color:0x1][Amount 1] Macca.[Color:0x0] Can you afford it?
+[->][END]
+76: NOT USED
+[END]
+77: [71 1]I ask your [Color:0x1][Item 1].[Color:0x0]
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]I ask for [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]I ask for [Color:0x1]a little of[Color:0x0] your [Color:0x1]life.[Color:0x0]
+[->][END]
+82: NOT USED
+[END]
+83: [71 1]I ask for [Color:0x1]some of[Color:0x0] your [Color:0x1]life.[Color:0x0]
+[->][END]
+84: NOT USED
+[END]
+85: [71 1]I ask for [Color:0x1]much of[Color:0x0] your [Color:0x1]life.[Color:0x0]
+[->][END]
+86: NOT USED
+[END]
+87: [71 1]I ask for [Color:0x1]a grand amount of[Color:0x0] your [Color:0x1]life.[Color:0x0]
+[->][END]
+88: NOT USED
+[END]
+89: [71 1]I ask for [Color:0x1]a little of[Color:0x0] your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+90: NOT USED
+[END]
+91: [71 1]I ask for [Color:0x1]some of[Color:0x0] your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+92: NOT USED
+[END]
+93: [71 1]I ask for [Color:0x1]much of[Color:0x0] your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+94: NOT USED
+[END]
+95: [71 1]I ask for [Color:0x1]a grand amount of[Color:0x0] your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+96: NOT USED
+[END]
+97: [71 1]Your ally... The favor I ask is for
+[Color:0x1][Demon name 2]'s life.[Color:0x0]
+[->][END]
+98: NOT USED
+[END]
+99: [71 1]...I ask for [Color:0x1]that.[Color:0x0]
+[->][END]
+100: NOT USED
+[END]
+101: [71 1]Do you know what this thunder god wants?
+[->][END]
+102: NOT USED
+[END]
+103: [71 1]...Just so.
+[->][END]
+104: NOT USED
+[END]
+105: [71 1]...No.
+[->][END]
+106: NOT USED
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]...This will suffice.
+[->][END]
+121: NOT USED
+[END]
+122: [71 1]Muhahaha... This is wonderful! I could
+not ask for more.
+[->][END]
+123: NOT USED
+[END]
+124: [71 1]So you refuse...
+[->][END]
+125: NOT USED
+[END]
+126: [71 1]Oho... Holding back, are you?
+[->]It would seem you wish to be struck
+down by my thunderbolts.
+[->][END]
+127: NOT USED
+[END]
+128: [71 1]Very well, we have nothing more
+to discuss.
+[->][END]
+129: NOT USED
+[END]
+130: [71 1]Oho... Lying to me, are you?
+[->]It would seem you wish to be struck
+down by my thunderbolts.
+[->][END]
+131: NOT USED
+[END]
+132: [71 1]I see. So you do not have it...
+[->][END]
+133: NOT USED
+[END]
+134: [71 1]A Life Stone is the cornerstone of any
+negotiation. Without one...
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]...It is base to ask for so much. I will
+restrain myself from further demands.
+[->][END]
+137: NOT USED
+[END]
+138: [71 1]Oho... Cutting it off here, are you?
+[->]It would seem you wish to be struck
+down by my thunderbolts.
+[->][END]
+139: NOT USED
+[END]
+140: [71 1]You have done well to refuse me so
+persistently. Your spirit shines like
+a gleaming thunderbolt.
+[->][END]
+141: NOT USED
+[END]
+142: [71 1]...I have seen you do little but nod
+your head to me. Where is your spine?
+[->]This is not what is best for the nation.
+Begone...
+[->][END]
+143: NOT USED
+[END]
+144: [71 1]You carry nothing but your own strength
+with you...?
+[->]Your spirit shines like a gleaming
+thunderbolt.
+[->][END]
+145: NOT USED
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: [71 1]The same line of inquiry, over and over
+again... Are you trying to bore me into
+submission?
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]When the heavens flash in a thunderstorm,
+I rush down to meet my master, fast as
+lightning...
+[->]Now, let us go, [Flynn].
+Blaze the trail you deem worthy...
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USED
+[END]
+171: [71 1]NOT USED
+[->][END]
+172: [71 1]NOT USED
+[->][END]
+173: [71 1]NOT USED
+[->][END]
+174: [71 1]NOT USED
+[->][END]

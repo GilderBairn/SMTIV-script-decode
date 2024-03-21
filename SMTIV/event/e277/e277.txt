@@ -1,0 +1,107 @@
+5: (Echoing voice) [13 0, 277011]...You've come.
+[END]
+6: (Demon) [7a 229][13 0, 277012]It seems you mean to accept the world
+of chaos. I respect your efforts in
+that regard.
+[END]
+7: (Demon) [7a 229][13 0, 277014]Sadly, your soul, stained as it is
+by hope, is valueless.
+[END]
+8: 〉 The demon is no longer here...
+[END]
+9: (Echoing voice) [13 0, 277015]Stray lamb who could not choose either
+path...
+[END]
+10: (Demon) [7a 228][13 0, 277016]I give you this advice out of goodwill.
+[END]
+11: (Demon) [7a 228][13 0, 277017]If you think that frail humans can
+survive without yielding to demons or
+God, you are mistaken.
+[END]
+12: 〉 The demon is no longer here...
+[END]
+100: 〉 A powerful barrier prevents you from
+proceeding...
+[END]
+101: (Isabeau) [7a 5][7b 655365, 65537][13 0, 277001]I hate to have come all this way,
+only to be stopped by something
+so trifling...
+[->][13 0, 277002]Do you know of anyone that we could
+call upon for help? Even a demon in
+your party might do.
+[END]
+102: (Burroughs) [7a 2][13 0, 277003]Master, this is a problem...
+[->][13 0, 277004]I don't mean the thing in your way,
+I'm talking about Masakado not being
+with us right now.
+[END]
+103: (Masakado) [7a 65176][13 0, 277005]A space constructed by demons...
+[->][13 0, 277021]Allow me.
+[END]
+104: (Masakado) [7a 65176][13 0, 277006]......
+[END]
+105: (Masakado) [7a 65176][13 0, 277007]Haaa...!
+[END]
+106: 〉 Masakado swallowed the barrier whole.
+[->]〉 The barrier disappeared.
+[END]
+107: (Masakado) [7a 65176][13 0, 277008]I will devour all spite that awaits
+ahead.
+[END]
+108: (Isabeau) [7a 5][7b 131077, 65537][13 0, 277009]A moment, please... We should make
+first for Naraku.
+[END]
+109: (Isabeau) [7a 5][7b 65541, 65537][13 0, 277010]The people of the Eastern Kingdom of
+Mikado must escape to Tokyo.
+[END]
+111: (Demon) [7a 228][13 0, 277018]But it is not too late. Let us walk
+together the path of chaos...
+[END]
+201: (Isabeau) [7a 5][7b 655365, 65537][13 0, 277001]I hate to have come all this way,
+only to be stopped by something
+so trifling...
+[END]
+205: 〉 Masakado attempted to bite into the
+ominous field before you...
+[END]
+206: (Demon) [7a 229][13 0, 277013]But allowing God's order to stand as
+well will never do.
+[END]
+209: 〉 A regretful voice echoed from
+[Flynn]'s Gauntlet.
+[END]
+211: 〉 The Great Spirit of Hope shines
+brilliantly.
+[END]
+305: (Masakado) [7a 65176][13 0, 438001]......
+[END]
+309: (Voice) [7a 1][13 1, 438001]Most regrettable... If only I were
+in a more complete state...
+[END]
+311: (Demon) [7a 228][13 0, 277019]...So there will be no taking
+advantage of you, I see.
+[END]
+409: 〉 Masakado attempted to bite into the
+ominous field before you...
+[END]
+411: (Demon) [7a 228][13 0, 277020]Then I, the Tyrant Belial, will crush
+you along with humanity's hope.
+[END]
+509: (Masakado) [7a 65176][13 1, 438001]...Alas, I have not even the strength to
+open my jaws. If only I had the Great
+Spirit of Hope...
+[END]
+900: マサカドが封印を解く
+[END]
+901: ルシファーの声が聞こえる
+[END]
+902: 中ボス悪魔1と対峙する
+[END]
+903: 戦闘終了フラグ用イベント
+[END]
+904: 中ボス悪魔2と対峙する
+[END]
+905: 戦闘終了フラグ用イベント
+[END]
+906: 仮データ
+[END]

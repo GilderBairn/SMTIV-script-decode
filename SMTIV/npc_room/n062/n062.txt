@@ -1,0 +1,64 @@
+0: (Demon) [7a 65473][13 1, 417205]What is it? If this is about handing
+out Reds, the Ashura−kai haven't
+told me anything.
+[->]Mastema hasn't said anything about
+it, either.
+[END]
+1: (Demon) [7a 65473][13 1, 417208]What is it? You want Reds, now?
+Even when Tokyo's in such a mess?
+[->]You're a pretty greedy human,
+you know. Even without Reds, you're
+pretty much just like us.
+[END]
+2: (Demon) [7a 65404][13 1, 413207]...Ah, I see four lively humans
+before me!
+[->]But I have a contract with Tayama.
+In exchange for Reds, I won't attack
+humans.
+[END]
+3: (Demon) [7a 65404][13 1, 413208]The Sabbaths seems to have been
+purged in the lands above, but as
+long as people live, demons will too.
+[->]I shall spread the Sabbath in those
+lands, as well. Here, in this Tokyo
+outside of God's blessing...
+[END]
+4: (悪魔) [7a 65404][13 1, 413209][大天使/だいてんし]たちよ
+それが[貴様/きさま]らの[答/こた]えというわけか…
+[END]
+5: (悪魔) [7a 65404][13 1, 413206][人/ひと]の[子/こ]の[希望/きぼう]が [天/てん]を[穿/うが]ったか
+ならば[次/つぎ]は [地/ち]を[穿/うが]つ[番/ばん]…
+[->]ルシファーが[討/う]たれること…
+このままでは ありえるか
+[END]
+6: (Demon) [7a 65404][13 1, 413206]The sons of man have gained their own
+world, and they're going to expell
+the demons.
+[->]Those who have sensed the change in
+time have been leaving in droves.
+[->]I will stay here for now, but
+eventually...
+[END]
+7: (Demon) [7a 65391][13 1, 494105]TAYAMA GIVE REDS.
+THAT WHY ME NO EAT TAYAMA.
+[->]BUT TAYAMA LOSE REDS.
+ME EAT TAYAMA...!
+[END]
+8: (Demon) [7a 65391][13 1, 494105]ME TIRED OF REDS.
+WANT TO EAT REAL MEAT.
+[->]TONS OF REAL MEAT OUTSIDE.
+I GO EAT MEAT OUTSIDE.
+NO...?
+[END]
+100: (Demon) [7a 65473][13 1, 417205]What is it? You want Reds, now?
+Isn't there supposed to be something
+big happening in Tokyo?
+[->]I heard that Tayama's going to start
+his war soon.
+[END]
+102: (Demon) [7a 65404][13 1, 413207]...Ah, I see two lively humans
+before me!
+[->]But I have a contract with Tayama.
+In exchange for Reds, I won't attack
+humans.
+[END]

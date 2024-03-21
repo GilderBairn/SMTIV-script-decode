@@ -1,0 +1,44 @@
+0: (Isabeau) [7a 5][7b 131077, 65537][7b 786435, 131073][13 0, 52001]Ebon attire... I think that this can
+be none other than the Black Samurai.
+[END]
+1: (Jonathan) [7a 3][7b 458755, 131073][13 0, 52002]What an unearthly appearance, though.
+I've never seen armor nor helmets
+the like of those.
+[END]
+2: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 52003]Don't glare at me like that. I won't
+refuse those who yearn for me.
+[END]
+3: (Walter) [7a 4][7b 196612, 65537][7b 786435, 131073][13 0, 52004]That voice... You're a woman.
+[END]
+4: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 52005]What kind of books do you prefer?
+I'll give you knowledge and wisdom.
+[END]
+5: (Isabeau) [7a 5][7b 131077, 65537][7b 786435, 131073][13 0, 52006]We have been ordered to restrain you.
+Resistance would be unwise.
+[END]
+6: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 52007]But don't you want to know why I am
+distributing books?
+[END]
+7: (Jonathan) [7a 3][7b 458755, 131073][13 0, 52008]There will be time for you to justify
+yourself at Mikado Castle.
+[END]
+8: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 52009]Oh... What pitiful children.
+[->][13 0, 52010]You aren't even allowed to realize how
+distorted and biased this kingdom is.
+[->][13 0, 52011]That's why I distribute books; to spread
+knowledge and wisdom to everyone.
+[->][13 0, 52012]Is that such a sin?
+[END]
+9: (Walter) [7a 4][7b 786436, 131073][7b 786435, 131073][13 0, 52013]Enough boasts from you. You're in
+our custody now and that's that.
+[END]
+10: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 52014]I see. Your lack of knowledge and
+wisdom prevents you from understanding.
+[->][13 0, 52015]Come to the [Color:0x5]underground...[Color:0x0]
+[END]
+11: (Isabeau) [7a 5][13 0, 52016]Underground? What are you talking
+about now?
+[END]
+12: (Black Samurai) [7a 12][13 0, 52017]I must go, but I'll leave these girls
+to keep you company.
+[END]

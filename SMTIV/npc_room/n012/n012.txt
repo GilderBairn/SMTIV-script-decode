@@ -1,0 +1,23 @@
+0: (Male ghost) [7a 101][13 1, 404502]Welcome... to Shibuya... paradise
+on Earth...
+[->]Wonderful place, wouldn't you agree?
+It's filled with the goddess'
+salvation...
+[END]
+1: (Male ghost) [7a 101][13 1, 404521]Welcome... to Shibuya... paradise
+on Earth...
+[->]The salvation from the goddess Ixtab
+has faded... what will become of us
+now...?
+[END]
+2: (Female ghost) [7a 102][13 1, 404603]Some guys in Shinjuku want to save me?
+It's none of their business...!
+[->]Leave me out of this. It's that damn,
+what do you call it, chivalry? Who wants
+that crap in our Tokyo!?
+[END]
+3: (Female ghost) [7a 102][13 1, 404611]Those guys in Shinjuku might thank you
+for killing Ixtab...
+[->]But for the Shibuya residents, all you
+did was wreck our paradise...
+[END]

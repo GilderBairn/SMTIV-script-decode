@@ -1,0 +1,14 @@
+0: I'd like some liver from the [Color:0x5]Tangata Manu[Color:0x0]
+demons. I think it'll go good with my sake.
+Anybody who collects [Color:0x5][Amount 1][Color:0x0] livers and brings
+them to me will get a personal reward from
+me, K.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

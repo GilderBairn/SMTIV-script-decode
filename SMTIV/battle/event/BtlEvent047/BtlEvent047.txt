@@ -1,0 +1,115 @@
+0: (Lilith) [7a 0][13 0, 304713]Poor humans... Why do you think God
+created you?
+[END]
+1: (Jonathan) [7a 3][13 0, 304714]What...?
+[END]
+2: (Lilith) [7a 0][13 0, 304715]To use you as tools.
+[->][13 0, 304716]You have been nothing but God's slaves
+since you were born.
+[END]
+3: (Jonathan) [7a 3][13 0, 304717]I won't be swayed by this blasphemy!
+[END]
+4: (Lilith) [7a 0][13 0, 304718]That's why I gave you knowledge and
+wisdom.
+[->][13 0, 304719]That is where the power to break the
+fetters of slavery lies...
+[->][13 0, 304720]So that you may recover the instincts
+you have long suppressed... the demonic
+half within.
+[END]
+5: (Jonathan) [7a 3][13 0, 304721]That is nothing more than an excuse
+you demons trot out so that you are
+suffered to live.
+[->][13 0, 304722]You destroyed our paradise with this
+poison dressed as ”knowledge!”
+[END]
+6: (Lilith) [7a 0][13 0, 304723]Hmhmhm... Humans are truly pitiful...
+[END]
+7: (Lilith) [7a 0][13 0, 304724]...It's all over.
+[END]
+8: (Jonathan) [7a 3][13 0, 304725]Indeed it is. Your fantasy of that
+vile world is finished.
+[END]
+9: (Lilith) [7a 0][13 0, 304726]No... I am referring to you.
+[END]
+10: (Lilith) [7a 0][13 0, 304727]For the gate to the Expanse is being
+opened as we speak by a youth armed
+with knowledge and wisdom!
+[->][13 0, 304728]By the hand of one you know very well:
+your friend...
+[END]
+11: (Jonathan) [7a 3][13 0, 304729]The gate to the Expanse...?
+[END]
+1000: (Lilith) [7a 0][13 0, 304700][Flynn], do you hate me? You do,
+because I want to change the world.
+[->][13 0, 304701]Now, let me see that hatred in your
+face. Let it heat your blows.
+[END]
+1001: Glare at Lilith
+Smile at Lilith
+Ignore Lilith
+[END]
+1002: 〉 [Flynn] glared at Lilith!
+[END]
+1003: (Lilith) [7a 0][13 0, 304702]Yes... That burning malice... I can
+feel the blazing touch of life...!
+[->][13 0, 304703]That is the manifestation of chaos...
+Ahh... I can feel myself being
+elevated... My blood, my flesh...
+[END]
+1004: 〉 Lilith's fighting spirit surged!
+[END]
+1005: 〉 Lilith's attack increased!
+[END]
+1006: 〉 Lilith's aim increased!
+[END]
+1007: 〉 [Flynn] smiled at Lilith...
+[END]
+1008: (Lilith) [7a 0][13 0, 304704]What a filthy smile...! It reeks of
+God's hypocrisy...
+[->][13 0, 304705]Wipe it off your face at once. Don't
+look at me with those empty, rotting
+eyes...!
+[END]
+1009: 〉 Lilith's stance faltered slightly!
+[END]
+1010: 〉 Lilith's defense decreased!
+[END]
+1011: 〉 [Flynn] ignored her and
+pressed the attack...
+[END]
+1012: (Lilith) [7a 0][13 0, 304706]Do you see, [Flynn]? Look at the
+power you have in battle.
+[->][13 0, 304707]You feel it, don't you? The thrill of
+combat... The rush of power that
+surges from within...
+[END]
+1013: ”I feel it quite keenly.”
+”I feel it not at all.”
+Ignore her
+[END]
+1014: (Lilith) [7a 0][13 0, 304708]...So that is the extent of your will.
+[->][13 0, 304709]In your mind you serve God, thinking
+yourself to be pure, but your body
+is addicted to that primal power...
+[->][13 0, 304710]Do you think that one so divided as
+you can defeat me?
+[END]
+1015: 〉 [Flynn] was overwhelmed by
+Lilith's aura!
+[END]
+1016: 〉 All of [Flynn]'s abilities
+decreased!
+[END]
+1017: (Lilith) [7a 0][13 0, 304711]Are you saying you have given up both
+your mind and body completely to God?
+[->][13 0, 304712]How hideous...
+[END]
+1018: 〉 Lilith's mind was clouded with
+disgust!
+[END]
+1019: 〉 Lilith's defense decreased!
+[END]
+1020: 〉 [Flynn] ignored her and
+pressed the attack...
+[END]

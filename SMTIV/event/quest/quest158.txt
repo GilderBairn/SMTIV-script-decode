@@ -1,0 +1,16 @@
+0: I'd like help with finding weapons for Hunters.
+We need more [Color:0x5]firearms[Color:0x0] to deal with the
+rising number of demons here. There should be
+a JGSDF supply depot buried next to the giant
+wall [Color:0x5]north of Ikebukuro.[Color:0x0] The [Color:0x5]Jujo[Color:0x0]
+area in the Kita district has barely been
+explored, so you'll likely find something there.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

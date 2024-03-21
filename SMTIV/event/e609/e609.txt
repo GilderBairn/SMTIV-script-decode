@@ -1,0 +1,40 @@
+0: 〉 A serene−looking dragon is floating
+over the deserted lake.
+[END]
+1: (Dragon of the Lake) [7a 65152][13 0, 609000]You come to this place, sword in
+hand...
+[->][13 0, 609001]Have you come to slay me?
+[END]
+2: ”Yes.”
+”No.”
+[END]
+3: (Dragon of the Lake) [7a 65152][13 0, 609002]Yet another one... I've lost count
+of how many have come before you.
+[->][13 0, 609003]To think that a mere human would
+challenge Long. It would seem you
+have a death wish!
+[END]
+4: (Dragon of the Lake) [7a 65152][13 0, 609004]Then leave this place immediately.
+[END]
+5: (Long) [7a 65152][13 0, 609005]To think that there are humans like
+you, that wield such great power...
+[->][13 0, 609006]Let me ask you one thing.
+[->][13 0, 609007]What do you see us dragons as?
+[->][13 0, 609008]Enemies to be slain for honor and
+glory? As gods of the land?
+[END]
+6: ”You are beasts to be slain.”
+”You are holy spirits.”
+[END]
+7: (Long) [7a 65152][13 0, 609009]I see... To you, we dragons are
+nothing more than monsters.
+[END]
+8: (Long) [7a 65152][13 0, 609010]I see... Then humans would dare
+to oppose the gods as well...
+[END]
+9: (Long) [7a 65152][13 0, 609011]Either way, the fact remains that
+you have defeated me.
+[->][13 0, 609012]I shall leave this place.
+[END]
+10: 〉 The dragon leaves...
+[END]

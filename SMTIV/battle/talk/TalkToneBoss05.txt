@@ -1,0 +1,417 @@
+0: Dummy
+[END]
+1: [71 1]You wish to make me one of yours?
+My, how spirited of you.
+[->]An enterprising boy like you must be
+delicious on the tongue...
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]Don't run. The feast has just begun!
+[->]Hohoho... I shall sample your flesh and
+drink deep of the blood that spills.
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]NOT USED
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]NOT USED
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]NOT USED
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]NOT USED
+[->][END]
+33: NOT USED
+[END]
+34: [71 1]You wish to chat with me? Then you
+must first offer a suitable gift.
+[->][END]
+35: NOT USED
+[END]
+36: [71 1]Hohoho... Enjoy your chat with me.
+It is an immeasureable privilege...
+[->][END]
+37: NOT USED
+[END]
+38: [71 1]Ahhh...! You would like to chat with
+a woman of my status?
+[->]Yes, yes, let us enjoy our talk to
+the fullest!
+[->][END]
+39: NOT USED
+[END]
+40: [71 1]Hohoho... This chattering is as good
+on the tongue as a sweet delicacy.
+[->][END]
+41: NOT USED
+[END]
+42: [71 1]If you wish to ask for my mercy, then
+you must present a suitable offering.
+[->][END]
+43: NOT USED
+[END]
+44: [71 1]Hohoho... Very well. I will make an
+exception and show you mercy.
+[->][END]
+45: NOT USED
+[END]
+46: [71 1]Who would dare interrupt my beauty
+sleep...?
+[->]If it was merciful treatment you seek...
+Then take it and begone...
+[->][END]
+47: NOT USED
+[END]
+48: NOT USED
+[END]
+49: [71 1]It is good to be merciful at times.
+Here, be healed once more.
+[->][END]
+50: NOT USED
+[END]
+51: [71 1]Your face is that of one who devours...
+You ask for funds, and yet...
+[->][END]
+52: NOT USED
+[END]
+53: [71 1]To think that I would be exploited...
+Human greed is truly boundless!
+[->][END]
+54: NOT USED
+[END]
+55: [71 1]I shall devour you along with the money
+you coaxed from me!
+[->][END]
+56: NOT USED
+[END]
+57: [71 1]Noooooooo!
+[->][END]
+58: NOT USED
+[END]
+59: [71 1]H−How dare you...! Think you that I'll
+forgive such barbarousness!?
+[->][END]
+60: NOT USED
+[END]
+61: [71 1]Ugh! If it's money you want, then have
+it! But you must stop this humiliation
+at once, is that clear!?
+[->][END]
+62: NOT USED
+[END]
+63: [71 1]Ohohohoho! The kid gloves are off!
+[->][END]
+64: NOT USED
+[END]
+65: [71 1]Your face is that of one who devours...
+You ask for funds, and yet...
+[->][END]
+66: NOT USED
+[END]
+67: [71 1]Ahh, so you desire what I have. Then
+you must pay the price for it.
+[->][END]
+68: NOT USED
+[END]
+69: [71 1]I will give you this. It's far too good
+for a mere human, but...
+[->][END]
+70: NOT USED
+[END]
+71: [71 1]You desire what I have? What an adorable
+human you are.
+[->]Here then, take it with you.
+[->][END]
+72: NOT USED
+[END]
+73: [71 1]I will give you this, too, to sweeten
+the deal. Be grateful for my generosity,
+human.
+[->][END]
+74: NOT USED
+[END]
+75: [71 1]Now then, time is of the essence.
+Why don't we decide this with money?
+[->]The terms are [Color:0x1][Amount 1] Macca.[Color:0x0]
+Can you pay such a sum?
+[->][END]
+76: NOT USED
+[END]
+77: [71 1][Color:0x1][Item 1][Color:0x0] is what I ask.
+[->][END]
+78: NOT USED
+[END]
+79: [71 1][Color:0x1][Amount 1] Macca[Color:0x0] is what I ask.
+[->][END]
+80: NOT USED
+[END]
+81: [71 1][Color:0x1]A little[Color:0x0] of your [Color:0x1]stamina[Color:0x0]
+is what I ask.
+[->][END]
+82: NOT USED
+[END]
+83: [71 1][Color:0x1]Some[Color:0x0] of your [Color:0x1]stamina[Color:0x0]
+is what I ask.
+[->][END]
+84: NOT USED
+[END]
+85: [71 1][Color:0x1]A lot[Color:0x0] of your [Color:0x1]stamina[Color:0x0]
+is what I ask.
+[->][END]
+86: NOT USED
+[END]
+87: [71 1][Color:0x1]A tremendous amount[Color:0x0] of your [Color:0x1]stamina[Color:0x0]
+is what I ask.
+[->][END]
+88: NOT USED
+[END]
+89: [71 1][Color:0x1]A little[Color:0x0] of your [Color:0x1]spirit[Color:0x0]
+is what I ask.
+[->][END]
+90: NOT USED
+[END]
+91: [71 1][Color:0x1]Some[Color:0x0] of your [Color:0x1]spirit[Color:0x0]
+is what I ask.
+[->][END]
+92: NOT USED
+[END]
+93: [71 1][Color:0x1]A lot[Color:0x0] of your [Color:0x1]spirit[Color:0x0]
+is what I ask.
+[->][END]
+94: NOT USED
+[END]
+95: [71 1][Color:0x1]A tremendous amount[Color:0x0] of your [Color:0x1]spirit[Color:0x0]
+is what I ask.
+[->][END]
+96: NOT USED
+[END]
+97: [71 1]Your demon there... I require the
+[Color:0x1]life of [Demon name 2].[Color:0x0]
+[->][END]
+98: NOT USED
+[END]
+99: [71 1]I must have [Color:0x1]that.[Color:0x0] Yes... [Color:0x1]that[Color:0x0] is
+my demand to you.
+[->][END]
+100: NOT USED
+[END]
+101: [71 1]Can you guess what I desire?
+[->][END]
+102: NOT USED
+[END]
+103: [71 1]Good, very good. Well then, I'll be
+taking that.
+[->][END]
+104: NOT USED
+[END]
+105: [71 1]You cannot even gauge something so
+simple? What a simpleton.
+[->][END]
+106: NOT USED
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]...I believe that should be enough.
+[->][END]
+121: NOT USED
+[END]
+122: [71 1]Ohohoho... Very good. I am most pleased.
+[->][END]
+123: NOT USED
+[END]
+124: [71 1]Oho, so you will deny me?
+[->][END]
+125: NOT USED
+[END]
+126: [71 1]Did you just try and shortchange me...?
+[->]Maybe the world would be better off if
+I devoured you after all.
+[->][END]
+127: NOT USED
+[END]
+128: [71 1]That is enough. I have quite lost
+interest.
+[->][END]
+129: NOT USED
+[END]
+130: [71 1]Did you just try to swindle me...?
+[->]Maybe the world would be better off if
+I devoured you after all.
+[->][END]
+131: NOT USED
+[END]
+132: [71 1]You are truly destitute, aren't you...?
+[->][END]
+133: NOT USED
+[END]
+134: [71 1]We will never get anywhere in negotiation
+if you don't have any Life Stones.
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]Hohoho... It would be unladylike to keep
+pressing for more.
+[->]Well then, let us settle accounts now.
+[->][END]
+137: NOT USED
+[END]
+138: [71 1]You cannot abide by my demands?
+[->]Maybe the world would be better off if
+I devoured you after all.
+[->][END]
+139: NOT USED
+[END]
+140: [71 1]...That is enough. To be denied so
+consistently...
+[->]Enemy though you are, your determination
+is most impressive.
+[->][END]
+141: NOT USED
+[END]
+142: [71 1]You do as you're told, don't you...?
+Not even a hint of resistance.
+[->]I deplore cowards like you. Now leave.
+[->][END]
+143: NOT USED
+[END]
+144: [71 1]Hohoho...! You are truly destitute.
+[->]It's rare to encounter someone so
+woefully poor as you.
+[->][END]
+145: NOT USED
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: [71 1]Cuisine and conversation are very much
+alike... Too much of the same thing and
+one grows tired of it.
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]I could never forget to have you at my
+table during a banquet...
+[->]Now come, [Flynn]. Let us depart
+in search of more divine cuisines.
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USED
+[END]
+171: [71 1]NOT USED
+[->][END]
+172: [71 1]NOT USED
+[->][END]
+173: [71 1]NOT USED
+[->][END]
+174: [71 1]NOT USED
+[->][END]

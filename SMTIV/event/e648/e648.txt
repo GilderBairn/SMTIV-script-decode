@@ -1,0 +1,74 @@
+0: 〉 There is a statue of a dog here...
+[->]〉 Some kind of power makes it look
+as if the statue has three heads...
+[->]〉 Do you want to call upon Cerberus?
+[END]
+1: Yes
+No
+[END]
+2: 〉 [Flynn] called Cerberus.
+[END]
+3: (Demon's voice) [7a 65282][13 1, 494000]WHERE YOU LOOK!?
+ME OVER HERE!
+[END]
+4: 〉 Cerberus has appeared.
+[END]
+5: (Cerberus) [7a 65282][13 1, 494000]WHAT YOU WANT, HUMAN?
+[->]IF YOU BORING, I EAT YOU WHOLE.
+ME WARN YOU.
+[END]
+6: 〉 [Flynn] asked Cerberus not to
+come near the city anymore.
+[END]
+7: (Cerberus) [7a 65282][13 1, 494005]WHAT!? YOU SAY WE BROTHERS TOO HOT
+YOU TO HANDLE, YOU WANT... US LEAVE?
+[->]RUDE! WE GO WHERE WE PLEASE!
+[->]IF HUMANS DIE, IT BECAUSE THEY WEAK.
+NO MATTER TO US.
+[END]
+8: Force them to obey
+Try to talk some more
+[END]
+9: (Cerberus) [7a 65282][13 1, 494000]GWAHAHAHAHA! VERY GOOD.
+LET ME SEE YOU TRY!
+[END]
+10: (Cerberus) [7a 65282][13 1, 494000]NO TALKS!
+[END]
+11: 〉 [Flynn] left the area...
+[END]
+12: 〉 Would you like to call Cerberus?
+[END]
+13: Yes
+No
+[END]
+14: 〉 The area has been sealed off by the
+demon's Domain.
+[END]
+15: (Burroughs) [7a 2][13 1, 502044]I have located the signal of the
+escaped demon.
+[->]I'll display it on the navigation map.
+[END]
+16: (Burroughs) [7a 2][13 1, 502044]I still have a lock on the demon's
+signal.
+[->]If you want to defeat this demon,
+I suggest you remain on the defensive
+while pursuing it.
+[END]
+17: (Burroughs) [7a 2][13 1, 502044]I still have a lock on the demon's
+signal.
+[->]If you want to defeat this demon,
+I suggest you remain on the defensive
+while pursuing it.
+[END]
+18: (Cerberus) [7a 65282][13 1, 494000]ERF...
+YOU CATCH ME.
+[->]YOU PRETTY STRONG. SO WILD.
+ME LIKE THAT.
+[->]AS PROMISE, I STOP RUNNING AROUND
+HERE.
+[->]GOODBYE, WILD HUMAN.
+[END]
+19: 〉 The demon leaves...
+[END]
+900: 〉 It's the statue of Hachiko...
+[END]

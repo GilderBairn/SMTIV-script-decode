@@ -1,0 +1,10 @@
+0: There has been a great increase in the number of souls
+coming to the shores of the River Styx. It seems most
+of them died out of ignorance of their apps. Their
+whining has Master Charon most vexed. We will show you
+where you may earn a great deal of [Color:0x5]App Points,[Color:0x0] in hopes
+that you will train there in the use of applications.
+Your reward will be whatever you can take back.
+[END]
+1: Download Content 1 Second time
+[END]

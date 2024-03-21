@@ -1,0 +1,15 @@
+0: It is I, Abbot Hugo, leader of the Monastery.
+Many of the relics require ”electricity” in
+order to function. To connect these relics
+to an energy source, we need a different
+relic, known as a [Color:0x5]power cable.[Color:0x0] I am sure
+you can find one in Tokyo somewhere.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

@@ -1,0 +1,92 @@
+0: (Demon) [7a 64897][13 0, 144001]Hum...
+[->][13 0, 144002]...Hm?
+[END]
+1: (Demon) [7a 210][13 0, 144003]The Magnetite you bear points toward
+the star of destruction...
+[->][13 0, 144004]At last... One has come whose karma
+is worthy of a duel to the death.
+[END]
+2: (Demon) [7a 210][13 0, 144005]In the human world, there is a saying:
+”Ignorance is bliss.”
+[->][13 0, 144006]To distance the people of my country
+from the cruel truth... That is the
+part I play in defending this land.
+[END]
+3: (Demon) [7a 210][13 0, 144007]But you would go beyond... The stars
+tell me so.
+[->][13 0, 144008]Then we are fated to duel to the death.
+Let us see if you can bring Tenkai
+to his knees!
+[END]
+4: Fight him
+Retreat for now
+[END]
+5: (Tenkai) [7a 210][13 0, 144009]It begins!
+[END]
+6: (Tenkai) [7a 210][13 0, 144010]If you wish to pass, you must fight
+me to the death. There is no other way.
+[END]
+7: (Tenkai) [7a 210][13 0, 144011]You have come, those bound to
+destruction...
+[->][13 0, 144012]If you wish to pass, you must fight
+me to the death.
+[END]
+8: (Demon) [7a 64897][13 0, 144013]Hum...
+[END]
+10: 〉 The demon turned into a huge slab
+of stone...
+[END]
+11: (Jonathan) [7a 3][7b 655363, 65537][13 0, 144014]What were those last words he spoke...?
+He sounded... grateful.
+[END]
+12: (Walter) [7a 4][7b 196612, 65537][13 0, 144015]It's just as I was unable to choose
+the sort of family I was born into.
+[->][13 0, 144016]Once summoned, demons can't pick
+their master...
+[END]
+13: (Walter) [7a 4][7b 393220, 65537][13 0, 144017]”Humans and demons are the same,”
+eh...? That may have been aptly put.
+[END]
+15: (Jonathan) [7a 3][7b 786435, 65537][13 0, 144018]You are being taken in by Lilith.
+That is the only reason her words
+seem to you to have merit.
+[END]
+16: (Walter) [7a 4][7b 655364, 65537][13 0, 144019]You wouldn't understand. You're a
+Luxuror...
+[END]
+17: (Walter) [7a 4][7b 327684, 65537][13 0, 144020]But you know of which I speak, yes?
+[END]
+18: ”I do indeed.”
+”We differ on this.”
+[END]
+19: (Walter) [7a 4][7b 589828, 65537][13 0, 144021]Y−You see?
+[END]
+20: (Walter) [7a 4][7b 393220, 65537][13 0, 144022]I see...
+[END]
+21: (Walter) [7a 4][7b 786436, 65537][13 0, 144023]......
+[->][13 0, 144024]I am sorry for all of this.
+[END]
+22: 〉 Myoko's Disk began to shine in your hand...
+[END]
+23: (Voice) [7a 2][13 1, 456004]I am the Famed Tenkai, one of the
+deadly National Defense Divinities.
+[END]
+24: (Tenkai) [7a 2][13 1, 456002]It matters not who you are. So long as
+you hold my medium, it is fate that
+you are my master.
+[->][13 1, 456010]I am honored to meet you.
+[END]
+25: 〉 You can now fuse [Color:0x5][74 639] [42 639].[Color:0x0]
+[END]
+100: 〉 A demon is meditating...
+[END]
+101: 〉 The demon opened his eyes.
+[END]
+107: 〉 A demon is meditating...
+[END]
+122: 〉 The stone that was once Tenkai is
+sitting in front of you...
+[END]
+1022: 〉 You hear a voice from the stone in
+front of you...
+[END]

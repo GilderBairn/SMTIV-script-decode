@@ -1,0 +1,15 @@
+0: The people of Tennozu have formed a cult
+worshipping the Gozutennou. There haven't
+been any Hunters over there who can summon
+for a long time, but a knight in [Color:0x5]red armor[Color:0x0]
+is trying to help them summon the Gozutennou.
+Investigate the area and act as necessary.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

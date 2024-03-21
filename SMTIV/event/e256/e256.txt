@@ -1,0 +1,71 @@
+0: (Regal voice) [7a 204][7b 65740, 65537][13 0, 256001]...So you have come thus far.
+[->][13 0, 256002]Know this, assemblage of God's puppets
+and the pitiful son of man whom He
+has led astray...
+[END]
+1: (Demon Lord Lucifer) [7a 204][7b 65740, 65537][13 0, 256003]I am the Demon Lord Lucifer.
+[->][13 0, 256004]The humiliating slander of being called
+”evil” for flouting God's will, and
+subsequent banishment, shall be repaid.
+[END]
+2: (Demon Lord Lucifer) [7a 204][7b 65740, 65537][13 0, 256005]For the dignity of we who live in chaos
+and the free will of humanity...
+[END]
+3: (Demon Lord Lucifer) [7a 204][7b 65740, 65537][13 0, 256006]I will not give this world over to
+”order.”
+[END]
+4: (Merkabah) [7a 64478][13 0, 256007]We have vanquished Lucifer at last...
+[->][13 0, 256008]It is victory forged by we two. Nothing
+remains to hinder our steps.
+[END]
+5: [悪魔王/あくまおう]ルシファーがいた[場所/ばしょ]に
+リモコンが[落/お]ちている
+[END]
+6: [13 0, 256011](Merkabah) [7a 64478]With this, all this world's Filth will
+be cleansed.
+[END]
+7: (Merkabah) [7a 64478][13 0, 256012]It is time for the Great Abaddon to
+swallow Tokyo.
+[->][13 0, 256013]...And we are no exception. We, too,
+have brushed against Filth and been
+spattered with their blood.
+[END]
+8: (Merkabah) [7a 205][13 0, 256014]I trust you take my meaning...?
+[END]
+9: できている
+できていない
+[END]
+10: (Merkabah) [7a 64478]それでこそ[神/かみ]の[戦士/せんし]である
+[END]
+11: (Merkabah) [7a 64478]では リモコンを[手/て]に[取/と]り
+スイッチを[押/お]すがいい…
+[END]
+12: (Merkabah) [7a 64478][我/われ]らの[選択/せんたく]の[行/ゆ]く[末/す]に
+[神/かみ]に[選/えら]ばれし[民/たみ]の[幸福/こうふく]があらんことを…
+[END]
+13: [Flynn]は
+リモコンのスイッチを[押/お]した…
+[END]
+14: (Merkabah) [7a 64478]ここまで[来/き]て
+[何/なに]を[迷/まよ]うことがある?
+[->]ケガレ[無/な]き[世界/せかい]の[実現/じつげん]は[目前/もくぜん]だ
+…[覚悟/かくご]を[決/き]めて ここに[戻/もど]るのだ
+[END]
+15: (Merkabah) [7a 64478]…[戻/もど]ったな [神/かみ]の[戦士/せんし]よ
+[END]
+16: (Merkabah) [7a 64478]これより[東京/とうきょう]を[消滅/しょうめつ]させるぞ
+…[覚悟/かくご]はできているな?
+[END]
+104: (Burroughs) [7a 2][13 0, 256010]This might be a little early, but
+congratulations on completing the quest.
+[END]
+107: (Merkabah) [7a 64478]......
+[END]
+108: 〉 Merkabah pressed the remote's button...
+[END]
+204: 〉 There is a remote on the ground where
+the Demon Lord Lucifer was.
+[->]〉 Merkabah picked up the remote.
+[END]
+304: (Merkabah) [7a 64478][13 0, 256009]Look...
+[END]

@@ -1,0 +1,4 @@
+0: Dummy
+[END]
+1: 〉 You have no business here anymore.
+[END]

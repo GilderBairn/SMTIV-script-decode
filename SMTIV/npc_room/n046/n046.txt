@@ -1,0 +1,40 @@
+0: (Thin−faced man) [7a 60][13 1, 403202]Most of the customers at Club Milton
+are demons who made a contract with
+Tayama.
+[->]They're given Reds in exchange for
+promising to not eat the people who
+live underground.
+[->]I hear the guys who turned on the
+Ashura−kai got thrown into Milton,
+too.
+[END]
+1: (Thin−faced man) [7a 60][13 1, 403241]Most of the customers at Club Milton
+are demons who made a contract with
+Tayama.
+[->]They're given Reds in exchange for
+promising to not eat the people who
+live underground.
+[->]The streets used to be filled with
+demon corpses before Milton opened.
+[END]
+2: (Demon) [7a 65116][13 1, 412001]Hunting down humans locked in a cage
+has no thrill...
+[->]Perhaps I should build myself a tower
+of human corpses... Build one tall
+enough to touch the Firmament...
+[END]
+3: (Demon) [7a 65116][13 1, 412001]Humans are weak. Even if they have
+hope, they'll never escape death.
+That is their fate...
+[->]Soon, all the humans in Tokyo will
+be hunted down and destroyed.
+[->]If you put all their bodies in a
+pile, I wonder how big it would be?
+Would it reach the sky...? Hmhmhm.
+[END]
+4: (Thin−faced man) [7a 60][13 1, 403202]I can still remember how the people
+cheered when you arrived in this
+town...
+[->]That was it. That was the moment when
+something inside us changed forever.
+[END]

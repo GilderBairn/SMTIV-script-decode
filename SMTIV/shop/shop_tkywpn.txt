@@ -1,0 +1,34 @@
+23: (Shopkeeper) [13 0, 405406]Alright, bring 'em out already and
+I'll appraise them for you.
+[END]
+24: (Shopkeeper) This is the best I can give you for
+those. Take it.
+[END]
+25: (Shopkeeper) [13 0, 405400]Oh, a Hunter...
+[END]
+26: (Shopkeeper) [13 0, 405403]You still got business here?
+[END]
+27: (Shopkeeper) [13 4, 405402]Make sure you bring more Macca next
+time.
+[END]
+28: (Shopkeeper) [Item 1] x[Amount 1], huh?
+That'll be [Amount 2] Macca.
+[END]
+29: (Shopkeeper) [Item 1] x[Amount 1], huh?
+[Amount 2] Macca's a fair price,
+right?
+[END]
+30: (Shopkeeper) [13 0, 405407]...Here.
+[END]
+31: (Shopkeeper) Don't tell me you're gonna change
+here...
+[END]
+32: (Shopkeeper) [13 0, 405405]...This is real, right?
+[END]
+33: (Shopkeeper) [13 0, 405404]You better not just be window shopping.
+[END]
+34: (Shopkeeper) [13 0, 405401]...You had to come now, didn't you?
+[END]
+55: Yes
+No
+[END]

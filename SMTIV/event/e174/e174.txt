@@ -1,0 +1,148 @@
+0: (Smiling boy) [7a 71][13 0, 174001]I'm going to study hard and make
+Tokyo great...
+[END]
+1: (Smiling girl) [7a 72][13 0, 174002]There are so many books and movies
+here. It's like a wonderland.
+[END]
+2: (Jonathan) [7a 3][13 0, 174003][7b 196611, 65537]They're still here...
+[END]
+3: (Jonathan) [7a 3][13 0, 174004][7b 196611, 65537]......
+[END]
+4: (Jonathan) [7a 3][13 0, 174005][7b 786435, 65537]It is within our power now to release
+these children.
+[->][13 0, 174006]But that is akin to robbing them of
+their peaceful lives and thrusting
+them into a cruel world...
+[END]
+5: (Jonathan) [7a 3][13 0, 174007][7b 655363, 65537]...Perhaps it is best for them, in the
+end, that they live out the rest of
+their lives here.
+[->][7b 393219, 65537][13 0, 174008]What say you, [Flynn]? Should we
+release them...?
+[END]
+6: ”We'll release them.”
+”Let them be.”
+[END]
+7: (Jonathan) [7a 3][13 0, 174009][7b 196611, 65537]I see...
+[END]
+8: (Jonathan) [7a 3][13 0, 174010][7b 786435, 65537]Then let us release them forthwith.
+[END]
+9: (Jonathan) [7a 3][7b 786435, 65537][13 0, 174015]...I agree.
+[END]
+10: (Jonathan) [7a 3][13 0, 174016]I pray that their happiness lasts as
+long as it can.
+[END]
+11: (Jonathan) [7a 3][13 0, 174011][7b 262147, 65537]All is well, children... We've come
+to rescue you.
+[END]
+12: (Smiling boy) [7a 71][13 0, 174012]......
+[END]
+13: (Smiling girl) [7a 72][13 0, 174013]......
+[END]
+14: (Jonathan) [7a 3][13 0, 174014][7b 65539, 65537]What's wrong? Come, step outside.
+[END]
+15: 〉 The smiling boy and girl looked back
+and forth several times before leaving
+the room.
+[END]
+16: (Walter) [7a 4][13 0, 174017][7b 196612, 65537]These children are still here...
+[END]
+17: (Walter) [7a 4][13 0, 174018][7b 196612, 65537]......
+[END]
+18: (Walter) [7a 4][13 0, 174019][7b 196612, 65537]With all the demons outside, this may
+indeed be the best place for them.
+[->][13 0, 174020]But then, one cannot grow strong if
+one is pampered and coddled.
+[END]
+19: (Walter) [7a 4][13 0, 174021][7b 196612, 65537]I think removing them from this place,
+by force if necessary, would be the
+best thing for their futures.
+[->][7b 786436, 65537][13 0, 174022]You are in agreement, right,
+[Flynn]...?
+[END]
+20: ”Of course.”
+”Not this time.”
+[END]
+21: (Walter) [7a 4][13 0, 174023][7b 786436, 65537]I knew that you would be.
+[END]
+22: (Walter) [7a 4][13 0, 174028][7b 196612, 65537]I see...
+[END]
+23: (Walter) [7a 4][13 0, 174029][7b 196612, 65537]I expect you think you're being kind,
+but you're merely turning a blind eye.
+[END]
+24: (Walter) [7a 4][13 0, 174024][7b 786436, 65537]Hoy, we're setting you free. Today
+is the day of your liberation!
+[END]
+25: (Smiling boy) [7a 71][13 0, 174025]......
+[END]
+26: (Smiling girl) [7a 72][13 0, 174026]......
+[END]
+27: (Walter) [7a 4][13 0, 174027][7b 786436, 65537]Don't give in, children... not to
+demons, not to yourselves...
+[END]
+28: 〉 The smiling boy and girl looked back
+and forth several times before leaving
+the room.
+[END]
+29: 〉 Walter looked at the children
+bitterly...
+[END]
+30: (Isabeau) [7a 5][13 0, 174030][7b 655365, 65537]The children are still here...
+[END]
+31: (Isabeau) [7a 5][7b 196613, 65537]......
+[END]
+32: (Isabeau) [7a 5][13 0, 174032][7b 196613, 65537]We may set them free now, if we wish.
+[->][13 0, 174033]But doing so will only force them to
+fight for their lives in a pitiless
+world...
+[END]
+33: (Isabeau) [7a 5][13 0, 174034][7b 196613, 65537]Perhaps they would ultimately be
+happier here.
+[->][7b 655365, 65537][13 0, 174035]What is your opinion, [Flynn]?
+Shall we free these children?
+[END]
+34: ”We'll release them.”
+”Let them be.”
+[END]
+35: (Isabeau) [7a 5][13 0, 174036][7b 655365, 65537]I see...
+[END]
+36: (Isabeau) [7a 5][13 0, 174037][7b 655365, 65537]If that is your decision, I will abide
+by it.
+[->][13 0, 174038]Let us release them.
+[END]
+37: (Isabeau) [7a 5][END]
+38: 〉 Isabeau knelt down to talk to the
+children.
+[END]
+39: (Isabeau) [7a 5][13 0, 174043][7b 262149, 65537]You be nice to others, all right?
+And stay out of harm's way.
+[END]
+40: (Isabeau) [7a 5][13 0, 174039][7b 65541, 65537]You may come out now... You are free.
+[END]
+41: (Smiling boy) [7a 71][13 0, 174040]......
+[END]
+42: (Smiling girl) [7a 72][13 0, 174041]......
+[END]
+43: (Isabeau) [7a 5][13 0, 174042][7b 262149, 65537]Hold hands so that you don't get lost.
+You must look after one another, do
+you understand?
+[END]
+44: 〉 The smiling boy and girl looked back
+and forth several times before leaving
+the room.
+[END]
+45: 〉 The smiling boy and girl are no longer
+here...
+[END]
+46: (Smiling boy) [7a 71][13 0, 174012]......
+[END]
+47: (Smiling girl) [7a 72][13 0, 174013]......
+[END]
+48: 〉 The smiling boy and girl are staring
+into space...
+[END]
+137: (Isabeau) [7a 5][13 0, 174036][7b 655365, 65537]I see...
+[END]
+237: (Isabeau) [7a 5][13 0, 174037][7b 655365, 65537]If that is your decision, I will abide
+by it.
+[END]

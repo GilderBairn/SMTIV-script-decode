@@ -1,0 +1,11 @@
+0: (Mahamayuri) [7a 0][13 0, 305800]Those with power rule this world. This
+is the battlefield; a precipitous peak.
+[->][13 0, 305801]I shall bring all my might to bear
+in defeating you.
+[->][13 0, 305803]Can you overcome the power that reigns
+over this land?
+[END]
+1: (Mahamayuri) [7a 0][13 0, 305802]Come, my demons!
+[END]
+2: 〉 Mahamayuri releases a horde of demons!
+[END]

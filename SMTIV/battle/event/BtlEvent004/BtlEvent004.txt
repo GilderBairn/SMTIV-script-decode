@@ -1,0 +1,5 @@
+0: (Alraune) [13 0, 300401]Aaaahhh... if I drink this much blood,
+I'll get chubby!
+[->][13 0, 300402]Oh well! I can always start dieting
+tomorrow!
+[END]

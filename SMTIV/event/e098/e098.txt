@@ -1,0 +1,150 @@
+0: (Ashura−kai man) [7a 47][13 0, 98001]We ain't on no kid's errand either.
+Can't ya understand?
+[->][13 0, 98002]We wouldn't mind settin' ya up
+someplace else, ya know. Maybe in
+Toyosu or somethin'...
+[END]
+1: (Demon) [7a 208][13 0, 98003]I am under no obligation to take
+orders from you.
+[END]
+2: 〉 A demon is talking to a group of men.
+[END]
+3: (Jonathan) [7a 3][13 0, 98004][7b 786435, 65537]Is that the demon that has seized the
+Metropolitan Government Office...?
+[END]
+4: (Ashura−kai man) [7a 47][13 0, 98005]Oh, good timing. You must be the
+ones who volunteered for the quest.
+[END]
+5: (Ashura−kai man) [7a 47][13 0, 98006]There, you see? We got numbers on
+our side. I know you're not that
+stupid.
+[END]
+6: (Ashura−kai man) [7a 47][13 0, 98007]C'mon, we'll make it worth your while.
+How 'bout we throw in some Reds?
+[->][13 0, 98008]Ya got enough of those red pills, ya
+don't gotta eat humans. Plus, they
+give you a pretty good buzz...
+[END]
+7: (Hired Hunter) [7a 67][13 0, 98009]Th−The city belongs to us humans!
+It's the demons who should leave...!
+[END]
+8: (Part−time Hunter) [7a 69][13 0, 98010]You ate all of my friends...!
+[END]
+9: (Demon) [7a 208][13 0, 98011]Devouring others to live is the way
+of nature.
+[->][13 0, 98012]You humans who make their living by
+hunting demons have no cause to
+protest such things.
+[END]
+10: (Demon) [7a 208][13 0, 98013]And I would remind you that we have
+lived here in this ”Shinjuku” from
+the beginning.
+[->][13 0, 98014]For you who came afterward to pose as
+the lords of this land and ”mercifully
+allow” us to leave is ludicrous.
+[END]
+11: (Isabeau) [7a 5][13 0, 98015][7b 196613, 65537]This seems quite a complex situation...
+[END]
+12: (Walter) [7a 4][13 1, 400202][7b 655364, 65537]Mmm...
+[END]
+13: (Demon) [7a 208][13 0, 98017]We would never ingest these unnaturally
+manufactured Red Pills you speak of.
+[->][13 0, 98018]Particularly not when devouring all of
+you here would do quite nicely.
+[END]
+14: (Part−time Hunter) [7a 69][13 0, 98019]D−Devour...?
+[->][13 0, 98020]N−No... I don't wanna be eaten...!
+[END]
+15: (Hired Hunter) [7a 67][13 0, 98021]Y−You can say that again...!
+[END]
+16: 〉 The hired Hunter and the part−time
+Hunter ran off...
+[END]
+17: (Ashura−kai man) [7a 47][13 0, 98022]Those good−for−nothing Hunters!
+[END]
+18: (Ashura−kai man) [7a 47][13 0, 98023]Guess our negotiations have broken
+down, huh?
+[END]
+19: (Ashura−kai man) [7a 47][13 0, 98024]Hey, you four there. Kill this demon
+for the sake of Shinjuku!
+[END]
+20: Kill it
+Don't kill it
+[END]
+21: (Demon) [7a 208][13 0, 98025]Humans always wish to quarrel...
+[->][13 0, 98026]But if you will come with force,
+there is no avoiding it.
+[END]
+22: (Ashura−kai man) [7a 47][13 0, 98027]...What? Did I just hear ya say
+ya won't kill it!?
+[->][13 0, 98028]I musta misheard that, right...?
+[END]
+23: ”Yes, you're right.”
+”No, you heard correctly.”
+[END]
+24: (Ashura−kai man) [7a 47][13 0, 98029]Talk about confusin'... Don't mumble
+so much, kid.
+[END]
+25: (Ashura−kai man) [7a 47][13 0, 98030]What!?
+[END]
+26: (Ashura−kai man) [7a 47][13 0, 98031]Alright, that was the last straw!
+[->][13 0, 98032]That demon's dead, but you're gonna
+go first!
+[END]
+27: (Ashura−kai man) [7a 47][13 0, 98033]Serves him right. He wouldn'ta had to
+die if he didn't pick a fight with us.
+[END]
+28: (Ashura−kai man) [7a 47][13 0, 98034]Well then! I got a party to prepare.
+It's to celebrate us takin' back the
+west exit.
+[->][13 0, 98035]You kids did good. Take this, get
+yourself somethin' nice.
+[END]
+29: 〉 [Flynn] obtained 4000 Macca.
+[END]
+30: 〉 The Ashura−kai man walked away
+triumphantly...
+[END]
+31: (Walter) [7a 4][13 0, 98036]......
+[->][13 0, 98037][7b 196612, 65537]Was our decision to slay Kuebiko
+truly the best one...?
+[END]
+32: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[END]
+33: (Demon) [7a 208][13 0, 98039]It seems there are yet some humans
+who will listen to reason. I thank you.
+[END]
+34: (Demon) [7a 208][13 0, 98040]But we cannot live on this land any
+longer. It has been tainted by
+unclean blood.
+[END]
+35: (Isabeau) [7a 5][13 0, 98041][7b 65541, 196609][7b 786435, 65537]Unclean...?
+[END]
+36: (Demon) [7a 208][13 0, 98042]There once was no superiority or
+inferiority between the earth and
+your kind.
+[->][13 0, 98043]...Farewell.
+[END]
+37: 〉 The demon retreated, taking his family
+along with him...
+[END]
+38: (Jonathan) [7a 3][13 0, 98044]Hm...
+[->][13 0, 98045][7b 655363, 65537][7b 196613, 65537]Did we err in electing not to defeat
+Kuebiko...?
+[->][13 0, 98046]Are we not merely worsening matters
+in this world through such actions?
+[END]
+39: (Burroughs) [7a 2][13 0, 98047]Umm...
+[->][13 0, 98048]Either way, the demon's gone, so I
+can put a lid on this one, right?
+[END]
+40: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[END]
+132: 〉 Obtained the Jirae Talisman.
+[END]
+140: 〉 Obtained the Jirae Talisman.
+[END]
+232: 〉 The atmosphere in the area is changing...
+[END]
+240: 〉 The atmosphere in the area is changing...
+[END]

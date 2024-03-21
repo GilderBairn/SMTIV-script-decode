@@ -1,0 +1,19 @@
+0: (Announcer) [7a 138][13 1, 406002]The camera in Shinjuku Nicho has
+found us another confrontation
+between a Hunter and a demon.
+[->]Which of the demons from the Red
+Team is the White Team's prized
+Hunter up against now...?
+[->]Her abilities are still unknown,
+but she's taken the popularity
+charts by storm!
+[->]She's the rarest of all things in the
+Expanse: a pure and innocent girl.
+Silky is taking the stage!
+[END]
+1: (Silky) [7a 0][13 1, 493008]Oh! This is my first time on
+”RedxWhite Punchdown Smacktacular!”
+[->]I'll do my best to slaughter my
+opponent. Gee ell aitch eff,
+everybody!
+[->][END]

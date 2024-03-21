@@ -1,0 +1,148 @@
+0: (Cheerless woman) [7a 98][13 1, 403312]Whaaat? Beyond the rooftop? How can you
+not know there's nothing up there?
+[->]I mean, maybe the Angel's Cocoon,
+I guess... It abandoned us and
+vanished into the sky.
+[END]
+1: (Cheerless woman) [7a 98][13 1, 403312]Whaaat? Beyond the rooftop? How can you
+not know there's been nothing in the
+sky for ages?
+[->]But if this rooftop you claim to have
+seen existed, Tokyo might have been
+protected from God's wrath...
+[END]
+2: (Cheerless woman) [7a 98][13 1, 403341]I heard you're willing to go to Shibuya.
+You can't take the overland route,
+you know. You have to use a Terminal.
+[->]Pretty sure there was a Terminal Room
+in Kasumigaseki... I think...
+[->]If there was, it would be all locked up.
+That's probably where you'd find the
+Terminal Room...
+[END]
+3: (Cheerless woman) [7a 98][13 1, 403312]Oh, so you went to Shibuya, huh?
+[->]Let me guess−−you didn't find anything?
+Apart from the bodies of people the
+demons killed, that is.
+[END]
+4: (Cheerless woman) [7a 98][13 1, 403312]I wish my family in Shibuya could be
+with me to share this...
+[->]Huh? You're going to Shibuya? Well, you
+can't take the overland route. You have
+to use a Terminal.
+[->]Pretty sure there was a Terminal Room
+in Kasumigaseki... I think...
+[->]If there was, it would be all locked up.
+That's probably where you'd find the
+Terminal Room...
+[END]
+5: (Taciturn man) [7a 97][13 1, 403212]The Counter−Demon Force got wiped out
+25 years ago. You guys wouldn't have
+even been born then.
+[->]Question is... Why do you have the
+Demon Summoning Program? You weren't
+in the Force...
+[->]Anyway, we'll let Akira decide what
+to do with you.
+[END]
+6: Testers, if you see this text, plz
+notify Yu Namba. This is not supposed
+to show.
+[END]
+7: (Taciturn man) [7a 97][13 1, 403212]God used angels to pick out the ones
+who would be useful to Him and loaded
+them in that cocoon.
+[->]Anyone who didn't qualify, He tried to
+burn out through the wrath of God.
+[->]God doesn't want us around anymore.
+See, we know what He's really like...
+[->]That's why He sent that horrible monster
+Pluto into Tokyo.
+[END]
+8: (Taciturn man) [7a 97][13 1, 403203]God really did abandon us. And then He
+tried to burn us all up!
+[->]But if you guys really are the Messiahs...
+Does that mean God hasn't forgotten us?
+[END]
+9: (Throaty woman) [7a 98][13 1, 403322]Ohhhh... how I hate Pluto. But nothing
+can dent that monstrosity...
+[->]Pluto took away my love... my future...
+My hatred for him is inexpressible...
+[END]
+10: Testers, if you see this text, plz
+notify Yu Namba. This is not supposed
+to show.
+[END]
+11: (Throaty woman) [7a 98][13 1, 403322]Someone over there started to call the
+monster, ”Pluto the Tormentor”...
+[->]After a god of the netherworld in some
+country's mythology...
+[->]It calls us into the netherworld... Ah...
+How I hate Pluto...!
+[END]
+12: (Throaty woman) [7a 98][13 1, 403341]I've been crying so long, blaming it
+all on Pluto... I've neglected to do
+my part here.
+[->]But I shouldn't let them spoil me
+anymore. Haha... I hope there's still
+some work in these muscles!
+[END]
+13: (Dazed man) [7a 97][13 1, 403222]......
+[END]
+14: You can sense him staring at you in
+fear through the goggles...
+[END]
+15: (Dazed man) [7a 97][13 1, 403212]Did you guys say you came from the
+military camp? Then you saw it on your
+way to Shinjuku?
+[->]I mean Camp Ichigaya to the east. But
+even if you go, you won't get anywhere.
+[->]There's a Domain thrown over it. Don't
+ask me who or what did it.
+[END]
+16: (Dazed man) [7a 97][13 1, 403212]Finally, Pluto is gone. This is a new
+beginning for us.
+[->]...But do we have to get started now?
+[END]
+17: (Dazed man) [7a 97][13 1, 403202]Did you guys say you came from the
+military camp? Then you saw it on your
+way to Shinjuku?
+[->]I mean Camp Ichigaya to the east. Since
+the Domain's faded, you can get in
+there now...
+[->]But all you'd find there is an old
+reactor called the Yamato.
+[END]
+18: (Dazed man) [7a 97][13 1, 403202]Did you guys say you came from the
+military camp!? You must have nerves
+of steel...
+[->]Didn't Akira tell you to stay away from
+the Ichigaya region?
+[->]I hear there's an old reactor there
+called the Yamato where all the demons
+are coming from...
+[END]
+108: (Taciturn man) [7a 97][13 1, 403203]God really did abandon us. And then He
+tried to burn us all up!
+[->]But if you guys really are the Messiahs...
+Does that mean God hasn't forgotten us?
+[->]Well, it don't matter. My mind's made
+up. I'm going to restore Tokyo along
+with Akira.
+[END]
+112: (Throaty woman) [7a 98][13 1, 403341]I've been avoiding all my chores,
+blaming everything on Pluto... I guess
+this is the price I pay.
+[->]You know... my nerves aren't really
+responding anymore... The poison did
+more damage than I thought.
+[->]But don't tell the others, okay?
+I don't want them to pity me...
+[END]
+208: (Taciturn man) [7a 97][13 1, 403203]I don't get God... First He burns up
+Tokyo, then He sends us Messiahs.
+[->]How can you trust a schizo dude
+like Him?
+[->]Anyway, my mind's made up. I'm going
+to restore Tokyo along with Akira.
+[END]

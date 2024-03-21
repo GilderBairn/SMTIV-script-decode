@@ -1,0 +1,25 @@
+0: (The White) [7a 75][13 0, 240001]Our fifth son, who chose upheaval...
+[END]
+1: (The White) [7a 219][13 0, 240002]...You still do not understand?
+[END]
+2: (The White) [7a 219][13 0, 240004]We will eliminate that will in
+preparation for the coming of a
+new Messiah.
+[END]
+3: (Walter) [7a 4]Does their self−righteous interference
+never end? Our will is useless, they
+say...?
+[->]But I have chosen to upend the world
+out of my own will.
+[->]Is the same not true for you,
+[Flynn]...?
+[END]
+4: (Walter) [7a 4]To perish by dint of one's own will
+is a fantasy of cowards unable to
+think for themselves.
+[END]
+101: (The White) [7a 219][13 0, 240003]Your will, which rejects our salvation,
+is the cause of your suffering...
+[END]
+104: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]

@@ -1,0 +1,6 @@
+0: (Burroughs) [7a 1][13 1, 405600]Do you want to purchase [Color:0x5][Item 1][Color:0x0]
+for [Color:0x5][Amount 1] point(s)?[Color:0x0]
+[END]
+1: Purchase
+Cancel
+[END]

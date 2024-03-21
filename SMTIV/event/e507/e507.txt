@@ -1,0 +1,39 @@
+0: 〉 Obtained [41 881].
+[END]
+1: (Lifeless woman) [7a 80][13 1, 403312]...Who're you? Are you a human? Or...
+are you a demon in the shape of
+a human?
+[END]
+2: (Lifeless woman) [7a 80]I told myself I'd make a choice... the
+next time I met someone. I'm... so tired
+now...
+[->]I've been thinking about my life... How
+I tricked men into marriage and stole
+their money...
+[END]
+3: (Lifeless woman) [7a 80]If the last one I met here was a human,
+I'd think, ”my life wasn't so bad.”
+[->]And if the last one I met here was a
+demon, I'd think, ”my life was nothing
+but mistakes”...
+[END]
+4: (Lifeless woman) [7a 80]...So, which are you? Are you human
+or a demon?
+[END]
+5: ”I'm a human.”
+”A demon.”
+[END]
+6: (Lifeless woman) [7a 80]...I see.
+[END]
+7: (Lifeless woman) [7a 80]...I'm sorry to have held you up.
+Don't... worry about me.
+[->]Goodbye. It was nice to talk to someone
+for the last time.
+[END]
+8: (Lifeless woman) [7a 80]I see...
+[END]
+9: 〉 No one is here...
+[END]
+100: 〉 No one is here. It seems it isn't used
+anymore...
+[END]

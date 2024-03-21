@@ -1,0 +1,55 @@
+0: (Michael) If you would turn your blade towards
+the Lord and His Heralds...
+[->]Then hold back nothing.
+[->]And I shall make your death swift.
+[END]
+10: (Michael) No... How could we... be sealed...?
+[->]You are a pawn... of that troublesome
+raven...!
+[END]
+1000: (Michael) ...I speak unto you. Tell me why you
+wage this battle.
+[END]
+1001: ”For my convictions.”
+”Because I was asked.”
+”For the promised reward.”
+”I don't know.”
+[END]
+1002: (Michael) Then let us fight to the death to see
+which of our convictions is correct.
+[END]
+1003: 〉 The power of conviction rises within
+[Flynn]...
+[END]
+1004: 〉 [Flynn] was healed.
+[END]
+1005: 〉 [Flynn] gains the power to
+act more!
+[END]
+1006: (Michael) ...The question was foolish.
+[->]How could a worthless clay puppet
+best me?
+[END]
+1007: 〉 Michael is filled with holy power...
+[END]
+1008: 〉 All of Michael's abilities greatly
+increased!
+[END]
+1009: (Michael) You drown in lusts that are beyond you.
+Know that this reward will come at a
+dear price.
+[->]May your indigence be purified in the
+lake of fire and sulfur.
+[END]
+1010: 〉 [Flynn] is overwhelmed by such
+suffering that he feels as if he is
+being incinerated...
+[END]
+1011: 〉 All of [Flynn]'s abilities greatly
+decreased!
+[END]
+1012: (Michael) Then allow me to tell you.
+[->]You have come here to perish...
+[END]
+1013: 〉 Michael suddenly attacked!
+[END]

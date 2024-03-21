@@ -1,0 +1,53 @@
+0: 〉 A passage in mystic script appears
+on the Gauntlet...
+[END]
+1: [->][END]
+2: (Girimehkala) [7a 0]You think you're clever, don't ya,
+you little rascal... Looks like I've
+gotta teach ya a little lesson.
+[->]Don't even bother trying to fight
+back, because nothing you do can
+hurt me.
+[END]
+3: Check turn start
+[->][END]
+4: (Girimehkala) [7a 0]You're making me hit myself somehow!
+What in tarnation are you!?
+[END]
+5: (Girimehkala) [7a 0]Hoho, you think your youth alone is
+gonna get you through this?
+[->]Don't you think it's a good time to
+heal yourself or something?
+[END]
+6: (Girimehkala) [7a 0]D... Damn you...!
+This isn't just any young punk...
+[->]A... Samurai...
+I see... A true Samurai...
+[END]
+7: Check action end
+[->][END]
+8: (Girimehkala) [7a 0]You've got... talent... young one...
+[END]
+9: 〉 [Flynn] runs past the boundary to
+the virtual battle, and the simulaton
+ends...
+[END]
+10: Check enemy escape
+[->][END]
+11: 〉 The enemy was not eliminated within
+the turn limit.
+[->]〉 The simulation ends...
+[END]
+12: Provisional enemy, Girimehkala
+[->][END]
+13: 〉 The enemy was successfully
+eliminated within the turn limit.
+[->]〉 The simulation ends...
+[END]
+100: ”Demon training program −− Ready
+ Training Battle 5 −− Begin”
+[->][Color:0x5]”Use reflecting damage to defeat the
+ demon within eleven turns!”[Color:0x0]
+[END]
+1000: Test
+[->][END]

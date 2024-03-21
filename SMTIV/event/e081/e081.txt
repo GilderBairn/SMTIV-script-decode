@@ -1,0 +1,94 @@
+0: (Walter) [7a 4][7b 458756, 65537][13 0, 81001]Damn me! It's the Black Samurai...!
+[END]
+1: 〉 Walter stared at the black suit stored
+in the hangar.
+[END]
+2: (Walter) [7a 4][13 0, 81003]Pfah, my heart was racing over nothing.
+I thought we'd found the Black Samurai.
+[->][13 0, 81004]But it's only the shell. Its occupant,
+meanwhile, is nowhere to be found.
+[END]
+3: (Jonathan) [7a 3][13 0, 81005]It's only natural you'd mistake it for
+the genuine article.
+[->][13 0, 81006]These do look very like the armor
+the Black Samurai was clad in.
+[->][13 0, 81007]Certainly it hadn't occurred to me
+that it would be so commonly found...
+[END]
+4: (Isabeau) [7a 5][13 0, 81008]See here, doesn't this vambrace look
+similar to a Gauntlet?
+[END]
+5: (Burroughs) [7a 2][13 0, 81009]It seems to be the same type as me.
+[END]
+6: (Isabeau) [7a 5][7b 65541, 196609][7b 65539, 131073][13 0, 81010]You can tell, Burroughs?
+[END]
+7: (Burroughs) [7a 2][7b 655365, 65537][13 1, 400062]Activating scan mode...
+[END]
+8: (Burroughs) [7a 2][13 0, 81011]This is a battle suit called a
+Demonica, worn by members of the
+Counter−Demon Force.
+[END]
+9: (Isabeau) [7a 5][7b 196613, 65537][13 0, 81012]Demonica...?
+[->][7b 655365, 65537][13 0, 81013]Why does it bear such similarity
+to our Gauntlets?
+[END]
+10: (Burroughs) [7a 2][13 0, 81014]Who knows...
+[END]
+11: (Isabeau) [7a 5][7b 458757, 65537][13 0, 81015]Is that the best you can say?
+[END]
+12: (Jonathan) [7a 3][7b 786435, 65537][13 0, 81016]Burroughs, can you explain to us
+what this Counter−Demon Force was
+to begin with?
+[7b 524293, 65537][END]
+13: (Burroughs) [7a 2][7b 524293, 65537][13 0, 81017]Let's see... According to my data...
+[->][13 0, 81018]It's a combat unit established by the
+government to exterminate the demons
+that suddenly appeared in Tokyo.
+[->][13 0, 81019][7b 655365, 131073]It doesn't seem to exist anymore,
+though.
+[END]
+14: (Jonathan) [7a 3][7b 655363, 65537][13 0, 81020]”Suddenly appeared”? So there was
+a time when there were no demons
+in Tokyo...
+[END]
+15: (Isabeau) [7a 5][7b 65541, 196609][13 0, 81021]Do you suppose the Black Samurai is
+someone from that Counter−Demon Force?
+[END]
+16: (Burroughs) [7a 2][13 0, 81022]That, unfortunately, I don't know.
+I don't have any records of their
+roster.
+[END]
+17: (Isabeau) [7a 5][7b 65541, 65537]Error
+[END]
+18: (Walter's voice) [7a 1][13 0, 81023]Hoy! Come see this!
+[END]
+19: (Walter) [7a 4][7b 262148, 65537][13 0, 81024]I've found something fantastic here.
+It may be a mystic relic.
+[END]
+20: (Burroughs) [7a 2][13 0, 81025]It looks like there are weapons and
+equipment that you can use here. You might
+as well take them.
+[END]
+21: 〉 Obtained Lock Steyr.
+[->]〉 Obtained Black Demonica.
+[END]
+22: (Jonathan) [7a 3][7b 458755, 131073][7b 786436, 65537][13 0, 81026]By the by, Walter... What's that
+in your hand?
+[END]
+23: (Walter) [7a 4][7b 786436, 65537][13 0, 81027]What, this? I picked it up over there.
+[->][7b 786436, 65537][13 0, 81028]Hoy, Burroughs. What's this small,
+thin plate?
+[END]
+24: (Burroughs) [7a 2][13 0, 81029]That's an ID card. Must be for
+opening the doors in this facility.
+[END]
+25: 〉 Obtained ID Card Lv1.
+[END]
+26: (Walter) [7a 4][7b 65540, 65537][13 0, 81030]Sounds important... I feel that I'll
+only lose it. Perhaps you should hold
+onto it, [Flynn]?
+[END]
+27: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]
+100: (Walter) [7a 4][7b 655364, 65537][13 0, 81002]Er... Is it?
+[END]

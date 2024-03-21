@@ -1,0 +1,18 @@
+0: They say that the [Color:0x5]Wicker Man[Color:0x0] stuffs a human
+inside itself, then sets itself on fire, killing
+them both... A horde of these horrifying demons
+has been attacking people in Shinjuku. A bunch
+of us are going to meet up to fight them. Meet
+me at [Color:0x5]the bus terminal in Shinjuku Station's
+West Entrance Building district[Color:0x0] right now!
+Don't go to the bus terminal right next to
+the west gate − that's the wrong one!
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

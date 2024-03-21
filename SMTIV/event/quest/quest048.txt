@@ -1,0 +1,7 @@
+0: This quest is derived from the account of the
+woman [Color:0x5]Kaga[Color:0x0] who seeks to ”erase the barrier around
+Ikebukuro,” as well as the ”Juraku Bookstore” which
+the young girl Hikaru related to us. First, we ought to
+[Color:0x5]defeat Xi Wangmu.[Color:0x0] Removing the barrier will make
+our search for the Juraku Bookstore much smoother.
+[END]

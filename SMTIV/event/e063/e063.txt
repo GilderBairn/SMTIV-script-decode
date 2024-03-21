@@ -1,0 +1,63 @@
+0: (Walter) [7a 4][7b 786436, 65537][13 0, 63001]Oho, perfect timing. That room over
+there looks like a fine place to take
+a rest.
+[->][7b 655364, 65537][13 0, 63002]My demons have been pestering me to
+let them heal themselves.
+[END]
+1: 〉 [Flynn] and his fellow Samurai
+entered a small room.
+[END]
+3: (Walter) [7a 4][7b 655364, 65537][13 0, 63003]Hm...
+[END]
+4: (Jonathan) [7a 3][7b 65539, 65537][13 0, 63004]What is it, Walter?
+[END]
+5: (Walter) [7a 4][7b 655364, 65537][13 0, 63005]Have a look at this.
+[END]
+6: (Isabeau) [7a 5][7b 196613, 65537][7b 65539, 131073][13 0, 63006]I've never seen anything of its like
+in the Eastern Kingdom of Mikado.
+What could its purpose be...?
+[END]
+7: (Burroughs) [7a 2][13 0, 63007]It's times like these that I come in
+handy.
+[END]
+8: (Burroughs) [7a 2][13 0, 63009]Scanning...
+[END]
+9: (Burroughs) [7a 2][13 0, 63010]This is a weapon called a ”gun.”
+It fires projectiles called ”bullets”
+to kill enemies at a distance.
+[END]
+10: (Jonathan) [7a 3][7b 65539, 131073][7b 655365, 131073][13 0, 63011]Oh... Another mystic relic...?
+[END]
+11: (Burroughs) [7a 2][13 0, 63013]You don't have to worry about that.
+[->][13 0, 63014]I'll automatically send data on the
+relics you find to the Monastery.
+[->][13 0, 63015]That frees you up to keep your focus
+on the mission.
+[END]
+12: (Isabeau) [7a 5][7b 393221, 131073][13 0, 63016]I need hardly mention it now, but
+you're quite clever, Burroughs.
+[END]
+13: (Walter) [7a 4][7b 786436, 65537][13 0, 63017]These guns could come in useful.
+Let's take them along.
+[END]
+14: 〉 [Flynn] equipped the Bruce Gun
+and loaded it with FMJ Rounds.
+[END]
+103: 〉 The room is filled with strange
+artifacts...
+[END]
+105: [7b 65539, 131073]〉 Walter picked up an object crafted
+out of metal...
+[END]
+107:  
+ 
+    解析モード演出(※詳細未決)
+[END]
+108: (Isabeau) [7a 5][7b 655365, 65537][13 0, 63008]Do you know what it is, Burroughs?
+[END]
+110: (Jonathan) [7a 3][7b 786435, 65537][13 0, 63012]If so, then we must bring it to
+Abbot Hugo's attention.
+[END]
+114: 〉 [Flynn] obtained the Bruce Gun
+and the FMJ Rounds.
+[END]

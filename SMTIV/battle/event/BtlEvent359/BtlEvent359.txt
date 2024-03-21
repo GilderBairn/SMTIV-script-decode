@@ -1,0 +1,77 @@
+0: (Sanat) The power that sleeps deep inside you...
+[->]I, Sanat, the king of chaos, shall
+draw it out personally!
+[END]
+10: (Sanat) You have done well in showing me such
+unrestrained power...
+[->]Seed of chaos... ripen further... lead
+this world... into further chaos...
+[->]When the next harvest arrives... then
+you shall... see me again...
+[END]
+1000: (Sanat) Yes, this power... Evolve and grow
+stronger still.
+[->]Then I shall take you to the stage of
+the true war.
+[->]You understand of which I speak, no...?
+[END]
+1001: ”The war for all possible futures.”
+”The war for Earth.”
+”I cannot imagine.”
+[END]
+1002: (Sanat) In comparison to the vastness of the
+universe, a nation or two is but a
+speck of dust.
+[->]Your perspective is stunted indeed if
+you adhere to such trifles.
+[END]
+1003: 〉 Sanat is dwarfing [Flynn]'s
+existence...
+[END]
+1004: 〉 All of [Flynn]'s stats greatly
+decreased!
+[END]
+1005: (Sanat) You dare cling to something so trivial
+as the future of this planet? What an
+insignificant, stunted being you are.
+[END]
+1006: 〉 Sanat is dwarfing [Flynn]'s
+existence...
+[END]
+1007: 〉 All of [Flynn]'s stats have
+greatly decreased!
+[END]
+1008: (Sanat) Would it satisfy you, to be king of
+such a small planet?
+[->]How deplorable... Like monkeys warring
+over a hill...
+[->]Your very nature is small and
+insignificant...
+[END]
+1009: 〉 Sanat is dwarfing [Flynn]'s
+existence...
+[END]
+1010: 〉 All of [Flynn]'s stats have
+greatly decreased!
+[END]
+1011: (Sanat) Indeed not. It is nothing that any who
+dwell on this planet could begin to
+understand.
+[->]But I shall tell you. The true war...
+[->]It is the war to destroy the
+dispensation of the universe!
+[->]Now, I shall draw out your true power.
+Concentrate on surpassing yourself...
+[END]
+1012: 〉 [Flynn] felt power welling up
+from within...
+[END]
+1013: [Flynn] recovered!
+[END]
+1014: 〉 [Flynn] received the power to
+take more actions!
+[END]
+1015: (Sanat) Always remember this. The true war...
+[->]It is the war to destroy the
+dispensation of the universe!
+[END]

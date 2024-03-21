@@ -1,0 +1,43 @@
+0: (Ring of Gaea member) [7a 51][13 1, 404303]Go through the underground area in
+Tokyo Station and you will find
+Tsukiji, the Ring of Gaea sanctuary.
+[->]However, if you lack the necessary
+strength or skill, you will be denied
+entry.
+[END]
+1: (Ring of Gaea member) [7a 51][13 1, 404332]It seems you possess the power and
+prowess to enter our sanctuary.
+[->]The Ring of Gaea welcomes you and
+your skill...
+[END]
+2: (Ring of Gaea member) [7a 51][13 1, 404303]I hear you raised your sword against
+Lady Yuriko. Normally, I wouldn't
+tolerate such insolence...
+[->]But, Lady Yuriko seems extremely
+intrigued by your fortitude and
+bravery.
+[->]I will let this transgression pass...
+this time. Don't get carried away.
+[END]
+3: (Ring of Gaea member) [7a 51][13 1, 404331]Welcome, comrades!
+We welcome you and your skill!
+[->]Quickly! Head for Tsukiji!
+Lady Yuriko is expecting you!
+[END]
+4: (Ring of Gaea member) [7a 51][13 1, 404312]How dare you show your faces here...
+You are nothing but heretics to us.
+Do you understand this?
+[->]If you wish to go to Tsukiji, I
+won't stop you. Lady Yuriko has said
+that she will deal with you herself.
+[END]
+5: (Ring of Gaea member) [7a 51][13 1, 404341]Tayama has headed for Ichigaya.
+I received word from one of our men
+stationed outside.
+[->]Tayama must have learned about Lady
+Yuriko's plans... I can see that
+he's restless now.
+[->]After all, he's nothing but a
+nouveau−riche punk. The best time
+to defeat him is now!
+[END]

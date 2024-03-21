@@ -1,0 +1,28 @@
+0: 〉 A huge goddess statue is lying in front of you...
+[END]
+1: (Jonathan) [7a 3]...We've been waiting for you. I'm glad to see you're safe.
+[END]
+2: (Jonathan) [7a 3]We're all acounted for now.
+[END]
+3: (Walter) [7a 4]...Yo, you're late.
+[END]
+4: (Walter) [7a 4]The chick at the end was pretty tough. I had fun.
+[END]
+5: (Isabeau) [7a 5]...You've arrived.
+[END]
+6: (Isabeau) [7a 5]I wasn't worried; after all,
+it's [Flynn] we are talking about.
+[END]
+7: (Ring of Gaea monk) [7a 53]...The test is over. You don't need those candles any more.
+[END]
+8: 〉 [Flynn] and his fellow Samurai returned the candles to the monk.
+[END]
+9: (Ring of Gaea monk) [7a 53]Your skills that you displayed were a marvel to watch.
+[->]...Of course, we expect you to be that strong. You cannot even go near Mistress Yuriko otherwise.
+[END]
+10: (Ring of Gaea monk) [7a 53]...You've been hired by Tayama, right?
+[END]
+11: (Isabeau) [7a 5][7b 458757, 65537]What...!?
+[END]
+12: Suddenly, the floor you're standing has opened.(pitfall)
+[END]

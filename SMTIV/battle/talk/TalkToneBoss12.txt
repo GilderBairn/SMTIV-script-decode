@@ -1,0 +1,416 @@
+0: Dummy
+[END]
+1: [71 1]To fall in among demons... To follow
+humans... That is an impossibility.
+[->]Only those companions to assist in
+entering nothingness are required...
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]That will not do... This is not a
+battle that can be turned away from...
+[->]You live, therefore I must destroy you
+to turn all to naught...
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]NOT USED
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]NOT USED
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]NOT USED
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]NOT USED
+[->][END]
+33: NOT USED
+[END]
+34: [71 1]...Idle chatter? What meaning is there
+in such a thing?
+[->]But very well. Anything is possible if
+a suitable price is met.
+[->][END]
+35: NOT USED
+[END]
+36: [71 1]Idle chatter... What exists beyond
+such caprice...?
+[->][END]
+37: NOT USED
+[END]
+38: [71 1]Hahaha... Though this chatter may be
+of no import, I wished to speak with
+you deliberately.
+[->]Now, listen to my words...
+[->][END]
+39: NOT USED
+[END]
+40: [71 1]That's right... Everything is futile
+from the first. I will prove to you the
+futility of it all...
+[->][END]
+41: NOT USED
+[END]
+42: [71 1]Normally, nothingness would be the only
+mercy I could show you... but I may find
+this agreeable.
+[->][END]
+43: NOT USED
+[END]
+44: [71 1]To live longer, remaining in God's
+world... Can this truly be called mercy?
+[->][END]
+45: NOT USED
+[END]
+46: [71 1]Sleep is a temporary salvation... Do not
+hinder it...
+[->]Mercy... if that is what you seek,
+that is what I shall give...
+[->][END]
+47: NOT USED
+[END]
+48: NOT USED
+[END]
+49: [71 1]Through true benevolence... I will show
+you mercy once more.
+[->][END]
+50: NOT USED
+[END]
+51: [71 1]Provide you with funds? After all this,
+you still think of money...?
+[->][END]
+52: NOT USED
+[END]
+53: [71 1]What meaning has money in God's world?
+[->][END]
+54: NOT USED
+[END]
+55: [71 1]This boundless desire for money...
+There is only one salvation for you.
+[->]I will return you to nothing.
+[->][END]
+56: NOT USED
+[END]
+57: [71 1]Aaaaaaahhhh...!
+[->][END]
+58: NOT USED
+[END]
+59: [71 1]Why do you harbor such yearning for
+riches...? Why...?
+[->][END]
+60: NOT USED
+[END]
+61: [71 1]The circulation of money in God's world
+is truly futile.
+[->]Take this and withdraw.
+[->][END]
+62: NOT USED
+[END]
+63: [71 1]...We need not continue.
+[->][END]
+64: NOT USED
+[END]
+65: [71 1]Provide you with funds? After all this,
+you still think of money...?
+[->][END]
+66: NOT USED
+[END]
+67: [71 1]Negotiation... hm... Very well. As long
+as you can pay the price...
+[->][END]
+68: NOT USED
+[END]
+69: [71 1]The deal is struck. Your reward will
+be thus...
+[->][END]
+70: NOT USED
+[END]
+71: [71 1]Very well, I will give you all the items
+you desire.
+[->]There is no reason to cling to our
+possessions, after all. We will all
+return to nothing in the end.
+[->][END]
+72: NOT USED
+[END]
+73: [71 1]...I give you this as well. May it
+fulfill your empty desires.
+[->][END]
+74: NOT USED
+[END]
+75: [71 1]...Let us go about this gracefully.
+A certain sum of money will settle it.
+[->][Color:0x1][Amount 1] Macca...[Color:0x0]
+Is your desire worth this?
+[->][END]
+76: NOT USED
+[END]
+77: [71 1][Color:0x1][Item 1][Color:0x0] is what I want.
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]You must provide [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]You must provide [Color:0x1]a little[Color:0x0] of your
+[Color:0x1]stamina.[Color:0x0]
+[->][END]
+82: NOT USED
+[END]
+83: [71 1]You must provide [Color:0x1]some[Color:0x0] of your
+[Color:0x1]stamina.[Color:0x0]
+[->][END]
+84: NOT USED
+[END]
+85: [71 1]You must provide [Color:0x1]a lot[Color:0x0] of your
+[Color:0x1]stamina.[Color:0x0]
+[->][END]
+86: NOT USED
+[END]
+87: [71 1]You must provide [Color:0x1]a fearsome amount[Color:0x0]
+of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+88: NOT USED
+[END]
+89: [71 1]You must provide [Color:0x1]a little[Color:0x0] of your
+[Color:0x1]spirit.[Color:0x0]
+[->][END]
+90: NOT USED
+[END]
+91: [71 1]You must provide [Color:0x1]some[Color:0x0] of your
+[Color:0x1]spirit.[Color:0x0]
+[->][END]
+92: NOT USED
+[END]
+93: [71 1]You must provide [Color:0x1]a lot[Color:0x0] of your
+[Color:0x1]spirit.[Color:0x0]
+[->][END]
+94: NOT USED
+[END]
+95: [71 1]You must provide [Color:0x1]a fearsome amount[Color:0x0]
+of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+96: NOT USED
+[END]
+97: [71 1]Your demon there... I ask that you
+relinquish the [Color:0x1]life of [Demon name 2].[Color:0x0]
+[->][END]
+98: NOT USED
+[END]
+99: [71 1]...I ask for [Color:0x1]that.[Color:0x0]
+[->][END]
+100: NOT USED
+[END]
+101: [71 1]I do not know... What do you suppose
+I might yearn for...?
+[->][END]
+102: NOT USED
+[END]
+103: [71 1]That is it...
+[->][END]
+104: NOT USED
+[END]
+105: [71 1]That is not it...
+[->][END]
+106: NOT USED
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]That will be enough...
+[->][END]
+121: NOT USED
+[END]
+122: [71 1]Ah... This is very good. This will
+be sufficient.
+[->][END]
+123: NOT USED
+[END]
+124: [71 1]Oh...?
+[->][END]
+125: NOT USED
+[END]
+126: [71 1]Holding back... The desire not to lose
+your hard−won possessions...
+[->]I shall release you from that desire
+for all eternity.
+[->][END]
+127: NOT USED
+[END]
+128: [71 1][->][END]
+129: NOT USED
+[END]
+130: [71 1]To cheat in bargaining... The desire not
+to lose your hard−won possessions...
+[->]I shall release you from that desire
+for all eternity.
+[->][END]
+131: NOT USED
+[END]
+132: [71 1]...I see. So you do not have it.
+[->][END]
+133: NOT USED
+[END]
+134: [71 1]Nothing can transpire without any
+Life Stones...
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]To yearn too long avails one of nothing.
+That will be sufficient.
+[->][END]
+137: NOT USED
+[END]
+138: [71 1]The desire not to lose your hard−won
+possessions...
+[->]I shall release you from that desire
+for all eternity.
+[->][END]
+139: NOT USED
+[END]
+140: [71 1]How brightly your defiance burns...!
+[->][END]
+141: NOT USED
+[END]
+142: [71 1]You continue to be obedient, exactly
+like a puppet would.
+[->]...Enough. In the end, you have shown
+yourself to be no more than that.
+[->][END]
+143: NOT USED
+[END]
+144: [71 1]Ah, I envy that lightness of freedom,
+where you have nothing even to give...!
+[->][END]
+145: NOT USED
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: [71 1]Repeating oneself leads to boredom,
+from which the path to nothingness is
+paved in turn...
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]NOT USED
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USED
+[END]
+171: [71 1]NOT USED
+[->][END]
+172: [71 1]NOT USED
+[->][END]
+173: [71 1]NOT USED
+[->][END]
+174: [71 1]NOT USED
+[->][END]

@@ -1,0 +1,133 @@
+0: (Tenkai) [7a 0][13 0, 304200]To live and to die are one and the
+same. Death and life are fated from
+the beginning.
+[->][13 0, 304201]The heavens, the earth, the people...
+This is the rift where the three meet.
+[->][13 0, 304202]The one who comes and goes; he whose
+name is [Flynn]...
+[->][13 0, 304203]...Let us fight to the death.
+[END]
+1: (Tenkai) [7a 0][13 0, 304236]Urgh... Just a little more... Perhaps
+you can do it...
+[->][13 0, 304237]...Defeat me...
+[END]
+2: (Tenkai) [7a 0][13 0, 304238]The glimmering... of the stars...
+begin... to move... The chain...
+has been broken...
+[->][13 0, 304239]Hahaha... That's right... Yes...
+I have... been waiting for this...!
+[->][13 0, 304240]I can only hope... that next time...
+I am privileged to serve... under
+a master... like you...
+[END]
+1000: (Tenkai) [7a 0][13 0, 304204]You are another who fights for Tokyo.
+You harbor some ideal within your heart.
+[->][13 0, 304205]Then I ask you: what sort of city is
+your ideal Tokyo?
+[END]
+1001: ”A peaceful city of order.”
+”A wild city of freedom.”
+”One of both order and freedom.”
+[END]
+1002: (Tenkai) [7a 0][13 0, 304206]Very well. Then let us see how that
+aligns with your actual outlook...
+[END]
+1003: 〉 Tenkai quietly gazes at
+[Flynn]...
+[END]
+1004: (Tenkai) [7a 0][13 0, 304207]I see. You do indeed live as one
+dedicated to the ways of order.
+[->][13 0, 304208]Your ideals and actions are in
+harmony... That, then, is the root
+of your power.
+[END]
+1005: 〉 [Flynn] sensed a mysterious
+power within himself...
+[END]
+1006: 〉 [Flynn]'s defense increased!
+[END]
+1007: (Tenkai) [7a 0][13 0, 304209]Hmm... it appears that your actions
+belie your supposed path of order.
+[->][13 0, 304210]Your ideals and actions are out of
+balance... You lack commitment!
+[END]
+1008: (Tenkai) [7a 0][13 0, 304211]I see... You do indeed live as one
+passionate about the cause of freedom.
+[->][13 0, 304212]Your ideals and actions are in
+harmony... That, then, is the root
+of your power.
+[END]
+1009: 〉 [Flynn] sensed a mysterious
+power within himself...
+[END]
+1010: 〉 [Flynn]'s attack increased!
+[END]
+1011: (Tenkai) [7a 0][13 0, 304213]Hmm... it appears that your actions
+belie your supposed path of freedom.
+[->][13 0, 304214]Your ideals and actions are out of
+balance... You lack commitment!
+[END]
+1012: (Tenkai) [7a 0][13 0, 304215]I see... You do indeed live as one
+committed to both order and freedom.
+[->][13 0, 304216]Your ideals and actions are in
+harmony... That, then, is the root
+of your power.
+[END]
+1013: 〉 [Flynn] sensed a mysterious
+power within himself...
+[END]
+1014: 〉 [Flynn]'s aim increased!
+[END]
+1015: (Tenkai) [7a 0][13 0, 304217]Hmm... it appears that your actions
+belie your supposed love of both
+order and freedom.
+[->][13 0, 304218]Your ideals and actions are out of
+balance... You lack commitment!
+[END]
+1016: (Tenkai) [7a 0][13 0, 304219]”Ignorance is bliss.” And yet you
+strive to pass here.
+[->][13 0, 304220]Then I ask you this.
+[->][13 0, 304221]When you learn the truth of the
+Ashura−kai, what do you plan to do?
+[->][13 0, 304222]Will you reform it and cause chaos?
+Or will you sustain it, thereby
+preserving order?
+[END]
+1017: ”I'll reform it.”
+”I'll sustain it.”
+”I don't know.”
+[END]
+1018: (Walter) [7a 4][13 0, 304223]Haha... Just as I would!
+[->][13 0, 304224]That's right. Even if it causes chaos,
+if there's a wrong that needs be
+addressed, we must do so.
+[->][13 0, 304225]Else we're as good as corpses.
+[END]
+1019: (Tenkai) [7a 0][13 0, 304226]The human world is constantly in flux.
+That is another truth.
+[->][13 0, 304227]The truth is much crueler than you can
+imagine... Do not forget that resolve.
+[END]
+1020: (Jonathan) [7a 3][13 0, 304228]I knew that you'd say so, [Flynn].
+[->][13 0, 304229]He's right. Many have built their lives
+atop the world as we know it now.
+[->][13 0, 304230]None have the right to steal that
+away. Courage and recklessness are
+two different things.
+[END]
+1021: (Tenkai) [7a 0][13 0, 304231]To create and sustain is the way of
+humans. That is another truth.
+[->][13 0, 304232]The truth is much crueler than you can
+imagine... Do not forget that resolve.
+[END]
+1022: (Tenkai) [7a 0][13 0, 304233]Reform and sustenance. There can only
+be one of the two. Indecision is not
+a valid answer.
+[->][13 0, 304234]You have no right to face the truth.
+[->][13 0, 304235]You will die here...!
+[END]
+1023: 〉 You feel an extraordinary surge in
+Tenkai's aura...
+[END]
+1024: 〉 All of Tenkai's abilities increased!
+[END]

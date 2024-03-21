@@ -1,0 +1,8 @@
+1: (The White) [7a 0][13 0, 307100]We humans with demonic tendencies, who
+create a ”god” for the sake of our own
+convenience...
+[->][13 0, 307101]Do you think that ones so weak can
+carry on living in this quagmire of
+order and chaos...?
+[->][13 0, 307102]Such neutrality is beyond redemption...
+[END]

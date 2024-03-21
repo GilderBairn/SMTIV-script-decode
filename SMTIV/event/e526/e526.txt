@@ -1,0 +1,41 @@
+0: (Demon) [7a 64970][13 1, 417006]......
+[->][13 1, 417001]Huh? No way...
+[END]
+1: (Demon) [7a 64970][13 1, 417003]I got scared and ran when he was fighting
+with Kenji.
+[->]Ever since, I've felt guilty, and come
+here to visit now and then.
+[END]
+2: (Demon) [7a 64970]I'm really glad to know he's still alive.
+Not that I have the right to show my
+face to the guy...
+[->]Thanks, though. You can have this.
+[END]
+3: 〉 Obtained [41 3].
+[END]
+4: (Demon) [7a 64970]Bye bye.
+[END]
+5: 〉 The room is a mess...
+[END]
+10: (Demonoid guard) [7a 145][13 1, 415200]Yo Akira. I heard from the guys below
+that you captured the Intruders?
+[->]Well, you can leave the patrols here
+to me... Though there's only so much
+I can do.
+[->]Hurry up and become the King so we can
+all live on easy street.
+[END]
+11: (Male Demonoid) [7a 167][13 1, 415207]You going inside the Terminal Room?
+Don't bother, buddy.
+[->]There's no teleporter, so there's no
+point to the Terminal.
+[END]
+100: (Demon) [7a 64970]It's faint, but I can feel some of that
+man's Magnetite from you, mister.
+[->]He's got a real stitched−up face, but
+he's living in this ”Shinjuku” place.
+[END]
+104: 〉 The Undine is no longer here...
+[END]
+204: 〉 There is no one here.
+[END]

@@ -1,0 +1,8 @@
+0: Let's go [Color:0x5]kill Kenji at Camp Ichigaya.[Color:0x0] Tokyo
+doesn't need two kings, after all. Word is that
+Kenji was a badass when he was human, but I bet
+he wasn't even close to me. Still, if the rumors
+are true, he's probably gotten even stronger now
+that he's a demonoid. But I'm sure you'll be
+fine... as the next King of Tokyo, I guarantee it.
+[END]

@@ -1,0 +1,19 @@
+0: (Master Samurai) [7a 116][13 0, 170001]Y−You came! I had given up, thinking
+you'd forgotten about me...
+[END]
+1: (Master Samurai) [7a 116][13 0, 170002]Tayama and his men left. They said
+something about war at Ichigaya...
+[END]
+2: (Master Samurai) [7a 116][13 0, 170003]But enough of that, my brave fellows.
+[->][13 0, 170004]I shall give these to you. I took them
+while Tayama was away.
+[END]
+3: 〉 Obtained Card Keys 2, 3, and 4.
+[END]
+4: (Master Samurai) [7a 116][13 0, 170005]Take them! They're a token of my gratitude.
+[END]
+5: (Master Samurai) [7a 116][13 0, 170006]I will... stay here a while more.
+[END]
+6: (Master Samurai) [7a 116][13 0, 170007]Not to wait out the conflict, but to...
+find more mystic relics...
+[END]

@@ -1,0 +1,33 @@
+0: (Walter) [7a 4][7b 786436, 65537][13 0, 62001]Now then... Where is this legendary
+demon?
+[->][13 0, 62002]Perhaps it's wasted away lo these
+many years...?
+[END]
+1: (Voice) [7a 200][13 0, 62003]For humans to have the gall to step
+into the Hall of the Minotaur...
+[END]
+2: (Walter) [7a 4][7b 196612, 65537][7b 655365, 65537][13 0, 62004]What in blazes...?
+[END]
+3: (Jonathan) [7a 3][13 0, 62005]Everyone, look!
+[END]
+4: (Minotaur) [7a 200][13 0, 62006]Over a thousand and five hundred years
+have passed since I formed the pact
+with my master...
+[->][13 0, 62007]You are either truly skilled or fools
+indeed to ignore his warning.
+[END]
+5: (Minotaur) [7a 200][13 0, 62008]I will dine on your blood that wishes
+to mingle with the Unclean!
+[END]
+6: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[END]
+7: (Isabeau) [7a 5][13 0, 62010]Beyond this door is unknown territory
+for we, the people of the Eastern
+Kingdom of Mikado.
+[END]
+8: (Jonathan) [7a 3][13 0, 62011]This is... a tremendous violation of
+the Samurai code.
+[END]
+9: (Walter) [7a 4][13 0, 62012]But it is necessary if a new path
+will be opened.
+[END]

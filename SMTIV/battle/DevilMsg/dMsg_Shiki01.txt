@@ -1,0 +1,80 @@
+0: [71 1]Ooh, a new skill!
+Now I can massacre even more!
+[->][END]
+1: [71 1]Yay, a new skill!
+Please use it a lot, Mister!
+[->][END]
+2: [71 1]A new skill, mister!
+Don't use it too much!
+[->][END]
+3: [71 1]What should I do, Mister?
+I might've become too strong!
+[->][END]
+4: [71 1]I have too many skills.
+I need to put one away!
+[->][END]
+5: [71 1]Hey, Mister, can I change
+[Color:0x5][Skill 1][Color:0x0]
+into [Color:0x5][Skill 2]?[Color:0x0]
+[->][END]
+6: [71 1]Hey, Mister, can I change
+[Color:0x5][Skill 1][Color:0x0]
+into a really nice skill?
+[->][END]
+7: [71 1]Hee hee hee! Yay!
+[->][END]
+8: [71 1]Awwwww... Let me do it next time!
+[->][END]
+9: [71 1]It became [Color:0x5][Skill 1]![Color:0x0]
+Isn't that nice?
+[->][END]
+10: [71 1]Transformation selection message (provisional)
+[->][END]
+11: [71 1]Transformation OK message (provisional)
+[->][END]
+12: [71 1]Transformation cancel message (provisional)
+[->][END]
+13: [71 1]Transformation completion message (provisional)
+[->][END]
+14: [71 1]Transformation omen message (provisional)
+[->][END]
+15: [71 1]Take this [Color:0x5][Item 1]![Color:0x0]
+Grown−ups say it's dangerous, so
+be careful with it.
+[->][END]
+16: [71 1]Take this [Color:0x5][Item 1]![Color:0x0]
+Grown−ups say it's dangerous, so
+be careful with it.
+[->][END]
+17: [71 1]Take this [Color:0x5][Item 1]![Color:0x0]
+Grown−ups say it's dangerous, so
+be careful with it.
+[->][END]
+18: [71 1]Hee hee! Can you feel something
+creeping up inside you, Mister?
+That's the power of demons!
+[->][END]
+19: [71 1]Do you want more, Mister?
+[->][END]
+20: [71 1]Yay! Mister, you're going to die
+for me, right?
+[->]So die! Hurry up and die!
+Won't you die for me?
+[->]Awww... Well, then, I'll be with
+you until you do die for me!
+[->]I'm [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+Hurry up and die, Mister, okay?
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

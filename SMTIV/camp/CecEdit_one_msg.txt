@@ -1,0 +1,78 @@
+0: Use it well!
+[END]
+1: I'm sure this demon will help...
+[END]
+2: Please train my demon!
+[END]
+3: How's my demon doing?
+[END]
+4: Here you go! Hang in there!
+[END]
+5: My demon's a bit different!
+[END]
+6: Use this demon and you'll be fine.
+[END]
+7: I finally used StreetPass! Thanks!
+[END]
+8: I'll help you!
+[END]
+9: Looks like we met again!
+[END]
+10: I hope we get along!
+[END]
+11: For the glory of the Samurai!
+[END]
+12: Thanks for the StreetPass!
+[END]
+13: This demon's not so strong, but...
+[END]
+14: Hail, Samurai!
+[END]
+15: Take good care of my demon!
+[END]
+16: MAX
+[END]
+100: Use it however you want!
+[END]
+101: What you need is this demon!
+[END]
+102: Frolic with my demon...
+[END]
+103: This one's the one!
+[END]
+104: Here, I'll help you out!
+[END]
+105: DDS? Sounds exciting...
+[END]
+106: Can't wait to see how it turns out!
+[END]
+107: I've been waiting to StreetPass you.
+[END]
+108: I'll never forget this bond!
+[END]
+109: I hope it gets stronger...!
+[END]
+110: Thanks for all the StreetPass hits!
+[END]
+111: Maybe I'll make it, thanks to you!
+[END]
+112: You again? Maybe it's destiny.
+[END]
+113: I'm a beginner, but I try hard!
+[END]
+114: Use this if you want!
+[END]
+115: Please treat it well!
+[END]
+116: MAX
+[END]
+200: Sorry! I'll attach one next time!
+[END]
+201: Might as well try this StreetPass thing.
+[END]
+202: Testing StreetPass...
+[END]
+203: I'm gonna wait and see.
+[END]
+204: MAX
+[END]

@@ -1,0 +1,13 @@
+0: (Ogun) [7a 0][13 0, 350301]Look at this power... This is the
+power that's going to save this
+country.
+[->][13 0, 350302]That's right. Fighting is what will
+save this nation. I have come to
+teach these people the ways of war!
+[->][13 0, 350303]I will show these people the truth
+and guide them into a new era.
+Any who stand in my way will perish!
+[END]
+1: (Ogun) [7a 0][13 0, 350304]I... I was... going to guide these
+people... to a revolution...
+[END]

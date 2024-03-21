@@ -1,0 +1,275 @@
+0: Yes
+No
+[END]
+1: 〉 There's a ferryboat...
+[->]〉 Go to the Ueno region?
+[END]
+2: 〉 There's a ferryboat...
+[->]〉 Go to the Chiyoda region?
+[END]
+3: 〉 The old subway line has become an
+underground passage...
+[->]〉 Go to the Ikebukuro region?
+[END]
+4: 〉 The old subway line has become an
+underground passage...
+[->]〉 Go to the Shinjuku region?
+[END]
+5: 〉 The old subway line has become an
+underground passage...
+[->]〉 Go to the Roppongi region?
+[END]
+6: 〉 The old subway line has become an
+underground passage...
+[->]〉 Go to the coastal region?
+[END]
+7: 〉 The old subway line has become an
+underground passage...
+[->]〉 Go to the Ginza region?
+[END]
+8: 〉 There's a ferryboat...
+[->]〉 Go to the Johoku region?
+[END]
+9: 〉 Go to the Central Breakwater region?
+[END]
+10: 〉 The Torifune's Shawl is shining...
+[->]〉 It seems you can ascend from here.
+[->]〉 Use the Ameno Torifune Spell?
+[END]
+11: 〉 Enter the tower?
+[END]
+12: Yes
+No
+[END]
+13: Enter the tower
+View the tower exterior
+Don't do anything
+[END]
+14: 〉 Demons are standing by...
+[->]〉 Go to the Ueno region?
+[END]
+15: 〉 Pass through the tunnel and go to
+the Ichigaya region?
+[END]
+16: 〉 Pass through the tunnel and go to
+the Shibuya region?
+[END]
+17: TEMP
+[END]
+18: 〉 Enter the Hills Building?
+[END]
+19: TEMP
+[END]
+20: TEMP
+[END]
+21: TEMP
+[END]
+22: TEMP
+[END]
+23: There's nothing past here.
+[->]If you're headed to Ueno, go west
+from here.
+[END]
+24: Dammit, the path to the Shinjuku region
+isn't connected...
+[END]
+25: (Guide) [13 1, 403001]You must be a rookie Hunter. Do you
+want some help?
+[->]I can tell you what I know.
+Like where Shinjuku, Tokyo Station,
+and Kasumigaseki are.
+[END]
+26: (Ashura−kai Man) Whoa, hold it right there. No one's
+allowed in.
+[->]And don't go getting any dumb ideas
+like sneaking around looking for
+a way in, either.
+[END]
+27: (Ashura−kai man) Those Ring of Gaea punks... They're...
+really serious this time...
+[->]They brought... a ridiculously strong
+troop...
+[->]You guys... Are you gonna... go help out
+Mr. Tayama...?
+[->]Camp Ichigaya... is up ahead... Y−You
+better hurry...
+[END]
+28: (Dreary man) [13 1, 403012]I used to take walks across Ryogokubashi
+up ahead to Kasumigaseki...
+[->]But the bridge is out and these weird
+demons are there now... I wonder if
+I'll ever see Kasumigaseki again.
+[END]
+29: (Armed man) [13 1, 403021]...Hey, don't think about mooching off
+of me. I'm not sharing my hard−earned
+items or Macca with you.
+[->]Why don't you head a little more west
+to Ueno and find a sucker to
+give you something there?
+[END]
+30: (Armed man) [13 1, 403002]Did you come looking for a smartphone in
+Akihabara too? Then you wasted your time.
+[->]It's worse than what you might have
+heard. Nothing's left there. They say
+it was blown away in a military strike.
+[->]The Ashura−kai will wipe a whole city
+off the map for their purposes...
+Another reminder of their awfulness.
+[END]
+31: (Ashura−kai man) [13 1, 404311]Mr. Tayama told me not to let any
+strange guys go to Shibuya.
+[->]So I gotta ask you to leave. Seeya.
+[END]
+32: (Ashura−kai man) [13 1, 404311]Mr. Tayama told me it was okay for the
+Samurai to go through.
+[->]So you're free to go on ahead.
+[END]
+33: (Burroughs) [7a 2][13 0, 76036]I'm detecting a strong demon ahead.
+Do you want to go on?
+[END]
+34: Yes
+No
+[END]
+35: (Hunter man) [13 1, 403023]Dammit, I can't find any...! There's
+gotta be at least one Red somewhere
+on the ground!
+[->]If that goddamn demon wasn't shitting
+up the place in Shibuya, I wouldn't
+have to go through all this trouble!
+[END]
+36: (ハンターの男) …ないッ ないんだよぉ…赤玉
+1つくらい落っこちててもいいだろうよ
+[->]…渋谷のクソ悪魔さえいなくなりゃ
+赤玉で こんな苦労しなくてもいいのにッ
+[END]
+37: (Hunter woman) [13 1, 403101]East from here is the Roppongi region.
+It's where Shibuya and Roppongi are...
+[->]Supposedly you can only get there
+through an underground passage, but
+I couldn't tell you where it is.
+[END]
+38: (Hunter man) [13 1, 403002]That Tayama seems serious this time.
+I heard he's gonna start an all−out war
+against the Ring of Gaea.
+[->]I've heard he put some ”national defense
+weapon” at the Sendagaya Tunnel ahead.
+[->]I went to take a peek and almost soiled
+my drawers when I saw that demon!
+[END]
+39: (Hunter man) [13 1, 403002]That Tayama seems serious this time.
+I heard he's gonna start an all−out war
+against the Ring of Gaea.
+[->]I've heard he put some ”national defense
+weapon” at the Sendagaya Tunnel ahead.
+[->]There was a guy a moment ago saying he
+was going to Ichigaya. I hate to say it,
+but he's probably dead now...
+[END]
+40: (Hunter woman) [13 1, 403142]You want to go to the west entrance
+park? I suggest you rethink that.
+[->]The Ashura−kai's sealed off the west
+side of Shinjuku. If you go in that
+way, they'd take it personally...
+[->]If you have business in Shinjuku, why
+not go in from the south entrance?
+[END]
+41: (Hunter man) [13 1, 403012]The Ashura−kai posted some quest with
+the Association in Shinjuku.
+[->]I came all this way through the subway
+tunnels from Ikebukuro, hoping to snag
+it for myself...
+[->]But now I have to walk through that
+poisonous swamp too?
+[END]
+42: (Hunter woman) [13 1, 403112]Bleh... If I could use the Terminals,
+I wouldn't have to deal with this
+poisonous swamp.
+[->]But I'm almost at Shinjuku... I can see
+the skyscrapers in the south.
+[END]
+43: (Skulking man) [13 1, 403222]I−I'm just taking a walk around here...
+but don't tell anyone, okay?
+[->]If all goes well, there's something in
+it for you. I'll share the vegetables
+grown in the National Park with you...
+[END]
+44: (Hunter man) [13 1, 403021]I know there's no point, but I keep
+heading toward Shibuya...
+[->]Even if I go over there, the Ashura−kai
+will just shoo me away.
+[END]
+45: (Hunter man) [13 1, 403021]I know there's no point, but I keep
+heading toward Shibuya...
+[->]If Tayama calls me up, would I be able
+to get into Shibuya again then...?
+[END]
+46: 〉 There's an elevator here.
+Which floor will you go to?
+[END]
+47: B1F
+Cancel
+[END]
+48: (Bloodied man) ......
+[END]
+49: 〉 A man is collapsed on the ground here
+with his throat slit...
+[END]
+50: (Ashura−kai man) [13 1, 403212]A bunch of Ring of Gaea guys were here
+a minute ago, saying there were some
+kinda vanguard...
+[->]There's no way they coulda stood up to
+Koga Saburo. Thanks to them, I'm stuck
+with the job of cleaning up the bodies.
+[->]Say... are you guys new here? Then do
+me a solid and stand guard over there.
+[END]
+51: 〉 There is a mountain of disfigured
+corpses with the limbs torn off...
+[->]〉 All of the corpses are clad in a
+familiar red uniform.
+[END]
+106: 〉 There's an underground passage
+continuing under the sea...
+[->]〉 According to the Mapper, up ahead
+is the Ooi Wharf...
+[END]
+206: 〉 There's an underground passage
+continuing under the sea...
+[->]〉 According to the Mapper, up ahead
+is the Daiba...
+[END]
+306: Take the underground passage
+Leave
+[END]
+1025: Ask about Shinjuku
+Ask about Tokyo Station
+Ask about Kasumigaseki
+Don't ask anything
+[END]
+1039: (Hunter man) [13 1, 403002]Over at the Sendagaya Tunnel up ahead,
+there's this weird mound of rock.
+[->]Is that the place where... ”Koga Saburo”,
+his name was?
+[->]He was that really strong demon Tayama
+put there, right?
+[END]
+1125: (Guide) Head north a bit and you'll find
+a ferryman. Ask him to take you to
+Shinjuku.
+[->]Anything else you wanna ask?
+[END]
+1225: (Guide) Head south along the road and the
+entrance you find to the east side
+will get you into Tokyo Station.
+[->]Anything else you wanna ask?
+[END]
+1325: (Guide) Head south along the road and keep
+going past Tokyo Station...
+[->]Then take the path west from there
+to get to Kasumigaseki.
+[->]Anything else you wanna ask?
+[END]
+1425: (Guide) Alright. Come talk to me if you ever need
+help, okay? I'm always glad to help out
+my fellow Hunters.
+[END]

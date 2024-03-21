@@ -1,0 +1,101 @@
+0: (Hope) [7a 8][7b 65544, 65537][13 0, 17001]So... you all came back alive.
+[END]
+1: (Jonathan) [7a 3][7b 65539, 131073][13 0, 17002]Commander, shall I assume that your
+order to return means someone has
+completed the quest?
+[END]
+2: (Navarre) [7a 6][7b 65542, 65537][13 0, 17003]Regardless of what you are no doubt
+thinking, I was not the victor.
+[END]
+3: (Hope) [7a 8][7b 65544, 65537][13 0, 17004]First place was [Flynn].
+[END]
+4: (Walter) [7a 4][7b 262148, 65537][7b 262147, 65537][13 0, 17005]Oho!
+[END]
+5: (Hope) [7a 8][7b 65544, 65537][7b 786438, 65537][13 0, 17006]I'll be needing that ring back,
+[Flynn].
+[END]
+6: 〉 [Flynn] returned the Woman's Ring
+to Hope.
+[END]
+7: (Hope) [7a 8][7b 262152, 65537][7b 786438, 65537][13 0, 17007]It seems you've got the makings of
+a real Samurai.
+[END]
+8: (Burroughs) [7a 2][13 0, 17008]Congratulations on completing the quest.
+[->][13 0, 17009]My Master got first place! Wait 'til
+I tell the other Burroughs!
+[END]
+9: (Isabeau) [7a 5][7b 65541, 196609][7b 65540, 65537][13 0, 17010]Hm, it seems you have hidden reserves.
+I underestimated you.
+[END]
+10: (Hope) [7a 8][7b 65544, 65537][7b 65542, 65537][13 0, 17011]Alright then, today's training is over.
+Make sure that you all get enough rest.
+[END]
+11: (Hope) [7a 8][7b 65544, 65537][13 0, 17012]Dismissed.
+[END]
+12: (Navarre) [7a 6][13 0, 17013]...You there. [Flynn].
+[->][13 0, 17014]I'll deign to congratulate you, but I'd
+warn against getting a swelled head
+over this.
+[END]
+13: (Jonathan) [7a 3][7b 131075, 65537][13 0, 17015]Navarre, I know you're disappointed,
+but let's not go casting false
+aspersions.
+[END]
+14: (Navarre) [7a 6][7b 196614, 65537][13 0, 17016]Indeed not... a Casualry isn't worth
+the headache.
+[END]
+15: (Walter) [7a 4][7b 786436, 131073][7b 786435, 65537][13 0, 17017]Pardon...!?
+[END]
+16: (Navarre) [7a 6][7b 131078, 65537][13 0, 17018]I won't soon forget today's humiliation.
+[END]
+17: 〉 Navarre leaves.
+[END]
+18: (Jonathan) [7a 3][7b 65539, 65537][13 0, 17020]I have an idea. Why don't we go up to
+the castle rooftop for a change of
+pace? The wind is quite bracing there.
+[END]
+19: (Walter) [7a 4][7b 262148, 65537][13 0, 17021]Ah, now there's an idea, Jonathan!
+I'd been meaning to take in the view.
+[END]
+20: (Isabeau) [7a 5][7b 65541, 131073][13 0, 17022]Sorry, but I'll be retiring to my room.
+[END]
+21: (Walter) [7a 4][13 0, 17023]What a priss. I'd wager she could don
+an iron helmet and you wouldn't notice
+the difference.
+[END]
+22: (Jonathan) [7a 3][7b 262147, 65537][13 0, 17024]Why don't you come too, [Flynn]?
+The rooftop view of the Eastern
+Kingdom of Mikado is breathtaking.
+[END]
+23: (Jonathan) [7a 3][7b 65539, 65537][13 0, 17025]Let me know when you feel up for it.
+I'll be waiting here.
+[END]
+24: (Walter) [7a 4][7b 262148, 65537][13 0, 17026]Let's all go there together.
+[END]
+25: (Walter) [7a 4][7b 262148, 65537][13 0, 17027]I'll be fighting in Naraku until
+[Flynn] feels up for it.
+[END]
+26: (Jonathan) [7a 3][7b 262147, 65537][13 0, 17028]Hello there, [Flynn]. Do you feel
+like going to the rooftop now?
+[END]
+27: ”Now is the time.”
+”Not as yet...”
+[END]
+28: (Walter) [7a 4][7b 262148, 65537][13 0, 17029]I had a feeling you'd be game,
+[Flynn]... It appears I was right.
+[END]
+29: (Walter) [7a 4][7b 262148, 65537][13 0, 17030]We promised we'd all go together.
+There's no chance you're leaving me
+out of this!
+[END]
+30: 〉 [Flynn] and company headed for
+the roof of Mikado Castle.
+[END]
+31: (Jonathan) [7a 3][7b 65539, 65537][13 0, 17031]I'll remain here. Just let me know
+when you feel up to it.
+[END]
+116: (Navarre) [7a 6][7b 65542, 65537][13 0, 17019]Now, if you'll all excuse me.
+[END]
+125: (Burroughs) [7a 2][13 0, 400050]I'll register that as a new quest
+on the list.
+[END]

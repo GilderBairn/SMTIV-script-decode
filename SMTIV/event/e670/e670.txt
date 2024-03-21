@@ -1,0 +1,76 @@
+0: 〉 There are several portable
+artillery cannons sitting around...
+[->]〉 Will you take one along with you?
+[END]
+1: Yes
+No
+[END]
+2: 〉 You decide to take one of the
+cannons.
+[END]
+3: 〉 You leave the area...
+[END]
+4: 〉 The portable cannon you were
+hauling has been destroyed.
+[->]〉 You abandon the wreckage of the
+portable cannon.
+[END]
+5: (Shelter inhabitant) [7a 97][13 1, 403241]Oh! Were you able to find a cannon?
+[END]
+6: 〉 You give the man the cannon you
+had been carrying.
+[END]
+7: (Shelter inhabitant) [7a 97][13 1, 403231]We can use this to protect the city
+now. Thanks a lot!
+[->]We'll show those demons that we're not
+gonna sit around and wait to be killed!
+Just you watch!
+[END]
+8: (Shelter inhabitant) [7a 97][13 1, 403242]Ah, it's you. Thanks for bringing the
+cannon.
+[->]I'm sure it's going to save a lot of
+lives. It's all thanks to you.
+[END]
+9: 〉 The client leaves...
+[END]
+10: (Shelter inhabitant) [7a 97][13 1, 403202]Are you the one who accepted the job
+to bring me some weaponry?
+[->]Thanks, I really need the help.
+[->]As you can see, the whole world's a
+complete mess. It's all destroyed.
+We've lost everything.
+[->]And on top of that, demons have
+appeared and are slaughtering people
+all over the place.
+[->]Even if we wanted to fight back, we
+don't have anything to use against
+them.
+[->]But, for some strange reason, the
+Ministry of Defense in Ichigaya has
+remained untouched.
+[->]There are some mobile artillery
+cannons behind the building...
+[->]I want you to bring me one of them.
+[->]I'm sorry to trouble you with this,
+but I'm counting on you.
+[END]
+11: (Shelter inhabitant) [7a 97][13 1, 403242]When you get one of the portable
+cannons into the city, come and tell
+me.
+[->]We need weapons to fight back against
+the demons. Please!
+[END]
+12: (Shelter inhabitant) [7a 97][13 1, 403222]Isn't there anyone who can bring one
+of the cannons into the city?
+[->]We need to fight the demons somehow...
+[END]
+13: (Shelter inhabitant) [7a 97][13 1, 403242]Huh? Have you found the cannons yet?
+[->]I know it's asking for a lot, but
+I'm counting on you.
+[END]
+500: 〉 There are several portable
+artillery cannons sitting around...
+[END]
+900: 〉 You cannot possibly take two of
+these at once...
+[END]

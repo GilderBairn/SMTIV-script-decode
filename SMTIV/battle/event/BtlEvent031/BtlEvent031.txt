@@ -1,0 +1,117 @@
+0: (Xi Wangmu) [7a 0][13 0, 303101]It is senseless for you to struggle,
+dear humans.
+[->][13 0, 303102]You will find yourselves incapable
+of inflicting the slightest pain.
+[END]
+1: (Walter) [7a 4][13 0, 303103]What devilry is this!? We may as well
+be wielding flyswatters as swords!
+[END]
+2: (Jonathan) [7a 3][13 0, 303104]I suspect she may be warded by a spell
+like that placed upon Ikebukuro itself.
+[END]
+3: (Xi Wangmu) [7a 0][13 0, 303105]As I have told you, it is senseless
+to struggle. Surrender now and allow
+me to−−
+[END]
+4: (Someone's voice) [7a 53][13 0, 303106]This is it, Xi Wangmu!
+[END]
+5: 〉 The Ring of Gaea members came
+rushing in!
+[END]
+6: (Ring of Gaea man) [7a 142][13 0, 303107]Your head is ours!
+[END]
+7: 〉 The Ring of Gaea members attack
+Xi Wangmu as one!
+[END]
+8: 〉 They fight viciously against
+Xi Wangmu...
+[END]
+9: (Xi Wangmu) [7a 0][13 0, 303108]What simpleminded common soldiers.
+I shall devour you all.
+[END]
+10: 〉 Xi Wangmu devoured the Ring of Gaea
+believers one after another...
+[END]
+11: (Xi Wangmu) [7a 0][13 0, 303109]Oohoho... Are there any more among
+you who wish to be devoured?
+[END]
+12: (Woman's voice) [7a 140][13 0, 303110]Don't push your luck, Xi Wangmu!
+[END]
+13: (Walter) [7a 4][13 0, 303111]Kaga...
+[END]
+14: (Kaga) [7a 140][7b 65676, 65537][13 0, 303112]We won't yield to demons.
+[->][7b 65676, 65537][13 0, 303113]We'll keep struggling as hard as
+we can until we burn ourselves out.
+[->][7b 131212, 65537][13 0, 303114]That's all you can expect from the
+believers of the Ring of Gaea!
+[END]
+15: 〉 Kaga fiercely attacked Xi Wangmu!
+[END]
+16: 〉 Kaga and Xi Wangmu struggled
+viciously...
+[END]
+17: (Xi Wangmu) [7a 0][13 0, 303115]Ohohoho... What a feisty one.
+Freshness is everything when
+it comes to cuisine.
+[->][13 0, 303116]What say you to this...?
+[END]
+18: 〉 Xi Wangmu relentlessly slashed Kaga!
+[END]
+19: (Kaga) [7a 140][13 0, 303117]Gah...
+[END]
+20: (Isabeau) [7a 5][13 0, 303118]Ah...!
+[END]
+21: (Kaga) [7a 140][13 0, 303119]It's inevitable that the weak will
+die... If I'm weak... Then I accept
+my fate of being eaten...
+[END]
+22: (Kaga) [7a 140][13 0, 303120][Flynn]... do you want to live?
+[->][13 0, 303121]Then keep struggling.
+[->][13 0, 303122]Give yourself over to your instincts,
+body and soul, and struggle with all
+your damned might.
+[->][13 0, 303123]I'll do the same... even if it lands
+me in the pits of hell...!
+[END]
+23: (Xi Wangmu) [7a 0][13 0, 303124]Ah, but I grow weary of this prattle.
+I shall devour you, struggle and all!
+[END]
+24: 〉 Xi Wangmu swallowed Kaga whole...
+[END]
+25: (Walter) [7a 4][13 0, 303125]Oh...!
+[END]
+26: (Xi Wangmu) [7a 0][13 0, 303126]Ohohoho... This is a superb delicacy.
+I can sense its energy surging from
+within...
+[->][13 0, 303127]See how the innards of my stomach
+heat up...
+[->][13 0, 303128]N...Ngh...?
+[->][13 0, 303129]Nnnnnghhhhh...!
+[END]
+27: 〉 Xi Wangmu suddenly began writhing
+in pain!
+[END]
+28: (Xi Wangmu) [7a 0][13 0, 303130]It's hot... It's very hot indeed!
+[->][13 0, 303131]Th−Those humans... They're...
+churning in my stomach...
+[END]
+29: (Walter) [7a 4][7b 131076, 65537][13 0, 303132]Unbelievable... Even after being
+devoured, they continue to struggle...
+[->][7b 458756, 65537][13 0, 303133]Damned if I've ever seen their like
+anywhere else...
+[END]
+30: (Xi Wangmu) [7a 0][13 0, 303134]Unngh... This... is too much...
+[END]
+31: 〉 Xi Wangmu's powers grew weaker by
+the moment...
+[END]
+32: (Walter) [7a 4][13 0, 303135]Hoy, [Flynn]! Isn't this our chance?
+[->][13 0, 303136]I'd wager Xi Wangmu would feel it
+now if we redoubled our offense.
+[END]
+33: (Xi Wangmu) [7a 0][13 0, 303137]Th−This can't be... How could the
+humans I already devoured... prove
+to be my ruin...?
+[->][13 0, 303138]H−How dreadful... is the struggle...
+of life...
+[END]

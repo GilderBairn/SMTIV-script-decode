@@ -1,0 +1,15 @@
+0: There's been a lot of killings in Ikebukuro
+recently. The murderer appears when people
+least suspect it, and there's no specific
+location. I've heard that the souls of
+serial killers have come back as evil spirits.
+I want someone to teach those guys a lesson!
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

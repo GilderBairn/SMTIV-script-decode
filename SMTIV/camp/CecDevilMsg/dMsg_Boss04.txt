@@ -1,0 +1,27 @@
+0: [71 1]I have traveled the lands spreading
+seeds of chaos...
+[->][END]
+1: [71 1]I have traveled the lands spreading
+seeds of chaos...
+[->][END]
+2: [71 1]I have traveled the lands spreading
+seeds of chaos...
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]This is a forbidden gift taken from a
+faraway land. Use it and attain even
+greater power.
+[->][END]
+7: [71 1]This is a forbidden gift taken from a
+faraway land. Use it and attain even
+greater power.
+[->][END]
+8: [71 1]This is a forbidden gift taken from a
+faraway land. Use it and attain even
+greater power.
+[->][END]

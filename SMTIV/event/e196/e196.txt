@@ -1,0 +1,114 @@
+0: (Kiyoharu) [7a 83][7b 262227, 65537][13 0, 196002]Oh, look! It's them.
+[->][13 0, 196003]These are the Messiahs I summoned.
+[END]
+1: (Jonathan) [7a 3][7b 655363, 65537][7b 655364, 65537][13 0, 196004]”Messiahs”? We are...?
+[END]
+2: (Akira) [7a 84][7b 65620, 65537][13 0, 196005]I see... They've actually come.
+[END]
+3: (Kiyoharu) [7a 83][7b 262227, 65537][13 0, 196007]It's been... let's see... 25 years,
+hee hee.
+[->][13 0, 196008]I'm sure glad I prayed all that time!
+Now Pluto the Tormentor is done for!
+[END]
+4: (Akira) [7a 84][7b 262228, 65537][13 0, 196009]I'm sure the partner who fought
+alongside you is smiling in heaven.
+[END]
+5: (Kiyoharu) [7a 83][7b 262227, 65537][13 0, 196010]That's right! I can't just be standing
+around! I need to thank God for this.
+[->][13 0, 196011]Oh, Akira, you can entertain our
+Messiah guests!
+[END]
+6: 〉 Kiyoharu walked away.
+[END]
+7: (Akira) [7a 84][7b 262228, 65537][13 0, 196012]...Ha.
+[->][13 0, 196013]I don't blame you for that blank look
+on your faces.
+[->][13 0, 196014]But you don't need to worry. We're not
+your enemies.
+[END]
+8: (Jonathan) [7a 3][7b 655363, 65537][13 0, 196015]What do you mean?
+[END]
+9: (Akira) [7a 84][7b 786516, 65537][13 0, 196016]...I had a dream of a white space.
+[->][13 0, 196017]In it, people who called themselves
+The White told me that you would be
+coming here...
+[->][13 0, 196018]From another world, the Eastern
+Kingdom of Mikado...
+[END]
+10: (Jonathan) [7a 3][7b 458755, 131073][13 0, 196019]Another world...?
+[->][13 0, 196020]Then this is the Tokyo of another
+world?
+[END]
+11: (Akira) [7a 84][7b 262228, 65537][13 0, 196021]At first, I thought it was just a
+strange dream.
+[->][7b 65620, 65537][13 0, 196022]But when I woke up, I was holding this.
+[END]
+12: 〉 Akira showed [Flynn] and his
+fellow Samurai a remote.
+[END]
+13: (Walter) [7a 4][7b 458756, 131073][7b 458755, 131073][13 0, 196023]That's the activation device for the
+Yamato Reactor!
+[END]
+14: (Akira) [7a 84][7b 262228, 65537][13 0, 196024]The White said you would be after this.
+[END]
+15: (Akira) [7a 84][7b 786516, 65537][13 0, 196026]I don't know what the White are up to.
+[END]
+16: (Akira) [7a 84][7b 786516, 65537][13 0, 196027]But whatever it is, we won't last much
+longer with Pluto's poison.
+[END]
+17: (Akira) [7a 84][7b 262228, 65537][13 0, 196028]Though actually meeting you makes me
+want to bet on your potential.
+[->][13 0, 196029]If you're the Messiahs that Kiyoharu
+thinks you are, then I want you to
+get rid of Pluto the Tormentor.
+[END]
+18: (Akira) [7a 84][7b 786516, 65537][13 0, 196030]This remote will be your reward.
+Will you do it...?
+[END]
+19: Accept the request
+Decline the request
+[END]
+20: (Akira) [7a 84][7b 262228, 65537][13 0, 196031]I'm glad to hear that.
+[END]
+21: (Akira) [7a 84][7b 65620, 65537][13 0, 196032]The Tormentor is in Pluto Castle to
+the southeast.
+[->][13 0, 196033]You'll run into Pluto's forces on the
+way. I'll give you their data.
+[END]
+22: 〉 Akira pulls a Demonica from his bag
+and transmits the data.
+[END]
+23: (Akira) [7a 84][7b 65620, 65537][13 0, 196036]It's a keepsake from a friend who
+tried to storm Pluto Castle. I'm sure
+he would have wanted to help...
+[END]
+24: (Akira) [7a 84][7b 786516, 65537][13 0, 196037]Please give us light. We who believe
+in God, yet were not chosen by Him...
+[->][13 0, 196038]Take care of Pluto for us.
+[END]
+25: (Akira) [7a 84][7b 65620, 65537][13 0, 196040]I see...
+[->][13 0, 196041]I'll be here. Come back if you change
+your mind.
+[END]
+100: (Jonathan) [7a 3][7b 524291, 65537][7b 655364, 65537][13 0, 196001]Blech... Refuse everywhere...
+[END]
+102: (Akira) [7a 84][7b 262228, 65537][13 0, 196006]You truly did well, Kiyoharu.
+[END]
+114: (Jonathan) [7a 3][7b 786435, 131073][7b 196612, 65537][13 0, 196025]Are they implying we must open the
+gate to the Expanse again...?
+[END]
+122: (Burroughs) [7a 2][13 0, 196034]Master [Flynn], I got the geographic
+data for this Tokyo.
+[->][13 0, 196035]The map functions are available now.
+[END]
+124: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+126: (Akira) [7a 84][7b 262228, 65537][13 0, 196042]...You're back.
+[->][13 0, 196043]If you're the Messiahs that Kiyoharu
+thinks you are, then I want you to
+get rid of Pluto the Tormentor.
+[END]
+127: (Akira) [7a 84][7b 786516, 65537][13 0, 196044]This remote will be your reward.
+Will you do it...?
+[END]

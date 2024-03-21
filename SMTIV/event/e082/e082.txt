@@ -1,0 +1,154 @@
+0: (Burroughs) [7a 2][13 0, 82001]There's a PC here that still works.
+[->][13 0, 82002]I think you can use it to get some
+information about Tokyo. Do you want
+to try?
+[END]
+1: Try it
+Not now
+[END]
+2: (Burroughs) [7a 2][13 0, 82003]There are a few different files you
+can view from here. Which one do you
+want to look into?
+[END]
+3: (Burroughs) [7a 2]エラーです [Flynn][様/さま]
+[13 0, 82004]An error has occurred, Master [Flynn].
+[END]
+4: ”The Counter−Demon Force one.”
+”The log of 25 years ago.”
+”The demon summoning program rumor.”
+”None of them.”
+[END]
+5: (Burroughs) [7a 2][13 0, 82004]Touch the file ”2013W” displayed on
+the panel to open it.
+[END]
+6: 〉 [Flynn] touched the panel that
+said ”2013W”...
+[->]〉 The screen displayed the requested
+file...
+[->]Special news bulletin! The full story
+on the mysterious Counter−Demon Force!
+[->]The Counter−Demon Force is a special ops
+group trained in anti−demon warfare.
+[->]It was formed under the command of
+Defense Minister Tamagami.
+[->]Their chief advantage is the Demonica
+Suit made in Country A, specifically the
+smart terminal embedded in the left arm.
+[->]The force primarily consists of former
+SDF troops and police officers, with a
+few civilians in the ranks as well.
+[->]After Country A's supremacy, Japan's
+combat efficiency in demon warfare is
+the second best in the world.
+[END]
+7: (Burroughs) [7a 2][13 0, 82007]Anything else you want to look into?
+[END]
+8: (Burroughs) [7a 2][13 0, 82005]Touch the file ”2013G” displayed on
+the panel to open it.
+[END]
+9: 〉 [Flynn] touched the panel that
+said ”2013G”...
+[->]〉 The screen displayed the requested
+file...
+[->]〉 It is a log of posts to a bulletin
+board from 25 years ago.
+[->]”The train stopped! What happened!?”
+”Hey, it's my GF's birthday tomorrow...”
+[->]”Did you see the news!? They were talking
+about demons!” ”The Demon Summoning
+Program, huh? That sounds... bad...”
+[->]”How could the government try to cover
+this up!?” ”Japan is finished...”
+[->]”Anyone who's still standing, come to
+the underground district!” ”If I'm gonna
+die, it'll be doing the things I love.”
+[->]”The gates of Hell have opened.” ”If you
+want to survive, run the program and...”
+[->]〉 The old log ends here.
+[END]
+10: (Burroughs) [7a 2][13 0, 82007]Anything else you want to look into?
+[END]
+11: (Burroughs) [7a 2][13 0, 82006]Touch the file ”2013H” displayed on
+the panel to open it.
+[END]
+12: 〉 [Flynn] touched the panel that
+said ”2013H”...
+[->]〉 The screen displayed the requested
+file...
+[->]〉 It is a summary of the Demon Summoning
+Program.
+[->]The ”Demon Summoning Program” became
+famous among netizens in 2012.
+[->]In most cases, it was installed in the
+user's PC or smartphone.
+[->]Once the application is run, the boot−up
+screen shows a message that says ”Your
+life has just changed forever.”
+[->]Rumor has it that some users of the
+Demon Summoning Program actually
+succeeded in summoning demons...
+[->]Some of those even managed to converse
+with them.
+[->]But no one really knows why the Demon
+Summoning Program was created.
+[->]Let alone who created it and distributed
+it worldwide. Many unsolved mysteries
+surround the Demon Summoning Program...
+[END]
+13: (Burroughs) [7a 2][13 0, 82007]Anything else you want to look into?
+[END]
+14: (Burroughs) [7a 2]Until next time, Master [Flynn].
+[END]
+15: 仮イベント
+デモニカがある武器庫でのイベントを
+見るまで侵入不可
+[END]
+16: 〉 The door is shut tightly...
+[END]
+17: 仮イベント
+デモニカがある武器庫でのイベントを
+見たので侵入可能
+[END]
+18: 〉 [Flynn] held out his ID Card Lv1
+and the door unlocked.
+[END]
+19: 〉 The door is locked...
+[END]
+20: (Jonathan) [7a 3][7b 65539, 65537][13 1, 400105]This seems to be a door without a
+keyhole... How does one open it?
+[END]
+21: (Walter) [7a 4][7b 65540, 65537][13 1, 400205]I see no keyhole for this door.
+How is it meant to be opened...?
+[END]
+22: (Isabeau) [7a 5][7b 65541, 65537][13 1, 400305]I cannot find a keyhole for this door.
+Is there some means to open it...?
+[END]
+23: 〉 The door is locked...
+[END]
+24: (Burroughs) [7a 2][13 1, 400003]I checked the lock's specs against
+your possessions and found a way
+to unlock it.
+[->]What will you do, Master [Flynn]?
+[END]
+25: Use the ID Card Lv1
+Walk away
+[END]
+26: 〉 [Flynn] took the ID Card Lv1
+from his pocket.
+[END]
+27: (Burroughs) [7a 2][13 1, 400004]Okay. The door should be open now.
+[END]
+28: (Jonathan) [7a 3][7b 65539, 65537][13 1, 400102]Without even laying a hand on the
+door... More of the Unclean Ones'
+magic, I expect...
+[END]
+29: (Walter) [7a 4][7b 65540, 65537][13 1, 400204]Hell's bells! How did that work?
+'Tis truly worthy of being called
+a mystic relic...
+[END]
+30: (Isabeau) [7a 5][7b 65541, 65537][13 1, 400302]Is such absurdity the norm here in
+Tokyo? These mystic relics are such
+enigmas...
+[END]
+100: 〉 The file ends there...
+[END]

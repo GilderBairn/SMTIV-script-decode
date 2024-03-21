@@ -1,0 +1,17 @@
+0: (Announcer) [7a 138][13 1, 406002]A Hunter and a demon have crossed
+paths right here in Golden Gai.
+[->]The White Team's gifted Hunter is
+up against a demon from the Red Team!
+[->]Her sorrow's as sweet as the fruit
+that doomed her. The unwilling
+queen of the underworld, Persephone!
+[END]
+1: (Persephone) [7a 0][13 1, 417106]I may not look it, but I'm no
+stranger to this sort of thing.
+[->]Actually, I'm not a big fan of all
+this business with murdering people
+and so forth...
+[->]But, work is work, and it gets me
+on television. Let's get this over
+with.
+[->][END]

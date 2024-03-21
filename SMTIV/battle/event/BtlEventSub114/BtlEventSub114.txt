@@ -1,0 +1,7 @@
+0: (Long) [7a 0][13 0, 350201]If you think you have the power to
+slay me, then you are a fool. You will
+regret drawing your sword on me.
+[END]
+1: (Long) [7a 0][13 0, 350202]I underestimated you...
+A puny human...
+[END]

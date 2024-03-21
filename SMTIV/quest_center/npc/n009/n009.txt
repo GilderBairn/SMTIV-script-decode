@@ -1,0 +1,102 @@
+0: (Hunter man) [13 1, 403001]I'm a survivor of the Counter−Demon
+Force. Not a day goes by that I don't
+think about what happened 25 years ago.
+[->]I couldn't protect Tokyo from God's
+wrath... I work as a Hunter now to
+atone for that failure.
+[END]
+1: (Hunter man) [13 1, 403001]I'm a survivor of the Counter−Demon
+Force. Not a day goes by that I don't
+think about what happened 25 years ago.
+[->]Before the angels left, they said,
+”Let your wicked knowledge and fruits
+of your wisdom perish with you.”
+[->]And just like that, the nukes fell.
+That's where all those scars in the
+ground come from.
+[->]I couldn't protect Tokyo from God's
+wrath... I work as a Hunter now to
+atone for that failure.
+[END]
+2: (Hunter man) [13 1, 403001]I couldn't protect Tokyo, or anywhere
+in Japan, as a member of the Counter−
+Demon Force.
+[->]But from this day on, I'll protect my
+homeland for the rest of my life.
+[END]
+3: (Hunter man) [13 1, 403001]I couldn't protect Tokyo, or anywhere
+in Japan, as a member of the Counter−
+Demon Force.
+[->]But from this day on, I'll protect my
+home... the Eastern Kingdom of Mikado...
+for the rest of my life.
+[END]
+4: (Hunter man) [13 1, 403001]As an ex−soldier in the Counter−Demon
+Force, I always saw demons as targets
+to be exterminated.
+[->]But nowadays, fighting demons is part
+of everyday life. When I train each
+day with my demons...
+[->]Founding a new country in these desert
+lands doesn't seem so much like grasping
+at straws.
+[END]
+5: (Hunter man) [13 1, 403002]At one point, we looked to other nations
+for backup, but God's wrath seems to
+have hit on a global scale.
+[->]The major world powers like America and
+China are probably in a similar state.
+[->]Wherever you guys came from, you should
+be prepared to live here in Tokyo for
+the rest of your lives.
+[END]
+6: (Hunter man) [13 1, 403002]It might be faster to go ahead with the
+restoration on our own, rather than
+expect support from other countries.
+[->]I'm sure the other major powers like
+America and China are dealing with the
+same thing anyway.
+[END]
+7: (Hunter man) [13 1, 403002]We can't begin the restoration if we're
+starving to death! We need to secure a
+food supply first.
+[->]Since we can't rely on imports from
+other countries, I guess we'll have to
+get self−sufficient.
+[->]Our grain, meat, crops, and all the rest
+will have to be produced domestically...
+All for the Eastern Kingdom of Mikado!
+[END]
+8: (Bartender) [13 1, 405120]If you're going to be in town, make sure
+you at least say hello to our leader.
+[->]Which is Kiyoharu, but... well, maybe
+you should talk to Akira too.
+[END]
+9: (Bartender) [13 1, 405120]For Akira, who usually shoulders all
+the burden himself, to ask a favor
+of you...
+[->]It just goes to show how much faith he
+has in you. We're all counting on you,
+Messiah.
+[END]
+10: (Bartender) [13 1, 405120]Hey there, Messiahs. I've heard a lot
+about your amazing deeds.
+[->]Heh, Akira made a good call, huh?
+[->]It's people like him who are destined
+to lead.
+[END]
+11: (Bartender) [13 1, 405120]Hey there, Messiahs. I've heard a lot
+about your amazing deeds. You killed
+Pluto, right?
+[->]Heh, Akira made a good call, huh?
+[->]It's people like him who are destined
+to lead.
+[END]
+12: (Bartender) [13 1, 405120]Messiah, you gotta hear this! Pluto's
+gone...
+[->]But now demons are coming from Ichigaya!
+Looks like someone tampered with the
+Yamato Reactor.
+[->]Who could've done such a thing? We need
+to make sure Akira gets whoever did this.
+[END]

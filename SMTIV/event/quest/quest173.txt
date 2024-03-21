@@ -1,0 +1,15 @@
+0: The neurishers are saying they want to watch
+[Color:0x5]TV.[Color:0x0] I don't know why, since all that's ever
+on are fights between demonoids... I guess
+you really can't quit TV if you're addicted,
+huh? Anyway, if you get your hands on a TV
+set, I'll gladly take it.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

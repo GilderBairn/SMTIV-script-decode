@@ -1,0 +1,407 @@
+0: Dummy
+[END]
+1: [71 1]It is not possible that I should
+join you. We are fated to fight to
+the death...
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]Did you ask to suspend this battle?
+Did you hope to evade death here?
+[->]Your wishes will not be considered!
+Fate has decreed that we will fight
+to the death.
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]NOT USED
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]NOT USED
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]NOT USED
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]NOT USED
+[->][END]
+33: NOT USED
+[END]
+34: [71 1]Banal chatter during a battle to the
+death...? What a strange offer.
+[->]If you wish me to respond favorably,
+you must make a suitable offering.
+[->][END]
+35: NOT USED
+[END]
+36: [71 1]Then let us try this banal chatter
+during battle...
+[->][END]
+37: NOT USED
+[END]
+38: [71 1]Banal chatter during a battle to the
+death? Hahaha...! Now that is an
+entertaining proposal!
+[->]Very well, I shall try this!
+[->][END]
+39: NOT USED
+[END]
+40: [71 1]Hmm... Perhaps the banal chatter is
+all the more entertaining because we
+are engaging in it during battle...?
+[->][END]
+41: NOT USED
+[END]
+42: [71 1]Mercy? During a battle? You are prepared
+to offer suitable recompense, yes?
+[->][END]
+43: NOT USED
+[END]
+44: [71 1]Then you shall have your bizarre mercy
+in the midst of battle...
+[->][END]
+45: NOT USED
+[END]
+46: [71 1]I slumber... and the stars slumber...
+It brings a brief period of peace...
+[->]That is why... mercy would be suitable
+for you as well...
+[->][END]
+47: NOT USED
+[END]
+48: NOT USED
+[END]
+49: [71 1]Hm... This is quite interesting.
+Perhaps further mercy is in order...
+[->][END]
+50: NOT USED
+[END]
+51: [71 1]You wish to be paid? What madness is
+this, discussing financial matters
+during a battle to the death...?
+[->][END]
+52: NOT USED
+[END]
+53: [71 1]You parasite...
+[->][END]
+54: NOT USED
+[END]
+55: [71 1]Haaaaaaaaaa!
+[->][END]
+56: NOT USED
+[END]
+57: [71 1]M−My...
+[->][END]
+58: NOT USED
+[END]
+59: [71 1]Is this... what you truly desire...?
+[->][END]
+60: NOT USED
+[END]
+61: [71 1]Enough! I will give you the money.
+It means nothing to me regardless.
+[->]Are you satisfied, you parasite...?
+[->][END]
+62: NOT USED
+[END]
+63: [71 1]...Hragh!
+[->][END]
+64: NOT USED
+[END]
+65: [71 1]You wish to be paid? What madness is
+this, discussing financial matters
+during a battle to the death...?
+[->][END]
+66: NOT USED
+[END]
+67: [71 1]You desire an item from this mad monk?
+It will not come cheaply...
+[->][END]
+68: NOT USED
+[END]
+69: [71 1]This is an item I had secreted on my
+person. Take it...
+[->][END]
+70: NOT USED
+[END]
+71: [71 1]You desire an item from this mad monk?
+Hahahaha! Very well, it's yours!
+[->][END]
+72: NOT USED
+[END]
+73: [71 1]”Waste not, want not,” as they say...
+I will give you this as well.
+[->][END]
+74: NOT USED
+[END]
+75: [71 1]Time is of the essence. Let us decide
+this at a single stroke.
+[->][Color:0x1][Amount 1] Macca.[Color:0x0]
+What say you?
+[->][END]
+76: NOT USED
+[END]
+77: [71 1][Color:0x1][Item 1][Color:0x0] is what I ask for.
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]I ask for [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]I require [Color:0x1]a little[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+82: NOT USED
+[END]
+83: [71 1]I require [Color:0x1]some[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+84: NOT USED
+[END]
+85: [71 1]I require [Color:0x1]a lot[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+86: NOT USED
+[END]
+87: [71 1]I require [Color:0x1]a dreadful amount[Color:0x0] of your
+[Color:0x1]stamina.[Color:0x0]
+[->][END]
+88: NOT USED
+[END]
+89: [71 1]I require [Color:0x1]a little[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+90: NOT USED
+[END]
+91: [71 1]I require [Color:0x1]some[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+92: NOT USED
+[END]
+93: [71 1]I require [Color:0x1]a lot[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+94: NOT USED
+[END]
+95: [71 1]I require [Color:0x1]a dreadful amount[Color:0x0] of your
+[Color:0x1]spirit.[Color:0x0]
+[->][END]
+96: NOT USED
+[END]
+97: [71 1]Your demon there... I ask for the
+[Color:0x1][Demon name 2]'s life.[Color:0x0]
+[->][END]
+98: NOT USED
+[END]
+99: [71 1]Hm... [Color:0x1]That[Color:0x0] will do...
+I require [Color:0x1]that.[Color:0x0]
+[->][END]
+100: NOT USED
+[END]
+101: [71 1]Make your decision with the guidance
+of the stars...
+[->][END]
+102: NOT USED
+[END]
+103: [71 1]...That is correct. Well now, I'll be
+taking this.
+[->][END]
+104: NOT USED
+[END]
+105: [71 1]...That is incorrect. It seems you
+lack understanding.
+[->][END]
+106: NOT USED
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]Mm, that should do for now...
+[->][END]
+121: NOT USED
+[END]
+122: [71 1]Ahhh... What is this inexplicable
+sense of satisfaction...!?
+[->][END]
+123: NOT USED
+[END]
+124: [71 1]Rejection is your choice, naturally.
+[->][END]
+125: NOT USED
+[END]
+126: [71 1]...You're holding back, hm? Then I think
+the time has come for you to face death!
+[->][END]
+127: NOT USED
+[END]
+128: [71 1]I understand. You and I are finished.
+[->][END]
+129: NOT USED
+[END]
+130: [71 1]...You would cheat me, hm? Then I think
+the time has come for you to face death!
+[->][END]
+131: NOT USED
+[END]
+132: [71 1]It was always possible that you would
+not have it, naturally.
+[->][END]
+133: NOT USED
+[END]
+134: [71 1]What would you achieve without any
+Life Stones...?
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]It seems I've asked for too much.
+Well then, I shall hold off...
+[->][END]
+137: NOT USED
+[END]
+138: [71 1]...You refuse to continue, hm? Then I
+think the time has come for you to face
+death!
+[->][END]
+139: NOT USED
+[END]
+140: [71 1]Your determination to reject my every
+request is quite impressive...!
+[->][END]
+141: NOT USED
+[END]
+142: [71 1]All you do is consent, in the sight
+of the stars.
+[->]Leave. You are offending to the eye.
+[->][END]
+143: NOT USED
+[END]
+144: [71 1]Traveling with so little is truly
+an impressive feat...!
+[->][END]
+145: NOT USED
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: [71 1]This talk again? I tire of your idea
+of conversation...
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]It was destined by the stars that we
+would meet again, [Flynn].
+[->]Let us go together once more... to the
+endless battleground of life and death.
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USED
+[END]
+171: [71 1]NOT USED
+[->][END]
+172: [71 1]NOT USED
+[->][END]
+173: [71 1]NOT USED
+[->][END]
+174: [71 1]NOT USED
+[->][END]

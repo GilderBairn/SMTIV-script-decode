@@ -1,0 +1,7 @@
+0: (Bishamonten) [7a 59][13 0, 351301]It appears that you have defeated all
+of the Four Devas.
+[->][13 0, 351302]Now, we shall proceed to the final
+portion of the trial.
+[->][13 0, 351303]You must fight us, the Four Pillars,
+and emerge victorious...
+[END]

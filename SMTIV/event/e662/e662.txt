@@ -1,0 +1,189 @@
+0: 〉 An old man stands at the end of
+an overpass...
+[->]〉 Will you talk to him?
+[END]
+1: Yes
+No
+[END]
+2: 〉 You leave the area...
+[END]
+3: 〉 You decide to talk to the old
+man...
+[END]
+4: (Old Man) [7a 63][13 1, 403802]Huh? You got some business with me,
+boy?
+[->]Oh, I get it. You've come to listen
+to my story.
+[->]Then let me tell you the story of the
+King of Heroes, Wodan, and his search
+for the secret of the ancient runes.
+[END]
+5: 〉 The old man begins his story...
+[END]
+6: (Voice from afar) [7a 69][13 1, 403021]Hold it right there, asshole!
+[END]
+7: (Rowdy Hunter) [7a 69][13 1, 403011]I knew you'd show up!
+[END]
+8: 〉 The Hunter attacks you without
+any further explanation...
+[END]
+9: (Old Man) [7a 63][13 1, 403831]Ha ha ha!
+Good, good!
+[->]You're pretty strong, boy. It's the
+second coming of the King of Heroes,
+ha ha ha!
+[END]
+10: (Woman's voice) [7a 70][13 1, 403123]Stop right there!
+[END]
+11: (Female Hunter) [7a 70]You showed up, just as that Hunter
+Kyuzou said you would.
+[->]I guess slaughtering demons isn't
+enough for you? Now you're hunting
+down humans? That's a new kind of low.
+[->]Stay back, old man! I'll protect you!
+[END]
+12: ”Wait just a moment!”
+”You have the wrong man!”
+[END]
+13: (Female Hunter) [7a 70][13 1, 403111]I won't show any mercy!
+Prepare yourself!
+[END]
+14: 〉 It appears that she is refusing
+to listen...
+[->]〉 The female Hunter moves to attack!
+[END]
+15: (Old Man) [7a 63][13 1, 403832]Ahahaha!
+Very nice!
+[->]You're pretty good, boy. You too,
+missy. You remind me of a Valkyrie!
+Ha ha ha!
+[->]Oh, I'm getting all fired up now.
+It makes me want to dance!
+[END]
+16: (Female Hunter) [7a 70][13 1, 403121]Argh, dammit...
+He's too strong.
+[END]
+17: (Rowdy Hunter) [7a 69][13 1, 403022]Shit, I didn't expect this guy to
+be so tough...
+[->]It's all over for me now, isn't it?
+[->]What the hell was I thinking even
+accepting this job...
+[END]
+18: 〉 It seems that these people had
+taken jobs to protect the old man...
+[->]〉 You explain the situation to the
+other Hunters...
+[END]
+19: (Female Hunter) [7a 70][13 1, 403142]What...? You took the job to protect
+this old guy, too?
+[->]...So this whole thing was just a
+misunderstanding? Oh, I get it now!
+[->]That other guy was going to attack
+the old man, and you stopped him!
+[END]
+20: (Rowdy Hunter) [7a 69][13 1, 403012]Me!? What the hell are you talking
+about!? I already said that I came
+here because I took the job too!
+[->]I know I kind of jumped the gun here,
+but you came along and made the same
+mistake!
+[->]So... Wait, I'm confused.
+[->]Does this mean we were supposed to
+be allies, fighting somebody else?
+[->]Then what the hell are we supposed
+to be fighting...?
+[END]
+21: (Powerful voice) [7a 31][13 1, 413204]Splendid battles... More than enough
+to keep me entertained.
+[->]I did not expect things to go this
+well... You have exceeded my
+expectations.
+[END]
+22: (Mysterious Man) [7a 31][13 1, 413208]It seems we've got some powerful
+warriors here.
+[->]Especially you, victorious one.
+Your skills are almost wasted on a
+human.
+[END]
+23: (Rowdy Hunter) [7a 69][13 1, 403011]Huh? Who the hell are you?
+[->]Wait a minute! You're the Hunter
+that's after the old guy, aren't you!
+[END]
+24: (Mysterious Man) [7a 31][13 1, 413208]And if I am?
+[->]Would you defeat me?
+[->]Even if...
+[END]
+25: (Demon) [7a 65143][13 1, 413204]I am... the Kishin Thor.
+[->](Thor) [7a 65143]Now, to put the finishing touches on
+this amusement, I will slaughter you
+all.
+[->]Your souls will be offered to my
+king!
+[END]
+26: 〉 Something about the old man seems
+to be wrong...
+[END]
+27: 〉 The old man has turned into a
+demon named Odin.
+[END]
+28: (Thor) [7a 65143][13 1, 413202]Ah, King Odin has been resurrected...
+My wishes have finally been granted.
+[->]Yes, humans... Resurrecting King Odin
+was my true intention.
+[->]My king was turned into an old man,
+stripped of his memories, and forced
+to wander the world.
+[->]I finally found my king, and thought
+of a way to help him regain his
+memories.
+[->]That is why I took the form of the
+Hunter Kyuzou to commission this
+fake assignment.
+[->][13 1, 413201]You Hunters have displayed your
+skills in battle among yourselves.
+[->]You have also proven your skill by
+besting me in battle.
+[->]Thanks to these battles, the king's
+memories were reawakened by the
+excitement he felt.
+[->]I thank you all. The reward I have
+for you cannot compare to the
+gratitude I have for you Hunters.
+[->]First, I will reward the one who
+defeated me in battle.
+[END]
+29: (Thor) [7a 65143][13 1, 413201]Let us return to Asgard, King Odin.
+[END]
+30: (Odin) [7a 65368][13 1, 413003]I have taken a liking to the humans
+here.
+[->]I shall give you all the right to
+enter Valhalla.
+[->]Do not hesitate to come to me when
+you die. I shall send a Valkyrie to
+you as a messenger.
+[->]Farewell.
+[END]
+31: 〉 Odin and Thor leave...
+[END]
+32: (Female Hunter) [7a 70][13 1, 403121]Are you telling me that we were all
+tricked by demons?
+[->]All they think about is themselves...
+What do they think we humans are?
+[->]Augh, I've had it up to here with
+these demons!
+[END]
+33: (Rowdy Hunter) [7a 69][13 1, 403043]I did receive a reward for this,
+but I did almost lose my life, too.
+[->]One step in the wrong direction, and
+I'd probably have ended up in
+Valhalla. No joke...
+[->]Well, it's thanks to you that we were
+able to survive all this.
+[->]So thanks.
+[END]
+34: 〉 The Hunters leave...
+[END]
+35: (Odin) [7a 65368][13 1, 413001]Hm...
+[END]
+900: 〉 Nobody's here...
+[END]

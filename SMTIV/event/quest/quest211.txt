@@ -1,0 +1,8 @@
+0: Those of you who can reach the main temple
+without your candle's flame going out will
+be accepted into the Ring of Gaea. The
+following conditions will disqualify you:
+・[Color:0x5]Your candle's flame goes out[Color:0x0]
+・[Color:0x5]You give up the quest during the trial[Color:0x0]
+ 
+[END]

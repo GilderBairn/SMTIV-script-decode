@@ -1,0 +1,93 @@
+0: (Nosy Samurai) [7a 117][13 1, 404303]Even the Eastern Kingdom of Mikado is
+becoming infested with demons...
+[->]'Tis better to devote oneself to
+finding mystic relics in Tokyo, no?
+[->]Particularly in light of the side
+benefits...
+[END]
+1: (Nosy Samurai) [7a 117][13 1, 404301]There are an astounding number of
+demons... The Eastern Kingdom of Mikado
+is on the cusp of annihilation.
+[->]I wonder if they are hatching a counter−
+plot to forestall it...?
+[END]
+2: (Nosy Samurai) [7a 117][13 1, 404301]I heard that just like this city of
+Tokyo, a swarm of demons invaded the
+Eastern Kingdom of Mikado...
+[->]But the angels appear to have the threat
+well in hand, and all is well now.
+[END]
+3: (Nosy Samurai) [7a 117][13 1, 404301]The angels offer little but a tight
+yoke, but you... You have given the
+people hope.
+[->]Were I to choose one to follow,
+'twould unquestionably be you.
+[END]
+4: (Nosy Samurai) [7a 117][13 1, 404301]With the angels gone, everything is
+settled for the Eastern Kingdom of
+Mikado...
+[->]The problem lies here, on this side.
+What shall become of those demons,
+I wonder...?
+[END]
+5: (Nosy Samurai) [7a 117][13 1, 404301]I have heard that everyone is gathering
+in Shinjuku.
+[->]I shall be on my way there soon myself.
+'Twill be good to see the old faces.
+[END]
+6: (Hunter woman) [7a 70][13 1, 403122]Everyone's pissed at the Ashura−kai, and
+I kinda get why. It's like it used to be
+with normal businesses, y'know?
+[->]Your employer took care of you
+financially. Well, the Ashura−kai
+takes care of us too.
+[->]...But since the Association is gone
+now, I'm getting out of here soon too.
+[END]
+7: (Hunter woman) [7a 70][13 1, 403103]You're listed in the overall rankings
+too, I see.
+[->]Well, I'm not letting any Samurai beat
+me. I'll show you how far a local Hunter
+can go!
+[END]
+8: (Hunter woman) [7a 70][13 1, 403103]Congratulations, champion! That was
+some amazing fighting.
+[->]Someday, I hope to challenge you for
+the top spot.
+[END]
+9: (Hunter woman) [7a 70][13 1, 403141]I don't believe it... You've stopped
+the angelic host...
+[->]You're not just the champion, you might
+be the strongest warrior in the world!
+[END]
+10: (Hunter woman) [7a 70][13 1, 403103]Fujiwara told me that even with the
+demons gone, the Association will stay
+in business.
+[->]He said they'll need Hunters like us
+for the reconstruction of Tokyo.
+[->]Maybe he was anticipating this situation
+would come about someday... and that's
+why he formed the Association.
+[END]
+100: (Nosy Samurai) [7a 117][13 1, 404342]Abbot Hugo has sent a message to all
+Samurai in Tokyo.
+[->]It seems to be a matter of the utmost
+importance... Eh? Shene Duque?
+[->]I've received no messages regarding
+that village...
+[END]
+106: (Hunter woman) [7a 70][13 1, 403103]...Hey, it's you. You're the one who
+killed Xi Wangmu, right?
+[->]Everyone's talking about you. Even in
+Ueno and Shinjuku. A young, highly
+talented Hunter...
+[->]But what brought you to Ikebukuro?
+The Association is gone now. I was
+just on my way out too.
+[END]
+206: (Hunter woman) [7a 70][13 1, 403111]At my skill level, there's no way I can
+beat the demon in the forest.
+[->]I'm not much more than a regular citizen
+with a weapon. Shame... But I've gotta
+be honest with myself about this stuff.
+[END]

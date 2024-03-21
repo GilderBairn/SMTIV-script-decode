@@ -1,0 +1,12 @@
+0: (Girl) [7a 15][13 0, 55001]You came.
+[END]
+1: (Girl) [7a 15][13 0, 55002]But I'm not complete yet. It's because
+everyone has forgotten about me.
+[->][13 0, 55003]I need to be revived for the sake
+of them all.
+[END]
+2: (Girl) [7a 15][7b 65551, 65537][13 0, 55004]Please [Flynn], won't you revive me...?
+[END]
+3: (Voice) [7a 1][13 0, 54002]That girl would like to see you.
+She's to the east from here.
+[END]

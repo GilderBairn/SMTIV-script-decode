@@ -1,0 +1,12 @@
+0: You came again?
+I thought you would.
+You want us.
+We'll play with you.
+It'll be heaven.
+[END]
+1: Seriously...?
+We lost...?
+No way...
+Dammit!
+Lame!
+[END]

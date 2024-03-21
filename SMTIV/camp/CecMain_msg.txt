@@ -1,0 +1,135 @@
+0: [Quest? 0]'s [Color:0x1]HP[Color:0x0] increased by [Color:0x1][Quest? 1]![Color:0x0]
+[END]
+1: [Quest? 0]'s [Color:0x1]MP[Color:0x0] increased by [Color:0x1][Quest? 1]![Color:0x0]
+[END]
+2: [Quest? 0]'s [Color:0x1]St[Color:0x0] increased by [Color:0x1][Quest? 1]![Color:0x0]
+[END]
+3: [Quest? 0]'s [Color:0x1]Dx[Color:0x0] increased by [Color:0x1][Quest? 1]![Color:0x0]
+[END]
+4: [Quest? 0]'s [Color:0x1]Ma[Color:0x0] increased by [Color:0x1][Quest? 1]![Color:0x0]
+[END]
+5: [Quest? 0]'s [Color:0x1]Ag[Color:0x0] increased by [Color:0x1][Quest? 1]![Color:0x0]
+[END]
+6: [Quest? 0]'s [Color:0x1]Lu[Color:0x0] increased by [Color:0x1][Quest? 1]![Color:0x0]
+[END]
+7: 〉 [Flynn] obtained [Color:0x1][Item 1]![Color:0x0]
+[END]
+8: You currently have no received cards.
+[END]
+9: The StreetPass feature for Shin Megami
+Tensei IV has not been activated on this
+Nintendo 3DS system.
+[->]Select [Color:0x5]ON/OFF[Color:0x0] in the menu and go through
+the steps to activate it.
+[END]
+10: You got a StreetPass from [Color:0x1][Quest? 0],[Color:0x0]
+who plays [Color:0x5]Etrian Odyssey IV![Color:0x0]
+[END]
+11: You got a StreetPass from [Color:0x1][Quest? 0],[Color:0x0]
+who plays [Color:0x5]Devil Summoner: Soul Hackers![Color:0x0]
+[END]
+12: By getting a StreetPass from veteran
+users, you gained [Color:0x1]40 App Points![Color:0x0]
+[END]
+13: StreetPass has not been activated on the
+save data currently in use.
+[END]
+14: Cards on hand: [Quest? 0]/12
+[END]
+15: Edit the card's color and attach a
+demon ally to send out to other users.
+[END]
+16: Select a simple message.
+[END]
+17: Select a simple message.
+[END]
+18: Select a simple message.
+[END]
+19: 〉 [Flynn] obtained [Color:0x1][Item 1] x[Quest? 1]![Color:0x0]
+[END]
+20: If you attach a demon, it will grow and
+possibly return with a gift.
+[END]
+21: If you attach a demon, it will grow and
+possibly return with a gift.
+[END]
+100: [Quest? 0] fused and became
+[Quest? 1]!
+[END]
+101: The demon attached to the white card
+returned from their StreetPass trip.
+[END]
+102: The demon attached to the black card
+returned from their StreetPass trip.
+[END]
+103: [Quest? 0] improved its skills
+by aiding others and powered up!
+[END]
+104: [Color:0x5][Quest? 0] [Quest? 1][Color:0x0] randomly
+fused with some demon...
+[END]
+105: And returned as [Color:0x5][Quest? 0] [Quest? 1]![Color:0x0]
+[END]
+106: StreetPass has been deactivated for this
+Nintendo 3DS system.
+[->]The demon attached to the card will
+return automatically.
+[END]
+107: The [Color:0x5]StreetPass feature[Color:0x0] in this game
+cannot be used, since StreetPass is
+restricted in Parental Controls.
+[->]If the StreetPass feature for Shin Megami
+Tensei IV has already been activated on
+this Nintendo 3DS system, it will be
+deactivated.
+[END]
+108: In order to activate StreetPass, you must
+agree to the most recently updated
+User Agreement.
+[->]Select [Color:0x5]Internet Setting[Color:0x0] −〉 [Color:0x5]Other
+Information[Color:0x0] −〉 [Color:0x5]User Agreement[Color:0x0] and agree
+to the newest User Agreement.
+[->]If the StreetPass feature for Shin Megami
+Tensei IV has already been activated on
+this Nintendo 3DS system, it will be
+deactivated.
+[END]
+109: The demon attached to the card will
+return automatically.
+[END]
+110: Either the Shin Megami Tensei IV
+StreetPass is registered on another save,
+or the game was ended after activating it
+without saving the game.
+[->]Shin Megami Tensei IV's StreetPass has
+already been activated on this Nintendo 3DS
+system.
+[->]To use StreetPass with this save data,
+select [Color:0x5]ON/OFF[Color:0x0] from the menu and then
+select [Color:0x5]Activate StreetPass.[Color:0x0]
+[->]To deactivate StreetPass for this game, select
+[Color:0x5]System Settings[Color:0x0] from the HOME Menu. Once
+there, select [Color:0x5]Data Management[Color:0x0] and deactivate
+it with the [Color:0x5]StreetPass Management[Color:0x0] option.
+[END]
+500: [Quest? 0] already has the
+maximum amount of [Color:0x1]HP![Color:0x0]
+[END]
+501: [Quest? 0] already has the
+maximum amount of [Color:0x1]MP![Color:0x0]
+[END]
+502: [Quest? 0] already has the
+maximum amount of [Color:0x1]St![Color:0x0]
+[END]
+503: [Quest? 0] already has the
+maximum amount of [Color:0x1]Dx![Color:0x0]
+[END]
+504: [Quest? 0] already has the
+maximum amount of [Color:0x1]Ma![Color:0x0]
+[END]
+505: [Quest? 0] already has the
+maximum amount of [Color:0x1]Ag![Color:0x0]
+[END]
+506: [Quest? 0] already has the
+maximum amount of [Color:0x1]Lu![Color:0x0]
+[END]

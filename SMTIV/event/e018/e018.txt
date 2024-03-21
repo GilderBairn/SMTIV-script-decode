@@ -1,0 +1,61 @@
+0: (Walter) [7a 4][7b 65540, 65537][13 0, 18003]It's been a string of surprises lately.
+First, we were suddenly told we were
+Samurai...
+[->][13 0, 18004][7b 393220, 65537]And then we're cast directly into
+battle with demons. I can scarcely
+catch my breath here.
+[END]
+1: (Jonathan) [7a 3][7b 655363, 65537][13 0, 18005]I'm equally taken aback, I assure you.
+Demons? In our peaceful kingdom?
+I'd have scoffed at the notion...
+[->][13 0, 18006]My father works at the Monastery,
+yet he never told me of such things.
+[END]
+2: (Walter) [7a 4][7b 262148, 65537][13 0, 18007]Well, I'm glad to be chosen. I didn't
+want to carry on the family trade
+out in the countryside anyway.
+[->][13 0, 18008]I don't mind doing battle with demons,
+if that's the job. It's good sport!
+I think this Samurai routine suits me.
+[END]
+3: (Jonathan) [7a 3][7b 65539, 65537][13 0, 18009]I, too, feel honored to have been
+chosen as a Samurai.
+[->][13 0, 18010]A Samurai's duty is to protect this
+kingdom and its people. It's a worthy
+endeavor.
+[->][7b 786435, 131073][13 0, 18011]I hope to carry out my duties as a
+Samurai as long as I live, that this
+peace might last forever.
+[END]
+4: (Walter) [7a 4][7b 65540, 65537][13 0, 18012]What about you, [Flynn]?
+[END]
+5: ”It comes naturally to me.”
+”It's a worthy duty.”
+”I don't know.”
+[END]
+6: (Walter) [7a 4][7b 786436, 65537][13 0, 18013]Ah, so you think so too! We think
+alike, you and me.
+[END]
+7: (Jonathan) [7a 3][7b 262147, 65537][13 0, 18014]Oh, so you share my view? I suspect we
+may become great friends, [Flynn].
+[END]
+8: (Burroughs) [7a 2][13 0, 18015]That's pretty pathetic. Can't you
+even form your own opinion?
+[END]
+9: (Jonathan) [7a 3][7b 262147, 65537][13 0, 18016]Ahahaha...! It seems even the Samurai
+who claimed first place can't best
+our Burroughs.
+[END]
+10: (Walter) [7a 4][7b 262148, 65537][7b 65539, 65537][13 0, 18017]Anyway... this view's amazing.
+[->][13 0, 18018]It's as if the whole Eastern Kingdom
+of Mikado is floating on the clouds.
+[END]
+11: 〉 [Flynn] and his fellow Samurai
+enjoyed the view, their spirits filled
+with hopes and expectations...
+[->]〉 When they grew tired, the young Samurai
+elected to return to their rooms.
+[->]〉 At midnight that night...
+[END]
+110: (Burroughs) [7a 2][13 0, 400051]Congratulations on completing the quest.
+[END]

@@ -1,0 +1,625 @@
+0: ダミーメッセージ
+[END]
+1: [71 1]Don't care 'bout allies...
+C'mere...
+[->]Become... one w'me...
+[->][END]
+2: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]Don't you... run...
+C'mere...
+[->]Become... one w'me...
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]You can't... have ennymur...
+I can't... be one w'you...
+[->][END]
+13: [71 1]I'm... [Color:0x5][Demon race 1] [Demon name 1]...[Color:0x0]
+Let's... become one...
+[->][END]
+14: [71 1]Yer level... too low... I can't...
+become one w'you...
+[->][END]
+15: [71 1]Huh...? You already got...
+my frien'...?
+[->]Say hi... for me...
+[->][END]
+16: [71 1]Lemme get some others... We can all
+become one...
+[->][END]
+17: [71 1]Oh... no room for us all...
+Too bad...
+[->][END]
+18: [71 1]I wanna... be one w'you...
+an' you... Can I do that...?
+[->][END]
+19: [71 1]Fine then... Let's... ignore them...
+[->][END]
+20: [71 1]Now... it's time... for me...
+to become one...
+[->][END]
+21: [71 1]I'll... introduce you... to my...
+friend...
+[->]Be nice... when you two...
+become one...
+[->][END]
+22: [71 1]You called... me...? You'll become...
+one w'me...?
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]Sure, then...
+Give me... something...
+[->][END]
+26: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+27: [71 1]You can go... wherever...
+[->][END]
+28: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+29: [71 1]Stop it... Shut up...
+Let me... sleep...
+[->]Go away...
+[->][END]
+30: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+31: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+32: [71 1]If you're... going to go...
+I'll at least... heal you...
+[->][END]
+33: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+34: [71 1]Chatting... w'you...
+won't make me... feel better...
+[->][END]
+35: Reserve
+[END]
+36: [71 1]Okay... I'll talk... but I'll jus'...
+complain about ev'rythin'...
+[->][END]
+37: Reserve
+[END]
+38: [71 1]Wait... You'll lissen... to me?
+[->]Hahahaha... It's been... so long...
+since anyone would...
+[->][END]
+39: Reserve
+[END]
+40: [71 1]Heh... Heheh... I want...
+to talk more...
+[->][END]
+41: Reserve
+[END]
+42: [71 1]I'm the one... who needs mercy...
+[->][END]
+43: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+44: [71 1]I deserve... compassion...
+[->][END]
+45: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+46: [71 1]I'm... sleeping...
+Let me... rest...
+[->]You can't... rest...?
+Then... here...
+[->][END]
+47: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+48: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+49: [71 1]I have an urge...
+to heal you again...
+[->][END]
+50: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+51: [71 1]Hey... Don't ask me... for money...
+[->][END]
+52: Reserve
+[END]
+53: [71 1]Even after... turnin' into a zombie...
+I still have to... put up w'this...?
+[->][END]
+54: Reserve
+[END]
+55: [71 1]You... die... and become...
+like me...!
+[->][END]
+56: Reserve
+[END]
+57: [71 1]D... Dammiiiiiiiit...
+[->][END]
+58: Reserve
+[END]
+59: [71 1]Why are... you people...
+like this...?
+[->][END]
+60: Reserve
+[END]
+61: [71 1]Stop... iiiiit... I'm tired...
+of it all...
+[->]If you want it... that much...
+then take... it...
+[->][END]
+62: Reserve
+[END]
+63: [71 1]You... goddamn vitalist...
+[->][END]
+64: Reserve
+[END]
+65: [71 1]Hey... What are you... going to
+do... w'me...?
+[->][END]
+66: Reserve
+[END]
+67: [71 1]Materialist...
+[->][END]
+68: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+69: [71 1]You can have... this...
+Happy... now...?
+[->][END]
+70: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+71: [71 1]Haha... Hahaha... What...
+You want this...?
+[->]Pathetic... You can have...
+this...
+[->][END]
+72: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+73: [71 1]Everyone loves... stuff...
+Take this... too...
+[->][END]
+74: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+75: [71 1]NOT USED
+[->][END]
+76: NOT USED
+[END]
+77: [71 1][Color:0x1][Item 1]...[Color:0x0]
+Give me one...
+[->][END]
+78: NOT USED
+[END]
+79: [71 1][Color:0x1][Amount 1] Macca...[Color:0x0]
+Gimme...
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]Your [Color:0x1]life...[Color:0x0]
+Give me [Color:0x1]just a little...[Color:0x0]
+[->][END]
+82: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+83: [71 1]Your [Color:0x1]life...[Color:0x0]
+Give me [Color:0x1]some...[Color:0x0]
+[->][END]
+84: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+85: [71 1]Your [Color:0x1]life...[Color:0x0]
+Give me [Color:0x1]a lot...[Color:0x0]
+[->][END]
+86: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+87: [71 1]Your [Color:0x1]life...[Color:0x0]
+Give me [Color:0x1]so, so much...[Color:0x0]
+[->][END]
+88: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+89: [71 1]Your [Color:0x1]spirit...[Color:0x0]
+Give me [Color:0x1]just a little...[Color:0x0]
+[->][END]
+90: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+91: [71 1]Your [Color:0x1]spirit...[Color:0x0]
+Give me [Color:0x1]some...[Color:0x0]
+[->][END]
+92: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+93: [71 1]Your [Color:0x1]spirit...[Color:0x0]
+Give me [Color:0x1]a lot...[Color:0x0]
+[->][END]
+94: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+95: [71 1]Your [Color:0x1]spirit...[Color:0x0]
+Give me [Color:0x1]so, so much...[Color:0x0]
+[->][END]
+96: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+97: [71 1]Give me... your ally...
+[Color:0x1][Demon name 2]'s life...
+[->][END]
+98: NOT USED
+[END]
+99: [71 1][Color:0x1]That...[Color:0x0] Gimme...
+[->][END]
+100: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+101: [71 1]Hey... What is it... that I want...?
+[->][END]
+102: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+103: [71 1]Yeah... huh... All right...
+I'll take it...
+[->][END]
+104: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+105: [71 1]Dammit... I don't... want that...
+[->][END]
+106: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]Well... This should... do...
+[->][END]
+121: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+122: [71 1]Hahaha... I like... it...
+[->][END]
+123: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+124: [71 1]Dammit...
+[->][END]
+125: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+126: [71 1]You won't... give it to me...?
+You think... I'm a loser...
+[->]That does it...
+[->][END]
+127: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+128: [71 1]Screw... this...
+[->][END]
+129: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+130: [71 1]You lied... to me...?
+You think... I'm a loser...
+[->]That does it...
+[->][END]
+131: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+132: [71 1]Dammit...
+[->][END]
+133: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+134: [71 1]You don't... even have...
+a Life Stone...?
+[->][END]
+135: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+136: [71 1]Fine... I didn't... really want...
+that much... anyway...
+[->][END]
+137: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+138: [71 1]You... cut me off... You think...
+I'm a loser... huh...?
+[->]That... does it... You pathetic...
+asshole...
+[->][END]
+139: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+140: [71 1]You're... pretty stubborn... huh...?
+Saying no... all the time...
+[->]Wow... I'm... impressed...
+[->][END]
+141: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+142: [71 1]You just... follow... every order...
+I say...
+[->]Watching you... pisses me off...
+[->][END]
+143: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+144: [71 1]You don't... have anything...
+You're the... same as us...
+[->]A miserable... being...
+I feel... for you...
+[->][END]
+145: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+146: [71 1]Forget this... So long...
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]You're... [Flynn]...
+We meet... again...
+[->]Are you... still alive...?
+You should... be one w'us...
+[->][END]
+149: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+150: [71 1]I usually... don't want to...
+but it's... coming from you...
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]I don't... want to fight...
+w'you either... Go away...
+[->][END]
+153: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+154: [71 1]You're a... good guy...
+to sit here... and talk to me...
+[->][END]
+155: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+156: [71 1]Being alive... is tough... huh...
+Here... I'll... heal you...
+[->][END]
+157: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+158: [71 1]Stop... making money... like that...
+Be... a better person...
+[->]If you need... money... here...
+[->][END]
+159: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+160: [71 1]The people of Tokyo... are short on
+supplies... huh?
+[->]Here... You can... have this...
+[->][END]
+161: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+162: [71 1]I'm bored... of hearing that...
+over and over... and over and over...
+and over and over...
+[->][END]
+163: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+164: [71 1]Hey... [Flynn]...
+Why did... you leave me...?
+[->]Let's become one... again...
+[->][END]
+165: [71 1]Stop it... I didn't... choose to be
+this way...
+[->]I'll do anything... so let me go...
+[->][END]
+166: Reserve
+[END]
+167: [71 1]O... Of course... I'll do it...
+[->][END]
+168: Reserve
+[END]
+169: [71 1]Is this... the fate... of demons...?
+[->][END]
+170: Reserve
+[END]
+171: [71 1]Reserve
+[->][END]
+172: [71 1]Reserve
+[->][END]
+173: [71 1]Reserve
+[->][END]
+174: [71 1]Reserve
+[->][END]

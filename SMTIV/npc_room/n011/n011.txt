@@ -1,0 +1,120 @@
+0: (Kiyoharu) [7a 83][13 1, 401504]Aaaaaameeeeeennnnn!
+[END]
+1: 〉 Kiyoharu is praying frantically...
+[END]
+2: (Kiyoharu) [7a 83][13 1, 401504]Aaaaaameeeeeennnnn!
+[END]
+3: 〉 Kiyoharu is praying frantically...
+[END]
+4: (Hunter man) [7a 99][13 1, 403043]Hey, that thing on your arm... Is that
+a Demonica? I've never seen anyone but
+the Shinjuku folks with one of those.
+[->]Kiyoharu wanted to make an altar out of
+a Demonica so he could talk to God...
+[->]So we combed all of Tokyo, fighting
+demons the whole time, to find another
+Demonica for him.
+[END]
+5: (Hunter man) [7a 99][13 1, 403002]Say, where did you get your demon
+summoning program?
+[->][13 1, 403041]A Rite? Well, that sounds fancy. Me, I
+had to grab mine off the 'net.
+[->]About the same time as demons started
+roaming around Tokyo, someone put it
+up online as a free download.
+[END]
+6: (Hunter man) [7a 99][13 1, 403001]Kiyoharu looks strange, but he really
+is a good guy...
+[->]He actually summoned us a Messiah to
+bring down Pluto, right?
+[END]
+7: (Hunter woman) [7a 100][13 1, 403103]I don't know where you guys are coming
+from, but you lucked out, drifting to
+Shinjuku.
+[->]There are other shelters out there, but
+Shinjuku is the only one with humans...
+[->]Thanks to God's wrath, the terrain's
+changed a lot. We can't even set foot
+outside Tokyo anymore...
+[END]
+8: (Hunter woman) [7a 100][13 1, 403142]The Counter−Demon Force was a secret
+commando unit formed to protect Tokyo
+from demons.
+[->]They managed to eliminate the demons
+by cooperating with the angelic host...
+[->]But you can see what good that did us.
+God is gone, and humanity is dying.
+[END]
+9: (Hunter woman) [7a 100][13 1, 403142]Welcome back. Pluto's dead, right?
+[->]Heh. God has left us, but we didn't
+need him anyway.
+[->]Since now we have the Messiah...
+[END]
+10: (Hunter woman) [7a 100][13 1, 403142]You're leaving, aren't you, Messiah?
+Akira told us so...
+[->]He said we had to stand tall without
+relying on any Messiah. We have to
+help ourselves...
+[->]Because the Eastern Kingdom of Mikado
+is our kingdom now...
+[END]
+11: (Hunter woman) [7a 100][13 1, 403142]You're back, Messiah. I know you have
+a job to do...
+[->]We won't rely on either you or God.
+From now on, if there are obstacles to
+overcome, it's us who'll do it.
+[->]Because the Eastern Kingdom of Mikado
+is our kingdom now...
+[END]
+101: Talk to him
+Leave him be
+[END]
+103: Talk to him
+Leave him be
+[END]
+106: (Hunter man) [7a 99][13 1, 403001]Kiyoharu looks strange, but he really
+is a good guy...
+[->]Sometimes, the things he says are
+pretty sharp.
+[->]No wonder he was chosen to communicate
+with the archangels...
+[END]
+201: (Kiyoharu) [7a 83][13 1, 401501]Oh... Messiah...!
+[->]Did you say you obtained the demon
+summoning program from some sort of
+rite? Really...?
+[->]Is that some kind of slang or somethin'?
+Because that demon summoning program...
+[->]It's freeware you can download off the
+Internet. We don't know who was hosting
+it, though...
+[END]
+203: (Kiyoharu) [7a 83][13 1, 401501]Oh... Messiah...!
+[->]Thank you so much! Ah, no, I didn't
+mean for Pluto...
+[->]You've inspired a man who can do a lot
+single−handedly... I think you know
+who I mean... hehehe.
+[->][13 1, 401505]So ”our side” will be fine, I'm sure!
+Maybe you can take a break from being
+Messiah, hehe...
+[END]
+303: (Kiyoharu) [7a 83][13 1, 401504]Aaaaaameeeeeennnnn!
+[END]
+403: 〉 Kiyoharu is praying frantically...
+[END]
+503: Talk to him
+Leave him be
+[END]
+603: (Kiyoharu) [7a 83][13 1, 401501]Oh, hi, Messiah! Thanks for stopping by!
+[->]The Eastern Kingdom of Mikado, right?
+Hey, of course I'm helping establish it!
+[->]See how I'm praying for everyone's
+safety here? And I'm letting the young
+ones do the small, fiddly jobs.
+[->]Because if I take on any major work...
+*cough*... Sorry.
+[->]If I butt into the big stuff, I'm sure
+HE'LL be back down to let me take
+control of things. Hehe.
+[END]

@@ -1,0 +1,9 @@
+0: 〉 A hooded man emerges from the shadows
+of the cave.
+[END]
+1: (Hooded man) [7a 31][13 0, 23001]Ah, the Casualry wretches... I'll show
+you that there are limits that cannot
+be overcome by exerting oneself.
+[END]
+2: 〉 The hooded man disappears...
+[END]

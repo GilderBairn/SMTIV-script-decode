@@ -1,0 +1,39 @@
+0: (Walter) [7a 4][13 0, 300701]The woman has summoned demons!
+[END]
+1: (Black Samurai) [7a 12][13 0, 300702]I look forward to our next meeting,
+Samurai of the Eastern Kingdom of
+Mikado...
+[->][13 0, 300703]For we will surely see each other again.
+[END]
+2: 〉 The Black Samurai leaves...
+[END]
+3: (Walter) [7a 4][13 0, 300704]Wait!
+[END]
+4: (Jonathan) [7a 3][13 0, 300705]Walter! The enemy at hand should be
+our concern at present!
+[->][13 0, 300706]Stay on form, everyone!
+[END]
+5: [13 0, 300707]Don't you want us?
+It feels wonderful.
+We're here...
+Taste us.
+Feel us.
+[END]
+6: (Isabeau) [7a 5][13 0, 300708]Ah...!
+[->][13 0, 300709]Something's coming... Be careful!
+[END]
+7: 〉 The demons release a bewitching aura!
+[END]
+8: (Jonathan) [7a 3][13 0, 300710]Ngh... My mind... My thoughts are
+not my own...!
+[END]
+9: (Walter) [7a 4][13 0, 300711]I−Is this... what madness is like...?
+[END]
+10: (Isabeau) [7a 5][13 0, 300712]What's the matter, everyone...?
+I feel perfectly at ease.
+[END]
+11: (Jonathan) [7a 3][13 0, 300713]Of course... This is... a charm spell...
+[END]
+12: 〉 [Flynn] and the others fall
+unconscious...
+[END]

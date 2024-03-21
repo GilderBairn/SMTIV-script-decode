@@ -1,0 +1,2 @@
+PC_MODE
+NO_SOUND

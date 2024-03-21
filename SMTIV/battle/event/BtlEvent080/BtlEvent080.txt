@@ -1,0 +1,12 @@
+0: (Lucifuge) [7a 0][13 0, 308001]You are no longer fit to be counted
+among the living; you are but a puppet
+dancing on authority's strings.
+[->][13 0, 308002]We cannot create an ideal world while
+a thing like you walks the earth.
+[->][13 0, 308003]As one of Lord Lucifer's generals,
+I will dispose of you.
+[END]
+1: (Lucifuge) [7a 0][13 0, 308004]My lord... I am... sorry...
+[->][13 0, 308005]Please... Reclaim what is rightfully
+ours...
+[END]

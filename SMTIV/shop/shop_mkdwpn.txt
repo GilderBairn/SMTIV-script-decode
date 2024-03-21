@@ -1,0 +1,31 @@
+23: (Q) [13 0, 405206]Ah, what superb relics you have there...
+[END]
+24: (Q) I'd judge their value to be... this
+much. Let me get the money now.
+[END]
+25: (Q) [13 0, 405200]Welcome, Blessed Samurai.
+[END]
+26: (Q) [13 0, 405203]If there's anything I can do for you,
+please do not hesitate to ask...
+[END]
+27: (Q) [13 4, 405202]Please be careful on your way.
+[END]
+28: (Q) [Item 1] x[Amount 1], yes?
+That will be [Amount 2] Macca.
+[END]
+29: (Q) [Item 1] x[Amount 1], yes?
+I could give you [Amount 2] Macca.
+[END]
+30: (Q) [13 0, 405207]Thank you very much.
+[END]
+31: (Q) Would you like to equip this now?
+[END]
+32: (Q) [13 0, 405205]What will you be selling?
+[END]
+33: (Q) [13 0, 405204]What are you in search of today?
+[END]
+34: (Q) [13 0, 405201]Please allow me to give you a discount.
+[END]
+55: Yes
+No
+[END]

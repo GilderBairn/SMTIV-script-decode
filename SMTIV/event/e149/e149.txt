@@ -1,0 +1,27 @@
+0: 〉 The elevator is locked down.
+[END]
+1: [END]
+2: 〉 The elevator is locked down.
+[->]〉 Use the ID Card?
+[END]
+3: Use the ID Card
+Leave it alone
+[END]
+4: 〉 [Flynn] held the ID Card Lv2 up
+to the door...
+[END]
+5: 〉 The elevator has been unlocked.
+[END]
+6: [END]
+7: 〉 The elevator is locked down.
+[END]
+8: (Burroughs) [7a 2][13 1, 400003]I checked the lock's specs against
+your possessions and found a way
+to unlock it.
+[->]What will you do, Master [Flynn]?
+[END]
+9: Use the Card Key 2
+Walk away
+[END]
+10: 〉 [Flynn] used the Card Key 2.
+[END]

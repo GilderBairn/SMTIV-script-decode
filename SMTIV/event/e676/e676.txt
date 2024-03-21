@@ -1,0 +1,100 @@
+0: (Suspicious demonoid) [7a 145][13 1, 413100]Oh. You are guest?
+[->]...You know what do here?
+[END]
+1: ”I want to take part in the Sabbath.”
+”I have no idea what you are saying.”
+[END]
+2: (Suspicious demonoid) [7a 145][13 1, 413102]Oh.
+...You no go in here, then.
+[END]
+3: (Suspicious demonoid) [7a 145][13 1, 413102]Okay. You human, you demon, it no
+matter. Welcome.
+[->]But wait little bit, okay?
+[->]Boss' orders. I check if you worthy
+for Sabbath.
+[->]You need stamina for Sabbath.
+Need tough body.
+[->]......
+[->]Your body A−Okay.
+Not the best, but you pass.
+[END]
+4: (Suspicious demonoid) [7a 145]But your clothes no good.
+Too scary.
+[->]No fighting allowed inside.
+[->]Boss no like that.
+He not come out if you do.
+[END]
+5: (Suspicious demonoid) [7a 145]But, you clothes no good.
+Not fit in this place.
+[->]Boss no like that.
+He not come out.
+[END]
+6: (Suspicious demonoid) [7a 145]You can go in.
+But wait here little bit.
+[END]
+7: 〉 There are many people in the
+different rooms throughout the
+building...
+[->]〉 It seems the ritual has already
+begun...
+[->]〉 You can hear groans and shouts
+that are not quite human or demon
+from all over the building...
+[->]〉 ...
+[->]〉 ......
+[->]〉 .........
+[->]〉 The ritual reaches its peak...
+[->]〉 You feel an extremely evil
+presence.
+[END]
+8: (Evil Presence) [7a 65436][13 1, 413204]Good. Good. Yes, do what your hearts
+desire.
+[->]The scarlet woman shall be delighted
+and show herself to us.
+[->]And then I shall become one with the
+scarlet woman.
+[END]
+9: (Demon) [7a 65436][13 1, 413213]I am the great beast, intertwined
+with the scarlet woman.
+[->]I am Master Therion!
+[END]
+10: (Master Therion) [7a 65436][13 1, 413206]Hmmm... You there! You are not
+participating in my ritual!
+[->]...Are you an assassin, sent to kill
+me?
+[->]No matter. I do not care who you
+are, but know this:
+[->]I have the right to my own will, and
+the right to act as I see fit.
+[->]...And, if anyone gets in my way,
+I have the right to slay them.
+[->]And that is how it is.
+Now then, prepare to die.
+[END]
+11: (Master Therion) [7a 65436][13 1, 413208]To think that after coming this far,
+my ritual would be disrupted...
+[->]I was one step away from reaching
+the scarlet woman...
+the great mother...
+[->]It is all over. The scarlet woman is
+lost in another dimension, unable to
+return to the Expanse.
+[->]I have lost all reason to remain in
+this world... I will go.
+[->]The festivities are over...
+[END]
+12: 〉 The demon disappears...
+[->]〉 The Sabbath attendees quickly
+disperse...
+[END]
+900: 〉 There is no one here...
+[END]
+901: 〉 The door is sealed shut.
+You are unable to enter here...
+[->]〉 There appears to be a number of
+people inside, getting ready for
+something...
+[END]
+902: 〉 You no longer have any business
+here...
+[END]

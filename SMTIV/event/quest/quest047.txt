@@ -1,0 +1,17 @@
+0: A Samurai must keep up his strength, so I've made
+a quest of this too. 'Tis fine weather today, so
+we'll breakfast out of doors. I prefer rice porridge
+for breakfast, but I don't care for it without any
+fish in. Jonathan has waxed eloquent about a local
+[Color:0x5]bakery[Color:0x0] in the castle town; let's go there first to
+[Color:0x5]buy some bread.[Color:0x0]
+[END]
+1: Dummy
+[END]
+2: We begged off of the baker's ravings and are
+making steady progress on the breakfast quest,
+having acquired three loaves of bread. As we're
+already out and about, I think we should go
+somewhere with a [Color:0x5]nice view[Color:0x0] to [Color:0x5]eat our breakfast.[Color:0x0]
+Have you any suggestions, [Flynn]?
+[END]

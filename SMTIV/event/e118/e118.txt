@@ -1,0 +1,115 @@
+0: 〉 Obelisk Plaza is filled with people
+buzzing with curious excitement...
+[END]
+1: (Jonathan) [7a 3][7b 65539, 65537][7b 655364, 65537][13 0, 118001]...Ah, you've come.
+[->][13 0, 118002]The ceremony will commence shortly.
+[END]
+2: (Walter) [7a 4][7b 655364, 65537][13 0, 118003]It was we who caught her, but they
+group us with the common spectators?
+Shameful...
+[END]
+3: 〉 You watch as they prepare to crucify
+the Black Samurai.
+[END]
+4: 〉 The people hurl abuse at her, filling
+the plaza with their roars...
+[END]
+5: (Voice) [7a 5][13 0, 118004]It's sobering to see that there are
+some amongst the crowd who still voice
+their support for the Black Samurai.
+[END]
+6: 〉 Isabeau pushed through the crowds to
+approach [Flynn].
+[END]
+7: (Isabeau) [7a 5][7b 65541, 196609][13 0, 118005]The Monastery must have arranged this
+public ceremony in the hopes of
+uniting the people's hearts.
+[END]
+8: (Gabby) [7a 11][7b 65547, 65537][13 0, 118006]All who have gathered, let us please
+have silence.
+[END]
+9: (Gabby) [7a 11][7b 65547, 65537][13 0, 118007]We will now begin the execution of
+the Black Samurai...
+[->][13 0, 118008]The great villain who deceived you
+all with books written in the mystic
+script.
+[END]
+10: (Hugo) [7a 10][7b 262154, 65537][13 0, 118009]The people of this kingdom exist by
+dint of our Father in Heaven's love.
+[->][13 0, 118010]Now, subjects of the Eastern Kingdom
+of Mikado...
+[->][13 0, 118011]Let us vow an oath together in His
+loving sight that this peace shall
+be everlasting.
+[END]
+11: (Black Samurai) [7a 12][7b 786444, 65537][13 0, 118012]...There is no vice that appears as
+is in this world.
+[->][13 0, 118013]It will always go cloaked in a shroud
+of virtue...
+[END]
+12: (Hugo) [7a 10][7b 786442, 65537][13 0, 118014]Even after all you have done, your
+tongue is as impertinent as ever...
+[END]
+13: (Hugo) [7a 10][7b 65546, 65537][13 0, 118015]So be it. By God's mercy, you may
+speak your last words.
+[END]
+14: (Black Samurai) [7a 12][7b 786444, 65537][13 0, 118016]Adam did not eat the apple because
+he desired it.
+[->][13 0, 118017]He ate it because it was forbidden.
+[->][13 0, 118018]Now, the apple has been set before
+all of you. Eat well.
+[->][13 0, 118019]For just as your friends who became
+demons by reading books discovered,
+you will find no love from God...
+[END]
+15: (Hugo) [7a 10][7b 458762, 65537][13 0, 118020]How dare you insult our God, you
+heathen...!
+[END]
+16: (Hugo) [7a 10][7b 786442, 65537][13 0, 118021]Carry out the execution and
+silence this witch.
+[END]
+17: (Hope) [7a 8][7b 65544, 65537][13 0, 118022]Of course, sir. Hoy...
+[END]
+18: 〉 Hope ordered the Executioner to carry
+out the task at hand.
+[->]〉 The Executioner removed the mask from
+the Black Samurai's face...
+[END]
+19: (Black Samurai) [7a 12][7b 720908, 65537][13 0, 118023]......
+[END]
+20: (Jonathan) [7a 3][7b 458755, 65537][7b 458756, 65537][13 0, 118024]Th−That's...!
+[END]
+21: (Walter) [7a 4][7b 458756, 65537][13 0, 118025]Hoy, her face...
+[END]
+22: (Isabeau) [7a 5][7b 458757, 65537][13 0, 118026]It cannot be... She is the spitting
+image of Sister Gabby...
+[END]
+23: (Gabby) [7a 11][7b 458763, 65537][13 1, 400802]......
+[END]
+24: (Black Samurai) [7a 12][7b 720908, 65537][13 0, 118028]Your kingdom is distorted and biased.
+[->][13 0, 118029]The Samurai who have been to Tokyo
+have already realized it...
+[->][13 0, 118030]But it should be dawning on even you
+who live above ground by now.
+[END]
+25: (Hugo) [7a 10][7b 458762, 65537][7b 458763, 65537][13 0, 118031]What are the executioners doing!?
+Silence that witch!
+[END]
+26: (Black Samurai) [7a 12][7b 720908, 65537][13 0, 118032]Everything is already in motion...
+[->][13 0, 118033]What you need now is more knowledge
+and wisdom.
+[->][13 0, 118034]For that, I'll resurrect as many
+times as I am needed...
+[END]
+27: (Crowd's voice) [7a 2][13 0, 118035]”More knowledge and wisdom”?
+[END]
+28: (Crowd's voice) [7a 2][13 0, 118036]She'll resurrect...?
+[END]
+29: 〉 The Black Samurai was executed.
+[->]〉 Later, a celebration was held at the
+castle. But there was no excitement in
+it, and it was soon brought to a close.
+[->]〉 Everyone was troubled by the Black
+Samurai's words...
+[->]〉 And on the next morning...
+[END]

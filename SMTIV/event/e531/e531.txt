@@ -1,0 +1,163 @@
+0: (Tayama) [7a 17][13 1, 401101]Oh, I thought you'd be out looking for
+Yuriko. You're sure you want to be
+wasting time here?
+[END]
+1: (Mean−looking man) [7a 47][13 0, 133014]...Hah!
+[END]
+2: (Master Samurai) [7a 116][13 1, 403023]Ow! Wait... my arm! Stop that, I say...!
+[END]
+3: (Tayama) [7a 17][13 1, 401102]...Both me and your friend here are
+looking forward to hearing good news.
+[END]
+4: (Tayama) [7a 17][13 1, 415105][13 1, 401102]Hm? Didn't I warn you enough yet? Why
+aren't you out looking for Yuriko...?
+[END]
+5: (Mean−looking man) [7a 47][13 0, 151050]...Hah!
+[END]
+6: (Master Samurai) [7a 116][13 1, 403023]Ouch! What are you... my neck!
+Stop that, I say...!
+[END]
+7: (Tayama) [7a 17][13 1, 401102]I'm not a patient man. You should bring
+me results soon, don't you think?
+[END]
+8: (Master Samurai) [7a 116]Oh... You came again! How considerate
+of your master Samurai you are!
+[END]
+9: (Master Samurai) [7a 116]But you have your own duty to fulfill,
+no? I shall endure here. Now, go...
+[END]
+10: (Voice) [7a 29][13 1, 404301]...Alright, stop right there.
+[END]
+11: (Ashura−kai man) [7a 137]That bitch didn't send you, did she?
+Then you really got no business here.
+[->]Just turn on around and go home...
+Forget what happened here.
+[END]
+12: (Scary−faced man) [7a 138][13 1, 68001]Who're you? Ya came to join the
+Ashura−kai?
+[->]...Didn't ya read the conditions? Bring
+us a recommendation from a member or
+three fresh kids.
+[->]No exceptions. Now turn around and
+go on home.
+[END]
+13: (Ashura−kai man) [7a 46][13 1, 404311]Mr. Tayama told me to not let anyone
+near Shibuya.
+[->]...So there ya have it. Scram.
+[END]
+14: (Ashura−kai man) [7a 46][13 1, 404321]Mr. Tayama said you Samurai can pass.
+[->]...So there ya have it. Have fun.
+[END]
+15: (Ashura−kai man) [7a 46][13 1, 404311]This way leads all sorts of places:
+Toyosu, Tennozu... other stuff...
+[->]But Mr. Tayama said not to let anyone
+pass.
+[->]So long as our Ashura−kai's still
+around, just assume you're not getting
+through here.
+[END]
+16: (Hunter) [7a 67][13 0, 79023]Hehehe... I'll let you cross the river.
+And the Ashura−kai doesn't have to
+know...
+[->][13 0, 79024]Or at least that was the plan...
+[->][13 0, 79025]But there aren't any open boats right
+now, what with the big group of
+customers going to Ikebukuro.
+[->][13 0, 79026]Sorry about that. You'll have to go
+kill some time somewhere.
+[END]
+17: (Hunter) [7a 67][13 0, 79027]Hehehe... I'll let you cross the river.
+And the Ashura−kai doesn't have to
+know...
+[->][13 0, 79028]You want to head over to Chiyoda?
+It'll cost you 500 Macca...
+[END]
+18: (Hunter) [7a 67][13 0, 79027]Hehehe... I'll let you cross the river.
+And the Ashura−kai doesn't have to
+know...
+[->][13 0, 79028]You want to head to Ouji and Minami Senju?
+It'll cost you 500 Macca...
+[END]
+19: (Hunter) [7a 67][13 0, 79027]Hehehe... I'll let you cross the river.
+And the Ashura−kai doesn't have to
+know...
+[->][13 0, 79028]You want to head over to Ueno?
+It'll cost you 200 Macca...
+[END]
+20: Cross
+Don't cross
+[END]
+21: (Hunter) [7a 67][13 0, 79029]Hehehe... Thanks for the business.
+[END]
+22: (Hunter) [7a 67][13 0, 79030]Then come back when you want to
+cross the river.
+[END]
+23: (Hunter) [7a 67][13 0, 79031]Hey, you don't have the money
+for that!
+[->][13 0, 79032]Go raise some Macca somewhere and
+come back.
+[END]
+24: (Demon) [7a 65296][13 0, 79022]Ah, it's you. Would you like to
+cross the river?
+[END]
+25: Cross
+Don't cross
+[END]
+26: (Demon) [7a 65296][13 0, 79018]Hey guys, it's Formation B time.
+We're going with B!
+[END]
+27: (Demon) [7a 65296][13 0, 79019]We owe our lives to you. We'll gladly
+act as your bridge whenever you need.
+[END]
+28: 〉 The old underground railway is now an
+underground tunnel...
+[->]〉 According to the map, this leads to
+the Roppongi region.
+[END]
+29: 〉 The old underground railway is now an
+underground tunnel...
+[->]〉 According to the map, this leads to
+the Bay area.
+[END]
+30: 〉 The old underground railway is now an
+underground tunnel...
+[->]〉 According to the map, this leads to
+the Shinjuku region.
+[END]
+31: 〉 The old underground railway is now an
+underground tunnel...
+[->]〉 According to the map, this leads to
+the Ikebukuro region.
+[END]
+32: Take the tunnel
+Leave
+[END]
+33: (Burroughs) [7a 2][13 0, 76036]I'm detecting a strong demon ahead.
+Do you want to go on?
+[END]
+34: Yes
+No
+[END]
+35: 〉 There is a large temple in front of you.
+[END]
+36: Enter
+Leave
+[END]
+117: (Hunter) [7a 67][13 0, 404331]Hehehe... I'll let you cross the river.
+[->][13 0, 79028]You want to head over to Chiyoda?
+It'll cost you 500 Macca...
+[END]
+118: (Hunter) [7a 67][13 0, 404331]Hehehe... I'll let you cross the river.
+[->][13 0, 79028]You want to head to Ouji and Minami Senju?
+It'll cost you 500 Macca...
+[END]
+119: (Hunter) [7a 67][13 0, 404331]Hehehe... I'll let you cross the river.
+[->][13 0, 79028]You want to head over to Ueno?
+It'll cost you 200 Macca...
+[END]
+123: (Hunter) [7a 67][13 0, 404321]Hey, you don't have the money
+for that!
+[->]Fine... we're both Hunters, after all.
+Make sure you've raised some Macca
+by the time you come back.
+[END]

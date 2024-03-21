@@ -1,0 +1,15 @@
+0: A demon is following the example of the
+Black Samurai and has begun spreading
+knowledge to the people. It must be slain.
+Please meet me on the [Color:0x5]road to Shene
+Duque.[Color:0x0] This is an urgent personal request
+from Sister Gabby herself.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

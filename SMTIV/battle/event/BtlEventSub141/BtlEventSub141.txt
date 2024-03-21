@@ -1,0 +1,13 @@
+0: (Starving Man) [7a 59][13 1, 403221]Hand over that demon!
+That demon... belongs to us!
+[->]If we don't catch the demons, we'll
+be the ones who end up dead!
+[->]You don't get it, do you!? You don't
+understand what it's like to have a
+life of nothing but suffering!
+[END]
+1: (Starving Man) [7a 59][13 1, 403213]No...
+Master actually lost...
+[->]I−I give up...
+We've got nothing left.
+[END]

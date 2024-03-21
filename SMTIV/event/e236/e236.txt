@@ -1,0 +1,102 @@
+0: (The White) [13 0, 236001][7a 124]So even [Flynn] would make that
+choice...
+[->][13 0, 236002]Cowardly human...!
+[END]
+1: (The White) [7a 124][13 0, 236003]...You are too late to walk that path,
+[Flynn].
+[->][13 0, 236004]You have committed too deeply to
+upending the status quo...
+[END]
+2: (The White) [END]
+3: (The White) [7a 124][13 0, 236005]Why do you oppose us, [Flynn]?
+[END]
+4: (The White) [7a 124][13 0, 236006]Will even you place your hopes in
+the possibility of a future?
+[->][13 0, 236007]Even after we have shown you many
+times there is no future for the
+human race?
+[END]
+5: (The White) [7a 124][13 0, 236008]You are no longer of use to us.
+[->][13 0, 236009]May you regret your choice here in
+this fabricated space until you die...
+[END]
+6: (Walter) [13 0, 236010]...Is that you there, [Flynn]...!?
+[END]
+7: (Walter) [7a 4][7b 262148, 65537][13 0, 236011]Ah, so it is! I didn't think I'd be
+seeing you in this world.
+[END]
+8: (Walter) [7a 4][7b 786436, 65537][13 0, 236014]But it appears the White plan to keep
+us locked up here.
+[->][13 0, 236015]Though I'm relieved to have you here
+with me, [Flynn]...
+[END]
+9: (Voice) [13 0, 237001]Looks like you didn't fall for the
+White's moaning and kept right on
+going your own way.
+[END]
+10: (Hikaru) [7a 20][13 0, 237002]Hi, you guys! Long time no see.
+[END]
+12: (Walter) [7a 4][7b 655364, 65537][13 0, 237003]Hikaru...!?
+[END]
+13: (Hikaru) [7a 20][7b 262164, 65537][13 0, 237004]Hey, you don't think I'm one of the
+White too, do you?
+[->][13 0, 237005]*giggle* No way. I'm definitely the
+real me!
+[END]
+14: (Hikaru) [7a 20][7b 65556, 65537][13 0, 237006]Although this is not precisely my
+true form...
+[END]
+15: (Demon) [7a 64451][13 0, 237007]I am Lucifer.
+[END]
+16: (Lucifer) [7a 20][13 0, 237008]Thanks to your work in opening the
+gate to the Expanse, I live again.
+[END]
+17: (Walter) [7a 4][7b 458756, 65537][13 0, 237009]So, Hikaru was a demon...
+[END]
+18: (Lucifer) [7a 20][13 0, 237010]Playing the fool to mask my subtle
+maneuverings is a sure strategy.
+[END]
+19: (Walter) [7a 4][7b 655364, 65537][13 0, 237011]Hikaru... Er, no, ”Lucifer”, was it?
+Why are you here...?
+[END]
+20: (Lucifer) [7a 20][13 0, 237012]I believe I mentioned before that I
+am interested in you all...
+[END]
+21: (Lucifer) [7a 20][13 0, 237013]We stand in the Expanse. It is a world
+fabricated by people's thoughts.
+[->][13 0, 237014]The White are also aggregations of
+thoughts. They are part of this space.
+[END]
+22: (Lucifer) [7a 20][13 0, 237015]Though you rejected their proposal,
+the White's influence is still strong.
+[->][13 0, 237016]There are four of the White lurking
+somewhere within this forest.
+[->][13 0, 237017]Kill them all and break their influence
+on this place.
+[->][13 0, 237018]If you can do this, I shall return you
+to your own world.
+[END]
+23: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+24: (Lucifer) [7a 20][13 0, 237020]Let me heal your wounds.
+[END]
+25: (Lucifer) [7a 64451][13 0, 237021]If you find yourself too wounded to
+continue, come to the forest entrance.
+[END]
+26: (Lucifer) [7a 64451][13 0, 237022]I'll provide healing whenever you
+need it.
+[END]
+27: 〉 Lucifer walked away...
+[END]
+28: (Walter) [7a 4][7b 786436, 65537][13 0, 236016]I'll certainly not allow myself to
+die here. Let us go hence!
+[END]
+29: 〉 Walter joined you.
+[END]
+107: (Walter) [7a 4][7b 655364, 65537][13 0, 236012]The White kept nattering on about
+turning the world to naught, or
+some such...
+[->][7b 327684, 65537][13 0, 236013]That's why I told them that I'll
+destroy the way of things now.
+[END]

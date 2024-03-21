@@ -1,0 +1,14 @@
+0: 〉 The door won't open.
+It seems to be locked.
+[END]
+1: 〉 A key has been left inserted into
+the door. Open the door's lock?
+[END]
+2: Open the lock
+Don't open the lock
+[END]
+3: 〉 The door is now open.
+[END]
+4: 〉 You sense many Gaea followers beyond
+the door...
+[END]

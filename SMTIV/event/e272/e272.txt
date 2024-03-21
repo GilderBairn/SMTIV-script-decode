@@ -1,0 +1,117 @@
+0: [Flynn]が[持/も]っていた
+マサカドの[太刀/たち]が[輝/かがや]き[出/だ]した
+[END]
+1: (Masakado) [13 0, 272001]Ah... this is a fine Great Soul. It
+overflows with the hopes of the people.
+[->][13 0, 272002]Let me see here...
+[END]
+2: 〉 Masakado swallowed the Great Spirit
+of Hope.
+[END]
+3: (Masakado) [7a 65176][13 0, 272004]Ahh... I can feel it permeating my
+entire being...
+[END]
+4: (Masakado) [7a 65176][13 0, 272011]......
+[END]
+5: (Isabeau) [7a 5][7b 655365, 65537][13 0, 272014]What...!?
+[END]
+6: (Masakado) [7a 65176][13 0, 272015]The two feelings that normally buttress
+hope are acting now as obstacles.
+[END]
+7: (Masakado) [7a 65176][13 0, 272016]They are... the Great Spirit of Goodwill
+and the Great Spirit of Spite.
+[END]
+8: (Isabeau) [7a 5][7b 655365, 65537][13 0, 272018]What do you mean...?
+[END]
+9: (Masakado) [7a 65176][13 0, 272019]The Great Spirit of Goodwill has
+transformed into God's chariot,
+which rules the angels...
+[->][13 0, 272020]And the Great Spirit of Spite has
+transformed into the Demon Lord that
+reigns over the demons.
+[->][13 0, 272021]Both continue to gain strength that
+they might win the people's hopes...
+[END]
+10: 〉 You can now fuse
+[Color:0x5][74 360] [42 360].[Color:0x0]
+[END]
+11: 〉 Masakado tried to join your team...
+[->]〉 But [Flynn]'s stock was full...
+[END]
+12: (Masakado) [7a 65176][13 0, 402003]......
+[END]
+13: (Masakado) [7a 65176][13 0, 402001]What business brings you here?
+[END]
+14: Ask him to join your party
+Leave
+[END]
+15: (Masakado) [7a 65176][13 0, 438002]Let us work together.
+[END]
+16: 〉 [Color:0x5][74 360] [42 360][Color:0x0] joined your team!
+[END]
+17: 〉 You can now fuse
+[Color:0x5][74 360] [42 360].[Color:0x0]
+[END]
+18: 〉 Masakado tried to join your team...
+[->]〉 But Masakado was already present in
+[Flynn]'s stock...
+[END]
+19: (Masakado) [7a 65176][13 1, 402002]The New Emperor's power is unique and
+unparalleled...
+[END]
+20: 〉 Masakado became one with the Masakado
+in your stock...
+[END]
+102: (Burroughs) [7a 2][13 0, 272003]Congratulations on completing the quest.
+[END]
+103: (Isabeau) [7a 5][7b 458757, 65537][13 0, 272005]Eek...!
+[END]
+104: (Masakado) [7a 65176][13 0, 272012]Ungh... they have grown so in
+strength...
+[END]
+107: (Masakado) [7a 65176][13 0, 272017]Goodwill is blindly moving only to
+preserve, and Spite is running amok
+solely for upheaval.
+[END]
+109: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[->][13 0, 272026]...I use my own judgement to name the
+quest, if you were wondering.
+[END]
+110: (Masakado) [7a 65176][13 0, 272029][首/くび]だけとて[天使/てんし]や[悪魔/あくま]に[引/ひ]けは[取/と]らぬ
+[我/われ]の[力/ちから]が[必要/ひつよう]ならば[合体/がったい]を[成/な]せ
+[END]
+112: 〉 Masakado turned back into a boulder...
+[END]
+203: (Masakado) [7a 65176][13 0, 272006]I have recovered somewhat. I can lend
+you my strength now.
+[END]
+204: (Masakado) [7a 65176][13 0, 272013]I cannot return to my body like this.
+[END]
+209: (Masakado) [7a 65176][13 0, 272023]In order to reclaim myself from the
+dome, both of them must be slain...
+[->][13 0, 272024]So that you may collect the Great
+Spirits of Goodwill and Spite.
+[END]
+210: (Masakado) [7a 65176][13 0, 438002]Let us work together.
+[END]
+303: (Isabeau) [7a 5][7b 65541, 65537][13 0, 272007]The ceiling will finally be removed...
+[END]
+309: (Isabeau) [7a 5][7b 196613, 65537][13 0, 272022]God's chariot and the Demon Lord...
+[END]
+310: 〉 [Color:0x5][74 360] [42 360][Color:0x0] joined your team!
+[END]
+403: (Burroughs) [7a 2][13 0, 272008]Master [Flynn], isn't this all
+so touching?
+[->][13 0, 272009]It's been night in Tokyo for more than
+25 years, and now the sun is finally
+rising.
+[->][13 0, 272010]Maybe I should keep a video log of
+this to commemorate it.
+[END]
+409: (Isabeau) [7a 5][7b 655365, 65537][13 0, 272027]Why don't we first make for Naraku,
+where the angels are?
+[->][13 0, 272028]If the ground above is to disappear,
+then we must ferry the people of the
+Eastern Kingdom of Mikado to Tokyo.
+[END]

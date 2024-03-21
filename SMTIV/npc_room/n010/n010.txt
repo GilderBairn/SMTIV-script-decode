@@ -1,0 +1,177 @@
+0: (Akira) [7a 84][13 1, 401605]I have found a life of chaos in the
+world created through God's order.
+[->]I doubt God ever accounted for that
+happening. I feel like whooping for
+joy...!
+[->]I won't be silent anymore. First,
+let me thank you.
+[->]You... and Kiyoharu, who summoned you
+all here...
+[END]
+1: (Akira) [7a 84][13 1, 401601]By the way, you released the people in
+Shibuya, right?
+[->]Can't say I approve of your unauthorized
+use of a Terminal, but...
+[->]You made everyone's dreams come true.
+From the bottom of my heart, thank you
+for that.
+[END]
+2: (Hermit man) [7a 97][13 1, 403212]What's going on?  I know Kiyoharu's
+always in a good mood...
+[->]But today he was screaming with
+happiness before running upstairs...
+[END]
+3: (Hermit man) [7a 97][13 1, 403212]I've seen many brave souls enter Pluto
+Castle... Some of them were former
+Counter−Demon Force troops...
+[->]But the only one who's ever returned
+from the castle was the one who got us
+intel on Pluto. That's it.
+[->]Pluto is far too strong for us...!
+[END]
+4: (Hermit man) [7a 97][13 1, 403203]I've seen many brave souls enter Pluto
+Castle... Some of them were former
+Counter−Demon Force troops...
+[->]Now that Pluto is dead, those lost souls
+can finally be at rest...
+[END]
+5: (Sharp−looking man) [7a 162][13 1, 404321]Hm? You there! The one with the
+ponytail! C−Could you be...?
+[->]No... couldn't be. Sorry, I had the
+wrong man.
+[END]
+6: (Sharp−looking man) [7a 162][13 1, 404313]Hm? You there! The one with the
+ponytail! C−Could you be...?
+[->]No... couldn't be. Sorry, I had the
+wrong man.
+[->]When Kiyoharu was in the Counter−Demon
+Force, there was a kid who used to hang
+around with him. He looked like you...
+[->]Hm? The kid? Oh... Pluto's poison got
+him in the end...
+[END]
+7: (Sharp−looking man) [7a 162][13 1, 404321]Was it coincidence or fate that you
+guys became our Messiahs...?
+[->]Either way, one thing's certain...
+Kiyoharu never gave up hope.
+[->]Even when he was betrayed by God or
+infected with the poison... He just
+refused to give up.
+[END]
+8: (Hermit woman) [7a 98][13 1, 403321]Hey! I told you to keep your goggles
+on tight!
+[END]
+9: (Hermit child) [7a 95][13 1, 404012]But it hurts... Can I take them
+off, mom?
+[END]
+10: (Hermit woman) [7a 98][13 1, 403302]What do I always tell you? You'll get
+sick from the Tormentor's poison if
+you do that.
+[END]
+11: (Hermit child) [7a 98]Okay... I don't wanna get sick.
+[END]
+12: (Hermit woman) [7a 98][13 1, 403312]Kiyoharu was once a student who went
+to a famous private high school.
+[->]But then the demons came to Tokyo,
+and everything about our life changed...
+[END]
+13: (Hermit child) [7a 98]I'm sorry I can't show you Tokyo like
+it used to be.
+[END]
+14: (Hermit woman) [7a 98]I still can't believe it... a war
+between angels and demons...
+[->]If only we could have escaped from this
+hell on those angels' ark...
+[END]
+15: (Hermit child) [7a 98]Yeah. It's because we weren't God's
+chosen ones.
+ 
+[END]
+16: (Stiff woman) [7a 163][13 1, 403312]D−Did you say you came from outside!?
+Are you insane!?
+[->]The air outside is choked with poison!
+How can you walk around in that getup!?
+[END]
+17: 〉 The woman is staring at you with obvious
+fear in her wide eyes...
+[END]
+18: (Stiff woman) [7a 163][13 1, 403312]I was once a doctor, you know, and I
+can tell you this for sure: once you're
+infected with Pluto's poison, that's it.
+[->]We've tried amputating to isolate the
+poison... We autopsied everyone who
+fell victim, but it was no help at all.
+[->]Akira's confirmed it. Once the poison
+is in your system, your days are
+numbered...
+[END]
+19: (Tough woman) [7a 98][13 1, 403333]You guys beat Pluto, right? Then why
+not help out our association too?
+[->]I know Tokyo's a mess, but it's where
+we've got to live.
+[END]
+20: (Hunter man) [7a 99][13 1, 403012]Now that Pluto is gone, his poison will
+also fade in time.
+[->]For now, it's safe to say that we've
+retaken Tokyo for the sake of the
+generations to come...
+[END]
+21: (Hunter man) [7a 99][13 1, 403012]Now that Pluto is gone, his poison will
+also fade in time.
+[->]For now, it's safe to say that we've
+retaken Tokyo for the sake of the
+generations to come...
+[->]Even if I fall in battle, my child,
+or my grandchild, could see my dreams
+through...
+[END]
+100: (Akira) [7a 84][13 1, 401601]...Oh, it's you.
+[->]I'm holding meetings to finalize our
+vision of an ideal Tokyo to be restored.
+[->]We have to get everyone's input and
+compile it to come up with an ideal
+goal. It'll take time...
+[->]It makes me want to know what he thinks
+about this, but I wouldn't want to take
+up any of his precious time.
+[->]It's my responsibility to give the
+people hope. And that's what I'll do...
+No matter how long it takes...
+[END]
+104: (Hermit man) [7a 97][13 1, 403203]I've seen many brave souls enter Pluto
+Castle... Some of them were former
+Counter−Demon Force troops...
+[->]Now that Pluto is dead, those lost souls
+can finally be at rest...
+[->]Once Tokyo is restored enough that it's
+safe to go outside again, I'll dig
+graves for them...
+[END]
+107: (Sharp−looking man) [7a 162][13 1, 404321]Was it coincidence or fate that you
+guys became our Messiahs...?
+[->]Either way, one thing's certain...
+Kiyoharu never gave up hope.
+[->]Even when he was betrayed by God or
+infected with the poison... He just
+refused to give up.
+[END]
+204: (Hermit man) [7a 97][13 1, 403203]I've seen many brave souls enter Pluto
+Castle... Some of them were former
+Counter−Demon Force troops...
+[->]I wish they were still here, helping
+us build a new country... If anyone
+deserves that, it's them.
+[->]Once Tokyo is restored enough that it's
+safe to go outside again, I'll dig
+graves for them...
+[END]
+207: (Sharp−looking man) [7a 162][13 1, 404341]You there... The one with the ponytail.
+You remind me of a boy who died long
+ago...
+[->]When Kiyoharu was in the Counter−Demon
+Force, there was a kid who used to hang
+around with him. He looked like you...
+[->]Funny coincidence that the Messiah who
+arrived to answer Kiyoharu's prayers
+looked like HIM!
+[END]

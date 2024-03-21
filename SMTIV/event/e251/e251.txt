@@ -1,0 +1,56 @@
+0: (Hugo) [7a 10][7b 262154, 65537][13 0, 251001]Ah, it's you...
+[->][13 0, 251002]I am taking a break right now.
+[END]
+1: (Hugo) [7a 10][7b 262154, 65537][13 0, 251003]I have heard the welcome news that
+you are now elevated to the duty of
+being a warrior of light.
+[END]
+2: (Hugo) [7a 10][7b 262154, 65537][13 0, 251004]Here, we are steadily going about our
+business of processing the knowledge
+from Tokyo.
+[->][13 0, 251005]We are only retrieving mystic relics
+which have been specified by our new
+authorities.
+[->][13 0, 251006]Now, our research into them has nothing
+at all to do with our self−interest.
+[END]
+3: (Hugo) [7a 10][7b 262154, 65537][13 0, 251007]Our knowledge is not yet sufficient
+to realize the world that our Lord
+wishes to see...
+[->][13 0, 251008]Together with my flock, I will strive
+to meet His expectations as quickly
+as we can.
+[END]
+4: (Hugo) [7a 10][7b 262154, 65537][13 0, 251010]Now, my duties call, so if you will
+please excuse me...
+[END]
+5: (Hugo) [7a 10][7b 65546, 65537][13 0, 251011]...Isabeau was by earlier. She says
+that we should all begin preparations
+to go to Tokyo.
+[->][13 0, 251012]She was unwilling to say more, but she
+did mention something about the Eastern
+Kingdom of Mikado ceasing to be...
+[END]
+6: (Hugo) [7a 10][7b 786442, 65537][13 0, 251013]Despite this imminent disaster, God
+remains silent...
+[END]
+7: (Hugo) [7a 10][7b 458762, 65537][13 0, 251014]It must be a sign from God to
+act in His stead.
+[END]
+8: (Hugo) [7a 10][7b 786442, 65537][13 0, 251016]I recall a certain phrase in a book
+I read whilst I was researching Tokyo.
+[END]
+9: (Hugo) [7a 10][7b 262154, 65537][13 0, 251018]Ah, but listen to me prattle on...
+[->][13 0, 251019]Let us meet in Tokyo later. I must go
+ready myself as well...
+[END]
+103: (Hugo) [7a 10][7b 786442, 65537][13 0, 251009]There are some who deride my rather...
+swift change of heart... but pay no
+heed to them.
+[END]
+107: (Hugo) [7a 10][7b 786442, 65537][13 0, 251015]It will be our duty to create for God
+a place we can belong in Tokyo...
+[END]
+108: (Hugo) [7a 10][7b 262154, 65537][13 0, 251017]”The architects of freedom”... It would
+seem an apt description for us.
+[END]

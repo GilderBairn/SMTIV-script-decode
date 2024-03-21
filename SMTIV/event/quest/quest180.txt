@@ -1,0 +1,15 @@
+0: Like Kenji says, you can't survive without
+power. So, what do you say? Let's have a
+battle royale to see who's the strongest.
+If you live, you can take all the stuff from
+those who died. All the favorites who have
+entered are complete monsters, so go nuts!
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

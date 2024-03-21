@@ -1,0 +1,4 @@
+1: (Burroughs) [7a 2][13 1, 400002]...Be careful.
+[END]
+2: 〉 The demon is prepared to attack...
+[END]

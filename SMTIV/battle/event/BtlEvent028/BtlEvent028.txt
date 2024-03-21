@@ -1,0 +1,17 @@
+0: (Kuebiko) [7a 0][13 0, 302801]My name is Kuebiko of the Jirae.
+[->][13 0, 302802]There once was no superiority or
+inferiority between the earth and
+your kind.
+[->][13 0, 302803]Humans... do not flatter yourselves
+in thinking you can live by your own
+toil alone.
+[->][13 0, 302804]I will rend you to pieces and
+fertilize this land of Shinjuku
+with the remains.
+[->][13 0, 302805]Return to the earth!
+[END]
+1: (Kuebiko) [7a 0][13 0, 302806]So... to be driven away... as objects
+of contempt... is our destiny...
+[->][13 0, 302807]At the least... let this soul become
+a clod of earth... and know peace...
+[END]

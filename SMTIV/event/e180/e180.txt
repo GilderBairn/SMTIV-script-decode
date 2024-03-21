@@ -1,0 +1,60 @@
+0: (Voice) [7a 47][13 0, 180001]Hold up there.
+[END]
+1: (Ashura−kai man) [7a 137][13 0, 180002]I ain't lettin' you past here.
+[END]
+2: (Walter) [7a 4][13 0, 180003]This is no time for heroics. If you
+don't want to die, stand clear.
+[END]
+3: (Ashura−kai man) [7a 137][13 0, 180004]Don't press your luck, loser. You'll
+shit your pants when you see my demon.
+[END]
+4: (Ashura−kai man) [7a 137][13 0, 180005]E−Even a fearsome National Defense
+Divinity couldn't stop them...!?
+[END]
+5: (Ashura−kai man) [7a 137][13 0, 180006]M... M−M... Mr. Tayamaaaaaa...!
+[END]
+6: 〉 The Ashura−kai man ran away...
+[END]
+7: (Walter) [7a 4][7b 655364, 65537][13 0, 180007]See how he flees... These ruffians
+never seem to change.
+[END]
+8: 〉 Ryoja's Scales started to shine in your hand...
+[END]
+9: (Voice) [7a 2][13 1, 452004]I am the Dragon Koga Saburo, one of the
+fierce National Defense Divinities.
+[END]
+10: (Koga Saburo) [7a 2][13 1, 452003]It matters not who you are. If you
+hold my medium, then you are my master.
+[->][13 1, 452010]I am honored to meet you.
+[END]
+11: 〉 You can now fuse
+[74 388] [42 388].
+[END]
+12: 〉 An unfriendly man is standing here...
+[END]
+13: (Unfriendly man) [7a 46][13 1, 403213]Y−You're...! What's Koga Saburo doing!?
+[END]
+14: (Walter) [7a 4][13 1, 400203]If you're going to run, do so now.
+We won't stop you.
+[END]
+15: (Unfriendly man) [7a 46][13 1, 403012]Y−You don't need to tell me twice.
+My job ain't to fight you.
+[->]I'm only supposed to escort Mr. Tayama
+to Yamato... What happens after that
+ain't my problem.
+[END]
+16: (Unfriendly man) [7a 46]I'll let that divinity deal with ya...
+Go and die if ya want!
+[END]
+17: 〉 The unfriendly man quickly ran off...
+[END]
+104: 〉 The demon turned to stone...
+[END]
+108: 〉 A voice emanates from the stone in
+front of you...
+[END]
+111: 〉 The stone that was once Koga Saburo
+sits in front of you...
+[END]
+211: 〉 Koga Saburo is no longer here...
+[END]

@@ -1,0 +1,154 @@
+0: 〉 An angel stands along the path...
+[END]
+1: (Aniel) [7a 65519][13 0, 663000]Honorable Samurai.
+I thank you for taking this quest.
+[->][13 0, 663001]I beseech thee to slay four demons.
+[->][13 0, 663002]One of these demons resides in a
+place called [Color:0x5]Nakano,[Color:0x0] and another in
+a place called [Color:0x5]Ryogoku.[Color:0x0]
+[->][13 0, 663003]The third in a place called [Color:0x5]Shiba,[Color:0x0]
+and the last can be found in a place
+called [Color:0x5]Komagome.[Color:0x0]
+[->][13 0, 663004]These four have been chosen as
+sacrifices to facilitate the creation
+of a certain angel.
+[->][13 0, 663005]The only Samurai we would entrust
+such a difficult task to... is thee.
+[->][13 0, 663006]Now, go. Hasten the completion of the
+ritual, for this is the will of our
+Lord.
+[END]
+2: (Aniel) [7a 65519]Thou must slay the demons residing in
+Nakano, Ryogoku, Shiba, and Komagome.
+[->]We are counting on you, [Flynn].
+Complete the ritual, for this is the
+Lord's will.
+[END]
+3: 〉 An angel appears before you...
+[END]
+4: (Messenger Angel) [7a 65460][13 0, 663007]Magnificent work, [Flynn].
+[->][13 0, 663008]I have been sent by Aniel to retrieve
+this demon's head.
+[->][13 0, 663009]This shall become the head of a lion.
+Let it now be sent to the Lord's side.
+[END]
+5: 〉 The angel dispatched by Aniel
+rips the demon's head off...
+[END]
+6: (Messenger Angel) [7a 65460][13 0, 663010]Now, go. You must slay the demons
+that remain.
+[END]
+7: 〉 The angel leaves...
+[END]
+8: 〉 An angel appears before you...
+[END]
+9: (Messenger Angel) [7a 65460][13 0, 663011]Magnificent work, [Flynn].
+[->][13 0, 663012]I have been sent by Aniel to retrieve
+this demon's head.
+[->][13 0, 663013]This shall become the head of a bull.
+Let it now be sent to the Lord's side.
+[END]
+10: 〉 The angel dispatched by Aniel
+rips the demon's head off...
+[END]
+11: (Messenger Angel) [7a 65460][13 0, 663014]Now, go. You must slay the demons
+that remain.
+[END]
+12: 〉 The angel leaves...
+[END]
+13: 〉 An angel appears before you...
+[END]
+14: (Messenger Angel) [7a 65460][13 0, 663015]Magnificent work, [Flynn].
+[->][13 0, 663016]I have been sent by Aniel to retrieve
+this demon's head.
+[->][13 0, 663017]This shall become the head of an eagle.
+Let it now be sent to the Lord's side.
+[END]
+15: 〉 The angel dispatched by Aniel
+rips the demon's head off...
+[END]
+16: (Messenger Angel) [7a 65460][13 0, 663018]Now, go. You must slay the demons
+that remain.
+[END]
+17: 〉 The angel leaves...
+[END]
+18: 〉 An angel appears before you...
+[END]
+19: (Messenger Angel) [7a 65460][13 0, 663019]Magnificent work, [Flynn].
+[->][13 0, 663020]I have been sent by Aniel to retrieve
+this demon's head.
+[->][13 0, 663021]This shall become the head of a man.
+Let it now be sent to the Lord's side.
+[END]
+20: 〉 The angel dispatched by Aniel
+rips the demon's head off...
+[END]
+21: (Messenger Angel) [7a 65460][13 0, 663022]Now, go. You must slay the demons
+that remain.
+[END]
+22: 〉 The angel leaves...
+[END]
+23: (Voice from the sky) [7a 1][13 0, 663023]All the heads have now been gathered.
+[END]
+24: (Aniel) [7a 65519][13 0, 663024]The time has come to bring the Seraph
+into this world.
+[->][13 0, 663025]Let us begin. Bring forth the four
+heads for the sacrifice...
+[END]
+25: (Seraph) [7a 65524][13 0, 663032]I am the angel of the Lord's burning
+flame. The children of men refer to
+me as Seraph...
+[END]
+26: (Aniel) [7a 65519][13 0, 663033]The Seraphs are the highest−ranking
+of the angels, as well as our greatest
+weapons... the very flame of God.
+[->][13 0, 663034]With this power, we are now prepared
+for the great battle that is
+forthcoming.
+[END]
+27: 〉 Aniel and the Seraph leave...
+[END]
+28: (Aniel) [7a 1][13 0, 663026]Matthew, in the center.
+[END]
+29: (Aniel) [7a 1][13 0, 663027]John, to the right.
+[END]
+30: (Aniel) [7a 1][13 0, 663028]Mark, to the left.
+[END]
+31: (Aniel) [7a 1][13 0, 663029]Luke, at the bottom.
+[END]
+32: (Aniel) [7a 1][13 0, 663030]Now, by the names of the saints,
+show us your radiant form...
+[->][13 0, 663031]...and show us the land where the
+saints are born.
+[END]
+33: 〉 The angel draws four characters
+on the ground and places one of the
+heads on each...
+[END]
+34: 〉 A blinding light envelops the
+human head, and it disappears.
+[END]
+35: 〉 A blinding light envelops the
+eagle head, and it disappears.
+[END]
+36: 〉 A blinding light envelops the
+lion head, and it disappears.
+[END]
+37: 〉 A blinding light envelops the
+bull head, and it disappears.
+[END]
+38: 〉 The Seraph remains silent and
+continues to radiate light...
+[END]
+39: (Aniel) [7a 65519][13 0, 663035]...Now, this Seraph and I shall return
+to the Lord's side.
+[->][13 0, 663036]If thou art in need of the Seraph's
+power, gather the appropriate
+angels.
+[->][13 0, 663037]The song of the angels shall be a
+beacon that draws a Seraph forth.
+[->][13 0, 663038]I thank thee for thy efforts.
+May the Lord's blessing be upon you.
+[END]
+900: 〉 There is no one here...
+[END]

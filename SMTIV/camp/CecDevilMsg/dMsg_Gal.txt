@@ -1,0 +1,27 @@
+0: [71 1]Oooh, that was fun! What world
+should I turn into Hell next?
+[->][END]
+1: [71 1]I was totally kicking ass! I wasn't
+just helping, I was, like, the star!
+[->][END]
+2: [71 1]I became even stronger!
+Let your demons go free!
+[->][END]
+3: [71 1]Sorry to keep you waiting! I'll
+show you how cool my new body is.
+[->][END]
+4: [71 1]I don't know what happened, I was
+just fusing with anybody who was
+there. But this is pretty good, right?
+[->][END]
+5: [71 1]Well... Take care of the new me.
+[->][END]
+6: [71 1]I bought like, too many souvenirs.
+...You can have my extra ones.
+[->][END]
+7: [71 1]I brought everybody gifts.
+Oh, and you, too.
+[->][END]
+8: [71 1]Here's a souvenir!
+Isn't it totally perfect for you?
+[->][END]

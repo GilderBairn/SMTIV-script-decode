@@ -1,0 +1,487 @@
+0: 〉 A giant temple stands ahead...
+[END]
+1: Enter
+Leave
+[END]
+2: (Brawny man) [7a 53][13 0, 135001]...You have come, my brother. Lady
+Yuriko knows all.
+[END]
+3: (Brawny man) [7a 53][13 0, 135002]We caught an intruder... Some punk
+from the Ashura−kai.
+[END]
+4: (Brawny man) [7a 53][13 0, 135003]I'm on patrol, so I can't escort you,
+but don't keep Lady Yuriko waiting.
+[END]
+5: 〉 The large man walks away...
+[END]
+6: (Glaring man) [7a 46][13 0, 135004]Oh... You came...?
+[END]
+7: (Glaring man) [7a 46][13 0, 135005]Because you took so long... Mr. Tayama
+sent us instead...
+[END]
+8: (Glaring man) [7a 46][13 0, 135006]Y... You can't get in from the front.
+But under... the bench...
+[->][13 0, 135007]There's... a manhole... Open it...
+and a hidden pa...
+[END]
+9: 〉 The man falls to the ground, with
+his eyes still open...
+[END]
+10: Head inside
+Head to the bench
+Leave
+[END]
+11: 〉 The gate is tightly closed.
+It doesn't seem like you can
+go any further...
+[END]
+12: 〉 [Flynn] opens the manhole cover
+underneath the bench...
+[->]〉 [Flynn] climbs down the ladder
+and enters Tsukiji Hongwanji.
+[END]
+13: (Brawny man) ......
+[END]
+14: 〉 A brawny man is standing in
+the way...
+[->]〉 The man looks straight into
+[Flynn]'s eyes...
+[END]
+15: (Brawny man) [7a 53][13 0, 135021]...You don't need to say it. I can see
+it in your eyes. You didn't sign the
+application, did you?
+[->][13 0, 135022]Sign it and bring it to me.
+[END]
+16: (Burroughs) [7a 2][13 0, 135023]Did you accept your challenge quest?
+Check your Gauntlet.
+[END]
+17: (Brawny man) ......
+[END]
+18: 〉 A brawny man is standing in
+the way...
+[->]〉 The man looks straight into
+[Flynn]'s eyes...
+[END]
+19: (Brawny man) [7a 53][13 0, 135024]You don't need to to say it. I can
+tell you signed the application.
+[->][13 0, 135025]So let me explain how the test goes.
+[END]
+20: 〉 The brawny man takes out a candle
+and lights it...
+[END]
+21: (Brawny man) [7a 53][13 0, 135026]The idea is to reach the main temple
+before this candle burns out.
+[END]
+22: (Brawny man) [7a 53][13 0, 135027]The candle depletes as time passes
+during battle.
+[END]
+23: (Brawny man) [7a 53][13 0, 135028]Also, this ain't a group effort.
+You all gotta take it separately.
+[END]
+24: (Walter) [7a 4][7b 65540, 65537]Well, all right. We can all pass
+this test, isn't that right?
+[END]
+25: (Jonathan) [7a 3][13 0, 135029][7b 65539, 65537]I would rather not... but for the sake
+of our captive fellow...
+[->][13 0, 135030]I wish you all good luck. May we meet
+again in the main temple.
+[END]
+26: 〉 Jonathan and the others take
+candles from the brawny man and
+light them...
+[->]〉 Jonathan and the others leave
+one by one.
+[END]
+27: (Walter) [7a 4][13 0, 135031][7b 65540, 65537]A fairly elaborate test, eh? I like it.
+[->][13 0, 135032]I look forward to demonstrating my
+strength. I'll see the rest of you at
+the main temple, yes?
+[END]
+28: 〉 Walter and the others take
+candles from the brawny man and
+light them...
+[->]〉 Walter and the others leave one
+by one.
+[END]
+29: (Isabeau) [7a 5][13 0, 135033][7b 65541, 65537]I'd wager a man dreamed up this test...
+Walter will be pleased, I expect.
+[->][13 0, 135034]I'll give it a go. I hope to see you
+again at the main temple...
+[END]
+30: 〉 Isabeau and the others take
+candles from the brawny man and
+light them...
+[->]〉 Isabeau and the others leave one
+by one.
+[END]
+31: 〉 Jonathan, Walter, and Isabeau
+have all decided to go seperately.
+[END]
+32: (Brawny man) [7a 53][13 0, 135035]All right, it's your turn. Head for
+the main temple.
+[END]
+33: 〉 The man lights a candle and hands
+it to [Flynn]...
+[->]〉 [Flynn] is now carrying a lit
+candle.
+[END]
+34: (Burroughs) [7a 2][13 0, 135036]I've set it up so that you can see
+the status of your candle...
+[->][13 0, 135037]It'll be visible when you open the
+menu and during battle.
+[->][13 0, 135038]Show them what you've got,
+Master [Flynn].
+[END]
+35: (Brawny man) [7a 53][13 0, 135039]Where are you going? You quitting
+the test?
+[END]
+36: ”I am done with this.”
+”No, I will finish it.”
+[END]
+37: (Brawny man) [7a 53][13 0, 135041]Hmph... Guess you're all talk.
+[END]
+38: (Brawny man) [7a 53][13 0, 135042]Call your friends here.
+[END]
+39: 〉 [Flynn] calls the others using
+his Gauntlet...
+[END]
+40: (Jonathan) [7a 3][13 0, 135043][7b 65539, 65537]I could keenly feel my lack of
+experience when fighting alone...
+What did you need, by the by?
+[END]
+41: (Walter) [7a 4][13 0, 135044][7b 65540, 65537]Is something wrong? I was on a roll.
+[END]
+42: (Isabeau) [7a 5][13 0, 135045][7b 65541, 65537]Are you all right? Why did you call
+so suddenly? Has something gone
+wrong...?
+[END]
+43: (Brawny man) [7a 53][13 0, 135046][Flynn] has given up.
+[->][13 0, 135047]And anyone who's gathered around such
+a weakling couldn't possibly be fit
+to join us.
+[END]
+44: (Brawny man) [7a 53][13 0, 135048]You all fail.
+[END]
+45: 〉 The brawny man and his fellows
+bodily lift [Flynn] and the others
+and throw them out.
+[END]
+46: (Brawny man) [7a 53][13 0, 135040]Then get back at it.
+[END]
+47: (Brawny man) [7a 53][13 0, 135049]Is that all you got?
+[->][13 0, 135050]What're you gonna do now? Give up?
+[END]
+48: ”One more time.”
+”I'm done here.”
+[END]
+49: (Brawny man) [7a 53][13 0, 135051]Hrm... You don't know when to quit.
+All right, take this.
+[END]
+50: 〉 The man lights a candle and hands
+it to [Flynn]...
+[->]〉 [Flynn] is now carrying a lit
+candle.
+[END]
+51: (Brawny man) [7a 53][13 0, 135052]You again? You don't learn, do you?
+[END]
+52: (Brawny man) [7a 53][13 0, 135053]If you really want to take the test,
+sign the electronic application and
+come back to me.
+[END]
+53: (Burroughs) [7a 2][13 0, 135023]Did you accept your challenge quest?
+Check your Gauntlet.
+[END]
+54: (Brawny man) [7a 53][13 0, 135055]Back to try the test again, huh?
+[END]
+55: ”That's right.”
+”Not this time.”
+[END]
+56: (Brawny man) [7a 53][13 0, 135056]Yeah, probably for the best. You
+wouldn't want to make your parents
+cry over your grave.
+[END]
+57: 〉 The muscular men grab [Flynn]
+and the others and drag them
+outside...
+[END]
+58: (Jonathan) [7a 3][13 0, 135057][7b 65539, 65537]This time, we'll meet back at the
+main temple. Best of luck, everyone.
+[END]
+59: 〉 Jonathan and the others take
+candles from the brawny man and
+light them...
+[->]〉 Jonathan and the others leave
+one by one.
+[END]
+60: (Walter) [7a 4][13 0, 135058][7b 65540, 65537]Very well, as long as SOMEONE can keep
+his head about him, we'll meet at the
+main temple.
+[END]
+61: 〉 Walter and the others take
+candles from the brawny man and
+light them...
+[->]〉 Walter and the others leave one
+by one.
+[END]
+62: (Isabeau) [7a 5][13 0, 135059][7b 65541, 65537]This tedious ordeal... It is quite
+difficult, but I'm game.
+[END]
+63: 〉 Walter and the others take
+candles from the brawny man and
+light them...
+[->]〉 Isabeau and the others leave one
+by one.
+[END]
+64: 〉 Jonathan, Walter, Isabeau, and
+[Flynn] have decided to split up...
+[END]
+65: (Brawny man) [7a 53][13 0, 135060]All right, it's your turn. Head for
+the main temple.
+[END]
+66: 〉 The man lights a candle and hands
+it to [Flynn]...
+[->]〉 [Flynn] is now carrying a lit
+candle.
+[END]
+67: (Brawny man) [7a 53][13 0, 135008]This is the head temple of the Ring
+of Gaea.
+[END]
+68: (Brawny man) [7a 53][13 0, 135009]You here to join the Ring, too?
+[->][13 0, 135010]Hmph... There've been so many of you
+lately it's been a headache
+keeping track of you all.
+[->][13 0, 135011]You probably only want to ride the
+Ring of Gaea's coattails...
+[->][13 0, 135012]Go back to the underground districts
+and wag your tails for Tayama like the
+dogs you are.
+[END]
+69: (Walter) [7a 4][13 0, 135013][7b 327684, 65537]I'm no one's dog.
+[END]
+70: (Jonathan) Walter...
+[END]
+71: (Walter) I'm only making myself clear.
+I call no man master.
+[END]
+72: (Brawny man) [7a 53][13 0, 135014]Oh yeah? Then take our entrance test.
+We'll see whether you've got the
+stones to back up those words.
+[->][13 0, 135015]......
+[->][13 0, 135016]...There we go!
+[END]
+73: 〉 The man skillfully enters a series
+of commands into his smartphone.
+[END]
+74: (Brawny man) [7a 53][13 0, 135017]I sent the electronic application to
+your terminal.
+[->][13 0, 135018]Sign it and bring it to me.
+[END]
+75: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[->][13 0, 135020]I've registered this one as a
+Challenge Quest.
+[END]
+76: 〉 The candle has gone out...
+[END]
+77: 〉 You hear the brawny man's voice
+from above...
+[END]
+78: (Voice) [7a 53][13 0, 135061]...I saw already. Your candle's out.
+[END]
+79: (Voice) [7a 53][13 0, 135062]The test is over. You fail.
+[END]
+80: 〉 You hear the brawny man's voice
+from above...
+[END]
+81: (Voice) [7a 53][13 0, 135063]...I saw already. You gave up.
+[END]
+82: (Voice) [7a 53][13 0, 135064]The test is over. You fail.
+[END]
+83: (Ring of Gaea member) [7a 54][13 0, 136001]Oh ho... I see you've come this far
+with the flame intact.
+[END]
+84: (Ring of Gaea member) [7a 54][13 0, 136002]The main temple you're looking for is
+right in front of you.
+[->][13 0, 136003]But if you want to pass... you must
+prove your strength to me.
+[END]
+85: (Ring of Gaea member) [7a 54][13 0, 136004]...Are you ready?
+[END]
+86: ”Face me!”
+”Give me a moment.”
+[END]
+87: (Ring of Gaea member) [7a 54][13 0, 136005]You hesitate after coming so far?
+Pitiful...
+[END]
+88: (Ring of Gaea member) [7a 54][13 0, 136006]Have you finally come to a decision?
+I tire of waiting.
+[END]
+89: 〉 A giant statue of a goddess
+reclining on her side dominates
+the area ahead...
+[END]
+90: (Jonathan) [7a 3][13 0, 138001]Ah, you arrived... I managed to
+scrape by as well.
+[END]
+91: (Jonathan) [7a 3][13 0, 138002][7b 65539, 65537]It seems we all made it.
+[END]
+92: (Walter) [7a 4][13 0, 138003]Hoy, what held you up? Don't tell me
+you actually had trouble back there.
+[END]
+93: (Walter) [7a 4][13 0, 138004][7b 262148, 65537]My candle's still lit. I wish that
+I could have had freer reign to
+let loose...
+[END]
+94: (Isabeau) [7a 5][13 0, 138005]It seems this tedious ordeal has
+safely come to its conclusion.
+[END]
+95: (Isabeau) [7a 5][13 0, 138006][7b 720901, 65537]Not that I thought it would turn out
+differently, given that you were
+involved.
+[END]
+96: (Ring of Gaea monk) [7a 53][13 0, 138007]The test is at an end. You have all
+passed.
+[->][13 0, 138008]You won't be needing those candles
+any longer.
+[END]
+97: 〉 [Flynn] and the others hand
+their candles to the monk.
+[END]
+98: (Ring of Gaea monk) [7a 53][13 0, 138009]The skills you displayed today were
+a marvel to behold.
+[->][13 0, 138010]Though of course, we expect you to
+be that strong. Otherwise you would
+not be allowed near Lady Yuriko.
+[END]
+99: (Ring of Gaea monk) [7a 53][13 0, 138011]You were sent by Tayama, yes...?
+[END]
+100: (Jonathan) [7a 3][13 0, 138012][7b 458755, 65537]What...!?
+[END]
+101: 〉 The floor suddenly drops open...
+[END]
+102: (Jonathan) [13 0, 138013]Waaaaaaaaaaaaaa...!
+[END]
+103: (Walter) [13 0, 138014]Whooooooooooa...!
+[END]
+104: (Isabeau) [13 0, 138015]Ahhhhhhhhhhhhhh...!
+[END]
+105: (Ring of Gaea woman) [7a 54][13 0, 136007]That makes four of you...
+[->][13 0, 136008]Samurai from the Firmament... It seems
+you are a force to be reckoned with.
+[END]
+106: (Burroughs) ...That means everyone else made it.
+[END]
+107: (Ring of Gaea woman) [7a 54][13 0, 136009]Now proceed.
+[END]
+111: 〉 There is a manhole cover under
+the bench...
+[->]〉 It seems tightly sealed.
+You don't think you can open it...
+[END]
+112: Head inside
+Head to the bench
+Leave
+[END]
+135: 〉 The brawny man stands in your
+way...
+[END]
+167: 〉 A large man stands in the way...
+[END]
+183: 〉 A female member of the Ring of
+Gaea stands in the way...
+[END]
+211: (Voice) [13 1, 404301][7a 1]...Halt.
+[END]
+212: (Demon) [7a 65121]The Demon Lord Lucifer has been
+resurrected.
+[->]The Lord is currently at
+Camp Ichigaya, planning a way to
+eliminate the angels.
+[->]Our comrades have already begun to
+take action. The first attacks
+should begin soon.
+[END]
+311: (Ring of Gaea member) [7a 51][13 1, 404303]We have closed off that entrance.
+Not a single vile rat will survive.
+[->]If you wish to meet Lady Yuriko,
+enter through the front gates.
+[END]
+312: (Demon) [7a 65121]Ah, Lord Lucifer, it is a great
+honor for you to stop to speak with
+me...
+[->]All our comrades have headed to
+Naraku. Once you have completed your
+preparations, please go there, sir.
+[->]We demons are eager to walk once
+more in the light of the sun...
+[END]
+412: (Demon) [7a 65121]The angels have already been
+defeated by someone else.
+...Is fate on our side now?
+[->]No! Lord Lucifer believes that those
+who slew the angels will soon turn
+against us as well.
+[->]Lord Lucifer will wait for the ones
+who did this to show themselves,
+and he'll challenge them personally.
+[END]
+512: (Former member) [7a 51]Lady Yuriko has fallen during our
+battle with the Ashura−kai.
+[->]Now that the demon army has been
+defeated, the world of chaos we
+sought is further away than ever.
+[->]Soon, any chaos remaining in this
+world will be nothing but a memory...
+[END]
+612: (Former member) We lost contact with Lady Yuriko
+after she left for Naraku.
+[->]Now that the demon army has been
+defeated, the world of chaos we
+sought is further away than ever.
+[->]Soon, any chaos remaining in this
+world will be nothing but a memory...
+[END]
+900: For the option ”Head to the bench” 
+since you cannot enter the hidden passage another text will be activated.
+[END]
+1000: (Ring of Gaea member) [13 1, 404311][7a 53]Ah, you have arrived. Welcome,
+brother. There is no need for
+explanation; I know why you are here.
+[->]Lady Yuriko awaits your arrival.
+...Come with me.
+[END]
+1001: 〉 [Flynn] and Walter follow the
+man...
+[END]
+1002: 〉 [Flynn] and Walter are led to
+a room with two pillars.
+[END]
+1003: (Voice) [13 1, 404301][7a 1]...Halt.
+[END]
+1004: (Ring of Gaea member) [7a 53]Lady Yuriko should have already
+told you that now is the time to
+release the gates to the Expanse...
+[->]Now, my brother, you must go
+quickly to Camp Ichigaya...
+[END]
+1005: (Ring of Gaea member) [7a 53][13 1, 404311]...It would seem that Lady Yuriko
+has told you everything now.
+[->]Let us go back.
+...Come with me.
+[END]
+1006: 〉 [Flynn] and Walter follow the
+man back...
+[END]
+1007: 〉 [Flynn] and Walter have returned
+to the entrance.
+[END]
+1008: (Burroughs) [7a 2][13 1, 400005]That bench over there... There seems
+to be a hole underneath it. Perhaps
+it leads to a tunnel...
+[END]
+1100: 〉 A man in the Ring of Gaea stands
+in the way...
+[END]
+1103: 〉 A man in the Ring of Gaea stands
+in the way...
+[END]

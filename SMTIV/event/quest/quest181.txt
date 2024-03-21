@@ -1,0 +1,15 @@
+0: Child of man, known as the Intruder...
+Do you not want to see if you can defeat
+the [Color:0x5]demons of Revelations[Color:0x0] known as the
+Messengers of the Apocalypse? I have sealed
+them deep within the city of [Color:0x5]Ikebukuro.[Color:0x0]
+Show me what you Intruders can do.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

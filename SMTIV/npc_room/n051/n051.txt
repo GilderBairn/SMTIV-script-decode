@@ -1,0 +1,191 @@
+0: (Heavyset man) [7a 121][13 1, 403002]Are you taking on quests for the
+Ashura−kai...?
+[->]I don't care what your reasons are.
+You're helping those dirty kidnappers.
+[->]......
+Maybe I've said too much. You'll
+see what I mean soon enough.
+[END]
+1: (Heavyset man) [7a 121][13 1, 403002]In that moment when the light shined
+from Ichigaya, I saw a human−shaped
+figure.
+[->]A white figure... It reminded me of
+my daughter...
+[->]When I blinked, it was gone...
+[END]
+2: (Heavyset man) [7a 121][13 1, 403021]I just saw two shadows...
+...Two white shadows...
+[->]Somehow, they... They reminded me
+of my wife and daughter.
+[->]They asked me to join them.
+They said that things will be very
+hard for me here soon...
+[->]Without thinking, I said that I'd
+keep trying to do my best. Then they
+said, ”Farewell...”
+[END]
+3: (Icy−eyed woman) [7a 123][13 1, 403311]You know, I once worked in a club in
+Ginza. Tayama used to go there often.
+[->]He's kinda handsome, and a smooth
+talker. When he put his moves on
+the ladies, he rarely left alone...
+[->]But I hear that he bosses everyone
+around now. Well, technically, he
+is the boss of Tokyo, so...
+[END]
+4: (Icy−eyed woman) [7a 123][13 1, 403311]Come to think of it, nothing big has
+really happened in Tokyo for years...
+[->]The children who came from above
+the ceiling drove Tayama and Lady
+Yuriko into a massive war...
+[->]They have changed Tokyo...
+[END]
+5: (冷めた目の女) [7a 123][13 1, 403311]ああ…とうとう[発電炉/はつでんろ]を[巡/めぐ]って
+[戦争/せんそう]が[始/はじ]まったのね…[誰/だれ]かのせいで
+[END]
+6: (Icy−eyed woman) [7a 123][13 1, 403302]Ever since I saw you, Tokyo's been
+going through big changes.
+[->]I'm worried about what the demons are
+going to do... but I'm more worried
+about you.
+[->]Do you intend to save Tokyo?
+Or are you planning to destroy it?
+[END]
+7: (Icy−eyed woman) [7a 123][13 1, 403302]After you came through the ceiling
+to Tokyo, the city has changed.
+You have changed it.
+[->]Do you intend to save Tokyo?
+Or are you planning to destroy it?
+[->]By the way, aren't you rated in the
+top three in Tokyo? Why don't you
+use this power to save us?
+[END]
+8: (Icy−eyed woman) [7a 123][13 1, 403312]Hey, it's you... You're the one who
+came in from above...
+[->]Tokyo hadn't changed much in the
+past couple of years... And then
+you came along.
+[->]What exactly are you going to do to
+Tokyo? You don't seem to want to
+destroy it...
+[END]
+9: (Icy−eyed woman) [7a 123][13 1, 403302]Hey, it's you... You're the one who
+came in from above...
+[->]Tokyo hadn't changed much in the
+past couple of years... And then
+you came along.
+[->]No. It didn't really change. You've
+just restored the city into what it
+once was...
+[END]
+10: (Fierce man) [7a 60][13 1, 403202]I might not look it, but I used to be
+a master chef at a famous sushi bar
+in Ginza before Tokyo was covered up.
+[->]That Tayama was such a small fry that
+he wouldn't even have gotten in the
+door to my joint.
+[->]I mean, I've got pride. I would
+never live under his protection.
+[END]
+11: (Fierce man) [7a 60][13 1, 403212]Tayama wants us to live together
+with the demons by using the Reds...
+[->]Yuriko says that we need to get
+stronger so that we can live on
+equal footing with the demons...
+[->]What the hell? Aren't they both
+saying the same thing, pretty much?
+[END]
+12: (凄みのある男) [7a 60][阿修羅会/あしゅらかい]が[幅/はば]を[利/き]かせてるせいで
+[自由/じゆう]なビジネスが[阻害/そがい]されてるんだよ
+[->][連中/れんちゅう]を[潰/つぶ]してくれるんだったら
+[俺/おれ]は[大歓迎/だいかんげい]だぜッ
+[END]
+13: (Fierce man) [7a 60][13 1, 403202]Tayama and Yuriko, sworn enemies...
+They're no longer in Tokyo.
+[->]Tayama wanted us to live together
+with the demons by using the Reds...
+[->]Yuriko said that we need to get
+stronger so that we can live on
+equal footing with the demons...
+[->]...Aren't those essentially the same
+goal? I'm not missing something, am I?
+[END]
+14: (凄みのある男) [7a 60][総合/そうごう]ランキングとは ハンター[商会/しょうかい]も
+また[変/へん]な[企画/きかく][始/はじ]めたモンだな
+[->]だが これもまたチャンス…
+[便乗/びんじょう]すれば ひと[儲/もう]けできそうだぜッ
+[END]
+15: (Fierce man) [7a 60][13 1, 403202]Tayama wanted us to live together
+with the demons by using the Reds...
+[->]Yuriko said that we need to get
+stronger so that we can live on
+equal footing with the demons...
+[->]But the people decided to follow the
+champion, instead... People will
+choose who they want to be led by.
+[END]
+16: (凄みのある男) [7a 60][13 1, 403641][誰/だれ]かが[天使/てんし][軍/ぐん]を[始末/しまつ]したんだとさ
+まさか…[今/いま]の[混乱/こんらん]を[治/おさ]める[気/き]なのか?
+[->][余計/よけい]なことするなよ…ッ
+[混乱/こんらん]こそ[儲/もう]けるチャンスなんだぜ?
+[END]
+17: (Fierce man) [7a 60][13 1, 403202]Tayama wanted us to live together
+with the demons by using the Reds...
+[->]Yuriko said that we need to get
+stronger so that we can live on
+equal footing with the demons...
+[->]But you proposed something else.
+[->]Instead, you've given us hope.
+And that hope is stronger than the
+demons...
+[END]
+18: (Sallow man) [7a 79][13 1, 403642]I hear there's a special members−only
+shop in downtown Ginza.
+[->]That place only sells really
+expensive stuff. Of course, I've
+never set foot in there.
+[->]But I guess that people who will
+spend money in places like that are
+called ”celebrities”...
+[END]
+100: (Heavyset man) [7a 121][13 1, 403002]...You're headed for the area below
+Roppongi, huh? Then you're sure to
+see that thing...
+[->]I read an article about the
+Ashura−kai's kidnapping operations
+several years ago.
+[->]...That place is no longer the
+Roppongi Hills. It's Roppongi Hell.
+[END]
+101: (Heavyset man) [7a 121][13 1, 403002]In that moment when the light shined
+from Ichigaya, I saw a human−shaped
+figure.
+[->]A white figure... It reminded me of
+my daughter...
+[->]...She was taken by angels...
+[END]
+103: (Icy−eyed woman) [7a 123][13 1, 403311]You know, I once worked in a club in
+Ginza. Tayama used to go there often.
+[->]He always got a lot of attention from
+women, but because of his attitude,
+none of his relationships worked out.
+[->]Perhaps the reason why he's accepting
+this challenge from Yuriko is because
+he can't stand a woman with attitude.
+[END]
+200: (Heavyset man) [7a 121][13 1, 403002]If you are visiting Camp Ichigaya,
+I'm sure you will see that thing
+there...
+[->]A long time ago, I read an article
+saying that that's where the fine
+line between humans and demons is...
+[->]It's the very edge.
+[END]
+201: (Heavyset man) [7a 121][13 1, 403002]In that moment when the light shined
+from Ichigaya, I saw a human−shaped
+figure.
+[->]A white figure... It reminded me of
+my wife...
+[->]My wife was killed by demons when we
+were running away from Ichigaya...
+[END]

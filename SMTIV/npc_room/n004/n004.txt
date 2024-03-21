@@ -1,0 +1,312 @@
+0: (Stern Samurai) [7a 29][13 1, 403001]The Gauntlet you gained in that Rite is
+a critical tool for we Samurai.
+[->]”How so,” you ask? You will see its
+value in your training exercises...
+[END]
+1: (Stern Samurai) [7a 29][13 1, 403042]The Gauntlet you gained in that Rite is
+a critical tool for we Samurai.
+[->]Your experiences in training ought to
+have proven that much. You must master
+the device as soon as possible.
+[END]
+2: (Stern Samurai) [7a 29][13 1, 403002]Though you may be on leave, do not let
+your mind go on holiday as well. Always
+be ready for anything.
+[->]Wherever you find yourself, you will
+always be a Samurai. Even on holiday,
+you have your duties to attend to.
+[->]That said... You should visit the
+castle town, since you have your
+ticket of leave.
+[END]
+3: (Stern Samurai) [7a 29][13 1, 403042]I've decided to stay in the Eastern
+Kingdom of Mikado. You see, I heard that
+the Commander will do the same...
+[->]I'm a Samurai. If there is anyone I can
+trust with my life, it is he.
+[END]
+4: (Stern Samurai) [7a 29][13 1, 403043]I still bear a grudge against the
+disrespect Abbot Hugo showed to our
+Commander...
+[->]But oh, how proud I am that my fellow
+Samurai have captured the Black Samurai!
+[END]
+5: (Stern Samurai) [7a 29][13 1, 403002]After the execution, the Black Samurai's
+corpse was taken to the Monastery.
+[->]Her remains and effects are being held
+as relics. The Monastery shall conduct
+an examination of them.
+[END]
+6: (Stern Samurai) [7a 29][13 1, 403012]I heard this from a fellow who was
+guarding the Black Samurai's remains...
+[->]The Black Samurai opened the coffin by
+herself and gave him a beautiful, cold
+smirk...
+[->]And at that moment, the fellow swore he
+saw a monstrous silhouette that couldn't
+have been human...
+[END]
+7: (Stern Samurai) [7a 29][13 1, 403043]When someone styles himself a leader,
+I immediately feel a slight antipathy
+towards him.
+[->]But from their words, I feel an
+unmistakable tenderness...
+[->]If these new leaders wish to forge a
+future for us, I would follow them to
+see it realized.
+[END]
+8: (Stern Samurai) [7a 29][13 1, 403002]Thanks to our new leaders, demons are on
+the verge of being driven from this land.
+[->]We Samurai had to deceive the people
+about the existence of demons while we
+secretly worked to exterminate them...
+[->]But now I am free from the guilt that
+has tormented me so long. I owe our new
+leaders a sincere debt of gratitude...
+[END]
+9: (Stern Samurai) [7a 29][13 1, 403042]The Commander has just called an
+emergency meeting.
+[->]I saw Isabeau reporting to him...
+What is this about...?
+[END]
+10: (Imposing Samurai) [7a 116][13 1, 403003]I cannot believe Navarre was selected
+as one of the new Samurai...
+[->]He hails from a house of royal attendants
+and is quite well known for living a life
+of decadence.
+[->]I wonder if he is up to the task of
+upholding the Samurai code. It'll be
+hard going for us all, I suppose...
+[END]
+11: (Imposing Samurai) [7a 116][13 1, 403002]I've just seen Navarre. The boy was
+quite upset.
+[->]Muttering things like ”Casualries have
+no place dreaming of becoming Samurai”...
+[->]It'll be hard going for us all,
+I suppose...
+[END]
+12: (Imposing Samurai) [7a 116][13 1, 403042]Hoy... is everything all right? I mean
+regarding Navarre.
+[->]They say he's shut himself up in his
+room and refuses to eat.
+[->]And those who venture near tell me that
+through the closed door, they can hear
+him cackling like a madman...
+[END]
+13: (Imposing Samurai) [7a 116][13 1, 403002]I heard that Navarre was discharged
+from his duties as a Samurai.
+[->]Officially, his health was at fault,
+and the Abbot Hugo granted him an
+honorable discharge.
+[->]But in truth, Navarre begged his family
+to donate a sizable sum to make it
+happen.
+[->]Who else but the Luxurors could pull
+such strings? Ugh, merely the thought
+of it makes me like to vomit...
+[END]
+14: (Imposing Samurai) [7a 116][13 1, 403001]I have heard the news! You've done
+fantastic work! Your achievement will
+be recorded in the annals of history!
+[->]My, my... The Gauntlet chose some truly
+surprising recruits this year...
+[->]Hrm. By that logic, Navarre may have
+actually possessed some remarkable
+hidden talent as well...
+[END]
+15: (Imposing Samurai) [7a 116][13 1, 403011]What was it that Black Samurai said
+before she was executed? She claimed
+that she'd resurrect, yes?
+[->]Merely brave words from one facing the
+end. The battle is won!
+[END]
+16: (Imposing Samurai) [7a 116][13 1, 403021]Speaking as he who served as executioner,
+I can say with certainty that she was
+pierced in the vitals.
+[->]I felt the usual sensation of a lethal
+blow and the enemy's life ebbing. I'm not
+so dull as to miss an immobile target.
+[->]So once again, I assure you, I took her
+life. 'Twould be unthinkable for her to
+rise again after that.
+[END]
+17: (Imposing Samurai) [7a 116][13 1, 403042]Our new leaders have proclaimed that we
+must cast out all the unbelievers for
+the sake of our kingdom.
+[->]When I first heard the order, I doubted
+the report of my own ears.
+[->]But the new leaders are the sacred
+mouthpieces of the Lord...
+[->]And so I shall serve as executioner
+with pride and honor. This is the role
+I have been given...
+[END]
+18: (Imposing Samurai) [7a 116][13 1, 403042]Lately, my blade has been employed not
+against demons, but to smite the
+unbelievers...
+[->]But come the dawn of the new millennium,
+I shall be free of this burden.
+[->]That is what drives me to serve as
+executioner with pride and honor...
+The Lord is with me always.
+[END]
+19: (Imposing Samurai) [7a 116][13 1, 403001]If Isabeau has told me true, the Eastern
+Kingdom of Mikado is... no more...!
+[->]Have our new leaders lied to us!?
+But weren't we promised a new
+millennium...!?
+[END]
+20: (Intellectual Samurai) [7a 114][13 1, 403041]What was that fellow's name? Jonathan?
+He is a prentice of great promise.
+[->]He comes from a Luxuror family, he is
+a capable warrior, and he has a good
+head about his shoulders. A true elite.
+[END]
+21: (Intellectual Samurai) [7a 114][13 1, 403041]I have heard about you. You took the top
+spot in the training exercises, besting
+even Jonathan.
+[->]Everyone's eyes will be on you now,
+for both good and ill...
+[END]
+22: (Intellectual Samurai) [7a 114][13 1, 403042]You're the one who returned from the
+demon's Domain, yes? It is good that
+you returned alive.
+[->]There are countless records of Samurai
+killed in Domains...
+[->]It truly gladdens me to see you hale
+and whole.
+[END]
+23: (Intellectual Samurai) [7a 114][13 1, 403042]King Aquila must have had his reasons
+to establish the code and pass it down
+to us.
+[->]But Abbot Hugo dismissed it as an empty
+tradition.
+[->]The head of the Monastery and thus the
+kingdom has insulted our first king...!
+How dare he!?
+[END]
+24: (Intellectual Samurai) [7a 114][13 1, 403042]It was your tireless efforts that brought
+the Black Samurai to justice at last.
+[->]Hugo boasts that it was breaking the code
+which led to this heroic act, justifying
+his decision... But I do not accept this!
+[END]
+25: (Intellectual Samurai) [7a 114][13 1, 403042]The Black Samurai seemed to have a face
+similar to Sister Gabby's. Or was it
+an exact match for hers...?
+[->]I examined the Black Samurai's corpse,
+you know. She had the same mole below
+the eye as Sister Gabby.
+[->]One serves the Lord... the other defies
+Him. And they share a face...?
+[END]
+26: (Intellectual Samurai) [7a 114][13 1, 403042]The Black Samurai seemed to have a face
+similar to Sister Gabby's. Or was it
+an exact match for hers...?
+[->]I examined the Black Samurai's corpse,
+you know. She had the same mole below
+the eye as Sister Gabby.
+[->]I know it amounts to nothing... but I
+cannot abandon my suspicions toward
+Sister Gabby...
+[END]
+27: (Intellectual Samurai) [7a 114][13 1, 403002]There's no ruler in this kingdom.
+No king... No underhanded Luxurors...
+[->]The Eastern Kingdom of Mikado has been
+reborn... In God's name, we have all
+come together as one.
+[END]
+28: (Intellectual Samurai) [7a 114][13 1, 403042]We've destroyed the Aquila Statue and
+scraped off the writings from the
+Obelisk...
+[->]The true reason our people were becoming
+demons was the surfeit of choice caused
+by the knowledge and wisdom they found.
+[->]Our duty is to protect the peace of
+this kingdom. I'm sure that King Aquila
+will forgive us...
+[END]
+29: (Intellectual Samurai) [7a 114][13 1, 403002]Ah... [Flynn]...! It has been so
+long, my dear fellow...!
+[->]Look at this... We've destroyed the
+Aquila Statue on orders from our new
+leaders.
+[->]They said that to revere any but God
+in this kingdom would be idolatry.
+[->]But if we knew that the kingdom would
+perish, we would not have had to
+perform such a hateful deed...
+[END]
+30: (Smiling Samurai) [7a 117][13 1, 403002]So we have two Samurai from the
+Casualries this year, eh?
+[->]You and... Who was the other? Ah, right,
+Walter from that fishing village, yes?
+[END]
+31: (Baritone Samurai) [7a 117][13 1, 403041]Abbot Hugo announced that the Terminal
+is back in service.
+[->]Now we can approach Tokyo, the country
+of the Unclean Ones, without going
+through Naraku.
+[END]
+32: (Baritone Samurai) [7a 117][13 1, 403021]I hear executions bandied about quite
+often of late. I suppose Abbot Hugo is
+fond of the phrase...
+[->]We have ”executed” many of those who
+became demons by reading Literature...
+[->]Abbot Hugo told us to think of them as
+”executions” rather than ”cold−blooded
+murder.” If those are his wishes...
+[END]
+33: (Baritone Samurai) [7a 117][13 1, 403002]If the Black Samurai has resurrected...
+We must start the executions anew...
+[->]More of those who turn to demons must
+be put to the sword...
+[END]
+34: (Baritone Samurai) [7a 117][13 1, 403021]I have never met the new leaders
+in person...
+[->]But the fact that all the demons have
+disappeared from the kingdom is proof
+enough of their presence...
+[END]
+111: (Imposing Samurai) [7a 116][13 1, 403002]I've just seen Navarre. He was smirking
+for some reason...
+[->]Muttering something about ”a lesson
+those Casualries won't soon forget”...
+[->]It'll be hard going for us all,
+I suppose...
+[END]
+128: (Intellectual Samurai) [7a 114][13 1, 403011]Oh! I'm ever so glad you came!
+[->]A stream of demons came from Naraku!
+So many of our fellows are dead...
+[->]We've destroyed the Aquila Statue and
+scraped off the writings from the
+Obelisk...
+[->]Though we did this on orders from our
+new leaders... P−Perhaps 'tis King
+Aquila's curse...
+[END]
+129: (Intellectual Samurai) [7a 114][13 1, 403002]The people of the kingdom have already
+departed.
+[->]The Samurai have taken up the job of
+escorting the people as guards, taking
+them safely to a place called Shinjuku.
+[->]We who remain are patrolling each
+region to ensure none are left behind.
+[END]
+211: (Imposing Samurai) [7a 116][13 1, 403002]I've just seen Navarre headed for
+Naraku... The odd thing was, he was
+skipping.
+[->]Muttering something about ”The Casualries
+are finished!” He seemed very happy
+for some reason.
+[->]Perhaps he's finally found his feet as
+a Samurai. In which case, I should be
+cheering him on, shouldn't I?
+[END]
+311: (Imposing Samurai) [7a 116][13 1, 403002]Hoy... is everything all right? I mean
+regarding Navarre.
+[->]I saw Jonathan carrying him to the
+barracks.
+[->]He didn't seem hurt, but he was cackling
+like a madman...
+[END]

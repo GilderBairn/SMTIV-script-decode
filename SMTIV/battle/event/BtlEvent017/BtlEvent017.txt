@@ -1,0 +1,6 @@
+0: (Burroughs) [7a 2][13 1, 400002]...Be careful.
+[END]
+1: 〉 The demon seems up for a fight.
+[END]
+10: 〉 The Corpses are writhing in pain...
+[END]

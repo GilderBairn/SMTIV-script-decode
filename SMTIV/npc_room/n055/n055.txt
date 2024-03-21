@@ -1,0 +1,122 @@
+0: (Isabeau) [7a 5][13 1, 400301]I was startled when the Gauntlet gleamed
+during the Rite as well. It's all so
+very mysterious...
+[->]But this ”Burroughs,” was it? I'm very
+reassured to have her guidance.
+[END]
+1: (Timid Samurai) [7a 117]I see... True, you have only just
+finished your training. Be sure that
+you rest well, yes?
+[END]
+2: (Timid Samurai) [7a 117][13 1, 403042]Thinking on it, I had assumed that it
+would be simplicity itself to find relics
+in the cavern...
+[->]But now we are destined for the Unclean
+Ones' country, which we do not know for
+a certainty exists, yes?
+[->]I am beginning to regret the day I was
+chosen as a Samurai...
+[END]
+3: (Angel) [7a 65463][13 1, 412102]Ah, warrior of light. I can sense your
+holy shine... the Lord's blessing
+emanating from you.
+[->]Our Lord is surely eager for you to
+annihilate the Filth below.
+[->]Go and defeat the demons to restore
+order and peace to His chosen sons
+of man.
+[END]
+4: (天使) [7a 65460][13 1, 412000][神/かみ]よ [私/わたし]たちにご[加護/かご]を…
+[END]
+6: (Honest Samurai) [7a 116][13 1, 403003]You do well to step so fearlessly into
+Naraku, my brilliant fellow Samurai.
+[->]Forgive me for being forward, but if you
+like, I could share some knowledge on
+the finer points of the Samurai trade.
+[END]
+7: Ask him for advice
+Decline his offer
+[END]
+8: (Honest Samurai) [7a 116]We Samurai are charged with performing
+two primary roles...
+[->]First, we must slay the demons that
+continue to appear in Naraku.
+[->]”Demons” are monsters which attack humans
+on sight. They must be slain before they
+escape into the wild.
+[->]Our other task relates to mystic relics.
+But you should ask the others further
+within about these.
+[END]
+9: (Honest Samurai) [7a 116]Ah, what a shame. If you think better
+of it, I shall be here.
+[END]
+10: (Angel) [7a 65463][13 1, 412105]You, son of man who rejected our Lord's
+salvation and chose the thorned path...
+[->]There can be no peace without the Lord's
+blessing. That is because the creator of
+all things is...
+[->]But I need not finish that thought.
+So then, until the day you require us
+once more...
+[END]
+11: (Angel) [7a 65463][13 1, 412105]You who have rejected the temptation of
+the demons and chosen to remain a son
+of man...
+[->]Your kind and the demons will be separate
+for a time, just as are. But the day of
+reunion will be not long in coming.
+[->]Since days of old, the sons of man have
+been fertile soil for the demonic.
+That is why we exist...
+[END]
+100: (Isabeau) [7a 5][13 1, 400302]”Find an 'article of interest'”!
+'Tis like trying to grapple with fog...
+[->]But if this is what makes a Samurai, then
+I shall rise to the challenge!
+[END]
+101: (Timid Samurai) [7a 117][13 1, 403002]Hoy, prentice. Working hard at your
+training, I hope?
+[->]Would you like a bit of guidance? Call
+it an extracurricular lesson...
+[END]
+102: (Timid Samurai) [7a 117][13 1, 403042]A−Ah, it's you... You've reached the
+Unclean Ones' country, they tell me.
+[->]Now I've no excuses left to make...
+I, too, must eventually venture into
+the land called Tokyo.
+[->]I am beginning to regret the day I was
+chosen as a Samurai...
+[END]
+200: (Isabeau) [7a 5][13 1, 400301]These Challenge Quests... They are more
+rigorous than I had thought.
+[->]The Samurai must be a doughty crew
+indeed if these are what they consider
+idle entertainment.
+[END]
+201: Ask him for advice
+Decline his offer
+[END]
+300: (Isabeau) [7a 5][13 1, 400301]I saw Walter but a moment ago, talking
+with one of the Masters.
+[->]After that, I know not where he went.
+Though I think it may have been deeper
+into Naraku...
+[END]
+301: (Timid Samurai) [7a 117]There are mystic objects known as [Color:0x5]relics[Color:0x0]
+buried within Naraku that cannot be
+found aboveground.
+[->]I do not know their true nature, but you
+lose nothing by collecting them.
+[->]They are found everywhere within Naraku.
+Should you find any, I suggest that you
+hold on to them.
+[END]
+401: (Timid Samurai) [7a 117]Ah, but you are in the midst of training!
+I am sorry to have disturbed you.
+[END]
+501: (Timid Samurai) [7a 117][13 1, 403002]Hoy, prentice. Working hard at your
+training, I hope?
+[->]Would you like a bit of guidance? Call
+it an extracurricular lesson...
+[END]

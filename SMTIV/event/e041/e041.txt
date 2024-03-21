@@ -1,0 +1,84 @@
+0: (Isabeau) [7b 655365, 131073][7a 5][13 0, 400302]Ooh...
+[END]
+1: (Walter) [7a 4][7b 262148, 65537][7b 65539, 131073][13 0, 41002]There... It's Isabeau! Let's sneak
+closer and surprise her.
+[END]
+2: (Walter) [7a 4][7b 262148, 65537]There... It's Isabeau! Let's sneak
+closer and surprise her.
+[END]
+3: (Jonathan) [7a 3][7b 524291, 65537][13 0, 41003]I don't think she'll be very pleased
+if you try that...
+[END]
+4: (Walter) [7a 4][7b 262148, 65537][13 0, 41004]That's the idea! I want to see that
+prim, iron mask of hers slip. To see
+those cold cheeks flush pink...
+[END]
+5: (Isabeau) [7a 5][7b 131077, 65537][13 0, 41005]And whose iron mask are we speaking of?
+[END]
+6: (Walter) [7a 4][13 0, 41006]Gah...!?
+[END]
+7: (Isabeau) [7a 5][7b 524293, 131073][13 0, 41008]Can't you be voyeurs in silence?
+[->][13 0, 41009]The din is making it difficult to
+concentrate on my reading.
+[END]
+8: (Walter) [7a 4][7b 655364, 65537][13 0, 41010]Your reading? Isabeau, don't tell
+me you're a devotee of that 
+”Literature” too...
+[END]
+9: (エラー) Not used
+[END]
+10: (Isabeau) [7a 5][7b 65541, 196609][13 0, 41011]I'm sorry, but what? What I was
+reading is something called ”manga.”
+[END]
+11: 〉 Isabeau showed the comic to her
+fellows.
+[END]
+12: (Jonathan) [7a 3][7b 458755, 131073][13 0, 41012]This is fascinating... I've never seen
+anything like it. It's a story told
+through both words and pictures.
+[END]
+13: (Isabeau) Error
+[END]
+14: (Isabeau) [7a 5][7b 393221, 131073][13 0, 41013]The one I'm reading currently takes
+place in a fictional kingdom known
+as France.
+[END]
+15: (Isabeau) [7a 5][7b 393221, 131073][13 0, 41014]It's the story of a beautiful female
+warrior in male garb who valiantly and
+admirably plays an active role.
+[->][13 0, 41015]B−But the warrioress falls in love
+with a man, her faithful companion,
+at one point...
+[END]
+16: (Walter) [7a 4][7b 458756, 65537][END]
+17: (Walter) [7a 4][7b 262148, 65537][13 0, 41017]Am I truly hearing Isabeau talk about
+love? I hope that Lake Mikado doesn't
+dry up tomorrow...
+[END]
+18: (Isabeau) [7a 5][7b 65541, 196609][13 0, 400305]Hm...?
+[END]
+19: (Walter) [7a 4][7b 655364, 65537][13 0, 41019]...S−Sorry. But you needn't be so
+angry. You're a woman! Of course love
+would be something you'd−−
+[END]
+20: (Isabeau) [7a 5][7b 655365, 65537][13 0, 41020]No, no. Look there...
+[END]
+21: (Walter) [7a 4][7b 196612, 65537][7b 65541, 196609][13 0, 41021]That's... Is something on fire?
+One of the villages is ablaze...!
+[END]
+22: (Isabeau) [7a 5][7b 655365, 65537][13 0, 41022]Doesn't Kiccigiorgi lie in that
+direction?
+[END]
+23: (Walter) [7a 4][7b 458756, 131073][13 0, 41023]B−But isn't Kiccigiorgi your...!?
+[END]
+24: (Jonathan) [7a 3][7b 131075, 65537][13 0, 41024]Let us make haste!
+[END]
+25: 〉 [Flynn] and his fellow Samurai
+scurried down from the rooftop...
+[END]
+106: (Jonathan) [7a 3][13 0, 41007]Ahh...!?
+[END]
+115: (Isabeau) [7a 5][7b 262149, 65537][13 0, 41016]Oh and then, and then...!
+[END]
+120: 〉 The distant sky was painted crimson...
+[END]

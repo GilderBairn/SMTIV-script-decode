@@ -1,0 +1,84 @@
+0: (Jonathan) [7a 3][7b 786435, 65537][7b 196612, 65537][13 0, 223001]No one is around...
+[END]
+1: (Walter) [7a 4][7b 262148, 65537][13 0, 223002]Ah, it's here on the floor. Shall we
+get this over with?
+[END]
+2: (Voice) [7a 202][7b 786435, 65537][7b 262148, 65537][13 0, 223003]I can't let you pick that up...
+[7b 131075, 65537][7b 65540, 131073][END]
+3: (Walter) [7a 4][7b 458756, 65537][7b 458755, 131073][13 0, 223004]What...? That's the King of Tokyo?
+[END]
+4: (King Kenji) [7a 202][7b 65738, 65537][13 0, 223005]Some call me that... But it doesn't
+matter.
+[END]
+5: (King Kenji) [7a 202][7b 65738, 65537][13 0, 223006]You're the Intruders, right?
+[->][13 0, 223007]Forget about the remote... I'm getting
+tired of killing.
+[END]
+6: (Jonathan) [7a 3][7b 786435, 65537][7b 196612, 65537][13 0, 223008]We must return to our own world. And
+in order to do that, we require that
+the gate to the Expanse be opened.
+[END]
+7: (King Kenji) [7a 202][7b 65738, 65537][13 0, 223009]So in the end, it boils down to this...
+[->][13 0, 223010]You want the remote so bad you're
+willing to fight me?
+[END]
+8: (King Kenji) [7a 202][7b 65738, 65537][13 0, 223011]...Then I can't let you live.
+[END]
+9: (King Kenji) [7a 202][7b 65738, 65537][13 0, 223012]...Thought not. There's no need for
+us to fight.
+[->][13 0, 223013]Don't come back here.
+[END]
+10: (Voice) [7a 202][13 0, 223014]...I told you not to come back.
+[END]
+11: (King Kenji) [7a 202][13 0, 223015]You really want that remote, huh?
+[END]
+12: (Walter) [7a 4][13 0, 223017]...Here we are.
+[END]
+13: 〉 Walter picked up the remote from
+the ground.
+[END]
+14: (Walter) [7a 4]The remote for the Yamato Reactor.
+[END]
+15: (Walter) [7a 4][13 0, 223018]I'm pushing the button now.
+Any objections?
+[END]
+16: Press the button
+Don't press the button
+[END]
+17: (Walter) [7a 4]...Here we are.
+[END]
+18: 〉 Walter pushed the button...
+[END]
+19: (Jonathan) [7a 3]What's wrong, [Flynn]? Have we
+missed something...?
+[END]
+20: (Walter) [7a 4][13 0, 223023]Hm? Are you superstitious as well?
+[END]
+21: 〉 [Flynn] and his fellow Samurai
+exited the room.
+[END]
+22: 〉 Walter ran to the center of the room.
+[END]
+23: (Walter) [7a 4][END]
+107: ”I do.”
+”I don't.”
+[END]
+111: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[END]
+115: (Jonathan) [7a 3][13 0, 223019]Hold.
+[->][13 0, 223020]I feel it may be bad luck for you to
+press it. Let's give it to [Flynn].
+[END]
+118: 〉 [Flynn] was surprised by the sudden noise 
+and dropped the remote...
+[END]
+123: 〉 Push the button?
+[END]
+215: (Walter) [7a 4][13 0, 223021]What...!? But why!?
+[END]
+315: (Walter) [7a 4][13 0, 223022]Oh, very well... Here.
+[END]
+415: 〉 [Flynn] received the remote from
+Walter.
+[->]〉 Press the button on the remote?
+[END]

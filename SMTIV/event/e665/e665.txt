@@ -1,0 +1,75 @@
+0: (Hel) [7a 65232][13 1, 419000]The ship I'm making...
+Heh heh heh...
+[->]The more people die, the closer I
+come to completing it.
+[->]For death hurries the coming of the
+Naglfar's construction...
+[END]
+1: (Demon) [7a 65232][13 1, 419004]Hahaha. I guess I'll ask you to do
+the job, then.
+[->]I am the Reaper Hel.
+[->](Hel) [7a 65232]What I need you to get for me are the
+[Color:0x5]nails of the dead.[Color:0x0]
+[->]I'm going to use them to build my
+ship... the Naglfar.
+[->]We're on the brink of a huge war,
+so I need to prepare for it.
+[->]The fresher the nails are, the better
+the ship will be.
+[->]Hunt down the walking dead and
+collect their nails for me.
+[->]I'm counting on you.
+[END]
+2: (Hel) [7a 65232][13 1, 419010]Hunt down the walking dead and
+collect their nails for me.
+[->]I'm counting on you, kid.
+[END]
+3: (Demon) [7a 65232][13 1, 419004]Hahaha. I guess I'll ask you to do
+the job, then.
+[->]I am the Reaper Hel.
+[->](Hel) [7a 65232]What I need you to get for me are the
+[Color:0x5]nails of the dead.[Color:0x0]
+[->]I'm going to use them to build my
+ship... the Naglfar.
+[->]We're on the brink of a huge war,
+so I need to prepare for it.
+[->][13 1, 419002]Oh, what's this? Could it be that
+you've already been collecting nails
+from the departed?
+[END]
+4: (Hel) [7a 65232][13 1, 419004]Hahaha, you're pretty good at this,
+despite what you look like.
+[->]Quite the Hunter now, aren't you?
+[->]Oh, I can never have too many nails
+of the dead.
+[->]If you collect more nails, I would be
+more than happy to take them off your
+hands... so to speak.
+[END]
+5: (Hel) [7a 65232][13 1, 419009]What's wrong, boy? Are those nails
+too dear to part with?
+[->]Ah, well. They are yours, and you
+can do as you please with them.
+[END]
+6: (Hel) [7a 65232][13 1, 419001]Ah, it's you, boy. Have you found
+any nails of the dead?
+[END]
+7: 〉 The demon is alone, and deep in
+thought...
+[END]
+8: (Demon) [7a 65232][13 1, 419001]Hmm... Are you here about the job
+offer?
+[->]So, you'll go collect [Color:0x5]nails from the
+dead[Color:0x0] for me, then?
+[END]
+9: ”I'll do it.”
+”No, I won't.”
+[END]
+10: (Demon) [7a 65232][13 1, 419008]Oh, don't you go getting my hopes up
+like that!
+[->]If you're not here for that, then
+there's no reason for you to be here,
+then. Go on, get out.
+[END]
+900: 〉 There is no one here...
+[END]

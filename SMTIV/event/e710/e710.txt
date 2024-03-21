@@ -1,0 +1,107 @@
+0: (Voice) [7a 100][13 1, 403211]...Hold it right there.
+[END]
+1: (Gruff man) [7a 138]This's the East Gate over here.
+[->]You betta've accepted that job 'bout
+clearin' them bodies if'n you wanna
+pass through here.
+[END]
+2: ”I have taken that job.”
+”I have not accepted that job.”
+[END]
+3: (Gruff man) [7a 138][13 1, 403241]...You betta not be lyin' t'me.
+I can tell if yer lyin', ya know.
+[->]Pop open that Quest menu and let's
+see if yer bein' veracious. Yeah,
+that thing on yer arm? Let's see it.
+[END]
+4: 〉 The man roughly grabs [Flynn]'s
+wrist and presses buttons on the
+Gauntlet...
+[END]
+5: (Gruff man) [7a 138][13 1, 403242]What the... This is a tricky one...
+Still, ain't like I can't read
+menus. An' it's got an e−manual!
+[END]
+6: (Gruff man) [7a 138][13 1, 403242]Get outta here and don't come back
+until you have, then. Beat it.
+[END]
+7: (Gruff man) [7a 138][13 1, 403212]...Da hell? You don't even know
+what I'm talkin' 'bout. It ain't
+on yer list!
+[->]Get yer ass to the Association an'
+look at the goddamn bulletin board.
+[END]
+8: (Gruff man) [7a 138][13 1, 403212]...Da hell, ya haven't 'cepted it yet.
+[->]Get outta here and don't come back
+until you got it. Beat it.
+[END]
+9: (Gruff man) [7a 138][13 1, 403242]...'Kay, looks like yer tellin' the
+truth 'bout that.
+[END]
+10: (Gruff man) [7a 138]Accordin' t' reports, them Corpses
+were spotted in seven dif'rent
+locations.
+[->]Yer job is to find all of 'em,
+and kill 'em.
+[END]
+11: (Gruff man) [7a 138]Oh yeah, one more thing. If ya
+leave 'em alone for too long,
+they'll start to multiply.
+[->]So don't give up halfway through.
+If yer gonna do this, kill 'em all
+in one go.
+[END]
+12: (Gruff man) [7a 138]...Well, good luck to ya.
+[END]
+13: (Gruff man) [7a 138]...'Kay, looks like yer tellin' the
+truth 'bout that.
+[END]
+14: (Gruff man) [7a 138]...Oh, I reck'nize yer face.
+I'll skip all them details, then.
+[END]
+15: (Gruff man) [7a 138]Don't give up halfway through.
+If yer gonna do this, kill 'em all
+in one go.
+[END]
+16: (Gruff man) [7a 138]...Well, good luck to ya.
+[END]
+17: (Gruff man) [7a 154][13 1, 403211]...Hey, ya gave up, didn't ya?
+[->]I know ya prob'ly can't see 'em,
+but I got guys keepin' tabs on ya.
+[->]...Get back here.
+[END]
+18: 〉 [Flynn] returns to where the
+gruff man had been...
+[END]
+19: (Gruff man) [7a 138][13 1, 403211]I ain't lettin' no one wander 'round
+the East Gate who ain't workin' on
+that quest.
+[->]...If ya feel like doin' the quest,
+make sure ya accept it an' then
+come back here.
+[END]
+20: (Gruff man) [7a 138][13 1, 403211]Huh? What?
+Where do ya think yer goin'...?
+[->]What, didya get scared?
+[END]
+21: Yes
+No
+[END]
+22: (Gruff man) [7a 138]I ain't lettin' no one wander 'round
+the East Gate who ain't workin' on
+that quest.
+[->]...If ya feel like doin' the quest,
+make sure ya accept it an' then
+come back here.
+[END]
+23: (Gruff man) [7a 138][13 1, 403242]...Then get outta here.
+[END]
+100: 〉 An intimidating man blocks the
+way...
+[END]
+103: (Gruff man) [7a 138][13 1, 403241]...You betta not be lyin' t'me.
+I can tell if yer lyin', ya know.
+[END]
+120: 〉 An intimidating man blocks the
+way...
+[END]

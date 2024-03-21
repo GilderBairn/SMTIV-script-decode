@@ -1,0 +1,15 @@
+0: Demons have broken into our underground
+stash and are stealing our precious sake!
+The [Color:0x5][Demon name 1][Color:0x0]s are the ones doing this.
+To stop them, we're setting up a night watch.
+If you're strong, we'd like your help. Meet
+us across from the [Color:0x5]item shop under Shinjuku.[Color:0x0]
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

@@ -1,0 +1,10 @@
+0: (Isabeau) [7a 5][7b 65541, 65537][END]
+1: (Isabeau) [7a 5][7b 655365, 65537][13 0, 30001]Didn't I see someone there...?
+[END]
+2: (Jonathan) [7a 3][7b 458755, 131073][13 0, 30002]I saw it too. Or so I thought...
+[END]
+3: (Walter) [7a 4][7b 655364, 65537][13 0, 30003]Yes, let's all express our surprise to
+see demons inside a Domain.
+[->][7b 393220, 65537][13 0, 30004]Rather than faint over the obvious,
+shouldn't we move on?
+[END]

@@ -1,0 +1,60 @@
+0: (Talkative man) [7a 79][13 1, 403421]Huh? Club Milton? You want to head
+for Dogenzaka, then go into the back
+of the alley.
+[->]...But I'm sure you're only wasting
+your time if you try to go there now.
+[END]
+1: (Demon) [7a 65405][13 1, 414203]So this is that Shibuya place
+everyone's talking about, huh?
+Pretty lively...
+[->]The people here used to think this
+place was the birthplace of new
+trends, right?
+[->]All right, then. From now on, we
+demons will make all kinds of new
+trends out of this place!
+[END]
+2: (Talkative man) [7a 79][13 1, 403441]Wha−hey! I didn't expect the Hunters
+to do such a good job.
+[->]If they keep this up, they might
+beat both the demons and the
+angels...
+[END]
+3: (Demon) [7a 65405][13 1, 414203]So this is that Shibuya place
+everyone's talking about, huh?
+Pretty lively...
+[->]If the angels come here, I can
+assume things will only get livelier.
+[->]Of course, when that happens, there
+will be absolutely no hope for the
+humans afterwards...
+[END]
+4: (Demon) [7a 65405][13 1, 414203]So this is that Shibuya place
+everyone's talking about, huh?
+Pretty lively...
+[->]If that ”Champion” guy gets killed
+by the Demon Lord, things will only
+get livelier, I'm sure.
+[->]Of course, when that happens, there
+will be absolutely no hope for the
+humans afterwards...
+[END]
+5: (Talkative man) [7a 79][13 1, 403402]Yo! The decisive battle between the
+angels and demons is over, right!?
+[->]I still can't believe it...
+I'm not dreaming, am I...?
+[END]
+100: (Talkative man) [7a 79][13 1, 403421]It looks like Club Milton's been
+reopened. ...Does that mean someone's
+defeated that demon?
+[->]Some Ashura−kai guy once told me that
+the place was taken over by a demon
+who wanted to take all the Reds...
+[END]
+200: (Talkative man) [7a 79][13 1, 403421]I was talking with some Ashura−kai
+dudes about that Koga Saburo.
+He's some evil dude, isn't he?
+[->]He tried to keep all the Reds for
+himself, right? We don't need
+selfish people like that in Tokyo!
+[END]

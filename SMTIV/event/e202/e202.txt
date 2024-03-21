@@ -1,0 +1,114 @@
+0: 〉 A gigantic object is enshrined
+before you.
+[END]
+1: (Error) Dammy
+[END]
+2: (Error) Dummy
+[END]
+3: (Error) Dummy
+[END]
+4: (Jonathan) [7a 3][7b 458755, 131073][13 0, 202012]This is...
+[->][7b 786435, 65537][13 0, 202013]He seems different from the rest.
+Burroughs, analyze him for us.
+[END]
+5: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+6: (Burroughs) [7a 2][13 0, 202015]...We meet at last. That's Pluto the
+Tormentor.
+[END]
+7: 〉 You sense powerful pressure from
+Pluto...
+[END]
+8: (Walter) [7a 4][7b 65540, 131073][7b 786435, 65537][13 0, 202016]Trying to scare us? Nice try.
+[END]
+9: (Walter) [7a 4][7b 131076, 65537][13 0, 202017]Fellows, are you ready?
+[END]
+10: ”I'm ready.”
+”Not yet...”
+[END]
+11: (Error) [7a 4][7b 131076, 65537]Dummy
+[END]
+12: 〉 The pressure from Pluto increased...
+[END]
+13: 〉 Pluto remained still, waiting for your
+next move...
+[END]
+14: 〉 Pluto sits before you.
+[END]
+15: (Jonathan) [7a 3][7b 786435, 131073][7b 196612, 65537][13 0, 202019]Are you prepared now...?
+ 
+[END]
+16: (Walter) [7a 4][13 0, 202021]Ahhhh...
+[->][13 0, 202022]Is it me, or does the air feel fresher
+already?
+[END]
+17: (Jonathan) [7a 3][7b 262147, 65537][13 0, 202023]You're quite enthusiastic, aren't you?
+[->][7b 65539, 65537][13 0, 202024]I am glad to have freed Akira and
+his people from the poison.
+[END]
+18: 〉 Unknown entities are barring your way.
+[END]
+19: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+20: (Burroughs) [7a 2][13 0, 202005]These are called ”Pluto Warriors.”
+[END]
+21: 〉 The Pluto Warriors suddenly rushed at
+[Flynn] and his fellows!
+[END]
+22: 〉 A Pluto Warrior is barring your way.
+[END]
+23: 〉 The Pluto Warrior suddenly rushed at
+[Flynn] and his fellows!
+[END]
+24: 〉 An unknown entity is barring your way.
+[END]
+25: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+26: (Burroughs) [7a 2][13 0, 202011]This is called a ”Pluto Giant.”
+[END]
+27: 〉 The Pluto Giants suddenly rushed at
+[Flynn] and his fellows!
+[END]
+28: 〉 Unknown entities are barring your way.
+[END]
+29: (Walter) [7a 4][7b 655364, 65537][13 0, 202001]What's this...?
+[END]
+30: (Walter) [7a 4]Should we engage them?
+[END]
+31: (Jonathan) [7a 3]No... let's conserve our energy.
+We have no reason to fight them.
+[END]
+32: (Walter) [7a 4]Then let's go.
+[END]
+33: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+34: (Burroughs) [7a 2][13 0, 202004]There is something in the database
+Master Akira gave us that matches
+these runts.
+[->][13 0, 202009]They're called ”Pluto Soldiers.”
+[END]
+35: 〉 The Pluto Soldiers suddenly attacked
+[Flynn] and his fellow Samurai.
+[END]
+113: (Jonathan) [7a 3][7b 786435, 65537][13 0, 202018]Perhaps we'd best retreat for now.
+[END]
+115: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]
+121: Dummy
+[END]
+123: Dummy
+[END]
+128: [END]
+129: 〉 The unknown entities continue to remain
+still...
+[END]
+133: (Walter) [7a 4][7b 196612, 65537][13 0, 202002]Hoy, Burroughs. Do you know what
+these are?
+[END]
+134: (Jonathan) [7a 3][7b 786435, 65537][13 0, 202006]”Pluto”...? All of these are Pluto?
+[END]
+135: Dummy
+[END]
+234: (Burroughs) [7a 2][13 0, 202007]No, they're copies of him.
+Just common grunts.
+[END]

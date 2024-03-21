@@ -1,0 +1,199 @@
+0: (Ring of Gaea member) [7a 53][13 1, 404303]If you succeeded in making it here,
+it means you have shown us that you
+do have strength...
+[->]...Welcome to Ginza. The Ring of Gaea
+welcomes all who have power.
+[END]
+1: (Ring of Gaea member) [7a 53][13 1, 404303]No matter what end Lady Yuriko has
+met, we will not give up our belief
+that might makes right.
+[->]If you see what has happened as a
+victory, then you truly are a fool.
+[->]Lady Yuriko left us with one more
+prophecy. Ha ha...
+[END]
+2: (Ring of Gaea member) [7a 53][13 1, 404332]Ah, fellow members of the Ring of
+Gaea. You have received Lady Yuriko's
+blessing, have you not?
+[->]You ”children of carnage” have
+decended from the Firmament. May you
+create a world for humans in Tokyo...
+[->]One where men and demons are bound
+by laws of power, and not by Reds.
+[END]
+3: (Ring of Gaea member) [7a 53][13 1, 404331]Fools... Fellow members of the
+Ring of Gaea, yet have been bewitched
+by angels...
+[->]Lady Yuriko left us with one last
+prophecy. Ha ha...
+[->]”The child of carnage shall be
+devoured, and the Demon Lord will be
+resurrected.” It has come to pass!
+[END]
+4: (Ring of Gaea member) [7a 53][13 1, 404331]Great One, fellow member of the Ring
+of Gaea, and resenter of God...
+[->]Lady Yuriko left us with one last
+prophecy. Ha ha...
+[->]”The child of carnage shall be
+devoured, and the Demon Lord will be
+resurrected.” It has come to pass!
+[END]
+5: (Ring of Gaea member) [7a 53][13 1, 404331]I will acknowledge your power.
+...[Flynn], was it?
+[->]Your power could not exist without
+the hard work of your teammates.
+[->]Do not forget that all the glory
+that you bask in rests on the
+shoulders of your demons.
+[END]
+6: (Ring of Gaea member) [7a 54][13 1, 404403]I would give my life for Lady Yuriko.
+But is anyone willing to die for
+Tayama?
+[->]The only reason anyone follows
+Tayama is because he controls the
+electricity.
+[->]Those without power lack natural
+magnetism. That is why they use
+objects to gain the loyalty of others.
+[END]
+7: (Ring of Gaea member) [7a 54][13 1, 404403]Lady Yuriko told us this:
+[->]The child of carnage enthralled by
+the witch of the night shall open
+the gate once again...
+[->]The child of carnage should already
+have headed out. The Yamato Reactor
+awaits.
+[END]
+8: (Ring of Gaea member) [7a 54][13 1, 404403]It's just as Lady Yuriko told us.
+[->]The child of carnage enthralled by
+the witch of the night shall open
+the gate once again...
+[->]Now, children of carnage...
+To the Yamato Reactor!
+[END]
+9: (Ring of Gaea member) [7a 54][13 1, 404412]It's just as Lady Yuriko told us.
+[->]The child of carnage that abandoned
+God has opened the gate once again...
+And the demons have been released.
+[->]Even though Lady Yuriko is no more,
+she is still our hope!
+[END]
+10: (Ring of Gaea member) [7a 54][13 1, 404412]I will not allow myself to be led
+astray by this ”hope” the common
+people speak of!
+[->]The only truth is in Lady Yuriko's
+words! The gate has been opened once
+again, and the demons are released.
+[->]Even though Lady Yuriko is no more,
+she is still our path to greatness!
+[END]
+11: (Ring of Gaea member) [7a 54][13 1, 404431]I will not allow myself to be led
+astray by this ”hope” the common
+people speak of!
+[->]The only truth is in Lady Yuriko's
+words! The gate has been opened once
+again, and the Demon Lord returns.
+[->]Even though Lady Yuriko is no more,
+she is still our path to greatness!
+[END]
+12: (ガイア教団の女) [7a 54][13 1, 404431][体/からだ]を[縛/しば]る[阿修羅会/あしゅらかい]も
+[頭/あたま]を[押/お]さえる[天使/てんし]も[消/き]えた
+[->]さあ [自由/じゆう]を[謳歌/おうか]しようではないか…
+[END]
+13: (Ring of Gaea member) [7a 54][13 1, 404442]When I was younger, I never conceived
+that demons would appear in Tokyo.
+[->]But Lady Yuriko once said that humans
+and demons are one and the same...
+[->]Even though Lady Yuriko is no more,
+she is still our hope!
+[END]
+14: (Hunter man) [7a 118][13 1, 403002]I passed by Tsukiji Hongwanji a moment
+ago, but it's oddly quiet there. Isn't
+there supposed to be a war there soon?
+[->]Perhaps something happened to Lady
+Yuriko...? No, that's impossible.
+[END]
+15: (Hunter man) [7a 118][13 1, 403002]I passed by Tsukiji Hongwanji a moment
+ago, but it's oddly quiet there. Isn't
+there supposed to be a war there soon?
+[->]The place felt like the outcome had
+already been determined.
+[END]
+16: (Hunter man) [7a 118][13 1, 403002]All this ”Champion” stuff is bullshit.
+I'm supposed to put doing quests
+over my own safety?
+[->]Anybody who would go out and do that
+kind of thing is just a champion
+idiot, if you ask me.
+[END]
+17: (Hunter man) [7a 118][13 1, 403002]All this ”Champion” stuff is bullshit.
+I'm supposed to put doing quests
+over my own safety?
+[->]...But there are a lot of people
+starting to fall for this crap.
+[END]
+18: (Hunter man) [7a 118][13 1, 403002]All this ”Champion” stuff is bullshit.
+I'm supposed to put doing quests
+over my own safety?
+[->]...Or so I thought. Then I learned
+more about the guy who won the title.
+He's amazing.
+[->]Yeah... I really look up to you,
+Champion.
+[END]
+19: (Hunter man) [7a 118][13 1, 403002]All this ”Champion” stuff is bullshit.
+I'm supposed to put doing quests
+over my own safety?
+[->]...Or so I thought. Then I learned
+more about the guy who won the title.
+He's amazing.
+[->]It's probably because of someone like
+you that Masakado decided to help you.
+[END]
+20: (Hunter man) [7a 118][13 1, 403002]You even defeated that Demon Lord
+thing! Nobody could possibly stand
+up to you now.
+[->]Plus, you're the Champion, and the
+new guardian of Tokyo...
+[->]Your name's practically a killing
+word, now. You'd better make sure
+you don't get taken advantage of.
+[END]
+100: (Ring of Gaea member) [7a 53][13 1, 404303]...What? Lady Yuriko was a demon
+named Lilith...?
+[->]It doesn't matter who she is.
+She has proven that she has power.
+[->]The Ring of Gaea respects one's
+strength more than one's heritage.
+[END]
+104: (Ring of Gaea member) [7a 53][13 1, 404331]You... You're the one who joined us
+as a member of the Ring of Gaea, and
+yet did not accept demons.
+[->]Lady Yuriko left us with one last
+prophecy. Ha ha...
+[->]”The child of carnage shall be
+devoured, and the Demon Lord will be
+resurrected.” It has come to pass!
+[END]
+106: (Ring of Gaea member) [7a 54][13 1, 404403]Lady Yuriko told us this:
+[->]Those who accept God's curse will
+surrender to the rule of the strong.
+[->]When that happens, Tokyo will be
+reborn!
+[END]
+204: (Ring of Gaea member) [7a 53][13 1, 404331]I will acknowledge your power.
+...[Flynn], was it?
+[->]But the Ring of Gaea does not look
+favorably on those in Tokyo who rely
+on your strength for their survival.
+[->]If you are drunk on the praise of
+such people, then I suggest you
+clear your head, and soon.
+[END]
+206: (Ring of Gaea member) [7a 54][13 1, 404403]Lady Yuriko told us this:
+[->]Those chosen by God will awaken to the
+rule of the strong and become the
+”children of carnage...”
+[->]When that happens, Tokyo will be
+reborn!
+[END]

@@ -1,0 +1,17 @@
+0: (Astaroth) [7a 0][13 0, 350801]Hahaha. It has been some time since
+I last set foot in the human world.
+[->][13 0, 350802]I regret not having more time to look
+about the place, but first...
+[->][13 0, 350803]I must teach this fool a lesson, for
+trying to disturb my resurrection.
+[->][13 0, 350804]Well then, let us play.
+[END]
+1: (Ring of Gaea member) [7a 54][13 0, 350805]Overlord Astaroth. Leave this to us.
+[->][13 0, 350806]You have just materialized in this
+world; your soul is still unstable.
+[->][13 0, 350807]We cannot have you die here.
+[->][13 0, 350808]Now, this way!
+[->][END]
+2: 〉 The woman from the Ring of Gaea
+leads Astaroth away...
+[END]

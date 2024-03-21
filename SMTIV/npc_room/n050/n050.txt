@@ -1,0 +1,90 @@
+0: (Ring of Gaea member) [7a 54][13 1, 404402]The Ring of Gaea is no mere collection
+of hoodlums, like the Ashura−kai.
+[->]We don't ask for money from civilians,
+nor do we start random wars against
+them.
+[->]But, if anyone shows us hostility,
+we will use our favored demons to
+crush them.
+[END]
+1: (Ring of Gaea member) [7a 54][13 1, 404431]For those of us in the Ring of Gaea,
+people are the catalysts to our
+strength...
+[->]We don't exploit or sacrifice the
+people to get ahead.
+[->]The Ring of Gaea is not like the
+Ashura−kai. If you will be one of
+us, you must stay noble and proud.
+[END]
+2: (Ring of Gaea member) [7a 54][13 1, 404443]Tayama allows the weak to survive
+solely so he can exploit them.
+[->]Lady Yuriko tells us that we don't
+need to have mercy on the weak.
+[->]We are aware that Tokyo is a mess...
+and supplies are scarce...
+[->]If things stay as they are...
+You know who is right for this city,
+don't you?
+[->]The choice is between Tayama and
+Lady Yuriko... and I believe you
+have made the correct decision.
+[END]
+3: (Ring of Gaea member) [7a 54][13 1, 404412]Tayama allows the weak to survive
+solely so he can exploit them.
+[->]Lady Yuriko tells us that we don't
+need to have mercy on the weak.
+[->]We are aware that Tokyo is a mess...
+and supplies are scarce...
+[->]If things stay as they are...
+Between Tayama and Lady Yuriko, you
+know what is right for this city.
+[->]And yet, sadly, you have made the
+wrong decision.
+[END]
+4: (Ring of Gaea member) [7a 54][13 1, 404403]Soon, we will begin an all−out
+assault on Ichigaya.
+[->]I'm sure the Ashura−kai know what
+we're up to. They aren't stupid...
+[->]But if they want to get into a true
+contest of power, they have one.
+We will crush them like bugs!
+[END]
+5: (Ring of Gaea member) [7a 54][13 1, 404421]Our assault on Ichigaya had begun.
+We were going to kill Tayama and
+take control of the Yamato Reactor...
+[->]But, suddenly, there was a blinding
+flash, and the place was filled with
+demons...
+[->]Most of my comrades died there, but
+I made it back, somehow...
+[->]Even Lady Yuriko is gone...
+I'm afraid.
+[END]
+6: (Ring of Gaea member) [7a 54][13 1, 404441]I don't know about the other members
+of the Ring of Gaea, but now that
+I've seen you, I realize one thing...
+[->]I... I just wanted a safe place to
+stay. This ”power and skill” thing
+was just a lie I told myself...
+[->]And the hope I used to place in
+Lady Yuriko... You have it now.
+[END]
+7: (Ring of Gaea member) [7a 54][13 1, 404441]They say a Demon Lord is dwelling in
+Ichigaya... I only heard his name
+once, from Lady Yuriko.
+[->]His real name is Lucifer, king of
+all demons...
+[->]I'm still a member of Ring of Gaea,
+so I can't support you openly...
+[->]...But I don't want you to die.
+That is how I truly feel.
+[END]
+8: (Ring of Gaea member) [7a 54][13 1, 404442]The Demon Lord has been defeated.
+Tokyo will return to its former self.
+[->]But there are still many who blindly
+worship Lady Yuriko.
+[->]I will shake them awake. That is how
+I will atone for my deeds...
+[->]I have a responsibility to the people
+of Tokyo.
+[END]

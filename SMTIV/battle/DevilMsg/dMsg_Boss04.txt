@@ -1,0 +1,74 @@
+0: [71 1]This power forged of knowledge and
+wisdom... Use it as you see fit.
+[->][END]
+1: [71 1]This power forged of knowledge and
+wisdom... Use it as you see fit.
+[->][END]
+2: [71 1]This power forged of knowledge and
+wisdom... Use it as you see fit.
+[->][END]
+3: [71 1]As long as humans harbor desire, I shall
+derive strength from their yearning...
+[->][END]
+4: [71 1]More skills only cause confusion. You
+must prune away the lesser skills to
+make the most of your power.
+[->][END]
+5: [71 1][Color:0x5][Skill 1][Color:0x0] to [Color:0x5][Skill 2]...[Color:0x0]
+Let it grow in power...
+[->][END]
+6: [71 1]I'll change this [Color:0x5][Skill 1][Color:0x0]
+as I see fit...
+[->][END]
+7: [71 1]Now, what shape will this desire take...?
+[->][END]
+8: [71 1]Are you saying you're satisfied with
+my current powers?
+[->][END]
+9: [71 1][Color:0x5][Skill 1]...[Color:0x0] That's the power
+granted by your desire.
+[->][END]
+10: [71 1](仮)変異選択メッセージ
+[->][END]
+11: [71 1](仮)変異OKメッセージ
+[->][END]
+12: [71 1](仮)変異NGメッセージ
+[->][END]
+13: [71 1](仮)変異完了メッセージ
+[->][END]
+14: [71 1](仮)変異レベル未達メッセージ
+[->][END]
+15: [71 1]Well done in fighting through that
+battle. Take this [Color:0x5][Item 1][Color:0x0] as
+your reward.
+[->][END]
+16: [71 1]This [Color:0x5][Item 1][Color:0x0] is yours.
+It, too, is also a form of wisdom
+and power...
+[->][END]
+17: [71 1]Take this [Color:0x5][Item 1][Color:0x0] and
+continue to fight on.
+[->][END]
+18: [71 1]The fruits of knowledge and wisdom...
+Eat of them to your heart's content.
+[->][END]
+19: [71 1]Have your desires been fulfilled?
+[->][END]
+20: [71 1]The mother with the secrets of life comes
+with knowledge and wisdom in hand...
+[->]I am [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+All life shall gather before me...
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

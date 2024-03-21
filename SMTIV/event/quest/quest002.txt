@@ -1,0 +1,7 @@
+0: This is the second training exercise. A Samurai does
+not only battle demons. It is essential at times
+that you strengthen your forces by [Color:0x5]recruiting[Color:0x0]
+demons to your side. Once you have [Color:0x5]acquired three
+demons,[Color:0x0] which may be any you encounter, the quest
+will be complete.
+[END]

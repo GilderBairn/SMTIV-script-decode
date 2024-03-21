@@ -1,0 +1,210 @@
+0: (Easygoing man) [7a 120][13 1, 403403]What!? You can't buy Reds from the
+Ashura−kai anymore? Then I'm through
+supporting those dickbags!
+[->]So, what, should I just go to Ginza?
+I bet the Ashura−kai can't boss us
+around there.
+[END]
+1: (Easygoing man) [7a 120][13 1, 403403]I hear the Ashura−kai crushed the
+Ring of Gaea.
+[->]So I guess that means Tokyo's now
+officially under Ashura−kai control.
+[END]
+2: (Easygoing man) [7a 120][13 1, 403421]I saw a girl walking towards Ichigaya.
+She was a cutie, carrying a sword...
+[->]Now I know Tokyo's in a mess, but boys
+will be boys, right? So I called out
+to her.
+[->]She told me she was going somewhere to
+meet someone she's been expecting. Guess
+I got the cold shoulder...
+[END]
+3: (Easygoing man) [7a 120][13 1, 403402]That Samurai from the world above...
+[Flynn]. The one who's ranked in
+the top 3.
+[->]He's you, ain't he? Man, you rock!
+I'm your number one fan!
+[END]
+4: (Easygoing man) [7a 120][13 1, 403402]Demons are gonna eat us all anyway,
+right? Well, in that case...
+[->]I wanna die in Shinjuku where that cute
+girl in the school uniform hangs out...
+You think she really is a schoolgirl?
+[->]Actually, though, these days I'd wanna
+meet the champion more than her...
+[END]
+5: (Easygoing man) [7a 120][13 1, 403441]You rock, champion! Way to stop those
+angels in their tracks!
+[->]I'm sure the demons will be no sweat
+for you either, right? We're all
+counting on you, champion!
+[END]
+6: (Easygoing man) [7a 120][13 1, 403441]So I heard this rumor... apparently you
+can see the sun rise in Tokyo?
+[->]I thought I'd never see that happen
+again... and speaking of things I
+thought I'd never see again...
+[->]That cute girl in the school uniform...
+Do you think she's the real deal?
+I wonder if she's still in Shinjuku...
+[END]
+7: (Worried woman) [7a 62][13 1, 403312]H−Hey, why did the Ashura−kai stop
+selling Reds?
+[->]Without those, I can't even go outside
+for a stroll...
+[END]
+8: (Worried woman) [7a 62][13 1, 403312]Ashura−kai is planning to raise the
+price of Reds! What the hell are they
+thinking!?
+[->]There still are so many demons in Tokyo!
+[->]W−Without the Reds, I can't take so
+much as one step outside...!
+[END]
+9: (Worried woman) [7a 62][13 1, 403302]The Ashura−kai plans to raise the price
+of Reds because they've hit a snag
+getting the ingredients...
+[->]It's making me think about counting
+on that [Flynn] guy as a last
+resort.
+[->]If he can kill all the demons, we won't
+have to spend a fortune on Reds, right?
+[END]
+10: (Worried woman) [7a 62][13 1, 403303]The Ashura−kai is going to discontinue
+the Reds!? What the hell are they
+thinking...?
+[->]W−Without the Reds, I can't take so
+much as one step outside...! Or...
+[->]Maybe we don't need Reds in Tokyo
+anymore...?
+[END]
+11: (Hunter man) [7a 67][13 1, 403042]I'm sure the Ashura−kai WANTS to keep
+selling Reds. But that demon's making
+it impossible.
+[->]The Ashura−kai hired a bunch of tough
+guys to take him out, but they all got
+snuffed in seconds.
+[END]
+12: (Hunter man) [7a 67][13 1, 403021]I know it's too late now... but if I'd
+seen this coming, I'd have trained more
+instead of relying on the Reds.
+[->]Koga Saburo and Tenkai tried to stop
+us from using them...
+[->]Maybe they saw that it was making us
+weaker as a species, and trying to
+warn us in their own way.
+[END]
+13: (ハンターの男) [7a 67][13 1, 403002][総合/そうごう]ランキングが[盛/も]り[上/あ]がれば
+この[東京/とうきょう]に[活気/かっき]が[戻/もど]ってくるはず…
+[->][商会/しょうかい]は そう[考/かんが]えたんだろう?
+あいつらも[粋/いき]な[所/ところ]があるじゃないか
+[END]
+14: (Hunter man) [7a 67][13 1, 403002]I became a Hunter to protect people...
+I shouldn't have done nothing...
+[->]Now that I'm racing everyone to the
+top of the scoreboard, I'm remembering
+how it used to feel...
+[END]
+15: (Hunter man) [7a 67][13 1, 403042]Demons are definitely a major threat
+to us. But they taught us something,
+too...
+[->]The ones like Koga Saburo and Tenkai
+warned us not to use Reds, not only
+because we'd become demons...
+[->]But also because relying on them too
+much would make us weak as a species.
+[END]
+100: (Easygoing man) [7a 120][13 1, 403403]Well, I got my hands on some Reds...
+Should I start supporting the Ashura−kai
+again?
+[->]I thought about going down to Ginza...
+But that can wait for now.
+[END]
+101: (Easygoing man) [7a 120][13 1, 403421]Did the Ring of Gaea seriously attack
+the Ashura−kai!?
+[->]Boy, this is the big one, ain't it!?
+No way I'm missing out!
+[END]
+102: (Easygoing man) [7a 120][13 1, 403421]Demons are gonna eat us all anyway,
+right? Well, in that case...
+[->]I wanna die in Shinjuku where that cute
+girl in the school uniform hangs out...
+You think she really is a schoolgirl?
+[->]Hang on, though... That's strange.
+For some reason, I can't remember
+her face...
+[END]
+107: (Worried woman) [7a 62][13 1, 403312]H−Hey, the Ashura−kai started selling
+Reds again.
+[->]They told me their old delivery route
+got attacked by Hunters and they needed
+to set up a new one.
+[->]But hey, now I don't have to worry about
+demon attacks!
+[END]
+108: (Worried woman) [7a 62][13 1, 403312]How can the Ashura−kai even think about
+raising the price of Reds at a time
+like this!?
+[->]I hear some demon moved in and they're
+having a lot of trouble getting the
+ingredients they need now...
+[->]Should I count on that [Flynn]
+guy as a last resort?
+[->]If he can kill all the demons, we won't
+have to spend a fortune on Reds, right?
+[END]
+111: (Hunter man) [7a 67][13 1, 403042]What was his name...? Koga Saburo,
+was it? He's no ordinary demon who
+just targets random humans...
+[->]He was singling out anyone who tried
+to get Reds. I'm not sure, but...
+[->]Maybe he knew that eating Reds turns
+humans into demons, so he was trying
+to protect us?
+[END]
+200: (Easygoing man) [7a 120][13 1, 403403]Hey, have you seen a cute girl in a
+school uniform? Do you think she's
+the real deal!?
+[->]Schoolgirls were commonplace in the
+old Tokyo... but they're practically
+extinct now.
+[END]
+207: (Worried woman) [7a 62][13 1, 403312]H−Hey, I heard the Ashura−kai would give
+us a discount on Reds...
+[->]They said they got a ton of ingredients
+for them in Ikebukuro. I heard that
+directly from them.
+[->]I wonder what goes into these things,
+anyway... Oh well. Point is, I don't
+have to worry about demon attacks now!
+[END]
+211: (Hunter man) [7a 67][13 1, 403042]What was his name...? Tenkai, was it?
+He's no ordinary demon who just targets
+random humans...
+[->]He was singling out anyone who tried
+to get Reds. I'm not sure, but...
+[->]Maybe he knew that eating Reds turns
+humans into demons, so he was trying
+to protect us?
+[END]
+300: (Easygoing man) [7a 120][13 1, 403403]I heard Yuriko declared war against
+Tayama. Is that right?
+[->]Well, they can have fun with that.
+As long as they don't hurt any
+innocents, I mean.
+[END]
+307: (Worried woman) [7a 62][13 1, 403312]Whatever happened to the discount on
+Reds those Ashura−kai people promised...?
+[->]They told me they found a big supply
+of ingredients for them in Ikebukuro...
+[->]Th−This is a big problem! I can't even
+go outside without Reds!
+[END]
+311: (Hunter man) [7a 67][13 1, 403042]Both Koga Saburo and Tenkai were trying
+to protect us from the Reds...
+[->]I'm sure when the Ashura−kai and Ring
+of Gaea clash, their demons will join
+in the fight...
+[->]Come to think of it, demons can be
+powerful allies of mankind if you use
+them right...
+[END]

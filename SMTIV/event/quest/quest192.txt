@@ -1,0 +1,16 @@
+0: We require some [Color:0x5]smartphones[Color:0x0] for summoning
+to fight off a huge demon swarm in Ichigaya.
+Our records indicate a foreign electronics
+company in an area south of Tennozu called
+[Color:0x5]Ooi Wharf[Color:0x0] shipped in a large number
+of them. Unfortunately, we're unable to reach
+that place. If only we could fly there...
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

@@ -1,0 +1,36 @@
+0: (Mido) [7a 1]Summon [Color:0x5][Demon race 1] [Demon name 1][Color:0x0]
+for [Color:0x5][Amount 1][Color:0x0] Macca?
+[END]
+1: Yes
+No
+[END]
+2: (Mido) [7a 1]Register and overwrite
+[Color:0x5][Demon race 1] [Demon name 1]?[Color:0x0]
+[END]
+3: (Mido) [7a 1]Register and overwrite all your demons?
+[END]
+4: Yes
+No
+[END]
+5: (Mido) [7a 1]You already have that demon in your
+possession.
+[END]
+6: (Mido) [7a 1]You don't have enough Macca to summon
+this demon.
+[END]
+7: (Mido) [7a 1]You can't summoner custom DNA data.
+[END]
+8: (Mido) [7a 1]Your level is not high enough to
+summon that demon.
+[END]
+9: (Mido) [7a 1]It seems your stock is full.
+[END]
+10: (Mido) [7a 1]Set [Color:0x5][Skill 1][Color:0x0] for
+[Color:0x5][Amount 1][Color:0x0] Macca?
+[END]
+11: Yes
+No
+[END]
+12: (Mido) [7a 1]You do not have enough Macca to set
+that Legion Skill.
+[END]

@@ -1,0 +1,16 @@
+0: I am interested in the sign of a god named
+”Luis Witon,” who was worshipped by the
+people of Japan in ancient times. Apparently,
+his altar is in a special store in [Color:0x5]Ginza.[Color:0x0]
+Can you reach his temple and take a picture 
+of [Color:0x5]Luis Witon[Color:0x0] and bring it to me? I'll be in
+the Yaesu underground tunnel in Tokyo Station.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

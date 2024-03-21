@@ -1,0 +1,15 @@
+0: I'd like you to recover the legendary gem,
+the [Color:0x5][Item 1],[Color:0x0] for me. According to old
+newspapers, people would bring their gems
+to Ginza to show them off. The [Item 1]
+immediately caught my eye. Apparently some
+of them are still somewhere in Tokyo!
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

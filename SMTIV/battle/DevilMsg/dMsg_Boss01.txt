@@ -1,0 +1,72 @@
+0: [71 1]Samurai... You must master this
+new power.
+[->][END]
+1: [71 1]Samurai... You must master this
+new power.
+[->][END]
+2: [71 1]Samurai... You must master this
+new power.
+[->][END]
+3: [71 1]This is the true power of a demon...
+Follow me, Samurai!
+[->][END]
+4: [71 1]I cannot hold any more skills. If you
+wish me to gain a new one, then you
+must choose one to discard...
+[->][END]
+5: [71 1]My [Color:0x5][Skill 1][Color:0x0] shall be changed
+to [Color:0x5][Skill 2]...[Color:0x0]
+[->][END]
+6: [71 1]My [Color:0x5][Skill 1][Color:0x0] shall be changed
+into a dreadful skill...
+[->][END]
+7: [71 1]Now there is the Samurai spirit!
+[->][END]
+8: [71 1]Hmm... That is one way to proceed.
+[->][END]
+9: [71 1]Tremble in fear at this
+[Color:0x5][Skill 1]...[Color:0x0]
+[->][END]
+10: [71 1](仮)変異選択メッセージ
+[->][END]
+11: [71 1](仮)変異OKメッセージ
+[->][END]
+12: [71 1](仮)変異NGメッセージ
+[->][END]
+13: [71 1](仮)変異完了メッセージ
+[->][END]
+14: [71 1](仮)変異レベル未達メッセージ
+[->][END]
+15: [71 1]This [Color:0x5][Item 1][Color:0x0] is for you.
+Make good use of it, Samurai.
+[->][END]
+16: [71 1]Well fought as usual, Samurai.
+Take this [Color:0x5][Item 1]...[Color:0x0]
+[->][END]
+17: [71 1]I shall give you this [Color:0x5][Item 1]...[Color:0x0]
+It is a mere token of my gratitude.
+[->][END]
+18: [71 1]Samurai! The time has come for me to
+teach you the secrets of my strength.
+[->][END]
+19: [71 1]Have you learned the secrets of my
+strength to your heart's content?
+[->][END]
+20: [71 1]In honor of my pact with old Aquila,
+I shall form a new one here...
+[->]I am [Color:0x5][Demon race 1] [Demon name 1]...[Color:0x0]
+This soul will be with you, Samurai...
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

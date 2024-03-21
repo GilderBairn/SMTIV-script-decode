@@ -1,0 +1,52 @@
+0: (Sloppy man) [7a 63][13 0, 114001]Holy son of a...! Sheesh, you came
+outta nowhere!
+[->][13 0, 114002]Good thing I set up a Domain to deal
+with crap like this...
+[END]
+1: (Sloppy man) [7a 63][13 0, 114003]I−It's been twenty years since I took
+up watching over the Terminals. They
+call me the Terminal Guardian.
+[END]
+2: (Sloppy man) [7a 63][13 0, 114004]They call me... Uh... Hold the phone...
+You're that kid who attacked me
+earlier!
+[->][13 0, 114005]You ain't bad for a tyke. Does this
+mean you wanna fight me again?
+[END]
+3: (Sloppy man) [7a 63][13 0, 114006]You're one rambunctious kid... Are you
+out to deliberately wind me up?
+[END]
+4: (Sloppy man) [7a 63][13 0, 114007]I don't know if you're trying to get
+my goat with this, but I already have
+something ready for you.
+[->][13 0, 114008]Whether it's my family's livelihood
+or the Terminal, there's nothing
+this guardian can't protect!
+[END]
+5: (Sloppy man) [7a 63][13 0, 114009]Your plan's failed since I made it
+here in time.
+[->][13 0, 114010]People make fun of me since I have
+this low−down job as a guardian...
+but I really like this work.
+[END]
+6: (Sloppy man) [7a 63][13 0, 114011]Maybe you think you can outwit me,
+but I won't make it easy on you.
+[->][13 0, 114012]I hang low−down dirty tricksters like
+you in front of the station!
+[END]
+7: 〉 The demon's Domain has been lifted.
+[END]
+8: (Burroughs) [7a 2][13 1, 400063]Looks like the quest is going well.
+[END]
+9: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+10: (Burroughs) [7a 2][13 1, 405703]This is the Ikebukuro Terminal.
+[END]
+11: (Burroughs) [7a 2][13 0, 74001]I'm going to run the Terminal
+activation program.
+[END]
+12: (Burroughs) [7a 2][13 0, 74002]Activation complete.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]

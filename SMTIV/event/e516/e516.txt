@@ -1,0 +1,27 @@
+0: 〉 The stone that was once Tenkai is
+sitting in front of you...
+[END]
+1: 〉 The stone that was once Omoikane is
+sitting in front of you...
+[END]
+2: (Walter) [13 1, 400255]...Hoy, how far have you gone? I'm sure
+you've come to terms with your feelings
+on this by now.
+[->]I'll be waiting at the Yamato Reactor.
+[END]
+3: (Ashura−kai member) [7a 47][13 1, 68001]...Huh?
+[END]
+4: (Ashura−kai member) [7a 47]...Dude, what took you so long? I was
+gettin' lonely here. I felt real bad
+asking you to do this, y'know...
+[->]I made sure to put Mr. Tayama's demons
+in the right places and set up a Domain
+to boot.
+[END]
+5: (Ashura−kai member) [7a 47]Even if by some mistake those Ring of
+Gaea punks show up, there's no way
+they can get past those two demons.
+[->]So... I'm gonna take off now.
+[END]
+6: 〉 The Ashura−kai member leaves.
+[END]

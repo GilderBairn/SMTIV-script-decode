@@ -1,0 +1,25 @@
+0: (Demonoid) [7a 146][13 1, 413007]...Akira? Why are you at Shibuya? Was
+today trash day...?
+[->]Whatever, I'm bored right now. Be my
+sandbag like usual.
+[END]
+1: (Akira) [7a 85][13 1, 401704]...Huhhhh? Did I get lost? Tokyo's a big
+place...
+[->]I was just on my way to Shinjuku. Sorry
+to bother you...!
+[END]
+2: 〉 Akira tugged strongly on [Flynn]'s
+arm...
+[END]
+3: (Demonoid) [7a 146][13 1, 413007]...Hm? A neurisher? What, you want us
+to adopt you?
+[->]We only feed on young women. Sorry, but
+go home.
+[END]
+4: (Demonoid) [7a 146][13 1, 413002]Oh, Akira... er, Master Akira's
+bodyguard! I'm so honored to meet you.
+[->]You're always welcome here. Have fun
+in Shibuya.
+[END]
+5: 〉 You have no business here.
+[END]

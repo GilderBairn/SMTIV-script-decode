@@ -1,0 +1,100 @@
+1: This is the [Quest? 40] Terminal.
+Select where to transport to.
+[END]
+2: Transporting to [Quest? 40].
+Continue?
+[END]
+3: Yes
+No
+[END]
+4: 〉 There is a chance that Navarre may be
+discovered...
+[->]〉 It would be best not to use the
+Terminal to get to [Quest? 51].
+[END]
+5: 〉 If you wish to make use of K's Tavern
+and the Terminals, finish the Challenge
+Quest or abandon it.
+[END]
+6: 〉 You cannot currently use the Terminal
+to go to [Quest? 51].
+[END]
+7: 〉 The Terminal cannot be used, as there
+is nowhere to travel to.
+[END]
+10: (Burroughs) [7a 2][13 0, 405770]This is the [Quest? 51] Terminal.
+What do you wanna do, Master?
+[END]
+11: (Burroughs) [7a 2][13 0, 405771]This is the Sky Terminal.
+What do you wanna do, Master?
+[END]
+12: (Burroughs) [7a 2][13 0, 405755]This is the Ueno Terminal.
+What do you wanna do, Master?
+[END]
+13: (Burroughs) [7a 2][13 0, 405752]This is the Kasumigaseki Terminal.
+What do you wanna do, Master?
+[END]
+14: (Burroughs) [7a 2][13 0, 405750]This is the Shinjuku Terminal.
+What do you wanna do, Master?
+[END]
+15: (Burroughs) [7a 2][13 0, 405753]This is the Ikebukuro Terminal.
+What do you wanna do, Master?
+[END]
+16: (Burroughs) [7a 2][13 0, 405751]This is the Shibuya Terminal.
+What do you wanna do, Master?
+[END]
+17: (Burroughs) [7a 2][13 0, 405754]This is the Ginza Terminal.
+What do you wanna do, Master?
+[END]
+18: (Burroughs) [7a 2][13 0, 405760]This is the Blasted Kasumigaseki
+Terminal. What do you wanna do,
+Master?
+[END]
+19: (Burroughs) [7a 2][13 0, 405761]This is the Blasted Shinjuku Terminal.
+What do you wanna do, Master?
+[END]
+20: (Burroughs) [7a 2][13 0, 405762]This is the Blasted Shibuya Terminal.
+What do you wanna do, Master?
+[END]
+21: (Burroughs) [7a 2][13 0, 405763]This is the Blasted Ikebukuro
+Terminal. What do you wanna do,
+Master?
+[END]
+22: (Burroughs) [7a 2][13 0, 405764]This is the Infernal Kasumigaseki
+Terminal. What do you wanna do,
+Master?
+[END]
+23: (Burroughs) [7a 2][13 0, 405765]This is the Infernal Shinjuku Terminal.
+What do you wanna do, Master?
+[END]
+24: (Burroughs) [7a 2][13 0, 405766]This is the Infernal Shibuya Terminal.
+What do you wanna do, Master?
+[END]
+25: (Burroughs) [7a 2][13 0, 405767]This is the Infernal Ikebukuro
+Terminal. What do you wanna do,
+Master?
+[END]
+26: (Burroughs) [7a 2][13 0, 405756]This is the Toyosu Terminal.
+What do you wanna do, Master?
+[END]
+27: (Burroughs) [7a 2][13 0, 405757]This is the Tennozu Terminal.
+What do you wanna do, Master?
+[END]
+28: (Burroughs) [7a 2][13 0, 405768]This is the Purgatorium Terminal.
+What do you wanna do, Master?
+[END]
+29: (Burroughs) [7a 2][13 0, 405769]This is the Lucifer Palace Terminal.
+What do you wanna do, Master?
+[END]
+30: (Burroughs) [7a 2][13 0, 405601]So, where do you wanna travel to?
+[END]
+31: (Burroughs) [7a 2][13 0, 405600]What should we do, Master?
+[END]
+32: (Burroughs) [7a 2]Will the [Quest? 40] Terminal do?
+[END]
+33: (Burroughs) [7a 2][13 0, 405602]Activating transport mode...
+[END]
+34: (Burroughs) [7a 2][13 0, 405603]We're here.
+[END]
+35: (Burroughs) [7a 2][13 0, 405604]It's no good. I'm getting an error...
+[END]

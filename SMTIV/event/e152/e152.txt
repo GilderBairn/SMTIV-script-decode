@@ -1,0 +1,44 @@
+0: (Jonathan) [7a 3][7b 786435, 65537][13 0, 152001]...Are you satisfied now, Walter?
+[END]
+1: (Jonathan) [7a 3][7b 786435, 65537][13 0, 152002]I can empathize, I truly can.
+I loathe that Tayama as well.
+[->][13 0, 152003]But task at hand for us now is to
+eliminate the Black Samurai−−Lilith.
+[END]
+2: (Walter) [7a 4][7b 196612, 65537][13 0, 152004]Bah...
+[->][13 0, 152005]Is killing Lilith truly for the best?
+[END]
+3: (Jonathan) [7a 3][7b 786435, 65537][13 0, 152006]What...?
+[END]
+4: (Hugo) [7a 10][13 0, 152008]Oh... Ahh... *ahem* It has been some
+time since we last spoke, young Samurai.
+[->][13 0, 152009]It is I, Abbot Hugo.
+[END]
+5: (Hugo) [7a 10][13 0, 152010]I have a message from a certain
+someone...
+[END]
+6: (Hugo) [7a 10][13 0, 152011]Return to the Eastern Kingdom of
+Mikado at once, and travel to
+Shene Duque.
+[->][13 0, 152012]That is all from me.
+[END]
+7: (Burroughs) [7a 2][13 0, 152013]Well... It's a bit late to say this,
+but...
+[->][13 1, 400051]Congratulations on completing the quest.
+[END]
+8: (Isabeau) [7a 170][7b 393386, 65537][13 0, 152015]Very well. Jonathan, Walter, let us
+focus on our duty.
+[END]
+9: (Walter) [7a 4][13 1, 400202]......
+[END]
+10: (Isabeau) [7a 5][7b 65541, 65537][13 0, 152017]Odd, though... Shene Duque?
+[->][13 0, 152018]What task could await there, at that
+nominal holy land...? It is miles
+from anything...
+[END]
+103: (Jonathan) [7a 3][7b 131075, 65537][13 0, 152007]You... Have you taken leave of your
+senses?
+[END]
+110: (Burroughs) [7a 2][13 0, 400050]I'll register that as a new quest
+on the list.
+[END]

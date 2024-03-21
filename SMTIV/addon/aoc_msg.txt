@@ -1,0 +1,65 @@
+1: Yes
+No
+[END]
+2: An Internet connection is required from
+here on. Continue?
+[END]
+3: Quit viewing Add−On Content and
+return to the Title Menu?
+[END]
+4: Purchase [Item 1]?
+[END]
+5: Delete [Item 1]?
+[END]
+6: Download [Item 1] again?
+[END]
+7: Please do not remove the SD Card.
+[END]
+8: Deletion complete.
+[END]
+9: Enter the password?
+[END]
+10: The password is wrong.
+[END]
+11: Redeem Download Code
+[END]
+12: If you have a download code, you can enter
+it here. After redeeming the code, a special
+piece of equipment corresponding to the code
+will be downloaded for free and can be
+equipped through Menu −〉 Equip −〉 Body.
+[END]
+13: Enter a download code?
+[END]
+100: CAUTION:
+Add−on content for Shin Megami Tensei IV
+can be purchased here. Some content can
+only be played by progressing the main
+story, so please review the details of each
+add−on before purchase. Add−on content
+that you purchase can be played from
+any saved data.
+[END]
+101: Make selections by touching the
+lower screen from this point on.
+[END]
+102: Not Use
+[END]
+103: This service will begin in the near
+future. Please look forward to it!
+[END]
+104:  Blocks
+[END]
+105: Free
+[END]
+110: Connecting...
+[END]
+111: Please wait...
+[END]
+112: Preparing...
+[END]
+113: Deleting...
+[END]
+190: Loading the add−on content.
+Do not remove the SD Card.
+[END]

@@ -1,0 +1,48 @@
+0: (Ring of Gaea man) ...Who are you? You don't seem to be
+one of the Ring of Gaea.
+[->]Well, regardless, try to stay out of
+our way. If you cannot, then we'll slay
+you before dealing with Xi Wangmu.
+[END]
+1: (Ring of Gaea woman) Odd that you'd come to Ikebukuro now.
+Do you have family or loved ones here?
+[->]This may sound harsh, but don't get
+your hopes up. Ikebukuro's underground
+has been overrun by demons.
+[END]
+2: 〉 You have no more business here.
+[END]
+3: (Greedy Hunter) [13 1, 403013]Whaddaya want!? Don't come over here!
+[->]The treasure around here's all mine.
+[->]I'm gonna grab every last one!
+[END]
+14: (Hunter man) [13 1, 403001]H−Hey... I saw some people in red come
+down from the Metropolitan Expressway...
+[->]Y'think they were part of that Ring of
+Gaea? They went towards Sunshine...
+[END]
+15: (Hunter man) [13 1, 403001]I just saw someone in a strange black
+outfit, heading towards the underground
+district...
+[->]Huh? You want to know how to get to
+the underground district?
+[->]Well, first you take the southwest exit
+out. Northwest from there is the other
+entrance into the city.
+[->]Go in from there and you can't miss it.
+[END]
+17: (Ring of Gaea man) [13 1, 404311]The demon's nest is up ahead. Kaga seems
+to have gone in already...
+[->]Even if we send many against it, it is
+a great foreign demon. In truth, we have
+nearly no chance against it...
+[->]But if it inspires the people to see
+us take a stand against the demon,
+then that is enough.
+[END]
+18: 〉 There's no one here...
+[END]
+19: (Hunter man) That big building there is called
+Sunshine. It's always had a shady
+history, even back then...
+[END]

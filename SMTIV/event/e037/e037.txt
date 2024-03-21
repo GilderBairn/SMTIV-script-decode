@@ -1,0 +1,83 @@
+0: (Baker) [7a 23][13 0, 37001]Welcome.
+[->][13 0, 37002]...Hm? Jonathan, my boy! I heard
+that you became a noble Samurai.
+[->][13 0, 37003]It must be inconvenient, going without
+your servants, but I hope you'll
+continue your patronage here.
+[END]
+1: (Walter) [7a 4][7b 786436, 65537][13 0, 37004]Hoy, we'll take three loaves. Can we
+get fresh−baked ones, still kicking?
+[END]
+2: (エラー) Not in use
+[END]
+3: (エラー) Not in use
+[END]
+4: (Baker) [7a 23][13 0, 37005]I don't know of any bread that kicks...
+but here you go. It's a pleasure
+to have you as a customer.
+[->][13 0, 37006]By the way...
+[->][13 0, 37007]Now that we're acquainted, I want to
+show you something interesting.
+[END]
+5: 〉 The baker removed something from
+his pocket.
+[END]
+6: (Jonathan) [7a 3][7b 65539, 65537][13 0, 37008]Is that... a book?
+[END]
+7: (Baker) [7a 23][13 0, 37009]Right you are. It's from a genre called
+”Literature.” They're stories about
+people in great turmoil.
+[END]
+8: (Baker) [7a 23][13 0, 37010]The more I read of these, the more
+I've come to realize something...
+[->][13 0, 37011]I've lived in darkness and ignorance
+up until now. It's adversity which
+develops a man's character.
+[END]
+9: (Jonathan) [7a 3][7b 65539, 131073][7b 393220, 65537][13 0, 37012]I myself am an avid reader, but I've
+never heard of this ”Literature.”
+[->][13 0, 37013]How did you come by that book...?
+[END]
+10: (Baker) [7a 23][13 0, 37014]An acquaintance of mine brought me to
+a Sabbath once.
+[->][13 0, 37015]While I was there, the Black Samurai
+gave it to me.
+[END]
+11: (Jonathan) [7a 3][7b 458755, 131073][7b 524292, 65537][13 0, 37016]Sabbath? Black Samurai?
+[END]
+12: (Baker) [7a 23][13 0, 37017]After partaking in that Sabbath and
+reading these books, I understand
+more fully...
+[END]
+13: (Walter) [7a 4][7b 655364, 65537][7b 786435, 131073][13 0, 37020]*ahem* I hate to interrupt your rousing
+speech, but do you think we might have
+that bread soon?
+[END]
+14: (Baker) [7a 23][13 0, 37021]Oh, but hear me out a while longer!
+There's so much more to be said about
+the wonders of Literature.
+[->][13 0, 37022]What have I read lately... Ah, how
+about these?
+[END]
+15: (Baker) [7a 23][13 0, 37023]Osamu Dazai's ”No Longer Human”...
+[->][13 0, 37024]And then there's Ogai Mori's
+”The Dancing Girl”...
+[END]
+16: (Walter) [7a 4][7b 524292, 65537][13 0, 37025]...We'll take these, thank you.
+[END]
+17: (Jonathan) [7a 3][7b 458755, 131073][13 0, 37026]Oh... one moment, Walter...!
+[END]
+18: (Jonathan) [7a 3][7b 65539, 65537][13 0, 37027]Excuse me, but we must be going.
+I'll... leave the payment here.
+[END]
+112: (Baker) [7a 23][13 0, 37018]You see, Luxurors truly think of
+little but their own convenience.
+[->][13 0, 37019]Everyone speaks of equality, but that
+is a ruse we Casualries have been
+subjected to...
+[END]
+116: 〉 Walter took his bread and left
+the bakery.
+[END]
+118: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]

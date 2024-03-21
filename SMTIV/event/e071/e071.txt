@@ -1,0 +1,12 @@
+0: (Burroughs) [7a 2][13 0, 71001]This is a [Color:0x5]relic.[Color:0x0] It's one of the
+things the Monastery is searching for.
+[END]
+1: Mystic relics can be found in various
+places on the map. They are rare and
+precious both in Tokyo and Mikado.
+[->]Mystic relics can be sold at shops in
+exchange for Macca.
+[END]
+2: (Burroughs) [7a 2][13 0, 71002]Let's search high and low for them!
+I'll be your guide.
+[END]

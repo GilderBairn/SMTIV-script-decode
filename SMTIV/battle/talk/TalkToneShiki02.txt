@@ -1,0 +1,664 @@
+0: Dummy Message
+[END]
+1: [71 1]I may be dead... but I am Samurai.
+I will not... be anyone's demon...
+[->][END]
+2: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]NOT USED
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]I am [Color:0x5][Demon race 1] [Demon name 1]...[Color:0x0]
+Now... Let us go...
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]Leave it... to me...
+It is... a Samurai's... duty.
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]I thought... I could rest...
+after my death...
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]If you want... me to... sheath my
+blade... you must... make a deal
+with me...
+[->][END]
+26: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+27: [71 1]Leave...
+This is courtesy... from one Samurai
+to another...
+[->][END]
+28: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+29: [71 1]Let me... sleep... I'm... tired...
+of everything...
+[->]Leave... if you will...
+[->][END]
+30: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+31: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+32: [71 1]I'll... heal you... 
+Go... Fulfill... your duty...
+[->][END]
+33: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+34: [71 1]An offering... to a fallen
+compatriot... huh...
+[->][END]
+35: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+36: [71 1]Even... after death... 
+It makes... me happy...
+[->][END]
+37: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+38: [71 1]An offering... to a fallen
+compatriot... huh...
+[->]Hahahaha...
+It would seem... I have earned...
+a posthumous promotion...
+[->][END]
+39: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+40: [71 1]Ahh... It feels... so good...
+I could... just... rise to heaven...
+[->][END]
+41: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+42: [71 1]Asking... a Samurai... for mercy...?
+Then... give me... a suitable...
+reward...
+[->][END]
+43: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+44: [71 1]I hope... this healing... is of use
+to you...
+[->][END]
+45: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+46: [71 1]Let me... sleep...
+I must... rest...
+[->]You must rest, too...
+[->][END]
+47: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+48: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+49: [71 1]Mercy... is never bad...
+[->]Allow me... to do it again...
+[->][END]
+50: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+51: [71 1]We are... both Samurai...
+What are you doing...?
+[->][END]
+52: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+53: [71 1]Is this... the way... of the Samurai
+today...?
+[->][END]
+54: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+55: [71 1]You disgrace... the Samurai...
+I shall punish you...
+[->][END]
+56: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+57: [71 1]S... Stop... it...!
+[->][END]
+58: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+59: [71 1]You are... Samurai...
+Have you no shame...?
+[->][END]
+60: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+61: [71 1]Stop... I tire of this...
+[->][END]
+62: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+63: [71 1]Gaaaaah! I cannot... take it...
+anymore...!
+[->][END]
+64: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+65: [71 1]We are... both Samurai...
+What are you doing...?
+[->][END]
+66: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+67: [71 1]I cannot... give it away...
+Not even... to a fellow Samurai...
+[->][END]
+68: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+69: [71 1]Take it...
+May it prove... useful...
+[->][END]
+70: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+71: [71 1]Take it...
+My Samurai brother...
+[->][END]
+72: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+73: [71 1]You can... have this, as well...
+It would... serve you... better...
+[->][END]
+74: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+75: [71 1]NOT USED
+[->][END]
+76: NOT USED
+[END]
+77: [71 1]NOT USED
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]NOT USED
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]Could you... spare me...
+[Color:0x1]a bit of your life...?[Color:0x0]
+[->][END]
+82: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+83: [71 1]Could you... spare me...
+[Color:0x1]some of your life...?[Color:0x0]
+[->][END]
+84: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+85: [71 1]Could you... spare me...
+[Color:0x1]a portion of your life...?[Color:0x0]
+[->][END]
+86: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+87: [71 1]Could you... spare me...
+[Color:0x1]a large chunck of your life...?[Color:0x0]
+[->][END]
+88: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+89: [71 1]Could you... spare me...
+[Color:0x1]a taste of your spirit...?[Color:0x0]
+[->][END]
+90: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+91: [71 1]Could you... spare me...
+[Color:0x1]some of your spirit...?[Color:0x0]
+[->][END]
+92: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+93: [71 1]Could you... spare me...
+[Color:0x1]a good deal of your spirit...?[Color:0x0]
+[->][END]
+94: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+95: [71 1]Could you... spare me...
+[Color:0x1]almost all of your spirit...?[Color:0x0]
+[->][END]
+96: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+97: [71 1]Your ally... Give me the life of...
+[Color:0x1][Demon name 2]...[Color:0x0]
+[->][END]
+98: NOT USED
+[END]
+99: [71 1]Could you... spare me...
+your... [Color:0x1]something special...[Color:0x0]
+[->][END]
+100: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+101: [71 1]What do I want...?
+You choose... for me...
+[->][END]
+102: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+103: [71 1]That's right... I wanted... this...
+[->][END]
+104: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+105: [71 1]No... Not that...
+[->][END]
+106: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]This is... enough...
+[->][END]
+121: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+122: [71 1]Ooh... This is... more than I was
+expecting...
+[->][END]
+123: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+124: [71 1]I see... You can't... give it
+to me...
+[->][END]
+125: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+126: [71 1]You are... hoarding it... I cannot...
+forgive... this attitude...
+[->][END]
+127: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+128: [71 1]Never... mind...
+[->][END]
+129: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+130: [71 1]You would... trick me... I cannot
+forgive... this attitude...
+[->][END]
+131: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+132: [71 1]You should... always have one...
+[->][END]
+133: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+134: [71 1]You need... a Life Stone... at the
+very least...
+[->][END]
+135: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+136: [71 1]You are right... The dead have no
+need for things...
+[->][END]
+137: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+138: [71 1]So... you will not... give me things?
+I cannot... forgive... this attitude.
+[->][END]
+139: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+140: [71 1]You have... an iron will... You do
+not... give in... You are a true
+Samurai...
+[->]I am... impressed...
+[->][END]
+141: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+142: [71 1]You have no will... of your own...
+You attempt to... toady to me...
+Where is your pride...?
+[->]I shall... make you... remember...
+what it is... to be a Samurai...
+[->][END]
+143: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+144: [71 1]You have... nothing?
+The warrior's... life is... hard...
+[->]I feel... sorry for you...
+This... is... enough.
+[->][END]
+145: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]You again... I am familiar...
+with you...
+[->]We Samurai... must be... naturally
+drawn to... one another...
+[->][END]
+149: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]Yes... We should stop...
+this pointless battle...
+[->][END]
+153: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+154: [71 1]You offer gifts... to a fallen
+Samurai?
+[->]Thank you... truly.
+[->][END]
+155: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+156: [71 1]If you want mercy... from this...
+rotting corpse... you may have it.
+[->][END]
+157: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+158: [71 1]You are... in need? I do not have
+much... but here...
+[->][END]
+159: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+160: [71 1]Then here... I hope... this assists
+you... in your quest...
+[->][END]
+161: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+162: [71 1]My body... may be dead... but even
+I tire of repetition...
+[->][END]
+163: Reserve
+Reserve
+Reserve
+Reserve
+Reserve
+[END]
+164: [71 1]I finally... found you...
+[Flynn]...
+[->]Let's go...
+[->][END]
+165: [71 1]My soul... still has value...
+Would you spare me... mercy?
+One Samurai to another...?
+[->]What is it... you want...?
+[->][END]
+166: Reserve
+[END]
+167: [71 1]A Samurai... never goes back...
+on his word...
+[->][END]
+168: Reserve
+[END]
+169: [71 1]And so... I die... again...
+[->][END]
+170: Reserve
+[END]
+171: [71 1]Reserve
+[->][END]
+172: [71 1]Reserve
+[->][END]
+173: [71 1]Reserve
+[->][END]
+174: [71 1]Reserve
+[->][END]

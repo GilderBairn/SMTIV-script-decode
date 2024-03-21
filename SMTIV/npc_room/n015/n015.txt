@@ -1,0 +1,22 @@
+0: (Female ghost) [7a 102][13 1, 404612]What? You want me to rest... in peace?
+Y−You want me to disappear!?
+[->]C'mon, gimme a break! This is my place!
+I'm not going anywhere, even if it means
+my soul!
+[END]
+1: (Female ghost) [7a 102][13 1, 404613]You know, all the other guys around are
+disappearing now. Is this what is meant
+by ”rest in peace”? Are they in heaven?
+[->]This is happening because you killed
+Ixtab, isn't it!? H−How dare you!
+[END]
+2: (Male ghost) [7a 101][13 1, 404502]What brought you here, living souls...?
+If this was a prestigious club...
+[->]You would be shown the door for your
+attire. Our dress code will have you
+out of here for good... heheheh.
+[END]
+3: (Male ghost) [7a 101][13 1, 404512]How can a soul trapped in flesh deny
+us...?
+[->]Fool... You are an irredeemable fool...
+[END]

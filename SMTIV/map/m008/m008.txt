@@ -1,0 +1,10 @@
+1: (Burroughs) [7a 2][13 0, 503001]I detect a very dangerous demon nearby.
+You should consider getting out of here.
+[END]
+2: 〉 Will you stay here?
+[END]
+3: 〉 Will you really stay here?
+[END]
+4: Yes
+No
+[END]

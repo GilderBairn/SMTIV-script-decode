@@ -1,0 +1,8 @@
+0: This is a request from me, the next [Color:0x5]King of Tokyo.[Color:0x0]
+[Color:0x5]Let's take Shinjuku! It's northwest from
+Kasumigaseki[Color:0x0] and has tons of supplies and
+[Color:0x5]neurishers.[Color:0x0] We'll probably have to [Color:0x5]fight the one
+in charge there,[Color:0x0] but I'll be right behind you
+[Color:0x5]Intruders.[Color:0x0] If worse comes to worst, I'll be sure
+to collect your ashes.
+[END]

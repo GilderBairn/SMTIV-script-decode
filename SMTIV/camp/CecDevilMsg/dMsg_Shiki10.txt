@@ -1,0 +1,25 @@
+0: [71 1]And so, another world dies...
+[->][END]
+1: [71 1]I have completed my mission...
+Death has fallen on another realm.
+[->][END]
+2: [71 1]I bore witness... to the Samurai who
+fought for their lives, and failed...
+[->][END]
+3: [71 1](provisional) StreetPass Transformation
+[->][END]
+4: [71 1](provisional) StreetPass Transformation 2
+[->][END]
+5: [71 1](provisional) StreetPass Transformation 3
+[->][END]
+6: [71 1]Death itself brings you a souvenir
+of its travels... Will it server you
+well in life?
+[->][END]
+7: [71 1]I shall give you this gift of life.
+It protected the Samurai of another
+world...
+[->][END]
+8: [71 1]Death, destruction, a universe gone
+to rot... And only this remains.
+[->][END]

@@ -1,0 +1,15 @@
+0: Some people are trying to hold a summoning
+ritual at [Color:0x5]Shibuya 108.[Color:0x0] We want them stopped
+before any more things appear in the city.
+Please defeat the demon leading this ritual.
+Infiltrate their group and take down the
+demon when he appears to lead the summoning.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

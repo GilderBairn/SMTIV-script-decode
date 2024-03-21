@@ -1,0 +1,34 @@
+0: 〉 A vast, white space spreads as far
+as you can see...
+[END]
+1: 〉 Jonathan is nowhere to be seen...
+[END]
+2: 〉 Walter is nowhere to be seen...
+[END]
+3: (Roaring voice) [13 0, 190001]...The gate has opened.
+[END]
+4: (White shadow) [7a 77][13 0, 190002]Upon receiving knowledge and wisdom,
+the atom that learned desire has
+opened the gate once more.
+[END]
+5: (White shadow) [7a 124][13 0, 190003]We ask the mitochondria within you...
+[END]
+6: (White shadow) [7a 124][13 0, 190004]Have you ever given thought to why
+humans are born? Why the world exists?
+[END]
+7: ”Yes, I have.”
+”No, I haven't.”
+[END]
+8: (White shadow) [7a 78][13 0, 190006]A single atom's revolt will damage
+no more than a single cell...
+[->][13 0, 190007]The damaged cell will quickly be
+healed by the other cells.
+[END]
+9: (White shadow) [7a 75][13 0, 190008]In order to sever this chain, there
+is a decision yet to be made.
+[END]
+10: (White shadow) [7a 1][13 0, 190009]We shall show you the guideposts for
+that decision.
+[END]
+11: (White shadow) [7a 124][13 0, 190005]Hah...
+[END]

@@ -1,0 +1,125 @@
+0: 〉 The blade of Masakado's Katana begins
+to resonate.
+[END]
+1: (Isabeau) [7a 5][13 0, 270001]Look! The boulder before us...!
+[END]
+2: (Demon) [7a 65176][13 0, 270002]I am Masakado...
+[END]
+3: (Masakado) [7a 65176][13 0, 270004]Ho there, [Flynn].
+[->][13 0, 270005]Ah... you have reincarnated.
+[END]
+4: (Isabeau) [7a 5][13 0, 270009]Oh... does that mean...?
+[END]
+5: (Masakado) [7a 65176][13 0, 270012]Unfortunately, my essence has left me
+to become the dome up above.
+[->][13 0, 270013]As it stands, I have no power to
+lend you.
+[END]
+6: (Masakado) [7a 65176][13 0, 270015]But that does not mean there is not
+a way.
+[->][13 0, 270016]Unite the souls of Tokyo's people as
+one to form a singular great soul.
+[->][13 0, 270017]What you call ”hope” is my
+nourishment... Offer this
+Great Spirit of Hope to me.
+[END]
+7: 〉 Masakado handed [Flynn] a chalice.
+[->]〉 Obtained the Chalice.
+[END]
+8: (Masakado) [7a 65176][13 0, 270020]When the chalice is filled, the Great
+Spirit of Hope will form on its own...
+[END]
+9: (Isabeau) [7a 5][13 0, 270022]But how are we to gather hope...?
+[->][13 0, 270023]Perhaps the best way is to travel the
+regions of Tokyo in search of some
+morsel that may help us...
+[END]
+10: 本来この後複数のサブクエストを行い
+人外ハンターのランキングで
+総合1位になる必要がありますが
+仮処理で総合1位になったことになります
+[->]総合1位になった事でどの町でも
+人気者である事が人外ハンター商会の
+店主から知らされます
+[END]
+11: (Bartender) [7a 24][13 0, 270024]Ah, Tokyo these days... No matter
+where you look, it's demons everywhere.
+[->][13 0, 270025]No wonder the Hunters' hearts aren't
+in it, eh? We'll be going bust if
+this keeps up.
+[->][13 0, 270026]What we need is some kind of gimmick
+to boost the Hunter trade...
+[END]
+12: (Bartender) [7a 24][13 0, 270027]That's why the Hunter Association has
+decided to change how the rankings work.
+[->][13 0, 270028]We've always ranked people in various
+categories, but from now on, we're
+switching to just one big list.
+[->][13 0, 270029]Basically, we're turning the system
+into a tournament to determine the
+champion Hunter.
+[->][13 0, 270030]Maybe the tournament−style rankings
+will liven up the Hunter trade.
+[END]
+13: (Bartender) [7a 24][13 0, 270031]Say... you're a Samurai from the world
+up top, right?
+[->][13 0, 270032]An outsider contending for the title
+would be a great way to drum up
+interest in the tournament.
+[->][13 0, 270033]If you won the championship, you'd be
+the man of the hour!
+[->][13 0, 270034]You'd be a shining ray of light for
+them... a hero that everyone could pin
+their hopes on.
+[END]
+14: (Bartender) [7a 24][13 0, 270035]With a hook like that, there's no way
+you can refuse, right?
+[->][13 0, 270036]The future of the Hunter trade could
+be riding on your shoulders.
+[->][13 0, 270037]I'll be counting on you.
+[END]
+100: 〉 There is a boulder before you...
+[->]〉 Unsheathe Masakado's Katana?
+[END]
+102: (Masakado) [7a 65176][13 0, 270003]The great spirit of the earth charged
+with protecting Tokyo...
+[END]
+103: (Masakado) [7a 65176][13 0, 270006]I am aware of your intentions.
+[END]
+104: (Isabeau) [7a 5][7b 458757, 65537][13 0, 270010]Will the rift between the Eastern
+Kingdom of Mikado and Tokyo be healed?
+Will their peoples live together...?
+[END]
+105: (Isabeau) [7a 5][13 0, 270014]What...?
+[END]
+106: (Masakado) [7a 65176][13 0, 270018]If you do this, my head will return
+to its body.
+[->][13 0, 270019]Here. Fill this chalice with the hopes
+of Tokyo's people.
+[END]
+108: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+111: 〉 The bartender addressed [Flynn]
+while washing dishes...
+[END]
+114: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]
+200: Unsheathe
+Don't unsheathe
+[END]
+202: (Burroughs) [7a 2][13 0, 400051]Congratulations on completing the quest.
+[END]
+203: (Masakado) [7a 65176][13 0, 270007]You wish to remove the dome above and
+restore Tokyo to its rightful form...
+[->][13 0, 270008]In short, you intend to revive the
+goddess of Tokyo, correct?
+[END]
+204: (Isabeau) [7a 5][7b 262149, 65537][13 0, 270011]What a splendid idea... There is
+the choice I've been longing for!
+[END]
+208: 〉 Masakado turned back into a boulder...
+[END]
+900: 総合ランキングに参加しないかと
+人外ハンター商会の店主に誘われます
+[END]

@@ -1,0 +1,16 @@
+0: (Voice) [13 0, 235001]You have done well to drive out the
+White, blessed warriors of light.
+[END]
+1: (Gabriel) [7a 65523][13 0, 235002]Their control over the Expanse seems
+to have dissipated for the time being.
+[->][13 0, 235003]I can now use my own power to return
+you to your world of origin.
+[END]
+2: (Gabriel) [7a 65523][13 0, 235004]Let us go. Together, we shall become
+shepherds of the lost flock...
+[END]
+3: (Jonathan) [7a 3][7b 786435, 65537][13 0, 235005]We must take care not to repeat the
+tragedies of Kiyoharu and Kenji...
+[->][13 0, 235006][7b 65539, 65537]...Let's return. To your world,
+[Flynn], and mine.
+[END]

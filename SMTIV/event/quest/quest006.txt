@@ -1,0 +1,6 @@
+0: This is Hope.
+We have gained information from a fellow who was investigating nearby that a Sabbath was taking place in the depths of the forest.
+There may be survivors of those who were participating in the Sabbath.
+[Color:0x5]Search inside the forest[Color:0x0] and ensure the safety of the survivors.
+That is all.
+[END]

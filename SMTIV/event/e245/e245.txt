@@ -1,0 +1,25 @@
+0: (White) [7a 78][13 0, 245001]Our fifth son, who chose neutrality...
+[END]
+1: (White) [7a 217][13 0, 245002]If you will not willingly choose
+nothingness, then I will unmake you.
+[END]
+2: (White) [我/われ]らの[慈悲/じひ]に[感謝/かんしゃ]するどころか
+[牙/きば]をむくとはな
+[END]
+3: (White) …ならば お[前/まえ]を
+[新/あら]たな[居場所/いばしょ]に[誘/いざな]ってやる…
+[->]『あの[世/よ]』と[言/い]う[名/]の[居場所/いばしょ]へなぁ…ッ
+[END]
+4: (Burroughs) [7a 2]This may sound sudden, but I've cross−
+referenced data from the past,
+Master [Flynn].
+[->]You won't allow God to destroy you,
+but you also won't seek the power to
+resist such destruction...
+[END]
+5: (Burroughs) [7a 2]You won't allow God to destroy you,
+but you also won't seek the power to
+resist such destruction...
+[END]
+105: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]

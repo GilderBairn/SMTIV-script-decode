@@ -1,0 +1,118 @@
+0: (Youth) [7a 6][7b 65542, 65537][13 0, 9001]What's this I see? Are you a prentice
+Samurai too?
+[END]
+1: (Walter) [7a 4][7b 655364, 65537][13 0, 9002]Yes, but look who's talking...
+Come to that, who are you?
+[END]
+2: (Navarre) [7a 6][7b 131078, 65537][13 0, 9003]I am Navarre! NAVARRE! This marks the
+third time I've said as much!
+[END]
+3: (Navarre) [7a 6][7b 524294, 65537][13 0, 9004]Let's see... Walter, I presume?
+You two are our last arrivals.
+[->][13 0, 9005]It seems Casualries tend to be
+dawdlers.
+[->][13 0, 9006]I find this cause for some concern.
+Don't you think so, Jonathan?
+[END]
+4: (Jonathan) [7a 3][7b 65539, 65537][13 0, 9007]Navarre... I believe that's enough.
+We're all prentices here, after all.
+[END]
+5: (Young lady) [7a 5][7b 524293, 65537][13 0, 9008]You're going to give him a bad
+impression of us Luxurors.
+[END]
+6: (Navarre) [7a 6][7b 131078, 65537][13 0, 9009]What!? That's rather cutting of you,
+isn't it, Isabeau!?
+[END]
+7: (Walter) [7a 4][7b 262148, 65537][13 0, 9010]Huh. You may be a Luxuror, but I
+think we'll get along fine.
+[END]
+8: (Isabeau) [7a 5][7b 524293, 65537][13 0, 9011]I don't know about that...
+[END]
+9: 〉 Isabeau addressed [Flynn].
+[END]
+10: (Isabeau) [7a 5][7b 65541, 196609][13 0, 9013]My name is Isabeau. What's yours?
+[END]
+11: Introduce yourself
+Remain silent
+[END]
+12: (Isabeau) [7a 5][7b 65541, 131073][13 0, 9014]I told you, Navarre. Thanks to you,
+we've gotten off on the wrong foot.
+[END]
+13: (Navarre) [7a 6][7b 786438, 65537][13 0, 9015]Wha... Hrrgh...
+[END]
+14: (Walter) [7a 4][7b 786436, 65537][7b 65541, 196609][13 0, 9016]Stay, [Flynn]...
+Let me speak for him.
+[END]
+15: 〉 Walter introduced [Flynn] to the
+others.
+[END]
+16: (Jonathan) [7a 3][7b 458755, 131073][7b 786436, 65537][13 0, 9017]Hm...? [Flynn]...?
+That's the name from my dream...
+[END]
+17: (Jonathan) [7a 3][7b 655363, 65537][13 0, 9018]...Sorry, never mind me.
+[->][7b 65539, 65537][13 0, 9019]Interesting... I am Jonathan.
+I look forward to working alongside
+you, my fellow prentice.
+[END]
+18: (Hope) [7a 8][7b 65544, 65537][13 0, 9020]...So you're all here, then.
+[END]
+19: (Navarre) [7a 6][7b 196614, 65537][13 0, 9021]A−Ah, the Commander's here...
+[END]
+20: (Hope) [7a 8][7b 65544, 65537][7b 196614, 65537][13 0, 9022]You five are the successful candidates
+from this year's Gauntlet Rite.
+[END]
+22: (Navarre) [7a 6][7b 131078, 65537][13 0, 9024]Are you truly so surprised? Five is a
+much bigger crop than usual!
+[END]
+24: (Navarre) [7a 6][7b 458758, 65537][13 0, 9026]What!? I was hardly the only−−!
+[END]
+25: (Hope) [7a 8][7b 65544, 65537][13 0, 9027]We will now begin your practical
+training.
+[END]
+26: (Hope) [7a 8][7b 65544, 65537][13 0, 9028]Henceforth, you will all be making
+forays into Naraku.
+[END]
+27: (Jonathan) [7a 3][7b 65539, 131073][13 0, 9029]Naraku...? If I recall correctly,
+that is reportedly the place where
+demons...
+[END]
+29: (Hope) [7a 8][7b 65544, 65537][13 0, 9031]You're Jonathan, yes? You seem very
+well−informed.
+[END]
+30: (Hope) [7a 8][7b 65544, 65537][13 0, 9034]Today, you will enter Naraku and
+receive basic Samurai training as
+you battle demons.
+[END]
+31: (Hope) [7a 8][7b 65544, 65537][13 0, 9035]You'll be given a small stipend to
+prepare yourselves, as well as a few
+common supplies.
+[END]
+32: 〉 You received 300 Macca.
+[->]〉 You received [41 20] x5.
+[END]
+33: (Hope) [7a 8][7b 65544, 65537][13 0, 9036]There are shops here in the square that
+handle what you'll need.
+[->][13 0, 9037]Each of you will enter Naraku as soon
+as you're ready.
+[->][13 0, 9038]I'll be in touch by and by with the
+details of the exercise.
+[END]
+34: (Hope) [7a 8][7b 458760, 65537][13 0, 9039]You're all dismissed. Go and make
+yourselves ready for training.
+[END]
+100: 〉 Other new Samurai recruits are
+gathered in the Aquila Statue Plaza.
+[END]
+108: (Isabeau) [7a 5][7b 65541, 196609][7b 655364, 65537][13 0, 9012]You've been quiet, though.
+[END]
+121: (Walter) [7a 4][7b 655364, 65537][13 0, 9023]Five...? People came from all over
+the Kingdom and only five were chosen?
+[END]
+123: (Hope) [7a 8][7b 65544, 65537][13 0, 9025]Cut the chitchat, Navarre.
+[END]
+128: (Walter) [7a 4][7b 655364, 65537][13 0, 9030]Demons?
+[END]
+129: (Isabeau) [7a 5][7b 196613, 65537][7b 655364, 65537][13 0, 9032]My father never would reveal to me
+the Samurai's true mission...
+[->][13 0, 9033]So it involves vanquishing demons...
+[END]

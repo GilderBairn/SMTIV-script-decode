@@ -1,0 +1,2293 @@
+0: [END]
+1: [71 1]I refuse. My thirst for blood is too
+strong right now for me to even
+consider allying with you.
+[->]Now, hurry and fight me.
+Offer me your blood...
+[->][END]
+2: No!
+Stay away!
+Filthy human!
+We will never join you!
+The very idea!
+[END]
+3: [71 1]You attacked me! Without so much as
+a ”Hello,” you simply hit me!
+[->]...This is an outrage.
+[->][END]
+4: You attacked us!
+What an outrage!
+How dare you...
+Well, I never!
+You brute!
+[END]
+5: [71 1]I refuse. My thirst for blood is too
+strong right now. I could not imagine
+forming a truce with you.
+[->]Now, hurry and fight.
+Offer your blood to me...
+[->][END]
+6: [71 1]Let us test just how strong your
+desire for me really is.
+[->][END]
+7: Do you want us?
+Let us find out.
+Come, boy...
+Give us a gift.
+Come closer.
+[END]
+8: [71 1]...I can definitely see your
+passion.
+[->][END]
+9: Such passion...
+I see it in you.
+Yes...
+It satisfies us.
+That will do.
+[END]
+10: [71 1]I am not quite in the mood...
+Perhaps you could offer me something
+to sway me in that direction?
+[->][END]
+11: *sigh*
+No, we think not.
+The mood is not right.
+Perhaps a gift...
+What do you think?
+[END]
+12: [71 1]But, it seems you already have more
+than enough allies... I see no room
+for me.
+[->][END]
+13: [71 1]I am [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+It is a pleasure to meet you.
+[->][END]
+14: [71 1]Oh, but... It appears that you are
+at a lower level than I am.
+[->]I'm sorry, but no true lady will
+serve a weaker man.
+[->][END]
+15: [71 1]...My, I know that demon with you.
+[->]Oh, I do hope the two of you get
+along. Don't you cheat on her!
+[->][END]
+16: [71 1]Why don't we take this opportunity to
+offer an invitation to the others?
+[->]We may have some volunteers who are
+attracted by my beauty...
+[->][END]
+17: [71 1]Oh! There is no room for anyone else
+to come along.
+[->][END]
+18: [71 1]I shall come along. Be thankful.
+[->][END]
+19: [71 1]Oh, what a group of killjoys.
+Just ignore them, and let us be on
+our way.
+[->][END]
+20: [71 1]Now, I shall join you.
+[->][END]
+21: [71 1]Ah, yes. We have come this far, so
+allow me to introduce you to one of
+my acquaintances.
+[->]Do you have any particular
+preferences? ...I suppose not,
+you being a human and all.
+[->][END]
+22: [71 1]I would prefer to be able to choose
+any man I am to be with...
+[->]But I cannot turn down a request
+from [Demon name 2].
+[->][END]
+23: Oh, my.
+You already have one?
+Why, splendid.
+Make use of her.
+Now, excuse us.
+[END]
+24: Do not hold back.
+Summon us.
+This power...
+We serve you.
+We shall be waiting.
+[END]
+25: [71 1]You would surrender to a lady?
+How pathetic.
+[->]I demand you give me your life's
+savings. I want to see a pile of
+gifts before me!
+[->][END]
+26: Surrendering?
+Pitiful man...
+Give us gifts!
+Yes! Gifts!
+As much as you can!
+[END]
+27: [71 1]Go your own way, base creature.
+[->][END]
+28: I grow tired.
+Leave!
+Go away.
+Leave us, boy.
+Lowly human.
+[END]
+29: [71 1]Zzzzz...
+[->]Beauty rest is important...
+If you want to fight...
+Ask me later...
+[->][END]
+30: Zzzzz...
+Zzzzz...
+Zzzzz...
+Zzzzz...
+*snore*
+[END]
+31: ...We are sleeping.
+I don't care.
+Leave us alone.
+Go away.
+Mmmmeh.
+[END]
+32: [71 1]Please, wait. I cannot let you
+leave like this...
+[->][END]
+33: Wait.
+Don't go.
+Let us help.
+Here.
+Take this.
+[END]
+34: [71 1]You wish to speak with me?
+...I won't do it for free.
+[->][END]
+35: Not Used
+[END]
+36: [71 1]You are a lucky man to be able to
+spend time with me. Take a moment
+to enjoy this euphoric bliss.
+[->][END]
+37: Not Used
+[END]
+38: [71 1]You... wish to talk... to me?
+Are you sure?
+[->]Thank you... Thank you...!
+Let's talk about anything!
+[->][END]
+39: Not Used
+[END]
+40: [71 1]Hmhmhm... A lady takes great delight
+in making a conversation last. You'll
+have plenty of time to enjoy this.
+[->][END]
+41: Not Used
+[END]
+42: [71 1]My, what a feeble−looking human...
+Would you like a beautiful lady
+demon to heal you?
+[->]If so, then give me something.
+[->][END]
+43: Not Used
+[END]
+44: [71 1]Here is my mercy... I will let you
+live just a little longer.
+[->][END]
+45: Not Used
+[END]
+46: [71 1]Zzzz... Ahh...
+Sleep is so... relaxing...
+[->]I shall... share this relaxation...
+with you...
+[->][END]
+47: Not Used
+[END]
+48: Not Used
+[END]
+49: [71 1]My power fills you... This is such a
+pleasant feeling! Please, allow me to
+do that once more.
+[->][END]
+50: Not Used
+[END]
+51: [71 1]...I could see why you would offer
+me money, but to ask me to give
+you some...?
+[->]Why should I give you anything?
+[->][END]
+52: Not Used
+[END]
+53: [71 1]How terrifying... You, sir, are a
+greed−fueled madman!
+[->][END]
+54: Not Used
+[END]
+55: [71 1]...Now, are you ready?
+[->]You shall die a cruel death, as only
+befits a money−crazed beast such as
+yourself.
+[->][END]
+56: Not Used
+[END]
+57: [71 1]No! You mustn't...
+[->][END]
+58: Not Used
+[END]
+59: [71 1]Stop this at once! There is no merit
+in gaining money this way...!
+[->][END]
+60: Not Used
+[END]
+61: [71 1]...You desire money? Money is
+everything to you, then? Fine, take
+it! Take it all!
+[->]Have your precious, precious money!
+Does it make you feel any better!?
+[->][END]
+62: Not Used
+[END]
+63: [71 1]Take your hands off of me, you
+ruffian!
+[->][END]
+64: Not Used
+[END]
+65: [71 1]I cannot believe you would demand
+money from a lady who is helpless...
+[->]No! You mustn't...
+[->][END]
+66: Not Used
+[END]
+67: [71 1]You do not ask a woman for her company,
+but for her possessions? You are
+very strange...
+[->][END]
+68: Not Used
+[END]
+69: [71 1]Here, you may have this. I believe
+it suits you.
+[->][END]
+70: Not Used
+[END]
+71: [71 1]Today I am having a special!
+I am getting rid of my leftovers!
+[->]What's that? Did you say I was a
+leftover, too? Ha hah... Silence.
+[->][END]
+72: Not Used
+[END]
+73: [71 1]You may have this. I know, sometimes
+I'm just too generous...
+[->][END]
+74: Not Used
+[END]
+75: [71 1]I despise wasting time. Let this be
+our first and last chance to talk.
+[->]I want [Color:0x1][Amount 1] Macca.[Color:0x0]
+Can you afford that?
+[->][END]
+76: Not Used
+[END]
+77: [71 1]Offer me... [Color:0x1][Item 1]...[Color:0x0]
+[->][END]
+78: Not Used
+[END]
+79: [71 1]Offer me [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+80: Not Used
+[END]
+81: [71 1]Offer me [Color:0x1]but an ounce[Color:0x0] of
+your [Color:0x1]life.[Color:0x0]
+[->][END]
+82: Not Used
+[END]
+83: [71 1]Offer me [Color:0x1]a fair amount[Color:0x0] of
+your [Color:0x1]life.[Color:0x0]
+[->][END]
+84: Not Used
+[END]
+85: [71 1]Offer me [Color:0x1]much[Color:0x0] of
+your [Color:0x1]life.[Color:0x0]
+[->][END]
+86: Not Used
+[END]
+87: [71 1]Offer me [Color:0x1]a maddening amount[Color:0x0] of
+your [Color:0x1]life.[Color:0x0]
+[->][END]
+88: Not Used
+[END]
+89: [71 1]Offer me [Color:0x1]but an ounce[Color:0x0] of
+your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+90: Not Used
+[END]
+91: [71 1]Offer me [Color:0x1]a fair amount[Color:0x0] of
+your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+92: Not Used
+[END]
+93: [71 1]Offer me [Color:0x1]much[Color:0x0] of
+your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+94: Not Used
+[END]
+95: [71 1]Offer me [Color:0x1]a maddening amount[Color:0x0] of
+your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+96: Not Used
+[END]
+97: [71 1]I want your ally dead...
+Yes, offer me [Color:0x1][Demon name 2]'s life.
+[->][END]
+98: Not Used
+[END]
+99: [71 1]I want a... [Color:0x1]certain something.[Color:0x0]
+You know what I mean, yes?
+[Color:0x1]That![Color:0x0]
+[->][END]
+100: Not Used
+[END]
+101: [71 1]You should know what I want by now
+without me having to tell you.
+[->][END]
+102: Not Used
+[END]
+103: [71 1]You truly do understand me...
+Thank you. I'll take that.
+[->][END]
+104: Not Used
+[END]
+105: [71 1]You fail to understand the workings
+of my mind. Useless man!
+[->][END]
+106: Not Used
+[END]
+107: [71 1]Your pathetic face fills me with an
+urge... to slap you. Allow me to
+indulge this impulse.
+[->][END]
+108: Your face...
+I want to slap it.
+You look pathetic.
+May we?
+So, so, slappable.
+[END]
+109: ”By all means.”
+”No way.”
+[->][END]
+110: [71 1]Very well. You know, many would
+consider it an honor to be slapped
+by a beautiful woman such as me.
+[->][END]
+111: Ah, thank you.
+This is an honor...
+...For you, that is!
+Oh, yes.
+Prepare for slapping!
+[END]
+112: 〉 The demon slaps [Flynn]!
+[->][END]
+113: 〉 The demons all slap [Flynn]!
+[->][END]
+114: [71 1]Very well. But, since this is a
+special case, I shall have to make
+the most of this slap.
+[->]Hrrah!
+[->][END]
+115: Ah, thank you.
+This is an honor...
+...For you, that is!
+Slap him so hard!
+Ha ha ha!
+[END]
+116: 〉 The demon smartly slaps [Flynn]
+across the face with great force!
+[->][END]
+117: 〉 The demons take turns slapping
+[Flynn] absolutely silly!
+[->][END]
+118: [71 1]You really are quite pathetic.
+[->][END]
+119: I see...
+You are pathetic.
+It's miserable.
+So, so pathetic.
+I'm embarrassed.
+[END]
+120: [71 1]This should suffice. After all,
+being too greedy is unsightly.
+[->][END]
+121: Not Used
+[END]
+122: [71 1]Ahhhh... I am bursting with joy!
+Getting gifts is absolutely grand!
+[->][END]
+123: Not Used
+[END]
+124: [71 1]...You refuse to listen to me?
+[->][END]
+125: Not Used
+[END]
+126: [71 1]...I know you have it.
+[->]I hate cheap men. I will just kill
+you now.
+[->][END]
+127: Not Used
+[END]
+128: [71 1]...Very well.
+I will not ask you again.
+[->][END]
+129: Not Used
+[END]
+130: [71 1]You tried to deceive me...
+[->]I hate men who lie to me.
+You deserve nothing but death.
+[->][END]
+131: Not Used
+[END]
+132: [71 1]You have come unprepared.
+[->][END]
+133: Not Used
+[END]
+134: [71 1]This isn't going to go anywhere if
+you can't even give me a Life Stone.
+[->][END]
+135: Not Used
+[END]
+136: [71 1]Ah, pardon me. Was I intruding?
+[->][END]
+137: Not Used
+[END]
+138: [71 1]Are those all the gifts you are
+going to give me...?
+[->]You miser! To think I was having
+nice thoughts about you... Die!
+[->][END]
+139: Not Used
+[END]
+140: [71 1]I've never had a man refuse me so
+many times...
+[->]It's so enticing! I'm tingling with
+ecstasy! Please, deny me again!
+[->][END]
+141: Not Used
+[END]
+142: [71 1]Oh, that again. Why are you being so
+compliant?
+[->]You are nothing but a dog, wagging
+his tail for his better. I would
+rather not talk with dogs.
+[->][END]
+143: Not Used
+[END]
+144: [71 1]Hahahahaha... You have nothing?
+[->]I never thought that looking at a
+man as miserable and pitiful as
+you would make my heart dance so...!
+[->][END]
+145: Not Used
+[END]
+146: [71 1]Oh, my! I must be going now!
+[->][END]
+147: Not Used
+[END]
+148: [71 1]My, my, if it isn't you, [Flynn]!
+[->]Hmhm... I see you are addicted to
+forming relationships with demons.
+[->][END]
+149: Oh, it's you!
+Ha ha ha!
+Still with demons?
+It's addictive, yes?
+I can relate.
+[END]
+150: [71 1]Quite honestly, I was searching
+for a human partner worthy of my
+attentions.
+[->]I know you would be a perfect fit.
+[->][END]
+151: Hm. A partner...
+We were searching, too.
+This must be fate.
+How delightful!
+Ha ha ha!
+[END]
+152: [71 1]You're right... I can't kill you,
+even if demons and humans are
+enemies. You're a friend.
+[->]Consider yourself lucky.
+Until next time...
+[->][END]
+153: I can't kill you...
+You're an acquaintance.
+Until next time...
+Hurry, go!
+Run!
+[END]
+154: [71 1]Ah, but this is not simply idle
+chatter.
+[->]Any time I can spend with you is
+never a waste.
+[->][END]
+155: A present...?
+For us?
+Oh, don't!
+The thought counts.
+Ha ha!
+[END]
+156: [71 1]My! Are you hurt?
+[->]Please, let me grant you mercy.
+Let it seep into your entire body.
+[->][END]
+157: I understand.
+Respecting demons...
+A wise move.
+Here...
+Our mercy.
+[END]
+158: [71 1]Oh, dear. Your face just screams
+that you're positively destitute!
+[->]Please, take this money. I was
+keeping it with me just in case I
+ran into you.
+[->][END]
+159: Please...
+No violence.
+Here.
+It's not much...
+I hope it helps.
+[END]
+160: [71 1]You want an item...?
+Not... Not m−−
+[->]...Never mind. Now, take this.
+[->][END]
+161: Just an item?
+Are you sure?
+Never mind...
+Will this do?
+Take it.
+[END]
+162: [71 1]I grow weary of going over the same
+topic again and again. Can you be
+more considerate of how I feel?
+[->][END]
+163: Not Used
+[END]
+164: [71 1]You're late, [Flynn]. I'd hoped
+that you would find me sooner.
+[->][END]
+165: [71 1]H−Hey! Wait!
+Please, don't kill me...!
+[->]Surely you can do better things with
+me than kill me, right...?
+[->][END]
+166: Wait!
+Don't kill me!
+Hey!
+I have better uses!
+...Right?
+[END]
+167: [71 1]Ahhhh! I'd be happy to oblige!
+[->][END]
+168: Of course!
+I'd be happy to!
+Yes!
+That's it!
+Smart move!
+[END]
+169: [71 1]Are you stupid!? You should just die!
+[->][END]
+170: Why?
+Why!?
+Are you stupid!?
+Are you stupid!?
+Are you stupid!?
+[END]
+171: [71 1]Ahh, a human. ...What should I do?
+[->]Say, I have a favor to ask of you.
+Will you hear what I have to say?
+[->][END]
+172: [71 1]Ahh, a Hunter. ...What should I do?
+[->]Say, I have a favor to ask of you.
+Will you hear what I have to say?
+[->][END]
+173: [71 1]Oh, thank goodness. You are really
+helping me by doing this.
+[->]You see, an acquaintance of mine
+has a slight problem...
+[->][END]
+174: [71 1]Now that you know the details, hurry
+up and begin the task we have given
+you.
+[->][END]
+176: [71 1]You are not the man I am looking for.
+Move out of my way.
+[->][END]
+177: Reserve
+[END]
+178: [71 1]”Very well.”
+”I refuse.”
+[->][END]
+179: 〉 [Flynn] stands to the side and
+bows slightly...
+[->][END]
+180: [71 1]You're allowing me to pass?
+You really are quite the gentleman.
+[->][END]
+181: Reserve
+[END]
+182: [71 1]Not Used
+[->][END]
+183: Not Used
+[END]
+184: [71 1]You coward. You can't stand up to a
+woman with personality.
+[->]You may as well just lie in the mud
+and let me walk all over you. You
+deserve nothing better.
+[->][END]
+185: Reserve
+[END]
+186: Not Used
+[->][END]
+187: [71 1]Of course, I know my beauty is
+nothing less than stunning.
+[->][END]
+188: Reserve
+[END]
+189: [71 1]Ah, I finally meet a man who doesn't
+blindly follow every command I give.
+[->]It would appear that you ARE the
+man I'm looking for.
+[->][END]
+190: Reserve
+[END]
+191: [71 1]Oh? Do you think that you are the
+man I'm looking for, then?
+[->]You must survive a test of my
+pleasure, first.
+[->][END]
+192: Reserve
+[END]
+193: Not Used
+[->][END]
+194: [71 1]Not Used
+[->][END]
+195: Not Used
+[END]
+196: [71 1]Not Used
+[->][END]
+197: Not Used
+[END]
+198: [71 1]Not Used
+[->][END]
+199: Not Used
+[END]
+201: [71 1]...You really do look rather poor.
+Do you think you are worthy of me?
+[->][END]
+202: Reserve
+[END]
+203: [71 1]”I do.”
+”Perhaps I don't.”
+”Appearances can be deceiving.”
+[->][END]
+204: Not Used
+[->][END]
+205: [71 1]Oh? Perhaps you do after all, if you
+can speak to me with such boldness.
+[->][END]
+206: Reserve
+[END]
+207: [71 1]Not Used
+[->][END]
+208: Not Used
+[END]
+209: [71 1]I certainly hope not. I cannot make
+you my slave if you are my equal.
+[->][END]
+210: Reserve
+[END]
+211: Not Used
+[->][END]
+212: [71 1]Oh? And I was hoping you might be...
+[->]You must be tired. You should rest
+up and regain your self−confidence.
+[->][END]
+213: Reserve
+[END]
+214: [71 1]Not Used
+[->][END]
+215: Not Used
+[END]
+216: [71 1]Then why are you talking to me?
+[->]Did you think I was some easy woman
+who could be won over by any man
+without a scrap of self−confidence?
+[->][END]
+217: Reserve
+[END]
+218: Not Used
+[->][END]
+219: [71 1]No... It's all about looks. I can
+only bring myself to like a person
+if I like his face.
+[->][END]
+220: Reserve
+[END]
+221: [71 1]So, you think that what you carry
+means more than what you look like?
+[->]I shall join your stock, then, and
+you can carry me!
+[->][END]
+222: Reserve
+[END]
+223: [71 1]Oh, is that so? Should I not judge
+the book of you by your cover?
+[->]Let me tear your entrails out, and
+I will judge you by how they look
+instead.
+[->][END]
+224: Reserve
+[END]
+226: [71 1]...You have an unpleasant odor.
+Is there anything you can do about
+that?
+[->][END]
+227: Reserve
+[END]
+228: [71 1]Apply deodorant
+Borrow some perfume
+Remove your clothing
+[->][END]
+229: 〉 [Flynn] puts on an extra layer
+of deodorant...
+[->][END]
+230: [71 1]Remember not to use too much
+deodorant. A man who smells like
+nothing is just as disturbing.
+[->][END]
+231: Reserve
+[END]
+232: [71 1]Not Used
+[->][END]
+233: Not Used
+[END]
+234: [71 1]What are you doing? That's air
+freshener, not deodorant spray.
+[->]...Are you a toilet?
+Well, I never!
+[->][END]
+235: Reserve
+[END]
+236: 〉 [Flynn] asks the demon to let
+him use her perfume...
+[->][END]
+237: [71 1]I had my doubts when I saw your
+hairstyle, but...
+[->]You really are a female human, then?
+This perfume would fit you perfectly!
+[->][END]
+238: Reserve
+[END]
+239: [71 1]No, perfume won't cover up that
+smell...
+[->]I'll have to cover you with my own
+scent!
+[->][END]
+240: Reserve
+[END]
+241: [71 1]You are merely trying to conceal
+one scent with a more powerful
+one!
+[->]That does nothing to address the
+underlying problem. A typical
+human response...
+[->][END]
+242: Reserve
+[END]
+243: 〉 [Flynn] begins to disrobe...
+[->][END]
+244: [71 1]My! Are you disarming yourself for
+me? You're quite reasonable, human.
+[->][END]
+245: Reserve
+[END]
+246: [71 1]Not Used
+[->][END]
+247: Not Used
+[END]
+248: [71 1]Yes, take it off!
+More!
+[->]Let me help! I'll strip away your
+skin and flesh, so you can be nothing
+but bones.
+[->][END]
+249: Reserve
+[END]
+251: [71 1]If it is your intention to flirt
+with me, why have you not given me
+flowers?
+[->][END]
+252: Reserve
+[END]
+253: [71 1]Give her thorned flowers
+Give her dried flowers
+Give her a carnivorous plant
+[->][END]
+254: 〉 [Flynn] gives the demon a flower
+with extra thorns...
+[->][END]
+255: [71 1]...These thorns make me sad.
+[->]Even as I speak to you right now,
+your heart is as prickly as these
+thorns, isn't it?
+[->][END]
+256: Reserve
+[END]
+257: [71 1]...It's probably because I'm so
+prickly that all my men leave me...
+[->]Would you accept me, thorns and all?
+[->][END]
+258: Reserve
+[END]
+259: [71 1]Oh! You know I feel thorny right
+now, don't you...?
+[->]Yes... I want to stick everything,
+and make the world bleed!
+[->][END]
+260: Reserve
+[END]
+261: 〉 [Flynn] gives the demon a bouquet
+of dried flowers...
+[->][END]
+262: [71 1]...You understand me.
+[->]Even a dried−up old woman like me
+is not without her beauty.
+[->][END]
+263: Reserve
+[END]
+264: [71 1]Not Used
+[->][END]
+265: Not Used
+[END]
+266: [71 1]Oh, I see. You're calling me a
+withered flower, are you?
+[->]You can water me, though...
+with your blood.
+[->][END]
+267: Reserve
+[END]
+268: 〉 [Flynn] gives the demon a
+carnivorous plant...
+[->][END]
+269: [71 1]Hm... Is it your plan to snare my
+heart, like this flower snares a
+fly? Do you think you're up to it?
+[->][END]
+270: Reserve
+[END]
+271: [71 1]Yes, I am like this little plant...
+[->]I will clear the air of any annoying
+insects that come near you.
+[->][END]
+272: Reserve
+[END]
+273: [71 1]Ugh... This disgusting thing uses a
+sweet scent and bewitching looks
+only to attract prey to devour...
+[->]...Are you saying I'm like that!?
+[->][END]
+274: Reserve
+[END]
+276: [71 1]I will no longer look down on humans.
+Now, let us shake hands as a sign
+of our friendship.
+[->][END]
+277: Reserve
+[END]
+278: [71 1]Extend your hand
+Politely decline
+Berate her
+[->][END]
+279: 〉 [Flynn] reaches out to the
+demon...
+[->][END]
+280: [71 1]Oh, my... Your face is so beautiful,
+but your hand is so battered...
+[->]You must have gone through a
+great many fierce battles...
+[->][END]
+281: Reserve
+[END]
+282: [71 1]Not Used
+[->][END]
+283: Not Used
+[END]
+284: [71 1]Ugh, your hand is filthy.
+Don't lay a finger on me.
+[->][END]
+285: Reserve
+[END]
+286: 〉 [Flynn] politely declines to
+shake hands...
+[->][END]
+287: [71 1]You would not touch a lady with
+your bloody hands, is that it?
+[->]You're such a gentleman!
+[->][END]
+288: Reserve
+[END]
+289: [71 1]Are you saying that a mere handshake
+cannot signify our friendship?
+[->]...Then make me your partner.
+[->][END]
+290: Reserve
+[END]
+291: [71 1]How dare you reject my offer of
+friendship, you cheeky human!
+[->][END]
+292: Reserve
+[END]
+293: 〉 [Flynn] angrily shouts at the
+demon...
+[->][END]
+294: [71 1]Are you doing that because you would
+be embarrassed to touch me...?
+That's very cute of you.
+[->][END]
+295: Reserve
+[END]
+296: [71 1]Not Used
+[->][END]
+297: Not Used
+[END]
+298: [71 1]...Oh, my. You have no idea how to
+deliver a proper verbal lashing.
+[->]I was hoping you could demean me
+even further, and tickle my more
+masochistic tendencies...
+[->][END]
+299: Reserve
+[END]
+301: [71 1]If I were to become your ally, what
+would our relationship be like?
+[->][END]
+302: Reserve
+[END]
+303: [71 1]”Hot and passionate.”
+”Best friends and partners.”
+”Until death do us part.”
+[->][END]
+304: Not Used
+[->][END]
+305: [71 1]...I know what you yearn for.
+[->]Your heart has turned so cold from
+constantly killing demons, and you
+want me to heat you up once more.
+[->][END]
+306: Reserve
+[END]
+307: [71 1]Not Used
+[->][END]
+308: Not Used
+[END]
+309: [71 1]What are you saying? I thought we
+were already at that stage.
+[->]To take it even further, I need to
+kill you to show just how much I
+care.
+[->][END]
+310: Reserve
+[END]
+311: Not Used
+[->][END]
+312: [71 1]Your partner?
+[->]Oh, no, boy. You are my slave.
+Make no mistake about that.
+[->][END]
+313: Reserve
+[END]
+314: [71 1]Not Used
+[->][END]
+315: Not Used
+[END]
+316: [71 1]”Beth's friends”? Who is Beth?
+Some whore in your stock!?
+[->]I won't share you with another
+woman! How dare you ask me to!
+[->][END]
+317: Reserve
+[END]
+318: Not Used
+[->][END]
+319: [71 1]Isn't it a waste, though, to be in
+a relationship that ends when one
+of us dies?
+[->]That's what this item is for!
+[->][END]
+320: Reserve
+[END]
+321: [71 1]Death...? Don't be so melodramatic.
+[->]As long as I'm with you, I won't
+allow you to die.
+[->][END]
+322: Reserve
+[END]
+323: [71 1]You'll never leave me until you die?
+I would rather not be in such a
+miserable arrangement.
+[->][END]
+324: Reserve
+[END]
+326: [71 1]Stop looking at me with that
+lecherous look on your face.
+[->][END]
+327: Reserve
+[END]
+328: [71 1]Stare at her
+Look away
+Close your eyes
+[->][END]
+329: 〉 [Flynn] stares at the demon for
+a full minute without blinking...
+[->][END]
+330: [71 1]I know, I know. You only see me as
+an enemy to be defeated.
+[->]I was hoping to take some of this
+pressure off by making a joke.
+[->][END]
+331: Reserve
+[END]
+332: [71 1]Not Used
+[->][END]
+333: Not Used
+[END]
+334: [71 1]...Does gazing on my beauty really
+satisfy you this much? Then you can
+look at me for eternity.
+[->]I will remove your head and take it
+with me wherever I go!
+[->][END]
+335: Reserve
+[END]
+336: 〉 [Flynn] looks away...
+[->][END]
+337: [71 1]Why do you avert your eyes?
+[->]I am a demon. You may lust after
+me all you like. Go on.
+[->][END]
+338: Reserve
+[END]
+339: [71 1]Ah, I notice your Gauntlet.
+Now it makes sense...
+[->]You want me to join you.
+...Very well.
+[->][END]
+340: Reserve
+[END]
+341: [71 1]Are you trying to avoid reality?
+I cannot be with such a weak human.
+[->][END]
+342: Reserve
+[END]
+343: 〉 [Flynn] silently closes his
+eyes...
+[->][END]
+344: [71 1]Are you waiting for me to kiss you?
+[->]My... You really are quite forward,
+aren't you...?
+[->][END]
+345: Reserve
+[END]
+346: [71 1]Not Used
+[->][END]
+347: Not Used
+[END]
+348: [71 1]Now what?
+[->]Having taken pleasure from my body,
+now you take pleasure from my voice?
+[->][END]
+349: Reserve
+[END]
+351: [71 1]What is it about me that attracts
+you?
+[->][END]
+352: Reserve
+[END]
+353: [71 1]”Your alluring maturity.”
+”Your mysterious shadow.”
+”Your harsh voice.”
+[->][END]
+354: Not Used
+[->][END]
+355: [71 1]Oh? Are you sure you wish to lay
+your hands on a ripe fruit from
+the start?
+[->]Now is your only chance to taste
+other fruits at their freshest,
+you understand.
+[->][END]
+356: Reserve
+[END]
+357: [71 1]Not Used
+[->][END]
+358: Not Used
+[END]
+359: [71 1]”Mature”? That's a way of trying to
+avoid calling me old, isn't it!?
+[->]How dare you!? I will crush you!
+[->][END]
+360: Reserve
+[END]
+361: Not Used
+[->][END]
+362: [71 1]...You speak as if you have never
+seen one. Your own shadow is quite
+mysterious, as well.
+[->]I am most interested to see what
+fate you bear on your shoulders.
+[->][END]
+363: Reserve
+[END]
+364: [71 1]Yes, I am a demon, and yet I yearn
+for a human companion.
+[->]May I become your ally?
+[->][END]
+365: Reserve
+[END]
+366: [71 1]I shall show you what that shadow
+truly means...
+[->]It is Death.
+[->][END]
+367: Reserve
+[END]
+368: Not Used
+[->][END]
+369: [71 1]Really? Is that attractive to you?
+[->]Perhaps humans instinctively know
+that they are meant to be ruled
+by demons.
+[->][END]
+370: Reserve
+[END]
+371: [71 1]Not Used
+[->][END]
+372: Not Used
+[END]
+373: [71 1]Are you calling me a snooty bitch?
+...I'm well aware of that fact!
+[->][END]
+374: Reserve
+[END]
+376: [71 1]When you think of my beauty...
+How would you express it?
+[->][END]
+377: Reserve
+[END]
+378: [71 1]”Exciting.”
+”Dramatic.”
+”Creative.”
+[->][END]
+379: Not Used
+[->][END]
+380: [71 1]Yes... Give in to your lust for me.
+I want my beauty to overshadow
+your reason.
+[->]Then, once you lose control, you
+will become a devil yourself...
+[->][END]
+381: Reserve
+[END]
+382: [71 1]Not Used
+[->][END]
+383: Not Used
+[END]
+384: [71 1]I see the lust on your face...
+It's pathetic.
+[->]The hotter you burn for me, the
+colder my own fire gets...
+[->][END]
+385: Reserve
+[END]
+386: Not Used
+[->][END]
+387: [71 1]My beauty turns an ordinary
+conversation into a drama.
+[->]Please, let us continue.
+[->][END]
+388: Reserve
+[END]
+389: [71 1]Is that what you think...?
+[->]What would you say to the additional
+drama of having me as an ally?
+[->][END]
+390: Reserve
+[END]
+391: [71 1]Surely you know that you play a
+part in this drama as well.
+[->]And now comes your dramatic death
+scene!
+[->][END]
+392: Reserve
+[END]
+393: Not Used
+[->][END]
+394: [71 1]Oh? My beauty is so great that it
+inspires you?
+[->]Very well. Let me be your Muse.
+Make works of me, so that I may be
+known for generations to come.
+[->][END]
+395: Reserve
+[END]
+396: [71 1]Not Used
+[->][END]
+397: Not Used
+[END]
+398: [71 1]Hmph. I know what ”unconventional
+beauty” means... It means you think
+I'm ugly!
+[->]Very well, then. I shall ”creatively”
+arrange your face as well!
+[->][END]
+399: Reserve
+[END]
+401: [71 1]As you can see, my beauty is
+peerless.
+[->]...I AM beautiful, am I not?
+[->][END]
+402: Reserve
+[END]
+403: [71 1]”Yes.”
+”You're very beautiful.”
+”Incredibly beautiful.”
+[->][END]
+404: Not Used
+[->][END]
+405: [71 1]Oh, thank goodness. No one has told
+me that I was beautiful today before
+now...
+[->]Once you have beauty, you live in
+terror of eventually losing it.
+[->][END]
+406: Reserve
+[END]
+407: [71 1]Even still, I am just a diamond in
+the rough...
+[->]If I join you, will you polish me
+so that I may sparkle even brighter?
+[->][END]
+408: Reserve
+[END]
+409: [71 1]Hmhmhm... Have you taken in all my
+beauty?
+[->]Then you have nothing more to
+live for.
+[->][END]
+410: Reserve
+[END]
+411: Not Used
+[->][END]
+412: [71 1]Oh, thank goodness. No one has told
+me that I was beautiful today before
+now...
+[->]Once you have beauty, you live in
+terror of eventually losing it.
+[->][END]
+413: Reserve
+[END]
+414: [71 1]Even still, I am just a diamond in
+the rough...
+[->]If I join you, will you polish me
+so that I may sparkle even brighter?
+[->][END]
+415: Reserve
+[END]
+416: [71 1]Hmhmhm... Have you taken in all my
+beauty?
+[->]Then you have nothing more to
+live for.
+[->][END]
+417: Reserve
+[END]
+418: Not Used
+[->][END]
+419: [71 1]Oh, thank goodness. No one has told
+me that I was beautiful today before
+now...
+[->]Once you have beauty, you live in
+terror of eventually losing it.
+[->][END]
+420: Reserve
+[END]
+421: [71 1]Even still, I am just a diamond in
+the rough...
+[->]If I join you, will you polish me
+so that I may sparkle even brighter?
+[->][END]
+422: Reserve
+[END]
+423: [71 1]Hmhmhm... Have you taken in all my
+beauty?
+[->]Then you have nothing more to
+live for.
+[->][END]
+424: Reserve
+[END]
+426: [71 1]What do you think of my fashion
+today? I want an honest opinion.
+[->][END]
+427: Reserve
+[END]
+428: [71 1]”It's superb.”
+”It's not that good.”
+”I'm dressed better.”
+[->][END]
+429: Not Used
+[->][END]
+430: [71 1]Well, of course. Everything about
+me is perfect today.
+[->]Don't you feel more energy just
+by gazing at my beauty?
+[->][END]
+431: Reserve
+[END]
+432: [71 1]Not Used
+[->][END]
+433: Not Used
+[END]
+434: [71 1]Oh, dear. If a human thinks I'm
+dressed well, then I must look
+absolutely horrible...
+[->][END]
+435: Reserve
+[END]
+436: Not Used
+[->][END]
+437: [71 1]I knew it! It's this accessory
+that's ruining the entire ensemble,
+I know it!
+[->]Here, you may have it. I want to
+be rid of it.
+[->][END]
+438: Reserve
+[END]
+439: [71 1]Not Used
+[->][END]
+440: Not Used
+[END]
+441: [71 1]Bah! Humans have no right to
+criticize the opinions of demons.
+[->][END]
+442: Reserve
+[END]
+443: Not Used
+[->][END]
+444: [71 1]...That is absolutely correct.
+Your outfit is definitely more
+perverse than my own.
+[->][END]
+445: Reserve
+[END]
+446: [71 1]I know! Where did you get that
+lovely outfit?
+[->]Please, take me there!
+I'll join you!
+[->][END]
+447: Reserve
+[END]
+448: [71 1]Yes... I shall have to take your
+clothing and make it mine!
+[->][END]
+449: Reserve
+[END]
+451: [71 1]If you were an insect, what kind
+of insect would you be?
+[->][END]
+452: Reserve
+[END]
+453: [71 1]”A butterfly.”
+”A bee.”
+”A trilobite.”
+[->][END]
+454: 2
+Not Used
+[->][END]
+455: [71 1]Hm... I have always thought of humans
+as a kind of hideous larvae.
+[->]But, if you do turn into a butterfly
+one day... I suppose I can accept
+what you currently are.
+[->][END]
+456: Reserve
+[END]
+457: [71 1]Not Used
+[->][END]
+458: Not Used
+[END]
+459: [71 1]You plan on bursting forth and
+standing out with a beauty that
+outshines my own!?
+[->]No. I cannot allow that to happen.
+I will crush you, little worm.
+[->][END]
+460: Reserve
+[END]
+461: Not Used
+[->][END]
+462: [71 1]That explains it... I feel this
+buzz when I look at you.
+[->]Your gaze has a passionate sting
+to it.
+[->][END]
+463: Reserve
+[END]
+464: [71 1]What a coincidence.
+I think of myself as a butterfly.
+[->]”Float like a butterfly, sting like
+a bee...” We might make a nice team.
+[->][END]
+465: Reserve
+[END]
+466: [71 1]And why are you slacking off and
+speaking with me, drone?
+[->]It seems you need to be taught a
+lesson.
+[->][END]
+467: Reserve
+[END]
+468: Not Used
+[->][END]
+469: [71 1]Hmhmhm... It is only natural for my
+beauty to make a man as stiff as a
+rock.
+[->][END]
+470: Reserve
+[END]
+471: [71 1]Oh? I've always had a thing for
+older men.
+[->]Please tell me those three little
+words: ”Come with me.”
+[->][END]
+472: Reserve
+[END]
+473: [71 1]Your time is long gone, fossil.
+[->]I will send you back to the
+dreamless sleep of deep time.
+[->][END]
+474: Reserve
+[END]
+476: [71 1]Reserve
+[->][END]
+477: Reserve
+[END]
+478: [71 1]Reserve
+[->][END]
+479: Reserve
+[->][END]
+480: [71 1]Reserve
+[->][END]
+481: Reserve
+[END]
+482: [71 1]Reserve
+[->][END]
+483: Reserve
+[END]
+484: [71 1]Reserve
+[->][END]
+485: Reserve
+[END]
+486: Reserve
+[->][END]
+487: [71 1]Reserve
+[->][END]
+488: Reserve
+[END]
+489: [71 1]Reserve
+[->][END]
+490: Reserve
+[END]
+491: [71 1]Reserve
+[->][END]
+492: Reserve
+[END]
+493: Reserve
+[->][END]
+494: [71 1]Reserve
+[->][END]
+495: Reserve
+[END]
+496: [71 1]Reserve
+[->][END]
+497: Reserve
+[END]
+498: [71 1]Reserve
+[->][END]
+499: Reserve
+[END]
+501: [71 1]Reserve
+[->][END]
+502: Reserve
+[END]
+503: [71 1]Reserve
+[->][END]
+504: Reserve
+[->][END]
+505: [71 1]Reserve
+[->][END]
+506: Reserve
+[END]
+507: [71 1]Reserve
+[->][END]
+508: Reserve
+[END]
+509: [71 1]Reserve
+[->][END]
+510: Reserve
+[END]
+511: Reserve
+[->][END]
+512: [71 1]Reserve
+[->][END]
+513: Reserve
+[END]
+514: [71 1]Reserve
+[->][END]
+515: Reserve
+[END]
+516: [71 1]Reserve
+[->][END]
+517: Reserve
+[END]
+518: Reserve
+[->][END]
+519: [71 1]Reserve
+[->][END]
+520: Reserve
+[END]
+521: [71 1]Reserve
+[->][END]
+522: Reserve
+[END]
+523: [71 1]Reserve
+[->][END]
+524: Reserve
+[END]
+526: [71 1]Reserve
+[->][END]
+527: Reserve
+[END]
+528: [71 1]Reserve
+[->][END]
+529: Reserve
+[->][END]
+530: [71 1]Reserve
+[->][END]
+531: Reserve
+[END]
+532: [71 1]Reserve
+[->][END]
+533: Reserve
+[END]
+534: [71 1]Reserve
+[->][END]
+535: Reserve
+[END]
+536: Reserve
+[->][END]
+537: [71 1]Reserve
+[->][END]
+538: Reserve
+[END]
+539: [71 1]Reserve
+[->][END]
+540: Reserve
+[END]
+541: [71 1]Reserve
+[->][END]
+542: Reserve
+[END]
+543: Reserve
+[->][END]
+544: [71 1]Reserve
+[->][END]
+545: Reserve
+[END]
+546: [71 1]Reserve
+[->][END]
+547: Reserve
+[END]
+548: [71 1]Reserve
+[->][END]
+549: Reserve
+[END]
+551: [71 1]Reserve
+[->][END]
+552: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+553: [71 1]Reserve
+[->][END]
+554: Reserve
+[->][END]
+555: [71 1]Reserve
+[->][END]
+556: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+557: [71 1]Reserve
+[->][END]
+558: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+559: [71 1]Reserve
+[->][END]
+560: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+561: Reserve
+[->][END]
+562: [71 1]Reserve
+[->][END]
+563: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+564: [71 1]Reserve
+[->][END]
+565: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+566: [71 1]Reserve
+[->][END]
+567: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+568: Reserve
+[->][END]
+569: [71 1]Reserve
+[->][END]
+570: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+571: [71 1]Reserve
+[->][END]
+572: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+573: [71 1]Reserve
+[->][END]
+574: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+576: [71 1]Reserve
+[->][END]
+577: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+578: [71 1]Reserve
+[->][END]
+579: Reserve
+[->][END]
+580: [71 1]Reserve
+[->][END]
+581: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+582: [71 1]Reserve
+[->][END]
+583: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+584: [71 1]Reserve
+[->][END]
+585: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+586: Reserve
+[->][END]
+587: [71 1]Reserve
+[->][END]
+588: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+589: [71 1]Reserve
+[->][END]
+590: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+591: [71 1]Reserve
+[->][END]
+592: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+593: Reserve
+[->][END]
+594: [71 1]Reserve
+[->][END]
+595: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+596: [71 1]Reserve
+[->][END]
+597: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+598: [71 1]Reserve
+[->][END]
+599: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+601: [71 1]Reserve
+[->][END]
+602: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+603: [71 1]Reserve
+[->][END]
+604: Reserve
+[->][END]
+605: [71 1]Reserve
+[->][END]
+606: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+607: [71 1]Reserve
+[->][END]
+608: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+609: [71 1]Reserve
+[->][END]
+610: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+611: Reserve
+[->][END]
+612: [71 1]Reserve
+[->][END]
+613: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+614: [71 1]Reserve
+[->][END]
+615: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+616: [71 1]Reserve
+[->][END]
+617: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+618: Reserve
+[->][END]
+619: [71 1]Reserve
+[->][END]
+620: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+621: [71 1]Reserve
+[->][END]
+622: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+623: [71 1]Reserve
+[->][END]
+624: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+626: [71 1]Reserve
+[->][END]
+627: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+628: [71 1]Reserve
+[->][END]
+629: Reserve
+[->][END]
+630: [71 1]Reserve
+[->][END]
+631: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+632: [71 1]Reserve
+[->][END]
+633: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+634: [71 1]Reserve
+[->][END]
+635: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+636: Reserve
+[->][END]
+637: [71 1]Reserve
+[->][END]
+638: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+639: [71 1]Reserve
+[->][END]
+640: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+641: [71 1]Reserve
+[->][END]
+642: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+643: Reserve
+[->][END]
+644: [71 1]Reserve
+[->][END]
+645: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+646: [71 1]Reserve
+[->][END]
+647: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+648: [71 1]Reserve
+[->][END]
+649: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+651: [71 1]Reserve
+[->][END]
+652: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+653: [71 1]Reserve
+[->][END]
+654: Reserve
+[->][END]
+655: [71 1]Reserve
+[->][END]
+656: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+657: [71 1]Reserve
+[->][END]
+658: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+659: [71 1]Reserve
+[->][END]
+660: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+661: Reserve
+[->][END]
+662: [71 1]Reserve
+[->][END]
+663: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+664: [71 1]Reserve
+[->][END]
+665: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+666: [71 1]Reserve
+[->][END]
+667: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+668: Reserve
+[->][END]
+669: [71 1]Reserve
+[->][END]
+670: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+671: [71 1]Reserve
+[->][END]
+672: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+673: [71 1]Reserve
+[->][END]
+674: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+676: [71 1]Reserve
+[->][END]
+677: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+678: [71 1]Reserve
+[->][END]
+679: Reserve
+[->][END]
+680: [71 1]Reserve
+[->][END]
+681: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+682: [71 1]Reserve
+[->][END]
+683: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+684: [71 1]Reserve
+[->][END]
+685: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+686: Reserve
+[->][END]
+687: [71 1]Reserve
+[->][END]
+688: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+689: [71 1]Reserve
+[->][END]
+690: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+691: [71 1]Reserve
+[->][END]
+692: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+693: Reserve
+[->][END]
+694: [71 1]Reserve
+[->][END]
+695: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+696: [71 1]Reserve
+[->][END]
+697: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+698: [71 1]Reserve
+[->][END]
+699: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+701: [71 1]Reserve
+[->][END]
+702: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+703: [71 1]Reserve
+[->][END]
+704: Reserve
+[->][END]
+705: [71 1]Reserve
+[->][END]
+706: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+707: [71 1]Reserve
+[->][END]
+708: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+709: [71 1]Reserve
+[->][END]
+710: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+711: Reserve
+[->][END]
+712: [71 1]Reserve
+[->][END]
+713: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+714: [71 1]Reserve
+[->][END]
+715: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+716: [71 1]Reserve
+[->][END]
+717: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+718: Reserve
+[->][END]
+719: [71 1]Reserve
+[->][END]
+720: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+721: [71 1]Reserve
+[->][END]
+722: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+723: [71 1]Reserve
+[->][END]
+724: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+726: [71 1]Reserve
+[->][END]
+727: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+728: [71 1]Reserve
+[->][END]
+729: Reserve
+[->][END]
+730: [71 1]Reserve
+[->][END]
+731: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+732: [71 1]Reserve
+[->][END]
+733: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+734: [71 1]Reserve
+[->][END]
+735: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+736: Reserve
+[->][END]
+737: [71 1]Reserve
+[->][END]
+738: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+739: [71 1]Reserve
+[->][END]
+740: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+741: [71 1]Reserve
+[->][END]
+742: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+743: Reserve
+[->][END]
+744: [71 1]Reserve
+[->][END]
+745: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+746: [71 1]Reserve
+[->][END]
+747: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+748: [71 1]Reserve
+[->][END]
+749: Reserve
+Reserve
+Reserve
+Reserve
+[END]
+751: [71 1]Reserve
+[->][END]
+752: Reserve
+[END]
+753: [71 1]Reserve
+[->][END]
+754: Reserve
+[->][END]
+755: [71 1]Reserve
+[->][END]
+756: Reserve
+[END]
+757: [71 1]Reserve
+[->][END]
+758: Reserve
+[END]
+759: [71 1]Reserve
+[->][END]
+760: Reserve
+[END]
+761: Reserve
+[->][END]
+762: [71 1]Reserve
+[->][END]
+763: Reserve
+[END]
+764: [71 1]Reserve
+[->][END]
+765: Reserve
+[END]
+766: [71 1]Reserve
+[->][END]
+767: Reserve
+[END]
+768: Reserve
+[->][END]
+769: [71 1]Reserve
+[->][END]
+770: Reserve
+[END]
+771: [71 1]Reserve
+[->][END]
+772: Reserve
+[END]
+773: [71 1]Reserve
+[->][END]
+774: Reserve
+[END]

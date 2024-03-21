@@ -1,0 +1,38 @@
+0: 〉 [Flynn] and his fellow Samurai
+arrived at the entrance to
+Kiccigiorgi Forest.
+[END]
+1: (Hope) [7a 8][13 0, 44001]Our task here is to search for any
+fortunate enough to survive.
+[->][13 0, 44002]Each of you will comb the forest and
+[Color:0x5]look for survivors.[Color:0x0]
+[->][13 0, 44003]I will remain here with the healers
+and relay instructions to you via the
+Gauntlet.
+[->][13 0, 44004]Return here directly should you find
+any survivors.
+[->][13 0, 44005]That also goes for if you sustain any
+injuries. The healers will treat
+your wounds.
+[END]
+2: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+3: (Hope) [7a 8][13 0, 44007]As for you prentices... this is a
+personal matter for [Flynn].
+Give him your full support.
+[END]
+4: (Isabeau) [7a 5][13 0, 44008]We will gladly cooperate with him.
+[END]
+5: 〉 Jonathan, Walter, and Isabeau are
+traveling at your side.
+[END]
+6: (Jonathan) [7a 3][7b 786435, 65537][13 1, 400103]Was that not a human voice...?
+I heard it from up ahead!
+[END]
+7: (Isabeau) [7a 5][7b 655365, 65537][13 1, 400306]Was that not a human's cry...?
+I believe it came from up ahead...!
+[END]
+8: (Walter) [7a 4][7b 196612, 65537][13 1, 400203]Wasn't that a human voice...? It
+sounded like it came from up ahead...!
+[END]

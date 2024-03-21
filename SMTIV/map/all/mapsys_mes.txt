@@ -1,0 +1,255 @@
+100: 〉 There's an elevator here.
+Which floor will you go to?
+[END]
+101: 2nd Observation Platform
+Cancel
+[END]
+102: 1F
+Cancel
+[END]
+103: B1F
+Cancel
+[END]
+104: 1F
+Cancel
+[END]
+105: B1F
+Cancel
+[END]
+106: B1F
+Cancel
+[END]
+107: B3F
+Cancel
+[END]
+108: 1F
+Cancel
+[END]
+109: B2F
+Cancel
+[END]
+110: B1F
+Cancel
+[END]
+111: 1F
+Cancel
+[END]
+112: B3F
+Cancel
+[END]
+113: B2F
+Cancel
+[END]
+114: 1F
+Cancel
+[END]
+115: 33F
+Cancel
+[END]
+116: 54F
+Cancel
+[END]
+117: 1F
+Cancel
+[END]
+118: 43F
+Cancel
+[END]
+119: 33F
+Cancel
+[END]
+120: 54F
+Cancel
+[END]
+121: 43F
+Cancel
+[END]
+122: 1F
+Cancel
+[END]
+123: B8F
+B9F
+Cancel
+[END]
+124: B51F
+Cancel
+[END]
+125: B7F
+B9F
+Cancel
+[END]
+126: B7F
+B8F
+Cancel
+[END]
+127: B51F
+Cancel
+[END]
+128: B9F
+Cancel
+[END]
+129: B51F
+Cancel
+[END]
+130: B51F
+Cancel
+[END]
+131: B7F
+Cancel
+[END]
+132: 〉 The elevator is locked down.
+[END]
+133: 〉 The elevator is locked down.
+[END]
+134: B1F
+Cancel
+[END]
+135: B2F
+Cancel
+[END]
+136: B3F
+Cancel
+[END]
+137: 1F
+Cancel
+[END]
+138: B1F
+Cancel
+[END]
+139: B2F
+Cancel
+[END]
+140: 1F
+Cancel
+[END]
+141: B1F
+Cancel
+[END]
+142: B3F
+Cancel
+[END]
+143: 2F
+Cancel
+[END]
+144: 〉 The elevator is locked down.
+[END]
+145: 〉 It's locked down.
+[END]
+146: 1F
+Cancel
+[END]
+147: 1F
+Cancel
+[END]
+600: (Burroughs) [7a 2][13 1, 76035]I'm detecting a demon's Domain.
+Do you want to go on?
+[END]
+601: Yes
+No
+[END]
+602: (Burroughs) [7a 2][13 1, 76036]I'm detecting a strong demon ahead.
+Do you want to go on?
+[END]
+603: Yes
+No
+[END]
+604: (Burroughs) [7a 2][13 1, 306010]...Master [Flynn], look out.
+I'm detecting a strong demon nearby.
+[END]
+605: 〉 You sense an ominous presence from
+within... Enter?
+[END]
+606: Yes
+No
+[END]
+900: (Burroughs) [7a 2][13 1, 400005]There's an exit here.
+[->]Do you want to give up investigating
+this Domain and escape from here?
+[END]
+901: Yes
+No
+[END]
+902: 〉 There is no relic reading right now...
+[END]
+903: 〉 The Domain has dissipated and you can
+now claim the relic.
+[->]〉 [Flynn] obtained [Quest? 0]...
+[END]
+910: [Quest? 0]
+〉 The door is tightly sealed...
+[END]
+911: 〉 The door is sealed with a mysterious
+power...
+[END]
+912: 〉 There is nothing here anymore.
+[END]
+913: 〉 It's sealed with demonic powers...
+[END]
+920: (Burroughs) You have all the items you need now.
+You should go drop them off at
+K's Tavern.
+[END]
+921: (Burroughs) You have all the items you need now.
+You should go drop them off at
+the Hunter Association.
+[END]
+922: (Burroughs) You have all the items you need now.
+You should go drop them off at
+the specified location.
+[END]
+932: (Burroughs) [7a 2][13 1, 502033]That was too bad. Let's give it
+another try sometime.
+[END]
+935: (Burroughs) [7a 2][13 1, 400005]Wait a second. You've already accepted
+another quest. Are you sure?
+[END]
+936: If you wish to proceed with the main
+quest, you must either abandon the
+Challenge Quest or complete it to
+release the pause on the main quest.
+[END]
+940: (Burroughs) [7a 2]Hey, can I share something with you?
+[END]
+941: (Burroughs) [7a 2]Hey, can I share something with you?
+[->]It's a combat training quest that makes
+use of virtual reality functions.
+[->]If you want, I can explain it to you
+in detail.
+[END]
+942: Listen to the explanation
+Don't listen to the explanation
+[END]
+943: A new type of Challenge Quest has been
+unlocked.
+[->]These Challenge Quests involve winning
+a battle while meeting certain
+conditions.
+[->]There is no penalty for failing them,
+and they can be challenged as many
+times as you like.
+[->]More of these quests will be added
+periodically, so feel free to take
+them on.
+[END]
+944: (Burroughs) [7a 2][13 0, 502039]I'll register a few of them to the
+Challenge Quest list.
+[END]
+945: (Burroughs) [7a 2]...That should do it for now. Try
+them out whenever you feel like it.
+[END]
+946: (Burroughs) [7a 2][13 0, 502041]All right, I'll skip the explanation.
+[->][13 0, 502035]I'll register a few of them to the
+Challenge Quest list. Try them out
+whenever you feel like it.
+[END]
+947: (Burroughs) [7a 2][13 0, 502034]Guess what? I found more quests you
+can do in virtual reality.
+[->][13 0, 502035]I'll register a few of them to the
+Challenge Quest list. Try them out
+whenever you feel like it.
+[END]
+950: 〉 The Estoma Sword's effect wore off.
+[END]
+951: 〉 You found a [Quest? 0], but you
+were carrying too many of them already.
+[END]

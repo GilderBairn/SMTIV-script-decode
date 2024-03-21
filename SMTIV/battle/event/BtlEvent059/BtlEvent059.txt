@@ -1,0 +1,102 @@
+0: (King Kenji) [7a 0][13 0, 305900]All this time, I've been here by
+myself. All this time, I fought alone.
+[->][13 0, 305901]And I'm fated to keep on fighting...
+[END]
+1: (King Kenji) [7a 0][13 0, 305911]...Ugh... Stop it... Just... stop it...
+[END]
+2: (King Kenji) [7a 0][13 0, 305912]I don't... want to fight... anymore...
+[->][13 0, 305913]I finally rebuilt Tokyo... You humans...
+[->][13 0, 305914]Grrrrrr... What do the White know...
+[END]
+3: (King Kenji) [7a 0][13 0, 305915]Grr... eheheheh...
+[->][13 0, 305916]Let me fight! More! Power is
+everything! Fighting is my life!
+[END]
+4: (King Kenji) [7a 0][13 0, 305925]Ha... haha... The prophecy...
+was true...
+[->][13 0, 305926]Do you know... what Yamato...
+really is?
+[->][13 0, 305927]Damn those White...
+[END]
+1000: (King Kenji) [7a 0][13 0, 305902]Hwaaahahahaha! The battle is turning
+me on!
+[->][13 0, 305903]I was afraid this would happen.
+I told you so!
+[->][13 0, 305904]Phew... There's no rush like fighting.
+You're getting worked up too, huh?
+[END]
+1001: Grin dauntlessly
+Show a pained expression
+Glare menacingly
+Ignore him
+[END]
+1002: 〉 [Flynn] grinned dauntlessly...
+[END]
+1003: (King Kenji) [7a 0][13 0, 305905]Yeah, that's what I like to see.
+[->][13 0, 305906]You want something harder? So do I!
+[END]
+1004: 〉 Kenji's attack greatly increased!
+[END]
+1005: 〉 [Flynn] made a pained face...
+[END]
+1006: (King Kenji) [7a 0][13 0, 305907]Whoa whoa, don't disappoint me, now!
+[->][13 0, 305908]The battle's just begun, Intruders!
+[END]
+1007: 〉 [Flynn] was overwhelmed by
+Kenji's fighting spirit!
+[END]
+1008: 〉 Kenji's attack increased!
+[END]
+1009: 〉 [Flynn] and his party's
+defense decreased!
+[END]
+1010: (King Kenji) [7a 0][13 0, 305909]Ugh... What's this chill down
+my spine?
+[->][13 0, 305910]Who are these guys...? Who're they
+working for...!?
+[END]
+1011: 〉 Kenji was taken aback by
+[Flynn]'s menacing aura...
+[END]
+1012: 〉 Kenji's defense decreased!
+[END]
+1013: 〉 [Flynn] ignored him and
+pressed the attack...
+[END]
+1014: (King Kenji) [7a 0][13 0, 305917]Ugh...! I lost...!?
+[END]
+1015: 〉 Kenji collapsed on the spot...
+[END]
+1016: 〉 You see a remote next to Kenji...
+[->]〉 Will you go get it?
+[END]
+1017: Yes
+No
+[END]
+1018: 〉 [Flynn] moved toward the
+remote...
+[END]
+1019: (King Kenji) [7a 0][13 0, 305918]Hyahahaha! Sucker!
+[END]
+1020: 〉 Kenji's unleashed a vicious surprise
+attack against [Flynn]'s party!
+[END]
+1021: (Walter) [7a 4][13 0, 305919]What a cheap ploy! Are you truly the
+King of Tokyo...!?
+[END]
+1022: (Jonathan) [7a 3][13 0, 305920]Such preposterous lust for battle...!
+[END]
+1023: (King Kenji) [7a 0][13 0, 305921]All that matters is the win! The winner
+survives−−that's the rule in Tokyo!
+[END]
+1024: (King Kenji) [7a 0][13 0, 305922]Tch...! Not falling for it, huh?
+[END]
+1025: (Walter) [7a 4][13 0, 305923]Feigning death? And you call yourself
+the King of Tokyo?
+[END]
+1026: (Jonathan) [7a 3][13 0, 305924]Such preposterous lust for battle...!
+[END]
+1027: 〉 Kenji grew impatient...
+[END]
+1028: 〉 All of Kenji's abilities decreased!
+[END]

@@ -1,0 +1,15 @@
+0: It's very hard to get top−quality Katakirauwa
+meat. I'd like to have a Hunter get me [Color:0x5][Amount 1][Color:0x0]
+[Color:0x5][Item 1]s[Color:0x0] this time. I've heard that it's
+popular for rich people to eat real animals,
+while the poor folk are stuck eating demons.
+Still, I want top−quality meat! Help me out!
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

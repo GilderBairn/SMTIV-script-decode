@@ -1,0 +1,95 @@
+0: (Demon) [7a 65472][13 1, 412002]What is it? If you have questions,
+don't bother me and go find the one
+in charge here.
+[->]Mastema should be up on the highest
+floor of this building.
+[END]
+1: (Demon) [7a 65472][13 1, 412008]The Ashura−kai have been destroyed...
+That's fine with me.
+[->]I never liked Reds anyway, and their
+army was terrible.
+[END]
+2: (悪魔) [7a 65472][13 1, 412006]マンセマット[様/さま]が[倒/たお]された…ッ
+[私/わたし]たちはどうすればいいのですか…?
+[END]
+3: (悪魔) [7a 65472][13 1, 412006]メルカバーが[人間/にんげん]によって
+[倒/たお]されたというのは[本当/ほんとう]なのですか?
+[->][信/しん]じらせません…
+[人間/にんげん]にそれほどの[力/ちから]があるはずが…
+[END]
+4: (悪魔) [7a 65472][13 1, 412007][悪魔/あくま]の[巣窟/そうくつ]と[化/か]したこの[場所/ばしょ]を
+[人間/にんげん]が[放/ほう]っておくとは[思/おも]えません
+[->]…[早々/そうそう]にここを[去/さ]ることにします
+マンセマット[様/さま] お[許/ゆる]しを…
+[END]
+5: (Demon) [7a 65431][13 1, 413201]It's annoying that some black−winged
+jerk from who−knows−where has taken
+over Tokyo...
+[->]Still, it's best to leave the
+negotiation stuff to Tayama.
+[->]As long as he can supply Reds to us,
+we'll tolerate him.
+[END]
+6: (Demon) [7a 65431][13 1, 413200]It seems that a certain human
+connected the human world with the
+Expanse.
+[->]Whoever did that must be confident
+in his skills. If I ever get the
+chance to meet that person...
+[->]...That's one human I would love to
+duel with.
+[END]
+7: (悪魔) [7a 65431][13 1, 411206][大天使/だいてんし]の[差/さ]し[金/がね]で
+マンセマット[様/さま]が[殺/や]られたってのか?
+[->]ちくしょう…ッ
+[何/なん]てことしてくれやがる
+[END]
+8: (Demon) [7a 65432][13 1, 418000]If you're headed to that place the
+humans call a farm, then you need to
+get the barrier lifted.
+[->]Why don't you go ask Mastema if
+you're that desperate?
+[END]
+9: (Demon) [7a 65432][13 1, 418000]Underneath the Roppongi building,
+there's this place the humans keep
+calling a farm.
+[->]They don't produce any plants or
+animals... but it's a farm, all right.
+[END]
+10: (Demon) [7a 65432][13 1, 418002]The humans living below Roppongi
+would die if all the humans in Tokyo
+disappeared, right?
+[->]They don't even get a say on whether
+they live or die... It's hilarious!
+[END]
+11: (Demon) [7a 65432][13 1, 418002]The humans living below Roppongi
+would die if all the humans in Tokyo
+disappeared, right?
+[->]Well, the humans of Tokyo will be
+eaten by demons, so those humans
+underground are going to die, too.
+[END]
+12: (悪魔) [7a 65432][13 1, 418008]マンセマット[様/さま]が[独断/どくだん]で[動/うご]いていたことは
+知っていたわ…
+[->]でもまさか [同胞/どうほう]を[手/て]にかけるなんて…
+[天使/てんし]も[色々/いろいろ]と[汚/けが]れているようね
+[END]
+13: (悪魔) [7a 65432][13 1, 418004][人間/にんげん]たちは [本気/ほんき]で[自分/じぶん]たちの
+[時代/じだい]を[勝/か]ち[取/と]ろうとしているようね
+[->]マンセマット[様/さま]は この[動/うご]きについて
+どうお[考/かんが]えなのかしら…
+[END]
+14: (悪魔) [7a 65432][13 1, 418004][人間/にんげん]が[主役/しゅやく]となる[時代/じだい]の[訪/おとず]れは
+もはや[疑/うたが]う[余地/よち]もないわ
+[->]マンセマット[様/さま]は
+これからどうされるのかしら…
+[END]
+105: (Demon) [7a 65431][13 1, 413204]Even if Tayama was killed by that
+witch of night, someone else like
+him will pop up.
+[->]All we need to do is wait for someone
+who is willing to negotiate with
+demons to come to power...
+[->]No matter what happens, there's no
+downside for us. Hahaha...
+[END]

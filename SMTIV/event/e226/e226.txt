@@ -1,0 +1,17 @@
+0: (The White) [7a 78][13 0, 226001]...You have chosen well.
+[END]
+1: (The White) [7a 77][13 0, 226002]This is the control device for what you
+call the Yamato Perpetual Reactor.
+[->][13 0, 226003]We created it...
+[END]
+2: (The White) [7a 75][13 0, 226004]Yamato was originally a particle
+accelerator that creates a black hole.
+[->][13 0, 226005]Destroy Yamato's control device...
+let it run amok. Have it swallow the
+entire universe.
+[END]
+3: (The White) [7a 124][13 0, 226006]Thanks to your fifth self, we humans
+will finally be free of God's plan...
+[END]
+4: (The White) [13 0, 226007]Now, Messiah. Lead us to nothingness...
+[END]

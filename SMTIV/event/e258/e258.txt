@@ -1,0 +1,26 @@
+0: (Voice) The day will never come that [Flynn]
+looks upon the world he has saved.
+[->]Which is why this is small comfort...
+[END]
+1: (Voice) Though it is not much, I shall show
+you the future of the world he chose.
+[END]
+2: (Voice) In years to come, it will be known as
+a holy land.
+[END]
+3: (Voice) And though he will not be present in
+person, he will live on there are a
+great hero.
+[END]
+4: (Voice) So long as the people of this kingdom
+do not forget God...
+[END]
+5: このイベントはカットアニメイベントになる
+想定ですが本Verでは実機イベントで表現します
+[END]
+6: 〉 Thus was a world created where all that
+is evil is ousted. The peace that the
+people know today shall last forever.
+[->]〉 It is a world populated only with the
+innocent; the world God longed to see.
+[END]

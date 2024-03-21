@@ -1,0 +1,9 @@
+0: To all Hunters in the Shinjuku area:
+Please clear away the Corpses that have
+appeared in eastern Shinjuku. Help your
+fellow citizens make this a better place
+to live. (Warning: We are not responsible
+for any injury suffered during this quest.)
+[END]
+1: This is Dummy Data
+[END]

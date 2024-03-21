@@ -1,0 +1,15 @@
+0: [Color:0x5]Fafnir,[Color:0x0] the legendary dragon... I would like
+to hold a competition to see who can slay
+these demons the best. Apparently a flock
+of them live in the Overlord's castle. The
+first to bring me [Amount 1] [Color:0x5][Item 1][Color:0x0]s shall be
+the winner. Your skills make me proud!
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

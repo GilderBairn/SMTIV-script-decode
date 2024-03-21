@@ -1,0 +1,20 @@
+0: (Isabeau) [7a 5][7b 458757, 65537]Oh, this is an error, I'm afraid...
+[END]
+1: 〉 A girl runs away, pushing a wheel with
+a stick.
+[END]
+2: (Isabeau) [7a 5][7b 655365, 65537][7b 458755, 131073][13 0, 31001]...I wasn't wrong! There is someone
+here!
+[END]
+3: (Jonathan) [7a 3][7b 458755, 131073][13 0, 31002]Now why would a young girl be here
+in Naraku...?
+[END]
+4: (Walter) [7a 4][7b 655364, 65537][13 0, 31003]The faked rescue turned out to be real,
+and now a little girl is here?
+[END]
+5: (Jonathan) [7a 3][7b 786435, 65537][13 0, 31005]It would be ghastly if an innocent girl
+had wandered in here. We must rescue
+not only Navarre, but her as well.
+[END]
+104: (Walter) [7a 4][7b 458756, 131073][13 0, 31004]You've put your foot in it now, Navarre!
+[END]

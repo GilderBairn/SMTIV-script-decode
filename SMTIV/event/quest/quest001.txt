@@ -1,0 +1,5 @@
+0: This is the first [Color:0x5]training exercise.[Color:0x0] A [Color:0x5]Samurai[Color:0x0]
+must learn to battle with [Color:0x5]demons.[Color:0x0] Your target
+may be any demon you find.
+[Color:0x5]Defeat demons inside Naraku.[Color:0x0]
+[END]

@@ -1,0 +1,62 @@
+0: (Isabeau) [7a 5][7b 655365, 131073][7b 786436, 65537][13 0, 121001]I thought that you might be summoned
+as well, [Flynn].
+[END]
+1: (Walter) [7a 4][7b 655364, 65537][13 0, 121002]You do recall what we saw yesterday,
+yes? To what extent can we trust
+Gabby...?
+[END]
+2: (Jonathan) [7a 3][7b 655363, 131073][13 0, 121003]In all honesty, that has been weighing
+heavy on my mind as well.
+[END]
+3: (Gabby) [7a 11][7b 65547, 65537][13 0, 121005]You have come, Blessed Samurai...
+[END]
+4: (Gabby) [7a 11][7b 65547, 65537][13 0, 121006]I have a favor to ask of you, to be
+carried out without delay.
+[END]
+5: (Gabby) [7a 11][7b 65547, 65537][13 0, 121007]I would have you rescue three of your
+fellows who have been taken prisoner
+at Shinjuku National Park in Tokyo.
+[END]
+6: (Isabeau) [7a 5][7b 65541, 196609][7b 196612, 65537][13 0, 121008]Our fellows...? Then these people are
+from the Eastern Kingdom of Mikado?
+[END]
+7: (Gabby) [7a 11][7b 65547, 65537][13 0, 121009]...No, they are not.
+[->][13 0, 121010]But they are vital to this kingdom's
+future.
+[END]
+8: (Gabby) [7a 11][7b 65547, 65537][13 0, 121011]Shinjuku National Park... was once
+holy ground.
+[END]
+9: (Walter) [7a 4][7b 655364, 65537][7b 786435, 65537][13 0, 121013]I say, she seems to know quite a bit
+about Tokyo...
+[END]
+10: (Jonathan) [7a 3][7b 458755, 131073][13 0, 121014]'Tis only natural. The Monastery
+had a keen interest in Tokyo. 
+[END]
+11: (Gabby) [7a 11][7b 65547, 65537][13 0, 121015]This is a dangerous request, but I
+believe I can trust you with it.
+[END]
+12: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+13: (Gabby) [7a 11][7b 65547, 65537][13 0, 121017]Please extend a helping hand to
+your fellows...
+[END]
+14: (Gabby) [7a 11][7b 458763, 65537][13 0, 121018]For the sake of this kingdom's new
+millennium...
+[END]
+16: 〉 Jonathan, Walter, and Isabeau have
+joined you.
+[END]
+102: (Jonathan) [7a 3][7b 65539, 131073][13 0, 121004]But the resemblance could be
+coincidental. Let us not make too
+much of it for the nonce.
+[7b 393220, 65537][END]
+108: (Gabby) [7a 11][7b 65547, 65537][13 0, 121012]But its virtue has now been lost.
+It is little more than a nest for
+powerful demons today.
+[END]
+113: 〉 Gabby handed something to [Flynn]...
+[END]
+213: 〉 Obtained Hexagram Rosary.
+[END]

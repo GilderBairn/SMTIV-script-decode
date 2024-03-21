@@ -1,0 +1,144 @@
+0: (Jonathan) [7a 1][13 0, 151001][7b 786435, 65537][7b 655365, 131073][Flynn]?
+Are you awake?
+[END]
+1: (Jonathan) [7a 3][7b 786435, 65537][7b 655365, 131073][13 0, 151002]Thank heaven... Your madness was
+quite the sight to see.
+[END]
+2: (Jonathan) [7a 3][7b 131075, 65537][7b 720900, 65537][13 0, 151003]Doffing your pants and then doing
+that thing with your nose−−
+[END]
+3: (Isabeau) [7a 5][7b 720901, 65537][13 0, 151004]That's quite enough...
+[END]
+4: (Tayama) [7a 17][13 0, 151005]Good morning, Samurai.
+[->][13 0, 151006]I see you enjoyed the scent of my
+Yaso Magatsuhi.
+[END]
+5: 〉 Tayama shook Card Keys 2 through 4
+at [Flynn].
+[END]
+6: (Tayama) [7a 17][13 0, 151007]Oh, and I'll be taking these back.
+[END]
+7: (Tayama) [7a 17][13 0, 151008]What were you doing down there?
+Yuriko's still alive and kicking.
+[END]
+8: (Walter) [7a 4][7b 65540, 131073][7b 655365, 131073][13 0, 151009]That Yuriko told us a curious thing.
+She said that you're the true evil...
+[->][13 0, 151010]And I understand what she meant after
+paying your utopia a visit.
+[->][7b 786436, 131073][13 0, 151011]Being labeled a ”true evil” by a
+demon; quite an honor, wouldn't you
+say, Mr. Tayama?
+[END]
+9: (Glaring man) [7a 47][13 0, 151012]”By a demon”...?
+[->][13 0, 151013]Y−You mean that Yuriko's a demon?
+[END]
+10: (Unfriendly man) [7a 46][13 0, 151014]What group's she from? What the hell
+is Mastema doing?
+[END]
+11: (Tayama) [7a 17][7b 131089, 65537][13 0, 151015]I see... That bitch...
+[END]
+12: (Tayama) [7a 17][7b 131089, 65537][13 0, 151016]You don't know...
+[->][13 0, 151017]You didn't see how horrible it was in
+Tokyo when the Firmament appeared out
+of nowhere.
+[END]
+13: (Tayama) [7a 17][7b 65553, 65537][13 0, 151018]You seen the busted−up buildings all
+over the place? That wasn't all demons
+who did that, you know.
+[->][13 0, 151019]Most of it was humans fighting over
+food and electricity.
+[END]
+14: (Tayama) [7a 17][7b 262161, 65537][13 0, 151020]When people get backed into a corner,
+they stop thinkin' about the
+consequences.
+[->][13 0, 151021]They don't think twice about their
+fellow man when their own lives are
+on the line.
+[END]
+15: (Isabeau) [7a 5][7b 131077, 65537][7b 196612, 65537][13 0, 151022]The Unclean Ones... They're like demons.
+[END]
+16: (Tayama) [7a 17][7b 262161, 65537][13 0, 151023]That's a good example, kid.
+[->][13 0, 151024]Humans who think of nothing but
+themselves are exactly like demons.
+[END]
+17: (Tayama) [7a 17][7b 262161, 65537][13 0, 151025]You're right... humans are weak.
+[->][13 0, 151026]That's why I built my utopia, why I'm
+protecting them from the demons.
+[END]
+18: (Jonathan) [7a 3][7b 196611, 65537][7b 655365, 131073][13 0, 151027]Humans are weak...
+[END]
+19: (Tayama) [7a 17][7b 65553, 65537][13 0, 151028]Face the facts.
+[->][13 0, 151029]We have to live with the demons.
+We can't move to anywhere else.
+[->][13 0, 151030]So if we're going to survive here in
+Tokyo, we need to help each other out.
+[END]
+20: (Tayama) [7a 17][7b 131089, 65537][13 0, 151031]I keep the demons sweet with red pills
+for the sake of everyone living in
+Tokyo.
+[END]
+21: (Tayama) [7a 17][7b 131089, 65537][13 0, 151032]We give demons food−−the red pills−−and
+they promise not to eat humans...
+[->][7b 262161, 65537][13 0, 151033]It's a reasonable system, wouldn't
+you say?
+[END]
+22: (Glaring man) [7a 47][13 0, 151034]We patrol the streets so the demons
+don't get into the underground cities.
+[END]
+23: (Unfriendly man) [7a 46][13 0, 151035]The people underground don't know
+anything about it, so all they do
+is complain to us.
+[END]
+24: (Tayama) [7a 17][7b 65553, 65537][13 0, 151036]If everyone had humanity's best
+interests in mind like I do, maybe
+we wouldn't need the red pills.
+[->][13 0, 151037]Sadly, there are people in this world
+who can't do that.
+[END]
+25: (Tayama) [7a 17][7b 262161, 65537][13 0, 151038]So we need to get those people to make
+their contributions to Tokyo some way,
+right...?
+[END]
+26: (Walter) [7a 4][7b 786436, 131073][7b 131077, 65537][13 0, 151039]And thus the people of the underground
+cities become fodder for your red
+pills...?
+[END]
+27: (Tayama) [7a 17][7b 262161, 65537][13 0, 151040]We make sure to set 'em up with the
+kind of life they couldn't dream of
+down underground.
+[->][13 0, 151041]And we always hold the highest respect
+and appreciation for their noble
+sacrifices.
+[END]
+28: (Walter) [7a 4][7b 65540, 131073][13 0, 151042]...Was that intended as a joke?
+[->][13 0, 151043]So the masses live on the backs of the
+minority? That's quite the utopia
+you've built.
+[END]
+29: (Walter) [7a 4][7b 131076, 65537][13 0, 151044]Have you ever considered how your
+sacrifices feel about this...!?
+[END]
+30: (Tayama) [7a 17][7b 65553, 65537][13 0, 151045]......
+[->][7b 131089, 65537][13 0, 151046]If you don't got the guts to get your
+hands dirty, you don't get to say
+shit about it.
+[END]
+31: (Tayama) [7a 17][7b 65553, 65537][13 0, 151047]I'll let you go today...
+[END]
+32: (Tayama) [7a 17][7b 65553, 65537][13 0, 151048]But don't forget to kill Yuriko.
+Nobody's going to protect the human
+world but humans.
+[END]
+33: (Glaring man) [7a 47][13 0, 151050]......
+[END]
+34: (Master Samurai) [7a 116][13 0, 151051]...Gah! Hold on... My neck...
+Stop it...!
+[END]
+132: (Tayama) [7a 17][7b 262161, 65537][13 0, 151049]You got that? I won't go easy on your
+asses next time.
+[END]
+900: ※10月ROM対応箇所です
+[->]タヤマの部屋で目を覚まします
+[->]ここでクエスト達成処理が入ります
+『六本木に隠された真実を調査せよ』 達成
+[END]

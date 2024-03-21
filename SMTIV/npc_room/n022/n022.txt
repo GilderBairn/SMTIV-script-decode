@@ -1,0 +1,170 @@
+0: (Hunter man) [7a 118][13 1, 403002]If you don't have enough consumable
+items, check out the shop underground
+here. The Ashura−kai run it.
+[->]The selection's not bad, since it's
+an official Ashura−kai thing. The people
+of Tokyo can hardly live without it.
+[END]
+1: (Hunter man) [7a 118][13 1, 403002](Hunter) [7a 118][13 1, 403002]If you don't have enough consumable
+items, check out the shop underground
+here. The Ashura−kai run it.
+[->]There's another shop like it outside
+Ueno. The selection's not bad, since
+it's an official Ashura−kai thing. 
+[->]The people of Tokyo can hardly live
+without them.
+[END]
+2: (Hunter man) [7a 118][13 1, 403042]It hasn't been made public, but now
+that Tayama is dead, the Ashura−kai
+is practically defunct.
+[->]But the shops they used to run in each
+district are still around.
+[->]You can never have enough consumable
+items, you know? Thank God for those
+shops...
+[END]
+3: (Hunter man) [7a 118][13 1, 403041]The demons want to decide on a champion?
+Now? In this mess?
+[->]...I guess this isn't the time to start
+freaking out...
+[END]
+4: (Hunter man) [7a 118][13 1, 403002]It hasn't been made public, but now
+that Tayama is dead, the Ashura−kai
+is practically defunct.
+[->]But the shops they used to run in each
+district are still around.
+[->]If the angels are coming from up top
+to attack like I heard, we'll need
+those consumable items real soon...
+[END]
+5: (Hunter man) [7a 118][13 1, 403001]Even though the Demon Lord was defeated,
+there's still demons running around.
+[->]Thank God the shops the Ashura−kai used
+to run in each district are still open.
+[->]Tayama wasn't such a great guy, but he
+did leave some nice things behind...
+[END]
+6: (Demure woman) [7a 61][13 1, 403312]What? Questions? Why don't you ask
+a Hunter?
+[->]I got no time to waste on some
+strangers. Just go to the Hunter
+Association over there and ask them.
+[END]
+7: (Demure woman) [7a 61][13 1, 403312]What? Questions? Why don't you ask
+that Samurai guy?
+[->]I hear there's some schmo who calls
+himself a Samurai.
+[->]He's somewhere in this underground
+district. Anyways, I got no time to
+waste on some strangers.
+[END]
+8: 〉 A woman and a boy are talking...
+[END]
+9: 〉 A woman and a boy are talking...
+[END]
+10: (Demure woman) [7a 61][13 1, 403341]I heard that someone took on that army
+of angels and won...
+[->]So mankind still has a chance after
+all...
+[END]
+11: 〉 A woman and a boy are talking...
+[END]
+104: (Hunter man) [7a 118][13 1, 403001]It hasn't been made public, but now
+that Tayama is dead, the Ashura−kai
+is practically defunct.
+[->]But the shops they used to run in each
+district are still around.
+[->]Demons are still alive and kicking,
+after all... As long as we have them,
+we'll still need consumable items.
+[END]
+107: (Demure woman) [7a 61][13 1, 403312]These days, I can't help but wonder...
+[->]When my kid grows up to be your age,
+what's Tokyo gonna look like then?
+[->]And will I still be alive to look
+after him...?
+[END]
+108: (Demure woman) [7a 61][13 1, 403302]If... If demons attack the underground
+district, you run as fast as you can to
+safety, okay?
+[END]
+109: (Demure woman) [7a 61][13 1, 403302]If... If demons attack the underground
+district, you run as fast as you can to
+safety, okay?
+[END]
+111: (Demure boy) [7a 55][13 1, 404021]Mommy? If our champion beats up the
+demons, what should we do then?
+[->][END]
+207: (Demure woman) [7a 61][13 1, 403312]By the way... I don't see that girl from
+the Central Underground District so much
+these days...
+[->]She used to play with my kid. She's a
+real nice girl. Smart, too.
+[END]
+208: (Demure boy) [7a 55][13 1, 404021]What about you, Mommy...?
+[END]
+209: (Demure boy) [7a 55][13 1, 404021]No! I won't run! I'm gonna beat all
+the demons for you!
+[->]I'll be as great as [Flynn] and
+beat them all up!
+[END]
+211: (Demure woman) [7a 61][13 1, 403322]...Nothing. Nothing will change, sweetie.
+We'll stay together just like now...
+[END]
+307: 〉 A woman and a boy are talking...
+[END]
+308: (Demure woman) [7a 61][13 1, 403322]Listen to me...! Just do what I say,
+all right!?
+[END]
+309: (Demure woman) [7a 61][13 1, 403322]Sweetheart...
+[END]
+407: (Demure woman) [7a 61][13 1, 403302]If... If mommy gets killed by demons,
+don't cry, okay?
+[END]
+408: 〉 A woman and a boy are talking...
+[END]
+409: 〉 A woman and a boy are talking...
+[END]
+507: (Demure boy) [7a 55][13 1, 404021]Mommy... are you going to die?
+[END]
+508: (Demure woman) [7a 61][13 1, 403302]If... If demons attack the underground
+district, you run as fast as you can to
+Shinjuku, okay?
+[->]And whatever you do, don't lose this
+matchbox. Do you understand?
+[END]
+509: (Demure woman) [7a 61][13 1, 403302]If... If demons attack the underground
+district, you run as fast as you can to
+safety, okay?
+[END]
+607: (Demure woman) [7a 61][13 1, 403322]O−Of course not...
+[END]
+608: (Demure boy) [7a 55][13 1, 404021]What about you, Mommy...?
+[END]
+609: (Demure boy) [7a 55][13 1, 404021]No! I won't! We've got the champion
+to help us, Mommy!
+[END]
+708: (Demure woman) [7a 61][13 1, 403322]That doesn't matter! Just do it!
+[END]
+709: (Demure woman) [7a 61][13 1, 403322]...You're right, sweetheart.
+[END]
+807: 〉 A woman and a boy are talking...
+[END]
+808: 〉 A woman and a boy are talking...
+[END]
+907: (Demure woman) [7a 61][13 1, 403302]If... If mommy gets killed by demons,
+don't cry, okay?
+[END]
+908: (Demure woman) [7a 61][13 1, 403302]If... If demons attack the underground
+district, you run as fast as you can to
+safety, okay?
+[END]
+917: (Demure boy) [7a 55][13 1, 404021]Mommy won't die, right...?
+[END]
+927: (Demure woman) [7a 61][13 1, 403322]N−No, of course I won't...
+[END]
+1008: (Demure boy) [7a 55][13 1, 404021]No! I won't run! I'm gonna beat all
+the demons for you!
+[END]
+1108: (Demure woman) [7a 61][13 1, 403322]Sweetheart...
+[END]

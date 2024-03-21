@@ -1,0 +1,42 @@
+0: (Polite jailer) [7a 164][13 1, 412201]...Is this our second meeting here?
+[END]
+1: (Hot−headed jailer) [7a 165][13 1, 415001]You're a Samurai, right? Didja hafta
+commit seppuku that many times?
+[END]
+2: (Polite jailer) [7a 164]Though you have met an unfortunate end,
+you're in luck. Since you are the soul
+of a Samurai...
+[->]And since Master Charon isn't here right
+now...
+[END]
+3: (Hot−headed jailer) [7a 165]...Stay still, got it? Don't swing your
+arms or nothing...
+[END]
+4: 〉 The hot−headed jailer took something
+from his pocket and raised it to your
+Gauntlet...
+[END]
+5: (Burroughs) [13 0, 400004][7a 2]I have info for you.
+[END]
+6: You can now [Color:0x5]choose a difficulty setting.[Color:0x0]
+[->]This will allow you to [Color:0x5]adjust the
+difficulty level whenever you wish
+during the game.[Color:0x0]
+[->]If you feel that the game is too hard,
+select [Color:0x5]Burroughs[Color:0x0] −〉 [Color:0x5]Difficulty[Color:0x0] from
+the menu screen.
+[END]
+7: (Burroughs) [13 0, 10019][7a 2]Did you get all that?
+[END]
+8: ”Yes... Yes.”
+”Once more, please?”
+[END]
+9: (Burroughs) [13 0, 400056][7a 2]All right. I'll display the
+information once more.
+[END]
+10: (Hot−headed jailer) [7a 165]We don't need no money, so hurry up and
+get outta here!
+[END]
+11: (Polite jailer) [7a 164]...And please be sure never to speak of
+this to anyone...
+[END]

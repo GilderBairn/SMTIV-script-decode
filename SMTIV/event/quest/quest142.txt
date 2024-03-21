@@ -1,0 +1,15 @@
+0: A horde of pests is starting to chew at
+the Sky Tower. That tower is our only access
+to the ceiling, and it'll be a huge problem
+if it falls. Can any veteran Hunters out
+there exterminate this [Color:0x5]horde of pests[Color:0x0]
+for me?
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

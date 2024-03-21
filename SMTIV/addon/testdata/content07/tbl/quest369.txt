@@ -1,0 +1,10 @@
+0: I am a wayfarer of space and time. My latest hobby is
+to hire dwarves to craft various items and give them
+to people of various timelines. This time, I had them
+make something of hardened [Color:0x5]demon scales.[Color:0x0] If you want
+it, I'll trade for [Color:0x5][Item 1][Color:0x0] x[Color:0x5][Amount 1].[Color:0x0] Just deliver
+it to a [Color:0x5]Hunter Association[Color:0x0] or [Color:0x5]K's Tavern,[Color:0x0] whichever
+suits you best.
+[END]
+1: Download Quest 1 Second time
+[END]

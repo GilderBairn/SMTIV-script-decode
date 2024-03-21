@@ -1,0 +1,28 @@
+0: [71 1]I slaughtered a whole bunch!
+I wanna go again!
+[->][END]
+1: [71 1]Yay! I assisted someone!
+That means I was ”like a sister”
+to them, right?
+[->][END]
+2: [71 1]Let's do that again, Mister! I wanna
+go to a bunch of different places!
+[->][END]
+3: [71 1]I'm back! Let's go again!
+[->][END]
+4: [71 1]I fused with a whole bunch of demons!
+It was like a party!
+[->][END]
+5: [71 1]I'm a girl now! This StreetPass
+stuff is really neat!
+[->][END]
+6: [71 1]Here, have a gift! I found it just
+lying on the ground!
+[->][END]
+7: [71 1]Where you a good child?
+Here's your reward!
+[->][END]
+8: [71 1]I picked this up somewhere while I
+was killing a ton of people. It's
+a present for you, Mister!
+[->][END]

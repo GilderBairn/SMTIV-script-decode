@@ -1,0 +1,15 @@
+0: I'd like some help with my research. I want
+to speak with Enoch, a man who fused with an
+angel. Bring me the angel known as the ”most
+mysterious” of angels. If you think you can
+get your hands on it, come talk to me after
+you accept this quest.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

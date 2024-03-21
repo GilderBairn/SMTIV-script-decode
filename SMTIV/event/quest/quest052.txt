@@ -1,0 +1,8 @@
+0: Never thought I'd be issuing this quest... It's
+kind of a shame that an outsider Samurai will be
+saving Tokyo instead of the Counter−Demon Force,
+but I trust the job to a certain promising young
+man. [Color:0x5]Unsheathe Masakado's Katana in front of the
+giant boulder in Ginza.[Color:0x0] It should be at the
+[Color:0x5]intersection of the 4th District.[Color:0x0]
+[END]

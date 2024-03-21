@@ -1,0 +1,240 @@
+0: 〉 This place seems to be called the 2nd
+Observation Platform.
+[->]〉 Where will you go?
+[END]
+1: The 1st Observation Platform
+The Outer Scaffolding
+[END]
+2: (Hope) [13 1, 400651]This is Hope. I have a message for you.
+[END]
+3: (Hope) That zone is beyond the boundaries of
+the training area.
+[->]Turn back at once and continue your
+training exercises.
+[END]
+4: (Left Samurai) [7a 29][13 1, 403042]Halt, young fellow.
+[END]
+5: (Right Samurai) [7a 116][13 1, 404311]To proceed past here is counter to the
+Samurai code.
+[->]If you consider yourself a Samurai, we
+ask that you head back without protest.
+[END]
+6: (Left Samurai) [7a 29][13 1, 403042]Ho there, young fellows.
+[->]We heard plainly Abbot Hugo's mandate at
+the emergency's meeting...
+[END]
+7: (Right Samurai) [7a 116][13 1, 404311]But we know no other way than the
+Samurai code.
+[->]That is why we cannot accept Abbot Hugo's
+request.
+[END]
+8: (Left Samurai) [7a 29]Still, were any willing to accept his
+quest to appear before us...
+[->]We would yield to him graciously.
+[END]
+9: (Left Samurai) [7a 29][13 1, 403042]Ho there, young fellows. It seems you've
+undertaken Abbot Hugo's quest...
+[->]You intend to proceed, correct...?
+[END]
+10: (Right Samurai) [7a 116][13 1, 404311]It would be to the kingdom's detriment
+now for us to insist on upholding the
+Samurai code...
+[->]Yet we know of no other way than to live
+by the code. We cannot go with you.
+[END]
+11: (Left Samurai) [7a 29]At the very least, though, we wish you
+good luck as our fellows.
+[END]
+12: 〉 The Samurai leave...
+[END]
+13: (Hope) [7a 8][13 1, 400651]This is Hope. I have a message for you.
+[END]
+14: (Hope) [7a 8]That zone is beyond the boundaries of
+the training area.
+[->]Turn back at once and continue your
+training exercises.
+[END]
+15: (Hope) [7a 8][13 1, 400651]This is Hope. I have a message for you.
+[END]
+16: (Hope) [7a 8]The training exercises are over.
+[->]Turn back at once and return to Aquila
+Statue Plaza.
+[END]
+17: (Stephen) [7a 14][13 0, 401090]Hello there. We meet again.
+[END]
+18: (Stephen) [7a 14][13 0, 401092]I can improve your demon summoning
+program for you.
+[END]
+19: (Burroughs) [7a 2][13 0, 400004]I have info for you.
+[END]
+20: The [Color:0x5]StreetPass feature of Shin Megami
+Tensei IV[Color:0x0] is now available, allowing you
+to use [Color:0x5]DDS[Color:0x0] (Digital Demon Service).
+[->]DDS is a special service that allows
+demon summoners to connect with one
+another.
+[->]The demon summoners who use DDS will be
+able to exchange [Color:0x5]cards[Color:0x0] to show off [Color:0x5]the
+attached demon,[Color:0x0] as well as to strengthen
+those demons.
+[->]If a demon is attached to a card that's
+sent out, the demon may [Color:0x5]gain levels[Color:0x0] or
+even come back with an item.
+[->]If another user receives the card, the
+[Color:0x5]DDS Skill[Color:0x0] that corresponds to the number
+of received cards can be used in battle.
+[->]To activate StreetPass for Shin Megami
+Tensei IV, open the main menu and
+select [Color:0x5]Burroughs[Color:0x0] −〉 [Color:0x5]StreetPass.[Color:0x0]
+[->]Afterwards, select [Color:0x5]ON/OFF[Color:0x0] to activate or
+deactive StreetPass for this game.
+[->]In order to exchange data with StreetPass
+after activation, you will need to [Color:0x5]push
+the wireless switch to enable wireless
+communication.[Color:0x0]
+[END]
+21: (Burroughs) [7a 2][13 1, 10019]Did you get all that?
+[END]
+22: ”I did.”
+”Let's have it once more.”
+[END]
+23: (Burroughs) [7a 2][13 0, 400056]All right. I'll display the
+information once more.
+[END]
+24: (Stephen) [7a 14][13 1, 401094]I hope you'll put it to good use.
+[END]
+25: (Angel) [7a 65463][13 1, 412200]Ah, the warrior of light. How brightly
+you shine... I can sense our Lord's
+blessing radiating from you.
+[->]I am sure that our Lord is eager to see
+you will decisively annihilate the
+Unclean Ones underground.
+[->]Let us defeat the demons in order to
+bring peace to the sons of man chosen
+by the Lord.
+[END]
+26: (Angel) [7a 65463][13 1, 412209]Son of man who denies our Lord's
+salvation in favor of a path filled
+with thorns...
+[->]There can be no peace without the Lord's
+blessing. For the creator of the world
+is...
+[->]...But I need not say anything more.
+We shall wait until the day that the
+sons of man require us again...
+[END]
+27: (Angel) [7a 65463][13 1, 412203]You who denied the temptation of demons
+and chose to remain a son of man...
+[->]Just as the demons have departed for the
+present, so shall we... But the time of
+our reunion will not be long in coming.
+[->]For the sons of man have been fertile
+ground for demons since days of old.
+That is why we exist...
+[END]
+28: (Demon) [7a 65049][13 1, 411106]I intended on being the first to go into
+the Eastern Kingdom of Mikado, but I'm
+stuck here.
+[->]Looks like that Terminal thing isn't any
+use now. And even if I could go ahead...
+[->]Ugh, dammit! I wish I could just rip the
+wings off those bastards!
+[END]
+29: (Demon) [7a 65049][13 1, 411106]I intended on being the first to go into
+the Eastern Kingdom of Mikado, but I'm
+stuck here.
+[->]Though it feels like things have changed
+a bit up ahead... But nah, I won't be
+suckered.
+[->]Those damn angels are good at lulling
+you into a false sense of security...
+and then beating the daylights outta you.
+[END]
+30: (Voice) [7a 2][13 1, 412009]Who goes there?
+[END]
+31: (Angel) [7a 65461][13 1, 412000]Ah, the warrior of light. You are on
+your way to annihilate Tokyo and the
+Unclean Ones there, no?
+[->]Please leave the defense of New Mikado
+Castle to us. We won't allow a single
+one of the vile demons through.
+[END]
+32: (Voice) [7a 2][13 1, 412009]Who goes there?
+[END]
+33: (Angel) [7a 65461][13 1, 412000]Ah, the warrior of light. You are on
+your way to annihilate Tokyo and the
+Unclean Ones there, no?
+[->]Your gallant figure as you personally
+confront the Unclean Ones will live on
+in the people's hearts for eternity...
+[END]
+34: (Voice) [7a 2][13 1, 412009]Who goes there?
+[END]
+35: (Angel) [7a 65461][13 1, 412000]Ah, the warrior of light. You are on
+your way to annihilate Tokyo and the
+Unclean Ones there, no?
+[->]There is no need to fear the Demon Lord.
+The Lord's chariot is with you.
+[END]
+36: (Voice) [7a 2][13 1, 412009]Who goes there?
+[END]
+37: (Angel) [7a 65461][13 1, 412000]Ah, the warrior of light. You are on
+your way to annihilate Tokyo and the
+Unclean Ones there, no?
+[->]The advent of the new millennium cannot
+be completed without your tireless
+efforts.
+[END]
+38: (Voice) [7a 2][13 1, 412009]Who goes there?
+[END]
+39: (Angel) [7a 65461][13 1, 412000]Ah, the warrior of light.
+[->]Ahead is a fabricated space... It is
+a defensive measure to prevent demons
+from passing through.
+[END]
+40: (Angel) [7a 65461]We are voluntarily refraining from
+passing through it. But could it be that
+you wish to proceed...?
+[END]
+41: ”That's right.”
+”No.”
+[END]
+42: (Angel) [7a 65461]If the warrior of light says it, then it
+shall be done.
+[END]
+43: (Angel) [7a 65461]......
+[END]
+44: 〉 [Flynn] was drawn by a gentle
+power...
+[END]
+45: (Angel) [7a 65461]Thank you for your consideration.
+[END]
+46: (Voice) [7a 2][13 1, 412009]Who goes there?
+[END]
+47: (Angel) [7a 65461][13 1, 412000]Ah, the warrior of light.
+[->]Ahead is a fabricated space... It is
+a defensive measure to prevent demons
+from passing through.
+[END]
+48: (Angel) [7a 65461]We are voluntarily refraining from
+passing through it. But could it be that
+you wish to proceed...?
+[END]
+49: ”That's right.”
+”No.”
+[END]
+50: (Angel) [7a 65461]If the warrior of light says it, then it
+shall be done.
+[END]
+51: (Angel) [7a 65461]......
+[END]
+52: 〉 [Flynn] was drawn by a gentle
+power...
+[END]
+53: (Angel) [7a 65461]Thank you for your consideration.
+[END]
+104: (Voice) [13 1, 403042]Halt, young fellow.
+[END]
+204: 〉 Two master Samurai stepped around
+before [Flynn] and the others.
+[END]

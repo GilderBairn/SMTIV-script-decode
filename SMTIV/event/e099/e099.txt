@@ -1,0 +1,69 @@
+0: (Hugo) [7a 10][13 0, 99001]Hm? You're...
+[END]
+1: (Hugo) [7a 10][13 0, 99002]I have heard that you easily retrieved
+each mystic relic that I requested.
+[->][13 0, 99003]I greatly admire your initiative.
+In God's name, I offer you words of
+gratitude.
+[END]
+2: (Hugo) [7a 10][13 0, 99004][7b 65546, 65537]By the by...
+[->][13 0, 99005]I expect that in your delvings, you
+have grown familiar with the lay
+of Tokyo.
+[->][13 0, 99006]It is for that reason that I should
+like to place a particular burden on
+your shoulders.
+[END]
+8: (Hugo) [7a 10][13 0, 99007]It is on behalf of a certain man
+I am acquainted with...
+[->][13 0, 99008]It seems his wife craves a kind of
+mystic relic known as ”wine.”
+[->][13 0, 99009]Wine is an alcoholic beverage that
+was once widespread in Tokyo.
+[END]
+9: (Hugo) [7a 10][13 0, 99010][7b 786442, 65537]The poor man's wife is not shy to
+make demands... and worse, she is
+a woman of violent temper.
+[->][13 0, 99011]Day after day, she presses down like
+an anvil upon me... Er, upon my
+acquaintance, causing terrible grief.
+[END]
+10: (Hugo) [7a 10][13 0, 99012]Please, for his sake, I charge you
+with retrieving a bottle of wine from
+somewhere in Tokyo.
+[END]
+11: (Hugo) [7a 10][13 0, 99014]Ah, and as this is a personal request
+from myself, there is no need to go
+through K's Tavern.
+[->][13 0, 99015]Please consult me directly once you
+have the wine.
+[END]
+12: (Hugo) [7a 10][13 0, 99016][7b 262154, 65537]I have the utmost faith in you...
+[END]
+13: (Hugo) [7a 10][13 0, 100002]Hm? That's...!
+[END]
+14: 〉 As soon as Hugo noticed the wine in
+[Flynn]'s hands, he snatched
+the bottle away.
+[END]
+15: [13 0, 100004](Hugo) [7a 10]Now I'll not have to endure my wife's
+endless nagging as to her wine...
+[END]
+16: (Hugo) [7a 10][13 0, 100005]I am sure my troubled acquaintance
+will be most relieved.
+[->][13 0, 100006]Permit me to leave you with a token
+of gratitude in his stead.
+[END]
+17: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest
+[END]
+18: (Hugo) [7a 10][13 0, 100007]Be certain that you breathe not
+a word of this to anyone...
+Is that understood?
+[END]
+19: (Hugo) [7a 10][13 0, 100008]...Well then, you are free to leave.
+[END]
+110: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+116: 〉 Obtained a Bead Chain.
+[END]

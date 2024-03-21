@@ -1,0 +1,50 @@
+0: (Jonathan) [7a 3][7b 458755, 65537]There...!
+[END]
+1: (Man in tears) [7a 34][13 0, 46001]No...! S−Someone... Help...!
+[END]
+2: (Strix) [7a 65081][13 0, 46002]There's no sense running...
+[END]
+3: 〉 A demon approached the man...
+[END]
+4: (Strix) [7a 65081][13 0, 46003]You don't like how those Luxuror
+bastards do things, no? Let's pick up
+where we left off and... Hm?
+[END]
+5: (Strix) [7a 0][13 0, 46004]Speak of the devil... I'll need to
+give us some privacy before we can
+chat!
+[END]
+6: (Man in tears) [7a 34][13 0, 46005]I−I see... You became a Samurai,
+[Flynn]...
+[->][13 0, 46006]I had thought it strange not to see
+you in the village lately. I noticed
+your absence tonight, too...
+[END]
+7: (Jonathan) [7a 3][13 0, 46007]By heaven, what happened...?
+[END]
+8: (Man in tears) [7a 34][13 0, 46008]There was a villager who brought back
+books from the castle town.
+[->][13 0, 46009]The younger ones of the village
+gathered in this forest and decided
+to hold a Sabbath.
+[END]
+9: (Man in tears) [7a 34][13 0, 46010]...Really, of course, it was an excuse
+to denigrate the Luxurors. They chafed
+under the rules handed down...
+[->][13 0, 46011]It held little interest for me, so I
+decided to leave. That's when a number
+of them suddenly...
+[->][13 0, 46012]Th−They suddenly... Their bodies
+began to twist and warp...!
+[END]
+10: 〉 The man's breathing grew more ragged...
+[END]
+11: (Jonathan) [7a 3][13 0, 46013]...Thank you. You did well in telling
+us of this. Your part is finished here.
+[->][13 0, 46014]You should remove yourself to the
+forest entrance. The Samurai there
+will take you into their care.
+[END]
+12: 〉 The man walked away, wiping tears
+from his face.
+[END]

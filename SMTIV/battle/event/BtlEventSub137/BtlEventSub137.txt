@@ -1,0 +1,11 @@
+0: (Demon) [7a 0][13 1, 414102]I come forth with the poison winds
+and the voices of the dead.
+[->]The name is Fury Chernobog.
+[END]
+1: (Chernobog) [7a 0]Now... As my sacrifice, you shall
+entertain me until I am satisfied.
+[END]
+2: (Chernobog) [7a 0][13 1, 414100]Ho... I suppose you humans are much
+more than fragile creatures that
+succumb to poison...
+[END]

@@ -1,0 +1,11 @@
+0: (Ares) [7a 0][13 0, 350101]My former master made me bow down
+before his overwhelming power.
+[->][13 0, 350102]If you can make me surrender to you,
+then I shall hand over control of
+this machine.
+[->][13 0, 350103]...Of course, that is if you can
+withstand my assault.
+[END]
+1: (Ares) [7a 0][13 0, 350104]I see... You have shown me your power.
+I admit defeat.
+[END]

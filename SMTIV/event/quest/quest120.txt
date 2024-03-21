@@ -1,0 +1,21 @@
+0: I want someone to deliver some [Color:0x5]film[Color:0x0] to a
+demon slayer. Her hobby is taking pictures of
+Tokyo, even though it's dangerous out there.
+She's kind of an oddball, if you ask me...
+Anyway, I have the film, but I need somebody
+to deliver it. I'm in the Ashura−kai shop in Ueno.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]
+2: This is the shopkeeper. I'm pretty sure
+that photographer Hunter is still in the
+Ueno area, since she wanted to take pictures
+of shrines and temples. Make sure to give
+her the film.
+[END]

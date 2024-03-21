@@ -1,0 +1,211 @@
+0: (Far−gazing woman) [7a 62][13 1, 403302]Hey, whatever happened to that cocoon
+in Shinjuku National Park?
+[->]It flew off right before the ceiling
+appeared... Maybe it's still up there.
+[->]I wonder what happened to the ones
+”chosen by God” who were inside?
+[END]
+1: (Far−gazing woman) [7a 62][13 1, 403312]On that day... I wish I'd stayed with
+the cocoon in the park... I should have
+found a way to stay with them...
+[->]Who cares if I wasn't chosen by God!?
+I just don't want demons to eat me!
+[END]
+2: (Far−gazing woman) [7a 62][13 1, 403303]When the cocoon took off from the park,
+I felt like I'd flunked out of school
+or something...
+[->]But I don't care anymore. I can feel
+the hope building inside Tokyo.
+[END]
+3: (Far−gazing woman) [7a 62][13 1, 403312]People are coming down now from up
+above the ceiling... The Eastern
+Kingdom of Mikado, right?
+[->]Are they the same ones who were in the
+cocoon in Shinjuku National Park? Then...
+is my boy one of them...?
+[->]I−I should give it up already... By now,
+he'll have his own life. I shouldn't
+interfere...
+[END]
+4: (Fierce−eyed man) [7a 60][13 1, 403211]Have you ever heard of angels? Yeah,
+the things in the myths and such.
+[->]Now, I'm not bullshitting you here,
+but I almost got killed by an angel
+one time.
+[->]There was some other dude whose face
+was cut to ribbons. Nasty stuff.
+[END]
+5: (Fierce−eyed man) [7a 60][13 1, 403212]Hear me out. I heard some stupid
+bullshit, okay? They say angels are
+coming down from the ceiling soon...
+[->]But what if it's true? Just what if?
+We've already got our hands full with
+the demons... and now angels!?
+[->]How screwed are we...!?
+[END]
+6: (Fierce−eyed man) [7a 60][13 1, 403242]H−Hey, champ... C−Can you listen to
+this problem I got?
+[->]I'm so worried about this rumor that
+the angels are coming down here for
+us... It's all a lie, right!?
+[->]B−But if it's true... Just if...
+Can you do something!? Angels are
+so goddamned scary, man!
+[END]
+7: (Fierce−eyed man) [7a 60][13 1, 403242]H−Hey, champ... C−Can you listen to
+this problem I got?
+[->]I hear peace is coming back to Tokyo...
+Do you really mean it!?
+[->]My whole life is one worry after the
+next. Now that the worries are gone,
+not worrying is worrying me...
+[END]
+8: (Talkative man) [7a 79][13 1, 403221]The Ashura−kai sure are violent. But hey,
+you won't hear me complaining.
+[->]Everyone knows we're still alive today
+thanks to their stockpiles of stuff.
+[->]Plus, the electricity they generate
+let us live in safety in these
+underground districts...
+[END]
+9: (Talkative man) [7a 79][13 1, 403241]I was chatting with a dude who said he
+was from someplace called the Eastern
+Kingdom of Mikado...
+[->]According to him, this ”Mikado” place
+doesn't even have electricity!
+[->]I don't know where that is in Tokyo,
+but it sure sounds like a rough life
+over there...
+[END]
+10: (Talkative man) [7a 79][13 1, 403241]I was chatting with a dude who said he
+was from someplace called the Eastern
+Kingdom of Mikado...
+[->]I was only half listening to him, but
+the place sounds like a fertile land
+with lots of greenery.
+[->]If what he told me is true, I'd love
+to visit this Eastern Kingdom of
+Mikado someday...
+[END]
+11: (Talkative man) [7a 79][13 1, 403241]Hey, I haven't seen that guy from the
+Eastern Kingdom of Mikado...
+[->]He told me that religion is a pretty
+big thing there. I don't belive in
+God, myself...
+[->]But war is about to break out inside
+Tokyo. If there is a God, I wish he'd
+save us all.
+[END]
+12: (Talkative man) [7a 79][13 1, 403221]Hey, have you seen that guy from the
+Eastern Kingdom of Mikado?
+[->]He said that the people there worship
+God. If you see him again, can you
+give him a message from me?
+[->]”There are demons in Tokyo. Ask God
+to do something about it.”
+[END]
+13: (Talkative man) [7a 79][13 1, 403202]Did you guys see a man from the Eastern
+Kingdom of Mikado there?
+[->]I hear the people there worship God...
+But I'd rather worship a champion over
+something I can't actually see.
+[->]”Champion”... Just the sound of it
+is inspiring...
+[END]
+14: (Talkative man) [7a 79][13 1, 403232]I saw a lot of unfamiliar faces in the
+underground district today...
+[->]When I talked to them, they said they
+were from the Eastern Kingdom of
+Mikado...
+[->]They were marching to Kabuki−cho with
+this white−haired, dignified man as
+their leader...
+[END]
+100: (Far−gazing woman) [7a 62][13 1, 403302]There was a huge cocoon in Shinjuku
+National Park...
+[->]It took off into the sky right before
+the ceiling showed up.
+[->]I feel terrible for the people who had
+family inside. They must be suffering
+like you can't imagine...
+[END]
+104: (Fierce−eyed man) [7a 60][13 1, 403211]Have you ever heard of angels? Yeah,
+the things in the myths and such.
+[->]But angels do exist. It's true. If you
+think I'm bullshitting you, go check
+out Shinjuku National Park.
+[->]There's a strange tower there... and if
+you go inside... Nah, they must be dead
+by now. The demons probably got 'em.
+[END]
+105: (Fierce−eyed man) [7a 60][13 1, 403212]Hear me out. I heard some stupid
+bullshit, okay? They say angels are
+coming down from the ceiling soon...
+[->]But what if it's true? Just what if?
+We've already got our hands full with
+the demons... and now angels!?
+[->]How screwed are we...!?
+[END]
+106: (Fierce−eyed man) [7a 60][13 1, 403242]H−Hey, champ... C−Can you listen to
+this problem I got?
+[->]I'm so worried about this rumor that
+the Demon Lord is coming from Ichigaya
+for us... It's all a lie, right!?
+[->]B−But if it's true... Just if...
+Can you do something!? We can't take
+any more of those horrible demons!
+[END]
+200: (Far−gazing woman) [7a 62][13 1, 403302]There was a huge cocoon in Shinjuku
+National Park...
+[->]It took off into the sky right before
+the ceiling showed up.
+[->]That might have been the right move.
+[END]
+204: (Fierce−eyed man) [7a 60][13 1, 403211]Have you ever heard of angels? Yeah,
+the things in the myths and such.
+[->]But angels do exist. It's true. And
+they're some nasty sons of bitches.
+[->]There's a dude whose face got cut to
+ribbons by some angels. You can see
+him at Cafe Florida.
+[END]
+205: (Fierce−eyed man) [7a 60][13 1, 403212]Hear me out. I heard some stupid
+bullshit, okay? They say angels are
+coming down from the ceiling soon...
+[->]But what if it's true? Just what if?
+We've already got our hands full with
+the demons... and now angels!?
+[->]I wonder what Fujiwara and Skins are
+gonna do about it...!?
+[END]
+305: (Fierce−eyed man) [7a 60][13 1, 403212]Hear me out. I heard some stupid
+bullshit, okay? They say angels are
+coming down from the ceiling soon...
+[->]But I don't believe that. We've already
+got our hands full with the demons...
+[->]Fujiwara and Skins seem pretty calm
+about it, though. I wonder why...
+[END]
+405: (Fierce−eyed man) [7a 60][13 1, 403212]Hey, do you know the guy who's made it
+to third place on the scoreboard?
+What was his name? [Flynn]?
+[->]That's the cold−blooded killer
+everyone's been talking about, right?
+[->]Maybe he can kill all the demons in
+Tokyo−−and those angels coming down
+from the ceiling, too...
+[END]
+1004: (Fierce−eyed man) [7a 60][13 1, 403211]Have you ever heard of angels? Yeah,
+the things in the myths and such.
+[->]But angels do exist. It's true. And
+they're some nasty sons of bitches.
+[->]I even know this one dude whose face
+got cut to ribbons by some angels...
+[END]
+1204: (Fierce−eyed man) [7a 60][13 1, 403211]Have you ever heard of angels? Yeah,
+the things in the myths and such.
+[->]But angels do exist. It's true. And
+they're some nasty sons of bitches.
+[->]You've met Skins, right? Yeah, that
+face of his? Angels. Not even kidding.
+[END]

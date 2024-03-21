@@ -1,0 +1,177 @@
+0: (Demon) [7a 64941][13 1, 413106]This is the last remaining fortress
+of the Amatsu... If you have no
+business here, then leave at once.
+[->]We must endure here until the return
+of our leader, Amaterasu.
+[END]
+1: (Demon) [7a 64941][13 1, 413100]Oh, I recognize you.
+You are [Flynn], are you not?
+[->]You were the one who appeared within
+my divination. The human that is to
+be the hope of our race.
+[->]Please, I implore you to help us.
+[->]Ah, but where are my manners?
+I am Futotama, one of the ruling
+class of the Amatsu.
+[->](Futotama) [7a 64941][13 1, 413101]We, the Amatsu, are continually being
+trodden upon by the demons who wish
+to take over Tokyo for themselves.
+[->]Our leader Amaterasu has been sealed
+away, and the power of the Amatsu is
+nothing more than a candle's flicker.
+[->]I want to somehow free Amaterasu,
+and preserve the Amatsu race from
+extinction.
+[->]In order to free Amaterasu, I require
+three different holy vessels...
+[->][Color:0x5]The Yata Mirror, the Yasakani
+Magatama, and the Ameno Murakumo Sword.[Color:0x0]
+I require these sacred treasures.
+[END]
+2: (Futotama) [7a 64941][13 1, 413100]Hm? You already have the three holy
+vessels with you? Well, that makes
+things much easier.
+[END]
+3: (Futotama) [7a 64941][13 1, 413101]Two of the vessels can be found in a
+shrine located [Color:0x5]north[Color:0x0] of here. They are
+the Yoroi Shrine and the Kiou Shrine.
+[->]The last one will be found on the
+[Color:0x5]east side[Color:0x0] of Tokyo, in a shrine known
+as the Kabuto Shrine.
+[->]Once you have collected all three of
+the holy vessels, please bring them
+to me.
+[->]All the shrines have been consumed by
+the Domains of foreign demons that
+guard the holy vessels.
+[->]Please, be careful.
+[END]
+4: (Futotama) [7a 64941][13 1, 413005]Hm? You have already collected the
+three holy vessels?
+[->]All of them? Already!?
+[->][13 1, 413102]Ah, finally. The three holy vessels
+have been collected. With these, I
+will be able to free Amaterasu!
+[->]Let us go, [Flynn], to the land
+where Amaterasu is sealed...
+[->]That is... The [Color:0x5]Tokyo Castle Ruins[Color:0x0]
+to the north of Kasumigaseki.
+[->]There, I want you to deliver...
+No, to make an offering.
+[->]I repeat, [Flynn], go to the
+[Color:0x5]Tokyo Castle Ruins.[Color:0x0]
+[END]
+5: (Futotama) [7a 64941][13 1, 413102]Ah! You have collected all three of
+the holy vessels.
+[->]Finally. The three holy vessels have
+been collected. With these, I will
+be able to free Amaterasu!
+[->]Let us go, [Flynn], to the land
+where Amaterasu is sealed...
+[->]That is... The [Color:0x5]Tokyo Castle Ruins[Color:0x0]
+to the north of Kasumigaseki.
+[->]There, I want you to deliver...
+No, to make an offering.
+[->]I repeat, [Flynn], go to the
+[Color:0x5]Tokyo Castle Ruins.[Color:0x0]
+[END]
+6: (Futotama) [7a 64941][13 1, 413103][Flynn], go to the [Color:0x5]Tokyo Castle
+Ruins[Color:0x0] north of Kasumigaseki.
+[->]That is where Amaterasu has been
+sealed.
+[END]
+7: 〉 There is a strong seal on this
+place, but you sense a strange power
+as well...
+[END]
+8: 〉 The three holy vessels begin to
+glow, and the seal weakens...
+[->]〉 Will you enter?
+[END]
+9: Yes
+No
+[END]
+10: (Futotama) [7a 64941][13 1, 413103]Now then, [Flynn].
+[->]Give the three holy vessels as an
+offering.
+[END]
+11: (Futotama) [7a 64941][13 1, 413101]Good work, [Flynn]. Now my greatest
+wish has been fulfilled...
+[END]
+12: 〉 Amaterasu's seal has been broken...
+[END]
+13: (Amaterasu) [7a 65356][13 1, 418003]Ah... I have once again returned to
+this world.
+[->]And it is all thanks to you,
+[Flynn]. You have my gratitude.
+[->]I apologize for the trouble that I
+have caused Futotama.
+[END]
+14: (Futotama) [7a 0][13 1, 413104]Think nothing of it. All I needed was
+to know that you are safe and sound,
+Amaterasu.
+[->]I suggest you leave this land at
+once, so that you may recover your
+strength.
+[->]Once you have recovered, let us
+return to this barren land and become
+the leading force in redeveloping it.
+[->]The other Japanese gods shall follow
+your lead.
+[END]
+15: (Amaterasu) [7a 65356][13 1, 418002]Very well.
+[->]I will take my leave now.
+[->]But, before I go, I shall bestow a
+boon upon you, [Flynn].
+[->]I shall grant you a portion of the
+Amatsu Futotama's power.
+[->]That is, the power of flight.
+[->]Even a human like yourself can
+attain flight.
+[END]
+16: 〉 [Flynn] has received
+Torifune's Shawl.
+[END]
+17: (Amaterasu) [7a 65356]This is the best I can offer as of
+this moment...
+[->]Now, go, for the world that you
+dream of...
+[END]
+18: 〉 Amaterasu leaves...
+[END]
+19: 〉 The three holy vessels are glowing
+brighter than ever, as if they are
+reacting to one another...
+[END]
+20: 〉 You may now use the power of the
+Futotama to fly across Tokyo.
+[->]〉 Press [button 0] at designated
+spots in Tokyo to use Futotama's
+power to fly or land.
+[->]〉 This will allow you to travel
+much more easily than before, so
+use it often.
+[END]
+21: (Demon) [7a 64941][13 1, 413106]This is the last remaining fortress
+of the Amatsu... If you have no
+business here, then leave at once.
+[->]Or, perhaps... Did you come here in
+regards to the job that I requested?
+[END]
+22: ”Yes, I did.”
+”No.”
+[END]
+23: (Demon) [7a 64941][13 1, 413009]Then you have no reason to remain
+in this place. Leave at once, child
+of man.
+[END]
+100: 〉 You decide not to give the
+offering and leave the area...
+[END]
+900: 〉 There is no one here...
+[END]
+901: 〉 A strong power seals this area...
+[END]
+902: 〉 The gate is closed.
+It seems no one is here...
+[END]

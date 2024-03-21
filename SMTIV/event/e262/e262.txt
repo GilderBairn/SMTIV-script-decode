@@ -1,0 +1,51 @@
+0: (Girl's voice) [13 0, 262001]...I've been waiting for you.
+[END]
+1: (Isabeau) [7a 5][7b 65541, 196609][13 0, 262002]We meet again, [Flynn].
+[END]
+2: (Isabeau) [7a 5][7b 524293, 131073][13 0, 262003]It's just as Jonathan said...
+[END]
+3: (Isabeau) [7a 5][7b 655365, 65537][13 0, 262004]You intend to storm the Eastern Kingdom
+of Mikado, no?
+[END]
+4: (Isabeau) [7a 5][7b 196613, 65537][13 0, 262005]...You might be interested to know
+that I finally read the conclusion of
+that manga. This is how it ended.
+[END]
+5: (Isabeau) [7a 5][7b 655365, 131073][7b 196613, 65537][13 0, 262009]...You, [Flynn], are a strong Samurai
+who can be proud of the path you've
+chosen...
+[END]
+6: (Isabeau) [7a 5][7b 655365, 65537][13 0, 262011]Nevertheless... I abhor the idea of
+you doing something so horrible as
+staining the world with war!
+[END]
+7: (Isabeau) [7a 5][7b 131077, 65537][13 0, 262012]I am quite serious about this.
+[END]
+9: 〉 Isabeau lies still...
+[END]
+10: (Demon Lord Lucifer) [7a 65056][13 0, 262013]Pitiful.
+[->][13 0, 262014]See what comes of those without power
+harboring wishes that exceed their
+grasp.
+[->][13 0, 262015]And all of this because God's puppets
+have bound the sons of man in a tepid
+world.
+[END]
+11: (Demon Lord Lucifer) [7a 204][13 0, 262016]Now, let us go.
+[->][13 0, 262017]We must tear down this false paradise
+of God's as soon as possible.
+[END]
+104: (Isabeau) [7a 5][7b 524293, 131073][13 0, 262006]Even should an uprising succeed and a
+new regime be installed, another rebel
+will inevitably arise...
+[END]
+105: (Isabeau) [7a 5][7b 327685, 65537][13 0, 262010]But I... I could not make my decision
+until the very end.
+[END]
+204: (Isabeau) [7a 5][7b 131077, 65537][13 0, 262007]Do you intend to become the cause of
+a never−ending war of succession?
+[END]
+304: (Demon Lord Lucifer) [7a 204][7b 65740, 65537][13 0, 262008]The sons of man have ever advanced
+through discord. If you stand in the
+way of progress, I will slay you.
+[END]

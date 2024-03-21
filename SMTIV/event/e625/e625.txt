@@ -1,0 +1,79 @@
+0: (Female Hunter) [7a 82][13 1, 403103]Hey, you're [Flynn], right?
+You've got great timing.
+[->]I'm friends with Nozomi. I usually
+ask her to take some pictures for me.
+[->]But it's kind of hard to ask her now,
+since there are so many people asking
+for her help right now.
+[->]I hear that you have a camera too, right?
+[->]I've got a favor to ask.
+Could you do a little job that
+involves taking pictures for me?
+[END]
+1: Accept it
+Refuse
+[END]
+2: (Female Hunter) [7a 82][13 1, 403133]You're a life saver. So the job I want you
+to do is to go take pictures that
+I can use as reference material.
+[->]You know the shelter in [Color:0x5]Kasumigaseki[Color:0x0]'s
+underground? My job is to do periodic
+inspections of that place.
+[->]So when I give my client, Mr. Fujiwara,
+the report, it's easier for me to have a 
+picture on hand to help explain things.
+[->]So could you go to the underground shelter,
+and take a picture of the place for me?
+[END]
+3: (Burroughs) [7a 2][13 1, 502043]We've got another new quest.
+I'll register it on the list.
+[END]
+4: (Female Hunter) [7a 82][13 1, 403143]Well I guess it can't be helped.
+I guess I'll ask Nozomi then.
+[END]
+5: 〉 This is the Counter−Demon Force Base located
+within the shelter.
+[END]
+6: 〉 Will you take a picture?
+[END]
+7: Yes
+No
+[END]
+8: 〉 You've obtained a picture of the shelter.
+[END]
+9: 〉 [Flynn] has left the place.
+[END]
+10: (Female Hunter) [7a 82][13 1, 403102]Oh hey, it's you.
+Did you take the picture for me?
+[END]
+11: Yes
+No
+[END]
+12: 〉 The woman is looking at the picture
+of the shelter...
+[END]
+13: (Female Hunter) [7a 82][13 1, 403131]Yeah, this is perfect.
+This should complete my report now.
+[END]
+14: 〉 [Flynn] has received a reward.
+[END]
+15: (Female Hunter) [7a 82][13 1, 403133]Thanks for the help [Flynn].
+As expected of a photographer in training.
+[->]What, you're not?
+*sigh* I guess Nozomi's tricked me again.
+[->]Well thanks anyways.
+Say hi to Nozomi for me if you see her.
+[END]
+16: (Female Hunter) [7a 82][13 1, 403141]My report's pretty much done,
+so all I need now is the photograph to finish it.
+[END]
+17: (Female Hunter) [7a 82][13 1, 403131]Once you take the picture,
+just bring it over to me.
+[END]
+100: (Female Hunter) [7a 82][13 1, 403122]What am I going to do?
+I can't get a picture if Nozomi isn't around.
+[->]I guess I'll just have to tell
+Mr. Fujiwara to wait a little while...
+[END]
+900: 〉 Nobody's here...
+[END]

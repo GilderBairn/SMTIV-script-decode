@@ -1,0 +1,25 @@
+0: (Voice) [7a 1][13 0, 200001]I found you...
+[END]
+1: (Ixtab) [7a 65231][13 0, 200002]I'm sorry that you eluded me so long.
+[END]
+2: (Ixtab) [7a 65231][13 0, 200003]The most unfortunate thing about
+humans is the fact of their birth...
+[->][13 0, 200004]That's why I shall lead you to a
+paradise...
+[END]
+3: (Ixtab) [7a 65231][13 0, 200005]Where the shackles of God do not
+exist...
+[->][13 0, 200006]The afterlife.
+[END]
+4: (Jonathan) [7a 3][13 0, 200008]To preach that death is salvation,
+preying upon people's weakness...
+[->][13 0, 200009][7b 131075, 65537]Vile behavior, even for a demon.
+[END]
+5: (Walter) [7a 4][13 0, 200010]A rather unwelcome ”favor,” isn't it?
+[->][13 0, 200011][7b 196612, 65537]It's up to each man to decide for
+himself what ”paradise” entails.
+[END]
+103: 〉 The atmosphere in the area is changing...
+[END]
+203: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[END]

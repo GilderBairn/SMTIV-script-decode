@@ -1,0 +1,18 @@
+0: ※10月ROM対応版です
+[->]〉 Where will you go?
+[END]
+1: The main hall entrance
+The exit outside
+[END]
+2: The main hall entrance
+The exit outside
+The hall with the bench
+[END]
+3: 〉 You went to the main hall entrance.
+[END]
+4: 〉 You went outside.
+[END]
+5: 〉 You went to the hall with the bench.
+[->][END]
+6: 〉 But the gate is tightly shut...
+[END]

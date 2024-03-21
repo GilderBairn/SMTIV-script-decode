@@ -1,0 +1,97 @@
+0: (Meek Samurai) [7a 117][13 1, 403001]Oh, my dear fellow Samurai... Do you
+recognize me? I've seen you many a
+time in Naraku.
+[->]Operating the elevator proved to be a
+challenge, but I, too, have at last
+arrived in Tokyo!
+[->]I was so lonely in this unknown land...
+I am most relieved to see a few
+familiar faces.
+[END]
+1: (Meek Samurai) [7a 117][13 1, 403041]Oh, my dear fellow Samurai... You are
+in Tokyo as well, I see.
+[->]They say the Monastery is making a
+more concerted effort to collect
+mystic relics.
+[->]Doubtless I am not the only fellow
+Samurai you will see here...
+[END]
+2: (Meek Samurai) [7a 117][13 1, 403041]Oh, my dear fellow Samurai... I will
+soon be returning to Mikado Castle.
+[->]I received a message from Abbot Hugo.
+He seemed a bit panicked... I wonder
+what might have happened.
+[END]
+3: (Meek Samurai) [7a 117][13 1, 403042]I can feel my heart swell with hope
+merely by looking at you...
+[->]I know that we cannot return to the
+Eastern Kingdom of Mikado, but I also
+know it's too soon to abandon all hope.
+[END]
+4: (Meek Samurai) [7a 117][13 1, 403002]The terminal in the Eastern Kingdom of
+Mikado is active once again.
+[->]What...? I shouldn't go back to Mikado?
+The people are all coming to Tokyo...!?
+[->]W−Wait a minute! J−Just what do you
+mean by that!?
+[END]
+5: (Meek Samurai) [7a 117][13 1, 403002]The people of the Eastern Kingdom of
+Mikado are gathering in Shinjuku now.
+[->]I still have duties to fulfill, but you
+should head there straightaway.
+[END]
+6: (Hunter woman) [7a 70][13 1, 403141]Are you a Hunter? Eh, doesn't matter.
+[->]You're young and healthy. You oughtta
+do some quests.
+[->]Tokyo is packed with demons as it is,
+so it's always good to have people who
+can fight around.
+[->]But if you're going to get yourself
+killed, please die close to the city.
+That way we can scavenge your stuff...
+[END]
+7: (Hunter woman) [7a 70][13 1, 403141]My friend said he saw you in Shinjuku.
+[->]It's good having a guy like you around
+Tokyo.
+[->]But if you're going to get yourself
+killed, please die close to the city.
+That way we can scavenge your stuff...
+[END]
+8: (Hunter woman) [7a 70][13 1, 403141]My friend said he saw you in Shibuya.
+[->]It's good having a guy like you around
+Tokyo.
+[->]But if you're going to get yourself
+killed, please die close to the city.
+That way we can scavenge your stuff...
+[END]
+9: (Hunter woman) [7a 70][13 1, 403141]My friend said he saw you in the Ginza
+region.
+[->]There's noplace in Tokyo you haven't
+been... or is there?
+[->]Well, if you're going to get yourself
+killed, please die near the Ueno area.
+That way we can scavenge your stuff...
+[END]
+10: (Hunter woman) [7a 70][13 1, 403141]My friend said he saw you in the
+Roppongi region.
+[->]There's noplace in Tokyo you haven't
+been... or is there?
+[->]Well, if you're going to get yourself
+killed, please die near the Ueno area.
+That way we can scavenge your stuff...
+[END]
+11: (Hunter woman) [7a 70][13 1, 403141]I didn't expect Yuriko to make the
+first strike. I guess her silence so far
+was just the calm before the storm...
+[->]It's just a matter of time before the
+fighting spills over into the other
+regions. Soon, Tokyo'll be up in flames.
+[->]Well, if you're going to get yourself
+killed, please die near the Ueno area.
+Makes it easier on us scavengers...
+[END]
+12: (Hunter woman) [7a 70][13 1, 403122]The head of the Association is pushing
+this new ranking tournament on us...
+[->]Tokyo's finished anyway, isn't it?
+What's the point of this?
+[END]

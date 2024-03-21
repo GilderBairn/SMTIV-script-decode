@@ -1,0 +1,43 @@
+0: (Walter) [7a 4][7b 786436, 131073][13 0, 115001]Those demons...!
+[END]
+1: (Jonathan) [7a 3][7b 786435, 65537][13 0, 115002]There's a familiar sight...
+[->][7b 458755, 131073][13 0, 115003]The hour has come to repay in kind
+the humiliation we suffered at
+Kiccigiorgi Forest!
+[END]
+2: (Isabeau) [7a 5][7b 196613, 65537][13 0, 115004]You men won't be dispatched so easily
+this time, I hope...?
+[END]
+3: (Jonathan) [7a 3][7b 655363, 65537][13 0, 115005]We should be fine... I think.
+[END]
+4: (Jonathan) [7a 3][7b 589827, 65537]Error
+[END]
+5: (Walter) [7a 4][7b 589828, 65537][13 0, 115006]Y−Yes...
+[END]
+6: (Isabeau) [7a 5][7b 65541, 131073][13 0, 115007]I wonder...
+[END]
+7: 〉 Fight the demonic horde?
+[END]
+8: Fight them
+Retreat for now
+[END]
+9: (Jonathan) [7a 3][7b 655363, 65537][13 0, 115008]Th−That's unfortunate, but we'll
+abide by your opinion.
+[END]
+10: 〉 A horde of demons is awaiting...
+[END]
+11: (Jonathan) [7a 3][7b 655363, 65537][13 0, 115009]Wh−What should we do? Ah... I presume
+we must fight them?
+[END]
+12: (Jonathan) [7a 3][13 0, 115010]Don't expect us to act the lovestruck
+buffoons over you twice!
+[END]
+13: (Walter) [7a 4][13 0, 115011]If those demon girls are here, then
+could she be far behind...?
+[END]
+14: (Isabeau) [7a 5][13 0, 115012]Yes... the Black Samurai may very
+likely be near...
+[END]
+100: 〉 A horde of demons appeared from the
+back of the corridor.
+[END]

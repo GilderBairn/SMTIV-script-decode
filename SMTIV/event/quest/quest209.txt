@@ -1,0 +1,15 @@
+0: We Casualries have a favor to ask of you.
+Please come to Kiccigiorgi Forest so I can
+discuss the details in person.  This is
+something we cannot do on our own. We
+desperately need a Samurai's assistance in
+this matter.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

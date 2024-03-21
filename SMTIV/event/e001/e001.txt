@@ -1,0 +1,34 @@
+0: (Voice) [7a 20][13 0, 1001]Eli, Eli, Lema Sabachthani...
+[END]
+1: (Voice) [7a 20][13 0, 1002]Many awaken from their slumber within
+the earth's soil.
+[END]
+2: (Voice) [7a 20][13 0, 1003]The lion's roar has drowned out the
+great eagle!
+[END]
+3: (Voice) [7a 20][13 0, 1004]The horn pierces the heavens
+are trampled upon as they descend on
+the earth.
+[END]
+4: (Voice) [7a 20][13 0, 1005]Mene, mene, tekel, upharsin...!
+[END]
+5: (Voice) [7a 20][13 0, 1007]Who are you...?
+State your name!
+[END]
+6: ネームエントリーで[入力/にゅうりょく]した[名前/なまえ]は
+すれちがい[通信/つうしん]で[他/ほか]のプレイヤーに[公開/こうかい]されます
+[->][個人/こじん]を[特定/とくてい]できる[情報/じょうほう]や[他人/たにん]を[不快/ふかい]にする[内容/ないよう]
+[他人/たにん]の[権利/けんり]を[侵害/しんがい]する[内容/ないよう]などを[含/ふく]めないよう
+[十分/じゅうぶん]にご[注意/ちゅうい]ください
+[->]なお これらに[該当/がいとう]するおそれのある[文言/もんごん]は
+[入力で/にゅうりょく]きないことがあります
+ご[了承/りょうしょう]ください
+[END]
+7: (Voice) [13 0, 1008]Hahaha... He has spoken!
+[->][13 0, 1009]Your life is now irrevocably changed.
+[END]
+8: (Voice) [13 0, 1010]The choices you make will no longer
+bear only on you.
+[END]
+9: (Voice) [13 0, 1011]What you do... will create a world...
+[END]

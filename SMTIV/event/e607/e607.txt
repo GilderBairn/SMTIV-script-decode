@@ -1,0 +1,70 @@
+0: (Master) [7a 29][13 0, 607000]I appreciate your accepting this
+quest. This is the Gauntlet in
+question...
+[->][13 0, 607001]I will warn you beforehand, this is
+like to be a fierce battle for you.
+[->][13 0, 607002]If you lack confidence in your
+abilities, there is no shame in
+admitting so. Are you sure?
+[END]
+1: ”I am prepared.”
+”Let me come back later.”
+[END]
+2: (Master) [7a 29][13 0, 607003]Hm... Very well. Let me explain the
+situation regarding this Gauntlet,
+then.
+[->][13 0, 607004]The problem we have with this Gauntlet
+is that there is a powerful demon
+within it.
+[->][13 0, 607005]This demon is preventing us from using
+the Gauntlet as it is meant to be.
+[->][13 0, 607006]The Monastery orders that a Gauntlet
+must be cleansed before a novice
+attempts the Rite using it.
+[->][13 0, 607007]However, the demon inside that one
+Gauntlet is opposed to being removed.
+[->][13 0, 607008]He will only respect the will of one
+stronger than he. Many Samurai have
+challenged him, but none can best him.
+[->][13 0, 607009]Please, defeat the demon inside this
+machine for the sake of your future
+comrades.
+[->][13 0, 607010]Now... Let me get someone to activate
+the Gauntlet.
+[END]
+3: 〉 One of the initiates is selected
+to activate the Gauntlet...
+[END]
+4: (Summoned Demon) [7a 65177][13 0, 607011]Another challenger, I see...
+My name is Ares.
+[->](Ares) [7a 65177][13 0, 607012]Anyone who is unable to overcome a
+warrior such as myself does not
+deserve to live.
+[END]
+5: (Master) [7a 29][13 0, 607013]I see. Well, it is up to you.
+You are welcome to come back whenever
+you feel ready.
+[END]
+6: (Ares) [7a 65177][13 0, 607014]You have proven to me that your power
+is greater than that of my late master.
+[->][13 0, 607015]Very well, you have my approval.
+There is no reason for me to remain
+within this machine.
+[->][13 0, 607016]Farewell, formidable opponent.
+May the next time we meet in battle
+be as allies.
+[END]
+7: 〉 The demon leaves...
+[END]
+8: (Master) [7a 29][13 0, 607017]That was an amazing battle!
+Even that demon was impressed
+by your skill.
+[->][13 0, 607018]Now we can use this Gauntlet again.
+If I have another task that needs
+doing, I hope you will assist us.
+[END]
+9: 〉 The demon that appears seems to be
+some sort of gladiator...
+[->]〉 The summoned demon turns its back
+on the Gauntlet and raises its weapon...
+[END]

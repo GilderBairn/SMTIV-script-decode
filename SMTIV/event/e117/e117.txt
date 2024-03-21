@@ -1,0 +1,115 @@
+0: 〉 News of the Black Samurai's capture
+spread quickly across the country...
+[END]
+1: 〉 King Ahazuya of Mikado recognized the
+achievement of [Flynn] and his
+fellows as well...
+[->]〉 The award ceremony for the Third Order
+of Merit was conducted in high style.
+[->]〉 Afterward...
+[END]
+2: (Hugo) [7a 10][7b 262154, 65537][13 0, 117001]You're all looking splendid.
+[->][13 0, 117002]'Twas very worth the time I set aside
+to make a suggestion to King Ahazuya
+of Mikado regarding this ceremony.
+[END]
+3: (Jonathan) [7a 3][7b 65539, 65537][13 0, 117003]Your thoughtfulness is very much
+appreciated, Abbot Hugo.
+[END]
+4: (Hugo) [7a 10][7b 65546, 65537][13 0, 117005]Now that the Black Samurai has been
+apprehended...
+[->][13 0, 117006]I expect no more instances of the
+people of Mikado succumbing to
+temptation and becoming demons.
+[END]
+5: (Walter) [7a 4][7b 65540, 131073][7b 458755, 131073][13 0, 117008]We have the Black Samurai in hand,
+and yet you still wish us to enter
+Tokyo...?
+[END]
+6: (Hugo) [7a 10][7b 786442, 65537][13 0, 117009]Hmm... 'twould appear some uncouth
+behavior rubbed off on you in Tokyo.
+[END]
+7: (Hugo) [7a 10][7b 262154, 65537][13 0, 117010]It's all due to your guidance, Hope,
+that this ill−mannered boy has been
+awarded the Third Order of Merit...
+[END]
+8: (Hope) [7a 8][7b 786440, 65537][13 0, 117011]...My apologies, sir, for this
+prentice's discourtesy.
+[END]
+9: (Walter) [7a 4][7b 196612, 65537][13 0, 117012]Commander...
+[END]
+10: (Hope) [7a 8][7b 262152, 65537][13 0, 117013]Don't trouble yourself about it,
+Walter. I share your feelings.
+[END]
+11: (Hugo) [7a 10][7b 262154, 65537][13 0, 117014]Pardon, but I'm a busy man, and I must
+cut matters short here.
+[END]
+12: (Hugo) [7a 10][7b 262154, 65537][13 0, 117015]The time for the ceremony is nigh.
+Gabby should be finishing the
+preparations for it now...
+[END]
+13: (Isabeau) [7a 5][7b 65541, 65537][7b 65539, 131073][13 0, 117016]A ceremony, you say?
+[END]
+14: (Hugo) [7a 10][7b 262154, 65537][13 0, 117017]Ah, did you not receive the notice?
+[->][7b 327690, 65537][13 0, 117018]We are to hold a public execution
+of the Black Samurai.
+[END]
+15: (Hugo) [7a 10][7b 262154, 65537][13 0, 117020]'Twill be a grand event, held in
+the Obelisk Plaza.
+[END]
+16: (Hugo) [7a 10][7b 262154, 65537][13 0, 117021]Now then, Hope, I must ask that you
+accompany me on my way.
+[END]
+17: (Hope) [7a 8][7b 458760, 65537][13 0, 117022]...Understood.
+[END]
+18: 〉 Hugo walked away, with Hope following
+closely behind...
+[END]
+19: (Walter) [7a 4][7b 131076, 65537][7b 786435, 65537][13 0, 117023]Hark at his attitude! He preens about
+as if he'd brought her in himself!
+[->][13 0, 117024]Excuse me, but I'm feeling an
+overabundance of yellow bile that
+must be relieved. I'll see you hence.
+[END]
+20: (Walter) [7a 4][7b 65540, 65537]error
+[END]
+21: 〉 Walter stormed off...
+[END]
+22: (Isabeau) [7a 5][7b 524293, 65537][13 0, 117025]I think this may be the time for me
+to draw a long bath and reflect on
+all that's happened over our journey.
+[->][7b 393221, 131073][13 0, 117026]If you'll excuse me...
+[END]
+23: (Isabeau) [7a 5][7b 65541, 65537]error
+[END]
+24: 〉 Isabeau walked away...
+[END]
+25: (Jonathan) [7a 3][7b 65539, 65537][13 0, 117027]I shall be present at the ceremony
+once I finish repairing my blade.
+[->][13 0, 117028]Shall I see you at the Obelisk Plaza,
+then, [Flynn]?
+[END]
+26: (Jonathan) [7a 3][7b 65539, 65537][13 0, 117029]By your leave...
+[END]
+27: 〉 Jonathan walked away...
+[END]
+28: 〉 You have parted ways with Jonathan,
+Walter, and Isabeau.
+[END]
+100: 〉 The people hailed [Flynn] and his
+fellows upon their triumphant return...
+[END]
+103: (Walter) [7a 4][7b 655364, 65537][13 0, 117004]”Worth the time I set aside”?
+What a heroic effort...
+[END]
+104: (Hugo) [7a 10][7b 262154, 65537][13 0, 117007]Which in turn will leave you Samurai
+free to concentrate on the retrieval
+of mystic relics.
+[END]
+114: (Isabeau) [7a 5][7b 655365, 65537][7b 786435, 65537][13 0, 117019]An execution...
+[END]
+900: 黒きサムライを発見した主人公らは
+遺物回収も含めてその功績が認められます
+[->]ミカド国へ戻った主人公たちは
+王の間で勲章を与えられ表彰されます
+[END]

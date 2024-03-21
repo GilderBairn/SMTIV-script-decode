@@ -1,0 +1,64 @@
+0: (Akira) [7a 85][7b 65621, 65537][13 0, 219001]I've been waiting for ya.
+[END]
+1: (Akira) [7a 85][7b 65621, 65537][13 0, 219002]I hear Kenji's somewhere in here.
+[->][13 0, 219003]In my dream, it was this giant room,
+kinda like a dome...
+[END]
+2: (Walter) [7a 4][7b 196612, 65537][7b 786435, 65537][13 0, 219004]...Ah, I understand.
+[END]
+3: (Akira) [7a 85][7b 786517, 65537][13 0, 219005]If Kenji dies, I'll finally be King
+of Tokyo...
+[END]
+4: (Jonathan) [7a 3][7b 458755, 131073][7b 655364, 65537][13 0, 219006]Akira, I'm curious. What do you plan
+on doing once you become king...?
+[END]
+5: (Akira) [7a 85][7b 65621, 65537][13 0, 219007]Promise you won't laugh?
+[END]
+6: (Akira) [7a 85][7b 65621, 65537][13 0, 219008]Rules have never been my thing.
+[->][13 0, 219009]Frankly, I wanna make Tokyo a place
+where we can all be equal.
+[END]
+7: (Walter) [7a 4][7b 655364, 65537][7b 786435, 131073][13 0, 219010]You mean to have the strong and weak
+both be treated alike?
+[->][13 0, 219011]Is that truly equality?
+[END]
+8: (Walter) [7a 4][7b 786436, 131073][13 0, 219012]What do you think, [Flynn]?
+'Tis strange, no...?
+[END]
+9: ”It is strange.”
+”It's not strange at all.”
+[END]
+10: (Akira) [7a 85][7b 196693, 65537][13 0, 219013]I... I see...
+[END]
+11: (Jonathan) [7a 3][7b 65539, 65537][7b 655364, 65537][13 0, 219014]You have my respect for your stance.
+[->][13 0, 219015]Your concern for the well−being of the
+people over your own selfishness is
+the mark of a true king.
+[END]
+12: (Jonathan) [7a 3][7b 262147, 65537][13 0, 219016]I wish you the best, King Akira...
+[END]
+13: (Akira) [7a 85][7b 786517, 65537][13 0, 219017]Y... You think...?
+[END]
+14: (Walter) [7a 4][7b 393220, 65537][7b 65539, 65537][13 0, 219018]I can't say I agree...
+[->][7b 786436, 65537][13 0, 219019]But every man is entitled to his own
+opinion.
+[END]
+15: (Walter) [7a 4][7b 786436, 65537][13 0, 219020]You're staking your own life for the
+benefit of others, yes?
+[->][7b 262148, 65537][13 0, 219021]Then you'll need to be stronger...
+King Akira.
+[END]
+16: (Akira) [7a 85][7b 786517, 65537][13 0, 219022]...Alright, enough small talk.
+[->][13 0, 219024]The rest is up to you.
+[END]
+17: 〉 Akira walked away.
+[END]
+18: (Akira) [7a 85][13 1, 401702]Uh... well, this IS northwest of
+Kasumigaseki, but... this is Camp
+Ichigaya.
+[->]Shinjuku's more to the west. Listen,
+because it's important: you gotta go
+further west.
+[END]
+112: (Akira) [7a 85][7b 786517, 65537][13 0, 401704]Heheh...
+[END]

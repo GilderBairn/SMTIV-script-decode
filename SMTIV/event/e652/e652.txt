@@ -1,0 +1,217 @@
+0: (Director) [7a 47][13 1, 403241]From the looks of you... I'd say
+you must be human. You're a Hunter,
+then?
+[->]...Which means that you're here to
+be on the show, right?
+[END]
+1: ”Yes.”
+”No.”
+[END]
+2: (Director) [7a 47][13 1, 403211]Great. We're ready to begin shooting
+right away. Are you ready?
+[END]
+3: (Director) [7a 47][13 1, 403212]Then scram.
+[END]
+4: ”Yes.”
+”No.”
+[END]
+5: (Director) [7a 47][13 1, 403242]All right! Everybody who's going to
+be involved in this episode, gather
+'round!
+[END]
+6: (Director) [7a 47][13 1, 403242]Well, you'd better get ready, and
+quick. We're going to be starting
+pretty soon.
+[END]
+7: 〉 A number of Hunters crowd around to
+hear the Director speak.
+[END]
+8: (Director) [7a 47][13 1, 403221]Right, let me explain the rules.
+[->]The show's named ”RedxWhite Punchdown
+Smacktacular!” Team Red and Team White
+are going to fight to the death.
+[->]Now, I'm not asking you guys to kill
+each other. We're all humans here.
+[->]The humans are all on Team White, and
+Team Red is all demons. So you should
+be used to this sort of thing, right?
+[->]The only difference is that you're
+gonna be doing it on camera.
+[->]Oh, and no rigging the show with your
+opponent! Show our viewers the reality
+of a Hunter taking down demons!
+[->]...I ought to mention that in the last
+episode, Team White was obliterated
+almost instantly.
+[->]I hope I get a better show out of
+you guys this time around!
+[->]Okay, cameras are rollin'.
+[->]The arena for these battles will be
+the streets here in east Shinjuku.
+[->]We've got the streets locked down
+during filming, so don't even think
+of running. Fight to the bitter end!
+[->]Now get out there and give us some
+awesome fights to get our ratings up.
+We're live in three... two... one...
+[END]
+9: (Hunter) [7a 67][13 1, 403041]Wow, that was something else!
+You took on that horde of demons all
+on your own!
+[->]...Looks like a good portion of us
+Hunters have been killed, though...
+[->]Still, I'm gonna survive and get my
+hands on that prize money!
+[END]
+10: (Hunter) [7a 69].........
+[->].........
+[->][13 1, 403013]...Huh!?
+[->]I don't remember anything after that
+demon started singing.
+[->]This lady came into my dreams...
+She was so beautiful...
+[->]...Uh, wait. Was I in some deep shit
+just now?
+[->]Well, thanks for killing that demon,
+then. You really saved my ass.
+[END]
+11: (Hunter) [7a 69][13 1, 403021]Dammit! We screwed up!
+[->]That demon was so sweet and cute,
+everybody underestimated her.
+[->]Almost all the Hunters who fell for
+her lost their lives.
+[->]You managed to keep your cool, though.
+[END]
+12: ”Yeah.”
+”Actually, I didn't.”
+”I feel sorry.”
+[END]
+13: (Hunter) [7a 69][13 1, 403031]You're a true Hunter, buddy!
+[->]Let's hunt down the rest of these
+demons and get the prize!
+[END]
+14: (Hunter) [7a 69][13 1, 403042]I see your point. Yeah, huh.
+[->]I would've liked to make that demon
+my ally, too.
+[END]
+15: (Hunter) [7a 69][13 1, 403041]You feel sorry... for the demon?
+[->]After all those Hunters she killed,
+you must be something special to be
+able to say that.
+[->]I do think you've got a soft heart,
+but there's something scary about you.
+[END]
+16: (Hunter) [7a 67][13 1, 403042]You're strong, man.
+Beating that demon.
+[->].........
+[->]Y'know, everybody squished by that
+demon all had these looks on their
+faces right before they died...
+[->]It was like... they were incredibly
+happy, or caught in a perfect dream,
+or something...
+[->]Would you be willing to die, if it meant
+being able to feel like that?
+[END]
+17: ”I would love it.”
+”You'd die.”
+”What the hell are you saying?”
+[END]
+18: (Hunter) [7a 67][13 1, 403031]Yeah, I think you and me are gonna
+get along just fine.
+[->]Still, we'd be dead. But maybe I
+wanna be squished...
+[END]
+19: (Hunter) [7a 67][13 1, 403042]Yeah, huh...
+[->]Still, I get the feeling like those
+people figured it was a fair price
+to pay for the experience.
+[->]I could tell.
+[END]
+20: (Hunter) [7a 67][13 1, 403042]Y−Yeah. What was I thinking?
+[->]Sorry, I was just wonderin'.
+Forget I mentioned it.
+[END]
+21: (Hunter) [7a 69][13 1, 403002]Man, I can't believe it. You beat
+most of the demons yourself.
+[->]It's thanks to you that me and a couple
+of the other Hunters have been able to
+survive this long.
+[->]We're almost there! The money is so
+close I can almost taste it!
+[END]
+22: (Hunter) [7a 69][13 1, 403013]What the−−
+...Something's coming!
+[END]
+23: (Announcer) [7a 138][13 1, 406001]Sorry to keep you waiting! It's the
+ultimate climax of RedxWhite Punchdown
+Smacktacular XIII!
+[->]The final demon, the leader of
+Team Red, is a god among gods!
+[->]One of the primordial goddesses,
+Tiamaaaaaaat!
+[END]
+24: (Announcer) [7a 138][13 1, 406003]We have a winner!
+[->]The champion of RedxWhite Punchdown
+Smacktacular XIII is.........
+[->]Team White!
+The Hunters are victorious!
+[END]
+25: (Announcer) [7a 138][13 1, 406001]That was a heated match!
+[->]It was a fight to the death! You'd
+better believe we're gonna be digging
+plenty of highlights from this one!
+[->]Until our next Smacktacular...
+So long, everyone!
+[END]
+26: (Director) [7a 47][13 1, 403231]Good job, good job!
+[->][Flynn], buddy, you were great out
+there! We should go drinking some time,
+on me!
+[->]It's good to see Team White win once
+in a while, you know? It keeps viewer
+numbers up. Great show today!
+[->]Everybody else, you did great, too.
+Let's all get together for a wrap
+party sometime later!
+[->]What? Who said that?
+...I know I just heard somebody say
+”Give us the prize already, asshole!”
+[->][13 1, 403211]Fine, you ungrateful little shits.
+I was in a good mood and everything.
+[->]Here.
+[END]
+27: 〉 The surviving Hunters take their
+share of the rewards...
+[END]
+28: (Hunter) [7a 69][13 1, 403031]It's thanks to you that we survived
+long enough to get this money.
+[->]I appreciate it. See you around.
+[END]
+29: 〉 The other Hunters pay their respects
+to [Flynn] and leave...
+[END]
+30: (Director) [7a 47][13 1, 403212]Action!
+What are you doing!? Go!
+I want to see blood!
+[END]
+31: (Hunter) [7a 67][13 1, 403002]Man, I can't believe it. You beat
+most of the demons yourself.
+[->]It's thanks to you that me and a couple
+of the other Hunters have been able to
+survive this long.
+[->]We're almost there! The money is so
+close I can almost taste it!
+[END]
+32: (Hunter) [7a 67][13 1, 403013]What the−−
+...Something's coming!
+[END]
+33: (Staffer) [7a 59][13 1, 403002]Sir, you can't go this way!
+We've already started recording!
+[->][END]
+34: 〉 You cannot use this passage. Before
+you may leave, you must either complete
+or cancel the current quest.
+[END]
+900: 〉 There is no one here...
+[END]

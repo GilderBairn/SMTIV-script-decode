@@ -1,0 +1,13 @@
+0: 〉 The hooded man suddenly appeared from
+nowhere...
+[END]
+1: (Hooded man) [7a 31][13 0, 26001]You're no different than that other
+man. Both of you are too ignorant to
+know when to back down.
+[->][13 0, 26002]'Tis that ignorance that marks you as
+Casualries born and bred.
+[END]
+2: (Hooded man) [7a 31][13 0, 26003]Very well... I'll reinforce this lesson
+in regret with that most excellent
+teacher, pain.
+[END]

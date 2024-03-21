@@ -1,0 +1,70 @@
+0: [71 1]gJOd,cEG7v￥]g%+PW,66
+;WEt^‘:qkV(UG{‘!G
+[->][END]
+1: [71 1]ePIYU2Nv^Rh?5zi
+RsM4Pd;'j}DGswr
+[->][END]
+2: [71 1]!Q7RKg”6m)wt,”1K
+B96}K'+T_d7b^#$”A 
+[->][END]
+3: [71 1]9DE$^EDd*qpsol5,
+”〉)Fi0o:nT_2S5oBQ/
+[->][END]
+4: [71 1]0L:/8dTy41*−o'M
+v?]gG〉〜J!/}*Ced(
+[->][END]
+5: [71 1][Color:0x5][Skill 1][Color:0x0] WFY6UM1ZlO”0
+[Color:0x5][Skill 2][Color:0x0] 1,?BZa2usj9_+(rP
+[->][END]
+6: [71 1][Color:0x5][Skill 1][Color:0x0] KMrId”&Tt
+Pm/Eh/zePPY〉eR77p{.2
+[->][END]
+7: [71 1]3ce[H7(d_?*WN〜S
+[->][END]
+8: [71 1][UI4:8&2p1a
+[->][END]
+9: [71 1][Color:0x5][Skill 1][Color:0x0] D[k;N_,/mgrL
+6V*)WrlFJU”+!+b(dF
+[->][END]
+10: [71 1]Ms__O*_mP,_4f6B!
+s￥!3pBR4D.{8Ujtg=
+[->][END]
+11: [71 1]Lg!‘q$M_w#?n_^
+[->][END]
+12: [71 1]n'ssmo|AH:
+[->][END]
+13: [71 1]}v_InNJAIQN.”￥HEm0A
+[->][END]
+14: [71 1]G0gtIm!sXjtv,49]jP 
+lSVD]^X;jpwkS%SEk*0a+q−$
+[->][END]
+15: [71 1][Color:0x5][Item 1][Color:0x0] Jq)lpwE,3V=%.￥F
+[hAv￥L2NuqM&0ua$
+[->][END]
+16: [71 1]SWe=|z]KLk/3〜U/‘
+[Color:0x5][Item 1][Color:0x0] mHm+!T
+[->][END]
+17: [71 1]QPr?5 [Color:0x5][Item 1][Color:0x0] H2sD+:4
+.c_hxd)p7Zih&1HeT$
+[->][END]
+18: [71 1]−Zw2ZGwNUlzfX*...
+%6Udx)[+￥...Y〉+B5NKn(fY...
+[->][END]
+19: [71 1]d.kF￥#7DT?pV5/u
+[->][END]
+20: [71 1]WQxm6n0 [Color:0x5][Demon race 1][Color:0x0] SKaP:3Y1!
+9R:F [Color:0x5][Demon name 1][Color:0x0] =JH4UCW_6!
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”...Yes?”
+”Let me think about it...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

@@ -1,0 +1,5 @@
+0: Dummy
+[END]
+1: 〉 It's the room where you were being
+held...
+[END]

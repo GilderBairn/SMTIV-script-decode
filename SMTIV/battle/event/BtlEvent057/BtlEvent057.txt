@@ -1,0 +1,10 @@
+0: (Vetala) [7a 0][13 0, 305700]Akira... Once I deal with these
+neurishers, it's your turn next!
+[END]
+1: (Akira) [7a 85][13 0, 305701]Ack! Y−You guys have to beat him at
+all costs, okay!?
+[END]
+2: (Vetala) [7a 0][13 0, 305702]Akiraaaaaaaa...! Where'd you find
+these guys...!?
+[->][13 0, 305703]Th...This isn't... fair...
+[END]

@@ -1,0 +1,40 @@
+0: (Solemn voice) [13 0, 281001]Well done in accomplishing this feat.
+[END]
+1: (Isabeau) [7a 5]マサカド…
+[END]
+2: (Masakado) [7a 65176][13 0, 281002]By your actions, man has wrested back
+their own world.
+[END]
+3: 〉 Masakado swallowed the Great Spirit of
+Goodwill and the Great Spirit of Spite.
+[END]
+4: (Masakado) [7a 65176][13 0, 281003]But keep this always in mind. Man is
+a creature that repeats its mistakes.
+[END]
+5: (Isabeau) [7a 5][月並/つきな]みな[言葉/ことば]だけど お[疲/つか]れさま
+[本当/ほんとう]に…
+[END]
+6: (Masakado) [7a 65176][13 0, 281004]A day will come again that we must
+fight. This is but a brief farewell
+until then.
+[END]
+7: (Masakado) [7a 65176][13 0, 281005]Now, bring the Great Spirit of Goodwill
+and the Great Spirit of Spite to me...
+[END]
+8: (Masakado) [7a 65176][再/ふたた]び [我/われ]らが[共/とも]に[戦/たたか]う[日/ひ]が[来/く]る
+[->]それまで しばしの[別/わか]れである
+[END]
+9: (Isabeau) [7a 5][7b 655365, 65537][13 0, 281006]He is gone...
+[END]
+10: (Isabeau) [7a 5][7b 655365, 65537][13 0, 281007]Now the Eastern Kingdom of Mikado and
+Tokyo will become one...
+[END]
+11: (Isabeau) [7a 5][7b 458757, 65537][13 0, 281008]Ah! Look...!
+[END]
+100: カットアニメで
+マサカドの魂が天井に戻り立ち上がる
+[END]
+101: 新規イベント
+マサカドが立ち上がるカットアニメの
+状況補足イベントになります
+[END]

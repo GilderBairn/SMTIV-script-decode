@@ -1,0 +1,305 @@
+0: (Depressed woman) [7a 61][13 1, 403312]Hey, you've seen a girl, right? She
+looks teenaged, wears a school
+uniform...
+[->]I remember... When I was sealed inside
+Tokyo, I was her age...
+[END]
+1: (Depressed woman) [7a 61][13 1, 403312]It's just like 25 years ago... demons
+came to Tokyo and slaughtered so many
+people...
+[->]If history is about to repeat itself,
+I wish the ceiling wasn't there so
+we could accept God's wrath...
+[END]
+2: (Depressed woman) [7a 61][13 1, 403312]Someone created that ceiling...
+[->]And then a champion arrived...
+[->]But I'm the same as I was 25 years ago.
+I haven't grown up. I still just cling
+to the hope that someone will save me...
+[END]
+3: (Strong−eyed woman) [7a 61][13 1, 403312]Is it true that angel was defeated!?
+The one who sealed us in Tokyo...!?
+[->]Then if we get rid of the demons,
+can we finally be free...?
+[END]
+4: (Strong−eyed woman) [7a 61][13 1, 403312]These folks traveled a long way to
+find hope in Tokyo, right?
+[->]We've gotta do our best not to
+disappoint them.
+[END]
+5: (Middle−aged woman) [7a 36][13 1, 403331]The girl next to me seems a little too
+excited.
+[->]There's no need to get hysterical.
+Whatever happens, happens, right?
+[END]
+6: (Talkative man) [7a 79][13 1, 403221]The Ashura−kai sure are violent. But hey,
+you won't hear me complaining.
+[->]Everyone knows we're still alive today
+thanks to their stockpiles of stuff.
+[->]Plus, the electricity they generate
+let us live in safety in these
+underground districts...
+[END]
+7: (Talkative man) [7a 79][13 1, 403221]Hey, have you seen that guy from the
+Eastern Kingdom of Mikado?
+[->]He said that the people there worship
+God. If you see him again, can you
+give him a message from me?
+[->]”There are demons in Tokyo. Ask God
+to do something about it.”
+(Talkative man) [7a 79][13 1, 403241]I hear the tournament to crown the
+champion is heating up.
+[->]Everyone's fighting demons... I guess
+I should try and pitch in to make the
+world a better place, too...
+[END]
+9: (Talkative man) [7a 79][13 1, 403202]Did you guys see a man from the Eastern
+Kingdom of Mikado there?
+[->]I hear the people there worship God...
+But I'd rather worship a champion over
+something I can't actually see.
+[->]”Champion”... Just the sound of it
+is inspiring...
+[END]
+10: (Talkative man) [7a 79][13 1, 403232]I saw a lot of unfamiliar faces in the
+underground district today...
+[->]When I talked to them, they said they
+were from the Eastern Kingdom of
+Mikado...
+[->]They were marching to Kabuki−cho with
+this white−haired, dignified man as
+their leader...
+[END]
+12: (Hunter) [7a 118][13 1, 403002]I don't WANT to eat demon meat,
+of course...
+[->]But we've eaten all the wild birds in
+the area already. We've got nothing
+else left...
+[END]
+13: (Hunter) [7a 118][13 1, 403012]Those Jirae were living inside the
+Metropolitan Government Office before
+we were...
+[->]I didn't want to see them kicked out
+if it could be avoided... I wish there
+was a peaceful way to solve it.
+[END]
+14: (Hunter) [7a 118][13 1, 403042]Those Jirae were living inside the
+Metropolitan Government Office before
+we were...
+[->]I'm glad we didn't hurt them, but I
+still feel bad about kicking them out.
+[END]
+15: (Hunter man) [7a 118][13 1, 403002]We used to joke about hunting demons
+to shore up our food supply...
+[->]Now look us. We're the prey...
+[END]
+16: (Hunter man) [7a 118][13 1, 403002]Demon meat is an important source of
+food for us. We have to hunt them if
+we want to survive...
+[->]I'll go back to my regular job. I doubt
+I'll ever be the champion, but I can
+still work...
+[END]
+17: (Hunter man) [7a 118][13 1, 403001]The demons out there are strong, but
+we've got you on our side now. I don't
+see how we can lose!
+[->]Let's hunt down all the demons!
+[END]
+18: (Hunter man) [7a 118][13 1, 403001]There are some demons left outside.
+But we've got you guys! I don't see
+how we can lose.
+[->]Let's hunt down all the demons!
+[END]
+19: (Craftsman) [7a 25][13 1, 403041]These Tokyo folk are wonderful! They
+fight demons without so much as any
+Samurai training!
+[->]Perhaps I should forge weapons for
+these ”Hunters.”
+[END]
+20: (Ashura−kai thug) [7a 47][13 1, 404301]Yo, hey! Move out the way! Don't ya
+know who I am!? I'm from the Ashura−kai!
+[->]Ya step to me, ya step to Mr. Tayama!
+Got that!?
+[END]
+21: (Ashura−kai thug) [7a 47][13 1, 404301]Good work on that cleanup job at the
+Metropolitan Government Office. Not
+bad at all, kid.
+[->]I told Mr. Tayama all about it.
+You oughtta thank me.
+[END]
+22: (Ashura−kai thug) [7a 47][13 1, 404301]I heard what ya did at the Metropolitan
+Governnment Office. It's no big deal,
+since we got 'em outta there...
+[->]I'll be passing word about it on to
+Mr. Tayama. Ya oughtta thank me.
+[END]
+23: (Ashura−kai thug) [7a 47][13 1, 404321]I saw a huge pillar of light shoot up
+through the Ichigaya area...
+[->]Now, I keep myself alive with demons
+runnin' around, y'know? So I don't
+consider myself a coward or nothin'.
+[->]But when I saw that pillar of light...
+For a second, I got so scared that I
+thought I was gonna die...
+[END]
+24: (Ashura−kai thug) [7a 47][13 1, 404321]Those selfish bastards at the
+Association! Well, Fujiwara was
+their padrone, so whaddaya expect...
+[->]They found out about Mr. Tayama.
+Fujiwara set it up...
+[->]Looks like that wraps it up for the
+Ashura−kai's reign.
+[END]
+25: (Ashura−kai thug) [7a 47][13 1, 404321]Man, these days, everyone's all about
+this ”Champion.” No one gives a rip
+anymore that we're with the Ashura−kai.
+[->]Though even if we did use every trick in
+the book to hide it, we've basically been
+swindling them for 25 years...
+[->]That shriveled−up conscience of mine
+has started feelin' guilty after all
+these years...
+[END]
+26: (Ashura−kai thug) [7a 47][13 1, 404321]Who were those guys that came down from
+above the ceiling? Samurai, huh?
+[->]Bad enough we got Hunters doggin' us.
+Plus those stone−headed guys in the
+city...
+[->]I tell ya, the Ashura−kai got no place
+in Tokyo anymore. Guess I oughtta start
+hittin' the bricks for a new job.
+[END]
+100: (Depressed woman) [7a 61][13 1, 403312]I actually live in Atsugi... I was in
+Shinjuku for some shopping that day.
+[->]My friend is gone now... I'm alone...
+[END]
+106: (Talkative man) [7a 79][13 1, 403241]I was chatting with a dude who said he
+was from someplace called the Eastern
+Kingdom of Mikado...
+[->]According to him, this ”Mikado” place
+doesn't even have electricity!
+[->]I don't know where that is in Tokyo,
+but it sure sounds like a rough life
+over there...
+[END]
+114: (Hunter man) [7a 118][13 1, 403042]Not used
+[END]
+122: (Ashura−kai thug) [7a 47][13 1, 404311]I heard what ya did in Ikebukuro.
+Been busy lately, huh?
+[->]Well, ya'd better keep your nose clean
+in Shinjuku. And stay outta Shinjuku
+National Park, ya hear?
+[END]
+200: (Depressed woman) [7a 61][13 1, 403312]Huh? There's a Sanctuary in Shinjuku?
+[->]Well... there's a place called Harajuku
+there. That's kind of a sanctuary for
+teenagers craving radical new fashions.
+[->]Oh? That's not the kind of sanctuary
+you meant?
+[END]
+206: (Talkative man) [7a 79][13 1, 403241]I was chatting with a dude who said he
+was from someplace called the Eastern
+Kingdom of Mikado...
+[->]I was only half listening to him, but
+the place sounds like a fertile land
+with lots of greenery.
+[->]If what he told me is true, I'd love
+to visit this Eastern Kingdom of
+Mikado someday...
+[END]
+222: (Ashura−kai thug) [7a 47][13 1, 404311]Don't underestimate the stuff we know,
+kid. You've been busy, haven't ya?
+[->]Eh, Samurai boy?
+[->]Well, I'm sure we'll hear more from
+you in Shibuya. Just don't piss off
+Mr. Tayama, ya get me?
+[END]
+300: (Depressed woman) [7a 61][13 1, 403312]Once I had a Hunter I met in Shinjuku
+take me to Shibuya.
+[->]It was fun... we had a few laughs,
+a few drinks... For a little while,
+I forgot all about the ceiling...
+[->]But I guess I can't be that naive
+anymore...
+[END]
+306: (Talkative man) [7a 79][13 1, 403241]Hey, I haven't seen that guy from the
+Eastern Kingdom of Mikado...
+[->]He told me that religion is a pretty
+big thing there. I don't believe in
+God, myself...
+[->]But war is about to break out inside
+Tokyo. If there is a God, I wish he'd
+save us all.
+[END]
+322: (Ashura−kai thug) [7a 47][13 1, 404311]Don't underestimate the stuff we know,
+kid. You've been busy, haven't ya?
+[->]Eh, Samurai boy?
+[->]You better kiss up to Mr. Tayama,
+ya hear me? It's the smartest move
+ya can make in this city.
+[END]
+400: (Depressed woman) [7a 61][13 1, 403312]I'm originally from Atsugi. I was
+shopping in Shinjuku when that ceiling
+appeared...
+[->]I had a friend who stayed with me.
+We talked a lot about how much we
+wanted to go to Roppongi...
+[->]But then... that friend of mine ate
+one of the red pills...
+[END]
+422: (Ashura−kai thug) [7a 47][13 1, 404311]What's wrong, Samurai kid? Aren't ya
+in the middle of a job Mr. Tayama
+gave ya?
+[->]Don't ya frickin' tell me you're on
+your break right now.
+[->]Speakin' of which... There's a good
+coffee shop in Kabuki−cho where I
+like to go for a break...
+[END]
+500: (Depressed woman) [7a 61][13 1, 403312]By the way, a little while before the
+ceiling appeared, these strange−looking
+people tried to talk to me.
+[->]They were with some kind of religion.
+They wanted to take me to Tsukiji
+Hongwanji...
+[END]
+522: (Ashura−kai thug) [7a 47][13 1, 404311]Those Ring of Gaea guys who worship
+Yuriko are basically power freaks.
+[->]Former pro fighters, company execs,
+that kind. People who like to show off
+their power.
+[->]But they never think to use their power
+to help other folks. It just don't
+occur to 'em.
+[END]
+600: (Depressed woman) [7a 61][13 1, 403312]You know, not long after the ceiling
+appeared, there were these guys from
+the Ashura−kai...
+[->]They asked me if I had any children...
+I'm not even married!
+[END]
+622: (Ashura−kai thug) [7a 47][13 1, 404311]Yuriko's one daredevil of a babe...
+Ya know Mr. Tayama's got a Samurai
+locked up, yeah?
+[->]She sent a direct message to him through
+that... what are those things called?
+Gauntlets?
+[->]She said, ”I'm coming for your Yamato
+Reactor...” They're plannin' to steal
+our generator!
+[END]
+700: (Depressed woman) [7a 61][13 1, 403312]The Yakuza and those cultists are about
+to go to war, huh?
+[->]Please... get me out of here! I don't
+want to stay in Tokyo anymore! I'm
+begging you, get me out of Tokyo...!
+[END]
+1422: (Ashura−kai thug) [7a 47][13 1, 404311]Rumor has it the guys at Florida have
+gone up above the ceiling.
+[->]I hear they used demons to dig through
+the Sky Tower's ceiling.
+[->]They even brought in a Terminal they
+found somewhere.
+[->]I guess one of them, the guy in charge
+used to be a military dude.
+[END]

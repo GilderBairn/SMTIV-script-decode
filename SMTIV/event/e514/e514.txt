@@ -1,0 +1,203 @@
+0: B7F部屋イベント配置予定
+[END]
+1: B51F部屋イベント配置予定
+[END]
+2: パスワード処理配置予定
+[END]
+3: (Gas masked man) [7a 48][13 1, 404703]...What do you want? There's nothing
+here, you know.
+[->]It'd be different if you wanted to kill
+that thing, but I doubt anyone's stupid
+enough to try...
+[END]
+4: (Gas masked man) [7a 48][13 1, 404741]...Ah.
+[->]You're that ”Samurai”, right? Mr. Tayama
+told us.
+[->]That's weird... According to the report,
+they took back your card keys...
+[END]
+5: (Gas masked man) [7a 48]...Well, that doesn't matter.
+[->]I doubt the answer is ”yes,” but did you
+come to get revenge on that thing too?
+[END]
+6: ”Yes, in fact.”
+”No.”
+[END]
+7: (Gas masked man) [7a 48][13 1, 404733]Ahh, that would be a great help.
+[->]We didn't know what to do. It's been
+complaining lately that it doesn't get
+enough exercise.
+[->]I'll release the four security locks on
+this floor for you.
+[END]
+8: (Gas masked man) [7a 48][13 1, 404711]...Thought not.
+[->]If only someone would deal with that
+thing for us...
+[END]
+9: (Gas masked man) [7a 48][13 1, 404702]...Yo, Samurai. You're back again.
+[->]Come to get revenge on that thing
+after all?
+[END]
+10: (Gas masked man) [7a 48][13 1, 404712]I've been stranded here ever since they
+told me to wait for further instructions.
+[->]And none have ever come... Did the
+factory manager completely forget?
+[END]
+11: (Factory manager) [7a 48][13 1, 404741]Huh? Who're you? Oh, you're here to ask
+about the password.
+[END]
+12: (Factory manager) [7a 48]Actually, I'm in some trouble because
+of that. I lost the paper I jotted the
+password down on.
+[->][Color:0x5]1... something... 03.[Color:0x0] It's no use.
+I just can't remember that second digit.
+[END]
+13: (Factory manager) [7a 48]You know that ”Annunciation” painting by
+that one artist? El Greco?
+[->]The year that painting was released is
+the four−digit password...
+[->]There's no way I'd ever remember that,
+so I wrote it down.
+[END]
+14: (Factory manager) [7a 48]At the very least, I can tell you where
+the panel is to enter the password.
+[->]You know the alarm device by the door
+that won't open? There should be a panel
+to enter the password hidden there.
+[->]Well, good luck to you.
+[END]
+15: 〉 The man is lost in thought...
+[END]
+16: 〉 The man is lost in thought...
+[END]
+17: (Gas masked man) [7a 48][13 1, 404703][Color:0x5]1... something... 03.[Color:0x0] It's no use.
+I just can't remember that second digit!
+[->]It's the year that painting, ”The
+Annunciation,” was released...
+[END]
+18: [END]
+19: 〉 The man is lost in thought...
+[END]
+20: (Gas masked man) [7a 48][13 1, 404731]I remember now, it's ”1603”!
+[->]Huh? You don't need it anymore...?
+[END]
+21: 〉 You hear a voice from somewhere...
+[END]
+22: (Voice) [13 1, 404722]Y−You must be the ones. They told me
+about you...
+[->]D−Don't worry about who I am or why I'm
+not showing myself...
+[->]I keep my distance from people I've
+never met before. I−I only talk to guys
+I'm used to, y−you know?
+[END]
+23: (Voice) Th−That aside, say the password.
+You're after... that thing... right?
+[END]
+24: (Voice) Y−You remember the password...?
+[END]
+25: ”I do.”
+”I don't.”
+[END]
+26: (Voice) [13 1, 404722]Th−Then say it...
+[END]
+27: (Voice) [13 1, 404722]Th−Then go back and ask the guy who's
+”waiting for instructions”...
+[->]D−Don't even think about asking me
+directly, all right? I−I'd stutter
+through it if I tried telling someone...
+[END]
+28: (Voice) [13 1, 404722]...Th−That's the right one.
+[->]Well then, I−I'll remove the l−lock on
+this door...
+[END]
+29: (Voice) N−Now you can go on to where... that
+thing is...
+[END]
+30: (Voice) And don't complain to me anything like,
+”W−What's the point of this password
+ordeal?” all right?
+[->]I−I think it's weird too, but I do it
+because I'm told...
+[END]
+31: (Voice) S−See ya then...
+[END]
+32: (Voice) [13 1, 404722]...Th−That's not it. Y−You didn't say
+the right one.
+[END]
+33: (Voice) I−If you've forgotten it, head back
+and ask the guy who's ”waiting for
+instructions”...
+[->]B−But don't even think about asking me
+directly, all right? I−I'd stutter
+through it if I tried telling someone...
+[END]
+34: 〉 You hear a voice from somewhere...
+[END]
+35: (Voice) [13 1, 404722]Y−You're back... You're after... that
+thing... right?
+[END]
+36: (Voice) S−So, what's the password...?
+[END]
+37: (Gas masked man) [7a 48][13 1, 404703]...Huh? What're you guys doing here?
+You shouldn't leave your post like this.
+[->]Hm? Me? I forgot something.
+Wait... what was it I forgot?
+[END]
+38: (Gas masked man) [7a 48]Crap, I must have breathed it in...
+Well, that's fine. I'll let you handle
+this mess.
+[END]
+39: 〉 The gas masked man is no longer here...
+[END]
+40: (Sleeping man) [7a 71][13 0, 150032]I'm going to study hard... I'm going...
+to study... hard... I'm... going to
+study hard...
+[END]
+41: (Sleeping man) [7a 71]......
+[END]
+42: 〉 The sleeping man isn't saying anything
+anymore...
+[END]
+43: (Gas masked man) [7a 48][13 1, 404702]I've released the security locks on this
+floor.
+[->]As for the password... you'll have to
+look into that yourself.
+[->]The factory manager might know it,
+if you can find him.
+[END]
+44: 〉 No one is here...
+[END]
+45: [END]
+46: 〉 There is something in the center of
+the room.
+[END]
+47: 〉 It seems there is nothing else here
+that's usable.
+[END]
+48: 〉 Obtained Kogarasumaru.
+[END]
+49: 〉 The restraints are quietly swaying...
+[->]〉 No one is here...
+[END]
+50: (Gas masked man) [7a 48][13 1, 404741]When was the painting called ”The
+Annunciation” released?
+[->]You're talking about El Greco's, right?
+[->]I remember it being at the beginning of
+the [Color:0x5]17th century...[Color:0x0] Sorry, I don't know
+the exact year.
+[END]
+51: (Gas masked man) [7a 48][13 1, 404742]Looks like you figured out the password.
+I'll be counting on you to deal with...
+that thing... now.
+[->]Make sure you don't make too much of a
+mess killing it, okay? It's a pain
+cleaning up after that stuff.
+[END]
+138: (Gas masked man) [7a 48]But I can't open up the doors that are
+also password protected.
+[->]Go find the factory manager and ask him
+for the password.
+[->]And good luck dealing with that thing,
+all right?
+[END]

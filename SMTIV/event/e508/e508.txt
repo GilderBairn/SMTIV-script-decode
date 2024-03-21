@@ -1,0 +1,507 @@
+0: 〉 The room reeks of alcohol...
+[END]
+1: (Demon) [7a 64615][13 1, 414005]You're more capable than I thought a
+mere human could be... So that's what
+one who holds the Black Card can do.
+[END]
+2: (Hunter) [7a 118][13 1, 403032]This isn't... business... It's for my
+honor... as a ”Togo”...
+[END]
+3: (Demon) [7a 64615][13 1, 414002]Hohohoh! What an interesting human.
+Then I should care less about my own
+appearance...
+[->]The winner takes the loser's legs.
+I hope you haven't forgotten that part
+of it...
+⇒キーフリー
+[END]
+4: (Isabeau) [7a 5][7b 458757, 65537][13 1, 400305]...Hm? Is that...?
+[->]No, it can't be... but...!
+[END]
+5: [7b 65541, 65537]〉 Isabeau picked up a book from the
+floor and stared intently at it...
+[END]
+6: (Isabeau) [7a 5][7b 458757, 65537]Ahh... That unmistakable artwork on the
+cover! To think that I'd find the manga
+I'd been searching for here...
+[END]
+7: (Isabeau) [7a 5][7b 458757, 65537]Ahh... That unmistakable artwork on the
+cover! This is the manga I'd been
+searching for! It was still here...
+[END]
+8: (Isabeau) [7a 5][7b 655365, 65537][13 1, 400308]But... how could this be!? This one has
+a ”5” written on the spine...
+[->]I've not even read half of the one with
+the ”3” on the spine...
+[END]
+9: (Isabeau) [7a 5][7b 655365, 65537][13 1, 400308]But... how could this be!? This one has
+a ”5” written on the spine...
+[->]I've barely begun reading the latter
+half of the one with the ”4” on the
+spine...!
+[END]
+10: (Isabeau) [7a 5][7b 458757, 65537][13 1, 400307]O−Oh...! What a welcome surprise! This
+one has ”5” written on the spine!
+[->]Why, I had just finished reading the one
+with the ”4” on the spine and had hoped
+to read the next...!
+[END]
+11: (Isabeau) [7a 5][7b 65541, 65537]I would truly love to read this... but
+to fully enjoy the story, it must be
+read in the proper order.
+[END]
+12: (Isabeau) [7a 5][7b 196613, 65537][13 1, 400309]...No, I can't make up my mind.
+[->]I'll pretend that I didn't see this
+manga here...
+[END]
+13: (Isabeau) [7a 5][7b 65541, 65537]I am curious, [Flynn]... If I said
+to you that I would like to read this
+manga here, right now...
+[->]Would you allow me time to do so...?
+[END]
+14: ”Of course.”
+”Don't be absurd.”
+[END]
+15: (Isabeau) [7a 5][7b 589829, 65537][13 1, 433000]T−Truly!? Thank you...
+[END]
+16: (Isabeau) [7a 5][7b 262149, 65537]......
+[END]
+17: 〉 Isabeau began reading the manga...
+[END]
+18: (Isabeau) [7a 5][7b 196613, 65537]......
+[->][13 1, 400303]*sniff*
+[END]
+19: (Isabeau) [7a 5][7b 196613, 65537]Such a loving couple... Was death truly
+the only way for them to be joined?
+[END]
+20: (Isabeau) [7a 5][7b 589829, 65537]...I−I'm sorry. The end of the story
+was just so affecting...
+[->]Once again, thank you, [Flynn].
+It's very good of you to give me the
+time to enjoy this.
+[END]
+21: 〉 Isabeau hugs the manga and places it
+with her belongings.
+[END]
+22: (Isabeau) [7a 5][7b 65541, 65537]...Let us go.
+[END]
+23: (Isabeau) [7a 5][7b 196613, 65537][13 1, 400308]I see... That's understandable.
+[->]Never fear, it was only a hypothetical.
+Let us go...
+[END]
+24: 〉 There is a book on the floor.
+[END]
+25: 〉 The manga is no longer on the floor.
+[END]
+26: (Demon) [7a 65288][13 1, 471000]Obviously, I'm the ”heroine” type!
+[END]
+27: (Demon) [7a 65287][13 1, 417209]What're you talking about? I think
+humans would prefer someone a little
+more unspoiled.
+[END]
+28: (Demon) [7a 65194][13 1, 419305]You kids just don't get it. These days,
+older women are all the rage.
+[END]
+29: (Demon) [7a 65288][13 1, 471002]...Hm? Ooh, perfect timing! Excuse me!
+Mr. Human?
+[->]You have a Black Card, so you know
+what's what, right?
+[->]Who do you think is most cut out to be
+a heroine? And honestly... I think
+there's only two real choices here.
+[END]
+30: ”You, on the left.”
+”You in the center.”
+”The demon on the right.”
+”This warrants further consideration.”
+[END]
+31: (Demon) [7a 65288][13 1, 471003]That's what I thought! It wasn't even
+worth asking, considering I'd obviously
+get the congeniality award.
+[END]
+32: (Demon) [7a 65288][13 1, 471001]You really get it, Mr. Human!
+Here, this is for you!
+[END]
+33: 〉 Obtained [41 6].
+[END]
+34: (Demon) [7a 65287][13 1, 417202]That's right! Of course you'd rather
+have a fresh face than a girl who's been
+handed down who knows how many times!
+[END]
+35: (Demon) [7a 65287][13 1, 417200]This isn't so we can get acquainted or
+anything, but you can have this.
+[END]
+36: 〉 Obtained [41 6].
+[END]
+37: (Demon) [7a 65194][13 1, 419300]See? Human tastes change over time.
+Don't be so sure that youth trumps
+everything.
+[END]
+38: (Demon) [7a 65194][13 1, 419304]As for you, boy... Since you have such
+a discerning eye, I'll give you this.
+[END]
+39: 〉 Obtained [41 6].
+[END]
+40: (Demon) [7a 65288][13 1, 471009]Hmm... Doesn't seem like something you'd
+need to think that hard about, but if so,
+never mind. Sorry to waste your time.
+[END]
+41: 〉 The demons are having a heated
+conversation...
+[END]
+42: 〉 No one is here...
+[END]
+43: (Ring of Gaea man) [7a 53][13 1, 404311]...Who are you? I haven't seen you
+around here...
+[->]But no matter. You're here now, which
+means you're quite confident in your
+own power.
+[END]
+44: (Ring of Gaea man) [7a 53]A safe assumption, yes...?
+[END]
+45: ”I'm confident.”
+”I'm not confident.”
+[END]
+46: (Ring of Gaea man) [7a 53][13 1, 404311]...I hope those aren't just empty words.
+[END]
+47: (Ring of Gaea man) [7a 53][13 1, 404311]Then leave here at once...
+[END]
+48: (Ring of Gaea man) [7a 53][13 1, 404303]From here forward, only those with power
+are allowed.
+[END]
+49: (Ring of Gaea man) [7a 53]And we measure one's personal power by
+how much one is willing to spend.
+[->]If you wish to proceed, the cost will
+be [Color:0x5]5,000 Macca.[Color:0x0]
+[END]
+50: Pay
+Don't pay
+[END]
+51: (Ring of Gaea man) [7a 53][13 1, 404331]Ah... very good.
+[->]I'll let you through. You can do as you
+please on the west side.
+[END]
+52: (Ring of Gaea man) [7a 53][13 1, 404331]So they were merely empty words after
+all...?
+[->]Come back if you find the strength in
+you to do so. And have the [Color:0x5]5,000 Macca[Color:0x0]
+ready...
+[END]
+53: (Ring of Gaea man) [7a 53][13 1, 404312]You won't part with such a meager sum?
+[->]Then leave here at once.
+[END]
+54: (Ring of Gaea man) [7a 53][13 1, 404303]From here forward, only those with power
+are allowed.
+[END]
+55: (Ring of Gaea man) [7a 53]And we measure one's personal power by
+how much one is willing to spend.
+[->]If you wish to proceed, the cost will
+be [Color:0x5]5,000 Macca.[Color:0x0]
+[END]
+56: (Ring of Gaea man) Have you prepared the [Color:0x5]5,000 Macca?[Color:0x0]
+[END]
+57: (Hunter man) [7a 67][13 1, 403002]Oh... Perfect timing.
+[END]
+58: (Hunter man) [7a 67]I got my hands on a [Color:0x5][41 833][Color:0x0]
+over there.
+[->]The bastard who bumped into me and didn't
+even apologize just happened to have one
+with him.
+[END]
+59: (Hunter man) [7a 67]But enough about that... interested in
+buying this [Color:0x5][41 833][Color:0x0] for
+[Color:0x5]5,000 Macca?[Color:0x0]
+[END]
+60: Buy it
+Don't buy it
+[END]
+61: (Hunter man) [7a 67][13 1, 403042]...Nah, I changed my mind.
+[END]
+62: (Hunter man) [7a 67]I'm going to charge extra for having to
+go through the poison zone twice. Let's
+make it [Color:0x5]10,000 Macca[Color:0x0] instead.
+[END]
+63: (Hunter man) [7a 67][13 1, 403012]I'm surprised you came out to Ginza
+without even knowing how much you had
+to spend...
+[->]Sorry to waste your time. Thanks.
+You can leave now...
+[END]
+64: (Hunter man) [7a 67]...I see.
+[->]Well, thanks for considering it.
+Sorry to waste your time. You can
+leave now...
+[END]
+65: ”Very well.”
+”No.”
+[END]
+66: (Hunter man) [7a 67]...You're pretty generous.
+[END]
+67: (Hunter man) [7a 67][13 1, 403012]I'm surprised you came out to Ginza
+without even knowing how much you had
+to spend...
+[->]Sorry to waste your time. Thanks.
+You can leave now...
+[END]
+68: (Hunter man) [7a 67]...I see.
+[->]Well, thanks for considering it.
+Sorry to waste your time. You can
+leave now...
+[END]
+69: (Hunter man) [7a 67]...Just to be clear, I haven't given up
+on the [41 833].
+[->]Once I get some good equipment with the
+10,000 Macca you gave me...
+[END]
+70: (Hunter man) [7a 67][13 1, 403031]All I've gotta do is steal a [41 833]
+from someone else...
+[->]...See ya.
+[END]
+71: (Ring of Gaea woman) [7a 54][13 1, 404411]I'm not interested in a low−ranked boy
+like you. I may not look it, but I'm
+of the Gold Class.
+[END]
+72: (Ring of Gaea woman) Come back when you can at least pay
+the man guarding the west side's
+asking price...
+[END]
+73: (Ring of Gaea woman) [7a 54][13 1, 404402]What? You want to get through here?
+[END]
+74: (Ring of Gaea woman) [7a 54]I only let those with a [Color:0x5][41 833][Color:0x0]
+through.
+[->]Do you have the strength to win a
+[Color:0x5][41 833]?[Color:0x0]
+[END]
+75: (Ring of Gaea woman) [7a 54][13 1, 404431]Oh...? You have a [Color:0x5][41 833].[Color:0x0]
+Most impressive.
+[END]
+76: (Ring of Gaea woman) [7a 54]Are you satisfied with just the west
+and south sides? If you think you can
+do better...
+[END]
+77: (Ring of Gaea woman) [7a 54]I ask that you pay me [Color:0x5]50,000 Macca.[Color:0x0]
+[->]In return, I'll give you the chance to
+get a [Color:0x5]Platinum Card.[Color:0x0]
+[END]
+78: (Ring of Gaea woman) [7a 54][13 1, 404431]Oh, you're back.
+[END]
+79: (Ring of Gaea woman) [7a 54]Since you have enough power to win
+a [Color:0x5]Gold Card...[Color:0x0]
+[END]
+80: (Ring of Gaea woman) [7a 54][13 1, 404431]Ah, you came. It's good to be confident
+in your own strength.
+[->]Now listen closely... I'm telling you
+this because you have the strength to
+possess a [Color:0x5][41 833].[Color:0x0]
+[END]
+81: (Ring of Gaea woman) [7a 54]Wouldn't you like to prove your strength
+even more? Then I have some good news
+for you...
+[->]I ask that you pay me [Color:0x5]50,000 Macca[Color:0x0]
+Think of it as paying for information.
+[END]
+82: Pay
+Don't pay
+[END]
+83: (Ring of Gaea woman) [7a 54][13 1, 404431]I admire your hunger...
+[END]
+84: (Ring of Gaea woman) [7a 54]I'm going to leave a box with a Platinum
+Card in it somewhere in Ginza.
+[->]If you can find it, the Platinum Card
+is yours.
+[END]
+85: (Ring of Gaea woman) [7a 54]You're allowed into the south area now.
+Will you find it, I wonder...?
+[END]
+86: (Ring of Gaea woman) [7a 54][13 1, 404421]Hm. It seems you don't have the ”power”
+to get my information.
+[->]If you want it, you'd better scrape
+together 50,000 Macca.
+[END]
+87: (Ring of Gaea woman) [7a 54][13 1, 404441]You don't want to prove that you have
+the power to get a [Color:0x5]Platinum Card?[Color:0x0]
+[->]I thought you'd be interested, since
+you're a [Color:0x5]Gold Card[Color:0x0] holder... That's a
+terrible shame.
+[END]
+88: (Ring of Gaea woman) [7a 54][13 1, 404401]I'm telling you this because you have
+the strength to possess a [Color:0x5][41 833].[Color:0x0]
+[END]
+89: (Ring of Gaea woman) [7a 54]Wouldn't you like to prove your strength
+even more? Then I have some good news
+for you...
+[->]I ask that you pay me [Color:0x5]50,000 Macca[Color:0x0] Macca.
+Think of it as paying for information.
+[END]
+90: (Ring of Gaea woman) [7a 54]...Oh, you're still here? You wish to
+prove your strength more, no?
+[END]
+91: (Ring of Gaea woman) [7a 54]Supposedly, there is a [Color:0x5][41 834][Color:0x0]
+somewhere in Ginza lacking an owner.
+[->]I already have one. If you can find this
+one, then it'll be yours to keep.
+[END]
+92: (Ring of Gaea man) [7a 53][13 1, 404311]Just facing you like this is unpleasant.
+The annual fee I pay is much different
+from yours.
+[END]
+93: (Ring of Gaea man) [7a 53]Prove your power to the woman guarding
+the south side... If you can do that,
+then I might have time for you.
+[END]
+94: (Ring of Gaea man) [7a 53][13 1, 404301]What is it? You want to get past here?
+[END]
+95: (Ring of Gaea man) [7a 53]You can pass if you have a [Color:0x5][41 834].[Color:0x0]
+[->]The question is... do you have the power
+it takes to be a [Color:0x5][41 834][Color:0x0] holder?
+[END]
+96: (Ring of Gaea man) [7a 53][13 1, 404331]...Ah, you have the [Color:0x5][41 834].[Color:0x0]
+Excuse me.
+[END]
+97: (Ring of Gaea man) [7a 53]All right. I'll let you through. Now
+you can stride proudly through the
+east side.
+[END]
+98: (Ring of Gaea man) [7a 53][13 1, 404331]By the way... are you interested in the
+north side? It's the only area you
+haven't made your way into yet...
+[->]If you're confident in your power, then
+why not take on a certain someone's
+request?
+[END]
+99: (Ring of Gaea man) [7a 53][13 1, 404301]What is it? You want to get past here?
+[END]
+100: (Ring of Gaea man) [7a 53]You can pass if you have a [Color:0x5][41 834].[Color:0x0]
+[->]The question is... do you have the power
+it takes to be a [Color:0x5][41 834][Color:0x0] holder?
+[END]
+101: (Shabby man) [7a 79][13 1, 403202]...Hey there, mister.
+[->]I just couldn't help talkin' to you,
+'cause of that smell of power on you.
+[END]
+102: (Shabby man) [7a 79]I got a good bargain for you...
+[->]I dug everywhere in Ginza to find
+silver, and I melted it all into a
+mold to make a coin.
+[END]
+103: (Shabby man) [7a 79]It don't look so good, but it's an
+original coin made of pure silver.
+I call it the [Color:0x5]Silver Coin.[Color:0x0]
+[END]
+104: (Shabby man) [7a 79]Now here's where your ”power” comes into
+it... How's [Color:0x5]100,000 Macca[Color:0x0] for the coin
+sound to you?
+[END]
+105: Buy it
+Don't buy it
+[END]
+106: (Shabby man) [7a 79]Nice doin' business with you!
+[->]Now I can pay off my tabs at the bars.
+Pretty close call, since they were about
+to take my ears...
+[->]I'm gonna party tonight like there's
+no tomorrow!
+[END]
+107: 〉 The man left...
+[END]
+108: (Shabby man) [7a 79]...Sheesh, way to get me all excited.
+[->]I probably shouldn't tell you this, but
+if you make time for everyone, you'll
+end up a target for con artists.
+[END]
+109: (Shabby man) [7a 79]I see...
+[->]A bigshot like you wouldn't carry around
+that kind of cash to spend on the spot.
+[->]Then again, it's not like anyone would
+wanna buy a [Color:0x5]Silver Coin[Color:0x0] like this...
+Uh, no, I was just talking to myself!
+[->]Come again if you change your mind.
+[END]
+110: (Voice) [13 1, 403202]...Excuse me, mister?
+[END]
+111: (Shabby man) [7a 79]Oh, so it is you. I just smelled so
+much power coming off you.
+[END]
+112: (Shabby man) [7a 79]I kept that [Color:0x5]Silver Coin[Color:0x0] just for you.
+How's [Color:0x5]100,000 Macca[Color:0x0] Macca sound for it?
+[END]
+113: (Ring of Gaea woman) [7a 54][13 1, 404411]...An ordinary man like you has no right
+to even approach me. Do you not know how
+much of an annual fee I pay?
+[END]
+114: (Ring of Gaea woman) [7a 54]Go and prove your power to the guardian
+on the east side. If you can't do that,
+you're no better than an insect.
+[END]
+115: (Ring of Gaea woman) [7a 54][13 1, 404403]What's this...? Are you curious about
+what lies ahead?
+[END]
+116: (Ring of Gaea woman) [7a 54]Past here is the epitome of Ginza.
+A modern−day salon, where only the
+absolute masters of power gather...
+[->]It's insolence itself for one without
+even a [Color:0x5][41 835][Color:0x0] to hope
+to enter.
+[END]
+117: (Ring of Gaea woman) [7a 54][13 1, 404432]Hm? Is this the [Color:0x5][41 835]...!?[Color:0x0]
+To think it would be in the possession
+of one so young...
+[->]First, allow me to praise your strenuous
+effort and tremendous power for mastering
+the challenges thus far.
+[END]
+118: (Ring of Gaea woman) [7a 54]You can now walk as freely as you wish
+through Ginza. We all acknowledge the
+power you've shown.
+[->]Now enter within... The epitome of Ginza
+awaits you.
+[END]
+119: (Ring of Gaea woman) [7a 54][13 1, 404403]What's this...? Are you curious about
+what lies ahead?
+[END]
+120: (Ring of Gaea woman) [7a 54]Past here is the epitome of Ginza.
+A modern−day salon, where only the
+absolute masters of power gather...
+[->]It's insolence itself for one without
+even a [Color:0x5][41 835][Color:0x0] to hope
+to enter.
+[END]
+121: (Shabby man) [7a 79][13 1, 403212]Isn't there anyone I could sell this
+[Color:0x5]Silver Coin[Color:0x0] to...?
+[END]
+122: (Shabby man) [7a 79][13 1, 403211]Hm? Who're you? I don't really smell
+any power off you...
+[->]And I don't deal with weaklings.
+Get lost.
+[END]
+123: 〉 No one is here...
+[END]
+124: 〉 Obtained the Silver Coin.
+[END]
+125: 〉 Obtained the Gold Card.
+[END]
+126: 〉 A giant boulder looms before you...
+[->]〉 You sense something that you cannot
+express in words...
+[END]
+127: (Masakado) [7a 65176][13 1, 402002]The power of we deadly National Defense
+Divinities... In the wrong hands, we
+would be a threat to our own country.
+[->]You made the choice to stay human, and
+so I ask this of you. Fill the chalice
+with the hopes of Tokyo's people.
+[END]
+128: 〉 Obtained [Color:0x5][41 31][Color:0x0] x10.
+[END]
+129: (Ring of Gaea man) [7a 51][13 1, 404303]Past here is the Terminal Room.
+[->]In other regions, it appears that
+Ashura−kai agents guard the Terminals...
+[->]But we care nothing for Tayama's
+machinations here in Ginza. Use it
+as you will.
+[END]
+155: (Ring of Gaea man) [7a 53][13 1, 404311]I won't allow anyone without power to
+go on.
+[END]
+1127: 〉 Masakado returned to his stone form...
+[END]

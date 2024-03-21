@@ -1,0 +1,40 @@
+0: 〉 You see many human−shaped statues...
+[END]
+1: (Walter) [7a 4][13 0, 67001]What is this place? Some sort of
+hall for an Unclean One sculptor...?
+[END]
+2: (Jonathan) [7a 3][7b 655363, 65537][13 0, 67002]Their expressions are quite vivid.
+Look at the terror on this one's face...
+[END]
+3: (Isabeau) [7a 5][7b 655365, 65537][13 0, 67003]I heard something.
+[END]
+4: (Voice) [7a 1][13 0, 67004]Magnificent... You're definitely the
+most magnificent specimens of human
+to come here so far...
+[->][13 0, 67005]That young body overflowing with life...
+[->][13 0, 67006]You're truly the embodiment of the
+art that I seek.
+[END]
+5: (Medusa) [7a 201][13 0, 67007]Humans have climbed up here many
+times, but I think you'll be the
+finest addition to my collection.
+[->][13 0, 67008]Now, let us spend an eternity together
+in beauty...
+[END]
+6: (Isabeau) [7a 5][7b 196613, 65537][13 0, 67009]What a horrible demon she was. She
+took such a diseased thrill from
+turning people to stone...
+[END]
+7: (Jonathan) [7a 3][7b 786435, 65537][13 0, 67010]I'm curious...
+[->][13 0, 67011]If the Black Samurai comes from the
+Unclean Ones' country...
+[->][13 0, 67012]Then how would she have made it
+past the Minotaur and Medusa?
+[END]
+8: (Walter) [7a 4][7b 786436, 131073][13 0, 67013]Either she's a hardy enough combatant
+to tame them... or, seen another way,
+perhaps...
+[END]
+9: (Walter) [7a 4][7b 655364, 65537][13 0, 67014]This mission may prove thornier than
+we thought.
+[END]

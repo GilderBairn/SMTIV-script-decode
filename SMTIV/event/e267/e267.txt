@@ -1,0 +1,56 @@
+0: (Girl's voice) [7b 65541, 196609][13 0, 267001]Wake up...
+[->][13 0, 267002]Please, why won't you wake up...?
+[END]
+1: (Isabeau) [7a 5][7b 655365, 65537][13 0, 267003]Ah, thank goodness. I have been
+searching far and wide for you.
+Where have you been?
+[END]
+2: (Isabeau) [7a 5][7b 65541, 196609][13 0, 267007]Didn't you go together with Jonathan
+to slay Lilith?
+[->][13 0, 267008]Alas, Jonathan and Walter... I don't
+know where either of them have gone...
+[END]
+3: (Isabeau) [7a 5][7b 65541, 196609][13 0, 267009]Didn't you go together with Walter
+to see Lilith?
+[->][13 0, 267010]Alas, Walter and Jonathan... I don't
+know where either of them have gone...
+[END]
+4: (Isabeau) [7a 5][7b 131077, 65537][13 0, 267011]Tokyo is now facing a terrible
+situation.
+[END]
+5: (Isabeau) [7a 5][7b 131077, 65537][13 0, 267012]With the gate to the Expanse open,
+demons are swarming in. Everything is
+in chaos.
+[->][13 0, 267013]What's more, an army of angels has
+established a front at Naraku to
+annihilate the demons along with Tokyo.
+[END]
+6: (Isabeau) [7a 5][7b 655365, 65537][13 0, 267014]Open war is about to erupt between
+the angels and demons...
+[->][13 0, 267015]Who knows what will become of the
+Eastern Kingdom of Mikado and Tokyo
+in that event...
+[END]
+7: (Isabeau) [7a 5][7b 65541, 196609][13 0, 267018]But I'm glad I found you, [Flynn].
+I simply don't know what to do...
+[END]
+8: 〉 You decide to go along with Isabeau.
+[END]
+101: (Isabeau) [7a 5][7b 655365, 65537][13 0, 267004]Hm...? The White? Stephen?
+[->][13 0, 267005]I met no one by those names.
+[END]
+106: (Isabeau) [7a 5][7b 196613, 65537][13 0, 267016]The Monastery is defunct now. I have
+heard that Tayama is dead, and there
+is no knowing where Yuriko has got to.
+[END]
+107: (Isabeau) [7a 5][7b 196613, 65537][13 0, 267019]Won't you permit me to stay with you?
+[END]
+201: (Isabeau) [7a 5][7b 65541, 196609][13 0, 267006]By the by, [Flynn], are you alone?
+[END]
+206: (Isabeau) [7a 5][7b 327685, 65537][13 0, 267017]I don't know who else I can turn to...
+[END]
+900: 承の章でどちらのルートを通ったか
+[END]
+901: LAWルート
+CHAOSルート
+[END]

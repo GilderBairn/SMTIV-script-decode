@@ -1,0 +1,17 @@
+0: (Woman's voice) [13 0, 161001]Halt!
+[END]
+1: (Ring of Gaea woman) [7a 54][13 0, 161002]You flies who hound Lady Yuriko's
+steps will go no further!
+[END]
+2: (Ring of Gaea woman) [7a 54][13 0, 161003]Do you not want the knowledge and
+wisdom your ruler has kept from you?
+[->][13 0, 161004]But I suppose an insect could never
+understand...
+[END]
+3: (Ring of Gaea woman) [7a 54][13 0, 161005]I can do anything for the sake of
+Lady Yuriko... Such as crushing a
+pair of flies.
+[END]
+4: (Jonathan) [7a 3][13 0, 161006]This cowardice is unbecoming of you,
+Lilith! Where are you hiding...!?
+[END]

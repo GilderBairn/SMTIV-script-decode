@@ -1,0 +1,35 @@
+0: (Master Samurai) [7a 116][13 0, 268001]Ah... You've returned. I had given up
+the ghost, thinking you'd quite
+forgotten about me...
+[END]
+1: (Master Samurai) [7a 116][13 0, 268002]There seems to be no sign of Tayama
+and his men returning. I can only
+assume that they fear me!
+[END]
+2: (Master Samurai) [7a 116][13 0, 268003]Captivity has been so dull that I have
+inspected every nook and cranny of
+this room.
+[->][13 0, 268004]I present to you the results of my
+search!
+[END]
+3: 〉 Obtained Ryoja's Scales.
+[->]〉 Obtained Myoko's Disk.
+[->]〉 Obtained Yagokoro's Brain.
+[->]〉 Obtained Tobiume's Shoot.
+[->]〉 Obtained Yaizu's Flint.
+[->]〉 Obtained Hades' Soil.
+[END]
+4: (Master Samurai) [7a 116][13 0, 268005]I know not what they are, but take
+them with my compliments.
+[END]
+5: (Master Samurai) [7a 116][13 0, 268006]I'll... stay here a while longer.
+[END]
+6: (Master Samurai) [7a 116][13 0, 268007]N−No, it's not that my Gauntlet is in
+need of repair... I merely wish to
+continue the hunt for mystic relics.
+[END]
+106: (Master Samurai) [7a 116][13 0, 170006]I will... stay here a while more.
+[END]
+206: (Master Samurai) [7a 116][13 0, 170007]Not to wait out the conflict... but to...
+find more mystic relics!
+[END]

@@ -1,0 +1,137 @@
+0: 〉 The youth are forming a queue...
+[END]
+1: (Samurai in charge) [7a 29][13 0, 7001]Those who have come for the Gauntlet
+Rite, form up here.
+[->][13 0, 7002]You must abide until your turn.
+[END]
+2: (Issachar) [7a 7][13 0, 7003]This is it... We're finally here.
+[END]
+3: (Isshachar) [7a 7][13 0, 7004]...Do you know, I heard a curious
+thing from the elders at our village.
+[->][13 0, 7005]Those who pass the Rite and become
+Samurai must live in Mikado Castle.
+[->][13 0, 7006]As I heard it, they can't even go back
+to their hometown, unless it's for a
+mission.
+[END]
+4: (Issachar) [7a 7][7b 196615, 65537][13 0, 7007]This could be farewell for us,
+[Flynn]...
+[END]
+5: 〉 A young man is walking out of the
+plaza, having completed the Rite.
+[END]
+6: (Samurai in charge) [7a 29][13 0, 7008]Those who fail must leave at once.
+[END]
+7: 〉 The disconsolate young man left
+Aquila Statue Plaza...
+[END]
+8: (Issachar) [7a 7][13 0, 7011]I will become a Samurai... I'm
+definitely going to be a Samurai...
+[->][13 0, 7012]A Samurai and a Luxuror at that...
+[END]
+9: (Samurai in charge) [7a 29][13 0, 7013]Next candidate, step forth.
+[END]
+10: (Issachar) [7a 7][13 0, 7014]That's my cue. Here I go to become
+a Samurai!
+[END]
+12: (Samurai in charge) [7a 29]Dummy
+[END]
+13: Dummy
+[END]
+14: (Issachar) [7a 7][7b 458759, 65537][13 0, 7018]Oh...
+[->][7b 196615, 65537][13 0, 7019]......
+[END]
+15: (Error) This dialogue doesn''t exist.
+[END]
+16: 〉 Issachar walked away wistfully...
+[END]
+17: (Sharp−eyed Samurai) [7b 458760, 65537][13 0, 7020]What's the matter? It's your turn
+next, isn't it?
+[->][13 0, 7021]Go on.
+[END]
+18: (Error) No dialogue
+[END]
+19: (Monk) [7a 42][13 0, 7022]Welcome, young man.
+[->][13 0, 7023]Will the Gauntlet choose you to be
+a Samurai...?
+[END]
+20: (Error) No dialogue
+[END]
+21: (Monk) [7a 42][13 0, 7024]Let us begin the Rite.
+[END]
+22: (Monk) [7a 42][13 0, 7025]Present to me your left arm.
+[END]
+23: 〉 The monk gently affixed a Gauntlet
+to [Flynn]'s arm...
+[END]
+24: (Error) No dialogue
+[END]
+25: (Monk) [7a 42]......
+[->][13 0, 7027]Ugh, what are you doing!? You may
+be an idler, but I'm a busy man!
+[END]
+26: 〉 The monk grabbed [Flynn]'s arm
+and carelessly affixed the Gauntlet...
+[END]
+27: (Monk) [7a 42][13 0, 7038]Congratulations, [Flynn].
+You are now a Samurai.
+[END]
+28: (Monk) [7a 42][13 0, 7039]Sir Hope, please show [Flynn]
+to the residence hall.
+[END]
+29: (Monk) [7a 42][13 0, 7040]...I am sorry? Do you not understand
+that I am here on Abbot Hugo's behalf?
+[END]
+30: (Hope) [7a 8][7b 458760, 65537][13 0, 7041]There is no need to cross. I have
+heard you.
+[END]
+31: (Hope) [7a 8][7b 458760, 65537][13 0, 7042]Follow me.
+[END]
+32: 〉 [Flynn] followed Hope out of
+the plaza...
+[END]
+33: (Monk) [7a 42][13 0, 7028]......
+[->][13 0, 7029]O God Almighty...
+[END]
+34: (Monk) [7a 42][13 0, 7030]If this young man in my sight is
+to receive the gift of becoming
+a Samurai...
+[->][13 0, 7031]Please bestow Your light upon this
+mystic gauntlet.
+[END]
+35: (Monk) [7a 42][13 0, 7032]Now, young man, touch the Gauntlet.
+[END]
+36: (Monk) [7a 42][13 0, 7033]Th−The mystic script has appeared
+on the Gauntlet...
+[->][13 0, 7034]The Gauntlet has accepted this man as
+its owner...!
+[END]
+37: (Attending Samurai) [13 0, 7035]Does this make him the fifth!?
+[END]
+38: (Attending Samurai) [13 0, 7036]Ahh... the birth of a new Samurai.
+[END]
+39: (Issachar) [7a 7][13 0, 7037]Why...!?
+[END]
+106: (Young man) [7a 113][13 0, 7009]The Gauntlet didn't shine for me.
+[->][13 0, 7010]I know this Rite is a dog and pony
+show, but the Kingdom says to do it,
+so I go along.
+[END]
+110: (Issachar) [7a 7][7b 196615, 65537][13 0, 7015]Just know, [Flynn]... you'll
+always be my friend.
+[END]
+111: 〉 Issachar proceeded to the center
+of the plaza.
+[END]
+112: 〉 After some time...
+[END]
+113: (Samurai in charge) [7a 29][13 0, 7016]Next candidate, come forth!
+[->][13 0, 7017]I'm talking to you there. Hurry up
+and head to the square.
+[END]
+114: 〉 [Flynn] walked over to the center
+of the plaza...
+[END]
+122: Extend your arm
+Don't extend your arm
+[END]

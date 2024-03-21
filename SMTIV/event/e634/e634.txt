@@ -1,0 +1,56 @@
+0: (Okuninushi) [7a 65129][13 1, 412105]I am the Kunitsukami Okuninushi.
+This is no place for humans such as
+yourself.
+[->]If you are not here to cause trouble,
+then I shall permit you to leave
+unharmed. Now, leave this place.
+[END]
+1: ”I am here to slay you.”
+Leave
+[END]
+2: (Okuninushi) [7a 65129][13 1, 412102]That is for the best. Do not allow
+yourself to be swayed by wicked
+thoughts.
+[END]
+3: (Okuninushi) [7a 65129][13 1, 412100]Oho... So, you see me as an evil
+being who slays humans, and have
+come to dispose of me.
+[->]I only attack humans to punish them
+for foolish behavior. You may think
+of this as a sort of curse.
+[->]It was by your own selfishness that
+the Field of Autumn Leaves was
+destroyed.
+[->]And now, you reach out with your
+filthy hands to try to take the
+Kanda Shrine...
+[->]All humans here are guilty of the
+same crime.
+[->]I shall bring you divine punishment,
+right here and now.
+[END]
+4: (Client Hunter) [7a 67][13 1, 403001]Hey, [Flynn]. Were you the one
+who got rid of the demon?
+[->]Huh? The demon was pissed about us
+ruining... Akihabara?
+[->]That was the Ashura−kai's fault.
+We had nothing to do with it.
+[->]Well, even if that demon had a reason
+to attack us, that doesn't mean we
+have to take it lying down.
+[->]Anyway, good job. Here's your reward.
+[END]
+100: (Okuninushi) [7a 65129][13 1, 412109]What is the matter?
+[->]I did say that I would let you go
+without incident, as long as you
+mean me no harm.
+[->]Now, go away, at once.
+[END]
+900: 〉 There is no one here...
+[END]
+901: Okuninushi will attack you.
+[END]
+902: The Hunter that commissioned the
+quest will thank you, and the quest
+will be complete.
+[END]

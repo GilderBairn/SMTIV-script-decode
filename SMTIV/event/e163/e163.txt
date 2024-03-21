@@ -1,0 +1,58 @@
+0: (Lilith) [7a 65073][13 0, 163001]...You...
+[->][13 0, 163002]What do you want with me now?
+[END]
+1: (Lilith) [7a 206][13 0, 163003]I heard the story from your friend.
+You really couldn't accept my ideals?
+[END]
+2: (Jonathan) [7a 3][7b 786435, 131073][13 0, 163004]Lilith... the Black Samurai...
+[END]
+3: (Jonathan) [7a 3][7b 458755, 131073][13 0, 163005]All the regrets of those you beguiled
+into abandoning their humanity...
+[->][7b 655363, 131073][13 0, 163006]All the grief you have caused me by
+tearing our friendship asunder...
+[END]
+4: (Lilith) [7a 206][13 0, 163008]I showed you the unworthiness of your
+rulers... but it seems you'd rather
+live as their slave...
+[END]
+5: (Lilith) [7a 206][13 0, 163009]You son of man, they who have debased
+themselves as the tools of an arrogant
+God...
+[END]
+6: (Lilith) [7a 206][13 0, 163010]I shall show you the power of demons,
+the part of you that you deny...
+[END]
+7: (Lilith) [7a 206][13 0, 163011]Perish in my bosom.
+[->][13 0, 163012]I'll free your souls from pain...
+[END]
+9: (Jonathan) [7a 171][13 0, 163016]We've defeated the Black Samurai
+at last...
+[END]
+10: (Jonathan) [7a 171][7b 655531, 65537][13 0, 163017]But... the victory rings hollow.
+Those last words she spoke...
+[->][13 0, 163018]”The gate to the Expanse”... And her
+mention of our ”friend” gives me
+grave misgivings...
+[END]
+11: (Jonathan) [7a 171][7b 393387, 65537][13 0, 163019]Tayama told us once that Yuriko
+coveted the generator...
+[->][7b 524459, 65537][13 0, 163020]The Yamato Perpetual Reactor...
+[->][7b 327851, 65537][13 0, 163021]What was Lilith's scheme?
+[END]
+12: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+100: ※10月ROM対応箇所です
+[->]隠れ家にいるユリコとの戦闘になります
+戦闘に勝利すると次のイベントに進みます
+[END]
+103: (Jonathan) [7a 3][7b 458755, 131073][13 0, 163007]I shall quell it all here! Prepare
+yourself, witch!
+[END]
+109: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[->][13 0, 163014]And two at once, at that.
+[END]
+110: (Burroughs) [7a 2][13 0, 163015]Phew... It was a long, hard battle.
+Seeing it over brings a tear to my
+eye... So to speak.
+[END]

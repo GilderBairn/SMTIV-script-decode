@@ -1,0 +1,422 @@
+0: ダミーメッセージ
+[END]
+1: [71 1]You want me to join your entourage?
+Hahaha... What nonsense is this?
+[->]I think it's you who'll join my
+collection, not I yours...
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]My, what reason is there to run away?
+[->]What you need is to stay here and become
+an eternal part of my collection.
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]NOT USED
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]NOT USED
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]NOT USED
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]NOT USED
+[->][END]
+33: NOT USED
+[END]
+34: [71 1]Oh, do you want to discuss my collection?
+[->]Well then, perhaps if you first plied
+me with a bribe...
+[->][END]
+35: NOT USED
+[END]
+36: [71 1]*chuckle* Very well. I'll make an
+exception and talk with you.
+[->][END]
+37: NOT USED
+[END]
+38: [71 1]You... want to talk with me? Are you
+quite sure?
+[->]Thank you... Thank you...! Even if
+it's pointless chatter, I'd be glad to!
+[->][END]
+39: NOT USED
+[END]
+40: [71 1]It's been a while since I've been able
+to speak to anyone like this... I can't
+stop now!
+[->][END]
+41: NOT USED
+[END]
+42: [71 1]My, what a feeble−looking man... Do you
+want a demoness to soothe you?
+[->]Then what have you got to offer?
+[->][END]
+43: NOT USED
+[END]
+44: [71 1]I'll show you mercy... You may live
+for a little longer.
+[->][END]
+45: NOT USED
+[END]
+46: [71 1]Zzz... Ah... sleep is so soothing...
+[->]I should share this soothing feeling...
+with you...
+[->][END]
+47: NOT USED
+[END]
+48: NOT USED
+[END]
+49: [71 1]My power is nourishing you... What a
+pleasant feeling. Once more!
+[->][END]
+50: NOT USED
+[END]
+51: [71 1]One so beautiful stands before you,
+and all you can think of is money...?
+[->]Your sense of aesthetics is seriously
+lacking...
+[->][END]
+52: NOT USED
+[END]
+53: [71 1]Oh... I don't understand! How could
+money win out over beauty...!?
+[->][END]
+54: NOT USED
+[END]
+55: [71 1]My, my, how greedy you are...
+[->]I'll change your unsightly form into
+stone and make it last forever!
+[->][END]
+56: NOT USED
+[END]
+57: [71 1]No! You can't...!
+[->][END]
+58: NOT USED
+[END]
+59: [71 1]Stop...! Even if it is lucrative...
+[->][END]
+60: NOT USED
+[END]
+61: [71 1]...You want money, right? Money means
+the world to you? Then take all I have!
+[->]How wonderful for you, getting the
+money that you find so attractive!
+[->][END]
+62: NOT USED
+[END]
+63: [71 1]That's it! I'm taking away your
+movement privileges!
+[->][END]
+64: NOT USED
+[END]
+65: [71 1]One so beautiful stands before you,
+and all you can think of is money...?
+[->]Your sense of aesthetics is seriously
+lacking...
+[->][END]
+66: NOT USED
+[END]
+67: [71 1]You desire material goods over women?
+What a strange man you are...
+[->][END]
+68: NOT USED
+[END]
+69: [71 1]I'll give you this. It's quite fitting
+for you.
+[->][END]
+70: NOT USED
+[END]
+71: [71 1]I'm going all out today! It's time I
+cleared out all the clutter!
+[->]What? Am I going to get rid of myself
+too...? That's enough cheek, young man!
+[->][END]
+72: NOT USED
+[END]
+73: [71 1]I'll give you this as well. Very
+generous of me, mmm...?
+[->][END]
+74: NOT USED
+[END]
+75: [71 1]I don't like to drag things out. Let's
+keep this a simple, one−time arrangement.
+[->][Color:0x1][Amount 1] Macca.[Color:0x0]
+Well? Can you pay that?
+[->][END]
+76: NOT USED
+[END]
+77: [71 1]All I ask is your [Color:0x1][Item 1].[Color:0x0]
+[->][END]
+78: NOT USED
+[END]
+79: [71 1][Color:0x1][Amount 1] Macca[Color:0x0] is all I ask.
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]All I ask is a [Color:0x1]little[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+82: NOT USED
+[END]
+83: [71 1]All I ask is [Color:0x1]some[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+84: NOT USED
+[END]
+85: [71 1]All I ask is [Color:0x1]lots[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+86: NOT USED
+[END]
+87: [71 1]All I ask is a [Color:0x1]sizable amount[Color:0x0] of your
+[Color:0x1]stamina...[Color:0x0] That's not so unreasonable,
+is it? 
+[->][END]
+88: NOT USED
+[END]
+89: [71 1]All I ask is a [Color:0x1]little[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+90: NOT USED
+[END]
+91: [71 1]All I ask is [Color:0x1]some[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+92: NOT USED
+[END]
+93: [71 1]All I ask is [Color:0x1]lots[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+94: NOT USED
+[END]
+95: [71 1]All I ask is a [Color:0x1]sizable amount[Color:0x0] of your
+[Color:0x1]spirit...[Color:0x0] That's not so unreasonable,
+is it? 
+[->][END]
+96: NOT USED
+[END]
+97: [71 1]All is ask is [Color:0x1][Demon name 2]'s life.[Color:0x0]
+[->][END]
+98: NOT USED
+[END]
+99: [71 1]I want [Color:0x1]that...[Color:0x0] You there!
+You must know what I'm talking about!
+[->][END]
+100: NOT USED
+[END]
+101: [71 1]You know exactly what I want, even
+without me telling you, mmm?
+[->][END]
+102: NOT USED
+[END]
+103: [71 1]You know me well... Thank you.
+I'll keep this.
+[->][END]
+104: NOT USED
+[END]
+105: [71 1]You don't understand at all. What a
+failure of a man.
+[->][END]
+106: NOT USED
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]That should be about enough. Too much
+greed is unsightly.
+[->][END]
+121: NOT USED
+[END]
+122: [71 1]Ah... I just love this! Being showered
+with gifts is all I ask!
+[->][END]
+123: NOT USED
+[END]
+124: [71 1]...Can't you listen to what I'm saying?
+[->][END]
+125: NOT USED
+[END]
+126: [71 1]...You do have one, don't you?
+[->]I hate stingy men. Allow me to rid the
+world of one...
+[->][END]
+127: NOT USED
+[END]
+128: [71 1]...Fine. I won't ask again.
+[->][END]
+129: NOT USED
+[END]
+130: [71 1]You tried to cheat me...
+[->]I hate dishonest men. Allow me to rid
+the world of one.
+[->][END]
+131: NOT USED
+[END]
+132: [71 1]You're bad at being prepared, aren't you?
+[->][END]
+133: NOT USED
+[END]
+134: [71 1]We'll never get anywhere if you don't
+have any Life Stones, you know.
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]Ah, pardon me! I didn't even notice
+I'd been going on so long.
+[->][END]
+137: NOT USED
+[END]
+138: [71 1]So you don't want to give me any more...
+[->]I hate stingy men. Allow me to rid
+the world of one.
+[->][END]
+139: NOT USED
+[END]
+140: [71 1]Oh, to be rejected time and again...!
+[->]Ahhh... It give me such a frisson.
+Reject me some more...!
+[->][END]
+141: NOT USED
+[END]
+142: [71 1]How boring. Why are you so eager to
+meet all of my demands?
+[->]You're like a dog wagging its tail.
+I have no desire to speak to a dog.
+[->][END]
+143: NOT USED
+[END]
+144: [71 1]Ahahahahaha...! You have nothing at
+all, do you?
+[->]To see a man so awkward and poor makes
+my heart dance...!
+[->][END]
+145: NOT USED
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: [71 1]...I'm getting bored talking about the
+same thing. Can't you spice it up?
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]You finally came to get me. No work of
+art could be better than you in the
+flesh...
+[->]Now let us climb to dizzying heights
+of beauty together!
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USED
+[END]
+171: [71 1]NOT USED
+[->][END]
+172: [71 1]NOT USED
+[->][END]
+173: [71 1]NOT USED
+[->][END]
+174: [71 1]NOT USED
+[->][END]

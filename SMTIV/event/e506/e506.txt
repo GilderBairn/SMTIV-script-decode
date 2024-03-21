@@ -1,0 +1,212 @@
+0: (Demon) [7a 64970][13 1, 417001]...Ah!
+[->][13 1, 417007]Aww, for a second, I thought you were
+that human, but you're not him.
+[->]I'm not interested in your lame pickup
+attempts, okay? See ya.
+[END]
+1: (Demon) [7a 64970][13 1, 417001]...Ah!
+[->][13 1, 417007]Aww, for a second, I thought you were
+that human, but you're not... Huh?
+No way...
+[END]
+2: (Demon) [7a 64970][13 1, 417006](Demon) [7a 64970]I feel that human's magnetite on you,
+mister.
+[->]His face looked pretty banged up. But I
+think he's alive in that place called
+”Shinjuku.”
+[END]
+3: (Demon) [7a 64970][13 1, 417003]When that human was fighting the angels,
+I got scared and ran away.
+[->]After that, I had a sick feeling in my
+stomach. That's why I kept coming here.
+[->]But that feeling's all gone now that I
+met you!
+[END]
+4: (Demon) [7a 64970]Here, I want to give you this. It's to
+thank you for making me not scared.
+[END]
+5: 〉 Obtained [41 3].
+[END]
+6: (Demon) [7a 64970]See ya!
+[END]
+7: (Earnest man) [7a 119][13 1, 403023]I wonder if everyone at Florida is doing
+well...
+[END]
+8: 〉 The earnest man won't even look
+at you...
+[END]
+9: (Earnest man) [7a 119][13 1, 403023]I wonder if everyone at Florida is doing
+well...
+[->]...Hm?
+[END]
+10: (Earnest man) [7a 119]Is that... you there, sir? Your Magnetite
+is kind of familiar...
+[->]And you were the one they entrusted the
+key to this place with...
+[->]Why are you so quiet? That is you, isn't
+it, sir? It's been a while... at least
+let me hear your voice.
+[END]
+11: (Burroughs) [7a 2][13 1, 400003]Hey, Master [Flynn]? Judging by
+this man's appearance...
+[->]I've got a few candidates who could be
+the ”sir” this man's talking about.
+[->]Do you want to try playing one of their
+voice clips?
+[END]
+12: Play Hugo's voice
+Play Fujiwara's voice
+Play Skins' voice
+Don't play anything
+[END]
+13: (Burroughs) [7a 2]Okay, Master [Flynn].
+I'll play Abbot Hugo's voice.
+[END]
+14: (Earnest man) [7a 119]......
+[END]
+15: (Burroughs) [7a 2]Okay, Master [Flynn].
+I'll play Master Fujiwara's voice.
+[END]
+16: (Earnest man) [7a 119]...You haven't changed at all.
+[END]
+17: (Burroughs) [7a 2]Okay, Master [Flynn].
+I'll play Master Skins' voice.
+[END]
+18: (Earnest man) [7a 119]That voice sounds familiar, but it's
+not his...
+[END]
+19: (Earnest man) [7a 119]......
+[END]
+20: (Earnest man) [7a 119]There's no doubt that the former Ministry
+of Defense official wormed his way into
+the Ashura−kai's favor.
+[->]Otherwise, there's no way someone like
+Tayama would've been able to find this
+place.
+[->][13 1, 403021]You could have used the supplies here
+for the sake of everyone...!
+[->]Ah... now that I've said what I wanted
+to for so long, it's such a weight off
+my chest...
+[->]I'm sorry... Please... let me sleep
+for a...
+[END]
+21: (Earnest man) [7a 119]Hm...?
+[->]That is you there, isn't it, sir?
+Why are you so quiet...?
+[->]It's been a while... please at least
+let me hear your voice.
+[END]
+22: (Burroughs) [7a 2][13 1, 400003]I've got a few candidates who could be
+the ”sir” this man's talking about.
+[->]Do you want to try playing one of their
+voice clips?
+[END]
+23: 〉 The earnest man is no longer here...
+[END]
+24: (Demon) [7a 65095][13 1, 411201]The last human who was saying they were
+going to protect this place suddenly
+collapsed the other day.
+[->]It seemed like just breathing was painful
+for him, so I put him out of his misery.
+[->]I mean, we were ”comrades” after all.
+[END]
+25: 〉 The demon's mouth is soaked red...
+[END]
+26: (Voice) [7a 101][13 1, 404541]Hm? Is someone there...?
+[->]That's odd. How'd you get past the lock?
+Well, no matter...
+[->]If you're here, then you must have come
+from Shinjuku, right?
+[END]
+27: (Voice) [7a 101]Perfect timing. I want to share my
+information with you. May I debrief you
+on what happened...?
+[END]
+28: ”Go ahead.”
+”No.”
+[END]
+29: (Voice) [7a 101][13 1, 404521]The Ashura−kai bastards finally found
+out about Kasumigaseki.
+[->]If they find this warehouse and come in
+force, there's no way our side can
+protect the place.
+[->]And I doubt there's time to request
+backup, either...
+[END]
+30: (Voice) [7a 101]That's why we decided to lock this place
+from the inside and stay here.
+[->]If I could, I'd love to have that cafe's
+coffee with everyone again, but...
+[END]
+31: (Voice) [7a 101][13 1, 404541]I see...
+[->]Careful on your way back. The Ashura−kai
+may be outside.
+[END]
+32: 〉 Things are scattered everywhere.
+[END]
+33: 〉 There is something on the ground.
+[END]
+34: 〉 Obtained [41 5].
+[END]
+35: 〉 Obtained [41 13].
+[END]
+36: 〉 Obtained [41 46].
+[END]
+37: 〉 Obtained [41 35].
+[END]
+38: 〉 Obtained ●●.
+[END]
+39: 〉 Obtained ●●.
+[END]
+40: 〉 There seems to be nothing more of use.
+[END]
+41: 〉 Things are scattered everywhere.
+[->]〉 There is something on the ground.
+[END]
+42: 〉 Obtained [41 149].
+[END]
+43: 〉 Obtained [41 214].
+[END]
+44: (Burroughs) [7a 2][13 0, 503001]I detect a very dangerous demon nearby.
+You should consider getting out of here.
+[END]
+45: 〉 Remain here?
+[END]
+46: 〉 Will you really remain here?
+[END]
+47: Yes
+No
+[END]
+48: 〉 No one is here...
+[END]
+49: 〉 Obtained [Color:0x5][41 31][Color:0x0] x10.
+[END]
+50: 〉 Obtained [Color:0x5][41 32][Color:0x0] x10.
+[END]
+51: 〉 Obtained [Color:0x5][41 33][Color:0x0] x10.
+[END]
+52: 〉 Obtained [Color:0x5][41 34][Color:0x0] x10.
+[END]
+53: 〉 Obtained [Color:0x5][41 35][Color:0x0] x10.
+[END]
+54: 〉 The room is filled with silence...
+[->]〉 You have no more business here...
+[END]
+55: 〉 The elevator is locked down.
+[END]
+56: (Burroughs) [7a 2][13 1, 400003]I checked the lock's specs against
+your possessions and found a way
+to unlock it.
+[->]What will you do, Master [Flynn]?
+[END]
+57: Use ID Card Lv2
+Leave
+[END]
+58: Use ID Card Lv3
+Leave
+[END]
+106: 〉 Undine is no longer here...
+[END]
+206: 〉 No one is here...
+[END]

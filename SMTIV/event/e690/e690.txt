@@ -1,0 +1,129 @@
+0: (Red Knight) [7a 135][13 0, 690000]I thought you might turn up,
+[Flynn].
+[->][13 0, 690001]I have heard rumors about you. You were
+the famous Demon Hunter... or, rather,
+Samurai.
+[->][13 0, 690002]Who could have known that you would
+be a Samurai?
+[->][13 0, 690003]Although you may not be aware of it,
+you have drawn your sword on your
+king...
+[END]
+1: 〉 The Red Knight lifts the visor of
+his helmet...
+[->]〉 The knight's face seems familiar
+to you...
+[END]
+2: (Red Knight) [7a 135][13 0, 690004]Gaze upon this face, for I am none
+other than King Ahazuya of Mikado.
+[->][13 0, 690005]I have been driven from my former
+station, hunted by angels, and forced
+to hide among the Unclean Ones.
+[->][13 0, 690006]It is an embarrassment. To have my
+revenge, I have abandoned my status to
+attain the power to defeat the angels.
+[->][13 0, 690007][Flynn]... if you truly are a
+Samurai, then you will lend me your
+strength.
+[->][13 0, 690008]This is an order from your king.
+[END]
+3: Agree to cooperate with him
+Refuse
+[END]
+4: (Red Knight) [7a 135][13 0, 690009]You are a true Samurai of your liege.
+[->][13 0, 690010]And now... I order you to become a
+sacrifice to the Overlord Baal!
+[END]
+5: (Red Knight) [7a 135][13 0, 690011]...So much for faithfulness to one's
+rightful king.
+[->][13 0, 690012]Very well then, I shall prepare the
+sacrifice to the Overlord Baal myself,
+with your head!
+[END]
+6: 〉 The Red Knight's armor falls apart
+and clatters to the floor...
+[->]〉 The armor is completely empty,
+except for the helmet.
+[->]〉 The head of King Ahazuya of Mikado
+speaks, with a demon's voice...
+[END]
+7: (Decapitated Head) [7a 65369][13 0, 690013]Your sword now runs with the blood of
+your once and former king. This is the
+second time he has been killed...
+[->][13 0, 690014]This man did not pray to God in his
+final moments. No... He prayed to me,
+Baal, for help instead.
+[->][13 0, 690015](Voice of Baal) [7a 65369]Betrayed by the God that he once
+worshipped, he sought something new
+to cling to.
+[->][13 0, 690016]Even I felt sympathy for this king,
+who had nothing left to believe in but
+a mere idol that he found in books.
+[->][13 0, 690017]And, feeling his desire for revenge,
+I answered his call to defeat God. I
+possessed his corpse to use as a body.
+[->][13 0, 690018]But, even in death, he could not be
+free... So I shall take action, all
+for this pitiful and lonely ruler.
+[END]
+8: 〉 Something changes in the air around
+you...
+[END]
+9: (Voice of Baal) [7a 65369][13 0, 690019]Now then, [Flynn].
+[->][13 0, 690020]Your existence is an extreme danger,
+and one that cannot be allowed to
+continue.
+[->][13 0, 690021]I am reluctant to do so, but in order
+to defeat you, I must take on my true
+form...
+[->][13 0, 690022]You shall feel the might of an
+unmatched power that is worshipped
+through fear...
+[END]
+10: 〉 The demon transforms into a great
+swarm of flies, which scatter in
+every direction...
+[END]
+11: 〉 The head of King Ahazuya rests at
+your feet...
+[END]
+12: Give it a proper burial
+Leave it
+[END]
+13: 〉 As you reach down to pick up the
+king's head...
+[->]〉 You see the king's sword glowing
+in the pile of fallen armor.
+[END]
+14: 〉 You pick up the king's sword from
+the ground as you leave...
+[->]〉 You have obtained the Sword of
+Aquila.
+[END]
+15: (Demon) [7a 65112][13 1, 412100]What's this? A human? My master is
+not here at the moment.
+[->]You're quite lucky, you know. You humans
+won't survive for very long, once my
+master is resurrected.
+[->]That's simply how it is.
+Now run along, please.
+[END]
+16: 〉 The demon flaps its wing dismissively
+and darkness suddenly falls upon you...
+[END]
+17: 〉 When you take the sword, the glow
+begins to fade...
+[->]〉 You have obtained the Sword of
+Aquila.
+[END]
+18: 〉 You see a knight in red armor
+standing here...
+[END]
+20: (Burroughs) [7a 2][13 0, 76036]I'm detecting a strong demon ahead.
+Do you want to go on?
+[END]
+21: Yes
+No
+[END]
+900: 〉 There is no one here...
+[END]

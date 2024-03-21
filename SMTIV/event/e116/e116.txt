@@ -1,0 +1,106 @@
+0: (Isabeau) [7a 5][7b 655365, 65537][7b 196612, 65537][13 0, 116001]No matter where we go, we are still
+within the Domain...
+[->][7b 524293, 131073][13 0, 116002]I had high hopes of this place. I heard
+there would be books to be found here...
+[END]
+1: (Walter) [7a 4][7b 655364, 65537][13 0, 116003]Eh? What were these ”high hopes” in
+expectation of...?
+[END]
+2: (Isabeau) [7a 5][7b 720901, 65537][13 0, 116004]Oh... Ahh, you see... I had thought...
+I might be able to finish...
+[END]
+3: (Walter) [7a 4][7b 655364, 65537][13 0, 116005]I haven't the faintest what you're
+on about...
+[END]
+4: (Walter) [7a 4][7b 458756, 65537][7b 458757, 65537][13 0, 116006]...Hell's bells!
+[END]
+5: (Jonathan) [7a 3][7b 131075, 65537][7b 196612, 65537][13 0, 116007]We meet again at last, Black Samurai!
+[END]
+6: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 116008]As I knew we would.
+[->][13 0, 116009]Welcome to Tokyo... Samurai of the
+Eastern Kingdom of Mikado.
+[END]
+7: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 116010]You, girl... It's a shame you won't
+ever find out how your manga ends.
+[END]
+8: (Isabeau) [7a 5][7b 589829, 65537][13 0, 116011]...Wh−What?
+[END]
+9: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 116035]After your last volume...
+Oscar finally reunites one evening
+with her childhood friend and...
+[END]
+10: (Isabeau) [7a 5][7b 524292, 65537][7b 458757, 65537][13 0, 116012]Tralaalaa! I'm afraid I can't hear you!
+[END]
+11: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 116013]Hahaha...
+[END]
+12: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 116014]So, how are you liking Tokyo? Are you
+used to things here yet?
+[->][13 0, 116015]Since, after all, Tokyo mirrors the
+Eastern Kingdom of Mikado.
+[END]
+13: (Jonathan) [7a 3][7b 131075, 65537][13 0, 116016]What an insult...! How dare you utter
+such nonsense!
+[END]
+14: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 116017]You're slow to understand as ever.
+[->][13 0, 116018]What about you there?
+[END]
+15: 〉 The Black Samurai approached
+[Flynn] and his fellow Samurai.
+[END]
+16: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 116019]If you were told that you must live
+here in Tokyo, do you think that you
+could...?
+[END]
+17: ”I could manage it.”
+”I could never.”
+”I don't know.”
+[END]
+18: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 116020]So, that's where you stand now...
+[END]
+19: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 116021]So, that's where you stand now...
+[END]
+20: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 116022]So you can't even form an opinion
+when asked a question... Pitiful.
+[END]
+21: (Isabeau) [7a 5][7b 131077, 65537][7b 786436, 131073][13 0, 116023]I think this is enough idle chatter.
+[->][13 0, 116024]You will surrender to us calmly and
+quietly this time!
+[END]
+22: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 116025]Very well... do as you will.
+[END]
+23: 〉 The Black Samurai tossed aside her
+weapon.
+[END]
+24: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 116026]You have much to learn about the world.
+[->][13 0, 116027]I'll teach you plenty...
+[END]
+25: 〉 What will you do?
+[END]
+26: Arrest her
+Refuse
+[END]
+27: 〉 [Flynn] tied the Black Samurai's
+hands behind her back.
+[END]
+28: (Black Samurai) [7a 12][7b 65548, 65537][13 0, 116028]You're surprisingly cowardly.
+[END]
+29: (Jonathan) [7a 3][7b 786435, 65537][13 0, 116029]...Then I shall do it.
+[END]
+30: 〉 Jonathan tied the Black Samurai's hands
+behind her back.
+[END]
+31: (Burroughs) [7a 2][13 0, 116030]It took a while, but you finally
+did it.
+[->][13 1, 400051]Congratulations on completing the quest.
+[END]
+32: (Walter) [7a 4][13 0, 116032][7b 393220, 65537][7b 65541, 196609]......
+[->][13 0, 116033][7b 655364, 65537]Have we truly captured the infamous
+Black Samurai?
+[END]
+33: (Isabeau) [7a 5][7b 524293, 131073][13 0, 116034]Now that she is actually in our
+custody, it seems to be over far
+too soon...
+[END]
+34: 〉 [Flynn] and his fellow Samurai
+took the Black Samurai to Mikado Castle.
+[END]

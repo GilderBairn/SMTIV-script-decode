@@ -1,0 +1,148 @@
+0: 〉 There is a group of people here,
+preparing for a ritual...
+[->]〉 Will you stop them?
+[END]
+1: Yes
+No
+[END]
+2: (Man) [7a 121][13 0, 653000]Huh?
+Who're you?
+[END]
+3: (Hunter) [7a 67][13 0, 653001]From the way you're dressed...
+You're a Hunter, aren't you?
+[->][13 0, 653002]I bet someone asked you to stop us.
+So what now, Boss?
+[END]
+4: (Arrogant old man) [7a 63][13 0, 653003]Augh! Don't let him interfere.
+We've got to summon the Demon Lord,
+no matter what!
+[->][13 0, 653004]Hey, Gaea lady!
+Where the hell did you go!?
+[->][13 0, 653005]You're here because you agree with
+my goals, right? Well, then do
+something about him!
+[END]
+5: (Ring of Gaea member) [7a 54][13 0, 653006]Don't be ridiculous. I only
+care about the summoning of the
+Demon Lord.
+[->][13 0, 653007]I don't have the slightest interest
+in helping a power−hungry would−be
+despot such as yourself.
+[END]
+6: (Arrogant old man) [7a 63][13 0, 653011]What the hell's happening!?
+Your demons were annihilated!
+[->][13 0, 653012]And the ceremony isn't over yet!
+[->][13 0, 653013]I'm not going to let a brat like him
+ruin my plans for greatness!
+[->][13 0, 653014]I used to be a cabinet minister!
+I deserve better than this!
+[END]
+7: (Ring of Gaea member) [7a 54][13 0, 653015]Quit your whining.
+[->][13 0, 653016]True, this man is no average Hunter.
+[->][13 0, 653017]Still, there's no cause for alarm.
+The ceremony has been completed.
+[->][13 0, 653018]The Overlord you seek will appear
+very shortly.
+[END]
+8: (Arrogant old man) [7a 63][13 0, 653019]Finally, the day has come!
+[->][13 0, 653020]I will return to my place at
+the top...
+[->][13 0, 653021]...with the power of the Overlord
+Astaroth!
+[END]
+9: (Ring of Gaea member) [7a 54][13 0, 653022]I will face you.
+[->][13 0, 653023]They may have lost some of their
+power, but the gods of Babylon are
+the origins of demons...
+[->][13 0, 653024]I suggest that you think of me as a
+serious threat, not merely a stall
+for time.
+[END]
+10: 〉 Astaroth disappears...
+[END]
+11: (Arrogant old man) [7a 63][13 0, 653025]Wha−−!?
+Where did it go?
+[->][13 0, 653026]That bitch!
+Where did she take Astaroth!?
+[->][13 0, 653027]I was the one who summoned
+Lord Astaroth!
+[->][13 0, 653028]I'm the only one with the right to
+make a contract with him, you lowlife!
+[END]
+12: (Burroughs) [7a 2][13 1, 502044]I've locked onto the demon's signal.
+I'll display its location on the
+navigation map.
+[->]If you want to defeat this demon,
+I suggest you remain on the defensive
+while pursuing it.
+[END]
+13: 〉 The old man wanders off...
+[END]
+14: (Burroughs) [7a 2]Follow the marker and head to the
+[Color:0x5]east[Color:0x0] to the area near the [Color:0x5]stations'
+west gate.[Color:0x0]
+[END]
+15: (Arrogant old man) [7a 63][13 0, 653029]How... How could this happen...?
+My hopes and dreams, dashed before
+my very eyes...
+[->][13 0, 653030]There's no way I can regain my
+position now...
+[->][13 0, 653031]I'm too old to start over from
+scratch...
+[END]
+16: 〉 The old man slinks away sullenly...
+[END]
+17: (Hunter) [7a 67][13 0, 653032]What the hell, man? I thought if I
+stuck with that politician, I'd get
+something out of it.
+[END]
+18: (Man) [7a 121][13 0, 653033]Well, that was a complete waste of
+my time. Not to mention all the risks
+I took for that idiot...
+[->][13 0, 653034]Aw, dammit! I got suckered again
+into doing something for some ass
+who's all talk.
+[END]
+19: 〉 The various members of the group
+participating in the ritual scatter
+and flee the area...
+[END]
+20: (Ring of Gaea member) [7a 54][13 0, 653035]I honestly didn't expect Overlord
+Astaroth to be defeated that quickly.
+[->][13 0, 653036]I had my own mission, as you may
+have guessed.
+[->][13 0, 653037]It was to bring Astaroth to the
+Ring of Gaea to be our new King.
+But, you've put an end to that.
+[->][13 0, 653038]Still, I did manage to get my hands
+on Astaroth's soul.
+[->][13 0, 653039]You have my personal thanks for that.
+[->][13 0, 653040]Ha hah...
+[END]
+21: 〉 The woman leaves...
+[END]
+22: (Astaroth) [7a 65047][13 0, 350901]Chasing down a demon is hardly the
+wisest choice a warrior like yourself
+could make...
+[->][13 0, 350902]But, you're determined to finish
+the job. I admire that.
+[END]
+23: 〉 The demon's aura grows more
+powerful...
+[END]
+24: (Astaroth) [7a 65047][13 0, 350903]...I believe I have had enough time to
+get used to this world.
+[END]
+25: (Astaroth) [7a 65047][13 0, 350904]Very well. If you wish to challenge
+me, then I shall gladly be your
+opponent!
+[END]
+26: (Ring of Gaea member) [7a 54][13 0, 653008]However, the ceremony cannot be
+interrupted now. I'll have my demons
+take care of him.
+[->][13 0, 653009]Come forth! Gods of Babylon!
+[->][13 0, 653010]Protect us until the Great Duke has
+been summoned!
+[END]
+900: 〉 There is nobody here...
+[END]

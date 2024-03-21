@@ -1,0 +1,98 @@
+0: (Calm woman) [7a 123][13 1, 403321]Please don't raise a fuss with the
+Ashura−kai, stranger. It's us locals
+who'll suffer the consequences.
+[->]For weaklings like us who can't even
+set foot outside, the Ashura−kai's
+all we have...
+[END]
+1: (Calm woman) [7a 123][13 1, 403322]Th−They did say that the battlefield
+was just Ichigaya and not anywhere
+else, right?
+[->]Then why are all these other demons
+roaming around? I−Is Roppongi okay?
+[->]M−My son is in the Hills building...!
+Oh God... Please...!
+[END]
+2: (Calm woman) [7a 123][13 1, 403302]Ah... [Flynn]? Can I ask you
+a... personal favor...?
+[->]If you ever have find yourself in
+Roppongi's underground... and you see
+a boy from Ueno...
+[->]Can you tell him I'll be there to pick
+him up? Could you tell him that...?
+[END]
+3: (Calm woman) [7a 123][13 1, 403302]Ah... [Flynn]? Can I ask you
+a... personal favor...?
+[->]If you ever have find yourself in
+Roppongi's underground... and you see
+a boy from Ueno...
+[->]Can you tell him I'm on my way to pick
+him up? Could you tell him that...?
+[END]
+4: (Yearning man) [7a 79][13 1, 403201]Is it just me, or... do I smell sunlight
+coming from you guys?
+[->]It's been 25 years since that ceiling
+appeared. By the time you guys were
+born...
+[->]Tokyo had already been covered in an
+endless night. So it's kinda strange
+that you'd...
+[END]
+5: (Yearning man) [7a 79][13 1, 403201]By the way, I met this guy who called
+himself a Samurai. He said he came from
+above the ceiling...
+[->]If what he said is true, can you see
+the real sun from there?
+[END]
+6: (Yearning man) [7a 79][13 1, 403201]Ah... you Samurai from up above are
+so cruel...
+[->]I can smell the sunlight coming off
+you. That sun we lost 25 years ago...
+[->]Every time you come by, you remind me
+of the scenery in Tokyo.
+[END]
+7: (Yearning man) [7a 79][13 1, 403201]My God... the Samurai from the world
+above was the champion...?
+[->]Sorry... The hope you brought us only
+made me greedier...
+[->]Do you think you can show me the sun
+we lost 25 years ago one more time?
+[END]
+8: (Yearning man) [7a 79][13 1, 403201]The Samurai from the world above is
+the champion, huh...?
+[->]I... really wanted to see the sun we lost
+25 years ago... I would have given
+anything... *cough*
+[->]It's too bad... I don't think I'll
+make it... But... that's okay...
+[->]You... are my sun now...
+[END]
+100: (Calm woman) [7a 123][13 1, 403312]I finally got a letter of invitation
+from the Ashura−kai...
+[->]I know my son won't have a very good
+life staying with me... I know that
+I should...
+[END]
+105: (Yearning man) [7a 79][13 1, 403201]Ah... it's the Samurai who smells of
+the sunlight.
+[->]It's been 25 years... I almost gave up,
+many a time. But now I've met you...
+[->]Please... I'm begging you... Let me see
+the sun one last time! Just once more!
+[END]
+200: (Calm woman) [7a 123][13 1, 403312]It's absurd to think of raising a child
+in Tokyo to begin with...
+[->]I know my boy will be happy in Roppongi.
+He won't go hungry there...
+[->]Yes... I have to do this if I want a
+real future for my son...
+[END]
+300: (Calm woman) [7a 123][13 1, 403322]Say... The battle has been confined to
+Ichigaya, right? All the other regions
+are safe, aren't they?
+[->]Y−You see, my son... He's in the
+Hills building in Roppongi...
+[->]Oh, my baby! Please forgive me! I−If
+I'd only know... I'd never have let
+you go...!
+[END]

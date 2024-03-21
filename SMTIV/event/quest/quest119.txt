@@ -1,0 +1,15 @@
+0: I want [Color:0x5][Item 1],[Color:0x0] which is known to provide
+divine protection from death. The Reaper
+[Color:0x5]Orcus[Color:0x0] is extremely difficult to find, but
+you might get lucky searching in Minami Senju,
+[Color:0x5]north of Ueno.[Color:0x0] I want to use that material to
+make [Color:0x5]new leg armor[Color:0x0] so I can put it on sale.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

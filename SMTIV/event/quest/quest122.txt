@@ -1,0 +1,15 @@
+0: They say that soaking your clothes in Femme
+[Color:0x5]Striges'[Color:0x0] blood gives you spiritual defenses.
+I want you to find [Color:0x5][Amount 1][Color:0x0] [Color:0x5][Item 1][Color:0x0]s. I plan on
+making [Color:0x5]Devilsneak[Color:0x0] armor with these materials.
+I'll put them on sale when I'm done, so look
+forward to seeing them in my store!
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

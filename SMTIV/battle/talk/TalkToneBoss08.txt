@@ -1,0 +1,421 @@
+0: Dummy
+[END]
+1: [71 1]I see no reason to lend my strength to
+one who has forgotten his obligations
+to his country...!
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]You would call an end to this battle in
+favor of speeches and peacemaking?
+[->]What a foolish ploy, after coming so
+far... You have forgotten your
+obligation to your country.
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]NOT USED
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]NOT USED
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]NOT USED
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]NOT USED
+[->][END]
+33: NOT USED
+[END]
+34: [71 1]This ”idle chat” is nothing to take
+lightly. It, too, is an exchange of
+knowledge.
+[->]If you wish to engage in such an
+exchange, first ply me with gifts.
+[->][END]
+35: NOT USED
+[END]
+36: [71 1]Now... Drink of the knowledge that
+lies within ”idle chat.”
+[->][END]
+37: NOT USED
+[END]
+38: [71 1]Yes! Let us commence! This is the
+ultimate form of knowledge!
+[->][END]
+39: NOT USED
+[END]
+40: [71 1]We have only begun to chat... We should
+let the knowledge soak in further.
+[->][END]
+41: NOT USED
+[END]
+42: [71 1]With mercy comes debt. Are you worth
+my asking price?
+[->][END]
+43: NOT USED
+[END]
+44: [71 1]Here is the mercy I'll show. Inscribe
+this debt upon your heart...
+[->][END]
+45: NOT USED
+[END]
+46: [71 1]In your dreams... I can hear a voice
+yearning for mercy...
+[->]Very well. This mercy... I shall grant
+it to you...
+[->][END]
+47: NOT USED
+[END]
+48: NOT USED
+[END]
+49: [71 1]I shall heal you once more. Your debt
+grows deeper...
+[->][END]
+50: NOT USED
+[END]
+51: [71 1]Only knowledge is true wealth, and yet
+you ask me for coin...
+[->][END]
+52: NOT USED
+[END]
+53: [71 1]Urgh... You highwayman...
+[->][END]
+54: NOT USED
+[END]
+55: [71 1]You are but a lump of flesh and blood,
+devoid of knowledge...
+[->]At the very least, may you learn a final
+lesson on death.
+[->][END]
+56: NOT USED
+[END]
+57: [71 1]Urrrrrrgh...
+[->][END]
+58: NOT USED
+[END]
+59: [71 1]S... Stop this... You should not use
+your power thus...
+[->][END]
+60: NOT USED
+[END]
+61: [71 1]I can no longer bear to see knowledge
+corrupted in this way, subsumed by
+greed...
+[->]I shall give you your money. Now begone.
+[->][END]
+62: NOT USED
+[END]
+63: [71 1]Raaaah! You greedy know−nothing!
+[->][END]
+64: NOT USED
+[END]
+65: [71 1]Only knowledge is true wealth, and yet
+you ask me for coin...
+[->][END]
+66: NOT USED
+[END]
+67: [71 1]Business negotiations involve such
+intelligence... Now, I shall have you
+pay my worth.
+[->][END]
+68: NOT USED
+[END]
+69: [71 1]You may have this. But you will owe me
+a debt of gratitude.
+[->][END]
+70: NOT USED
+[END]
+71: [71 1]Here, here, here! If you want an item,
+I shall give you one.
+[->]Learn the utility of a fool's luck.
+[->][END]
+72: NOT USED
+[END]
+73: [71 1]Ah, yes. You may have this as well.
+Your feeling of debt grows deeper...
+[->][END]
+74: NOT USED
+[END]
+75: [71 1]...It would be interesting to quickly
+decide this negotiation here.
+[->][Color:0x1][Amount 1] Macca.[Color:0x0]
+What is your answer?
+[->][END]
+76: NOT USED
+[END]
+77: [71 1]I shall accept your [Color:0x1][Item 1].[Color:0x0]
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]I shall accept [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]I shall accept [Color:0x1]a small proportion[Color:0x0] of
+your [Color:0x1]life.[Color:0x0]
+[->][END]
+82: NOT USED
+[END]
+83: [71 1]I shall accept [Color:0x1]an adequate proportion[Color:0x0] of
+your [Color:0x1]life.[Color:0x0]
+[->][END]
+84: NOT USED
+[END]
+85: [71 1]I shall accept [Color:0x1]a large proportion[Color:0x0] of
+your [Color:0x1]life.[Color:0x0]
+[->][END]
+86: NOT USED
+[END]
+87: [71 1]I shall accept [Color:0x1]a gross proportion[Color:0x0] of
+your [Color:0x1]life.[Color:0x0]
+[->][END]
+88: NOT USED
+[END]
+89: [71 1]I shall accept [Color:0x1]a small proportion[Color:0x0] of
+your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+90: NOT USED
+[END]
+91: [71 1]I shall accept [Color:0x1]an adequate proportion[Color:0x0] of
+your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+92: NOT USED
+[END]
+93: [71 1]I shall accept [Color:0x1]a large proportion[Color:0x0] of
+your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+94: NOT USED
+[END]
+95: [71 1]I shall accept [Color:0x1]a gross proportion[Color:0x0] of
+your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+96: NOT USED
+[END]
+97: [71 1]Your ally... Yes, I shall accept
+[Color:0x1][Demon name 2]'s life.[Color:0x0]
+[->][END]
+98: NOT USED
+[END]
+99: [71 1]Well... [Color:0x1]That...[Color:0x0] I am interested
+in [Color:0x1]that...[Color:0x0]
+[->][END]
+100: NOT USED
+[END]
+101: [71 1]What do you think? What do I want...?
+[->][END]
+102: NOT USED
+[END]
+103: [71 1]That is correct. I shall take that.
+[->][END]
+104: NOT USED
+[END]
+105: [71 1]That is incorrect... You must think
+harder.
+[->][END]
+106: NOT USED
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]The time is ripe to know satisfaction.
+[->][END]
+121: NOT USED
+[END]
+122: [71 1]This is quite good! I have learned great
+satisfaction from you!
+[->][END]
+123: NOT USED
+[END]
+124: [71 1]I did not think I would learn refusal
+here...
+[->][END]
+125: NOT USED
+[END]
+126: [71 1]You held back on me...?
+[->]You will learn that such ludicrous
+behavior leads to death...
+[->][END]
+127: NOT USED
+[END]
+128: [71 1]Know that we are finshed.
+[->][END]
+129: NOT USED
+[END]
+130: [71 1]You lied to me...?
+[->]You will learn that such ludicrous
+behavior leads to death...
+[->][END]
+131: NOT USED
+[END]
+132: [71 1]Well, well...
+[->][END]
+133: NOT USED
+[END]
+134: [71 1]Know that you must have a Life Stone to
+begin any discussion...
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]I lose interest as these talks become
+prolonged. I have learned the value of
+being satisfied with what one has.
+[->][END]
+137: NOT USED
+[END]
+138: [71 1]You would end our talks prematurely...?
+[->]You will learn that such ludicrous
+behavior leads to death...
+[->][END]
+139: NOT USED
+[END]
+140: [71 1]Still you refuse...? Your will is
+strong indeed.
+[->]Your spirit deserves respect.
+[->][END]
+141: NOT USED
+[END]
+142: [71 1]Your blind acceptance of my conditions
+seems to indicate that you are incapable
+of critical thought.
+[->]And I have no business with those who
+cannot think...
+[->][END]
+143: NOT USED
+[END]
+144: [71 1]...You approached me in such a single−
+minded spirit?
+[->]That much warrants respect.
+[->][END]
+145: NOT USED
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: [71 1]Your speech is rote and unimaginative...
+I think very little of it.
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]You and I meet again, to repay our
+debts to our country.
+[->]Let us go, [Flynn]. Our thoughts
+are as one...
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USED
+[END]
+171: [71 1]NOT USED
+[->][END]
+172: [71 1]NOT USED
+[->][END]
+173: [71 1]NOT USED
+[->][END]
+174: [71 1]NOT USED
+[->][END]

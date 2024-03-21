@@ -1,0 +1,54 @@
+0: (Host−like man) [7a 120][13 0, 85001]Hey, kiddo, you shouldn't be in here.
+[->][13 0, 85002]Can't you tell by looking around? This
+is a Domain to keep guys who get too
+close from getting away.
+[END]
+1: (Host−like man) [7a 120][13 0, 85003]It's been about twenty years since I
+started looking after the Terminals.
+They call me the Terminal Guardian.
+[END]
+2: (Host−like man) [7a 120][13 0, 85004]They call me the−−Wait, y−you're...
+You're that kiddo from before!
+[->][13 0, 85005]Ugh, this is gonna be a mess...
+But... I've got a job to do.
+[END]
+3: (Host−like man) [7a 120][13 0, 85006]Hm? You're that kid from before.
+You keep popping up like some problem
+customer.
+[END]
+4: (Host−like man) [7a 120][13 0, 85007]I had a feeling it'd be you again...
+My pay as a guardian has plummeted
+since you started beating me.
+[->][13 0, 85008]It's not easy being the breadwinner
+for an entire family on a low wage.
+[END]
+5: (Host−like man) [7a 120][13 0, 85009]Hey, kiddo. I had a feeling you'd
+show up here.
+[->][13 0, 85010]Some make fun of me because of my job,
+but I'm proud to be a guardian.
+[->][13 0, 85011]But of course, I have to make a living,
+too... so I've been taking on some side
+work as well.
+[END]
+6: (Host−like man) [7a 120][13 0, 85012]Might as well take you with me and
+force you into my crew.
+[->][13 0, 85013]The time has come to show you what a
+man your senior can do! I'll bat you
+around 'til I'm ready to finish it!
+[END]
+7: 〉 The demon's Domain has been lifted.
+[END]
+8: (Burroughs) [7a 2][13 1, 400063]Looks like the quest is going well.
+[END]
+9: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+10: (Burroughs) [7a 2][13 1, 405700]This is the Shinjuku Terminal.
+[END]
+11: (Burroughs) [7a 2][13 0, 74001]I'm going to run the Terminal
+activation program.
+[END]
+12: (Burroughs) [7a 2][13 0, 74002]Activation complete.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]

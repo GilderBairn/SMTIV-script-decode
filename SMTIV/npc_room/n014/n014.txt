@@ -1,0 +1,21 @@
+0: (Male ghost) [7a 101][13 1, 404541]If I'd known I'd end up like this, I'd
+have lived life only for myself...
+[->]I should've stayed out of Shibuya. It
+wasn't like me to let my conscience
+drive me to this town...
+[END]
+1: (Male ghost) [7a 101][13 1, 404541]I wonder if my life had any meaning...
+I was born, risked my life, and died in
+Tokyo for someone I don't even know.
+[->]But if you'll let me brag for a second...
+I think I was kinda cool. Hahaha...!
+[END]
+2: (Female ghost) [7a 102][13 1, 404621]Everyone did their part to fight... But
+in the end, they were exhausted.
+[->]My only regret is that I couldn't fight
+until the very end...
+[END]
+3: (Female ghost) [7a 102][13 1, 404602]The rest is up to you... It's in your
+hands now. Please carry our hopes
+forward...
+[END]

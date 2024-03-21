@@ -1,0 +1,15 @@
+0: I've been asked by the fairies to summon a
+demon called [Color:0x5]Black Maria.[Color:0x0] The problem is,
+an army of angels has appeared, and they're
+preventing me from doing the summoning.
+If you'll help, come to [Color:0x5]St. Nicholas
+Cathedral north of Tokyo station[Color:0x0] to meet me.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

@@ -1,0 +1,46 @@
+0: (Jonathan) [7a 3][13 0, 204001]Here it is...
+[END]
+1: (Jonathan) [7a 3][13 0, 204002]How can I forget? The Yamato Reactor.
+[END]
+2: (Walter) [7a 4][13 0, 204003]It's present in this Tokyo as well,
+eh...?
+[END]
+3: (Jonathan) [7a 3][13 0, 204004]......
+[END]
+4: (Jonathan) [7a 3][13 0, 204005]We found ourselves in this world after
+Yamato was activated...
+[END]
+5: 〉 Jonathan walked up to the Yamato
+Reactor...
+[END]
+6: (Jonathan) [7a 3][13 0, 204006]...You press the switch, [Flynn].
+[->][13 0, 204007]It seems we are fated to do this.
+[END]
+7: Press the button
+Don't press the button
+[END]
+8: (Jonathan) [7a 3]I appreciate it...
+[END]
+9: (Walter) [7a 4]I'm ready. Go ahead.
+[END]
+10: 〉 [Flynn] pushed the button...
+[END]
+11: (Walter) [7a 4]What's wrong, [Flynn]?
+[END]
+12: (Jonathan) [7a 3][13 0, 204009]If there is something you need to do
+beforehand, we'll do it with you.
+[END]
+13: 〉 Jonathan walked up to the Yamato
+Reactor...
+[END]
+14: (Jonathan) [7a 3][13 0, 204006]...You press the switch, [Flynn].
+[->][13 0, 204007]It seems we are fated to do this.
+[END]
+15: カットアニメです
+魔界ゲートが開かれます
+[END]
+106: (Walter) [7a 4][13 0, 204008]I'm ready. Go ahead.
+[END]
+110: 〉 Surprised by the sudden sound,
+[Flynn] dropped the remote...
+[END]

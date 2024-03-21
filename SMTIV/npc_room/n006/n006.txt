@@ -1,0 +1,273 @@
+0: (Intelligent monk) [7a 42][13 1, 403602]This is the Monastery... a sacred
+place where those who serve God gather...
+[->]Since you are here, you must be among
+we who serve the Lord. Let us help each
+other dedicate ourselves to the kingdom.
+[END]
+1: (Intelligent monk) [7a 42][13 1, 403602]I heard that there was a skirmish
+amongst the young Samurai...
+[->]These things happen when one is prideful
+of the power he possesses. We must be
+watchful to keep to our assigned roles.
+[END]
+2: (Intelligent monk) [7a 42][13 1, 403641]Our role is to study the lost wisdom
+and knowledge for the kingdom's sake.
+[->]We have already scoured the areas of
+Naraku where the code permits the
+Samurai to venture...
+[->]So you do Abbot Hugo a disservice by
+holding a grudge. We are only playing
+our parts; that is all.
+[END]
+3: (Intelligent monk) [7a 42][13 1, 403602]It was Sister Gabby who proposed that
+we hold a public execution for the
+Black Samurai.
+[->]The Sabbaths caused pilgrimages of
+the people from village to village...
+leading to an exchange of ideas.
+[->]Presumptions and hearsay will induce
+fear and anxiety. This execution will
+dispel it and right the people again.
+[->]Small wonder Abbot Hugo calls her the
+Right Hand... Her vision is all−
+encompassing, as God's would be...
+[END]
+4: (Intelligent monk) [7a 42][13 1, 403621]The dead have resurrected!? Who would
+believe such nonsense!?
+[->]It was you Samurai who executed the
+Black Samurai, yes?
+[->]Do not make me suspect foul play
+among you... I should hate to think
+she had assistance in her escape...
+[END]
+5: (Intelligent monk) [7a 42][13 1, 403621]The dead have resurrected!? Who would
+believe such nonsense!?
+[->]It was you Samurai who executed the
+Black Samurai, yes?
+[->]Do not make me suspect foul play
+among you... I should hate to think
+she had assistance in her escape...
+[END]
+6: (Intelligent monk) [7a 42][13 1, 403622]Abbot Hugo has relayed a message from
+our new leaders...
+[->]So, that Black Samurai yet lives. She is
+an enemy of the state who has demeaned
+the people of this kingdom.
+[->]My dear young Samurai, you must swiftly
+end this Black Samurai's life for the
+good of the kingdom!
+[END]
+7: (Intelligent monk) [7a 42][13 1, 403641]Abbot Hugo has relayed a message from
+our new leaders...
+[->]The threat of the Black Samurai is
+forever passed. The kingdom's peace and
+prosperity are secured...
+[->]Now... let us hope that the people will
+not neglect to revere God...
+[END]
+8: (Intelligent monk) [7a 42][13 1, 403641]Our years of research shall surely be
+useful if we are to lead the people
+to Tokyo.
+[->]The Monastery concealed itself at first
+when the new authorities arrived...
+[->]But this strikes me as an ideal chance
+to let the people know of our wondrous
+deeds.
+[END]
+9: (Sharp−eyed monk) [7a 42][13 1, 403641]I saw you in the Rite yesterday. I think
+congratulations are in order...
+[->]Yesterday, you died as a Casualry,
+and were born anew as a Samurai.
+[->]You are among the Luxurors now, and as
+such, it is your duty to be a leader
+for the people.
+[END]
+10: (Sharp−eyed monk) [7a 42][13 1, 403621]There seems to be a strange trend among
+the Casualries...
+[->]Though those who need to be are already
+aware of it. Let us wait and see what
+comes of it...
+[END]
+11: (Sharp−eyed monk) [7a 42][13 1, 403601]Abbot Hugo is attending the all−night
+meeting now, together with Commander
+Hope and Sister Gabby.
+[->]The matter of people turning into
+demons is one of national security...
+[->]We must ban these Sabbaths and destroy
+demons wherever they appear. And, of
+course, apprehend the Black Samurai.
+[->]There are so many issues which only
+Abbot Hugo can judge...
+[END]
+12: (Sharp−eyed monk) [7a 42][13 1, 403642]Abbot Hugo is resting himself after
+the meeting with Sir Hope.
+[->]According to Abbot Hugo, he plead with
+Sir Hope to take command in Tokyo...
+[->]But night upon night of persuasion was
+futile, and Sir Hope never agreed.
+[END]
+13: (Sharp−eyed monk) [7a 42][13 1, 403601]Sister Gabby has gone to the Obelisk
+Plaza.
+[->]This new trouble is hitting us hard,
+and the excitement of the execution
+hasn't yet diminished...
+[->]I'm sure she merely needed a bit of
+fresh air.
+[END]
+14: (Sharp−eyed monk) [7a 42][13 1, 403621]I've not seen Sister Gabby for some
+time.
+[->]Usually, Abbot Hugo can be heard crying
+out for her as soon as he notices her
+absence...
+[->]But lately, he holds his tongue, as if
+he respects her. Or fears her...
+[END]
+15: (Sharp−eyed monk) [7a 42][13 1, 403622]Abbot Hugo is very quick on his feet.
+He was utterly insistent on gathering
+mystic relics until the other day...
+[->]Er, no... th−that was a compliment.
+He, too, is one of the kingdom's
+people, chosen by God...
+[->]Oh, please do not breathe a word of
+this to the others at Obelisk Plaza!
+Thank you...!
+[END]
+16: (Sharp−eyed monk) [7a 42][13 1, 403641]Abbot Hugo is very quick on his feet.
+Until very recently, he held Tokyo in
+such disdain...
+[->]Er, no... th−that was a compliment.
+He, too, is an important member of the
+Eastern Kingdom of Mikado...
+[->]Oh, please do not breathe a word of
+this to the others at Obelisk Plaza!
+Thank you...!
+[END]
+17: (Reserved monk) [7a 43][13 1, 403702]New Samurai are very rare. We don't see
+them every year. But this year, we even
+have a female recruit...
+[->]She comes from a family that has given
+us many excellent monks. Of course,
+this is a loss for the Monastery...
+[->]But I'm sure she will provide beauty and
+grace to the man's world of the Samurai
+order.
+[END]
+18: (Reserved monk) [7a 43][13 1, 403742]Isabeau was just visiting us. She
+wished to pray before departing...
+[->]Though she is young, she has a
+laudable soul. May God be with her
+wherever she goes...
+[END]
+19: (Reserved monk) [7a 43][13 1, 403741]Isabeau was just visiting us. She was
+seeking flowers to bring to some of
+the wounded fellows.
+[->]Her concern for her fellows, even while
+on leave, is touching... She is a very
+kind−hearted girl.
+[END]
+20: (Reserved monk) [7a 43][13 1, 403702]According to historical documents, there
+was indeed a great deal of magic in the
+Unclean Ones' country. 
+[->]By pursuing the Black Samurai, you will
+be a living testament to that history...
+[->]Considering that Abbot Hugo granted you
+this opportunity, you should be grateful
+to him.
+[END]
+21: (Reserved monk) [7a 43][13 1, 403721]The Black Samurai is from the Unclean
+Ones' country... where magic exists...
+[->]Do you think that this incident was
+caused by the Unclean Ones' magic?
+[END]
+22: (Reserved monk) [7a 43][13 1, 403722]The Black Samurai is from the Unclean
+Ones' country... where magic exists...
+[->]Do you think that this incident was
+caused by the Unclean Ones' magic?
+[END]
+23: (Reserved monk) [7a 43][13 1, 403721]I have heard that we are going to devote
+fewer of our resources to recovering
+mystic relics...
+[->]Abbot Hugo will not be pleased, I'm
+sure. But such are our new leaders'
+orders.
+[END]
+24: (Reserved monk) [7a 43][13 1, 403721]By the by, I see less of Isabeau lately.
+[->]I understand that she is traveling to
+many places on the word of Commander
+Hope.
+[->]It was a shame what happened to
+Navarre... And now Jonathan and Walter
+are also missing.
+[->]I believe that makes you the only fresh
+Samurai left in this kingdom...
+[END]
+25: (Reserved monk) [7a 43][13 1, 403702]Isabeau was just visiting us. She seemed
+somewhat happier than before.
+[->]It was a shame what happened to
+Navarre... And now Jonathan and Walter
+are also missing.
+[->]I believe that makes you and Isabeau
+the only fresh Samurai left in this
+kingdom...
+[->]But there was nothing insincere about
+the gleam in her eyes. She seemed
+genuinely hopeful.
+[END]
+26: (Hugo) [7a 10][13 1, 400703]Damn that Black Samurai... She's been
+vexing enough thus far...
+[->]Oh, hello. You're cooking up something
+with Gabby these days, aren't you?
+[->]Do let me know if it's anything
+important, won't you?
+[END]
+27: (Hugo) [7a 10][13 1, 400711]So you've met our new leaders, correct?
+...Very well.
+[->]We're very busy compiling a history of
+our kingdom at the moment.
+[->]Of course we will have to include the
+exiled king in this history...
+[->]It gives me a strange sense of nostalgia.
+My thoughts turn to the Unclean Ones'
+banishment 1,500 years past...
+[END]
+28: (Gabby) [7a 11][13 1, 400801]To wear the uniform of the Counter−
+Demon Force founded to bring peace,
+and instead threaten our safety...
+[->]The Black Samurai is a blight upon the
+prosperity of this kingdom. You must
+contain her evil as quickly as you can.
+[END]
+29: (Gabby) [7a 11][13 1, 400801]Please mind your step on the way to
+Shinjuku National Park.
+[->]You must be a savior to the people,
+for the kingdom's new millennium.
+[END]
+109: (Sharp−eyed monk) [7a 42][13 1, 403641]Only a few in the castle are aware that
+there are demons within Naraku.
+[->]No one would dream that there are demons
+just beyond the castle wall...
+[->]It is a careful decision on the
+Monastery's part to keep our silence.
+To let it be known would create panic...
+[END]
+117: (Reserved monk) [7a 43][13 1, 403702]Isabeau just came to see us. She wanted
+to offer her thanks to God for her
+success in the training exercises.
+[->]Though she is young, she has a
+laudable soul. May God be with her
+wherever she goes...
+[END]
+118: (Reserved monk) [7a 43][13 1, 403742]Isabeau was just visiting us. She begged
+forgiveness for the foolish deeds
+conducted by some of her fellows.
+[->]She has a generous spirit that cares
+for others... May God be with her
+wherever she goes.
+[END]
+125: (Reserved monk) [7a 43][13 1, 403702]Ah, my dear [Flynn]. I did not
+know you were still in the kingdom.
+[->]I am going to be sure no one is left
+behind in this place before heading
+for Tokyo.
+[->]I will see you in Shinjuku.
+[END]

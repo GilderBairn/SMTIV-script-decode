@@ -1,0 +1,83 @@
+0: (Lilith) [7a 65073][13 0, 169001]...I have been waiting for you.
+[END]
+1: (Lilith) [7a 206][13 0, 169002]It seems you are the humans I thought
+you might be.
+[END]
+2: (Walter) [7a 4][7b 131076, 65537]Error!
+[END]
+3: (Walter) [7a 4][7b 65540, 131073][13 0, 169003]Your world which the strong can shape
+as they see fit...
+[->][13 0, 169004]We've decided to stake all on that.
+[END]
+4: (Lilith) [7a 206][7b 65742, 65537][13 0, 169005]Hmhmhm... The knowledge and wisdom I
+gave you wasn't for nothing, then.
+[END]
+5: (Lilith) [7a 206][7b 65742, 65537][13 0, 169006]Let us go to [Color:0x5]Camp Ichigaya[Color:0x0] together.
+[->][13 0, 169007]There, we shall take control of the
+Yamato Perpetual Reactor...
+[->][13 0, 169008]...And use it to open the gate to
+the Expanse.
+[END]
+6: (Walter) [7a 4][7b 196612, 65537][13 0, 169009]What is this ”Expanse”?
+[END]
+7: (Lilith) [7a 206][7b 65742, 65537][13 0, 169010]It is the home realm of the demons...
+[->][13 0, 169011]Our goal is to unleash demons−−the
+incarnations of human desire−−into
+this world.
+[END]
+8: (Lilith) [7a 206][7b 65742, 65537][13 0, 169012]When all the demons are unleashed,
+the current structures of authority
+will no longer apply.
+[->][13 0, 169013]Those who do not succumb to demons and
+survive...
+[->][13 0, 169014]They will be the ones with the strength
+to change the world...
+[END]
+9: (Lilith) [7a 206][7b 65742, 65537][13 0, 169015]What do you think? Doesn't that sound
+ideal?
+[END]
+10: (Walter) [7a 4][7b 589828, 65537][13 0, 169016]It does... But the thought of being
+present at the event is making me
+weak in the knees...
+[END]
+11: (Lilith) [7a 206][7b 65742, 65537][13 0, 169017]But you're already in league with
+demons now.
+[->][13 0, 169018]And you have been since you began
+using the demon summoning program...
+[END]
+12: (Lilith) [7a 206][7b 65742, 65537][13 0, 169020]Tayama will have a few dangerous
+National Defense Divinities summoned
+at Camp Ichigaya.
+[->][13 0, 169021]I shall help you...
+[END]
+13: (Lilith) [7a 206][7b 65742, 65537][13 0, 169022]This time, humans will build their own
+paradise.
+[END]
+14: (Lilith) [7a 206][7b 65742, 65537][13 0, 169023]Now, let us go, Blessed Samurai...
+[END]
+15: (Walter) [7a 4][7b 65540, 131073][13 0, 169024]Humans building their own paradise...
+[->][13 0, 169025]...That has a certain ring to it.
+[END]
+16: 〉 You can now fuse
+[Color:0x5][74 463] [42 463].[Color:0x0]
+[END]
+111: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+900: 〉 Where will you go?
+[END]
+901: The main hall entrance
+The exit outside
+[END]
+902: The main hall entrance
+The exit outside
+The hall with the bench
+[END]
+903: 〉 You went to the main hall entrance.
+[END]
+904: 〉 You went outside.
+[END]
+905: 〉 You went to the hall with the bench.
+[->][END]
+906: 〉 But the gate is tightly shut...
+[END]

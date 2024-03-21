@@ -1,0 +1,61 @@
+0: 〉 A passage in mystic script appears
+on the Gauntlet...
+[END]
+1: (Pyro Jack) [7a 0]If you're gonna make a party,
+then we're gonna have one too, ho!
+[->]We call ourselves
+”Jack Brothers +”! Ho ho!
+[->][END]
+2: (Pyro Jack) [7a 0]Hee hee ho! What weakness does your
+party have, ho?
+[->]We're gonna find it, and tear it
+wide open! Hee−hopen wide!
+[END]
+3: Check action start
+[->][END]
+4: HP 75% or lower
+[->][END]
+5: HP 50% or lower
+[->][END]
+6: HP 25% or lower
+[->][END]
+7: Check action end
+[->][END]
+8: (Pyro Jack) [7a 0]Hee hoooooh... We tried too hard
+to find your weaknesses, ho...
+[END]
+9: 〉 [Flynn] runs past the boundary to
+the virtual battle, and the simulation
+ends...
+[END]
+10: Check enemy escape
+[->][END]
+11: 〉 The enemy was not eliminated within
+the turn limit.
+[->]〉 The simulation ends...
+[END]
+12: Tentative enemies, Jack Brothers +
+[->][END]
+13: 〉 The enemy was successfully
+eliminated within the turn limit.
+[->]〉 The simulation ends...
+[END]
+20: (Hairy Jack) [7a 0]Woof! Woof woof!
+[->][END]
+21: (Pyro Jack) [7a 0]It may feel like we're reaching a
+little, but... We couldn't really
+find any other Jacks, ho.
+[->]A−Anheeway, ho! Now our team has
+no weaknesses!
+We're invince−hee−ble!
+[->]Hee hee hee ho ho!
+This time we'll win for sure!
+[END]
+100: ”Demon training program −− Ready
+ Training Battle 6 −− Begin”
+[->][Color:0x5]”Use a variety of demons to cover
+your party's weaknesses and defeat
+the Jacks within four turns!”[Color:0x0]
+[END]
+1000: Test
+[->][END]

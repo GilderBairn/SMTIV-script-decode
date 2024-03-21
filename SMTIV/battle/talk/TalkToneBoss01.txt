@@ -1,0 +1,413 @@
+0: ダミーメッセージ
+[END]
+1: [71 1]I have only one master. He is known
+far and wide as Aquila.
+[->]I'll not break this ancient, honorable
+pact for anyone.
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]Samurai... you do not intend to flee,
+do you?
+[->]If you mean to carry on in Aquila's
+footsteps, then you must fight proudly
+to the bitter end.
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]NOT USED
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]NOT USED
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]NOT USED
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]NOT USED
+[->][END]
+33: NOT USED
+[END]
+34: [71 1]What meaning is there in this useless
+prattle this far into Naraku's depths?
+[->]Whatever the answer, you will make an
+offering to me.
+[->][END]
+35: NOT USED
+[END]
+36: [71 1]Very well, I will hear your plea.
+[->][END]
+37: NOT USED
+[END]
+38: [71 1]Gwahahaha... Very well then! Let us
+talk to our heart's content!
+[->][END]
+39: NOT USED
+[END]
+40: [71 1]Hmm, our talks grow more and more
+intriguing! Perhaps because I've spent
+so long here alone...
+[->][END]
+41: NOT USED
+[END]
+42: [71 1]So, you are such a weak son of man as
+to beg mercy from a demon...
+[->]Then make an offering to me.
+[->][END]
+43: NOT USED
+[END]
+44: [71 1]...In light of your offering, I shall
+make an exception and show mercy.
+[->][END]
+45: NOT USED
+[END]
+46: [71 1]I am falling into slumber... The peace
+and mercy of sleep...
+[->]If you wish for this mercy, then I shall
+give it to you...
+[->][END]
+47: NOT USED
+[END]
+48: NOT USED
+[END]
+49: [71 1]Ah, how pleasant it is to be merciful.
+How about another?
+[->][END]
+50: NOT USED
+[END]
+51: [71 1]...Surely you did not come to the depths
+of Naraku solely to raise funds.
+[->]What would possess you to do this...?
+[->][END]
+52: NOT USED
+[END]
+53: [71 1]Samurai... Have you succumbed to
+monetary greed...!?
+[->][END]
+54: NOT USED
+[END]
+55: [71 1]What a disgusting sight this Samurai
+before me is, who has abandoned reason
+in pursuit of monetary greed.
+[->]Your corpse shall be displayed here as
+a warning, Samurai!
+[->][END]
+56: NOT USED
+[END]
+57: [71 1]Gah! Enough!
+[->][END]
+58: NOT USED
+[END]
+59: [71 1]Y−You bastard...! I will give you one
+chance to stop...
+[->][END]
+60: NOT USED
+[END]
+61: [71 1]Raaaaaaagh! Do you want my money
+that badly!?
+[->]Then take it all! And begone from
+my sight!
+[->][END]
+62: NOT USED
+[END]
+63: [71 1]Hahahaha... Haaaaahahahaha...!
+[->]Enough of these games!
+[->][END]
+64: NOT USED
+[END]
+65: [71 1]...Surely you did not come to the depths
+of Naraku solely to raise funds.
+[->]What would possess you to do this...?
+[->][END]
+66: NOT USED
+[END]
+67: [71 1]Ah, then you wish to negotiate...?
+Very well. If you can pay the price,
+that is.
+[->][END]
+68: NOT USED
+[END]
+69: [71 1]The deal is struck. I shall grant you
+this in return.
+[->][END]
+70: NOT USED
+[END]
+71: [71 1]My most treasured possession, hm?
+Hahahaha, it's yours!
+[->]What sort of demon would I be if I
+couldn't spare such a trifle? Take it!
+[->][END]
+72: NOT USED
+[END]
+73: [71 1]...I may as well give you this too.
+It is useless to me.
+[->][END]
+74: NOT USED
+[END]
+75: [71 1]I don't have time to waste. Let us
+finish promptly.
+[->][Color:0x1][Amount 1] Macca...[Color:0x0]
+Can you pay that price?
+[->][END]
+76: NOT USED
+[END]
+77: [71 1]I want your [Color:0x1][Item 1].[Color:0x0]
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]I want [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]I ask for a [Color:0x1]small amount[Color:0x0] of your
+[Color:0x1]stamina.[Color:0x0]
+[->][END]
+82: NOT USED
+[END]
+83: [71 1]I ask for [Color:0x1]some[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+84: NOT USED
+[END]
+85: [71 1]I ask for [Color:0x1]a great deal[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+86: NOT USED
+[END]
+87: [71 1]I'll need a [Color:0x1]dreadful lot[Color:0x0] of your
+[Color:0x1]stamina,[Color:0x0] I'm afraid.
+[->][END]
+88: NOT USED
+[END]
+89: [71 1]I ask for a [Color:0x1]small amount[Color:0x0] of your
+[Color:0x1]energy.[Color:0x0]
+[->][END]
+90: NOT USED
+[END]
+91: [71 1]I ask for [Color:0x1]some[Color:0x0] of your [Color:0x1]energy.[Color:0x0]
+[->][END]
+92: NOT USED
+[END]
+93: [71 1]I ask for [Color:0x1]a great deal[Color:0x0] of your [Color:0x1]energy.[Color:0x0]
+[->][END]
+94: NOT USED
+[END]
+95: [71 1]I'll need a [Color:0x1]dreadful lot[Color:0x0] of your
+[Color:0x1]energy,[Color:0x0] I'm afraid.
+[->][END]
+96: NOT USED
+[END]
+97: [71 1]Your demon there... I ask for
+[Color:0x1][Demon name 2]'s life.[Color:0x0]
+[->][END]
+98: NOT USED
+[END]
+99: [71 1]I desire... [Color:0x1]that...[Color:0x0] Yes,
+[Color:0x1]that[Color:0x0] will do nicely.
+[->][END]
+100: NOT USED
+[END]
+101: [71 1]I will allow you to chose.
+[->][END]
+102: NOT USED
+[END]
+103: [71 1]...Very well, I accept your offer.
+[->][END]
+104: NOT USED
+[END]
+105: [71 1]...That wasn't it, you fool.
+[->][END]
+106: NOT USED
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]...Very well. I am satisfied.
+[->][END]
+121: NOT USED
+[END]
+122: [71 1]Hmmm! This is quite good...!
+[->][END]
+123: NOT USED
+[END]
+124: [71 1]Ah, so that's your tactic...
+[->][END]
+125: NOT USED
+[END]
+126: [71 1]You have it in your possession, but you
+will not relinquish it. I see...
+[->]Then you shall pay with your life...!
+[->][END]
+127: NOT USED
+[END]
+128: [71 1]I understand already. Enough is enough.
+[->][END]
+129: NOT USED
+[END]
+130: [71 1]You dare try to cheat me? I see...
+[->]Then you shall pay with your life...!
+[->][END]
+131: NOT USED
+[END]
+132: [71 1]...Utterly useless.
+[->][END]
+133: NOT USED
+[END]
+134: [71 1]No negotiation can begin without
+Life Stones...
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]...That seems to have gone on too long.
+Quite boorish of me.
+[->][END]
+137: NOT USED
+[END]
+138: [71 1]You will not socialize with me...?
+I see...
+[->]Then you shall pay with your life...!
+[->][END]
+139: NOT USED
+[END]
+140: [71 1]So you continue to deny me...
+[->]...You are refreshingly bold!
+[->][END]
+141: NOT USED
+[END]
+142: [71 1]You've been so pliant this whole time.
+Do you not have a will of your own?
+[->]...Enough of this. Begone.
+[->][END]
+143: NOT USED
+[END]
+144: [71 1]Hahahaha...! How pitiful, that you
+would be lacking even that!
+[->][END]
+145: NOT USED
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: [71 1]More negotiations...? Do not bore me...
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]Our new pact will not be severed even
+if we are apart.
+[->]Now let us go, my Master [Flynn].
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USE
+[END]
+171: [71 1]RESERVED
+[->][END]
+172: [71 1]RESERVED
+[->][END]
+173: [71 1]RESERVED
+[->][END]
+174: [71 1]RESERVED
+[->][END]

@@ -1,0 +1,90 @@
+0: テスト
+[END]
+201: (Polite jailer) [7a 1][13 1, 412201]...Oh, it is you, honorable guest.
+[END]
+202: (Polite jailer) [7a 164]Welcome, Samurai, to the Macca earning
+grounds...
+[->]This is a dead city... A place long
+perished, its time come to an end.
+[END]
+203: (Hot−headed jailer) [7a 165][13 1, 415001]It's in its own world, completely
+closed off from anywhere else.
+[->]That makes this a perfect place to
+grind for Macca.
+[END]
+204: (Polite jailer) [7a 164]The demons in this city drop [Color:0x5]items
+that can be sold for a high price.[Color:0x0]
+[->]Please, stay as long as you want.
+Make Macca to your heart's content.
+[END]
+205: (Hot−headed jailer) [7a 165]You can keep whatever you earn from
+this place. Consider it the reward
+for this quest.
+[END]
+206: (Polite jailer) [7a 164]If you wish to leave this place, enter
+the [Color:0x5]entrance to the underground[Color:0x0] right
+behind you.
+[->]We shall send you back to your world.
+[END]
+207: (Hot−headed jailer) [7a 165]And if that's too much trouble, you can
+simply [Color:0x5]give up.[Color:0x0] Of course, that's not
+going to feel like completing this task.
+[END]
+301: (Polite jailer) [7a 164][13 1, 412201]Ah, so you wish to go back already?
+[END]
+302: ”Yes, please.”
+”No, I don't.”
+[END]
+303: (Polite jailer) [7a 164]Very well. Let me send you back to
+whence you came.
+[END]
+304: (Hot−headed jailer) [7a 165][13 1, 415001]If you ever want to make some quick
+cash, come back here.
+[END]
+305: (Polite jailer) [7a 164]Very well.
+We shall be waiting here.
+[END]
+306: (Hot−headed jailer) [7a 165][13 1, 415001]Hunt down those demons!
+Kill 'em all!
+[END]
+401: (Expanse inhabitant) [7a 146][13 1, 415101]Dataaaaaaaaa! Deeeeeeeeeeemons!
+Getcher demon data here!
+[->]Who wants data that'll unlock those
+pesky restrictions on demon fusions?
+[->]How about you there, big guy?
+[->]I got data here for an amazing stud of
+a demon called [Color:0x5]Beast Asterius.[Color:0x0]
+[->]I'll trade you for [Color:0x5][41 29][Color:0x0]s.
+What do you say to [Color:0x5]ten[Color:0x0] of 'em?
+[END]
+403: Hand over the [41 29]s
+”No, thank you.”
+[END]
+404: ( Expanse inhabitant) [7a 146][13 1, 415103]A pleasure doing business with you.
+Now, take it.
+[END]
+405: (Burroughs) [7a 2][13 1, 400003]Master [Flynn], I've received some
+new demon info.
+[END]
+406: (Expanse inhabitant) [7a 146][13 1, 415102]You should be able to fuse Asterius
+now.
+[->]If you want him on your team, you'd
+better start fusing some demons!
+[END]
+407: (Expanse inhabitant) [7a 146]Well, I think I'm done with this city.
+Time for this guy to move on.
+Smell ya later.
+[END]
+408: (Expanse inhabitant) [7a 146][13 1, 415100]Well, if you change your mind, I'll
+still be here.
+[END]
+409: (Expanse inhabitant) [7a 146][13 1, 415107]Hang on there, fella.
+That's not enough.
+[->]Come back when you've got ten,
+like I asked for.
+[END]
+410: 〉 There is no one here...
+[END]
+2000: 〉 The jailers send [Flynn] back
+to where he came from...
+[END]

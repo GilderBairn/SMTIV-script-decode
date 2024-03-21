@@ -1,0 +1,147 @@
+0: 〉 A horde of demons are stationed by
+the river.
+[END]
+1: 〉 One of the demons stepped out from
+the crowd.
+[END]
+2: (Demon) [7a 65296][13 0, 79001]That goddamn Peallaidh! How dare he
+drive us out of Ueno!
+[->][13 0, 79002]What I wouldn't give for his head!
+[END]
+3: (Demon) [7a 65296][13 0, 79003]Excuse me... You, the human over there.
+[->][13 0, 79004]If you bring us Peallaidh's head,
+we might be of assistance to you.
+[END]
+4: 〉 A horde of demons are stationed by
+the river.
+[END]
+5: 〉 One of the demons stepped out from
+the crowd.
+[END]
+6: (Demon) [7a 65296][13 0, 79005]We meet again.
+[END]
+7: (Demon) [7a 65296][13 0, 79006]If you bring us Peallaidh's head,
+we might be of assistance to you.
+[END]
+8: 〉 A horde of demons are stationed by
+the river.
+[END]
+9: 〉 One of the demons stepped out from
+the crowd.
+[END]
+10: (Demon) [7a 65296][13 0, 79007]Oh, that head you have... You've
+done it! You killed Peallaidh!
+[->][13 0, 79008]Thank you. Now we can go back to
+Shinobazu Pond.
+[END]
+11: (Demon) [7a 65296][13 0, 79009]...Ah, sorry, maybe you hadn't heard.
+It was that Peallaidh who drove us
+out of Shinobazu Pond.
+[END]
+12: (Demon) [7a 65296][13 0, 79010]Come now and please hand his filthy
+head over to us.
+[END]
+13: Hand it over
+Keep it to yourself
+[END]
+14: 〉 [Flynn] handed over
+Peallaidh's head.
+[END]
+15: (Isabeau) [7a 5][13 0, 79011]With pleasure... Its stench has been
+unbearable this entire time.
+[END]
+16: (Demon) [7a 65296][13 0, 79012]This is Peallaidh's head all right.
+[->][13 0, 79013]*chuckle* What a pitiful sight you are.
+Don't you agree, you bully...!?
+[END]
+17: (Demon) [7a 65296][13 0, 79014]Hey, guys! Feel free to do whatever
+you want with this.
+[END]
+18: 〉 The demon threw Peallaidh's head into
+the river.
+[END]
+19: 〉 The horde of demons swarmed to the
+head, chewing on it like hungry fish.
+[END]
+20: (Demon) [7a 65296][13 0, 79015]You've done us a genuine favor...
+Please let us return it.
+[END]
+21: 〉 [Flynn] told the demon that he
+wished to cross the river.
+[END]
+22: (Demon) [7a 65296][13 0, 79016]That won't be difficult. We'll act
+as a bridge for you.
+[->][13 0, 79017]Would you like to cross over now?
+[END]
+23: (Demon) [7a 65296][13 0, 79018]Hey guys, it's Formation B time.
+We're going with B!
+[END]
+24: 〉 The demons began to form a line,
+creating a bridge to the far shore.
+[END]
+25: (Demon) [7a 65296][13 0, 79019]We owe our lives to you. We'll gladly
+act as your bridge whenever you need.
+[END]
+26: 〉 A horde of demons are stationed by
+the river.
+[END]
+27: 〉 One of the demons stepped out from
+the crowd.
+[END]
+28: [13 0, 79020](Demon) [7a 65296]Ah, it's you. We've been waiting.
+[END]
+29: (Demon) [7a 65296][13 0, 79021]Come now and please hand his filthy
+head over to us.
+[END]
+30: 〉 A horde of demons are stationed by
+the river.
+[END]
+31: 〉 One of the demons stepped out from
+the crowd.
+[END]
+32: (Demon) [7a 65296][13 0, 79022]Ah, it's you. Would you like to
+cross the river?
+[END]
+33: (Hunter) [7a 67][13 0, 79023]Hehehe... I'll let you cross the river.
+And the Ashura−kai doesn't have to
+know...
+[->][13 0, 79024]Or at least that was the plan...
+[->][13 0, 79025]But there aren't any open boats right
+now, what with the big group of
+customers going to Ikebukuro.
+[->][13 0, 79026]Sorry about that. You'll have to go
+kill some time somewhere.
+[END]
+34: (Hunter) [7a 67][13 0, 79027]Hehehe... I'll let you cross the river.
+And the Ashura−kai doesn't have to
+know...
+[->][13 0, 79028]You want to head to Shinjuku?
+That'll cost you 500 Macca.
+[END]
+35: Cross the river
+Don't cross
+[END]
+36: (Hunter) [7a 67][13 0, 79029]Hehehe... Thanks for the business.
+[END]
+37: (Hunter) [7a 67][13 0, 79030]Then come back when you want to
+cross the river.
+[END]
+38: (Hunter) [7a 67][13 0, 79031]Hey, you don't have the money
+for that!
+[->][13 0, 79032]Go raise some Macca somewhere and
+come back.
+[END]
+122: Cross the river
+Not yet
+[END]
+129: (Demon) [7a 65296][13 0, 79033]I wouldn't think you had any use for
+it, though...
+[->](Demon) [7a 65296][13 0, 79034]We understand.
+[END]
+134: (Hunter) [7a 67][13 0, 404331]Hehehe... I'll let you cross the river.
+[->][13 0, 79028]You want to head to Shinjuku?
+That'll cost you 500 Macca.
+[END]
+900: 仮処理箇所です
+代金支払い処理は行っていません
+[END]

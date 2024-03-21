@@ -1,0 +1,24 @@
+0: (Voice) [13 0, 19001]...We meet again.
+[END]
+1: (Walter) [7a 27][13 0, 19002]You will help me this time, right?
+[END]
+2: (Walter) [7a 27][13 0, 19003]You'll change this world with me,
+won't you...?
+[END]
+3: (Voice) [13 0, 19004]...Wait right there.
+[END]
+4: (Jonathan) [7a 9][13 0, 19005]I think you should come with me.
+[END]
+5: (Jonathan) [7a 9][13 0, 19006]For the sake of preserving the world...
+[END]
+6: (Walter) [13 0, 19007]Hoy, wake up. It's morning.
+[END]
+7: (Jonathan) [7a 3][13 0, 19009]Good morning. We have a message from
+the Commander.
+[->][13 0, 19010]He's asked for all prentices to [Color:0x5]report
+to K's Tavern[Color:0x0] in Aquila Plaza.
+[->][13 0, 19011]Walter and I shall meet you there.
+[END]
+106: (Walter) [7a 4][7b 655364, 65537][13 0, 19008]Hm? What is it? You're giving me the
+strangest look...
+[END]

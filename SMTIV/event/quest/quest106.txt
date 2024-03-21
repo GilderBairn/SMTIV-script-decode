@@ -1,0 +1,15 @@
+0: Demons known as [Color:0x5][Demon name 1][Color:0x0] and [Color:0x5][Demon name 2][Color:0x0]
+have begun to appear. These may be demons, but
+they seem more experienced at fighting than
+even us Samurai. We need to take action.
+The demons have been seen on the third floor
+of Naraku. Only the brave reach true glory!
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

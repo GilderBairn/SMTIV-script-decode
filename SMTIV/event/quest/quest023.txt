@@ -1,0 +1,6 @@
+0: It appears that the Black Samurai has risen anew
+and fled to Tokyo. With our allies restored to
+their rightful place and a [Color:0x5]new millennium[Color:0x0] about
+to dawn upon this kingdom, she is little but a
+nuisance to us. [Color:0x5]Find and kill the Black Samurai.[Color:0x0]
+[END]

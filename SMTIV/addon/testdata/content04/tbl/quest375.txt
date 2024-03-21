@@ -1,0 +1,10 @@
+0: I am a wayfarer of space and time. My latest hobby is
+to hire dwarves to craft various items and give them
+to people of various timelines. For a change of pace,
+I had them put their skill at intricate metalwork to
+use in crafting a [Color:0x5]pair of glasses.[Color:0x0] If you would like
+them, deliver [Color:0x5][Item 1][Color:0x0] x[Color:0x5][Amount 1][Color:0x0] to a [Color:0x5]Hunter
+Association[Color:0x0] or [Color:0x5]K's Tavern,[Color:0x0] whichever suits you.
+[END]
+1: Download Quest 1 Second tim
+[END]

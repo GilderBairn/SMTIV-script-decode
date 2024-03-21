@@ -1,0 +1,167 @@
+0: (Shinjuku demonoid) [7a 104][13 1, 417105]Akira? Isn't he that little fish in
+Nagata−Cho? What's gotten into him?
+[->]He's got to be pulling some kind of
+cheap trick! He has to be...!
+[END]
+1: (Shinjuku demonoid) [7a 104][13 1, 417105]Akira's that little fish in Nagata−Cho,
+right? How'd he get to be the King of
+Tokyo?
+[->]He must have pulled some kind of
+cheap trick! He must've...!
+[END]
+2: (Male neurisher) [7a 107][13 1, 403441]A guy called Akira just showed up here
+and told us neurishers to take a bath
+every day...
+[->]Maybe dirty neurishers don't taste as
+good to them. But he's the only guy
+who's ever treated us like real humans...
+[->]Kind of a weird demonoid, that guy...
+[END]
+3: (Male neurisher) [7a 107][13 1, 403441]King Akira just showed up here. He said
+us neurishers had to get at least eight
+hours sleep a day.
+[->]Maybe unhealthy neurishers don't taste
+as good to them. But he's the only guy
+who's ever treated us like real humans...
+[->]Kind of a weird demonoid, that guy...
+[END]
+4: (Female neurisher) [7a 106][13 1, 403501]...Who's there? Are you my new owner...?
+Sorry... My eyesight's not so good...
+[->]I won't run... so please be nice...
+[END]
+5: (Female neurisher) [7a 106][13 1, 403501]You know, I can't see, but my ears work
+fine. So I can tell a lot about people
+by listening to their voices.
+[->]I just heard King Akira's voice. He's
+good at suppressing his real feelings...
+[->]He probably had to force himself to
+toughen up and fight after he became
+a demonoid...
+[END]
+6: (Male demonoid) [7a 146][13 1, 412007]We cleaned out all the Shinjuku folks
+in this town.
+[->]Wouldn't want to get stabbed in the
+back, right? Huh...? What do you mean,
+my ”fellow demons”?
+[->]Listen, friends. Losers get whacked.
+That's the only rule here in Tokyo,
+you get me?
+[END]
+7: (Male demonoid) [7a 146][13 1, 412003]Our Kasumigaseki crew has rubbed out
+all the old Shinjuku folks.
+[->]Wouldn't want to get stabbed in the
+back, right? Huh...? What do you mean,
+my ”fellow demons”?
+[->]Listen, friends. Losers get whacked.
+That's the only rule here in Tokyo,
+you get me?
+[END]
+8: (Female neurisher) [7a 110][13 1, 403342]Huh? You're from Kasumigaseki? You mean
+you're from Akira's sorry crew...?
+[->]I feel sorry for the neurishers stuck
+with those losers.
+[->]They probably never get a moment's rest,
+since such a tiny, weak crew can't
+possibly own many neurishers...
+[END]
+9: (Female neurisher) [7a 110][13 1, 403342]These aren't the only neurishers we've
+got, you know. There's also a few
+from Kasumigaseki.
+[->]Since we have enough to go around,
+Akira told us to take turns feeding
+the demonoids.
+[->]They gave me the odd−numbered days.
+You see? Akira's not so bad...
+[END]
+10: (Female neurisher) [7a 110][13 1, 403342]There are two types of neurishers in
+Shinjuku: The ones here from the start,
+and those from Kasumigaseki.
+[->]Since we have enough to go around,
+King Akira told us to take turns
+feeding the demonoids.
+[->]They gave me the odd−numbered days.
+King Akira's a pretty cool guy, huh?
+[END]
+11: (Female neurisher) [7a 110][13 1, 403342]There are two types of neurishers in
+Shinjuku: The ones here from the start,
+and those from Kasumigaseki.
+[->]Since we have enough to go around,
+King Akira told us to take turns
+feeding the demonoids.
+[->]They gave me the odd−numbered days.
+Heh... I wouldn't mind dating that
+King Akira, you know...
+[END]
+13: (Male neurisher) [7a 105][13 1, 403212]I know it was my own decision, but
+becoming a neurisher was such a
+terrible idea...
+[->]I feel like a cow or something... Only
+alive to feed those above me on the
+food chain...
+[->]Sometimes I wonder what life would be
+like if I'd chosen differently at
+Ichigaya that day...
+[END]
+14: (Male neurisher) [7a 105][13 1, 403212]Around the time Kenji, who'd just become
+a demonoid, defeated the demon in
+Ichigaya and became King of Tokyo...
+[->]He declared that all residents of Tokyo
+must choose to become either neurishers
+or demonoids.
+[->]Kenji's men took all the normal humans
+left in Tokyo to Ichigaya...
+[->]There, we were forced to undergo
+surgery. Of course, he let us choose
+which operation we wanted...
+[END]
+15: (Male neurisher) [7a 105][13 1, 403212]If you've seen Kenji, maybe you've
+seen this too...
+[->]You went to a lab in Camp Ichigaya,
+didn't you? In a way, that was the
+birthplace for us all...
+[->]Since there are no normal humans left
+in Tokyo, that lab will never again
+see use, I'm sure...
+[END]
+16: (Male neurisher) [7a 105][13 1, 403243]This is just a rumor... But I heard
+there was a baby born in Kasumigaseki?
+[->]So... what do you think it'll grow up
+to be? A demonoid? Or a neurisher...?
+[->]I guess we can let him decide for
+himself down the line. Maybe he'll even
+have a chance to stay normal...
+[END]
+101: (Male neurisher) [7a 107][13 1, 403441]Kenji's got Shibuya and Ikebukuro under
+his control. The only region that's not
+under his thumb now is Shinjuku...
+[->]Oh yeah, I almost forgot. Some dude
+named Akira is making a play for
+Kasumigaseki...
+[END]
+103: (Male neurisher) [7a 107][13 1, 403441]King Akira came here the other day and
+told us neurishers we should get three
+square meals a day, same as everyone.
+[->]Maybe skinny neurishers don't taste
+as good to them. But he's the only guy
+who's ever treated us like real humans...
+[->]Kind of a weird demonoid, that guy...
+[END]
+105: (Male demonoid) [7a 146][13 1, 415006]Whaaa? Our boss? He's over inside that
+Domain past the elevator...
+[->]But he's not someone Akira can see
+without an appointment. Get your ass
+out before you get yourself killed.
+[END]
+107: (Male demonoid) [7a 146][13 1, 412003]Our Kasumigaseki crew has already rubbed
+out all the old Shinjuku folks.
+[->]Wouldn't want to get stabbed in the
+back, right? Huh...? What do you mean,
+my ”fellow demons”?
+[->]Listen, friends. Losers get whacked.
+That's the only rule here in Tokyo,
+you get me?
+[END]
+203: (Female neurisher) [7a 106][13 1, 403501]...Who goes there...? Is anyone there?
+Sorry... My eyesight's not so good...
+[->]I won't run... so please be nice...
+[END]

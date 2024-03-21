@@ -1,0 +1,77 @@
+0: [71 1]Now, here comes a new trump card.
+[->][END]
+1: [71 1]This new skill...
+How will you make use of it?
+[->][END]
+2: [71 1]Ooh, this skill is surely going to
+make me a much better actress.
+[->][END]
+3: [71 1]This power... It's only going to get
+me covered in even more blood, isn't
+it...?
+[->][END]
+4: [71 1]Looks like I might have too many
+skills... Would you be a dear and
+pick one for me to toss out?
+[->][END]
+5: [71 1]Why don't I change my
+[Color:0x5][Skill 1][Color:0x0] to
+[Color:0x5][Skill 2]?[Color:0x0]
+[->][END]
+6: [71 1]Why don't I change my
+[Color:0x5][Skill 1][Color:0x0] to...
+something a little more dangerous?
+[->][END]
+7: [71 1]Ooh, such decisiveness!
+[->][END]
+8: [71 1]My, my, are you sitting on the fence?
+[->][END]
+9: [71 1]Now, here's [Color:0x5][Skill 1].[Color:0x0]
+This is one dangerous one...
+[->][END]
+10: [71 1]I'm getting excited... Looks like I'm
+about to go through ”the Change”...
+[->][END]
+11: [71 1]...Don't close your eyes, now!
+Watch close.
+[->][END]
+12: [71 1]Are you scared?
+Oh well, that's fine...
+[->][END]
+13: [71 1]Maybe a lady like this is more your
+type...?
+[->][END]
+14: [71 1]Ooh, my heart's all a−flutter.
+I think I'm about to [Color:0x5]evolve.[Color:0x0]
+[->][END]
+15: [71 1]Here, take this [Color:0x5][Item 1].[Color:0x0]
+Can you use it well?
+[->][END]
+16: [71 1]You could do with a reward...
+Here, have this [Color:0x5][Item 1].[Color:0x0]
+[->][END]
+17: [71 1]Have this [Color:0x5][Item 1].[Color:0x0]
+You never know, it might be the
+difference between life and death...
+[->][END]
+18: [71 1]Pick your poison, dearie. The poison
+that will help you survive...
+[->][END]
+19: [71 1]Is that enough for you?
+[->][END]
+20: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+Well, it's nice to meet you.
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

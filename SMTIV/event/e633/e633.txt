@@ -1,0 +1,16 @@
+0: 〉 The area has been sealed off by the
+demon's Domain.
+[END]
+1: You can exit the Domain either by
+completing or abandoning the quest.
+[END]
+2: (Burroughs) [7a 2][13 1, 502044]I've located a signal that seems to be
+a different kind of demon.
+[->]I'll display it on the navigation map.
+[END]
+3: (Demon) The poisonous wind and evil spirits
+have called upon me.
+[->]My name is Vile Pazuzu.
+[->]You, sacrifice... I hope you are able
+to entertain me.
+[END]

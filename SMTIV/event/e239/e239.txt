@@ -1,0 +1,20 @@
+0: (The White) [7a 77][13 0, 239001]Our fifth son, who chose upheaval...
+[END]
+1: (The White) [7a 218][13 0, 239002]...Your actions are abominable.
+No matter how much you struggle,
+your despair will never be healed.
+[END]
+2: (The White) [7a 218][13 0, 239003]Very well... As your forebear, I will
+teach you...
+[->][13 0, 239004]The splendor of nonexistence...
+[END]
+3: (Walter) [7a 4]”God's curse”, eh? That's merely a
+convenient turn of phrase.
+[->]They should blame their own weakness
+instead, for not being able to sever
+that curse.
+[->]Improving oneself to become better
+than others is how a real man lives.
+[END]
+103: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]

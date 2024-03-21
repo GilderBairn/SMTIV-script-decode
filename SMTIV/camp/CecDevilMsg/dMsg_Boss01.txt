@@ -1,0 +1,24 @@
+0: [71 1]You are all such dependable Samurai.
+I grow ever hardier...!
+[->][END]
+1: [71 1]You are all such dependable Samurai.
+I grow ever hardier...!
+[->][END]
+2: [71 1]You are all such dependable Samurai.
+I grow ever hardier...!
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]A gift for you, Samurai. Continue your
+training and grow stronger.
+[->][END]
+7: [71 1]A gift for you, Samurai. Continue your
+training and grow stronger.
+[->][END]
+8: [71 1]A gift for you, Samurai. Continue your
+training and grow stronger.
+[->][END]

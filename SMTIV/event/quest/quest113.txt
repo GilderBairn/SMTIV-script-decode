@@ -1,0 +1,16 @@
+0: Let's begin the standard demon−slaying contest.
+[Color:0x5][Demon name 1][Color:0x0]s have suddenly begun to
+appear on the [Color:0x5]fourth level of Naraku.[Color:0x0] Whoever
+can slay a certain number of them first will
+win the prize. Only the strongest and bravest
+will get the sweet taste of victory. Let's
+see a lot of participants this time!
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

@@ -1,0 +1,15 @@
+0: The knight in red armor is once again
+trying to summon the Gozutennou... or,
+rather, the Overlord Baal. He's been
+spotted at a [Color:0x5]building south of the Tennozu
+shelters.[Color:0x0] This is an official quest from the
+Hunter Association to slay the [Color:0x5]Red Knight.[Color:0x0]
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]s
+Bring [Amount 3] [Item 3]s
+Reard:
+[Amount 4] [Item 4]s
+[END]

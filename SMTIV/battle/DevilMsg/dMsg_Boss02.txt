@@ -1,0 +1,71 @@
+0: [71 1]My beauty will be even more radiant
+with this new skill...
+[->][END]
+1: [71 1]My beauty will be even more radiant
+with this new skill...
+[->][END]
+2: [71 1]My beauty will be even more radiant
+with this new skill...
+[->][END]
+3: [71 1]There is no end to the beauty I'll
+pursue...
+[->][END]
+4: [71 1]My, so many skills. I need to discard
+one and sort through these.
+[->][END]
+5: [71 1]I shall change my [Color:0x5][Skill 1][Color:0x0]
+to [Color:0x5][Skill 2]...[Color:0x0]
+[->][END]
+6: [71 1]I shall change my [Color:0x5][Skill 1][Color:0x0]
+into a beautiful skill...
+[->][END]
+7: [71 1]Such a beautiful, captivating change...
+[->][END]
+8: [71 1]Was it not too beautiful?
+[->][END]
+9: [71 1]Here's [Color:0x5][Skill 1].[Color:0x0]
+My, what a beautiful skill.
+[->][END]
+10: [71 1](仮)変異選択メッセージ
+[->][END]
+11: [71 1](仮)変異OKメッセージ
+[->][END]
+12: [71 1](仮)変異NGメッセージ
+[->][END]
+13: [71 1](仮)変異完了メッセージ
+[->][END]
+14: [71 1](仮)変異レベル未達メッセージ
+[->][END]
+15: [71 1]I'll give you a gift. The beautiful
+[Color:0x5][Item 1]...[Color:0x0]
+[->][END]
+16: [71 1]You fight with such beauty and grace...
+Here, have this [Color:0x5][Item 1].[Color:0x0]
+[->][END]
+17: [71 1]Use this [Color:0x5][Item 1][Color:0x0] to bring
+out your beauty even further.
+[->][END]
+18: [71 1]Take this devilish beauty, and no
+human will be able endure it...
+[->][END]
+19: [71 1]Were you satisfied with my gift of
+devilish beauty?
+[->][END]
+20: [71 1]Who has been lured by my unforgettable
+beauty and wishes to be turned to stone?
+[->]I am [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0] And you are
+another one for my collection, I see...
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

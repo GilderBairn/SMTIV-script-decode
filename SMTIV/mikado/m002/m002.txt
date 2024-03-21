@@ -1,0 +1,13 @@
+0: Test
+[END]
+4: Yes
+No
+[END]
+6: Rest
+[END]
+7: (Burroughs) [7a 2][13 1, 400005]Are you going to the public execution,
+Master [Flynn]?
+[END]
+8: Attend the execution
+Don't attend
+[END]

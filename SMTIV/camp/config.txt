@@ -1,0 +1,11 @@
+0: The game will be set to the selected
+difficulty. Is this all right?
+[END]
+1: Yes
+No
+[END]
+2: Please select a difficulty level.
+[END]
+3: The volume will be set to this level.
+Is this all right?
+[END]

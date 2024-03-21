@@ -1,0 +1,22 @@
+0: (Voice) [7a 1][13 0, 40001]Hoy... Hsst.
+[END]
+1: (Walter) [7a 4][13 0, 40002]You'll not want to miss this. Isabeau's
+up to something on the rooftop.
+[->][13 0, 40003]We're going to go see. Up, damn you!
+[END]
+2: (Jonathan) [7a 3][7b 524291, 65537][13 0, 40004]You disturbed our precious slumber
+over this...?
+[->][13 0, 40005]It's dreadfully impolite to intrude
+on a girl's private moments, you know.
+[END]
+3: (Walter) [7a 4][7b 524292, 65537][13 0, 40006]So you say, and yet here you are...
+[END]
+4: (Jonathan) [7a 3][7b 589827, 65537][13 0, 40007]Well that's... Um... It's...
+[END]
+5: (Walter) [7a 4][7b 262148, 65537][13 0, 40008]Yes, yes. Let's go before Isabeau
+decides to shut herself back up in
+her room, shall we?
+[END]
+6: 〉 [Flynn] headed to the rooftop
+as Walter urged him to hurry.
+[END]

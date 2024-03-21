@@ -1,0 +1,167 @@
+0: (Master Samurai) [7a 116][13 0, 133001]Y−You came...! I... I expected no less
+of my brave fellows!
+[END]
+1: (Tayama) [7a 17][13 0, 133002]Ahh, welcome. It's an honor to meet
+you in person.
+[END]
+2: (Tayama) [7a 17][7b 65553, 65537][13 0, 133003]I was extremely impressed by your work
+with Koga Saburo. You're certainly
+some fearsome customers.
+[END]
+3: (Jonathan) [7a 3][7b 131075, 65537][7b 655365, 131073][13 0, 133004]You are Tayama, correct? We demand
+the release of our fellow Samurai.
+[END]
+4: (Glaring man) [7a 47][13 0, 133005]Hey, that's MISTER Tayama to you!
+[END]
+5: (Unfriendly man) [7a 46][13 0, 133006]Watch your mouth, punk. You want I
+should sell your girl to the
+whorehouse!?
+[END]
+6: (Tayama) [7a 17][7b 262161, 65537][13 0, 133007]...Please excuse my men. They can be a
+bit hot−blooded. If they lose their
+heads, even I can't rein them in.
+[END]
+7: (Isabeau) [7a 5][7b 131077, 65537][7b 196612, 65537][13 0, 133008]We do not intend to dally here long.
+Release our fellow and we will go.
+[END]
+8: (Tayama) [7a 17][7b 65553, 65537][13 0, 133009]Sure, that can be arranged. But first,
+you'll need to do me one more favor.
+[END]
+9: (Jonathan) [7a 3][7b 131075, 65537][13 0, 133010]What!?
+[END]
+10: (Tayama) [7a 17][7b 131089, 65537][13 0, 133011]Yeah... I've been hearing you were
+marching through my Tokyo like you
+own the joint.
+[->][13 0, 133012]And you busted up a bunch of my boys
+in the process.
+[END]
+11: (Tayama) [7a 17][7b 262161, 65537][13 0, 133013]But we'll call it even with this...
+[END]
+12: (Glaring man) [7a 47][13 0, 133014]...Hrngh.
+[END]
+13: (Master Samurai) [7a 116][13 0, 133015]Ouch... Wait... My arm...! Stop it!
+[END]
+14: (Jonathan) [7a 3][7b 131075, 65537][7b 655365, 131073][13 0, 133016]They were the aggressors in this
+instance... What utter villains!
+[END]
+15: (Walter) [7a 4][7b 196612, 65537][13 0, 133017]That master's to blame for allowing
+himself to be captured. Yet it falls
+to we prentices to make amends...
+[END]
+16: (Tayama) [7a 17][13 0, 0]Error
+[END]
+17: (Isabeau) [7a 5][7b 655365, 65537][13 0, 133018]...What say you, [Flynn]? Are we to
+stoop to favors for the likes of him?
+[END]
+18: Accept the mission
+Refuse
+[END]
+19: (Tayama) [7a 17][13 0, 133022]Then it's a done deal.
+[END]
+20: (Tayama) [7a 17][13 0, 133019]I see. That's too bad... Well, come
+back if ya change your mind.
+[->][13 0, 133020]We'll be waiting right here with
+your buddy.
+[END]
+21: (Master Samurai) [7a 116][13 0, 133021]Y−You're kidding, right? You're
+leaving...!? Hoy! Hoy...!
+[END]
+22: (Tayama) [7a 17][13 0, 133056]Oh? Changed your mind about taking
+the job, have you?
+[END]
+23: (Tayama) [7a 17][7b 65553, 65537][13 0, 133023]I want ya to do a little charity work
+on behalf of the people of Tokyo.
+[->][13 0, 133024]...Kill Yuriko, from the Ring of Gaea.
+[END]
+24: (Walter) [7a 4][7b 196612, 65537][7b 655365, 131073][13 0, 133025]The Ring of Gaea... That's Kaga's...
+[END]
+25: (Tayama) [7a 17][7b 65553, 65537][13 0, 133026]Oh, you know them? Great, saves me the
+trouble of explaining. Yuriko's in
+charge of the Ring of Gaea.
+[END]
+26: (Tayama) [7a 17][7b 65553, 65537][13 0, 133027]Yuriko's trying to steal our generator
+so she can hog all the electricity to
+herself.
+[END]
+27: (Walter) [7a 4][7b 655364, 65537][13 0, 133029]Generator...?
+[END]
+28: (Tayama) [7a 17][7b 65553, 65537][13 0, 133030]The Yamato Perpetual Reactor.
+[->][13 0, 133031]It generates all the electricity
+in Tokyo.
+[END]
+29: 〉 The unfriendly man switched on a
+monitor behind him.
+[->]〉 The monitor showed a large group of
+children...
+[END]
+30: (Smiling boy) [13 0, 133033]I'm going to study hard and make
+Tokyo great!
+[END]
+31: (Smiling girl) [13 0, 133034]There are so many books and movies
+here... It's like a wonderland...
+[END]
+32: (Isabeau) [7a 5][7b 458757, 65537][7b 196612, 65537][13 0, 133035]You take even innocent children as
+hostages...?
+[END]
+33: (Tayama) [7a 17][7b 262161, 65537][13 0, 133036]Whoa, whoa, hold on there.
+[END]
+34: (Tayama) [7a 17][7b 65553, 65537][13 0, 133038]You've seen how Tokyo is, right? The
+way things are goin', humans will
+kill themselves off.
+[->][13 0, 133039]That's why I've stepped up as
+leader, to build a utopia.
+[END]
+35: (Jonathan) [7a 3][7b 786435, 65537][7b 655365, 131073][13 0, 133040]A utopia?
+[END]
+36: (Tayama) [7a 17][7b 262161, 65537][13 0, 133041]But if the electricity goes, Tokyo's
+future goes with it.
+[END]
+37: (Walter) [7a 4][7b 65540, 131073][7b 655365, 131073][13 0, 133042]...I'm sorry for that, but we have
+our own pressing concerns. There's no
+time to aid in your ”utopia” project.
+[END]
+38: (Tayama) [7a 17][7b 262161, 65537][13 0, 133043]Yeah, I heard from this guy here
+that you're looking for the Black
+Samurai?
+[->][13 0, 133044]Then that's another good reason to
+check out the Ring of Gaea.
+[END]
+39: (Walter) [7a 4][7b 196612, 65537][13 0, 133045]What do you mean by that?
+[END]
+40: (Tayama) [7a 17][7b 131089, 65537][13 0, 133046]The Black Samurai's a woman who
+uses demons, right?
+[END]
+41: (Tayama) [7a 17][7b 131089, 65537][13 0, 133047]So if she ain't one of us, and she
+ain't one of you...
+[END]
+42: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+43: (Isabeau) [7a 5][7b 196613, 65537][7b 786435, 65537][13 0, 133050]Do you think it safe for us to trust
+the Ashura−kai?
+[END]
+44: (Jonathan) [7a 3][7b 786435, 65537][13 0, 133051]I can see no other way so long as
+they hold their hostage.
+[END]
+45: (Walter) [7a 4][7b 786436, 65537][13 0, 133052]I must confess, I'm intrigued by this
+Ring of Gaea. Investigating them
+suits me perfectly.
+[END]
+46: (Tayama) [7a 17][7b 65553, 65537][13 0, 133053]The Ring of Gaea's strict about who
+they let into their headquarters.
+[->][13 0, 133054]You should pose as new applicants.
+[END]
+47: (Tayama) [7a 17][7b 262161, 65537][13 0, 133055]And say hi to Yuriko for me...
+[END]
+48: (Burroughs) [7a 2][13 0, 400051]Congratulations on completing the quest.
+[END]
+126: (Tayama) [7a 17][7b 262161, 65537][13 0, 133028]What a bitch, am I right?
+[END]
+128: (Tayama) [7a 17][7b 262161, 65537][13 0, 133032]Hey, show 'em the video.
+[END]
+133: (Tayama) [7a 17][7b 262161, 65537][13 0, 133037]We're raising these kids, the future
+of Tokyo, right here in this building.
+[END]
+141: (Tayama) [7a 17][7b 262161, 65537][13 0, 133048]The Ring of Gaea seems like a pretty
+good suspect, huh?
+[END]

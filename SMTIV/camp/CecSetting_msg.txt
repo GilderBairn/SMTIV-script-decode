@@ -1,0 +1,85 @@
+0: Activate Shin Megami Tensei IV's StreetPass
+feature on this Nintendo 3DS system?
+[END]
+1: In order to activate StreetPass, you must
+agree to the most recently updated
+User Agreement.
+[->]Select [Color:0x5]Internet Setting[Color:0x0] −〉 [Color:0x5]Other
+Information[Color:0x0] −〉 [Color:0x5]User Agreement[Color:0x0] and agree
+to the newest User Agreement.
+[END]
+2: StreetPass cannot be activated
+for any more software titles on
+this Nintendo 3DS system.
+[->]StreetPass must be deactivated
+for some other title from
+[Color:0x5]StreetPass Management[Color:0x0] in the
+Nintendo 3DS [Color:0x5]System Settings.[Color:0x0]
+[END]
+3: The [Color:0x5]StreetPass feature[Color:0x0] in this game
+cannot be used, since StreetPass is
+restricted in Parental Controls.
+[END]
+4: StreetPass communication test.
+What will you do?
+[END]
+8: StreetPass for Shin Megami Tensei IV
+has been activated on this Nintendo 3DS
+system.
+[END]
+10: An unexpected error occurred. Please try
+enabling StreetPass once more.
+[END]
+11: StreetPass for Shin Megami Tensei IV
+is already activated.
+[END]
+12: Create a card to send to other users
+through StreetPass.
+[END]
+13: StreetPass for Shin Megami Tensei IV
+is not activated.
+[END]
+14: StreetPass for Shin Megami Tensei IV
+has been deactivated on this Nintendo 3DS
+system.
+[END]
+15: StreetPass for Shin Megami Tensei IV
+has been activated.
+[END]
+100: Activate StreetPass
+Deactivate StreetPass
+[END]
+101: StreetPass will [Color:0x5]happen automatically
+even when not playing the game.[Color:0x0]
+[->]To deactivate StreetPass for this game,
+select [Color:0x5]ON/OFF[Color:0x0] on the menu, and then
+select [Color:0x5]Deactivate StreetPass.[Color:0x0]
+[->]You can also select [Color:0x5]System Settings[Color:0x0] on
+the Nintendo 3DS HOME Menu and deactivate
+it through [Color:0x5]StreetPass Management[Color:0x0] in
+the [Color:0x5]Data Management[Color:0x0] settings.
+[END]
+102: Deactivating StreetPass for Shin Megami
+Tensei IV. Are you sure?
+[END]
+103: Yes
+No
+[END]
+104: StreetPass has not been activated with the
+save data currently in use.
+[END]
+105: Either the Shin Megami Tensei IV
+StreetPass is registered on another save,
+or the game was ended after activating it
+without saving the game.
+[->]Shin Megami Tensei IV's StreetPass has
+already been activated on this Nintendo 3DS
+system.
+[->]To use StreetPass with this save data,
+select [Color:0x5]ON/OFF[Color:0x0] from the menu and then
+select [Color:0x5]Activate StreetPass.[Color:0x0]
+[->]To deactivate StreetPass for this game, select
+[Color:0x5]System Settings[Color:0x0] from the HOME Menu. Once
+there, select [Color:0x5]Data Management[Color:0x0] and deactivate
+it with the [Color:0x5]StreetPass Management[Color:0x0] option.
+[END]

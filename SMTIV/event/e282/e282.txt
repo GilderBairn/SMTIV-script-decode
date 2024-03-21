@@ -1,0 +1,18 @@
+0: (Girl) [7a 15][13 0, 282001]Everyone came back.
+[->][13 0, 282002]I'm so happy...
+[END]
+1: (Woman) [7a 16][13 0, 282003][Flynn]...
+[->][13 0, 282004]I am revived.
+[->][13 0, 282005]It is all due to your efforts in
+granting hope to everyone.
+[END]
+2: (Woman) [7a 16][13 0, 282007]See... It begins...
+[END]
+3: (Woman's voice) [13 0, 282008]Thank you.
+[END]
+100: カットアニメが入り
+エンディングです
+[END]
+101: (Woman) [7a 16][13 0, 282006]Tokyo will be restored to its former
+splendor.
+[END]

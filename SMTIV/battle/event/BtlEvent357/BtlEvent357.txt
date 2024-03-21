@@ -1,0 +1,44 @@
+0: (Burroughs) [7a 2][13 1, 400062]Scanning... Target: ICBM.
+[END]
+1: (Burroughs) [7a 2]Scan complete. T minus [Color:0x5]ten turns[Color:0x0] until
+the missile hits.
+[->][13 1, 306010]Master [Flynn]...
+[->]Protect Tokyo...
+[END]
+2: [13 1, 498003]〉 Masakado took a fighting stance...
+[END]
+11: 〉 The atmosphere around Masakado
+changed...
+[END]
+12: (Masakado) [13 1, 498000]...I was witness to a nightmare.
+[->]In this dream, I lost control of the
+good and evil within me, and I was at
+their mercy.
+[->]So... you have awakened me.
+[END]
+13: 〉 Masakado regained his true self.
+[END]
+14: (Masakado) The hopes inside of you were engraved
+within me, acting as my ego.
+[->]With this ego... I shall protect Tokyo,
+along with your hopes.
+[END]
+21: 〉 The ICBM reached Tokyo.
+[->]〉 Tokyo was engulfed in an intense
+light...
+[END]
+1006: (Burroughs) [7a 2][13 1, 400004]Master [Flynn], you've got five
+turns until the missile gets here.
+[->]You're at the halfway point. Be careful.
+[END]
+1008: (Burroughs) [7a 2][13 1, 400002][Color:0x5]Three turns[Color:0x0] now until the missile hits.
+[->]...You should hurry.
+[END]
+1009: (Burroughs) [7a 2][13 1, 400003][Color:0x5]Two turns[Color:0x0] left until the missile
+gets here.
+[->]Don't give up! You still have time.
+[END]
+1010: (Burroughs) [7a 2][13 1, 306010][Color:0x5]One turn[Color:0x0] before the missile arrives.
+[->]This turn's your last chance. I know
+you can do it...
+[END]

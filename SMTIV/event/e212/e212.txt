@@ -1,0 +1,67 @@
+0: (Demon) [7a 64994]Whoa there, hold up.
+[->]Open up those wallets. If you're going
+in, you need to pay the toll... Hm?
+[END]
+1: (Demon) [7a 64994][13 0, 212001]Yo, Akira! Funny seeing you here.
+[END]
+2: (Akira) [7a 85][13 0, 212002]Oh, hey there. It must be hard work,
+standing guarding here.
+[END]
+3: (Demon) [7a 64994][13 0, 212003]You brought some friends to go
+shopping? Guess scavenging trash
+is more profitable than I thought.
+[END]
+4: (Walter) [7a 4][13 0, 212004]Scavenging trash...?
+[END]
+5: (Akira) [7a 85][13 0, 212007]We need to pay if we want to pass...
+[END]
+6: (Akira) [7a 85][13 0, 212010]Shhhh...!
+[END]
+7: (Demon) [7a 64994][13 0, 212011]I heard that, Akira. Your neurishers
+are pretty ballsy, eh?
+[END]
+8: (Akira) [7a 85][13 0, 212012]So much for my great plan...
+F−Fine, whatever!
+[END]
+9: 〉 Akira threatened the demon from behind
+the Samurai...
+[END]
+10: (Jonathan) [7a 3][13 0, 212014]Ah... Akira?
+[END]
+11: (Demon) [7a 64994][13 0, 212017]Pretty bold for you, Akira...
+[END]
+12: (Demon) [7a 64994][13 0, 212018]Guess your neurishers haven't been
+disciplined right, so I'll teach 'em
+how things work here.
+[END]
+13: (Akira) [7a 85][13 0, 212019]You shouldn't have stood up against
+the future king. Learn your place!
+[END]
+14: (Jonathan) [7a 3][13 0, 212020]How full of braggadocio he is...
+[END]
+15: (Akira) [7a 85][13 0, 212021]Wow, you guys are good. Though I'd
+expect nothing less from my Intruders.
+[->][13 0, 212022]Now, let's just get rid of the leader
+here the same way, okay? Heheh...
+[END]
+104: (Demon) [7a 64994][13 0, 212005]You know the routine. Oh, and today,
+pass it to me in your teeth.
+[END]
+105: (Walter) [7a 4][13 0, 212008]What? You're here as a conqueror of
+the city! Why allow THEM to condescend
+you?
+[->][13 0, 212009]Show some backbone and tell them
+straight, ”I'm here to take Shinjuku.”
+[END]
+108: 〉 Akira quickly took shelter behind the
+young Samurai.
+[END]
+110: (Akira) [7a 85][13 0, 212015]You got a surprise comin'!
+[->][13 0, 212016]They'll show you!
+[END]
+204: (Walter) [7a 4][13 0, 212006]Hoy, Akira, what the devil is this
+thing talking about?
+[END]
+208: (Akira) [7a 85][13 0, 212013]Hey! Y−You! Who do you think you're
+talking to!?
+[END]

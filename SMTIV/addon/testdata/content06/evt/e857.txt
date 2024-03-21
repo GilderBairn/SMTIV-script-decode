@@ -1,0 +1,249 @@
+0: Test
+[END]
+201: 〉 [Flynn] arrives in the bygone days
+of the Eastern Kingdom of Mikado...
+[END]
+202: (Suspicious voice) [7a 1]...I was expecting your arrival.
+[END]
+203: (Hooded man) [7a 31]Welcome to our era... This is the
+Eastern Kingdom of Mikado, many
+years before your time.
+[->]You may call me ”M.” I was the one
+who asked for your help.
+[END]
+204: (M) [7a 31]My sole purpose in life is to
+faithfully serve the Lord's will,
+and to make His visions a reality.
+[END]
+205: (M) [7a 31]...That is why I must ask you to
+defeat [Color:0x5]Gabriel[Color:0x0] and [Color:0x5]Michael.[Color:0x0]
+[END]
+206: (M) [7a 31]You see... They have forsaken the
+will of the Lord.
+[->]The Angels were originally meant to
+aid in the establishment of the Eastern
+Kingdom of Mikado, and then observe.
+[->]Humans were supposed to be left to
+their own devices in this land...
+That was the Lord's will.
+[->]However, the Four Archangels have
+turned their backs on the Lord's will,
+and are meddling in human affairs.
+[->]Under the auspices of disposing of
+the demons in Tokyo, they seek to
+wipe out the humans living there, too.
+[END]
+207: (M) [7a 31]They have gone too far... I am sure
+that the Lord must be deeply saddened
+by these events.
+[->]That is why I, with the help of the
+now−late Aquila, have been working
+on a certain plan...
+[->]...One that will help us truly become
+one with the Lord's will.
+[END]
+208: (M) [7a 31]Gabriel and Michael are currently
+in the holy land of Shene Duque.
+[->]I'm afraid they are up to no good.
+[->]We must rid ourselves of these rats
+who have made their nests in the
+holy land.
+[->]Are you ready for this task?
+[END]
+209: ”I am prepared.”
+”Not now.”
+[END]
+210: (M) [7a 31][13 1, 446004]Very good. Let us proceed, then.
+[END]
+211: 〉 [Flynn] and M arrive at
+Shene Duque...
+[END]
+212: (M) [7a 31]Observe this enormous cocoon. That is
+the holy vessel... A place humans are
+forbidden to enter.
+[END]
+213: 〉 [Flynn] follows M into the
+giant cocoon...
+[END]
+214: (Elegant voice) [7a 1]...I was expecting thee.
+[END]
+215: 〉 A freezing chill begins to spread
+in the air nearby...
+[END]
+216: (Gabriel) [7a 65523]...Nothing more need be said.
+[->]Thou hast come for us, as another
+messenger of that crow, yes?
+[END]
+217: (Gabriel) [7a 88]How lamentable.
+[->]The human falls so easily to the
+temptations of the demons, just as
+Aquila did.
+[END]
+218: (Gabriel) [7a 88]I, Gabriel, shall purify thy heart of
+the Filth that gnaweth at it..
+[END]
+219: (M) [7a 31]Ah, is that so...? Very well, I shall
+return you to your original era.
+[END]
+252: (M) [7a 31]I, however, do have the authority
+to go inside.
+[->]...Come, let us go.
+[END]
+301: (Michael) [7a 89]I, Michael, leader of the Four
+Archangels, shall be thine opponent
+now.
+[END]
+302: (Michael) [7a 89]Thou shalt be shown the very image
+of Hell...
+[->]...The same that was seen by the
+demons as they fell from grace.
+[END]
+401: (Gabriel) [7a 88]Impossible...
+Even our leader, Michael...
+[END]
+402: 〉 Will you kill Gabriel?
+[END]
+403: Yes
+No
+[END]
+404: 〉 [Flynn] draws his sword and
+approaches Gabriel...
+[END]
+405: (M) [7a 31]A moment, if you will.
+Please, sheathe your sword...
+[->]I have an idea.
+[END]
+406: (M) [7a 31]Ha ha... Great minds do think alike.
+I was thinking something similar.
+[END]
+407: (M) [7a 31]...Let us let this rat go free.
+[->]There is no cause for alarm here.
+One rat can do no harm on its own.
+[END]
+408: (Gabriel) [7a 88]Curses...
+[->]...You will pay for this. I will see
+to it, no matter how long it takes.
+[->]We will meet again, [Flynn]...
+[END]
+409: 〉 Gabriel flies away...
+[END]
+410: Unused
+[END]
+411: (M) [7a 31][13 1, 446010]Oh glory, glory hallelujah...
+Ah, how marvelous.
+[->]Both Gabriel and Michael have fallen.
+[->]...Well, we did allow one of the rats
+to escape.
+[->]It would seem that my choice of allies
+was no mistake. This was truly the
+will of the Lord.
+[END]
+412: (M) [7a 31]Now then, what should I do with you,
+Michael?
+[END]
+413: (M) [7a 31][13 1, 446000]Ah ha, yes, I know...
+I will make you into ”nobody”...
+[->]Yes, that will be perfect...!
+[END]
+414: (M) [7a 31]I will send you back to your original
+era.
+[->]...I may ask for your help another
+time.
+[END]
+500: 〉 M has brought [Flynn] to a
+strange place...
+[->]〉 A naked man with a mask over his
+head is sitting next to M.
+[END]
+501: 〉 M's power has brought [Flynn] to a
+strange place...
+[->]〉 A naked man with a mask over his
+head is sitting next to M.
+[END]
+502: (M) [7a 31][13 1, 446000]Ha ha...
+Do you know who this is?
+[->]This is what has become of the
+Archangels you have defeated.
+[END]
+503: (Masked Man) [7a 28][13 1, 402701]Please, remove this mask... I cannot
+even remember who I am anymore...
+[END]
+504: (M) [7a 31]You have no need to remember.
+You are nobody now.
+[->]Into your cage!
+[END]
+505: 〉 The masked man is locked away within
+the bird cage...
+[END]
+506: (M) [7a 31]...Finally, Kagome's Seal has been
+completed.
+[->]My promise to Aquila can finally be
+fulfilled...
+[END]
+507: 〉 M tears away his robe...
+[END]
+508: (Mastema) [7a 65520]I am the Herald Mastema.
+I thank you for your help.
+[->]...Accept this gift from me.
+It is a sign of my gratitude.
+[END]
+509: 〉 Mastema holds his hand over
+[Flynn]'s Gauntlet...
+[END]
+510: (Burroughs) [7a 2][13 1, 400003]Master [Flynn],
+I have received new demon info.
+[END]
+511: (Mastema) [7a 65520]This is [Color:0x5]Tyrant Aeshma...[Color:0x0]
+He was a keepsake of Aquila's.
+From now on, let him be yours.
+[END]
+512: 〉 The restriction on fusing
+[Color:0x5]Tyrant Aeshma[Color:0x0] has been lifted.
+[END]
+513: (Mastema) [7a 65520]I will send you back to your original
+era.
+[->]I shall now rebuild Tokyo into a
+world that follows the Lord's will.
+[->]The world where the Unclean Ones−−no,
+humans−−rule.
+[->]I look forward to the day we meet
+again.
+[END]
+1001: (M) [7a 31]It pleases me to be able to meet
+you again.
+[->]...If you don't mind, I'd like to
+get straight to business.
+[END]
+1002: (M) [7a 31]It pleases me to be able to meet
+you again.
+[->]Would you like to hear the details of
+my request once more?
+[END]
+1003: ”Yes.”
+”No.”
+[END]
+1004: (M) [7a 31]Very well, then...
+[END]
+1005: (M) [7a 31]Then let us get straight to business...
+[END]
+1401: (M) [7a 31]We have brought down all four of the
+Archangels.
+[->]I am sure Gabriel has fled to the
+Lord's side to desperately plead for
+forgiveness.
+[END]
+1402: (M) [7a 31]Now, let us deal with the aftermath.
+[->]If you would accompany me to Tokyo...
+[END]
+2000: 〉 M's powers return [Flynn] to
+his original era...
+[END]
+2001: 〉 Mastema's powers return [Flynn]
+to his original era...
+[END]
+2100: 〉 Which part of this quest would you
+like to start at?
+[END]
+2101: The very beginning
+The battle with Gabriel
+[END]

@@ -1,0 +1,26 @@
+0: The reason that despair has been with you for
+generations is because your creator is an
+incompetent. But you seem capable enough, so
+I will lend a hand to you. [Color:0x5]Kill the four
+White[Color:0x0] who are lurking somewhere within this
+forest.
+[END]
+1: Dummy
+[END]
+2: To sink into despair is to admit your
+powerlessness. But you would never do that,
+yes? Well done in killing one of the White.
+Only [Color:0x5]three[Color:0x0] are left in this forest now.
+Keep showing me your strength...
+[END]
+3: Don't be taken in by the words of these
+”predecessors.” You must stride boldly down
+your own path. Well done in killing one of
+the White. Only [Color:0x5]two[Color:0x0] are left in this forest
+now. Keep showing me your strength...
+[END]
+4: Hearing those who repress their own will preach
+to humans is laughable indeed. Well done in killing
+one of the White. Only [Color:0x5]one[Color:0x0] is left in this forest
+now. You are almost at your goal.
+[END]

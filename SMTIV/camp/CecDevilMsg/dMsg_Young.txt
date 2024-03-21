@@ -1,0 +1,31 @@
+0: [71 1]Man...
+Looks like I made another legend.
+[->][END]
+1: [71 1]I couldn't just go along for the ride!
+I went all−out on those muthas!
+[->][END]
+2: [71 1]Where are we off to next? If this
+keeps up, I'm gonna destroy the
+entire world!
+[->][END]
+3: [71 1]Hey. Hey, you. Hey. Hey. Hey.
+You. Hey. Look. Hey you, look.
+Hey. Look. ...I'm cool now.
+[->][END]
+4: [71 1]Ta−daaaaaah! See, I don't need you
+to get fused! Whatcha think?
+[->][END]
+5: [71 1]Shit, check me out! I'm all like,
+”Bam!” and stuff! I love fusing!
+[->][END]
+6: [71 1]I stole something from that other
+guy while I was over there. Quick,
+you take it.
+[->][END]
+7: [71 1]Here's something for you. I used
+this a lot while I was over there,
+too.
+[->][END]
+8: [71 1]I didn't know what to bring back for
+you. How's this?
+[->][END]

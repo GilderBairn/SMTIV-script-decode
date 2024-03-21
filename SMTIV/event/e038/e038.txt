@@ -1,0 +1,100 @@
+0: (Issachar) [7a 7][13 0, 38001]Ah... [Flynn]...!
+[END]
+1: (Jonathan) [7a 3][13 0, 38002]Is this a friend of yours, [Flynn]?
+[END]
+2: ”Yes, it is.”
+”I don't know this man.”
+[END]
+3: (Issachar) [7a 7][7b 196615, 65537][13 0, 38003]I didn't recognize you there at first.
+[->][13 0, 38004]Which is natural, since you're in
+Samurai garb now...
+[END]
+4: (Issachar) [7a 7][7b 131079, 65537][13 0, 38005]What's this now!? Do you not remember
+your lifelong friend, Issachar!?
+[->][7b 196615, 65537][13 0, 38006]I'm aware that you're a Samurai now,
+but that's no excuse...
+[END]
+5: (Walter) [7a 4][13 0, 38007]Well, this is a happy coincidence.
+Why don't you join us for breakfast?
+[END]
+6: (Issachar) [7a 7][7b 196615, 65537][13 0, 38008]...Sorry, but I'll have to decline.
+I can't leave the fields alone forever.
+[END]
+7: (Issachar) [7a 7][7b 65543, 65537][13 0, 38009]More than that, though, I got an
+intriguing gift to bring home. I want
+to hurry and show it to everyone.
+[END]
+8: (Jonathan) [7a 3][13 0, 38010]And where is home for you?
+[END]
+9: (Issachar) [7a 7][13 0, 38011]Kiccigiorgi.
+[END]
+10: (Walter) [7a 4][13 0, 38012]That's quite a long journey.
+[END]
+11: (Issachar) [7a 7][13 0, 38013]Less than you think. If I keep walking
+without a rest, I should reach my
+destination before night falls.
+[->][13 0, 38014]I'd trained myself to be a Samurai,
+after all. I'm confident these legs
+can make the trip.
+[END]
+12: (Issachar) [7a 7][7b 196615, 65537][13 0, 38015]Well then... I'll be going home.
+[->][13 0, 38016]From one Kiccigiorgi boy to another...
+I'll be praying that your endeavors
+are successful, [Flynn].
+[END]
+13: (Walter) [7a 4][7b 262148, 65537][13 0, 38017]Finally... it's time for our
+breakfast. One loaf per person,
+understood...?
+[END]
+14: (Jonathan) [7a 3][7b 458755, 131073][13 0, 38018]Ah, drat. We should have bought
+beverages as well.
+[END]
+15: (Walter) [7a 4][7b 655364, 65537][13 0, 38019]The Lake Mikado water isn't good
+enough for you?
+[END]
+16: [7b 262148, 65537][7b 262147, 65537]〉 [Flynn] and friends enjoyed their
+late breakfast.
+[END]
+17: (Walter) [7a 4][7b 65540, 65537][7b 65539, 65537][13 0, 38020]I keep thinking about what that baker
+was keen on telling us about...
+[END]
+18: (Walter) [7a 4][7b 524292, 65537][13 0, 38021]”Literature”, was it? I don't see
+how someone could be so troubled by
+reading books.
+[END]
+19: (Jonathan) [7a 3][7b 65539, 65537][7b 655364, 65537][13 0, 38022]All the books I know are legends of
+Mikado's founding, heroic tales of
+Aquila, and fairy−stories.
+[->][13 0, 38023]I never thought there could be books
+such as this ”Literature.”
+[END]
+20: (Jonathan) [7a 3][7b 655363, 65537][13 0, 38024]But what troubles me is his mention
+of this Black Samurai...
+[->][13 0, 38025]Who could it be? And where might they
+have found this Literature?
+[END]
+21: (Walter) [7a 4][7b 786436, 65537][13 0, 38026]Who can say? It's none of our concern,
+certainly. We have dedicated ourselves
+to eliminating demons, nothing more.
+[END]
+22: (Walter) [7a 4][7b 65540, 65537][7b 65539, 65537]Error
+[END]
+23: (Walter) [7a 4][7b 786436, 65537][13 0, 38027]So, tell me... How are you two going
+to spend the rest of your holiday?
+[END]
+24: (Jonathan) [7a 3][7b 65539, 65537][13 0, 38029]I thought I might spend the day
+walking around the city.
+[END]
+25: (Walter) [7a 4][7b 786436, 65537][13 0, 38030]In that case, here is where we part
+ways. I'll see you two tomorrow.
+[END]
+26: 〉 You take your leave of Jonathan and
+Walter to go about your business alone.
+[END]
+112: 〉 Issachar left wearily...
+[END]
+115: (Burroughs) [7a 2][13 0, 400051]Congratulations on completing the quest.
+[END]
+123: (Walter) [7a 4][7b 393220, 65537][13 0, 38028]We don't get them often, so I relish
+the chance to nap here.
+[END]

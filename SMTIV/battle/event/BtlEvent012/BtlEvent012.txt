@@ -1,0 +1,131 @@
+0: (Earthy man) [7a 59][13 0, 301201]Looks like you're all puffed up just
+'cause you can handle yourself in
+a fight.
+[->][13 0, 301202]I think brats like you need to be
+taught their place with this horde
+of Tengu!
+[END]
+1: (Guard−like man) [7a 60][13 0, 301203]Look at you, all puffed up because
+you can handle a fight.
+[->][13 0, 301204]Rotten kids like you need to be taught
+their place with this horde of Tengu!
+[END]
+2: (Host−like man) [7a 120][13 0, 301205]You seem a little full of yourself
+just because you know your way around
+a sword.
+[->][13 0, 301206]Kiddos like you need this horde of
+Tengu to teach them their place.
+[END]
+3: (Sloppy man) [7a 63][13 0, 301207]You seem pretty cocky just 'cause you
+know a thing or two about fighting.
+[->][13 0, 301208]Seems to me you need to learn your
+place, and I have just the horde of
+Tengu to teach you.
+[END]
+4: (Heavily made−up girl) [7a 123][13 0, 301209]I get the feeling that like, you think
+you're all that just because you can
+swing a sword?
+[->][13 0, 301210]Don't guys like you need a lesson and
+stuff? Like, maybe this horde of Tengu
+will teach you your place?
+[END]
+5: (Anachronistic man) [7a 29][13 0, 301211]Thou taketh unseemly pride in thine
+ability to wield a blade.
+[->][13 0, 301212]Your like must learneth thy place
+with mine horde of Tengu!
+[END]
+6: (Businesslike man) [7a 47][13 0, 301213]It seems you have a high opinion of
+your own abilities merely because you
+are somewhat skilled in combat.
+[->][13 0, 301214]I think this horde of Tengu will do
+nicely in puncturing that arrogance.
+[END]
+7: (Intuitive man) [7a 118][13 0, 301215]Hey, kid! You seem pretty sure of
+yourself just because you got some
+skill with a sword!
+[->][13 0, 301216]I think you need to be taken down a
+peg or two with this Tengu horde!
+[END]
+8: (Earthy man) [7a 59][13 0, 301217]Y−You bastard... Looks like you're no
+ordinary brat.
+[END]
+9: (Guard−like man) [7a 60][13 0, 301218]Y−You bastard... Looks like you're
+no ordinary delinquent.
+[END]
+10: (Host−like man) [7a 120][13 0, 301219]Son of a gun... Looks like you're
+better than the average kid.
+[END]
+11: (Sloppy man) [7a 63][13 0, 301220]Ugh... Guess you're no run−of−the−mill
+brat, huh...?
+[END]
+12: (Heavily made−up girl) [7a 123][13 0, 301221]Ohmigod, rilly? Are you like, not
+some ordinary jerk?
+[END]
+13: (Anachronistic man) [7a 29][13 0, 301222]Ho, what's this... 'Twould seem that
+thou art no ordinary scoundrel.
+[END]
+14: (Businesslike man) [7a 47][13 0, 301223]Y−You little... I think I had you
+wrong. You're no ordinary youth.
+[END]
+15: (Intuitive man) [7a 118][13 0, 301232]Y−You bastard... Guess you're no
+ordinary brat.
+[END]
+500: (Earthy man) [7a 59][13 0, 301224]It ain't gonna be like this next time!
+You better remember that!
+[END]
+501: (Guard−like man) [7a 60][13 0, 301225]You're not getting off this easy
+next time. Remember that!
+[END]
+502: (Host−like man) [7a 120][13 0, 301226]You'll be singing a different tune
+next time! Just remember that!
+[END]
+503: (Sloppy man) [7a 63][13 0, 301227]It ain't gonna go like this next time!
+You better remember that!
+[END]
+504: (Heavily made−up girl) [7a 123][13 0, 301228]So like, I hope you know it's not
+gonna go so crappy for me next time
+and stuff!
+[END]
+505: (Anachronistic man) [7a 29][13 0, 301229]'Twill not go so miserably for me
+our next go−round! Remember that!
+[END]
+506: (Businesslike man) [7a 47][13 0, 301230]It won't go this way next time.
+You can bank on that.
+[END]
+507: (Intuitive man) [7a 118][13 0, 301231]I don't see it going this way the
+next time! You remember that!
+[END]
+600: (Earthy man) [7a 59][13 0, 305041]Damn, you took all the Terminals.
+[->][13 0, 305042]Heh, you got me good! Man, Samurai
+are something else!
+[END]
+601: (Guard−like man) [7a 60][13 0, 305043]Well, you've taken all the Terminals
+now...
+[->][13 0, 305044]You win. I gotta say, Samurai are
+pretty impressive.
+[END]
+602: (Host−like man) [7a 120][13 0, 305045]So all the Terminals are yours now.
+[->][13 0, 305046]All right, I accept defeat. Samurai
+are pretty impressive, it seems.
+[END]
+603: (Sloppy man) [7a 63][13 0, 305047]You got all the Terminals now...
+[->][13 0, 305048]Yep, time to pack it in. Guess
+there ain't no beating a Samurai!
+[END]
+604: (Heavily made−up girl) [7a 123][13 0, 305049]Aww, is that like, all the Terminals?
+[->][13 0, 305050]So I guess I lose? Was there like,
+any way I could have beaten a Samurai?
+[END]
+605: (Anachronistic man) [7a 29][13 0, 305051]'Twould seem that thou hath captured
+all of the Terminals.
+[->][13 0, 305052]I concede defeat. Thou Samurai art
+truly impressive.
+[END]
+606: (Businesslike man) [7a 47][13 0, 305053]All the Terminals are yours now.
+[->][13 0, 305054]Very well, you win. Samurai are truly
+fearsome opponents.
+[END]
+607: (Intuitive man) [7a 118][13 0, 305055]You've taken all the Terminals now...
+[->][13 0, 305056]Alright, I admit defeat! I should've
+seen this coming against a Samurai!
+[END]

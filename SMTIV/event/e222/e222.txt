@@ -1,0 +1,22 @@
+0: 〉 The elevator is locked down.
+[END]
+1: (Walter) [7a 4]This looks a bit like the door at
+that place below Roppongi...
+[END]
+2: (Walter) [7a 4]Will we be needing a card key here
+as well?
+[END]
+3: Use the scorched card key
+Don't use it
+[END]
+4: (Walter) [7a 4]What? We're not using it? Very well...
+[END]
+5: 〉 [Flynn] used the scorched card key.
+[END]
+105: 〉 The elevator has been unlocked.
+[END]
+106: (Burroughs) [7a 2][13 1, 400003]I checked the lock's specs against
+your possessions and found a way
+to unlock it.
+[->]What will you do, Master [Flynn]?
+[END]

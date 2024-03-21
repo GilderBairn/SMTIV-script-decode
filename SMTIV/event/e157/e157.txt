@@ -1,0 +1,100 @@
+0: (Jonathan) [7a 3][7b 786435, 65537][7b 196613, 65537][13 0, 157001]...It has been decided.
+[END]
+1: (Jonathan) [7a 3][7b 786435, 65537][13 0, 157002]We are Samurai of the Eastern Kingdom
+of Mikado. Our role has not changed.
+[->][7b 458755, 131073][13 0, 157003]Let us go to Tsukiji Hongwanji. There
+we shall finally strike down the Black
+Samurai.
+[END]
+2: (Walter) [7a 4][7b 786436, 131073][13 0, 157004]...I won't raise a hand against Lilith.
+[END]
+3: (Isabeau) [7a 5][7b 655365, 65537][7b 131075, 65537][13 0, 157005]Walter?
+[END]
+4: (Walter) [7a 4][7b 196612, 65537][13 0, 157006]It matters not that I am a Samurai.
+This is my stance as a human being.
+[END]
+5: (Walter) [7a 4][7b 131076, 65537][13 0, 157007]The new Eastern Kingdom of Mikado
+is no better than Tayama's ”utopia.”
+[->][13 0, 157008]Both are ruled over by revolting
+dictators who care for nothing but
+themselves.
+[END]
+6: (Walter) [7a 4][7b 196612, 65537][13 0, 157009]...Through my missions as a Samurai,
+I've gained knowledge and wisdom.
+[->][13 0, 157010]I've learned to doubt.
+[END]
+7: (Jonathan) [7a 3][7b 131075, 65537][13 0, 157011]How lamentable...!
+[END]
+8: (Walter) [7a 4][7b 65540, 131073][13 0, 157012]I want to change this rotten world.
+To one where ”the strong can shape
+it as they please.”
+[END]
+9: (Jonathan) [7a 3][7b 131075, 65537][13 0, 157013]You are throwing your lot in with the
+Black Samurai... Is that what I am to
+understand...?
+[->][13 0, 157014]You dare insult the souls of those who
+became demons because of her...!?
+[END]
+10: (Isabeau) [7a 5][7b 131077, 65537][13 0, 157015]Jonathan, calm down!
+[END]
+11: (Walter) [7a 4][7b 196612, 65537][13 0, 157016]After I pack my things... I'm going to
+Lilith's.
+[END]
+12: (Walter) [7a 4][7b 786436, 131073][13 0, 157017]I'll be at the residence hall. If any
+wish to come with me, you may meet
+me there.
+[END]
+13: 〉 Walter walked away...
+[END]
+14: (Jonathan) [7a 3][7b 655363, 131073][7b 196613, 65537][13 0, 157018]......
+[END]
+15: (Jonathan) [7a 3][7b 786435, 131073][13 0, 157019]...So be it. Then we alone shall go to
+Tsukiji Hongwanji.
+[END]
+16: (Isabeau) [7a 5][7b 655365, 131073][13 0, 157020]...Wait.
+[END]
+17: (Jonathan) [7a 3][7b 655363, 65537][13 0, 157021]Isabeau! Not you, too?
+[END]
+18: (Isabeau) [7a 5][7b 655365, 65537][13 0, 157022]No, it isn't that. I am merely worried
+for Fujiwara and Skins.
+[END]
+19: (Isabeau) [7a 5][7b 655365, 65537][13 0, 157023]Even if we send no word to them, I
+fear they will attempt to enter the
+Eastern Kingdom of Mikado...
+[END]
+20: (Isabeau) [7a 5][7b 655365, 65537][13 0, 157024]And I cannot simply let them die.
+[END]
+21: (Isabeau) [7a 5][7b 196613, 65537][13 0, 157025]But at the same time, I don't have the 
+words to talk them out of it, either.
+[->][13 0, 157026]I need time to think upon what is the
+best course for everyone.
+[END]
+22: (Isabeau) [7a 5][7b 196613, 65537][13 0, 157027]My apologies...
+[END]
+23: 〉 Isabeau walked away...
+[END]
+24: (Jonathan) [7a 3][7b 786435, 65537][13 0, 157028]...We are Samurai sworn to protect
+this kingdom.
+[->][13 0, 157029]It is our duty to protect today so that
+the people can see tomorrow, as they
+always have.
+[END]
+25: (Jonathan) [7a 3][7b 131075, 65537][13 0, 157030]What profit is it to plunge the world
+into chaos!?
+[->][13 0, 157031]Neither the Eastern Kingdom of Mikado
+nor Tokyo must change.
+[->][13 0, 157032]I therefore pledge to smite Lilith to
+restore the world to its former order.
+[END]
+26: (Jonathan) [7a 3][7b 786435, 131073][13 0, 157033]...I pray that you will accompany me
+in this quest. I shall be waiting at
+the entrance of Naraku.
+[END]
+27: 〉 You have parted ways with Jonathan,
+Walter, and Isabeau.
+[END]
+28: 〉 [Flynn] returned to Mikado Castle
+alone...
+[END]
+127: (Burroughs) [7a 2][13 0, 400051]Congratulations on completing the quest.
+[END]

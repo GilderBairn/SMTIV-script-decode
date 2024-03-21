@@ -1,0 +1,327 @@
+0: Test
+[END]
+200: 〉 There is nothing here but an all−
+enveloping whiteness...
+[END]
+201: (The White) [7a 77]Our existence is one with yours.
+[->]As long as you exist, we shall return.
+[END]
+202: (The White) [7a 124]An alternate Tokyo grasped towards
+what they perceived to be hope...
+[->]Yet that hope will soon fade away...
+[END]
+203: (The White) [7a 78]We brought you here, through the means
+of transferring dimensions, to show
+you the despair the future holds.
+[END]
+204: (The White) [7a 75]Now, go... We shall show you the
+despair of the human race, as many
+times as it takes.
+[END]
+300: 〉 [Flynn] was sent through a rift
+between dimensions, arriving in a world
+filled with smoke and fire.
+[->]〉 Someone approaches from the
+distance...
+[END]
+301: (Akira) [7a 85]*pant* *pant* Did I lose them?
+[->][13 1, 401702]Damn it... What the hell am I supposed
+to do now...?
+[END]
+302: 〉 It seems as though Akira hasn't
+noticed [Flynn] yet...
+[->]〉 What will you do?
+[END]
+303: Call out to him
+Ignore him
+[END]
+304: (Akira) [7a 85][7b 196693, 65537]Ahhh...! [Color:0x5]Sanat?[Color:0x0]
+[->][7b 196693, 65537].........
+[->][7b 786517, 65537]Oh! Huh, it's just you. Don't freak me
+out like that.
+[->][7b 65621, 65537]Wait... What...!? What the hell are you
+doing here?
+[->]Didn't you go back to your own world
+after you beat Kenji...?
+[END]
+305: (Akira) [7a 85]What the hell...!? You're here!? Yes!
+[END]
+306: (Akira) [7a 85][7b 786517, 65537][Flynn]...
+I'm so glad to see you again.
+[->][7b 65621, 65537]But what are you doing in this world
+again?
+[->]Didn't you go back to your own world
+after you beat Kenji...?
+[END]
+307: (Akira) [7a 85][7b 65621, 65537]...What? You didn't defeat Kenji?
+[->][7b 786517, 65537]Come on, don't play dumb with me.
+[END]
+308: (Burroughs) [7a 2][13 1, 400005]I see no log entries concerning a fight
+with a demon named ”Kenji.”
+[END]
+309: (Akira) [7a 85][7b 196693, 65537]Oh... crap! I don't have time for this.
+[END]
+310: (Akira) [7a 85][7b 196693, 65537]If that guy finds me, I'm dead. Hey,
+come with me for a while.
+[END]
+311: 〉 Akira is looking around cautiously...
+[END]
+312: 〉 Akika grabs [Flynn] by the arm
+and forces him to follow...
+[END]
+400: 〉 Akira leads [Flynn] to an
+underground room...
+[END]
+401: (Akira) [7a 85]Dude, hear me out.
+[->]Thanks to your defeating Kenji, I've
+become the new King of Tokyo.
+[->]I tried my best to create a kingdom
+where everyone would be able to enjoy
+themselves equally.
+[END]
+402: (Akira) [7a 85][7b 196693, 65537]...And then that monster appeared
+out of the blue.
+[->]It called itself [Color:0x5]”The Eternal Youth,
+Sanat Kumara.”[Color:0x0]
+[->]That thing went on a rampage, destroying
+the peace I'd tried so hard to keep.
+[->]Sanat's taken over Ichigaya. Shinjuku,
+Shibuya, Ikebukuro, they're all in
+ruins...
+[->]All of the leaders of those cities
+got beaten down.
+[END]
+403: (Akira) [7a 85][7b 65621, 65537]I'd like to stop Sanat myself, but...
+[->]...You know I'm kinda weak, right?
+I wouldn't stand a chance.
+[END]
+404: 〉 You sense that there are several
+people standing just outside the door...
+[END]
+405: (Angry voice) [7a 2][13 1, 415213]We know you're in there, Akira!
+[END]
+406: (Strange demonoid) [7a 145][13 1, 415007]Why the hell are you fleeing Ichigaya!?
+Get out there and fight that thing!
+[END]
+407: (Uncanny demonoid) [7a 167][13 1, 415206]If you don't go out and fight,
+I'm gonna kill you myself, you
+goddamn coward!
+[END]
+408: (Erotic demonoid) [7a 148][13 1, 419307]You know what, we're through.
+[->]I'm getting out of this craphole.
+I don't care where I end up, as long
+as it's safe.
+[END]
+409: (Akira) [7a 85][7b 196693, 65537]What's happened to all of you!?
+You were all so cooperative just a
+little while ago.
+[->]This is just like when Kenji was
+King of Tokyo...
+[END]
+410: (Uncanny demonoid) [7a 167][13 1, 415209]It's your choice, Akira. Either fight
+Sanat and probably die, or we can kill
+you right now.
+[END]
+411: (Akira) [7a 85][7b 65621, 65537]Whoa, whoa... Let's calm down!
+[->]I, uh... That's it! I've got a secret
+weapon...!
+[END]
+412: (Strange demonoid) [7a 145]What...?
+[END]
+413: (Akira) [7a 85][7b 786517, 65537]Th−That's how come I was able to become
+the King of Tokyo.
+[->]You guys didn't know about it, did you?
+The power to become king...
+[END]
+414: (Erotic demonoid) [7a 148]......
+[END]
+415: (Akira) [7a 85][7b 65621, 65537]C'mon man, you're my last hope.
+[->]I know I should be taking care of all
+this shit myself, 'cause I'm the King
+and everything, but...
+[->]Just one more time...! One last favor!
+Please, you gotta help me and get
+rid of that bastard Sanat!
+[END]
+416: Fight Sanat
+Return to your world
+[END]
+417: (Akira) [7a 85][13 1, 401704]Thanks, man...
+[END]
+418: (Akira) [7a 85]Yeah, huh... I can't just rely on you
+to do everything. I mean, I'm the one
+who's the King of Tokyo here...
+[->]......
+[END]
+419: (Akira) [7a 85]Huh? What's wrong, man?
+[->]Y−You're turning invisible!
+[->]Hey, wait...! Don't go...!
+[END]
+420: 〉 There is nothing here but an all−
+enveloping whiteness...
+[END]
+421: (The White) [7a 77]So you decided to run before you could
+witness true despair...
+[END]
+422: (The White) [7a 124]That is fine. All that will do is
+cause one possible outcome to crumble.
+[END]
+423: (The White) [7a 78]If you wish to see this despair again,
+merely ask, and I will not hesitate
+to show it to you.
+[END]
+424: (The White) [7a 75]Now return, back to where you belong.
+[END]
+425: (Akira) [7a 85]This place should be good... I mean,
+the guy can't chase me all the way to
+Shinjuku, right?
+[END]
+426: 〉 Demonoids come flooding into the
+room...
+[END]
+427: (Strange demonoid) [7a 145]What about all that bullshit about
+”we could all work together”?
+[->]I'll do what I want!
+[END]
+428: 〉 The demonoids close in on Akira...
+[END]
+429: [7b 786517, 65537]〉 Akira looked at [Flynn] with
+pleading eyes...
+[END]
+430: (Akira) [7a 85]Sanat should still be in Camp Ichigaya.
+[->]Let's get going, then. There's no point
+in waiting.
+[END]
+500: 〉 Akira drags [Flynn] all the way
+back to JGSDF Camp Ichigaya...
+[END]
+501: (Akira) [7a 85]That bastard's here, man... I can
+sense him.
+[->]It's like... He's not really visible, or
+something. I don't understand it myself.
+[->]Be careful, dude. I'll be rooting for
+you... from back here.
+[END]
+502: 〉 There is some kind of presence
+directly before you...
+[END]
+503: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+504: (Burroughs) [7a 2][13 1, 405604]It's no use, Master [Flynn]...
+I can't analyze this. All I get is
+an error.
+[->]It's possible that this thing isn't
+even composed of material from this
+world. Be careful.
+[END]
+505: Unused
+[END]
+506: 〉 Something within [Flynn] begins
+to pulse...
+[END]
+507: Unused
+[END]
+508: (Sanat) [7a 230][7b 131302, 65537]Can you perceive me now, then?
+Little creature, of lower dimensions...
+[END]
+509: (Sanat) [7a 230][7b 131302, 65537]My name... is Sanat.
+I am currently overflowing with joy.
+[->]I was the one to plant the seed of
+chaos on this planet...
+[->]And now, you creatures have evolved
+from apes into beings that are capable
+of holding your own against even me.
+[->]Wonderful, oh wonderful. My seeds
+have sprouted into such beauty.
+[END]
+510: (Akira) [7a 85]Aw, crap, man... Is this thing even
+stronger than you...?
+[END]
+511: (Sanat) [7a 230][7b 131302, 65537]Come, o human full of potential!
+[END]
+512: (Sanat) [7a 230][7b 131302, 65537]Show me how far this 5th humanity
+has grown! Show me your worth...!
+[END]
+601: (Akira) [7a 85][13 1, 401704]I don't believe it! You actually beat
+Sanat... That was... Damn! That was
+awesome!
+[->][7b 786517, 65537]If I ever need your help, maybe you
+wouldn't mind dropping by and...
+[->][7b 65621, 65537]...What am I saying? I'm the King of
+Tokyo.
+[->]If I don't get my act together, I'm not
+gonna get anything done.
+[END]
+602: (Akira) [7a 85]B−But, you know... Being a king is way
+tougher than I imagined...
+[->]...I know! Why don't you stay in this
+world?
+[->]Let's build a country together!
+[END]
+603: 〉 You sense that there are several
+people standing just outside the door...
+[END]
+604: (Voice) [7a 2][13 1, 415200]Hey, Akira, you alive?
+[->]Wait... Did you actually kill him?
+[END]
+605: (Strange demonoid) [7a 145][13 1, 415002]Holy shit, man, I'm impressed.
+You actually did it!
+[END]
+606: (Akira) [7a 85]Well... You know... actually...
+[END]
+607: (Uncanny demonoid) [7a 167][13 1, 415202]Sorry, Akira. I always figured you
+were a little wuss. Guess I was wrong.
+[END]
+608: (Akira) [7a 85]Um... Yeah.
+[END]
+609: (Erotic demonoid) [7a 148][13 1, 419301]Oh, my King of Tokyo! You're the best!
+I'll follow you forever!
+[END]
+610: (Akira) [7a 85]Wha... Wait... Really?
+[END]
+611: 〉 The demonoids hoist Akira onto their
+shoulders and carry him outside,
+cheering...
+[END]
+612: 〉 There is nothing here but an all−
+enveloping whiteness...
+[END]
+613: (The White) [7a 77]Why do you not despair?
+[END]
+614: (The White) [7a 124]The only possible way to be freed
+from the cycle of despair is through
+emptiness.
+[END]
+615: (The White) [7a 78]I will return you to your world, but
+remember: you have not rid your world
+of the despair that is to come.
+[END]
+616: (The White) [7a 75]Even should you try to enkindle the
+hopes of the people, the cycle will
+only repeat itself.
+[END]
+617: 〉 The demonoids rush around Akira...
+[END]
+618: (Demonoids) Hail King Akira!
+Hail King Akira!
+[END]
+619: (Akira) [7a 85]Hey...! Stop that!
+[->][Flynn]... [Flynn]...!
+[END]
+620: (Akira's voice) [7a 1]Heeeeeeeeey...
+[END]
+700: 〉 Where would you like to start the
+quest?
+[END]
+701: From the beginning
+Skip to battle with Sanat
+[END]
+702: 〉 The White returns [Flynn] to the
+real world...
+[END]
+2100: 〉 Where would you like to start the
+quest?
+[END]
+2101: From the beginning
+Skip to battle with Sanat
+[END]

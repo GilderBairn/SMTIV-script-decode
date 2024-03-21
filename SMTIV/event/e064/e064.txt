@@ -1,0 +1,129 @@
+0: (Isabeau) [7a 170][13 0, 64001]...Hm. Does it seem to you that the
+room up ahead has some importance?
+[END]
+1: (Jonathan) [7a 3][13 0, 64002]With luck, we'll find more useful
+mystic relics such as those guns.
+[END]
+3: (Walter) [7a 4][13 0, 64003]I feel like a proper adventurer now.
+I'm starting to enjoy myself...!
+[END]
+4: 〉 [Flynn] and his fellow Samurai
+entered the small room.
+[END]
+5: (Walter) [7a 4][7b 786435, 65537][7b 655364, 65537][13 0, 64004]What is this room...?
+[END]
+6: (Burroughs) [7a 2][13 0, 64005]This is the Sky Terminal.
+[END]
+7: (Error) Not used
+[END]
+8: (Jonathan) [7a 3][7b 65539, 131073][13 0, 64006]”Sky Terminal”?
+[END]
+9: (Hugo) [7a 10][13 0, 64007]Well done, my Samurai. I have seen
+Burroughs' logs.
+[->][13 0, 64008]It would seem you discovered a
+Terminal Room.
+[END]
+10: (Walter) [7a 4][7b 393220, 65537][13 0, 64009]What's a Terminal?
+[END]
+11: (Burroughs) [7a 2][13 0, 64010]It's a matter transportation device.
+[->][13 0, 64011]It's built to move things instantly
+between different Terminals.
+[END]
+12: (Walter) [7a 4][7b 458756, 65537][7b 458755, 131073][13 0, 64012]Instantly!? Th−That's some advanced
+magic...
+[END]
+13: (Hugo) [7a 10][13 0, 64013]Oh, no, no. There has been another
+such Terminal in Aquila Plaza since
+days of old.
+[->][13 0, 64014]But without a second Terminal to
+connect to, it was not active...
+Until now, that is.
+[END]
+14: (Jonathan) [7a 3][7b 458755, 131073][7b 655364, 65537][13 0, 64015]Then does this mean we can now travel
+instantly between Naraku and the
+Aquila Plaza?
+[END]
+15: (Hugo) [7a 10][13 0, 64016]Yes... that is correct.
+[->][13 0, 64017]However, the name of the Terminal
+in Aquila Plaza has not yet been
+established.
+[->][13 0, 64018]That is a necessary step before the
+Terminals can be linked.
+[END]
+16: (Hugo) [7a 10][13 0, 64019]Hence...
+[->][13 0, 64020]In honor of your achievement in
+discovering a Terminal Room, I shall
+allow you the honor of naming it.
+[END]
+17: (Jonathan) [7a 3][7b 196611, 65537][7b 524292, 65537][13 0, 64021]My, this is quite sudden... Hmmm.
+I can't think of anything...
+[END]
+18: (Isabeau) [7a 5][7b 524293, 65537][13 0, 64022]Anything is suitable, I think, so
+long as it isn't perverse.
+[END]
+19: (Walter) [7a 4][7b 655364, 65537][13 0, 64023]He says ”allowing us the honor of
+naming it”, but I'll wager he simply
+can't come up with one himself.
+[END]
+20: (Walter) [7a 4][7b 655364, 65537][13 0, 64024]Can you think of anything,
+[Flynn]...?
+[END]
+21: (Burroughs) [7a 2][13 0, 64025]I've accessed the ”NO NAME” Terminal.
+[->][13 0, 64026]Please give it a name, Master [Flynn].
+[END]
+22: (Burroughs) [7a 2][13 0, 64027]The link with the [Quest? 51] Terminal
+is complete.
+[->][13 0, 64028]You can go between them now.
+[END]
+23: (Jonathan) [7a 3][13 0, 64029]Naming a Terminal has never happened
+in any history I've read. It's a
+brilliant accomplishment.
+[->][13 0, 64030]I'm honored to accompany a Samurai
+like you, [Flynn].
+[END]
+24: (Walter) [7a 4][13 0, 64031]You're like Aquila now. Your name,
+too, will be passed down to future
+generations.
+[END]
+25: (Isabeau) [7a 170][13 0, 64033]From now on, we'll be making use of
+the transporter that you named...
+[END]
+26: (Hugo) [7a 10][13 0, 64035]Ah, one more thing...
+[END]
+27: (Hugo) [7a 10][13 0, 64036]There would seem to be numerous other
+Terminals in the Unclean Ones' country.
+[->][13 0, 64037]You may as well try and find them all.
+[END]
+28: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+29: (Hugo) [7a 10][13 0, 64039]I shall be counting on you, Samurai.
+[END]
+30: (Walter) [7a 4][7b 524292, 65537][13 0, 64040]I do wish he wouldn't saddle us with
+more work with little more than a
+”may as well”...
+[END]
+105: 〉 A strange altar has been placed in
+the middle of the room...
+[END]
+106: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+124: (Walter) [7a 4][7b 262148, 65537][13 0, 64032]...Damn, now I'm jealous.
+[END]
+125: (Isabeau) [7a 170][7b 393386, 65537][13 0, 64034]I fear your face will come unavoidably
+to mind each time we do so. It's a bit
+embarrassing...
+[END]
+133: 〉 Depending on your selection attributes,
+you will have different events.
+[END]
+134: LAW
+CHAOS
+NEUTRAL
+[END]
+135: 〉 LAW route will be available.
+[END]
+136: 〉 CHAOS route will be available.
+[END]
+137: 〉 NEUTRAL route will be available.
+[END]

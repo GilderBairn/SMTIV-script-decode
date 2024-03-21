@@ -1,0 +1,122 @@
+0: (Walter) [7a 4][7b 196612, 65537][13 0, 259001]Where are we...?
+[END]
+1: (Lucifer) [7a 64451][7b 65623, 65537][13 0, 259003]Thanks to you, the gate to the Expanse
+has been opened.
+[END]
+2: (Lucifer) [7a 87][7b 65623, 65537][13 0, 259006]Sadly... God's puppets in the Eastern
+Kingdom of Mikado won't take this
+lying down.
+[END]
+3: (Walter) [7a 4][7b 196612, 65537][13 0, 259008]We're going to war against the Eastern
+Kingdom of Mikado...?
+[END]
+4: (Lucifer) [7a 87][7b 65623, 65537][13 0, 259009]Yes. But there's one small issue...
+[->][13 0, 259010]They're probably going to bring out
+God's chariot...
+[END]
+5: (Lucifer) [7a 87][7b 65623, 65537][13 0, 259012]That being said...
+[->][13 0, 259013]If I, who seized selfhood by opposing
+God, and a son of man who rejects His
+authority, were to fuse together...
+[->][13 0, 259014]Then I could reach my full power as
+one who was said to equal God...
+My true strength as the Demon Lord.
+[END]
+6: (Walter) [7a 4][7b 786436, 131073][13 0, 259015]The Demon Lord...
+[END]
+7: (Lucifer) [7a 87][7b 65623, 65537][13 0, 259016]It doesn't matter which one of you
+it is, but I'd like one of you to fuse
+with me.
+[END]
+8: (Lucifer) [7a 87][7b 65623, 65537][13 0, 259019]Who will be brave enough to sacrifice
+himself to the Demon Lord? Will it be
+you, Walter? Or... you, [Flynn]?
+[END]
+9: (Lucifer) [7a 64451][13 0, 259021]...Hello, you two.
+[END]
+10: (Lucifer) [7a 87][13 0, 259022]If you're back here, does that mean
+you've decided which of you will be
+the sacrifice?
+[->][13 0, 259023]Well then, who's going to fuse with me?
+[END]
+11: ”I'll do it.”
+”It should be you, Walter.”
+”I need time to think.”
+[END]
+12: (Walter) [7a 4][7b 786436, 131073][13 0, 259024]...No you won't, [Flynn]. If one
+of us is to be sacrificed, let it
+be me.
+[END]
+13: (Lucifer) [7a 87]Ah... then go off and think some more.
+[->]Once your mind is made up, come
+back here to me, my fellow heretics
+against God.
+[END]
+14: (Walter) [7a 4][7b 786436, 65537][13 0, 259029]You know that I'm a fisherman's boy,
+don't you?
+[->][7b 655364, 65537][13 0, 259030]I thought I'd while away my whole life
+catching fish. It stretched out before
+me like a dull, straight road...
+[->][7b 589828, 65537][13 0, 259031]But after I was chosen as a Samurai
+and began to travel with you lot...
+[END]
+15: (Walter) [7a 4][7b 262148, 65537][13 0, 259032]I enjoyed myself like never before.
+It made me think that this life isn't
+so bad, in the end.
+[END]
+16: (Walter) [7a 4][7b 786436, 65537][13 0, 259033]But if I aged... I could see myself
+becoming like Jonathan.
+[->][13 0, 259034]I'd grow covetous and intent on
+preserving what I had. And that's
+not the life for me.
+[END]
+17: (Lucifer) [7a 64451][13 0, 259041]...Well said, Walter. Let us begin.
+[END]
+100: (Voice) [7a 10][13 0, 259002]You're back in Tokyo.
+[END]
+101: (Lucifer) [7a 87][7b 65623, 65537][13 0, 259004]Now Tayama is dead and the demons in
+all their power are overrunning Tokyo.
+[->][13 0, 259005]There's no ”order” anymore here...
+It's really a place now that the
+strong can shape as they see fit.
+[END]
+102: (Lucifer) [7a 87][7b 65623, 65537][13 0, 259007]I say we go strike at them before
+they invade Tokyo.
+[END]
+104: (Lucifer) [7a 87][7b 65623, 65537][13 0, 259011]If we don't make sure we're ready,
+it will pose a big threat.
+[END]
+107: (Lucifer) [7a 87][7b 65623, 65537][13 0, 259017]Though if you do, your individual
+consciousness will be no more. It's
+basically dying.
+[END]
+108: (Lucifer) [7a 64451][13 0, 259020]I'll give you some time to think.
+Come see me here when you're ready.
+[END]
+112: (Walter) [7a 4][7b 196612, 65537][13 0, 259025]......
+[->][7b 65540, 131073][13 0, 259026]...I'm quite sure about this. I'll be
+your sacrifice.
+[END]
+113: (Lucifer) [7a 87][13 0, 259027]You do like to get my hopes up, don't
+you? Well, so it goes.
+[->][13 0, 259028]I'll give you some time to think.
+Come see me here when you're ready.
+[END]
+116: (Walter) [7a 4][7b 65540, 131073][13 0, 259035]If I'm going to die, I want to die now
+when my life is at its peak.
+[->][7b 262148, 65537][13 0, 259036]The fact that I'll die for something
+that matters sweetens it, too.
+[END]
+207: (Walter) [7a 4][7b 196612, 65537][13 0, 259018]We would... die...?
+[END]
+216: (Walter) [7a 4][7b 65540, 65537][13 0, 259037]Be sure of one thing−−I don't do this
+out of desperation.
+[->][7b 786436, 65537][13 0, 259038]I thought that I could leave the rest
+to you, [Flynn].
+[END]
+316: (Walter) [7a 4][7b 65540, 131073][13 0, 259039]But when I think of those who wish
+for a world that the strong can shape
+as they see fit...
+[->][13 0, 259040]I think that you're the one to lead
+such men.
+[END]

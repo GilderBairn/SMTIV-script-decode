@@ -1,0 +1,7 @@
+0: (Demonoid woman) [13 1, 418002]Ever since I became a demonoid, I haven't
+had to deal with silly rivalries! Life is
+so much better now!
+[END]
+1: (Burroughs) [7a 2][13 1, 400002]I'm detecting a strong demon ahead.
+Be careful.
+[END]

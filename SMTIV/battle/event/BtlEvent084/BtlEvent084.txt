@@ -1,0 +1,7 @@
+0: 〉 The horde of demons fell and
+Peallaidh appeared!
+[END]
+1: (Peallaidh) [7a 0][13 0, 301304]Whooooohhhh... I don't wanna die...!
+[->][13 0, 301305]If I die... I'm gonna be purified!
+They can't clean me, bro!
+[END]

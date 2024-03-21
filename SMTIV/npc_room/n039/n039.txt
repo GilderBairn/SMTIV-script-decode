@@ -1,0 +1,99 @@
+0: (Weary man) [7a 63][13 1, 403841]In order to get the demons all over
+Tokyo in one place, Tayama decided to
+revamp Shibuya...
+[->]He used the Reds to lure all the demons
+into one place.
+[->]He claims it was done to contain the
+damage to Tokyo. But what about the
+damage to us Shibuya locals?
+[->]We got caught up in the redevelopment
+scheme to make this region an easier
+place to deal Reds...
+[END]
+1: (Weary man) [7a 63][13 1, 403841]Tayama, Yuriko, I don't care who does it,
+just do something about those demons!
+[->]If they really want the Reds, let's just
+give 'em all we got!
+[->]Please... Please get these demons away
+from me...!
+[END]
+2: (Weary man) [7a 63][13 1, 403841]I don't care who, but someone has to do
+something about these demons!
+[->]If they really want the Reds, let's just
+give 'em all we got!
+[->]O−Or we could ask that [Flynn] to
+take care of all the demons!
+[END]
+3: (Weary man) [7a 63][13 1, 403841]Come to think of it, those awful kids
+were a thorn in our side even before we
+had the ceiling to worry about.
+[->]I'm ashamed I made so much commotion
+over a few piddly demons...
+[->]Thanks to your heroic effort, champion,
+I feel like I can be more positive about
+things, like you.
+[END]
+4: (Weary man) [7a 63][13 1, 403841]We've lived in a city infested with
+demons for years.
+[->]Once Shibuya is back to normal, it'll
+attract more of those awful kids.
+[->]...But that's okay. I'll keep my chin
+up from now on.
+[END]
+5: (Dreamy woman) [7a 80][13 1, 403122]The guys from the Ashura−kai have been
+talking about some stuff ”above the
+ceiling” recently...
+[->]It never occurred to me there might be
+something on the other side of the
+ceiling...
+[->]But if whatever's up there is more
+comfortable than these underground
+districts, I wanna go there...
+[END]
+6: (Dreamy woman) [7a 80][13 1, 403121]H−Hey, I hear Tayama and Yuriko are
+having an all−out war. Is that right...?
+[->]It's because of them that there are so
+many demons in Tokyo now, isn't it?
+[->]What? It isn't!? Then what's going on
+here, really!? No one tells me anything!
+[END]
+7: (Dreamy woman) [7a 80][13 1, 403103]H−Hey, I hear Tayama and Yuriko aren't
+in Tokyo anymore. Is that right...?
+[->]But there is a guy called the King of
+Tokyo, and he's killing all the demons
+for us? Is that right?
+[->]What? It isn't!? Then what's going on
+here, really!? No one tells me anything!
+[END]
+8: (Dreamy woman) [7a 80][13 1, 403103]So Tayama and Yuriko aren't in Tokyo
+anymore, right?
+[->]And there's a guy called the King of
+Tokyo who wants to help the city, right?
+[->]What? No? Well, whatever. But it is true
+that we can go back to our regular lives,
+right?
+[END]
+100: (Weary man) [7a 63][13 1, 403841]Tayama, Yuriko, I don't care who does it,
+just get the Reds out of Shibuya!
+[->]It's because of those damn pills that
+we're swamped with demons! I haven't had
+a good night's sleep in years!
+[->]Please, find some way that doesn't screw
+over the locals...!
+[END]
+105: (Dreamy woman) [7a 80][13 1, 403103]I hear there's someone in Shinjuku who
+went up above that ceiling. Is that
+right...?
+[->]But I guess since he's back in Tokyo,
+that place isn't any better than
+here, huh...?
+[END]
+205: (Dreamy woman) [7a 80][13 1, 403121]H−Hey, I hear Tayama and Yuriko are
+having an all−out war. Is that right...?
+[->]I hear there's someone in Shinjuku who
+went up above that ceiling. Is that
+right...?
+[->]Couldn't we take shelter on the other
+side of the ceiling? How can we get
+there!?
+[END]

@@ -1,0 +1,39 @@
+0: (Ashura−kai man) [7a 47][13 1, 404303]I'm surprised you managed to come
+here. What was Tenkai doing...?
+[->]Well, that's fine. Shibuya's back in
+business, so we got a huge additional
+order from them.
+[->]You must be the new help we were
+told about. Hurry up and get to the
+farm.
+[END]
+1: (Ashura−kai man) [7a 47][13 1, 404303]We've been getting so many orders from
+Shibuya that we can't even take time
+to sleep.
+[->]I don't know what's going on out
+there, but it looks like the Red
+Bubble's blowing up again!
+[END]
+2: (Ashura−kai man) [7a 47][13 1, 404303]I get the feeling that we're going
+to be getting fewer Red orders from
+Shibuya.
+[->]I don't know what's going on out
+there, but has the new Red Bubble
+burst already? ...Nah, can't be.
+[END]
+100: (Ashura−kai man) [7a 47][13 1, 404303]Hey there, new guy. Looks like you
+got Mastema to take the barrier down.
+[->]We're so busy right now that we need
+all the help we can get.
+[->]Now stop standing around and hurry
+up to the farm.
+[END]
+200: (Ashura−kai man) [7a 47][13 1, 404303]Mr. Tayama's one cautious man.
+He's going to increase Red production
+just in case anything happens.
+[->]But if that bitch Yuriko were to
+take control of Yamato and push
+that button...
+[->]Things will get so bad that I don't
+think extra Reds will be enough...
+[END]

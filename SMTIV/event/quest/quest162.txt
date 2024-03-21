@@ -1,0 +1,16 @@
+0: I want you to rescue a certain old man. He is
+being targeted by some unruly Hunters. He was
+the one that kept everyone together after the
+demons started appearing. We can't lose him!
+If you're going to help us, come to the overpass
+in [Color:0x5]Miyashita Park[Color:0x0] in Shibuya. Watch
+out for those Hunters on the way there.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

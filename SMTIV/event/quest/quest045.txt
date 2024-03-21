@@ -1,0 +1,7 @@
+0: I went ahead and made the task at hand into a quest.
+You have an appointment on the [Color:0x5]Mikado Castle rooftop[Color:0x0]
+with Master [Color:0x5]Jonathan[Color:0x0] and Master [Color:0x5]Walter.[Color:0x0]
+ 
+All you need to do is [Color:0x5]go to where you planned to
+meet[Color:0x0] and speak with Master Jonathan.
+[END]

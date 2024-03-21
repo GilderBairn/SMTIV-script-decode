@@ -1,0 +1,129 @@
+0: 〉 The Domain lifted...
+[END]
+1: (Terminal guardian) [7a 59][13 0, 287001]Aw man, you've put me out of business
+as a guardian.
+[->][13 0, 287002]But oh well... I guess it's not so bad
+if I think of it as a chance to go
+back to making an honest buck.
+[END]
+2: (Terminal guardian) [7a 60][13 0, 287003]Sheesh... I'm gonna be out of the
+guardian business, thanks to you.
+[->][13 0, 287004]Though I can go back to making an
+honest living now, so I guess there's
+some upside.
+[END]
+3: (Terminal guardian) [7a 120][13 0, 287005]I'll have to give up the guardian
+business now... All because of you.
+I made a tidy little wage, too...
+[->][13 0, 287006]But there's nothing for it now. Guess
+I'll take the hint and go back to
+making an honest living.
+[END]
+4: (Terminal guardian) [7a 63][13 0, 287007]I'm through as a guardian because
+of you! Oh, what do I do now...?
+[->][13 0, 287008]I guess I could go straight and try
+living like a squarejohn instead.
+[END]
+5: (Terminal guardian) [7a 123][13 0, 287009]Dude, it's like, your fault that I'm
+out of a job now? And it's been super
+hard disguising myself and stuff?
+[->][13 0, 287010]Though like, I guess if I go back to
+an honest job, I won't have to do
+that crap anymore?
+[END]
+6: (Terminal guardian) [7a 29][13 0, 287011]Alas... I shall be a guardian by trade
+no longer, thanks to thee.
+[->][13 0, 287012]'Tis the straight and narrow life for
+me now, I suppose.
+[END]
+7: (Terminal guardian) [7a 47][13 0, 287013]Hm. I wasn't expecting you to drive me
+out of business.
+[->][13 0, 287014]But there's a silver lining. I can go
+back to making an honest living now.
+[END]
+8: 〉 The Terminal Guardian suddenly threw
+off his clothes!
+[END]
+9: (Terminal guardian) [7a 118][13 0, 287015]Sometimes I'm a young girl, and at
+other times I might be a guard who
+watches over the city...
+[END]
+10: 〉 The Terminal Guardian leaves...
+[END]
+11: (Burroughs) [7a 2][13 0, 400051]Congratulations on completing the quest.
+[END]
+12: 〉 The Domain lifted...
+[END]
+13: (Terminal guardian) [7a 118][13 0, 287020]Man, I give up when it comes to you.
+You've put me right out of a job.
+[END]
+14: (Burroughs) [7a 2][13 0, 400051]Congratulations on completing the quest.
+[END]
+15: (Burroughs) [7a 2][13 1, 400063]Looks like the quest is going well.
+[END]
+16: (Burroughs) [7a 2][13 1, 405705]This is the Ueno Terminal.
+[END]
+17: (Burroughs) [7a 2][13 1, 405702]This is the Kasumigaseki Terminal.
+[END]
+18: (Burroughs) [7a 2][13 1, 405700]This is the Shinjuku Terminal.
+[END]
+19: (Burroughs) [7a 2][13 1, 405703]This is the Ikebukuro Terminal.
+[END]
+20: (Burroughs) [7a 2][13 1, 405701]This is the Shibuya Terminal.
+[END]
+21: (Burroughs) [7a 2][13 1, 405707]This is the Tennozu Terminal.
+[END]
+22: (Burroughs) [7a 2][13 1, 405706]This is the Toyosu Terminal.
+[END]
+109: (Terminal guardian) [7a 118][13 0, 287016]I was inspired by reruns of an anime
+I used to watch. I did this job just
+to transform every day...
+[END]
+111: (Burroughs) [7a 2][13 1, 400063]Looks like the quest is going well.
+[END]
+113: (Terminal guardian) [7a 118][13 0, 287021]Sometimes I'm a young girl, and at
+other times I might be a guard who
+watches over the city...
+[END]
+209: (Terminal guardian) [7a 118][13 0, 287017]But that all ends now. I'm going back
+to my family.
+[->][13 0, 287018]I probably won't ever see you again,
+but good luck staying alive. See ya.
+[END]
+211: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+213: (Terminal guardian) [7a 118][13 0, 287022]I was inspired by reruns of an anime
+I used to watch. I did this job just
+to transform every day...
+[END]
+311: (Burroughs) [7a 2][13 0, 74001]I'm going to run the Terminal
+activation program.
+[END]
+313: (Terminal guardian) [7a 118][13 0, 287023]But that all ends now. I'm going back
+to my family.
+[->][13 0, 287024]I probably won't ever see you again,
+but good luck staying alive. See ya.
+[END]
+411: (Burroughs) [7a 2][13 0, 74002]Activation complete.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]
+413: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+513: (Burroughs) [7a 2][13 0, 74005]This seems to be a type of Terminal
+too. The activation program ran
+normally, anyway.
+[->][13 1, 405718]This is the Purgatorium Terminal.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]
+613: (Burroughs) [7a 2][13 0, 74005]This seems to be a type of Terminal
+too. The activation program ran
+normally, anyway.
+[->][13 1, 405719]This is the Lucifer Palace Terminal.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]

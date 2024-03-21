@@ -1,0 +1,108 @@
+0: (Haggard man) [7a 79][13 1, 403613]They supposedly have members−only
+stores in the shopping district of
+Ginza.
+[->]I hear everything is pretty damn
+pricy. Of course, I've never set
+foot into one of them myself.
+[->]I guess that the kind of people who
+go to that kind of store would
+usually be known as celebrities...
+[END]
+1: (Haggard man) [7a 79][13 1, 403613]I can't believe Lady Yuriko's been
+defeated... How could anyone in this
+world be so strong!?
+[->]A weakling like me will never
+survive... There's no way...
+[END]
+2: (Haggard man) [7a 79][13 1, 403613]To think that demons would come
+pouring into Tokyo like this...
+[->]A weakling like me will never
+survive... There's no way...
+[END]
+5: (Confident woman) [7a 80][13 1, 404401]How could a frail woman like me come
+all this way?
+[->]Well, not even the Ring of Gaea
+members can resist my feminine
+charms.
+[->]But I'm nothing compared to Lady
+Yuriko, though...
+[END]
+6: (Confident woman) [7a 80][13 1, 404401]I was right to come to this city.
+I can tell that I'll be able to
+polish my skills even more.
+[->]This is all thanks to Lady Yuriko.
+We've lost such an amazing woman...
+[END]
+7: (Confident woman) [7a 80][13 1, 404441]This place is going to be overrun
+by demons? Fine by me. Bring it on,
+I say.
+[->]Facing off against demons will help
+me improve my skills even more...!
+[END]
+8: (Confident woman) [7a 80][13 1, 404431]I've thought back on Lady Yuriko's
+beauty, and I've reached a conclusion.
+[->]Strength isn't all about muscular
+power. Looking at me, don't you
+agree? Femininity is real strength.
+[->]Men may be the ones that move this
+world, but any man can be controlled
+by a woman. That is the real power.
+[END]
+9: (Confident woman) [7a 80][13 1, 416100]So, a champion has been born among
+the common folk?
+[->]Well, then, since I've made it this
+far on my own charms...
+[->]I must be the champion of women.
+[END]
+10: (Demon) [7a 64930][13 1, 411201]I used to be human, but I became a
+demon because I didn't want to be
+under Tayama's control.
+[->]And now that bastard lives the high
+life, in my own home that he took
+from me!
+[END]
+11: (Demon) [7a 65206][13 1, 411007]Tayama doesn't scare me, but he's
+got... Uh... What are they called?
+[->]Some kind of deadly demons.
+They're insane.
+[->]Whatever they are, Tayama has a lot
+of those scary things.
+[END]
+109: (Confident woman) [7a 80][13 1, 416100]So, a champion has been born among
+the common folk?
+[->]Well, then, since I've made it this
+far on my own charms...
+[->]I must be the champion of women.
+[END]
+110: (Demon) [7a 64930][13 1, 411201]When the demons appear, only the
+strong will survive. Of course, there
+will still be inequality among people.
+[->]Inequality... It must exist, in any
+society. Things would be boring if
+everyone was the same, right?
+[END]
+111: (Demon) [7a 65206][13 1, 411007]If Tayama's dead, then what happened
+to his, uh... Those things he had.
+Y'know...?
+[->]Those crazy demons. Are they stuck
+in their rock form?
+[->]...You think maybe there's a way to
+return them to normal and get them
+to work for you?
+[END]
+210: (Demon) [7a 64930][13 1, 411201]To be honest, I don't care if I have
+to live as a human or a demon. I just
+don't want to be bored.
+[->]But if the Demon Lord falls, will
+humans reign again?
+[->]Will I be caught like back then, too?
+[END]
+310: (Demon) [7a 64930][13 1, 411201]The Demon Lord has fallen, and humans
+will reign again.
+[->]But... Doesn't that mean that demons
+will eventually be able to return to
+this world?
+[->]I think I'm going to get my foot in
+the door and start a new business
+here in the human world.
+[END]

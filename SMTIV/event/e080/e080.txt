@@ -1,0 +1,48 @@
+0: (Underling) [7a 46][13 0, 80001]Hey, what're ya doin', comin' here?
+[END]
+1: (Isabeau) [7a 5][7b 65541, 65537][13 0, 80002]It's another Unclean One with an accent
+equally as thick as the last.
+[END]
+2: (Underling) [7a 46][13 0, 80003]Ya hearin' me, kids?
+[->][13 0, 80004]This ain't a playground. You get what
+I'm sayin', right...?
+[END]
+3: ”But of course.”
+”No, I don't 'get' it.”
+[END]
+4: (Underling) [7a 46][13 0, 80005]Good boy. Go back to the underground
+district like the good kid you are.
+[END]
+5: (Underling) [7a 46][13 0, 80006]Ya don't, huh? See, this here's why
+I hate dealin' with dumb punks...
+[->][13 0, 80007]Ain't that right, bro?
+[END]
+6: (Underling) [7a 46][13 0, 80001]Hey, what're ya doin', comin' here?
+[->][13 0, 80004]This ain't a playground. You get what
+I'm sayin', right...?
+[END]
+7: (Menacing man) [7a 47][13 0, 80008]Ah, give it up, man. You know how
+Mr. Tayama likes things around here.
+[END]
+8: (Jonathan) [7a 3][7b 65539, 65537][13 0, 80009]Please, sir, we do understand your
+words. It's merely that your accent
+is a bit on the thick side...
+[->][13 0, 80010]We're seeeking the Counter−Demon
+Force Base. Is it nearby?
+[END]
+9: (Underling) [7a 46][13 0, 80011]Wh−Why d'ya wanna know about that?
+Who're you guys with?
+[END]
+10: (Menacing man) [7a 47][13 0, 80012]Ya know, that reminds me... The boys
+at Sky said somethin' about angels
+comin' down.
+[END]
+11: (Walter) [7a 4][13 0, 80013]You're quite stubborn on that point,
+aren't you? Yes, we came from
+the surface, but we're no angels.
+[END]
+12: (Underling) [7a 46][13 0, 80014]B−Bro, it's really them!
+[END]
+13: (Menacing man) [7a 47][13 0, 80015]Well, ain't that fine? Let's kill
+'em before we wind up dead!
+[END]

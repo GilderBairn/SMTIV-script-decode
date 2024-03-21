@@ -1,0 +1,41 @@
+0: 〉 There's a huge temple in front of you...
+[END]
+1: Enter
+Walk away
+[END]
+2: (Brawny man) [7a 53][13 0, 135001]...You have come, my brother. Lady
+Yuriko knows all.
+[END]
+3: (Brawny man) [7a 53][13 0, 135002]We caught an intruder... Some punk
+from the Ashura−kai.
+[END]
+4: (Brawny man) [7a 53][13 0, 135003]I'm on patrol, so I can't escort you,
+but don't keep Lady Yuriko waiting.
+[END]
+5: 〉 The brawny man walked away...
+[END]
+6: (Glaring man) [7a 46][13 0, 135004]Oh... You came...?
+[END]
+7: (Glaring man) [7a 46][13 0, 135005]Because you took so long... Mr. Tayama
+sent us instead...
+[END]
+8: (Glaring man) [7a 46][13 0, 135006]Y... You can't get in from the front.
+But under... the bench...
+[->][13 0, 135007]There's... a manhole... Open it...
+and a hidden pa...
+[END]
+9: 〉 The man died, a glare in his eyes
+to the last...
+[END]
+10: Enter
+Head for the bench
+Walk away
+[END]
+11: 〉 The gate is tightly shut. You can't
+proceed any further...
+[END]
+12: 〉 [Flynn] opened the manhole lid
+hidden under the bench...
+[->]〉 [Flynn] climbed down the ladder
+and entered Tsukiji Hongwanji.
+[END]

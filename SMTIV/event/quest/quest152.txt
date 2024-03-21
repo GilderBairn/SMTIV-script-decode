@@ -1,0 +1,15 @@
+0: I'm recording a TV show, and I'd like you to
+participate. We put the Hunters on the White
+Team, the demons on the Red Team, and they
+fight to the death. If you want to be on the
+White Team, meet at the [Color:0x5]Studio Art Building[Color:0x0]
+next to the [Color:0x5]Shinjuku station east gate.[Color:0x0]
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

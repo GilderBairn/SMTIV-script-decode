@@ -1,0 +1,15 @@
+0: To all Demon Hunters: We would like your help
+in collecting food supplies. We require a
+[Color:0x5][Item 1].[Color:0x0] Rukhs have a habit of
+laying their eggs in high places, so you can
+likely find one in that [Color:0x5]tower that reaches to
+the ceiling.[Color:0x0] An egg that big will feed an army!
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

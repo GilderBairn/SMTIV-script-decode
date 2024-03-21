@@ -1,0 +1,34 @@
+0: 〉 It seems the door won't open from
+this side.
+[END]
+1: 〉 It seems the door won't open from
+this side.
+[END]
+2: 〉 It seems the door won't open from
+this side.
+[END]
+3: 〉 It seems the door won't open from
+this side.
+[END]
+4: 〉 It seems the door won't open from
+this side.
+[END]
+5: 〉 It seems the door won't open from
+this side.
+[END]
+6: 〉 It seems the door won't open from
+this side.
+[END]
+7: 〉 It seems the door won't open from
+this side.
+[END]
+8: 〉 It seems the door won't open from
+this side.
+[END]
+9: 〉 It seems the door won't open from
+this side.
+[END]
+10: 〉 It's sealed with a tremendous power...
+[END]
+11: 〉 A vestige of Pluto's power remains...
+[END]

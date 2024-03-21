@@ -1,0 +1,77 @@
+0: [71 1]Awwwwwwwwwwwwwww yeeeeeeeah!
+Check out my new skill!
+I can wreck even more shit now.
+[->][END]
+1: [71 1]Whoa whoa whoa! Lookit this crazy
+skill I just learned!
+[->][END]
+2: [71 1]Ha ha! This new skill is really
+gonna make fights extra hot!
+[->][END]
+3: [71 1]My power knows no bounds!
+Nothing can stop me!
+[->][END]
+4: [71 1]Hey, I've been hoarding my skills,
+and I gotta ditch one. Which should
+I throw out?
+[->][END]
+5: [71 1]You want me to swap [Color:0x5][Skill 1][Color:0x0]
+for [Color:0x5][Skill 2]?[Color:0x0]
+[->][END]
+6: [71 1]You want me to swap [Color:0x5][Skill 1][Color:0x0]
+into something more awesome?
+[->][END]
+7: [71 1]That's what I'm talkin' about!
+[->][END]
+8: [71 1]*sigh* Wimp...
+[->][END]
+9: [71 1]Bam! [Color:0x5][Skill 1]![Color:0x0]
+Is that hot or what!?
+[->][END]
+10: [71 1]Looks like the time has come...
+for me to transform like nobody's
+transformed before!
+[->][END]
+11: [71 1]Ciao! The next time you see me, I'll
+be in a different body.
+[->][END]
+12: [71 1]*sigh*
+Guess I'll show off next time...
+[->][END]
+13: [71 1]'Sup, human!
+[->][END]
+14: [71 1]I'm getting that itch...
+Looks like I might [Color:0x5]transform![Color:0x0]
+[->][END]
+15: [71 1]Yo, here's a [Color:0x5][Item 1].[Color:0x0]
+...Just a little somethin' from me.
+[->][END]
+16: [71 1]Take this [Color:0x5][Item 1].[Color:0x0]
+Let's use it to kick some ass.
+[->][END]
+17: [71 1]Hey, check out this
+[Color:0x5][Item 1].[Color:0x0] It ain't
+easy getting one of these!
+[->][END]
+18: [71 1]Hey, close it up, bro... I'll give
+you a little taste of power that you
+humans don't know about yet...
+[->][END]
+19: [71 1]Was that enough for you?
+[->][END]
+20: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+Nice meetin' ya, my brother.
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

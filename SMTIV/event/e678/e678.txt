@@ -1,0 +1,73 @@
+0: (Burroughs) [7a 2][13 1, 502044]I've locked onto the demon's signal.
+I'll display its location on the
+navigation map.
+[->]If you want to defeat this demon,
+I suggest you remain on the defensive
+while pursuing it.
+[END]
+1: (Burroughs) [7a 2][13 1, 502044]I've still got a lock on the demon's
+signal.
+[->]Let's be sure to defeat the demon
+this time.
+[END]
+2: (Kartikeya) [7a 65183][13 1, 411206]Owww... What the heck, man.
+You're so violent!
+[->]What did I ever do to you!?
+[END]
+3: 〉 You tell Kartikeya about Parvati...
+[END]
+4: (Kartikeya) [7a 65183][13 1, 411208]So Mother sent you to capture me...
+I thought she might have.
+[->]Still, I don't want to go back!
+Never!
+[END]
+5: ”Why don't you want to go back?”
+”Parvati is a good mother.”
+[END]
+6: (Kartikeya) [7a 65183][13 1, 411209]Why...?
+[->]......
+[->]...Because I'm scared.
+[->]Yeah, that's right.
+I'm scared of my mother.
+[->]Well, Mother's very kind, but...
+It's just that...
+[END]
+7: (Kartikeya) [7a 65183][13 1, 411201]Yeah, I know. Mother's a very kind
+person...
+[->]......
+[->]But I'm scared of her...
+[->]It's just that...
+[END]
+8: (Kartikeya) [7a 65183]She's just way too out there! Like
+she doesn't belong in this universe!
+[->]I used to be six kids!
+[->]But Mother hugged us all together,
+and we got merged into one person.
+[->]Who has that kind of power!?
+That's just not right!
+[->]Look... Once, she accidentally cut
+off somebody's head, and then she just
+replaced it with an elephant's head.
+[->]My entire family is messed up!
+[->]And that's why I got scared,
+and ran away.
+[->]......
+[->]I know Mother said she wanted to
+apologize to me, but I know that
+it's not really her fault.
+[->]...I understand, though. If I run
+away without saying a word, she'll
+just worry about me.
+[->]I'll go home one last time and talk
+to Mother about everything.
+[->][13 1, 411201]Thanks, human.
+[->]Actually, I realized how good this
+body is while I was fighting you.
+[->]I can reach speeds I never could
+before... I think I'll talk to Mother
+about this.
+[END]
+9: 〉 The demon leaves...
+[END]
+900: 〉 There is no one here...
+[END]

@@ -1,0 +1,88 @@
+0: 〉 Would you like to hear an
+explanation of the battle system?
+[->][END]
+1: Listen to it
+Don't listen to it
+[END]
+2: Your team's turn will now begin.
+First, look at the upper right corner.
+[->]The green icon displayed here shows the
+[Color:0x5]number of times you can act this turn.[Color:0x0]
+These icons are called [Color:0x5]Press Turn Icons.[Color:0x0]
+[->]There is currently [Color:0x5]1[Color:0x0] icon, showing that
+you can [Color:0x5]act once[Color:0x0] this turn. Select
+[Color:0x5]Attack[Color:0x0] from the command list to attack
+the enemy.
+[END]
+3: You succeeded in damaging the enemy.
+[->]Look at the Press Turn Icon. The icon
+that was there before has disappeared.
+[->]One icon equates to one action, so using
+that attack expended one icon.
+[END]
+4: [先/さき]ほどスライムに[攻撃/こうげき]したときとは[違/ちが]い
+[緑/みどり]のアイコンが1[回/かい]の[攻撃/こうげき]で1[個/こ]
+[消費/しょうひ]されました
+[->][緑/みどり]のアイコンの[数/かず]が0になりましたので
+[味方/みかた]が[行動/こうどう]できる[回数/かいすう]は[増/ふ]えることなく
+[敵/てき]の[行動/こうどう]ターンが[開始/かいし]されます
+[END]
+5: You damaged the enemy and struck its
+weakness as well.
+[->]Look at the Press Turn Icon. It should
+be shining brightly, indicating that
+[Color:0x5]you can act once more.[Color:0x0]
+[->]By attacking with [Color:0x5]an element the enemy
+is weak against,[Color:0x0] a normal icon will begin
+to shine and you can act once more.
+[->]In this case, because [Color:0x5]the Slime was weak
+to the Phys element[Color:0x0] of [Flynn]'s
+normal attack, the icon shined and [Color:0x5]you
+can act once more.[Color:0x0]
+[->][END]
+6: The number of Press Turn Icons has been
+reduced to 0.
+[->]You have no more icons showing your
+number of actions, which ends your turn.
+The enemy's turn will begin now.
+[END]
+7: Attacking the Slime was different from
+attacking Lham Dearg in that you struck
+its weakness and the Press Turn Icon
+shined, allowing you to act again.
+[->][Color:0x5]Striking enemy weaknesses to increase
+the number of times you can act[Color:0x0] will be
+the key to gaining the advantage in
+battle.
+[->]You struck a weakness with a normal
+attack this time, but by gaining new
+skills such as ice and electric attacks,
+you can strike other weaknesses as well.
+[->]Also, your actions can not only increase,
+but [Color:0x5]decrease[Color:0x0] as well.
+[->]When an [Color:0x5]attack misses or is nulled,[Color:0x0]
+it will use more icons than normal,
+decreasing your number of actions.
+[->]This rule applies to the enemy's actions
+as well.
+[->]If the enemy strikes your weakness, [Color:0x5]it
+will gain actions,[Color:0x0] while if the enemy's
+attack is evaded or nulled, [Color:0x5]you can
+cause the enemy to lose actions.[Color:0x0]
+[->]That sums up the basic flow of battle.
+Concentrate on [Color:0x5]both sides' weaknesses and
+remaining Press Turns[Color:0x0] to take control of
+the tide of battle.
+[->][END]
+8: (Demon) [13 1, 413204]A human... A human is here!
+[->]You never learn. You were a fool to
+venture into our nest of evil.
+[->]I hope you are prepared to die at
+the hands of a demon!
+[END]
+9: 〉 End the explanation and continue
+the battle?
+[END]
+10: Continue the battle
+Hear the explanation again
+[END]

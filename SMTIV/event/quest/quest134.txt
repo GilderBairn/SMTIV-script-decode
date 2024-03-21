@@ -1,0 +1,15 @@
+0: A demon residing in [Color:0x5]Kanda Shrine,[Color:0x0] to the
+[Color:0x5]far north[Color:0x0] of Kasumigaseki, has begun attacking
+humans and causing problems. It used to be a
+god that protected people, but now they live
+in fear of it. I will give whoever defeats
+[Demon name 1] a fine reward.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

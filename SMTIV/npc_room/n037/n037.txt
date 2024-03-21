@@ -1,0 +1,108 @@
+0: (Sighing woman) [7a 62][13 1, 403312]The guys who kicked out the Ashura−kai
+are acting like they're some kind of
+heroes...
+[->]But without the Ashura−kai here,
+Xi Wangmu took over this town in
+no time.
+[END]
+1: (Sighing woman) [7a 62][13 1, 403312]The guys who were opposing the
+Ashura−kai didn't know anything
+about them.
+[->]They've been looking out for us this
+whole time... But it's too late now.
+[END]
+2: (Sighing woman) [7a 62][13 1, 403342]You have to have hope and stand on your
+own. That's what I learned from you.
+[->]I know it'll be tough to do... But I
+also know I can do it.
+[END]
+3: (Panting woman) [7a 62][13 1, 403303]Most people are trying to become self−
+sufficient in their own way...
+[->]It's thanks to the hope you gave us.
+Thank you, champion.
+[END]
+4: (Flashy woman) [7a 123][13 1, 403503]My ex was in the Ashura−kai. But he got
+beaten up and kicked out of town.
+[->]They broke his nose, pulled out his
+hair... He looked awful. I'm more afraid
+of the people here than the Ashura−kai!
+[END]
+5: (Flashy woman) [7a 123][13 1, 403522]A woman from the underground district
+committed suicide by biting off her
+own tongue.
+[->]We gave her corpse to the demons out
+there to keep them at bay for now...
+[->]But I can't help wondering if they'll
+kill me, too, in my sleep.
+[->]I keep wishing over and over that we
+could be free from this suffering...
+[END]
+6: (Flashy woman) [7a 123][13 1, 403522]I'm away from home for a few days to
+hang out with the Ashura−kai and
+Ikebukuro turns into a huge mess...
+[->]I almost always welcomed death before.
+But now...
+[->]I just wanted to tell you one thing,
+champion: Thank you.
+[END]
+7: (Flashy woman) [7a 123][13 1, 403522]Ever since the demons came to Tokyo,
+I was looking for a good time and
+place to die.
+[->]But it seems I've lost all that, along
+with my chance to find Mr. Right.
+[->]I guess it's all your fault, haha.
+...Thanks, champion.
+[END]
+100: (Sighing woman) [7a 62][13 1, 403312]I just want to leave this demon−infested
+city as soon as possible...
+[->]But when the Ashura−kai left town,
+all the Reds went with them.
+[->]I can't fight demons... I can't even
+buy weapons. Talk about a no−win
+situation...
+[END]
+104: (Flashy woman) [7a 123][13 1, 403503]I heard a strange rumor that the
+Ashura−kai were making a comeback...
+[->]But my ex was Ashura−kai, so I kinda
+know what is and isn't likely...
+[->]The Ashura−kai wouldn't waste manpower
+and time on a town like this if there
+was nothing in it for them.
+[END]
+200: (Sighing woman) [7a 62][13 1, 403312]Someone brought some Reds from Shibuya!
+Thank you, lord!
+[->]I don't mind paying a fortune for some
+Reds if I have to. I'd even sell my
+organs if need be...
+[END]
+204: (Flashy woman) [7a 123][13 1, 403503]I heard from an old flame in the
+Ashura−kai that everyone in Ikebukuro
+is going to be sent to Roppongi...
+[->]In a couple days, I guess I'll be part
+of the ”harvest” too.
+[END]
+300: (Sighing woman ) [7a 62][13 1, 403312]I just realized something... It doesn't
+matter if I spend everything I have
+on Reds, or if I get eaten alive...
+[->]It's just me who'd suffer.
+[->]But if I'm going to scream in despair,
+I'm going to scream while fighting.
+So I won't need the Reds anymore...
+[END]
+304: (Flashy woman) [7a 123][13 1, 403503]I heard from an old flame in the
+Ashura−kai that everyone in Ikebukuro
+is going to be sent to Roppongi...
+[->]But the people of Ikebukuro decided to
+fight back against the Ashura−kai.
+[->]I'm glad we're saved, but honestly...
+How many more times do we have to
+suffer like this?
+[END]
+400: (Sighing woman) [7a 62][13 1, 403312]I just realized something... It doesn't
+matter if I spend everything I have
+on Reds, or if I get eaten alive...
+[->]It's just me who'd suffer.
+[->]But if I'm going to scream in despair,
+I'm going to scream while fighting.
+I don't need the Reds or the Ashura−kai.
+[END]

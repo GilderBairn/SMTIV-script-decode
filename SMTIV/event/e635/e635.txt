@@ -1,0 +1,74 @@
+0: (Old woman) [7a 65][13 1, 403903]I'm far too old to go outside now...
+[->]When I escaped, all my pictures were
+burned. I lost everything I had.
+[->]I wonder if I'll ever be able to see
+the outside world again...
+[END]
+1: Show her your camera
+Leave
+[END]
+2: (Old woman) [7a 65][13 1, 403902]Is that... a camera?
+[->]Well, that's quite the antique you've
+got there. You don't see young folk
+with a sense of style these days.
+[->]Oh, I know... Hey, can I ask you for
+a favor?
+[->]I used to own a bar in the back of
+the Golden Gai.
+[->]Could you use your camera there to
+take a picture of it for me?
+Just one picture...
+[END]
+3: (Burroughs) [7a 2][13 1, 502043]I'll register the new quest onto the
+list.
+[END]
+4: (Old woman) [7a 65][13 1, 403923]I've grown old now. If I'm going to
+die, I want to die happy.
+[->]I want to have a way to remember the
+happiest times of my life. Please,
+let me see that place one more time.
+[END]
+5: (Old woman) [7a 65][13 1, 403922]I see... I guess I'll just slowly rot
+away here. All of Tokyo has been
+sealed away and made into a dungeon...
+[END]
+6: 〉 You enter the bar...
+[END]
+7: Take a picture
+Not now
+[END]
+8: 〉 You now have a picture of the bar.
+[END]
+9: 〉 You leave...
+[END]
+10: (Old woman) [7a 65][13 1, 403902]You brought me the picture?
+[END]
+11: 〉 You give her the picture you took
+earlier.
+[END]
+12: (Old woman) [7a 65][13 1, 403931]...It's like I thought. There's
+nothing left. Just an empty room.
+[->]But, you know what... I can still
+see it. The shelves, lined with
+cheap booze...
+[->]The table over there always wobbled.
+And over there we had the register,
+where she would ring up customers...
+[->][13 1, 403923]......
+[->]My daughter and I used to run the
+bar together.
+[->]That was 25 years ago. When the
+demons appeared suddenly, they killed
+her... and ate her.
+[->]Running that bar with my daughter
+was the happiest time in my life.
+[->][13 1, 403933]Now I can die, having remembered
+those happy times one last time.
+Thank you.
+[END]
+13: (Old woman) [7a 65][13 1, 403933]Now I can die, having remembered
+those happy times one last time.
+Thank you.
+[END]
+900: 〉 There is no one here...
+[END]

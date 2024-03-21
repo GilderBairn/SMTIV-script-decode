@@ -1,0 +1,13 @@
+0: (Thor) [7a 0][13 1, 413204]Show me your strength.
+[END]
+1: (Dignified voice) [7a 65368][13 1, 413103]That is enough, Thor.
+[->]That was a splendid battle, you two.
+I cannot recall when I last felt so
+impassioned from watching combat.
+[END]
+2: (Thor) [7a 0][13 1, 413202]That voice... Lord Odin!
+Your memories have returned!
+[END]
+3: 〉 A dignified voice speaks out from
+behind the demon...
+[END]

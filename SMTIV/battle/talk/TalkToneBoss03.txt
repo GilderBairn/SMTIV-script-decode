@@ -1,0 +1,615 @@
+0: Dummy
+[END]
+1: [71 1]That's right... We were friends.
+The very best of friends.
+[->]But that was all in the past.
+You understand, yes, [Flynn]?
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]Don't run away...
+[->]Don't you dare run away from this!
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]NOT USED
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]NOT USED
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]NOT USED
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]NOT USED
+[->][END]
+33: NOT USED
+[END]
+34: [71 1]You still wish to chatter after all
+this...? How abysmally selfish.
+[->]You'd best make it worth my while!
+[->][END]
+35: 贈り物だとー?
+どうすっかなー
+決まってんだろ
+とりあえず…
+[何/なに]かよこせ!
+[END]
+36: [71 1]Idle chatter, eh...? It wasn't so long
+ago that would have been usual for us...
+[->][END]
+37: たまんねーな!
+ヒャハハハ!
+いいぜ!
+オーケー!
+ゴキゲンだぜ!
+[END]
+38: [71 1]Are you saying that you still wish to
+while away the time with idle chatter?
+[->]*sniff* I had thought those days long
+past us...!
+[->][END]
+39: 贈り物だとー!?
+[俺/おれ]たちに!?
+くうーっ!
+泣けるぜ!
+感激だー!
+[END]
+40: [71 1]There was still so much more I wanted
+to talk to you about, [Flynn]...
+[->][END]
+41: ゴキゲンすぎて!
+エクスタシー!
+おいおい!
+やべーぞ!
+どうすんだよ!
+[END]
+42: [71 1]You're begging me for mercy? I see the
+Samurai aren't as great as I supposed.
+[->]Well, 'tis fine. We were good friends,
+after all. I'd at least give it thought.
+[->][END]
+43: リスペクトだー?
+当然だろうが!
+そんなことより!
+分かってんだろ?
+[何/なに]かよこしな!
+[END]
+44: [71 1]Here! Mercy from your former friend...
+and from a demon!
+[->][END]
+45: ナイスな信心だ
+オーケー
+くれてやるよ!
+ありがたいぜー?
+ほら[慈悲/じひ]だ!
+[END]
+46: [71 1]Why would you wake your best friend
+from his peaceful slumber...?
+[->]If it's assistance you want, you can
+have it.
+[->][END]
+47: ZZZ…
+ZZZ…
+ZZZ…
+ZZZ…
+あー!?
+[END]
+48: リスペクトー?
+…いいじゃねーか
+起こしやがって
+感心だな!
+ほらよ!
+[END]
+49: [71 1]I like this sensation... The thrill
+of granting mercy as a demon...
+[->][END]
+50: この感触は…!
+やべーぞ!
+キマるぜ!
+クセになるぜ!
+もう一回だ!
+[END]
+51: [71 1]Funds? Are riches so important to
+you now?
+[->][END]
+52: [俺/おれ]たちを…!
+恐喝する気か!
+どうする…?
+とりあえずだ…
+や…やめとけ!
+[END]
+53: [71 1]Ngh! So we are fated to be exploited
+after all!
+[->][END]
+54: このくらいで!
+勘弁してやる!
+ありがたく思え!
+感謝しろよ!
+…もう許して
+[END]
+55: [71 1]With all the Luxurors' wealth, they
+cannot help but rob the Casualries
+further...
+[->]Such base avarice deserves death!
+[->][END]
+56: カネはいいかー!
+満足したかー!?
+ここまでだ!
+ツケは払えよ!
+なあ負け犬!
+[END]
+57: [71 1]Raaaaaaagh!
+[->][END]
+58: ぬおーっ!
+くそー!
+ちくしょー!
+このヤロー!
+[何/なに]をー!
+[END]
+59: [71 1]Stop it, [Flynn]. Why are you
+doing this...!?
+[->][END]
+60: テメー!
+やめときな!
+そろそろ…
+よく[考/かんが]えな!
+もういいだろ?
+[END]
+61: [71 1]Damn you! I won't stomach this any
+longer! If it's money you want, it's
+money you shall have!
+[->]Are you satisfied now, rich Luxuror!?
+[->][END]
+62: すみませんでした
+ごめんなさい
+これやるんで
+お願いです
+勘弁してください
+[END]
+63: [71 1]I am at my limit, Luxuror! How long
+will you exploit us before you are
+satisfied!?
+[->][END]
+64: 恐喝タイムは…
+ここまでだー!
+なぜかって?
+それはなァ…
+キレたからだー!
+[END]
+65: [71 1]Funds? Are riches so important to
+you now?
+[->][END]
+66: この野郎!
+近づくなー!
+その手つき…!
+やる気だろ!
+分かってんぞ!
+[END]
+67: [71 1]You desire a demon's possessions? The
+avarice of a Luxuror knows no bounds!
+[->][END]
+68: 取引だとー?
+どうするよ?
+悪くねーな
+とりあえず…
+[何/なに]かよこしな!
+[END]
+69: [71 1]Take it and be satisfied, avaricious pig!
+[->][END]
+70: 受け取りな!
+コイツでいいか?
+ほらよ!
+とっておきさ
+上物だぜ!
+[END]
+71: [71 1]Hahaha! Do you want my possessions,
+Luxuror!?
+[->]Here, have it! Let it weigh you down
+like your stony heart!
+[->][END]
+72: おうおうおう!
+今日はビッグだ!
+そうだろ?
+すげーぜ!
+ほーらブツだ!
+[END]
+73: [71 1]I'll give you this too! How about now?
+Has your avarice been sated?
+[->][END]
+74: おっと待ちな!
+コイツもだ!
+忘れんなよ?
+ほらよ!
+オマケってな!
+[END]
+75: [71 1]I despise these tedious, drawn−out
+negotiations. Let's finish this at once!
+[->][Color:0x1][Amount 1] Macca![Color:0x0]
+Those are the terms. Can you pay?
+[->][END]
+76: 速攻キメるぜ!
+マッカだよ!
+どうだ!
+出せるか!
+[Amount 1]!
+[END]
+77: [71 1][Color:0x1][Item 1][Color:0x0] is what I want!
+[->][END]
+78: アイテムだ!
+[Item 1]
+よこしな!
+よこせってんだ!
+早くしろ!
+[END]
+79: [71 1]Give me [Color:0x1][Amount 1] Macca![Color:0x0]
+[->][END]
+80: マッカだ!
+[Amount 1]!
+よこしな!
+よこせってんだ!
+早くしろ!
+[END]
+81: [71 1]Give me a [Color:0x1]a little[Color:0x0] of your [Color:0x1]stamina![Color:0x0]
+[->][END]
+82: [生命力/せいめいりょく]だ!
+[少/すこ]しだけだよ!
+よこしな!
+よこせってんだ!
+早くしろ!
+[END]
+83: [71 1]Give me a [Color:0x1]some[Color:0x0] of your [Color:0x1]stamina![Color:0x0]
+[->][END]
+84: [生命力/せいめいりょく]だ!
+まあまあだな!
+おうよ!
+よこせってんだ!
+早くしろ!
+[END]
+85: [71 1]Give me a [Color:0x1]a lot[Color:0x0] of your [Color:0x1]stamina![Color:0x0]
+[->][END]
+86: [生命力/せいめいりょく]だ!
+かなりだぜ!
+おうよ!
+よこせってんだ!
+早くしろ!
+[END]
+87: [71 1]Give me a [Color:0x1]staggering amount[Color:0x0] of your
+[Color:0x1]stamina![Color:0x0]
+[->][END]
+88: [生命力/せいめいりょく]だ!
+ヤバいくらいだ!
+よこしな!
+よこせってんだ!
+早くしろ!
+[END]
+89: [71 1]Give me a [Color:0x1]a little[Color:0x0] of your [Color:0x1]spirit![Color:0x0]
+[->][END]
+90: [精神力/せいしんりょく]だ!
+[少/すこ]しだけだよ!
+よこしな!
+よこせってんだ!
+早くしろ!
+[END]
+91: [71 1]Give me a [Color:0x1]some[Color:0x0] of your [Color:0x1]spirit![Color:0x0]
+[->][END]
+92: [精神力/せいしんりょく]だ!
+まあまあだな!
+おうよ!
+よこせってんだ!
+早くしろ!
+[END]
+93: [71 1]Give me a [Color:0x1]a lot[Color:0x0] of your [Color:0x1]spirit![Color:0x0]
+[->][END]
+94: [精神力/せいしんりょく]だ!
+かなりだぜ!
+おうよ!
+よこせってんだ!
+早くしろ!
+[END]
+95: [71 1]Give me a [Color:0x1]staggering amount[Color:0x0] of your
+[Color:0x1]spirit![Color:0x0]
+[->][END]
+96: [精神力/せいしんりょく]だ!
+ヤバいくらいだ!
+よこしな!
+よこせってんだ!
+早くしろ!
+[END]
+97: [71 1]Your demon there... Give me
+[Color:0x1][Demon name 2]'s life!
+[->][END]
+98: 仲魔だ!
+ツレの命だよ!
+くれるよな?
+よこしな!
+[Demon name 2]
+[END]
+99: [71 1][Color:0x1]That thing![Color:0x0] Give [Color:0x1]it[Color:0x0] to me! You know
+very well what I mean!
+[->][END]
+100: アレだ!
+アレだよ!
+よこしな!
+よこせってんだ!
+分かれよ!
+[END]
+101: [71 1]Ah... What am I yearning after...?
+[->][END]
+102: 今の[俺/おれ]たち!
+[何/なに]が[欲/ほ]しいんだ?
+おいおい…!
+[何/なに]だと思う?
+[何/なに]なんだよ?
+[END]
+103: [71 1]You understand! Then I'll be taking
+this with pleasure!
+[->][END]
+104: それだ!
+分かってるぜ!
+いいぜ!
+そういうワケだ!
+もらっとくぜ!
+[END]
+105: [71 1]That's not at all what I want!
+Are you mocking me!?
+[->][END]
+106: そんなモン!
+要らねーよ!
+テメーはよ
+分かってねーな
+ナメてんのか?
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]Well done! I'm truly satisfied!
+[->][END]
+121: いいぜ!
+満足だぜ!
+ヒャハハハ
+よーし
+もういいだろ
+[END]
+122: [71 1]Hahaha! This is wonderful!
+[->][END]
+123: いいぜー!
+ヒャハハハ!
+よしよしよし!
+ハッハァー!
+ぬおー!
+[END]
+124: [71 1]You won't hear my request, eh?
+[->][END]
+125: ほー
+フンッ
+いい度胸だ
+ちっ
+おいおい
+[END]
+126: [71 1]Heaven forfend anyone try to part you
+with your possessions...
+[->]This is the only fitting treatment
+for a stingy Luxuror!
+[->][END]
+127: おっとー?
+出し惜しみかよ
+タブーだぜ!
+報いを受けな!
+準備はいいか?
+[END]
+128: [71 1]As you will, [Flynn]. I won't
+ask again.
+[->][END]
+129: やめだ!
+やめだー!
+話になんねー!
+こんなモン!
+やってられっか!
+[END]
+130: [71 1]You cheated me, didn't you? You tried
+to cheat your oldest friend...
+[->]There are some things I can't forgive,
+not even from you.
+[->][END]
+131: おっとー?
+ごまかしかよ
+タブーだぜ!
+報いを受けな!
+準備はいいか?
+[END]
+132: [71 1]A Samurai's wages are surprisingly
+low, I see...
+[->][END]
+133: [何/なに]だよ
+[持/も]ってねーとか!
+どんだけだよ
+まったくよー
+シケてんなー
+[END]
+134: [71 1]If you haven't any Life Stones, then
+I don't see how we can negotiate.
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]...Fine, I'll let it go with that.
+[->]Unlike Luxurors, you see, I don't want
+for much.
+[->][END]
+137: 分かったよ!
+しつこくてもなー
+アレだからな!
+まあいいだろ
+これくらいだ!
+[END]
+138: [71 1]You're that determined to keep it for
+your own...?
+[->]I won't let you play me for a fool,
+just because I'm a Casualry!
+[->][END]
+139: [何/なに]だテメー?
+気に入らねーか!
+貢ぎ物タイムが!
+やめだー!
+シメてやるよ!
+[END]
+140: [71 1]Your stubborn refusal to yield a single
+thing is rather impressive.
+[->]Asounding, even. Let us say that
+I'm satified.
+[->][END]
+141: どんだけだよ!
+拒否しすぎだ!
+偉業だぜ!
+もういい!
+満足ってコトで!
+[END]
+142: [71 1]...Is there no demand you won't give
+in to?
+[->]Don't you have any pride as a Samurai!?
+You coward!
+[->][END]
+143: 従うばっかだな
+[何/なに]でもかんでも
+ホイホイ渡して
+意地はねーのか?
+腰抜けヤローが
+[END]
+144: [71 1]You really have nothing, eh...? Is that
+what a Samurai's life is like?
+[->]As a Casualry, I can sympathize.
+Fine, let us move on.
+[->][END]
+145: 貧窮だなー
+同情するぜ
+[持/も]ってねーな
+初めてだぜ
+満足ってコトでな
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: [71 1]How many times must you bring that up?
+I'm growing tired of hearing it.
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]NOT USED
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USED
+[END]
+171: [71 1]NOT USED
+[->][END]
+172: [71 1]NOT USED
+[->][END]
+173: [71 1]NOT USED
+[->][END]
+174: [71 1]NOT USED
+[->][END]

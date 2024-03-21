@@ -1,0 +1,52 @@
+0: (Demon) [7a 64970][13 1, 417006]......
+[->][13 1, 417001]Huh? No way...
+[END]
+1: (Demon) [7a 64970][13 1, 417003]I got scared and ran when he was fighting
+with Pluto.
+[->]Ever since, I've felt guilty, and come
+here to visit now and then.
+[END]
+2: (Demon) [7a 64970]I'm really glad to know he's still alive.
+Not that I have the right to show my
+face to the guy...
+[->]Thanks, though. You can have this.
+[END]
+3: 〉 Obtained [41 3].
+[END]
+4: (Demon) [7a 64970]Bye bye.
+[END]
+5: 〉 The place is littered with junk.
+[END]
+6: 〉 There's something on the ground.
+[END]
+7: 〉 Obtained [41 6].
+[END]
+8: 〉 The room is a mess...
+[END]
+9: 〉 There is nothing useful left.
+[END]
+10: 〉 The room is a mess...
+[->]〉 It doesn't feel like humans have lived
+here for a while...
+[END]
+11: 〉 The door is locked...
+[END]
+12: (Burroughs) [7a 2][13 1, 400003]I checked the lock's specs against
+your possessions and found a way
+to unlock it.
+[->]What will you do, Master [Flynn]?
+[END]
+13: Use the Rusty Key
+Leave
+[END]
+14: 〉 [Flynn] used the Rusty Key.
+[END]
+100: (Demon) [7a 64970]It's faint, but I can feel some of that
+man's Magnetite from you, mister.
+[->]He's got a real stitched−up face, but
+he's living in this ”Shinjuku” place.
+[END]
+104: 〉 The Undine is no longer here...
+[END]
+204: 〉 There is no one here.
+[END]

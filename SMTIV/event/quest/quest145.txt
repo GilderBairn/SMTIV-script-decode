@@ -1,0 +1,15 @@
+0: Can you help me retrieve a [Color:0x5][Item 1][Color:0x0]
+from the [Color:0x5]Cameron Building[Color:0x0] in Sangen Chaya? It's
+west of Shibuya, but the way is blocked.
+There is an underground path to the east of
+Shibuya you can use to get there, though. A
+demon has set his Domain around the building.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

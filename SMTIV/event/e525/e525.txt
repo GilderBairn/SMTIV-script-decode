@@ -1,0 +1,88 @@
+0: (Burroughs) [7a 2][13 1, 400005]Oh... Master [Flynn], the Yamato's
+remote control is here on the floor.
+[END]
+1: Press the button
+Leave
+[END]
+2: 〉 [Flynn] placed his finger on the
+button...
+[END]
+3: (Burroughs) [7a 2][13 1, 400003]Sorry, Master [Flynn], but let me
+make sure of something...
+[END]
+4: (Burroughs) [7a 2]Which are you going to: the Tokyo
+below the ceiling or the Tokyo
+engulfed in flames?
+[END]
+5: ”The below−ceiling Tokyo.”
+”The infernal Tokyo.”
+”Neither, I think.”
+[END]
+6: (Burroughs) [7a 2]OK. I just wanted to know; sorry for
+butting in. Go right ahead.
+[END]
+7: 〉 [Flynn] pressed the button with
+the Tokyo below the ceiling in mind...
+[END]
+8: (Burroughs) [7a 2]OK. I just wanted to know; sorry for
+butting in. Go right ahead.
+[END]
+9: 〉 [Flynn] pressed the button
+with the infernal Tokyo in mind...
+[END]
+10: (Burroughs) [7a 2]OK. I think that's a perfectly valid
+choice too.
+[END]
+11: 〉 The Yamato Perpetual Reactor is
+here before you...
+[END]
+12: 〉 The remote control is on the ground.
+[END]
+13: Press the button
+Talk to Akira
+Leave
+[END]
+14: (King Akira) [7a 85]......
+[END]
+15: 〉 Akira seems distracted.
+[END]
+16: Talk to him again
+Walk away
+[END]
+17: (Tokyo King Akira) [7a 85][13 1, 401701]...Oh, it's you, Boss. Sorry, I was...
+just doing some thinking.
+[->]I finally realized something after I
+became the King of Tokyo. When it comes
+to who I should be looking out for...
+[->]I need to put everyone else first,
+right? I mean, I'm the King of Tokyo,
+after all.
+[->]Having to worry about more than
+yourself is harder than a punch to
+the gut...
+[->]To be honest, I already want to ditch
+it all, but I already told my sis
+about it... so I gotta stand firm.
+[END]
+18: (Burroughs) [7a 2]Which are you going to, the Tokyo
+below the ceiling or the Tokyo
+covered in desert?
+[END]
+19: ”The Tokyo below the ceiling.”
+”The Tokyo covered in desert.”
+”Neither, I think.”
+[END]
+20: 〉 [Flynn] pressed the button with
+the blasted Tokyo in mind...
+[END]
+21: 〉 The door is locked...
+[END]
+22: (Burroughs) [7a 2][13 1, 400004]I checked the lock's specs against
+your possessions and found a way
+to unlock it.
+[END]
+23: Use the Chipped Key
+Leave
+[END]
+24: 〉 [Flynn] used the Chipped Key.
+[END]

@@ -1,0 +1,49 @@
+0: 〉 A group of armed men stand in
+your way...
+[END]
+1: (Armed man) [7a 99][13 0, 194003]Who are you? How can you be outside?
+[END]
+2: (Walter) [7a 4][13 0, 194004]...Come again?
+[END]
+3: ”Kill them before they kill us.”
+”Let's wait and see...”
+[END]
+4: (Jonathan) [7a 3][13 0, 194009]Hold, you two.
+[->][13 0, 194010]Let's wait and see. Better to know
+our situation in full before reacting.
+[END]
+5: (Jonathan) [7a 3][13 0, 194011]Agreed.
+[END]
+6: (Jonathan) [7a 3][7b 65539, 65537][13 0, 194012]Let's wait and see. Right now, they're
+our only source of information.
+[END]
+7: (Walter) [7a 4]You have a point... Very well.
+[END]
+8: (Armed man) [7a 99][13 0, 194014]K...Kiyoharu! Call Kiyoharu!
+[->][13 0, 194015]You three, come with us!
+[END]
+9: 〉 The group of armed men escorted
+[Flynn] and his fellow Samurai
+inside...
+[END]
+10: ダミーです
+住民に話しかけるが逃げらます
+[END]
+100: (Walter) [7a 4][7b 262148, 65537][13 0, 194001]Ah...! At last, someone we can talk to.
+[->][7b 65540, 65537][13 0, 194002]Hoy, you lot. There's something we'd
+like to ask you...
+[END]
+103: (Jonathan) [7a 3][13 0, 194005]Have a care, Walter. They're acting
+strangely...
+[END]
+107: (Armed man) [7a 99][13 0, 194013]Huh...? That thing on your arm...!
+[END]
+203: (Armed man) [7a 99][13 0, 194006]Th−These must be Pluto's henchmen...!
+[END]
+303: 〉 The group of armed men pointed their
+weapons at you.
+[END]
+403: (Walter) [7a 4][13 0, 194007]...This bodes ill.
+[->][13 0, 194008]Hoy, what do you think? We could be
+in danger...
+[END]

@@ -1,0 +1,70 @@
+0: 〉 The blackboard is filled with what
+seem to be requests of some sort...
+[END]
+1: (K) [7a 22][13 0, 21001]Yes, that's the blackboard I wanted
+you to see.
+[END]
+2: (K) [7a 22][13 0, 21002]There are quests besides your official
+missions that get jotted down here.
+[->][13 0, 21003]You can try your hand at these quests
+on your own time whenever you want...
+Everyone calls them Challenge Quests.
+[->][13 0, 21004]Naturally, when you complete one,
+you'll get a reward from whoever
+posted it.
+[END]
+4: (K) [7a 22][13 0, 21005]Life gets dull quickly if all you do
+each day is head into Naraku and
+fight demons.
+[->][13 0, 21006]That's why the masters have set up
+some fun for themselves.
+[->][13 0, 21007]The rewards are nice, but your real
+prize is the praise and respect you
+earn from the other Samurai.
+[->][13 0, 21008]So the masters have decided to let you
+prentices join in the Samurai fun as
+well.
+[END]
+5: 〉 [Flynn] and his fellows raised
+their Gauntlets to the blackboard.
+[END]
+6: (Burroughs) [7a 2][13 0, 21010]There are new quests on the blackboard.
+I'll register them to the list.
+[END]
+7: (Navarre) [7a 6][7b 65542, 65537][13 0, 21011]I should like to propose a contest to
+[Flynn] and Walter.
+[END]
+8: (Walter) [7a 4][7b 65540, 131073][13 0, 21016]You're speaking of the three we
+just registered, yes? I'll take you
+up on that.
+[END]
+9: 〉 Navarre and Walter eagerly bolted
+from K's Tavern.
+[END]
+10: (Jonathan) [7a 3][7b 196611, 65537][13 0, 21017]Ah me... I'm worried about those two,
+so I'll be attempting the Challenge
+Quests as well.
+[END]
+11: (Isabeau) [7a 5][7b 65541, 65537][13 0, 21018]Well! If everyone's doing it, far be
+it from me to decline.
+[END]
+12: 〉 Jonathan and Isabeau left K's Tavern.
+[END]
+104: (K) [7a 22][13 0, 21009]Try raising your Gauntlet to the
+blackboard.
+[END]
+107: (Walter) [7a 4][7b 393220, 65537][13 0, 21012]Oh, for...!
+[END]
+109: (Burroughs) [7a 2][13 0, 400050]I'll register that as a new quest
+on the list.
+[END]
+207: (Navarre) [7a 6][7b 65542, 65537][13 0, 21013]Let us see which of the three of us
+can complete these Challenge Quests
+the swiftest.
+[->][13 0, 21014]Whoever completes these three Challenge
+Quests and returns to K's Tavern first
+shall be the victor.
+[END]
+307: (Navarre) [7b 524294, 65537][13 0, 21015]And thus it will be proven to you the
+innate superiority of we Luxurors!
+[END]

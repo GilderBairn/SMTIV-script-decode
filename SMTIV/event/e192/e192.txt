@@ -1,0 +1,34 @@
+0: (Walter) [7a 4][13 0, 192001]What in the devil...!?
+[END]
+1: 〉 Jonathan and Walter stood there,
+devastated...
+[END]
+2: (Jonathan) [7a 3][7b 655363, 65537][13 0, 192003]Ah, [Flynn]... We stepped outside
+to find this.
+[END]
+3: (Jonathan) [7a 3]We stepped outside to find this.
+[END]
+4: (Walter) [7a 4][7b 655364, 65537][13 0, 192004]What's happened to Lilith...? To Tokyo?
+[END]
+5: (Jonathan) [7a 3][7b 786435, 65537][13 0, 192005]The layer of bedrock that covered
+Tokyo is gone...
+[->][13 0, 192006]Our homeland... What has become of
+the Eastern Kingdom of Mikado?
+[END]
+6: (Walter) [7a 4]]We are met with one wave of madness
+after another.
+[END]
+7: (Walter) [7a 4][7b 655364, 65537][13 0, 192007]We're in Tokyo, yes? Is this place
+truly Tokyo...?
+[END]
+8: (Jonathan) [7a 3][13 0, 192008]Would you please refrain from asking
+me that?
+[END]
+9: (Jonathan) [7a 3][7b 393219, 65537][13 0, 192009]I should like to find someone who
+does know what the truth of this.
+[->][13 0, 192010]Assuming anyone does, that is...
+[END]
+10: 〉 Jonathan and Walter joined you.
+[END]
+100: (Jonathan) [7a 3][13 0, 192002]The city is gone...
+[END]

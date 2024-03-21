@@ -1,0 +1,39 @@
+0: (The White) [7a 124][13 0, 243001]So even [Flynn] would make that
+choice...
+[->][13 0, 243002]Cowardly human...!
+[END]
+1: (The White) [7a 124][13 0, 243003]But...
+[->][13 0, 243004]...You are too late to walk that path,
+[Flynn].
+[->][13 0, 243005]You have chosen to preserve the status
+quo, yet you wish to upend it as well...
+[END]
+2: (The White) [7a 124][13 0, 243006]So even [Flynn] would make that
+choice...
+[->][13 0, 243007]Cowardly human...!
+[END]
+3: (The White) [7a 124][13 0, 243008]But...
+[->][13 0, 243009]...You are too late to walk that path,
+[Flynn].
+[->][13 0, 243010]You have chosen to upend the status
+quo, yet you wish to preserve it
+as well...
+[END]
+4: (The White) [7a 124][13 0, 243011]Why do you oppose us, [Flynn]?
+[END]
+5: (The White) [7a 124][13 0, 243012]Will even you place your hopes in
+the possibility of a future?
+[->][13 0, 243013]Even after we have shown you many
+times there is no future for the
+human race?
+[END]
+6: (The White) [7a 124][13 0, 243014]You are no longer of use to us.
+[->][13 0, 243015]May you regret your choice here in
+this fabricated space until you die...
+[END]
+900: 〉 What will you do with the order of
+things?
+[END]
+901: Preserve it
+Destroy it
+[END]

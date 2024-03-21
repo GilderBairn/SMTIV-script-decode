@@ -1,0 +1,49 @@
+1: 〉 Obtained [Color:0x5][41 31][Color:0x0] x10.
+[END]
+2: (Demon) [7a 65287][13 1, 417007]Huh? Have we met before...? Do you know
+what ”Naraku” is...?
+[END]
+3: ”Of course.”
+”I'm afraid not.”
+[END]
+4: (Demon) [7a 65287]I knew it. Listen, mister...
+[->][13 1, 417009]Some angels suddenly came out and
+started killing all the demons in the
+Eastern Kingdom of Mikado.
+[->](Demon) [7a 65287]They're doing it just 'cause they're
+demons! I'm so scared... I don't wanna
+go back to Naraku...
+[END]
+5: (Demon) [7a 65287]Oh... Never mind, then.
+[END]
+6: (Demon) [7a 65299][13 1, 495800]Hey buddy, you from Kiccigiorgi...?
+[END]
+7: ”That's right.”
+”No.”
+[END]
+8: (Demon) [7a 65299]I knew it. I'm a former human. You're
+”in the know” like me, huh?
+[->]The Eastern Kingdom of Mikado right now
+is so boring, with the angels and all,
+huh?
+[->]Tokyo's the place to be. Everyone's
+desires run wild there... I ain't going
+back!
+[END]
+9: (Demon) [7a 65299]Oh... Then forget it.
+[END]
+10: (Hunter man) [7a 119][13 1, 403021]......
+[->]Let me ask you something. Are you after
+that demon too...?
+[END]
+11: ”That's right.”
+”No.”
+[END]
+12: (Hunter man) [7a 119][13 1, 403042]Dang... Someone else other than me has
+narrowed it down? Then the rumors must
+be true...
+[->]The ones about that Fiend sighting at
+Minami Sunamachi, I mean.
+[END]
+13: (Hunter man) [7a 119][13 1, 403012]......
+[END]

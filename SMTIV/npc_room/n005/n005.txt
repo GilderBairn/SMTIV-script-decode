@@ -1,0 +1,413 @@
+0: (Hope) [7a 8][13 1, 400601]You're about to undergo the first
+training for your new life. If you are
+worried, then it is as you should be.
+[->]You'll find your fellows in the plaza,
+or perhaps in Naraku. You should hark
+what they have to tell you.
+[->]You should always be receptive to useful
+information. That's one of the basic
+precepts of being a Samurai.
+[END]
+1: (Calm Samurai) [7a 114][13 1, 403002]Training exercises, eh? There's a phrase
+I've not heard in some time. We haven't
+had any recruits to train in years!
+[->]But allow me to warn you of one thing.
+Do not take the training lightly, or the
+price could be your life.
+[END]
+2: (Calm Samurai) [7a 114][13 1, 403002]The lady's ring you found in Naraku...
+[->]There's an engraving on the back of it,
+dated around 30 years ago.
+[->]The Commander was about your age at
+that time...
+[->]Now, this is merely my conjecture, you
+understand... But I'm certain that ring
+belongs to...
+[END]
+3: (Calm Samurai) [7a 114][13 1, 403042]About what happened in Naraku...
+You may be sure the Commander will hear
+of it.
+[->]Navarre and his cronies will face a
+stiff punishment, I expect.
+[->]The Commander isn't the talkative sort,
+but hours of his silent stare... 'Tis
+the worst punishment you could imagine.
+[END]
+4: (Calm Samurai) [7a 114][13 1, 403002]The Commander seemed so even−tempered
+at the emergency meeting. Though I know
+he was upset beyond words...
+[->]They stay safely cloistered inside the
+Monastery, save for when they wish to
+manipulate events in their favor.
+[->]Abbot Hugo merely wanted to publicly
+display he carries more weight in
+Mikado than our Commander.
+[END]
+5: (Calm Samurai) [7a 114][13 1, 403042]Hello, young heroes of the kingdom!
+I bring you tidings from the Commander,
+who is in the Obelisk Plaza now.
+[->]You are all worthy of receiving the
+Third Order of Merit. I've never
+seen the Commander so pleased.
+[END]
+6: (Calm Samurai) [7a 114][13 1, 403001]Though the Black Samurai was executed,
+sightings of demons throughout the
+kingdom persist.
+[->]Is it because of the wisdom and knowledge
+she mentioned? Such unwanted gifts...!
+[END]
+7: (Calm Samurai) [7a 114][13 1, 403002]Any Samurai not assigned to recover the
+mystic relics are to join the sweep
+of the kingdom.
+[->]All Samurai must work in harmony to
+improve the kingdom's security.
+[->]You recipients of the Third Order of
+Merit will pursue her in Tokyo...
+[->]She has nowhere to hide now. She can
+resurrect all she likes, but we will
+bury her again and again!
+[END]
+8: (Calm Samurai) [7a 114][13 1, 403042]We had an emergency meeting while you
+were away.
+[->]Abbot Hugo convened it. He announced
+that the kingdom will be under new
+leadership...
+[->]And that Hugo will act as a mouthpiece
+for the new leaders to the people.
+[END]
+9: (Baritone Samurai) [7a 117][13 1, 403003]Ah, hello, newcomer. How was your
+first foray into Naraku? Hard, no?
+[->]If you are tired, go back to barracks
+and take a nap.
+[END]
+10: (Baritone Samurai) [7a 117][13 1, 403003]The Commander tells me you're going to
+K's Tavern?
+[->]Since the training exercises are
+concluded, you are officially Samurai.
+[END]
+11: (Baritone Samurai) [7a 117][13 1, 403002]I heard from Walter that you met
+someone in Naraku, yes?
+[->]As you've seen, the entrance to Naraku
+is guarded extremely tightly.
+[->]It is hard to believe you could have
+spied a girl and a boy inside...
+[END]
+12: (Baritone Samurai) [7a 117][13 1, 403001]If it's the bottom of Naraku you seek,
+you need only keep descending...
+[->]But as no one has ever reached its
+bottom, there is no one to advise you
+in this quest.
+[->]Prepare your weapons, armor, goods,
+and demons as best you can.
+[END]
+13: (Baritone Samurai) [7a 117][13 1, 403041]Abbot Hugo announced that the Terminal
+is back in service.
+[->]Now we can approach Tokyo, the country
+of the Unclean Ones, without going
+through Naraku.
+[END]
+14: (Baritone Samurai) [7a 117][13 1, 403042]I hear executions bandied about quite
+often of late. I suppose Abbot Hugo is
+fond of the phrase...
+[->]We have ”executed” many of those who
+became demons by reading Literature...
+[->]Abbot Hugo told us to think of them as
+”executions” rather than ”cold−blooded
+murder.” If those are his wishes...
+[END]
+15: (Baritone Samurai) [7a 117][13 1, 403002]If the Black Samurai has resurrected...
+We must start the executions anew...
+[->]More of those who turn to demons must
+be put to the sword...
+[END]
+16: (Baritone Samurai) [7a 117][13 1, 403021]I have never met the new leaders
+in person...
+[->]But the fact that all the demons have
+disappeared from the kingdom is proof
+enough of their presence...
+[END]
+17: (Forceful Samurai) [7a 29][13 1, 403042]You have now seen firsthand the menace
+of demons.
+[->]But once they are fighting at your
+side, your mission to protect our
+kingdom will go a bit more smoothly.
+[->]To recruit demons as allies...
+[->]Sometimes I'm overwhelmed by the grandeur
+of King Aquila's vision. I would have
+never thought of it on my own...
+[END]
+18: (Forceful Samurai) [7a 29][13 1, 403012]I heard from Isabeau that there are
+some sneaks among the fellows, eh?
+[->]Using the darkness of Naraku to rig
+a prank... I don't know who's worse,
+the demons or those scoundrels.
+[END]
+19: (Forceful Samurai) [7a 29][13 1, 403042]I've read in our lore that if one is
+to reach the bottom of Naraku...
+[->]One would face a legendary demon with
+incredible might, which served as one
+of King Aquila's own allies...
+[END]
+20: (Forceful Samurai) [7a 29][13 1, 403011]I spoke briefly with the Black Samurai
+just before her execution...
+[->]”Why did you provide the people with
+Literature?” I asked. And in response...
+[->]”It's what the people of the kingdom
+wanted,” she said.
+[END]
+21: (Forceful Samurai) [7a 29][13 1, 403021]I spoke briefly with the Black Samurai
+just before her execution...
+[->]”Why did you provide the people with
+Literature?” I asked. And in response...
+[->]”It's what the people of the kingdom
+wanted,” she said.
+[END]
+22: (Forceful Samurai) [7a 29][13 1, 403021]I dreamt that I spoke to our new
+leaders...
+[->]”Why did you come to our kingdom?”
+I asked. And in response...
+[->]”It's what the people of the kingdom
+wanted,” they said.
+[END]
+23: (Weary Samurai) [7a 116][13 1, 403203]...I was in Tokyo as well. I made the
+trip back to the castle town the other
+day and decided to visit my nephew.
+[->]He'd grown so much... I was only in
+Tokyo for a day or so.
+[->]Could it be that time flows differently
+in Tokyo than in our kingdom? I wonder...
+[END]
+24: (Weary Samurai) [7a 116][13 1, 403203]I was supposed to be back on my original
+posting in our kingdom...
+[->]But thanks to that Black Samurai, I'm
+bound once more for Tokyo.
+[END]
+25: (Weary Samurai) [7a 116][13 1, 403203]Hoy. You seem to share my predicament
+somewhat...
+[->]I've just returned from Tokyo to find
+the kingdom in a shambles. It's like
+a different country now...
+[END]
+100: (Hope) [7a 8][13 1, 400601]Abbot Hugo tells me you've successfully
+entered Tokyo. Is that true?
+[->]......
+[->]I am sorry that I can't find any praise
+to give you on your achievement...
+[END]
+101: (Calm Samurai) [7a 114][13 1, 403002]You took first place, yes? So then, you
+saw the ring, I expect?
+[->]When the Commander is tipsy, he always
+speaks of a woman he left back in his
+home village...
+[->]Now, this is merely my conjecture, you
+understand... But I'm certain that ring
+belongs to...
+[END]
+104: (Calm Samurai) [7a 114][13 1, 403042]The monks at the Monastery mock our
+Commander, saying he keeps too strictly
+to the code.
+[->]But the people are very frightened of
+demons now. If our Commander did not
+make a show of easing their fears...
+[->]Then the people's sense of security and
+trust in we Samurai would be shaken.
+Hence his tour of the kingdom.
+[->]I'm sure that if he could, the Commander
+would be among the first into Tokyo to
+strike down the Black Samurai...
+[END]
+108: (Calm Samurai) [7a 114][13 1, 403042]This kingdom was founded by God. But so
+then why have demons come here?
+[->]The question tormented me... But now
+that the demons are driven out, I think
+I understand the answer...
+[->]Perhaps God granted us a chance to
+prove ourselves by trial, believing
+that we would prevail in the end.
+[->]What a stern love and trust... Only our
+Father could have brought them to us...
+[END]
+109: (Baritone Samurai) [7a 117][13 1, 403003]Was that... Walter, I think his name
+was? He said he was headed down to
+Naraku.
+[->]He just came from his training exercises
+and is already rushing back in. That
+takes a certain kind of madness...
+[END]
+110: (Baritone Samurai) [7a 117][13 1, 403003]The Commander tells me you're going to
+K's Tavern?
+[->]Have you had a look at the blackboard
+yet? Ah... just go and enjoy yourselves.
+[END]
+116: (Baritone Samurai) [7a 117][13 1, 403021]Isabeau was urging us not to rely on
+the new leaders.
+[->]Though they have shown us miracles upon
+miracles, they remain silent when a
+crisis befalls us...
+[->]In the end, we must choose our own
+course... I think I understand what
+Isabeau was getting at.
+[END]
+119: (Forceful Samurai) [7a 29][13 1, 403042]...What!? You've defeated King Aquila's
+own demon!?
+[->]I'm happy for your safe return, and for
+your incredible achievement...
+[->]But when I think of how King Aquila
+would take it... I simply can't cheer
+the news. I'm sorry...
+[END]
+122: (Forceful Samurai) [7a 29][13 1, 403021]I had a dream... And in this dream,
+I saw our new leaders unite as one...
+[->]”Why did you become one?” I asked.
+And in response...
+[->]”It's what our Lord wished,” they said.
+[END]
+200: (Hope) [7a 8][13 1, 400601]I hear that some of the Black Samurai's
+disciples were executed.
+[->]Her dark work eroded the fabric of our
+society more than we could foresee...
+[->]Damn you, Black Samurai... Even in death,
+you are a grave threat to our kingdom's
+well−being...
+[END]
+208: (Calm Samurai) [7a 114][13 1, 403042]On the Commander's orders, we've alerted
+the nearby villages to the situation and
+brought their people to the castle.
+[->]Still... abandoning the Eastern Kingdom
+of Mikado and setting out for a new
+land...
+[->]Do you think they will take to such
+an idea...?
+[END]
+210: (Baritone Samurai) [7a 117][13 1, 403003]The Commander tells me you're going to
+K's Tavern?
+[->]If you're of a mind to take on the
+challenge quests, make sure you
+properly register for them.
+[END]
+216: (Baritone Samurai) [7a 117][13 1, 403021]Abbot Hugo convened an emergency meeting
+for the people gathered in Mikado Castle.
+[->]We are to abandon the Eastern Kingdom
+of Mikado and emigrate to Tokyo as our
+new home...
+[->]The abbot's final words brought tears
+to my eyes...
+[->]We abandon this land not out of despair,
+but out of hope. The hope for us all to
+finally come into our own...
+[END]
+222: (Forceful Samurai) [7a 29][13 1, 403021]I saw it in my dream... Our new leaders
+gradually disappearing...
+[->]”Why are you leaving us?” I asked.
+And in response...
+[->]”The people of this kingdom no longer
+need us,” they said.
+[END]
+300: (Hope) [7a 8][13 1, 400601]Sister Gabby proclaimed that we are to
+thoroughly investigate every region of
+the kingdom...
+[->]That we might sooner find the Black
+Samurai and end her life.
+[->]She is a soft−spoken woman, but there
+is no remorse or regret in her words.
+[->]She is an iron−willed lady with some
+of the strongest convictions I know.
+[END]
+310: (Baritone Samurai) [7a 117][13 1, 403003]I see you're completing the challenge
+quests in fine form.
+[->]More of them will be added to the
+blackboard as needed.
+[->]When there is something new to see,
+Burroughs will inform you. Let her
+handle that part...
+[END]
+400: (Hope) [7a 8][13 1, 400601]I returned from the expedition on orders
+from Abbot Hugo...
+[->]Only to find King Ahazuya of Mikado
+and all his servants exiled from
+Mikado Castle.
+[->]It was the decision of our new leaders.
+They said the old order is no longer
+needed...
+[END]
+500: (Hope) [7a 8][13 1, 400601]Hmm... So that's what happened between
+Jonathan and Walter...
+[->]......
+[->]I left my fiancee behind when I became
+a Samurai. Before I knew it, I was the
+order's commander...
+[->]Now, the trappings of my station prevent
+me from speaking freely. I envy those
+who can...
+[END]
+600: (Hope) [7a 8][13 1, 400601]Jonathan... [Flynn]...
+[->]We Samurai will search the Eastern
+Kingdom of Mikado again on the orders
+of our new leaders.
+[->]Our task is to hunt the Luxurors who
+fled the castle, as well as all the
+Black Samurai's remaining disciples.
+[->]This will be the last necessary tragedy
+of this kingdom. That... is what our
+new leaders have told us...
+[->]I will give my life, if necessary, to
+carry out my mission. I shall be this
+kingdom's shield. 
+[->]And you shall be its sword...
+I'm counting on you.
+[END]
+700: (Hope) [7a 8][13 1, 400601]Walter... [Flynn]...
+[->]We Samurai will search the Eastern
+Kingdom of Mikado again on the orders
+of our new leaders.
+[->]Our task is to hunt the Luxurors who
+fled the castle, as well as all the
+Black Samurai's remaining disciples.
+[->]This will be the last necessary tragedy
+of this kingdom. That... is what our
+new leaders have told us...
+[->]I will quell all unease in my mind...
+I must dedicate myself to this kingdom
+where my dearest rests in peace...
+[->]I hope... that all of our choices can
+lead us to finding joy in the end...
+[END]
+800: (Hope) [7a 8][13 1, 400604][Flynn]... No, that is too
+familiar. 'Tis more proper to call you
+the warrior of light now.
+[->]Demon sightings have been greatly
+diminished of late. We will soon stop
+sending Samurai across the kingdom.
+[->]True peace will at last prevail in our
+Eastern Kingdom of Mikado...
+[->]Perhaps I may even live to see the
+Samurai disbanded...
+[END]
+900: (Hope) [7a 8][13 1, 400603][Flynn]...
+[->]I saw you emerge from Naraku alongside
+a flaxen−haired girl.
+[->]It was not long after that the horde
+of demons surged into our kingdom...
+[->]I fear no demon. What I fear, rather,
+is the terrible thought growing in my
+mind...
+[->]Have I... forged the worst threat to
+this kingdom with my own hands...?
+[END]
+1000: (Hope) [7a 8][13 1, 400601][Flynn]... Yes, I've heard it all
+from Isabeau...
+[->]About God's chariot, and what became
+of Jonathan...
+[->][Flynn]... This is merely my own
+opinion, but growing up means choosing
+one's friends.
+[->]As your life grows busier, your time to
+spend with friends lessens. So you cling
+to those you feel comfortable with...
+[->]Rather than spend your precious idle
+moments with those who do not share
+your views.
+[->]I may be doing a poor job of explaining
+myself... I just wanted to say that you
+needn't feel disappointed in yourself.
+[END]

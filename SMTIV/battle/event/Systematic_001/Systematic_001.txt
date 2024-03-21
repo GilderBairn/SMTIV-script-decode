@@ -1,0 +1,47 @@
+0: 〉 A passage in mystic script appears
+on the Gauntlet...
+[END]
+1: [->][END]
+2: (Ippon−Datara) [7a 0]As long as you don't try to reflect,
+I'm not even gonna break a sweat!
+[END]
+3: Check action start
+[->][END]
+4: (Ippon−Datara) [7a 0]Huh!? Wait a minute! Did you just
+reflect my attack!?
+[->]Well, I'll just hit you even harder,
+then! That'll teach you!
+[END]
+5: (Ippon−Datara) [7a 0]Dammit! Stop reflecting!
+[->]Y... You're not gonna beat me!
+[END]
+6: (Ippon−Datara) [7a 0]Wait a minute... You must be some
+kind of reflection master!
+[->]Damn... well, there's nothing left
+for me to teach you...
+[END]
+7: Check action end
+[->][END]
+8: [->][END]
+9: 〉 [Flynn] runs past the boundary to
+the virtual battle, and the simulaton
+ends...
+[END]
+10: Check enemy escape
+[->][END]
+11: 〉 The enemy was not eliminated within
+the turn limit.
+[->]〉 The simulation ends...
+[END]
+12: [->][END]
+13: 〉 The enemy was successfully
+eliminated within the turn limit.
+[->]〉 The simulation ends...
+[END]
+100: ”Demon training program −− Ready
+ Training Battle 1 −− Begin”
+[->][Color:0x5]”Figure out how to damage the demon,
+ and defeat it within 5 turns!”[Color:0x0]
+[END]
+1000: Test
+[->][END]

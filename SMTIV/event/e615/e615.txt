@@ -1,0 +1,65 @@
+0: 〉 Wu Kong has escaped...
+[END]
+1: (Burroughs) [7a 2][13 1, 502044]It seems the demon's run off to a
+different floor.
+[->]I've locked onto the demon's signal.
+I'll display its location on the
+navigation map.
+[->]You can use the navigation map to
+see the other floors.
+[->]Try using it now to find where that
+demon is now.
+[END]
+2: 〉 α2ROM will not display the demon's
+signal.
+[->]〉 In the final game, the demon's
+location will be marked on your map.
+[->]〉 But, for now, go to B4 of Naraku,
+because that's where the demon is.
+Trust us!
+[END]
+3: (Burroughs) [7a 2][13 1, 502044]I still have a lock on the demon's
+signal.
+[->]Let us be sure to defeat it this time.
+[END]
+4: 〉 The demon's marker has moved to [Color:0x5]B7.[Color:0x0]
+[->]〉 Proceed to [Color:0x5]B7[Color:0x0] of Naraku.
+[->]〉 By the way, in the full version,
+the marker will randomly move around
+the area.
+[->]〉 Defeat the demon before it moves
+again.
+[END]
+5: (Wu Kong) [7a 65181][13 1, 411008]Alright! Alright! I give up!
+I'll go quietly.
+[->]Pfah... I was expecting a god to come
+down from the heavens and come after
+me. I never thought a human would...
+[->]Not even Buddha would have expected
+this.
+[->]Are you sure you're not under some
+sort of divine protection or something?
+[->]...Well, I guess it really doesn't
+matter to me.
+[END]
+6: 〉 A majestic voice speaks forth from
+the heavens above...
+[END]
+7: (Majestic voice) [13 1, 413200]So, you have caught Wu Kong.
+[->]I am Erlang Shen. I praise you on the
+splendid work you have done.
+[->](Erlang Shen) Not only is the Jade Emperor pleased,
+but so are the rest of the gods of
+the heavens.
+[END]
+8: (Wu Kong) [7a 65181][13 1, 411011]Damn. Well, you caught me. Looks like
+it's time for me to go back.
+[->]After all, I am the famous Wu Kong!
+[->]I still have my honor. I'm not going
+to cry about losing to a human.
+That sort of thing is beneath me.
+[->]Well, I'll see you around.
+Don't let yourself loose too much.
+[END]
+9: 〉 The demon leaves.
+[END]

@@ -1,0 +1,182 @@
+41: All stats lowered!
+[END]
+73: Some of your Macca is gone!
+[END]
+74: Half of your Macca is gone!
+[END]
+77: The illness has worsened!
+[END]
+101: Attack increased!
+[END]
+102: Hit/evasion rate increased!
+[END]
+103: Defense increased!
+[END]
+104: All stats increased!
+[END]
+105: All stat enhancements are removed.
+[END]
+106: Attack decreased!
+[END]
+107: Hit/evasion rate decreased!
+[END]
+108: Defense decreased!
+[END]
+109: All stats decreased!
+[END]
+110: All stat decreases are removed.
+[END]
+111: All stats returned to normal.
+[END]
+112: Attack/defense decreased!
+[END]
+113: Attack/hit rate/evasion rate decreased!
+[END]
+114: Attack/hit rate/evasion rate decreased!
+[END]
+115: Defense decreased and attack increased!
+[END]
+117: Magic temporarily increased!
+[END]
+121: Physical/gun damage temporarily increased!
+[END]
+122: Magic temporarily greatly increased!
+[END]
+123: All stats increased!
+[END]
+138: MAX HP increased!
+[END]
+139: [Demon name 6] smirks...
+[END]
+169: Attack decreased!
+[END]
+201: Defense decreased!
+[END]
+202: Hit/evasion rate decreased!
+[END]
+206: Attack decreased!
+[END]
+207: Defense decreased!
+[END]
+211: Hit/evasion rate decreased!
+[END]
+212: Attack decreased!
+[END]
+216: Defense decreased!
+[END]
+217: Hit/evasion rate decreased!
+[END]
+221: Attack decreased!
+[END]
+223: All stats decreased!
+[END]
+226: Stat enhancements are removed!
+[END]
+233: HP regeneration added for the next turn!
+[END]
+234: Recovered from the status ailment!
+[END]
+235: MAX HP increased!
+[END]
+236: MP cost temporarily removed!
+[END]
+237: MP cost temporarily removed!
+[END]
+238: Damage temporarily nullified!
+[END]
+239: Damage temporarily nullified!
+[END]
+240: Attack temporarily greatly increased!
+[END]
+254: All stats increased!
+[END]
+255: Its aura has greatly changed...
+[END]
+256: Attack decreased!
+[END]
+264: Defense decreased!
+[END]
+266: The demon was returned to your stock...
+[END]
+268: Hit/evasion rate decreased!
+[END]
+269: Defense decreased!
+[END]
+272: A protective wall appeared before you!
+[END]
+273: A protective wall appeared before you!
+[END]
+274: A protective wall appeared before you!
+[END]
+275: A protective wall appeared before you!
+[END]
+303: Tetrakarn's effect was nullified!
+[END]
+309: Makarakarn's effect was nullified!
+[END]
+310: [Demon name 6] smirks...
+[END]
+318: All your stats up and all the opponent's stats down!
+[END]
+319: Hit/evasion rate down!
+[END]
+320: Created a weakness!
+[END]
+321: Gained a Press Turn Icon!
+[END]
+322: Time rewinds...
+[END]
+325: Magic temporarily greatly increased!
+[END]
+328: Phys/gun temporarily greatly increases!
+[END]
+355: The portable cannon began loading shells...
+[END]
+356: The portable cannon began its bombardment!
+[END]
+358: The smirk disappeared!
+[END]
+388: A StreetPass Demon makes an assist!
+[END]
+389: 2 StreetPass Demons make an assist!
+[END]
+390: 3 StreetPass Demons make an assist!
+[END]
+391: 4 StreetPass Demons make an assist!
+[END]
+392: 5 StreetPass Demons make an assist!
+[END]
+393: 6 StreetPass Demons make an assist!
+[END]
+394: 7 StreetPass Demons make an assist!
+[END]
+395: 8 StreetPass Demons make an assist!
+[END]
+396: 9 StreetPass Demons make an assist!
+[END]
+397: 10 StreetPass Demons make an assist!
+[END]
+398: 11 StreetPass Demons make an assist!
+[END]
+399: 12 StreetPass Demons make an assist!
+[END]
+457: Energy replenishing!
+[END]
+458: Energy decreasing!
+[END]
+459: The skill's user is instantly killed!
+[END]
+460: Power rises within Gore's body!
+[END]
+1000: The effect is already at its max!
+[END]
+1001: The target is too poor to steal more!
+[END]
+1002: No more can be drained...
+[END]
+1003: The wall of light was nullified!
+[END]
+1004: The wall of light repelled the attack!
+[END]
+1005: There was no decrease in HP...
+[END]

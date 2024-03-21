@@ -1,0 +1,123 @@
+0: (Jonathan) [7a 3][13 0, 127001]Hello there, [Flynn]. Returned safe,
+I see?
+[END]
+1: (Walter) [7a 4][7b 655364, 65537][13 0, 127002]Damn, but my shoulders are stiff!
+That masked man was quite the burden.
+[END]
+2: (Isabeau) [7a 5][7b 589829, 65537][13 0, 127003]I looked upon a man who was not
+my father in his nakedness...
+[END]
+3: 〉 Jonathan, Walter, and Isabeau have
+joined you.
+[END]
+4: (Gabby) [7a 11][13 0, 127004]Glory be to you Blessed Samurai who
+have gathered here.
+[END]
+5: (Gabby) [7a 11][13 0, 127005]I thank you for your works. The three
+men shall recover in time.
+[END]
+6: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[END]
+7: (Walter) [7a 4][7b 655364, 65537][7b 786435, 131073][13 0, 127007]Indulge me... Who were those masked men?
+[END]
+8: (Gabby) [7a 11][13 0, 127008]Persons who are inconvenient to the
+demons.
+[END]
+9: (Walter) [7a 4]Error
+[END]
+10: (Gabby) [7a 11][13 0, 127009]However, the demons cannot kill them.
+[END]
+11: (Jonathan) [7a 3][13 0, 127010][7b 786435, 131073]Ah, hence the cages...
+[END]
+12: (Gabby) [7a 11][13 0, 127011]Once they recover, this kingdom will
+have no more need to fear the demons.
+[->][13 0, 127012]You have done a great service for
+this kingdom's future.
+[END]
+13: (Walter) [7a 4][7b 655364, 65537][7b 65539, 65537][13 0, 127013]I'll not decline the praise, but...
+I still don't understand.
+[END]
+14: (Gabby) [7a 11][13 0, 127014]By the by... While you were away,
+there was an incident.
+[->][7b 458763, 65537][13 0, 127015]The Black Samurai's body has
+disappeared.
+[END]
+15: (Walter) [7a 4][7b 458756, 131073][7b 458755, 131073][13 0, 127016]Wh−What!? There's a jolting bit
+of news...
+[END]
+16: (Jonathan) [7a 3][7b 458755, 131073][13 0, 127017]What do you mean by that?
+[END]
+17: (Gabby) [7a 11][7b 65547, 65537][13 0, 127018]One of the two guards guarding the
+corpse was killed...
+[->][13 0, 127019]The surviving guard reported thusly:
+[->][13 0, 127020]”The Black Samurai resurrected and
+fled to Tokyo...”
+[END]
+18: (Isabeau) [7a 5][7b 458757, 65537][7b 196612, 65537][13 0, 127021]That's not possible... Did she truly
+revive from the dead?
+[END]
+19: (Gabby) [7a 11][13 0, 127022]Suffice to say that public knowledge
+of this would cause an uproar.
+[END]
+20: (Gabby) [7a 11][13 0, 127023]Sir Hope is currently scouring the
+Eastern Kingdom of Mikado for her.
+[->][13 0, 127024]This is where you, who are learned
+in the lay of Tokyo, have a role
+to play...
+[->][13 0, 127025]I want you to return there.
+[END]
+21: (Walter) [7a 4][7b 655364, 65537][7b 196613, 65537][13 0, 127026]Another long trip? I recall a time
+when the word ”holiday” had a meaning
+to we Samurai...
+[END]
+22: (Gabby) [7a 11][13 0, 127027]This time, my request is not to
+capture her alive.
+[->][7b 458763, 65537][13 0, 127028]You are to kill her.
+[END]
+23: (Jonathan) [7a 3][7b 65539, 131073][7b 196612, 65537][13 0, 127029]What...?
+[END]
+24: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+25: 〉 [Flynn] and his fellow Samurai
+left the Monastery...
+[END]
+26: (Walter) [7a 4][13 0, 127031][7b 655364, 65537]'Tis a bit eerie to receive orders to
+kill a woman who's been executed once.
+[END]
+27: (Isabeau) [7a 5][13 0, 127032][7b 196613, 65537]The Samurai code is to protect the
+people. To be sent on a mission of
+murder is...
+[END]
+28: (Jonathan) [7a 3][13 0, 127033][7b 786435, 65537]It is what we are given.
+[->][13 0, 127034]If the Black Samurai returns, the
+people will panic, and chaos will
+reign over our kingdom.
+[END]
+29: 〉 A Samurai walked up to [Flynn].
+[END]
+30: (Master Samurai) [7a 117][13 0, 127035]Ah, [Flynn], there you are.
+[->][13 0, 127036]I have a message from the Association
+in Tokyo.
+[->][13 0, 127037]An Unclean One called ”Tayama” requests
+an audience with you in Shibuya.
+[END]
+31: (Walter) [7a 4][13 0, 127038][7b 655364, 65537]What...? Tayama, as in the
+Ashura−kai's...?
+[->][13 0, 127039]Hoy, is this your doing, [Flynn]?
+[END]
+32: ”In truth...”
+”I plead ignorance.”
+[END]
+33: (Walter) [7a 4][7b 458756, 65537][13 0, 127040]Truly!?
+[END]
+34: (Walter) [7a 4][13 0, 127041][7b 786436, 65537]I thought as much... It's unexpected,
+to say the least.
+[END]
+35: (Jonathan) [7a 3][13 0, 127042][7b 786435, 65537]This may be a blessing in disguise...
+[->][13 0, 127043]We can inquire after the Black Samurai
+when we meet Tayama.
+[END]
+36: (Burroughs) [7a 2][13 0, 400050]I'll register that as a new quest
+on the list.
+[END]

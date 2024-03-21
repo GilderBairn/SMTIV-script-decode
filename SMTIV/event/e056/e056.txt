@@ -1,0 +1,37 @@
+0: (Walter) [7a 4][7b 589828, 65537][13 0, 56001]...You've come around.
+[END]
+1: (Isabeau) [7a 5][7b 393221, 131073][13 0, 56002]Thank goodness...
+[END]
+2: (Jonathan) [7a 3][7b 655363, 131073][13 0, 56004]Much to our chagrin, it seemed those
+demonic girls knocked we menfolk out.
+[END]
+3: (Isabeau) [7a 5][7b 524293, 131073][13 0, 56006]You men really are useless in a crisis.
+[END]
+4: (Walter) [7a 4][7b 524292, 65537][7b 196611, 65537][13 0, 56007]......
+[END]
+5: (Hope) [7a 8][13 0, 56009]All prentices, this is Hope speaking.
+[->][13 0, 56010]I've seen the record of your battle
+with the Black Samurai. I'd like to
+hear the tale in your words.
+[END]
+6: (Isabeau) [7a 5][7b 65541, 196609][7b 524292, 65537][13 0, 56011]As I was conscious through it all,
+please allow me...
+[END]
+7: (Isabeau) [7a 5][7b 655365, 131073][7b 589828, 65537][13 0, 56012]Though we discovered and attempted to
+capture the Black Samurai, she called
+upon demons, thwarting our efforts.
+[END]
+8: (Hope) [7a 8][13 0, 56013]Demons...
+[->][13 0, 56014]This bears explaining in more detail.
+Return to the forest entrance at once.
+[END]
+101: (Isabeau) [7a 5][7b 655365, 65537][13 0, 56003]You wouldn't awaken no matter how
+much we tried talking to you,
+[Flynn].
+[END]
+102: (Jonathan) [7a 3][7b 786435, 65537][7b 196612, 65537][13 0, 56005]Walter and I were both head−over−heels
+for them... It was Isabeau who brought
+us to our senses.
+[END]
+104: (Jonathan) [7a 3][7b 524292, 65537][7b 196611, 65537][13 0, 56008]......
+[END]

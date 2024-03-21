@@ -1,0 +1,46 @@
+0: (Demon) [7a 64896][13 0, 184001]You young ones who command demons...
+I have been awaiting you.
+[END]
+1: (Demon) [7a 214][13 0, 184002]Whether the power you seek will be used
+for the sake of my country or not...
+[END]
+5: 〉 The Domain's seal is broken. The demon
+turned to stone...
+[END]
+6: (Walter) [7a 4][7b 196612, 65537][13 0, 184004]When the incompetent are given power,
+it only leads to the suffering of the
+people...
+[END]
+7: (Walter) [7a 4][7b 786436, 65537][13 0, 184005]Thank you, Michizane. You have taught
+me a valuable lesson.
+[END]
+8: 〉 The demon is no longer here...
+[END]
+9: 〉 Tobiume's Shoot started to shine in your hand...
+[END]
+10: (Voice) [7a 2][13 1, 458004]I am the Famed Michizane, one of the
+fierce National Defense Divinities.
+[END]
+11: (Michizane) [7a 2][13 1, 458003]Wherever my medium is, so too is
+my thunder. Therefore, I recognize
+you as my master.
+[->][13 1, 458010]I am honored to meet you.
+[END]
+12: 〉 You can now fuse
+[74 640] [42 640].
+[END]
+13: 〉 The rock that was once Michizane is
+sitting in front of you...
+[END]
+14: 〉 Michizane is no longer here...
+[END]
+101: (Demon) [7a 214][13 0, 184003]I, the thunder god Michizane of the
+deadly National Defense Divinities,
+shall gauge you.
+[END]
+105: 〉 The atmosphere in the area seems to
+have changed...
+[END]
+109: 〉 A voice emanates from the stone in
+front of you...
+[END]

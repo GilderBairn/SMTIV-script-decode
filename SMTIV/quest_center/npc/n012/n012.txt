@@ -1,0 +1,21 @@
+0: (Bartender) [13 1, 405120]Shibuya, Ikebukuro... All of Tokyo's regions
+belong to the King, right?
+[->]For Akira to bring the whole city
+together when not even Kenji could...
+Man.
+[END]
+1: (Demonoid man) [13 1, 415005]Ever since Akira became the king of
+Tokyo, people have been talking about
+”equality” a lot.
+[->]If we were still in the old Tokyo,
+”equality” would've been the word of
+the year for sure.
+[END]
+2: (Demonoid man) [13 1, 415102]A Tokyo where everyone can be equal and
+enjoy themselves, huh...?
+[->]I've known Akira since even before he
+became a demonoid.
+[->]And there's a part of him that's weak,
+so I bet that's why he's pushing this
+so hard.
+[END]

@@ -1,0 +1,110 @@
+0: (The White) [7a 0][13 0, 306401]Look at my form...
+[->][13 0, 306402]It is the image of your friend Issachar,
+who was torn asunder in the rift
+between your people. By your own hand.
+[->][13 0, 306403]The most proper course of action
+regarding this world that killed him...
+[->][13 0, 306404]I will demonstrate it to you using
+this form.
+[END]
+1: (The White) [7a 0][13 0, 306421]It's a pity... Truly regrettable.
+[->][13 0, 306422]Though you have such power and have
+seen multiple worlds...
+[->][13 0, 306423]You still will not take up our cause.
+[END]
+2: (Jonathan) [7a 3][13 0, 306424]A pretty speech, but it sounds to my
+ears like so much unjustified
+resentment and self−righteousness.
+[->][13 0, 306425]We who fight for the people shall
+never join in your cause!
+[END]
+3: (The White) [7a 0][13 0, 306426]Ah... Where is our salvation...?
+[END]
+4: (The White) [7a 0][13 0, 307235]Why...? Why wouldn't you save me even
+unto the very end...?
+[END]
+1000: (The White) [7a 0][13 0, 306405]Do you recall those lands? That
+blasted world, tainted with poison...
+[->][13 0, 306406]Those who depended on God were
+callously killed by Him.
+[->][13 0, 306407]Has the possibility that you, too,
+may also be smote by God not crossed
+your mind?
+[END]
+1001: ”There IS that possibility...”
+”I won't be killed.”
+Continue fighting
+[END]
+1002: (The White) [7a 0][13 0, 306408]...You were swayed just now, no?
+[->][13 0, 306409]Possibilities... Uncertainties...
+Even the most miniscule doubts
+towards God...
+[->][13 0, 306410]Such suspicions increase my power and
+rob you of yours.
+[END]
+1003: 〉 All of the White's stats have
+increased!
+[END]
+1004: 〉 All of [Flynn]'s party's stats
+decreased!
+[END]
+1005: (The White) [7a 0][13 0, 306411]What...? Are you convinced that you,
+individually, are beloved of God?
+[->][13 0, 306412]I had not thought that your will
+would be this strong...
+[END]
+1006: 〉 The White is weakened by
+[Flynn]'s faith!
+[END]
+1007: 〉 All of the White's stats have
+decreased!
+[END]
+1008: 〉 [Flynn] continus fighting without
+giving the White's words a second
+thought...
+[END]
+1009: (The White) [7a 0][13 0, 306413]One who desires preservation...
+What would your fellow Samurai think?
+[->][13 0, 306414]I refer to he who dreamt of changing
+this world, who is not here now...
+The one called Walter.
+[->][13 0, 306415]Does it not give you pause to think
+what he might say, were he to learn
+of your choice?
+[END]
+1010: Think about Walter
+Forget about Walter
+Continue fighting
+[END]
+1011: 〉 [Flynn] thinks of Walter...
+[END]
+1012: (The White) [7a 0][13 0, 306416]...You imagined him just now, no?
+[->][13 0, 306417]To whatever degree, however miniscule,
+you tried to incorporate Walter's
+opinions into your own choice. No?
+[->][13 0, 306418]Such doubts increase my power and
+rob you of yours.
+[END]
+1013: 〉 All of the White's stats have
+increased!
+[END]
+1014: 〉 All of [Flynn]'s party's stats
+decreased!
+[END]
+1015: 〉 [Flynn] erases Walter from his
+mind...
+[END]
+1016: (The White) [7a 0][13 0, 306419]You will even negate your fellows
+for the sake of your choice?
+[->][13 0, 306420]I had not thought that your resolve
+would be this strong...
+[END]
+1017: 〉 The White is weakened by
+[Flynn]'s firm resolution!
+[END]
+1018: 〉 All of the White's stats have
+decreased!
+[END]
+1019: 〉 [Flynn] continues fighting without
+giving Walter a second thought...
+[END]

@@ -1,0 +1,51 @@
+0: (Man's voice) [7a 1][13 0, 284001]You there, young man. Hold it there.
+[->][13 0, 284002]I'm afraid it's no use running.
+You see, I've set up a Domain here.
+[END]
+1: (Businesslike man) [7a 47][13 0, 284003]I've had the honor of looking after
+the Terminals for over twenty years.
+Some call me the Terminal Guardian.
+[END]
+2: (Businesslike man) [7a 47][13 0, 284004]Some call me the... Hm?
+[->][13 0, 284005]Ah... The mischievous boy from before.
+You've made yourself quite a nuisance.
+I'd best deal with you quickly.
+[END]
+3: (Businesslike man) [7a 47][13 0, 284006]You're back, you mischievous boy.
+I was confident that I'd see you at
+another Terminal.
+[END]
+4: (Businesslike man) [7a 47][13 0, 284007]We meet again, you mischievous boy.
+[->][13 0, 284008]Ever since you began wreaking havoc,
+it's become rather difficult to put
+food on the table for my family.
+[->][13 0, 284009]Not that I am worried. All I must do is
+to make sure this place is protected.
+[END]
+5: (Businesslike man) [7a 47][13 0, 284010]You've come, you mischievous Terminal−
+raiding boy.
+[->][13 0, 284012]These mounting losses don't reflect
+well on me, hm? You may not realize it,
+but I'm quite proud of my job.
+[END]
+6: (Businesslike man) [7a 47][13 0, 284013]I can't tolerate those who trespass
+carelessly, not even high−spirited
+youths like yourself.
+[->][13 0, 284014]I will capture you and reap the reward.
+[END]
+7: 〉 The Domain lifted...
+[END]
+8: (Burroughs) [7a 2][13 1, 400063]Looks like the quest is going well.
+[END]
+9: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+10: (Burroughs) [7a 2][13 1, 405706]This is the Toyosu Terminal.
+[END]
+11: (Burroughs) [7a 2][13 0, 74001]I'm going to run the Terminal
+activation program.
+[END]
+12: (Burroughs) [7a 2][13 0, 74002]Activation complete.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]

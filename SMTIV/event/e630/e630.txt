@@ -1,0 +1,74 @@
+0: (Setanta) [7a 65293][13 1, 411100]Huh...? Hey, you!
+My master sent you, didn't he?
+[END]
+1: ”Yes.”
+”No.”
+[END]
+2: (Setanta) [7a 65293][13 1, 411106]Finally! You should know that I'm
+in a really bad mood right now.
+[->]Why the hell do I have to be turned
+into a kid again just to teach me
+the ”way of the warrior”?
+[->]And who the hell wants to bother to
+learn how humans fight, anyway!? I'll
+show you how a true warrior kills!
+[END]
+3: (Setanta) [7a 65293][13 1, 411107]What the−−!? Now you're just
+confusing me. Get out of here!
+[END]
+4: (Setanta) [7a 65293][13 1, 411103]Damn! I was not expecting that.
+You kept your cool, even in an
+intense battle like that.
+[->]I guess that's what my master was
+trying to teach me. Never lose
+yourself in battle.
+[END]
+5: (Scathach) [7a 65499][13 1, 419305]Well... You've finally figured it
+out. You're one troublesome student,
+you know.
+[->]Ah, you would be [Flynn].
+Thank you for helping us.
+[->]It would seem that my disciple
+realized what he was missing, thanks
+to your little fight here.
+[->]I'm sure that Cu Chulainn will stop
+losing himself in bloodlust now.
+[END]
+6: (Cu Chulainn) [7a 65315][13 1, 412003]I am sorry for causing you such
+trouble, Master. I was acting
+immature...
+[->][Flynn]...
+[->]It is all thanks to you that I have
+been able to rethink my ways.
+[->]I shall train myself in the true ways
+of the warrior, and obtain even
+greater power.
+[END]
+7: (Scathach) [7a 65499][13 1, 419304]Well, I've got a little something
+for you as a reward. I'm sure it
+will come in handy.
+[END]
+8: 〉 Scathach used her powers to return
+Setanta to his true form as
+Cu Chulainn.
+[END]
+9: 〉 According to the map, this place
+is called ”Bugeikan.”
+[->]〉 The air is filled with the scent
+of blood...
+[END]
+10: 〉 You no longer have any business
+in this place.
+[END]
+100: (Setanta) [7a 65293][13 1, 411108]What the hell... It's you!
+You're the guy my master sent, right?
+[END]
+900: 〉 Speak to Setanta to begin the
+battle.
+[END]
+901: When Setanta loses the battle, he
+becomes humble. Scathach appears
+and returns Setanta to Cu Chulainn.
+[END]
+999: 〉 No one is here...
+[END]

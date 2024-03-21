@@ -1,0 +1,15 @@
+0: ターミナルが壊れています
+[END]
+1: 砂漠の至る所にクレーターがあることを
+発見します
+[END]
+2: (Walter) [7a 4][13 0, 193001]It's vacant to the point of being
+unsettling... The ground's pocked with
+holes, as if they'd been scooped out.
+[END]
+3: (Jonathan) [7a 171][7b 327851, 65537][13 0, 193002]In school, we learned that many of the
+lakes in the Eastern Kingdom of Mikado
+were once cavities such as these.
+[->][13 0, 193003][7b 655531, 65537]I wonder if everyone in the Eastern
+Kingdom of Mikado is safe...?
+[END]

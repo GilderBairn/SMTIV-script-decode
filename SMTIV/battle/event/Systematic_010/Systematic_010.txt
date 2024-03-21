@@ -1,0 +1,57 @@
+0: 〉 A passage in mystic script appears
+on the Gauntlet...
+[END]
+1: (Shemhaza) [7a 0]A great power courses through my
+body right now. If you do not use
+proper strategy when fighting me...
+[->]...my power will run wild and
+surely destroy you!
+[END]
+2: [END]
+3: Check action start
+[->][END]
+4: (Shemhaza) [7a 0]Oh... You don't know what you're
+doing, do you!? I can feel the
+power swelling in me... I... I...!
+[END]
+5: (Shemhaza) [7a 0][END]
+6: (Shemhaza) [7a 0][END]
+7: Check action end
+[->][END]
+8: [->][END]
+9: 〉 [Flynn] runs past the boundary to
+the virtual battle, and the simulation
+ends...
+[END]
+10: Check enemy escape
+[->][END]
+11: 〉 The enemy was not eliminated within
+the turn limit.
+[->]〉 The simulation ends...
+[END]
+12: Tentative enemy, Shemhaza Dakini
+[->][END]
+13: 〉 The enemy was successfully
+eliminated within the turn limit.
+[->]〉 The simulation ends...
+[END]
+100: (Dakini) [7a 0]We're really delicate, you know.
+[->]Please, have a little consideration
+for us and don't hit us too hard.
+[END]
+101: (Dakini) [7a 0]You're clueless!
+[->]Because of you, I've lost all
+control of my body.
+[END]
+102: (Dakini) [7a 0][END]
+103: (Dakini) [7a 0][END]
+200: ”Demon training program −− Ready
+ Training Battle 10 −− Begin”
+[->][Color:0x5]”Choose your team carefully
+to defeat the enemy in ten turns
+without provoking their wrath!”[Color:0x0]
+[END]
+300: (Shemhaza) [7a 0][END]
+301: (Dakini) [7a 0][END]
+1000: Test
+[->][END]

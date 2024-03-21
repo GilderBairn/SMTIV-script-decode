@@ -1,0 +1,31 @@
+0: 〉 Kaga is facing a group of demons.
+[END]
+1: (Kaga) [7a 140][13 0, 112001]...Hm? You're here...?
+[END]
+3: (Kaga) [7a 140][7b 786572, 65537][13 0, 112002]Well, good timing. Here, I'll let
+you take care of one of them!
+[END]
+4: 〉 Kaga turned to confront another of
+the demons.
+[END]
+5: 〉 Kaga is fighting a demon...
+[END]
+7: (Kaga) [7a 140][13 0, 112003]Did you get yours too?
+[END]
+8: (Walter) [7a 4][13 0, 112004]You bested that demon on your own...?
+[END]
+9: (Kaga) [7a 140][13 0, 112005]There are lots of folks in the Ring
+of Gaea as strong as me.
+[END]
+10: (Kaga) [7a 140][13 0, 112006]By the way, what were your names?
+[END]
+11: 〉 [Flynn] and his fellow Samurai
+introduced themselves to Kaga.
+[END]
+12: (Kaga) [7a 140][7b 786572, 65537][13 0, 112007]Alright. I'll remember that.
+[->][13 0, 112008]Well... I hope we meet again somewhere
+other than the afterlife.
+[END]
+13: 〉 Kaga proceeded into the depths of the
+Domain...
+[END]

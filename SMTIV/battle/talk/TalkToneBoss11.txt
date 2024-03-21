@@ -1,0 +1,410 @@
+0: Dummy
+[END]
+1: [71 1]Join you? Did I hear that right?
+[->]Begging me to become my minion, that
+I could understand... or better yet,
+my livestock!
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]It's a little too late for that.
+See, you've picked a fight with the
+King of Tokyo...
+[->]Isn't that right, Intruders!? Hurry up
+and try to kill me!
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]NOT USED
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]NOT USED
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]NOT USED
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]NOT USED
+[->][END]
+33: NOT USED
+[END]
+34: [71 1]Making small talk with the King of
+Tokyo is one hell of a privilege.
+[->]What's it worth to you?
+[->][END]
+35: NOT USED
+[END]
+36: [71 1]Well then, enjoy shooting the breeze
+with the King of Tokyo himself.
+[->][END]
+37: NOT USED
+[END]
+38: [71 1]I−I... was always alone...
+[->]Even if it's just chitchat... I would
+have killed for someone to talk to!
+[->][END]
+39: NOT USED
+[END]
+40: [71 1]We've got plenty of time on our hands.
+Let's take a moment to enjoy this...
+[->][END]
+41: NOT USED
+[END]
+42: [71 1]So it's mercy you want, right? That's
+gonna set you back some.
+[->][END]
+43: NOT USED
+[END]
+44: [71 1]Here, a little mercy from the King of
+Tokyo. I'd better see tears of joy on
+your face as you thank me.
+[->][END]
+45: NOT USED
+[END]
+46: [71 1]The King's having a good nap here...
+You shouldn't wake him...
+[->]If you want mercy... then sure, you can
+have it...
+[->][END]
+47: NOT USED
+[END]
+48: NOT USED
+[END]
+49: [71 1]I like this sense of superiority...!
+Here, let me do it again!
+[->][END]
+50: NOT USED
+[END]
+51: [71 1]Dude, you came this far to sponge money
+off the King of Tokyo?
+[->][END]
+52: NOT USED
+[END]
+53: [71 1]Get a load of this guy, treating the
+King of Tokyo like his own ATM!
+[->][END]
+54: NOT USED
+[END]
+55: [71 1]You'd be a legend if you could get the
+King of Tokyo to cough up for you.
+[->]So I hate to say it, but all it'll get
+you is dead!
+[->][END]
+56: NOT USED
+[END]
+57: [71 1]Hraaaaaaagh...!
+[->][END]
+58: NOT USED
+[END]
+59: [71 1]Y−You bastard...! You better quit while
+you're still alive!
+[->][END]
+60: NOT USED
+[END]
+61: [71 1]This is stupid! I'll give you money
+if that's what you want!
+[->]But c'mon, let's fight! That's what
+you came here for, isn't it!?
+[->][END]
+62: NOT USED
+[END]
+63: [71 1]Ohhhh, now that's it! You've crossed
+the line.
+[->][END]
+64: NOT USED
+[END]
+65: [71 1]Whoa, whoa. You came here to hit up the
+King of Tokyo for money?
+[->][END]
+66: NOT USED
+[END]
+67: [71 1]Dude, you came this far to sponge money
+off the King of Tokyo?
+[->][END]
+68: NOT USED
+[END]
+69: [71 1]Alright, I'll give you this. You should
+make it your new family heirloom.
+[->][END]
+70: NOT USED
+[END]
+71: [71 1]Negotiations? Talk about boring!
+[->]I'm the King of Tokyo. I don't mind
+giving you whatever you want.
+[->][END]
+72: NOT USED
+[END]
+73: [71 1]I'll add this onto the pile, too. To be
+honest, I've got way too many of them.
+[->][END]
+74: NOT USED
+[END]
+75: [71 1]I wanna end this quick. Let's make
+a deal, right here, right now.
+[->][Color:0x1][Amount 1] Macca.[Color:0x0]
+How's that grab you?
+[->][END]
+76: NOT USED
+[END]
+77: [71 1]I want your [Color:0x1][Item 1].[Color:0x0]
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]Gimme [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]Gimme [Color:0x1]a little[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+82: NOT USED
+[END]
+83: [71 1]Gimme [Color:0x1]some[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+84: NOT USED
+[END]
+85: [71 1]Gimme [Color:0x1]a bunch[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+86: NOT USED
+[END]
+87: [71 1]Gimme [Color:0x1]a friggin' ton[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+88: NOT USED
+[END]
+89: [71 1]Gimme [Color:0x1]a little[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+90: NOT USED
+[END]
+91: [71 1]Gimme [Color:0x1]some[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+92: NOT USED
+[END]
+93: [71 1]Gimme [Color:0x1]a bunch[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+94: NOT USED
+[END]
+95: [71 1]Gimme [Color:0x1]a friggin' ton[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+96: NOT USED
+[END]
+97: [71 1]Your demon there... I want to see
+that [Color:0x1][Demon name 2] dead.[Color:0x0]
+[->][END]
+98: NOT USED
+[END]
+99: [71 1][Color:0x1]That's it![Color:0x0] Gimme [Color:0x1]that.[Color:0x0] You know
+what I'm talking about, right?
+[->][END]
+100: NOT USED
+[END]
+101: [71 1]Alright, so what do you think it is?
+[->][END]
+102: NOT USED
+[END]
+103: [71 1]Yeah, you got it. That's it, all right.
+[->][END]
+104: NOT USED
+[END]
+105: [71 1]Ugh, are you kidding me?
+[->][END]
+106: NOT USED
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]Alright, I'll let you off the hook.
+[->][END]
+121: NOT USED
+[END]
+122: [71 1]Hyahahahaha! Now that's an offering!
+[->][END]
+123: NOT USED
+[END]
+124: [71 1]...Seriously?
+[->][END]
+125: NOT USED
+[END]
+126: [71 1]You've committed a crime against the
+king, you know that? A severe crime
+called ”holding out”...
+[->]I sentence you to be executed!
+[->][END]
+127: NOT USED
+[END]
+128: [71 1]That's enough... We're done.
+[->][END]
+129: NOT USED
+[END]
+130: [71 1]You've committed a crime against the
+king, you know that? A severe crime
+called ”cheating”...
+[->]I sentence you to be executed!
+[->][END]
+131: NOT USED
+[END]
+132: [71 1]How do you not even have that?
+[->][END]
+133: NOT USED
+[END]
+134: [71 1]If you don't have any Life Stones,
+this is going nowhere.
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]Oh, was I going on too long? Well,
+that should be enough.
+[->][END]
+137: NOT USED
+[END]
+138: [71 1]You've committed a crime against the
+king, you know that? A severe crime
+called ”weaseling out”...
+[->]I sentence you to be executed!
+[->][END]
+139: NOT USED
+[END]
+140: [71 1]It's not many who've had the stones to
+say ”no” to me like this.
+[->]You've got guts, Intruder!
+[->][END]
+141: NOT USED
+[END]
+142: [71 1]Dude, you just keep doing what you're
+told, huh?
+[->]Coward! Get outta my sight!
+[->][END]
+143: NOT USED
+[END]
+144: [71 1]You started negotiating with me and had
+nothing to give in return...?
+[->]Talk about guts, Intruder!
+[->][END]
+145: NOT USED
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: [71 1]You keep bringing up the same thing
+all the damn time. You don't want to
+bore the King, you get me?
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]NOT USED
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USED
+[END]
+171: [71 1]NOT USED
+[->][END]
+172: [71 1]NOT USED
+[->][END]
+173: [71 1]NOT USED
+[->][END]
+174: [71 1]NOT USED
+[->][END]

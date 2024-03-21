@@ -1,0 +1,98 @@
+0: (Samurai) [7a 117][13 1, 403002]There is a rumor that the Ashura−kai's
+headquarters are located in Roppongi,
+near Shibuya.
+[->]We must act cautiously so as not to
+draw undue attention...
+[END]
+1: (Samurai) [7a 117][13 1, 403042]I hear SOMEONE had made a big commotion in a place called Club Milton.
+[->]Geez... I don't mind you get yourself in a combat...
+But don't you draw Ashura−kai's attention too much, you hear?
+[END]
+2: (Samurai) [7a 117][13 1, 403042]I saw Walter just now.
+But he was acting strangely. 
+[->]He was heading for Shibuya leading the believers of Ring of Gaea.
+[->]Whatever happened to him...?
+Do you know anything?
+[END]
+3: (Samurai) [7a 117][13 1, 403011]To continue with our mission in this state is impossible.
+I even hear a rumor about angels are coming to attack...
+[->]Why the Eastern Kingdom of Mikado won't retreat all the Samurai in Tokyo...?
+[->]D−Don't tell me they are thinking to abandon us here...
+[END]
+4: (Samurai) [7a 117][13 1, 403011]The Eastern Kingdom of Mikado has transioned to a new governing structure...
+A system where god and angels rule...
+[->]I hear the Luxrors are gone, and statue of King Aquila has been destroyed.
+[->]I feel like my loyalty towards the kingdom is fading away...
+[END]
+5: (Samurai) [7a 117][13 1, 403043]Hey, you made the Top 3 of Overall Ranking!
+[->]My... Your tenacious effort sure is amazing...
+[END]
+6: [->][END]
+7: [->][END]
+8: (Dignified Samurai) [7a 116][13 1, 403002]Ah, it's you! I received the message
+from Isabeau.
+[->]The evacuation of our countrymen to
+Tokyo is proceeding as planned.
+[->]The people ought to be en route to
+Shinjuku now. I am staying here to act
+as a guide along the way.
+[END]
+9: (Hunter man) [7a 69][13 1, 403041]Say, you guys looking for Reds too?
+Don't waste your time at Club Milton.
+[->]I just went there. The manager'll just
+kick you out.
+[END]
+10: (ハンターの男) [7a 69][13 1, 403041][->][END]
+11: (Hunter man) [7a 69][13 1, 403021]Club Milton is still open even though
+Tokyo's such a mess...
+[->]Or maybe I should say Club Milton's
+still open because Tokyo's such a mess.
+[->]I also heard some guys in Shibuya's
+underground ate the Reds to become
+demons. Anything goes in Tokyo now...
+[END]
+12: (Hunter man) [7a 69][13 1, 403021]The Association started a new event.
+A tournament or something...
+[->]Then more Hunters started to buy Reds,
+and the usual customers are flowing
+into Milton now.
+[->]I can see the real story behind it
+all... So you'll excuse me if I'm not
+so excited about this big event.
+[END]
+13: (Hunter man) [7a 69][13 1, 403033]That last surge was astonishing!
+[Flynn] made a huge jump!
+[->]Those Hunters in Milton who ate the
+Reds must be kicking themselves now.
+[->]If they'd known a shining hope like
+this would rise up... I bet they'd
+have made a different choice.
+[END]
+14: (Hunter man) [7a 69][13 1, 403033]We Hunters can kill the demons outside
+one by one...
+[->]The problem is the ex−Hunters who turned
+into demons after eating those Reds.
+[->]Should we just kill them all and get it
+over with? Or should we spare them and
+set up a reservation for them to live?
+[END]
+102: (Samurai) [7a 117][13 1, 403042]Guys from Ashura−kai are running around insanely.
+[->]...Oh well, we're on a mission to hunt down the Black Samurai...
+[->]We should keep the unnecessary worries out of our heads and prepare for it.
+[END]
+111: (Hunter man) [7a 69][13 1, 403021]The Association was hyping up some
+event that's supposed to start soon.
+[->]Then more Hunters started to buy Reds,
+and the usual customers are flowing
+into Milton now.
+[->]I can see the real story behind it
+all... So you'll excuse me if I'm not
+so excited about this big event.
+[END]
+112: (Hunter man) [7a 69][13 1, 403021]That tournament the Association started
+is really catching on.
+[->]Tokyo's Hunters are desperate to keep
+up with this [Flynn] guy...
+[->]Those Hunters in Milton who ate the
+Reds must be kicking themselves now.
+[END]

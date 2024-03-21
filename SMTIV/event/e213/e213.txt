@@ -1,0 +1,101 @@
+1: (Demon) [7a 65361][13 0, 213001]...Who are you?
+[END]
+2: (Demon) [7a 65361]ここを
+マハーマユリの[間/ま]と[知/し]りながらの[狼藉/ろうぜき]か
+[END]
+3: (Akira) [7a 85][13 0, 213002]A−Akira from Kasumigaseki and his men!
+[END]
+4: (Mahamayuri) [7a 65361][13 0, 213007]You have spoken unwisely, foolish one.
+Do not think you can leave here alive.
+[END]
+5: (Akira) [7a 85][13 0, 213008]W−Whoa, don't be so hasty. You'll be
+fighting these three, not me.
+[END]
+6: (Akira) [7a 85][7b 786517, 65537][13 0, 213009]Alright guys, get him!
+[END]
+7: (Akira) [7a 85][13 0, 213010]Alright! Shinjuku's mine! Starting
+today, I'm the boss around here!
+[->][13 0, 213011]Now my gang will have a little more
+breathing room.
+[->][13 0, 213012]You guys can use this city whenever
+you want, got it?
+[END]
+8: (Akira) [7a 85][13 0, 213016]You guys really are the Messiahs.
+[END]
+9: (Akira) [7a 85][13 0, 213017]I had a dream about this white world...
+[->][13 0, 213018]These all−white people had a message
+for me...
+[END]
+10: (Jonathan) [7a 3][13 0, 213024]Akira, we are Samurai of the Eastern
+Kingdom of Mikado.
+[->][13 0, 213025]We are honor−bound to do what we can
+for the sake of our homeland. Even if
+it puts you at a disadvantage.
+[END]
+11: (Walter) [7a 4][13 0, 213026]...I don't think this place is so bad.
+”Might makes right...” The simplicity
+of it appeals to me.
+[END]
+12: (Walter) [7a 4][13 0, 213027]What about you, [Flynn]? Do you
+want to return to our world of origin?
+[END]
+13: ”I'd like to go home.”
+”I'm comfortable here.”
+[END]
+14: (Akira) [7a 85][13 0, 213028]Yeah...
+[END]
+15: (Akira) [7a 85][13 0, 213029]You don't have to pretend, man. If it
+was me, I'd wanna go back too.
+[END]
+16: (Akira) [7a 85][13 0, 213032]Alright, you ready to go? Let's kick
+that Kenji's ass!
+[->][13 0, 213033]Kenji hangs out at Camp Ichigaya.
+I hear he has the remote, too.
+[END]
+17: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+18: (Akira) [7a 85][13 0, 213035]I'll go on ahead. Let's meet up at
+Ichigaya.
+[END]
+19: 〉 Akira walked away.
+[END]
+103: (Demon) [7a 65361][13 0, 213003]Akira? Ahh...
+[->][13 0, 213004]Never heard of you.
+[END]
+107: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[END]
+109: (Akira) [7a 85][13 0, 213019]They said there'd be Messiahs coming
+from another world who wanted the
+remote.
+[END]
+116: (Walter) [7a 4][13 0, 213030]Alas, we do have to return. Our hands
+are full enough dealing with our own
+world's crises.
+[END]
+203: (Demon) [7a 65361][13 0, 213005]Do you commit this outrage knowing that
+I am Mahamayuri?
+[END]
+207: (Walter) [7a 4][13 0, 213014]Akira, you should deliver the good
+news to your friends in Kasumigaseki.
+[END]
+209: (Walter) [7a 4][13 0, 213020]The White...
+[END]
+216: (Akira) [7a 85][13 0, 213031]Fair enough... We still have a big
+fight ahead of us anyway.
+[END]
+303: (Akira) [7a 85][13 0, 213006]Hear me and tremble! I've come to take
+over Shinjuku!
+[END]
+307: (Akira) [7a 85][13 0, 213015]Sure thing!
+[END]
+309: (Akira) [7a 85][13 0, 213021]So uh, you... wanna go back to your
+own world, huh?
+[END]
+407: 〉 Some time later...
+[END]
+409: (Akira) [7a 85][13 0, 213022]...*sigh*. You don't have to tell
+me... I know I don't have any power.
+[->][13 0, 213023]Once you're gone, I'll be killed off
+in no time...
+[END]

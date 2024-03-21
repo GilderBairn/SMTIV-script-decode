@@ -1,0 +1,10 @@
+0: There has been a great increase in the number of souls
+coming to the shores of the River Styx. It seems that
+most of them died from a lack of experience. Master
+Charon is irked by the increased workload. We will show
+you where you may greatly increase your [Color:0x5]experience,[Color:0x0]
+in hopes that you will train there and be less likely to
+die. Your reward will be whatever you can take back.
+[END]
+1: Download 1 Second time
+[END]

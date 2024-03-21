@@ -1,0 +1,9 @@
+0: 〉 It's filled with a horrible stench.
+[END]
+1: 〉 There's something on the ground.
+[END]
+2: 〉 Obtained [41 35].
+[END]
+3: [END]
+4: 〉 You have no business here anymore.
+[END]

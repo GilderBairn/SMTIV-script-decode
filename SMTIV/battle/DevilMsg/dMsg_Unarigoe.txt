@@ -1,0 +1,70 @@
+0: [71 1]RYYYY...!
+URYYYYYYYYYY...!
+[->][END]
+1: [71 1]RYYYYYYYYYYYYY...!
+RAAAH...!
+[->][END]
+2: [71 1]RYYYYYYYYYYYYY...!
+RAAAH...!
+[->][END]
+3: [71 1]URAH...! URAH...!
+URAAAAAAAAAH...!
+[->][END]
+4: [71 1]RAAAAAAAH...!
+RYYYYYY... AHHHHHHHH...!
+[->][END]
+5: [71 1][Color:0x5][Skill 1][Color:0x0] [Color:0x5][Skill 2]...[Color:0x0]
+URUUUUUUUUUYYYYYYY?
+[->][END]
+6: [71 1]RYYYYY... [Color:0x5][Skill 1]...[Color:0x0]
+RAAAAAAAAAAAH...?
+[->][END]
+7: [71 1]RAAAH...! URAAAAAAAAAAA!
+[->][END]
+8: [71 1]URAH... URAAAAAAH...
+[->][END]
+9: [71 1][Color:0x5][Skill 1]![Color:0x0]
+URYYYYYYY!
+[->][END]
+10: [71 1]RYYYY! RYYYYY!
+URAAAAAAAAAAA!
+[->][END]
+11: [71 1]UUUUUR...AHHHHHHHHH!
+[->][END]
+12: [71 1]RAAAH URAAAAAH...
+[->][END]
+13: [71 1]RYY... URYYYYY...!
+[->][END]
+14: [71 1]RAAAA...AHHH...!
+URUUUUUUU...
+[->][END]
+15: [71 1][Color:0x5][Item 1][Color:0x0]YYYYYY!
+RAAAH...! RAAAH...!
+[->][END]
+16: [71 1]URAAH...! RAAAAA...!
+[Color:0x5][Item 1][Color:0x0]AAAAAA!
+[->][END]
+17: [71 1]RAAAAH! [Color:0x5][Item 1]![Color:0x0]
+URAAAAAAAAA!
+[->][END]
+18: [71 1]RYY...AHHH...
+URAAAAA...AHHHH...
+[->][END]
+19: [71 1]RAA... URUUUUYYYYYYY?
+[->][END]
+20: [71 1]URA... [Color:0x5][Demon race 1] [Demon name 1][Color:0x0]!
+URYYYYYYYYY!
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

@@ -1,0 +1,78 @@
+0: 〉 [Flynn] and his fellow Samurai
+arrived at Aquila Statue Plaza.
+[END]
+1: (Master Samurai) [7a 117][13 0, 42001]You four, halt.
+[->][13 0, 42002]Prentices like yourselves are included
+on the expedition to Kiccigiorgi as
+well...?
+[END]
+2: (Jonathan) [7a 3][7b 655363, 65537]Error
+[END]
+3: Error
+[END]
+4: (Isabeau) [7a 5][7b 131076, 65537]Error
+[END]
+5: (Master Samurai) [7a 117]Error
+[END]
+6: (Walter) [7a 4][7b 196612, 65537][13 0, 42003]So there is trouble there.
+[END]
+7: (Master Samurai) [7a 117][13 0, 42004]...No, I've received no word of
+prentices being assigned to this
+situation.
+[END]
+8: (Jonathan) [7a 3][7b 458755, 131073][13 0, 42005]Forgive my insolence in protesting,
+sir, but I beg you to allow us to
+accompany the expedition!
+[->][13 0, 42006]Kiccigiorgi is the hometown of our
+fellow, [Flynn].
+[END]
+9: (Master Samurai) [7a 117][13 0, 42007]Those not specially summoned must
+remain at the ready in their rooms.
+That is the rule. Along with you, now.
+[END]
+10: (Jonathan) [7a 3][7b 786435, 65537][13 0, 42008]The rule...
+[END]
+11: (Jonathan) [7a 3][7b 131075, 65537][13 0, 42009]Are we to overlook an emergency in a
+friend's home because of this rule!?
+[END]
+12: (Walter) [7a 4][7b 65540, 65537]Jonathan...
+[END]
+13: (Hope) [7a 8][7b 458760, 65537][13 0, 42010]What's all this commotion?
+[END]
+14: (エラー) Not used
+[END]
+15: (Master Samurai) [7a 117][13 0, 42011]Sir. I have a report for you, Commander.
+These Samurai...
+[END]
+16: 〉 The Master Samurai reported what
+transpired to Hope.
+[END]
+17: (Hope) [7a 8][13 0, 42012]...My God. So Kiccigiorgi was
+your hometown...
+[END]
+18: (Master Samurai) [7a 117][13 0, 42013]Are you four still here!? Return to
+your rooms before you are found in
+violation of−−
+[END]
+19: (Hope) [7a 8][13 0, 42014]It's all right. I will permit these
+prentices to accompany us.
+[END]
+20: (Master Samurai) [7a 117][13 0, 42015]But that would be against protocol...
+[END]
+21: (Hope) [7a 8][7b 786440, 65537][13 0, 42016]This is an emergency. The more hands
+we have, the better. Not to mention...
+[END]
+22: (Master Samurai) [7a 117][13 0, 42018]F−Forgive my insolence, sir!
+[END]
+23: (Hope) [7a 8][13 0, 42019]We will depart for Kiccigiorgi
+at once.
+[END]
+24: 〉 [Flynn] and his fellow Samurai
+accompanied the expedition to Kiccigiorgi.
+[END]
+121: (Hope) [7a 8][7b 458760, 65537][13 0, 42017]A Samurai is bound to uphold not
+a set of rules, but the will of
+the people.
+[END]
+123: (Jonathan) [7b 458755, 131073][7b 65540, 65537][13 0, 42020]Bless you!
+[END]

@@ -1,0 +1,202 @@
+0: (Female voice) [13 1, 418007]Oh... My poor Priyankara...
+Where have you gone...?
+[END]
+1: (Hariti) [7a 65165][13 1, 418004]You...
+Did you come to help me?
+[->]My lovely boy Priyankara has
+disappeared without a trace.
+[->]I wonder if the great Buddha is angry
+at me again...
+[->]But I have stopped eating human
+children...
+[END]
+2: (Wu Kong) [7a 65181][13 1, 411003]Nope, that's not why he's missing.
+The great Buddha won't kidnap
+children.
+[END]
+3: (Hariti) [7a 65165][13 1, 418004]Oh, my... Are you a messenger from
+the heavens?
+[END]
+4: (Wu Kong) [7a 65181][13 1, 411001]That's right. I've got a message from
+the great Buddha himself.
+[END]
+5: (Hariti) [7a 65165][13 1, 418008]Wha... What did you say!?
+[->]Oh... Priyankara... Mommy's coming to
+save you right now...!
+[END]
+6: (Wu Kong) [7a 65181][13 1, 411007]Woah woah, easy there. Why don't you
+ask this human to find him for you?
+[END]
+7: (Hariti) [7a 65165][13 1, 418009]What kind of mother would I be if I
+could stay calm while my son is
+kidnapped!?
+[END]
+8: (Wu Kong) [7a 65181][13 1, 411008]Geez, that's one hell of an
+overprotective mother. Well, my job
+here's done. Peace!
+[END]
+9: (Hariti) [7a 65165][13 1, 418007]I'm sorry... I lost myself.
+[->]I will go to Ikebukuro to find my
+son. Please... Could you help me
+look for him?
+[END]
+10: 〉 Hariti sprinkles something onto
+[Flynn].
+[END]
+11: (Hariti) [7a 65165][13 1, 418002]Don't worry, this won't hurt you.
+This is a perfume that only demons
+can smell.
+[->]If Priyankara smells this, he'll
+know that I sent you.
+[->]Please, come find me once you find
+Priyankara.
+[END]
+12: (Starving Man) [7a 59][13 1, 403213]Huh!? Who the hell are you!? N−No, I
+haven't seen any kids around here! I
+don't know what you're talking about!
+[->]G−Get the hell outta here, outsider!
+S... so get the hell out outsider!
+[END]
+13: Don't leave
+Leave
+[END]
+14: (Handsome boy) [7a 55][13 1, 404013]M−Mother!
+[END]
+15: (Emaciated Man) [7a 119][13 1, 403013]Ahhhh! Somebody catch the demon.
+Now!
+[END]
+16: (Handsome boy) [7a 55][13 1, 404023]Silence! I am Prince Priyankara,
+youngest child of Yasha Daibosatsu
+Kishimojin!
+[END]
+17: (Priyankara) [7a 55]I can smell the scent of pomegranates
+on this man!
+[->]You're working for my mother, aren't
+you? You've come to take me back!
+[END]
+18: 〉 Priyankara hides behind [Flynn].
+[END]
+19: (Starving Man) [7a 59][13 1, 403221]Damn it! We finally just got our
+hands on him! I'm not letting him
+go that easily!
+[->]Hey! Summon the Master! Let's kill
+this brat and get that demon kid!
+[END]
+20: (Demon) [7a 64903][13 1, 413206]*sigh* Once again, you call me out
+to clean up another of your messes.
+[->]It pains me to have to do so, but
+I will be your opponent...
+[END]
+21: (Emaciated Man) [7a 119][13 1, 403031]As long as Master's here, we've got
+this in the bag... That kid's as
+good as ours!
+[END]
+22: (Starving Man) [7a 59][13 1, 403223]Ugh... why...? Is it so wrong to
+try to survive...?
+[->]This thing... it's a demon...
+it's not human...
+[END]
+23: (Priyankara) [7a 55][13 1, 404023]So what if I'm a demon? My mother's
+going to come for me, and she will
+eat you all!
+[->]Please, sir, what are we going to do
+with these pitiful excuses for humans?
+[END]
+24: (Starving Man) [7a 59][13 1, 403213]P... Please! Noooo...!
+[END]
+25: (Priyankara) [7a 55][13 1, 404041]Hoo... That was pretty good, sir.
+You've earned my respect.
+[END]
+26: (Starving Man) [7a 59][13 1, 403231]Are you... really going to let us
+go...? Th−Thanks...
+[END]
+27: (Priyankara) [7a 55][13 1, 404042]You're going to let them run away?
+Mother would have eaten them for
+their insolence!
+[END]
+28: (Priyankara) [7a 55][13 1, 404013]Mother! I... I...
+I wasn't... scared... at all!
+[END]
+29: (Hariti) [7a 65165][13 1, 418007]Priyankara... It was your mother's
+fault that this happened.
+[->]And you, [Flynn].
+I am so grateful.
+[->]It is all thanks to you that Priyankara
+has come back safe and sound.
+[->]Now Priyankara, let's go home.
+Hold on tight to your mother.
+[END]
+30: (Priyankara) [7a 55][13 1, 404033]Okay! Thank you, sir!
+Bye bye!
+[END]
+31: 〉 According to the navigation map,
+this place is the ”Kishimojin Temple.”
+[->]〉 A beautiful demon is standing
+here...
+[END]
+32: (Hariti) [7a 65165][13 1, 418004]Oh, you surprised me... To think a
+human would visit this place.
+[->]There is nothing to fear. I have
+already sworn to never eat another
+human.
+[->]However... I think we've talked long
+enough. You should return to your own
+journey at hand.
+[END]
+33: 〉 There is nobody here...
+[END]
+104: (Wu Kong) [7a 65181][13 1, 411000]Hey, you're that human from before.
+Long time, no see. What're you doing
+in a place like this?
+[->]Well, never mind. I've got a job to
+do here first. Anyway!
+[END]
+105: (Wu Kong) [7a 65181]Lady, your kid's being held prisoner
+in [Color:0x5]Ikebukuro.[Color:0x0]
+[END]
+108: 〉 The demon leaves...
+[END]
+109: 〉 Hariti has headed to [Color:0x5]Ikebukuro[Color:0x0]
+to look for her son.
+[END]
+113: 〉 [Flynn] leaves the building...
+[END]
+123: ”Make them pay.”
+”Let them go.”
+[END]
+127: (Hariti) [7a 65165][13 1, 418003]Priyankara!
+Oh... My precious Ainu...
+[END]
+400: 〉 [Flynn] could not protect
+Priyankara...
+[->]〉 Priyankara has been taken from you.
+[END]
+500: 〉 [Flynn] has decided to protect
+Priyankara.
+[END]
+900: 〉 There is nobody here...
+[END]
+901: 〉 Wu Kong appears and explains the
+details.
+[END]
+902: 〉 There is nobody here...
+[END]
+903: A battle with the humans that
+kidnapped Piyankara will begin.
+Piyankara will join your party.
+[END]
+904: Once the humans are defeated, you
+will return Piyankara to Hariti,
+thus completing the quest.
+[END]
+905: 〉 You were unable to protect
+Piyankara. They take him away from
+you and kick you out...
+[END]
+906: 〉 According to the navigation map,
+this place is the ”Seibo Department
+Store.”
+[->]〉 There's an old elevator in the
+back. There are signs that someone
+tried to repair it recently...
+[END]

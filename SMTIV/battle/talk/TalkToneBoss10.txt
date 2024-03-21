@@ -1,0 +1,423 @@
+0: Dummy
+[END]
+1: [71 1]I'll pay no heed to the invitation of
+those who side with chaos.
+[->]Know that I, Yamato Takeru, am an
+immovable bastion of national defense.
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]The moment you challenged the country
+was the end of you... Did you think
+that this battle could be averted?
+[->]Face me, chaos−tainted one, and behold
+your retribution.
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]NOT USED
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]NOT USED
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]NOT USED
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]NOT USED
+[->][END]
+33: NOT USED
+[END]
+34: [71 1]What meaning is there in talking idly
+as we battle for the fate of the
+nation...?
+[->]...But so be it. Your offering will
+decide the outcome.
+[->][END]
+35: NOT USED
+[END]
+36: [71 1]Now then, I shall tell you what it means
+to be the nation's champion...
+[->][END]
+37: NOT USED
+[END]
+38: [71 1]Muhahaha... You wish to talk with me?
+That is most convenient.
+[->]Now then, I shall tell you what it means
+to be the nation's champion!
+[->][END]
+39: NOT USED
+[END]
+40: [71 1]Hrm... I cannot help but spout the venom
+that stirs within my heart...!
+[->][END]
+41: NOT USED
+[END]
+42: [71 1]You ask for mercy from a bastion of
+national defense...? The price for this
+will not be low.
+[->][END]
+43: NOT USED
+[END]
+44: [71 1]Feel the mercy of a National Defense
+Divnity, and learn of our magnanimity...
+[->][END]
+45: NOT USED
+[END]
+46: [71 1]In slumber... I show mercy... to all
+people... equally...
+[->][END]
+47: NOT USED
+[END]
+48: NOT USED
+[END]
+49: [71 1]A great bastion of defense is capable
+of great mercy. Behold...
+[->][END]
+50: NOT USED
+[END]
+51: [71 1]Not only do you bare your fangs toward
+your country, but you then ask it for
+funding... You are little but a bandit.
+[->][END]
+52: NOT USED
+[END]
+53: [71 1]S−Such audacity... You would steal from
+the coffers of your own nation?
+[->][END]
+54: NOT USED
+[END]
+55: [71 1]You set foot in the vault that preserves
+the nation's wealth...
+[->]Prepare yourself for a grisly death...
+[->][END]
+56: NOT USED
+[END]
+57: [71 1]Urgh...
+[->][END]
+58: NOT USED
+[END]
+59: [71 1]...I offer you one chance to halt.
+[->][END]
+60: NOT USED
+[END]
+61: [71 1]Enough, bandit. Take what you will!
+[->]But do not forget... your ill−gotten
+gains will be for naught if you cannot
+survive.
+[->][END]
+62: NOT USED
+[END]
+63: [71 1]Halt, bandit...!
+[->][END]
+64: NOT USED
+[END]
+65: [71 1]Not only do you bare your fangs toward
+your country, but you then ask it for
+funding... You are little but a bandit.
+[->][END]
+66: NOT USED
+[END]
+67: [71 1]To trade with a basion of national
+defense... the price will be steep.
+[->][END]
+68: NOT USED
+[END]
+69: [71 1]I shall share with you this item I have
+stored, for the sake of the country's
+defense...
+[->][END]
+70: NOT USED
+[END]
+71: [71 1]This is not a bargain. I give you this
+freely, if you will have it.
+[->]I am a bastion of national defense...
+This bauble is nothing to me.
+[->][END]
+72: NOT USED
+[END]
+73: [71 1]You can also have this. May you be even
+more prepared.
+[->][END]
+74: NOT USED
+[END]
+75: [71 1]There is no need to waste our time in
+negotiation... Let us settle this with
+a single agreement.
+[->][Color:0x1][Amount 1] Macca[Color:0x0] is my price.
+Is this acceptable?
+[->][END]
+76: NOT USED
+[END]
+77: [71 1]I ask for [Color:0x1][Item 1].[Color:0x0]
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]I ask for [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]I ask for [Color:0x1]a minimal portion[Color:0x0] of
+your [Color:0x1]life.[Color:0x0]
+[->][END]
+82: NOT USED
+[END]
+83: [71 1]I ask for [Color:0x1]an adequate portion[Color:0x0] of
+your [Color:0x1]life.[Color:0x0]
+[->][END]
+84: NOT USED
+[END]
+85: [71 1]I ask for [Color:0x1]a large portion[Color:0x0] of
+your [Color:0x1]life.[Color:0x0]
+[->][END]
+86: NOT USED
+[END]
+87: [71 1]I ask for [Color:0x1]an enormous portion[Color:0x0] of
+your [Color:0x1]life.[Color:0x0]
+[->][END]
+88: NOT USED
+[END]
+89: [71 1]I ask for [Color:0x1]a minimal portion[Color:0x0] of
+your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+90: NOT USED
+[END]
+91: [71 1]I ask for [Color:0x1]an adequate portion[Color:0x0] of
+your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+92: NOT USED
+[END]
+93: [71 1]I ask for [Color:0x1]a large portion[Color:0x0] of
+your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+94: NOT USED
+[END]
+95: [71 1]I ask for [Color:0x1]an enormous portion[Color:0x0] of
+your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+96: NOT USED
+[END]
+97: [71 1]Your ally... I ask for
+[Color:0x1][Demon name 2]'s life.[Color:0x0]
+[->][END]
+98: NOT USED
+[END]
+99: [71 1]...I ask for [Color:0x1]that.[Color:0x0]
+[->][END]
+100: NOT USED
+[END]
+101: [71 1]What I want... can you guess it?
+[->][END]
+102: NOT USED
+[END]
+103: [71 1]...Exactly.
+[->][END]
+104: NOT USED
+[END]
+105: [71 1]...That is not it.
+[->][END]
+106: NOT USED
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]...Hrm, this should be plenty.
+[->][END]
+121: NOT USED
+[END]
+122: [71 1]Muhahaha... Excellent! What more could
+I ask for?
+[->][END]
+123: NOT USED
+[END]
+124: [71 1]You refuse me?
+[->][END]
+125: NOT USED
+[END]
+126: [71 1]You made a foolish decision to withhold
+a bastion of national defense's prize...
+[->]Your corpse shall hang from the gates!
+[->][END]
+127: NOT USED
+[END]
+128: [71 1]...I withdraw from these talks.
+[->][END]
+129: NOT USED
+[END]
+130: [71 1]You made a foolish decision to lie to
+a bastion of national defense...
+[->]Your corpse shall hang from the gates!
+[->][END]
+131: NOT USED
+[END]
+132: [71 1]You do not have it?
+[->][END]
+133: NOT USED
+[END]
+134: [71 1]You must have a Life Stone. Else this
+discussion was doomed from the start.
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]...I do not wish to engage in prolonged
+extortion. I suppose this will do.
+[->][END]
+137: NOT USED
+[END]
+138: [71 1]You made a foolish decision to cut off
+a bastion of national defense...
+[->]Your corpse shall hang from the gates!
+[->][END]
+139: NOT USED
+[END]
+140: [71 1]The will to refuse me again and again...
+It is sorely needed for the sake of this
+country.
+[->]I am well pleased.
+[->][END]
+141: NOT USED
+[END]
+142: [71 1]Simply swallowing my every condition
+with a smile... Have you no spine?
+[->]One such as you can never protect this
+nation. You are nothing but an eyesore.
+[->][END]
+143: NOT USED
+[END]
+144: [71 1]You would face this bastion of national
+defense with empty hands?
+[->]Truly, you possess a beautiful spirit...
+[->][END]
+145: NOT USED
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: [71 1]The same line of inquiry, over and over
+again... Are you trying to bore me into
+submission?
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]I have returned through the power of
+Yamato, guided by the medium...
+[->]Let us go, [Flynn], to find this
+nation's true form...
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USED
+[END]
+171: [71 1]NOT USED
+[->][END]
+172: [71 1]NOT USED
+[->][END]
+173: [71 1]NOT USED
+[->][END]
+174: [71 1]NOT USED
+[->][END]

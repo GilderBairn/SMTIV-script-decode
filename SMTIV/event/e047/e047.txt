@@ -1,0 +1,20 @@
+0: (Familiar man) [7a 34][13 0, 47001]You... Could you be here to save us?
+Ah, you truly are a Samurai at heart.
+[->][13 0, 47002]That Issachar, on the other hand...!
+[END]
+1: (Familiar woman) [7a 36][13 0, 47003]Indeed! He'd always been like an older
+brother to you when you were still here...
+[->][13 0, 47004]But now the village is in terrible
+danger, and he's nowhere to be seen.
+[->][13 0, 47005]I haven't seen hide nor hair of him
+since he left for the Gauntlet Rite.
+[END]
+2: (Walter) [7a 4][13 0, 47006]All right, give your mouths a rest
+and move your legs instead.
+[->][13 0, 47007]The Samurai are stationed at the
+forest's entrance. Be sure you
+don't delay in reaching them.
+[END]
+3: 〉 The familiar man and woman rushed to
+the forest's entrance...
+[END]

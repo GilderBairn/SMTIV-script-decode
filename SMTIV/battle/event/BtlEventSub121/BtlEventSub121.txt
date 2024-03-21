@@ -1,0 +1,10 @@
+0: (Asura) [7a 0][13 0, 350401]Do you know what it means to turn
+your blade on me? Human, learn your
+place.
+[->][13 0, 350402]I laugh at you for fighting me.
+I shall send you to the land of
+the dead.
+[END]
+1: (Asura) [7a 0][13 0, 350403]Urgh...! To think... I would be
+defeated... by a hu...man...
+[END]

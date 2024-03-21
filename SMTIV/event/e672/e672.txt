@@ -1,0 +1,66 @@
+0: 〉 A demon stands at the back of the
+room...
+[END]
+1: (Demon) [7a 65049][13 1, 411104]Heh heh heh... I love this world.
+All this chaos... It's great.
+[->][13 1, 411105]Huh? Who the hell are you, human?
+I'm in a good mood right now, so
+you'd better not ruin it for me.
+[->]Go be a good boy, turn around, and
+get outta here before I, the great
+Loki, tear you a new asshole.
+[END]
+2: ”I have come to slay you.”
+”I'll be going now.”
+[END]
+3: (Loki) [7a 65049][13 1, 411109]...I see how it is. Those damn Aesirs
+put you up to this, huh?
+[->]Heimdall, you bastard...
+That persistence of his is really
+getting on my nerves.
+[->]Heh heh heh... But, this wasn't a
+smart move. It looks like he wants to
+see what I'm really capable of.
+[->]And here I was, thinking that I might
+just take it easy for the next century
+or so...
+[->]Whatever. If he wants a war, he's
+gonna get a war.
+[->]Fine. Let's see what you've got,
+mister mercenary!
+[END]
+4: (Loki) [7a 65049][13 1, 411103]Heh heh... Smart choice, kid.
+Keep it up, and you'll live longer.
+[->]Well, hurry up and get out.
+Here, I'll walk you to the exit.
+[END]
+5: (Loki) [7a 65049][13 1, 411107]You again? If you don't have anything
+to do here, get the hell out.
+[->]Now be a good boy and toddle along...
+Before the great Loki gets angry.
+[END]
+6: (Loki) [7a 65049][13 1, 411107]What the hell? I, the great Loki,
+was defeated by a human?
+[->]Well, so much for having a war.
+[->]That was pretty fun, though. Who'd
+have thought that this place would
+hold such surprises for me?
+[->]Heh heh... This is why I could never
+quit being a god.
+[END]
+7: 〉 The demon laughs as he disappears...
+[END]
+900: 〉 There is no one here...
+[END]
+901: (Demon) [7a 65049][13 1, 411104]Heh heh heh... I love this world.
+All this chaos... It's great.
+[->][13 1, 411105]Huh? Who the hell are you, human?
+I'm in a good mood right now, so
+you'd better not ruin it for me.
+[->]Go be a good boy, turn around, and
+get outta here before I tear you a
+new asshole.
+[END]
+902: 〉 The demon waves its hand, and
+darkness suddenly descends...
+[END]

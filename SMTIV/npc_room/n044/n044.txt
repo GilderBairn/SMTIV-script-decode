@@ -1,0 +1,28 @@
+0: (Hunter woman) [7a 70][13 1, 403141]Roppongi is the Ashura−kai's
+headquarters. Tayama should be there.
+[->]From street punk to Hills elite, huh?
+Talk about moving up in the world...
+[END]
+1: (Hunter woman) [7a 68][13 1, 403123]Camp Ichigaya is dangerous. You won't
+catch me going near there!
+[->]There's always Ashura−kai thugs standing
+guard... And not just that, I hear the
+place is filled with demons.
+[END]
+2: (Hunter woman) [7a 68][13 1, 403103]Hey, you hear what happened to Tayama?
+He was found dead in Ichigaya...
+[->]Does that mean his room in Roppongi
+is up for grabs?
+[END]
+100: (Hunter woman) [7a 70][13 1, 403141]Club Milton used to be the way station
+for distributing Reds.
+[->]But Koga Saburo seized the place, and
+then Peallaidh started acting up in
+Ueno...
+[->]Tayama was stuck in Roppongi, too busy
+to deal with it, and couldn't take any
+effective action.
+[->]But now he's got the distribution
+system up and running again. He doesn't
+need to hold back on Yuriko anymore.
+[END]

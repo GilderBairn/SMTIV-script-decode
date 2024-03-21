@@ -1,0 +1,60 @@
+0: (Hope) [7a 8][13 0, 14001]This is Hope speaking.
+[->][13 0, 14002]So, you've completed the next quest.
+A decent effort so far.
+[->][13 0, 14003]But it's too early to celebrate now.
+I have the details of your next quest.
+[->][13 0, 14004]This will be your final training
+exercise.
+[END]
+1: (Hope) [7a 8][13 0, 14005]You must learn the basics of
+exploring labyrinths.
+[->][13 0, 14006]A solid grasp of your surroundings
+is necessary for a Samurai.
+[END]
+2: (Hope) [7a 8][13 0, 14007]I have hidden a certain item of value
+somewhere in Naraku.
+[->][13 0, 14008]Your task is to find and retrieve it.
+[END]
+3: (Hope) [7a 8][13 0, 14009]Moreover, for this exercise, you will
+all be competing against each other.
+[->][13 0, 14010]As soon as one of you acquires the
+item of value, the exercise will end.
+[->][13 0, 14011]That is all.
+[END]
+4: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]
+5: (Burroughs) [7a 2][13 0, 14013]Hey, Master [Flynn]?
+[->][13 0, 14014]If you're going to do the next quest,
+I recommend using the [Color:0x5]Mapper[Color:0x0] app.
+[->][13 0, 14015]Want to me to explain Mapper to you?
+[END]
+6: ”Please do.”
+”There's no need.”
+[END]
+7: (Burroughs) [7a 2][13 0, 14016]So does that mean you already know
+about it? You're a real whiz kid,
+aren't you, Master [Flynn]?
+[END]
+8: ”Mapper” has been added to the list of
+unlockable apps in Burroughs. By using
+Mapper, you can see a map of the area
+on the lower screen.
+[->]In addition to your location, Mapper
+shows the direction you are facing and
+the direction the camera is pointing.
+It also shows which direction north is.
+[->]Use the stylus to slide the Mapper view
+on the lower screen or view the other
+levels of the map.
+[END]
+9: (Burroughs) [7a 2][13 1, 400055]Did you get all that?
+[END]
+10: ”I understand.”
+”Tell me once more.”
+[END]
+11: (Burroughs) [7a 2][13 1, 400056]All right. I'll display the
+information once more.
+[END]
+12: (Burroughs) [7a 2][13 0, 14019]Until next time, Master [Flynn].
+[END]

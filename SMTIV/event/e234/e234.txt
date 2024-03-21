@@ -1,0 +1,28 @@
+0: (The White) [7a 124][13 0, 234001]Our fifth son, who chose preservation...
+[END]
+1: (The White) [7a 220][13 0, 234002]It is our fate to endlessly repeat the
+same mistakes.
+[->][13 0, 234003]Given this, what other salvation can
+there be than returning everything
+to naught...?
+[END]
+2: (The White) [7a 220][13 0, 234004]Your choice is wrong... We will prove
+that to you...
+[END]
+3: (Jonathan) [7a 3][13 0, 234006]I understand better now after fighting
+them. I sensed no hostility from them...
+[->][13 0, 234007]They must truly believe, without the
+slightest doubt, that nothingness is
+the only salvation.
+[END]
+4: (Jonathan) [7a 3][7b 786435, 65537][13 0, 234008]If this discord arises from us both
+holding to our own choices, which
+cannot coexist...
+[->][7b 786435, 65537][13 0, 204004]......
+[->][7b 131075, 65537][13 0, 234010]Then there is only one thing for us
+to do.
+[END]
+5: (Jonathan) [7a 3][7b 393219, 65537][13 0, 191001]...Hm?
+[END]
+102: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[END]

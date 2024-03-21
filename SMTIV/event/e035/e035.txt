@@ -1,0 +1,71 @@
+0: (Voice) [7a 4]You're a very promising young man,
+[Flynn], just as I suspected.
+[END]
+1: (Walter) [7a 4]Surely you've seen her too. That woman
+who strolls calmly through the demon−
+haunted world.
+[->]Since you have seen her, you should
+be able to decide when the time comes.
+[->]The fatal tie with humans unworthy of
+being protected must be severed with our
+own hands.
+[END]
+2: (Walter) [7a 4][7b 262148, 65537]Beyond that, I ask only that you
+protect with me the new world we
+will create...
+[END]
+3: (Voice) [7a 3]...I fear I must be harsh with you
+tonight, [Flynn].
+[END]
+4: (Jonathan) [7a 3]You have met her now.
+[->]That is only to be expected, with you
+being who you are...
+[->]The reunion between the two of you
+proves that you've gained the right.
+[->]You must challenge the ordeal from God.
+...It is the ordeal to discard ____
+[END]
+5: (Jonathan) [7a 3][7b 262147, 65537]Glory awaits on the other side. It is
+our glory; we are the ones who will
+bear the burden of a new world.
+[END]
+6: (Walter) [7a 4][13 0, 35001]Pardon me for barging in again, but I
+hope you slept well last night?
+[END]
+7: (Jonathan) [7a 3][13 0, 35002]We were told that the masters are all
+out today, and that we prentices are
+to have a holiday.
+[END]
+8: (Walter) [7a 4][7b 65540, 65537][13 0, 35003]They gave us permission to go out,
+too. Since the weather's so nice,
+why don't we breakfast outside?
+[END]
+9: (Jonathan) [7a 3][7b 262147, 65537][13 0, 35005]There's a very good bakery in the
+castle town. Let's try their wares.
+[END]
+10: (Walter) [7a 4][7b 786436, 65537][13 0, 35006]Oho... is that your stratagem for
+wooing the ladies, Jonathan?
+[END]
+11: (Jonathan) [7a 3][7b 131075, 65537][END]
+12: (Walter) [7a 4][7b 65540, 65537]Not used
+[END]
+13: (Jonathan) [7a 3][7b 589827, 65537][13 0, 35007]Wha−−!? D−Don't be coarse, Walter.
+I do not... erm, you know...
+[END]
+14: (Walter) [7a 4][7b 393220, 65537][13 0, 35008]Wait, are you saying...?
+[->][7b 262148, 65537][13 0, 35009]I see! In... in that case, let's be
+on our way. We'll get our breakfast
+first.
+[END]
+15: 〉 Jonathan and Walter have joined you.
+[END]
+102: 〉 Your consciousness is fading...
+[END]
+105: 〉 Your consciousness is fading...
+[END]
+108: (Walter) [7a 4][7b 524292, 65537][13 0, 35004]We invited Isabeau, but she demurred
+and said, ”I'd rather spend it alone.”
+[END]
+114: (Burroughs) [7a 2][13 0, 400050]I'll register that as a new quest
+on the list.
+[END]

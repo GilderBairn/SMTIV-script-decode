@@ -1,0 +1,107 @@
+0: (Shopkeeper) [7a 26][13 0, 620000]Welcome...! Oh!
+You're the guy who accepted the
+quest, right?
+[->][13 0, 620001]Thank goodness you're here.
+Just going up to the surface is a
+matter of life and death.
+[->][13 0, 620002]All right, here's the film I want
+you to deliver.
+[END]
+1: 〉 The shopkeeper hands a roll of
+camera film to [Flynn].
+[END]
+2: (Shopkeeper) [7a 26][13 0, 620003]It's for a film camera. They're
+really rare, you know. This stuff
+is hard to come by these days.
+[->][13 0, 620004]I want you to take this to a Hunter
+who likes photography. I know, that
+was in the description...
+[->][13 0, 620005]She ought to still be in the Ueno
+area. I'm pretty sure she wanted to
+take pictures of shrines and temples.
+[->][13 0, 620006]I'm thinking she's just too caught
+up in taking pictures to come here
+herself, so I'm counting on you.
+[END]
+3: (Shopkeeper) [7a 26][13 1, 405500]Have you delivered that film yet?
+[->]She should be taking pictures of the
+shrines and temples in Ueno.
+Don't let me down!
+[END]
+4: (Woman's voice) [7a 1][13 0, 620007]Wait, no! Stop!
+[END]
+5: (Photographer) [7a 136][13 0, 620008]Well, great. That was my last shot,
+and you completely photobombed it.
+[END]
+6: 〉 [Flynn] explains why he came to
+this place and shows her the film.
+[END]
+7: (Photographer) [7a 136][13 0, 620009]Huh? You came all this way to
+deliver my film?
+[->][13 0, 620010]Well, thanks. It's so hard to get
+film these days, you know.
+[->][13 0, 620011]I've been looking for some for a
+while now, and I was able to order
+some from the item shop in Ueno.
+[->][13 0, 620012]Sorry for yelling at you before.
+[END]
+8: 〉 [Flynn] gives the film to the
+woman.
+[END]
+9: (Photographer) [7a 136][13 0, 620013]Thanks. You seem pretty good
+at this.
+[->][13 0, 620014]Hey... Are you just starting out
+as a Hunter? I don't recognize
+you.
+[->][13 0, 620015]I'm Nozomi. I'm a Hunter, but I take
+pictures on the side.
+[END]
+10: (Nozomi) [7a 136][13 0, 620016]Ever since I got this camera, I've
+been trying to get my hands on more
+film through some of my connections.
+[->][13 0, 620017]...Huh?
+Don't you know what a camera is?
+[->][13 0, 620018]It's a, um... It's a device that lets
+you save what you see as a picture.
+[->][13 0, 620019]Oh, are you interested in them?
+I'd love to tell you more about them,
+but I'm kind of short on time.
+[->][13 0, 620020]I'd love to show you how much fun
+using a camera can be... Oh, I know!
+[->][13 0, 620021]Here, I've got just the thing for you.
+[END]
+11: 〉 Nozomi hands [Flynn] a camera.
+[END]
+12: (Nozomi) [7a 136][13 0, 620022]This is another camera, but it
+instantly gives you a printout of
+the picture you just took.
+[->][13 0, 620023]It's a digital camera with a built−in
+printer. Not as nice as this film
+camera, but it's perfect for a novice.
+[->][13 0, 620024]Don't even think about selling it
+for some cash. Give it a try. I
+promise it'll be fun.
+[->][13 0, 620025]Well, see you later, new guy.
+If we both survive long enough, we
+might run into each other again!
+[END]
+800: (Burroughs) [7a 2][13 1, 502044]I will update your information on this
+quest.
+[END]
+900: (Storekeeper) So you've accepted the quest.
+Well, here's the film.
+[->]If I recall correctly, she said she
+was going to Ueno to take pictures
+of the temples.
+[->]There's a temple called Kaneiji close
+by. Why don't you try going there
+first?
+[END]
+901: You will meet a female Hunter.
+You will obtain a camera, and the
+quest will end. The rest isn't done.
+[END]
+902: 〉 There is no one here...
+[END]
+903: 〉 Nozomi leaves...
+[END]

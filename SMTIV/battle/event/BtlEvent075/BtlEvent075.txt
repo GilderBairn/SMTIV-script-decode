@@ -1,0 +1,173 @@
+0: (Demon Lord Lucifer) [7a 0][13 0, 307500]I am the radiant morning star which
+lights the way to the sons of man.
+[->][13 0, 307501]I am the true flame of life in all the
+glory of flesh, blood, and my own will.
+[->][13 0, 307502]So come, ye lifeless puppets of God!
+I shall snuff out your ostentatious
+lights.
+[END]
+1: (Demon Lord Lucifer) [7a 0][13 0, 307529]Hnngh... Impossible... that you should
+possess such strength...
+[->][13 0, 307530]Am I to fall once again before the
+power of God that has so humiliated
+me in the past...!?
+[END]
+2: (Merkabah) [7a 92][13 0, 307531]Victory is nigh... Now is the time to
+burn the life given by our Lord.
+[->][13 0, 307532]The evil morning star must be struck
+down into the depths of the earth.
+[END]
+3: (Demon Lord Lucifer) [7a 0][13 0, 307533]I will not fall...
+[->][13 0, 307534]I will not fall until life blooms in a
+universe where knowledge and the seeds
+of one's self have sprouted...
+[END]
+4: (Merkabah) [7a 92][13 0, 307535]We will not allow this universe to be
+infested with such vile mockeries.
+[END]
+5: (Demon Lord Lucifer) [7a 0][13 0, 307536]Once again, I fall to the earth...
+I could not... surpass God...
+[END]
+6: (Demon Lord Lucifer) [7a 0][13 0, 307537]If... If you've beaten me... then that
+means... you are the stronger man...
+[->][13 0, 307538]Perhaps... that itself means... that
+you were in the right...
+[END]
+1000: (Demon Lord Lucifer) [7a 0][13 0, 307503]I put it to you, who have defeated
+countless demons and would challenge
+I, the Demon Lord...
+[->][13 0, 307504]For whom are you fighting this
+relentless, dreadful battle?
+[END]
+1001: ”For God Almighty.”
+”For the people of Tokyo.”
+”For myself.”
+”.........”
+[END]
+1002: (Demon Lord Lucifer) [7a 0][13 0, 307505]You are either a pitiable puppet or a
+staunch Samurai to so doggedly love
+and trust your God...
+[->][13 0, 307506]But that is undoubtedly a source of
+power all the same. Else you could
+not stand before me now.
+[->][13 0, 307507]Very well... let it be decided here
+whose power is right.
+[END]
+1003: 〉 [Flynn] is filled with a powerful
+resolve...
+[END]
+1004: 〉 [Flynn] recovered!
+[END]
+1005: (Demon Lord Lucifer) [7a 0][13 0, 307508]What could you do for the people who
+have been trapped below ground and
+persecuted for lo these many years?
+[->][13 0, 307509]I am different... I accept humans for
+what they are.
+[->][13 0, 307510]I give light to the wise and to the
+foolish alike.
+[->][13 0, 307511]There are no circumstances in which you
+could best me with your hollow beliefs
+and ignorant determination.
+[END]
+1006: 〉 Lucifer's argument cuts [Flynn]
+down to the very soul...
+[END]
+1007: 〉 All of [Flynn]'s stats have
+decreased!
+[END]
+1008: (Demon Lord Lucifer) [7a 0][13 0, 307512]How dare a puppet bound by faith in
+God, without so much as a shred of
+self, speak thus!?
+[->][13 0, 307513]A puppet deserves nothing but to
+further control...
+[END]
+1009: 〉 [Flynn] was overwhelmed by
+Lucifer's murderous determination...
+[END]
+1010: 〉 Lucifer takes this opportunity to
+take action!
+[END]
+1011: (Demon Lord Lucifer) [7a 0][13 0, 307514]So you lack even this much resolve.
+The dust at my feet has more worth
+than you sorry lot.
+[->][13 0, 307515]You are a puppet unworthy even of the
+title of fool. I shall break you and
+cast your bones to the earth.
+[END]
+1012: 〉 Lucifer's immense murderous intent
+is overpowering...
+[END]
+1013: 〉 All of Lucifer's stats have
+increased!
+[END]
+1014: (Demon Lord Lucifer) [7a 0][13 0, 307516]...To think that you would match me
+thus far. Little wonder that you led
+Merkabah, the chariot of God.
+[->][13 0, 307517]But you who have been tamed by order
+are far from the essence of power.
+[->][13 0, 307518]Hence, I will make you see that this
+is why you shall never surpass me.
+[END]
+1015: 〉 Lucifer gives [Flynn] an evil
+and overbearing stare...
+[END]
+1016: Glare back intensely
+Quietly gaze at him
+Calmly close your eyes
+Look away nobly
+[END]
+1017: 〉 [Flynn] glares back at Lucifer
+with astonishing intensity...
+[END]
+1018: (Demon Lord Lucifer) [7a 0][13 0, 307519]As I have said, your nature is far
+removed from the essence of power.
+[->][13 0, 307520]Fierce though your gaze may be, it is
+an idle threat backed by nothing.
+[->][13 0, 307521]My power shall overwhelm you, and you
+shall be reduced to ash.
+[END]
+1019: 〉 [Flynn] is tormented by Lucifer's
+gaze...
+[END]
+1020: 〉 [Flynn] returns Lucifer's glare
+with a calm, silent stare...
+[END]
+1021: (Demon Lord Lucifer) [7a 0][13 0, 307522]Ah... Your belief in order is not
+shaken in the slightest by my ferocity.
+[->][13 0, 307523]Interesting! I see now why you are a
+warrior of light, capable of facing
+me at the fulcrum of the absolute.
+[END]
+1022: 〉 The Holy Spirit is quietly burning
+from within [Flynn]...
+[END]
+1023: 〉 All of [Flynn]'s stats have
+greatly increased!
+[END]
+1024: 〉 [Flynn] calmly closes his eyes...
+[END]
+1025: (Demon Lord Lucifer) [7a 0][13 0, 307524]How foolish of you. You are praying
+to your God or something of the like?
+[->][13 0, 307525]The folly of closing one's eyes before
+an enemy...
+[->][13 0, 307526]You shall learn a lesson in pain of
+what that means in the halls of power.
+[END]
+1026: 〉 Lucifer suddenly attacks!
+[END]
+1027: 〉 [Flynn] nobly looks away...
+[END]
+1028: (Demon Lord Lucifer) [7a 0][13 0, 307527]Locking gazes is a kind of battle
+as well. Those who avert their eyes
+are as good as vanquished.
+[->][13 0, 307528]Be tormented by your impotence in
+defeat!
+[END]
+1029: 〉 Lucifer has branded [Flynn] with
+the stigma of powerlessness...
+[END]
+1030: 〉 [Flynn]'s attack power has decreased
+to its minimum!
+[END]
+1050: 〉 [Flynn] cannot move!
+[END]

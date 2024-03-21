@@ -1,0 +1,89 @@
+0: 〉 A young girl intercepts [Flynn]
+and the others.
+[END]
+1: (Hoarse girl) [7a 96][13 0, 198001]Mr. Messiah...
+[END]
+2: (Hoarse man) [7a 97][13 0, 198002]We heard from Kiyoharu... You finally
+came...
+[END]
+3: (Hoarse old woman) [7a 133][13 0, 198003]Please let my family die in peace...!
+[END]
+4: (Walter) [7a 4][13 0, 198004]Have they lost their senses...? We
+haven't time for this. Let's go...
+[END]
+5: (Jonathan) [7a 3][13 0, 198005]They may be trying to tell us something.
+[END]
+6: ”I see no harm in it.”
+”Let's not.”
+[END]
+7: (Walter) [7a 4]Hmph. It seems sometimes there's no
+wretch in distress you won't make
+time for.
+[END]
+8: (Hoarse man) [7a 97][13 0, 198007]Ohhh! Truly, you are the messiahs we
+were waiting for!
+[END]
+9: (Walter) [7a 4]He's right, Jonathan.
+[->]Our own troubles are thorny enough
+without inviting others' problems
+onto ourselves.
+[->]Let's go.
+[END]
+10: (Hoarse girl) [7a 96][13 0, 198023]Oh...
+[END]
+11: (Hoarse man) [7a 97][13 0, 198008]...We want you to get revenge.
+[->][13 0, 198009]Our hometown, Shibuya, was attacked by
+a demon... Many people died that day.
+[->][13 0, 198010]But worse than the ones it killed
+were my family, who that demon turned
+into...!
+[->][13 0, 198011]Please, Messiah, bring down the hammer
+of justice for us!
+[END]
+12: (Hoarse old woman) [7a 133][13 0, 198012]I can't face my family in heaven
+without knowing they've been avenged.
+[END]
+13: (Hoarse girl) [7a 96][13 0, 198013]Here...
+[END]
+14: 〉 [Flynn] received a rusted key
+from the hoarse girl.
+[END]
+15: (Hoarse man) [7a 97][13 0, 198014]We know it was wrong, but we borrowed
+this from Kiyoharu's room.
+[->][13 0, 198015]You can enter the Terminal room that
+leads to Shibuya with this...
+[->][13 0, 198016]We have no way to fight the demons
+ourselves, so please, PLEASE...
+[END]
+16: (Walter) [7a 4][13 0, 198018]I should think the more positive
+approach would be to forget the dead,
+rather than wallow in sadness...
+[END]
+17: (Jonathan) [7a 3][7b 786435, 65537][13 0, 198019]We cannot help the dead, but we can
+help those they have left behind.
+[->][13 0, 198020][7b 65539, 65537]I think it fate that we heard their
+pleas. I believe we ought to help them.
+[END]
+18: (Walter) [7a 4][13 0, 198021]But we mustn't forget our duty to deal
+with this Pluto figure, yes?
+[END]
+19: (Walter) [7a 4][7b 786436, 65537][13 0, 198022]Hm... The decision is yours, [Flynn].
+We can go to Shibuya if you wish.
+[END]
+20: (Hoarse man) [7a 97][13 0, 198024]O great Messiahs, please show
+us mercy…
+[END]
+21: (Jonathan) [7a 3][13 0, 198025]What say you? Shall we
+hear them out?
+[END]
+22: (Burroughs) [7a 2][13 1, 400005]It seems like they're trying to tell
+you something.
+[->]Well, Master [Flynn]? Do you want
+to listen to them?
+[END]
+23: Listen to them
+Don't listen to them
+[END]
+115: (Burroughs) [7a 2][13 1, 400050]I'll register that as a new quest
+on the list.
+[END]

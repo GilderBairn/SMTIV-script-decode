@@ -1,0 +1,9 @@
+0: I'd like to speak with you in person.
+This concerns [Color:0x5]Tokyo in the past,[Color:0x0]
+before it was covered by the ceiling.
+This'll probably have some important
+information for you, so I'll look
+forward to seeing you.
+[END]
+1: Download Quest 1 Second time
+[END]

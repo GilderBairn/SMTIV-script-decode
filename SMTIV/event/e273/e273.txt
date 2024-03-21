@@ -1,0 +1,122 @@
+0: (Echoing voice) [13 0, 273009]I speak unto the Filth...
+[END]
+1: (Angel) [7a 64673][13 0, 273010]We will not allow you to take even a
+single step into the lands of the
+Eastern Kingdom of Mikado.
+[END]
+2: (Angel) [7a 64673][13 0, 273011]We will obliterate you Filth, just as
+the Lord has commanded.
+[END]
+3: (Echoing voice) [13 0, 273012]I speak unto the Filth...
+[END]
+4: (Angel) [7a 65515][13 0, 273013]We will not allow you to take even a
+single step into the lands of the
+Eastern Kingdom of Mikado.
+[END]
+5: (Angel) [7a 224][13 0, 273014]We will obliterate you Filth, just as
+the Lord has commanded.
+[END]
+6: (Echoing voice) [7a 64671]It angers me to see your unchecked,
+wild overgrowth...
+[END]
+7: (Demon) [7a 64671]The beauty of a garden is expressed
+through the bare minimum of plants
+that decorate it.
+[->]Those who cannot fully blossom, such
+as yourselves, are what will cause
+the garden to become a wasteland.
+[END]
+8: (Demon) [7a 64671]I shall prune your numbers here.
+[END]
+9: (Echoing voice) [13 0, 273015]I speak unto the Filth...
+[END]
+10: (Angel) [7a 65516][13 0, 273016]We will not allow you to take even a
+single step into the lands of the
+Eastern Kingdom of Mikado.
+[END]
+11: (Angel) [7a 226][13 0, 273017]We will obliterate you Filth, just as
+the Lord has commanded.
+[END]
+12: (Echoing voice) [13 0, 273020]I speak unto the Filth...
+[END]
+13: (Angel) [7a 65518][13 0, 273021]We will not allow you to take even a
+single step into the lands of the
+Eastern Kingdom of Mikado.
+[END]
+14: (Angel) [7a 65518][13 0, 273022]We will obliterate you Filth, just as
+the Lord has commanded.
+[END]
+15: (Echoing voice) [13 0, 273023]I speak unto the Filth...
+[END]
+16: (Angel) [7a 65519][13 0, 273024]We will not allow you to take even a
+single step into the lands of the
+Eastern Kingdom of Mikado.
+[END]
+17: (Angel) [7a 225][13 0, 273025]We will obliterate you Filth, just as
+the Lord has commanded.
+[END]
+18: (Echoing voice) [13 0, 273026]Filth that has strayed from the path
+of the sons of man...
+[END]
+19: (Angel) [7a 227][13 0, 273027]We are the archangel Seraph.
+[END]
+20: (Angel) [7a 227][13 0, 273028]We need hardly involve God's chariot
+in exorcising you.
+[END]
+21: (Angel) [7a 227][13 0, 273030]Go hence to Hell...
+[END]
+22: 〉 The angels are no longer here...
+[END]
+100: 〉 A powerful barrier prevents you from
+proceeding...
+[END]
+101: (Isabeau) [7a 5][7b 655365, 65537][13 0, 273001]I hate to have come all this way,
+only to be stopped by something
+so trifling...
+[->][13 0, 273002]Do you know of anyone that we could
+call upon for help? Even a demon in
+your party might do.
+[END]
+102: (Masakado) [7a 65176][13 0, 273004]Worry not. I am here with you.
+[END]
+103: (Masakado) [7a 65176][13 0, 273006]......
+[END]
+104: (Masakado) [7a 65176][13 0, 273007]Haaa...!
+[END]
+105: 〉 Masakado swallowed the seal whole.
+[->]〉 The seal disappeared.
+[END]
+106: (Masakado) [7a 65176][13 0, 273008]There is no barrier that cannot be
+overcome with hope.
+[END]
+111: (Burroughs) [7a 2][13 0, 273018]These people−−well, angels−−keep saying
+the same things over and over... 
+[END]
+120: (Angel) [7a 227][13 0, 273029]The sublime world we seek must not
+harbor even a speck of Filth.
+[END]
+201: (Isabeau) [7a 5][7b 655365, 65537][13 0, 273003]I hate to have come all this way,
+only to be stopped by something
+so trifling...
+[END]
+202: (Masakado) [7a 65176][13 0, 273005]A space constructed by angels...
+[END]
+206: 〉 A regretful voice echoed from
+[Flynn]'s Gauntlet.
+[END]
+211: (Burroughs) [7a 2][13 0, 273019]It's like they're machines...
+[END]
+222: 〉 The angel's aura intensifies...
+[END]
+306: (Voice) [7a 1][13 1, 438001]Most regrettable... If only I were
+in a more complete state...
+[END]
+406: 〉 Masakado attempted to bite into the
+ominous field before you...
+[END]
+506: (Masakado) [7a 65176][13 1, 438001]...Alas, I have not even the strength to
+open my jaws. If only I had the Great
+Spirit of Hope...
+[END]
+900: マサカドが封印を解く
+[END]

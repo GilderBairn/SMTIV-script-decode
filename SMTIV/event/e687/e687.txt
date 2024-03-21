@@ -1,0 +1,89 @@
+0: 〉 Several Hunters are here,
+performing Demon Fusions over and
+over...
+[->]〉 All the Hunters have blank faces,
+and their fingers fly over the phones'
+touchscreens...
+[->]〉 It's as if they are being
+manipulated by something else...
+[->]〉 Do you want to call out to them?
+[END]
+1: Yes
+No
+[END]
+2: (Demon's voice) [7a 65404][13 1, 413108]I won't let you interfere.
+[END]
+3: 〉 You leave the area...
+[END]
+4: (Baphomet) [7a 65404][13 1, 413109]Curse you...
+[END]
+5: (Cernunnos) [7a 0][13 1, 478007]Well, well, well. I thought somebody
+was trying to get in my way.
+You again, huh?
+[->]It's already too late. Things are
+just about finished.
+[->]Baphomet, it's time to fuse.
+[->]With this fusion, you can regain the
+godhood that you once held.
+[END]
+6: (Baphomet) [7a 0][13 1, 413103]Understood.
+[END]
+7: 〉 Baphomet enters the smartphone.
+You recognize the sounds of a Demon
+Fusion...
+[END]
+8: (Cernunnos) [7a 0][13 1, 478001]There it is! The resurrection of the
+Roman Vile Pales.
+[->]That's another ancient power stolen
+from us by God, and now regained!
+[->]We are resurrecting the ancient gods'
+powers, to amass a force strong enough
+to defeat God Himself.
+[->]You humans can all shut up and be
+our sacrifices, just like the good
+old days!
+[END]
+9: 〉 The demons disappear...
+[END]
+10: (Freed Hunter) [7a 67][13 1, 403042]What the−−?
+[->]What am I doing here?
+[END]
+11: 〉 You explain the situation to the
+Hunters...
+[END]
+12: (Hunter) [7a 67][13 1, 403043]I see... So a demon did all this...?
+[->]Hm. My phone shows that someone's
+been using it for a whole lot of
+fusions lately... Guess you're right.
+[->]Looks like you saved our lives.
+Thanks, man.
+[END]
+13: 〉 The Hunters leave...
+[END]
+14: 〉 You hear a demon's voice...
+[END]
+15: 〉 Another demon appears...
+[END]
+16: 〉 According to the map, this place
+is called the ”Seibo Department
+Store.”
+[->]〉 There are signs that someone has
+apparently been trying to repair the
+old elevator in the back...
+[END]
+17: 〉 You have no more business here...
+[END]
+100: 〉 Will you use the elevator to go
+to the top floor?
+[END]
+101: 〉 You've arrived at the top...
+[END]
+102: 〉 You leave the area...
+[END]
+900: 〉 According to the map, this place
+is called the ”Seibo Department
+Store.”
+[->]〉 There are signs that someone has
+apparently been trying to repair the
+elevator...
+[END]

@@ -1,0 +1,51 @@
+0: 〉 A passage in mystic script appears
+on the Gauntlet...
+[END]
+1: [->][END]
+2: (Oni) [7a 0]Hey, guess what? You don't have a
+chance of beating us!
+[->]If you think we're bluffing?
+We'll show you just how terrifying
+we can be!
+[END]
+3: Check action start
+[->][END]
+4: HP 75% or lower
+[->][END]
+5: (Oni) [7a 0]Wh−What the hell!?
+This is poison!
+[->]You son of a bitch! You're gonna
+try to poison me to death!?
+[END]
+6: (Oni) [7a 0]Oh, shit... If this keeps up, I'm
+gonna lose it...
+[END]
+7: Check action end
+[->][END]
+8: (Oni) [7a 0]You didn't... beat... me...
+[->]It was the poison...
+the poison...!
+[END]
+9: 〉 [Flynn] runs past the boundary to
+the virtual battle, and the simulation
+ends...
+[END]
+10: Check enemy escape
+[->][END]
+11: 〉 The enemy was not eliminated within
+the turn limit.
+[->]〉 The simulation ends...
+[END]
+12: [->][END]
+13: 〉 The enemy was successfully
+eliminated within the turn limit.
+[->]〉 The simulation ends...
+[END]
+100: ”Demon training program −− Ready
+ Training Battle 3 −− Begin”
+[->][Color:0x5]”Find a way to damage the demons without
+having your attacks reflected, and
+defeat them within three turns!”[Color:0x0]
+[END]
+1000: Test
+[->][END]

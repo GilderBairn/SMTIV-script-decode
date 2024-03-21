@@ -1,0 +1,83 @@
+0: (Demon) [7a 65418][13 1, 418002]Did you know that the great Indian
+gods have finally decided to make
+more soma?
+[->]I need to help them.
+[->]I wonder if it would please Shiva if
+I danced for them?
+[->]Oh, I can't wait!
+[END]
+1: 〉 The demon is extremely excited...
+[END]
+2: (Demon) [7a 65418][13 1, 418001]Ah, a truly noble mindset.
+Vishnu will be pleased.
+[->]My name is Apsaras.
+[->](Apsaras) [7a 65418]You see, the gods of India have
+decided to come forth and make the
+divine wine, Soma.
+[->]It's a huge project. They're going
+to use the water of Tokyo Bay to do
+it.
+[->]We're also going to require the skin
+from [Color:0x5]Drake Vasuki[Color:0x0]s so that we can
+make rope out of it.
+[->]I highly doubt that any human would
+be able to defeat a Vasuki.
+[->]Still, Brahma always says never to
+underestimate a human's powers, so
+I guess I'll give you a chance.
+[->]Once you have collected the Vasuki
+skin, please bring it here.
+[->]I'm counting on you.
+[END]
+3: (Apsaras) [7a 65418][13 1, 418000]Vasuki don't show themselves often,
+but they're all around on the surface.
+[->]So look hard for them, and don't give
+up.
+[->]I suggest that you don't take them
+lightly, or you'll be sorry. They
+are extremely scary demons.
+[END]
+4: (Demon) [7a 65418][13 1, 418001]Ah, a truly noble mindset.
+Vishnu will be pleased.
+[->]My name is Apsaras.
+[->](Apsaras) [7a 65418]You see, the gods of India have
+decided to come forth and make the
+divine wine, Soma.
+[->]It's a huge project. They're going
+to use the water of Tokyo Bay to do
+it.
+[->]We're also going to require the skin
+from [Color:0x5]Drake Vasuki[Color:0x0]s so that we can
+make rope out of it.
+[->]...What's this? Do you already have
+Vasuki skin with you?
+[END]
+5: (Apsaras) [7a 65418][13 1, 418004]Did you really defeat the Vasuki on
+your own!? That's amazing!
+[->]We're going to use a good number of
+Vasuki skins for the process.
+[->]We're always going to need more.
+[->]If you happen to collect more Vasuki
+skins, please bring them to me.
+[END]
+6: (Apsaras) [7a 65418][13 1, 418008]Oh, so you get my hopes up, just to
+dash them away. What nerve!
+[->]I will never forgive you! ...Unless
+you bring me some Vasuki skin.
+[END]
+7: (Apsaras) [7a 65418][13 1, 418003]So? Did you bring the goods?
+[END]
+8: (Demon) [7a 65418][13 1, 418003]Oh, are you here for the request I
+posted, perhaps?
+[->]I asked for someone to collect Vasuki
+skins. Does that sound familiar?
+[END]
+9: ”Yes.”
+”No.”
+[END]
+10: (Demon) [7a 65418][13 1, 418004]Oh I'm sorry. My mistake.
+[->]I honestly wonder if any human could
+slay a Vasuki... This worries me.
+[END]
+900: 〉 There is no one here...
+[END]

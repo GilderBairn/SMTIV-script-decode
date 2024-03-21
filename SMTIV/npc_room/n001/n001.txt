@@ -1,0 +1,231 @@
+0: (Innocent man) [7a 34][13 1, 403202]Anyone who comes of age at 18 must
+undergo the ceremony at Mikado Castle.
+[->]I was born and raised here, so it was
+a short trip for me. But it must be a
+chore for those who live very far away.
+[END]
+1: (Innocent man) [7a 34][13 1, 403241]Most of the youths who were here for
+the ceremony have gone back to their
+hometowns.
+[->]But I think I saw a few of them staying
+around Mikado Castle for a few days
+before the return trip.
+[END]
+2: (Innocent man) [7a 34][13 1, 403203]I would like to take my son to work
+with me sometime soon so he can start
+to learn my trade...
+[->]But he spends all his time in something
+called a ”Sabbath” in another village.
+I rarely see him until the next morning.
+[END]
+3: (Innocent man) [7a 34][13 1, 403213]The Black Samurai said that people became
+demons by reading Literature, right?
+[->]You can't be serious... I have friends
+who've been reading that stuff...
+[END]
+4: (Innocent man) [7a 34][13 1, 403203]I used to have a son. But he became
+engrossed in Sabbaths and refused to
+work.
+[->]So he will be among those in the next
+public execution, as he is no longer
+a contributing member of society.
+[->]As expiation for my failures as a
+father, I'll raise this adopted son
+in his place.
+[END]
+5: (Innocent man) [7a 34][13 1, 403203]I once had a son. He refused to work
+and spend all of his time attending
+Sabbaths.
+[->]So I had him executed. He was no longer
+a contributing member of society.
+[->]As expiation for my failures as a
+father, I'll raise this adopted son
+in his place.
+[END]
+6: (Innocent man) [7a 34][13 1, 403223]I once had a son. He refused to work
+and spend all of his time attending
+Sabbaths.
+[->]So I had him executed. I thought he
+was no longer a contributing member
+of society...
+[->]But is this God's reward for me?
+I even adopted another son to do my
+part for the kingdom...
+[END]
+7: (Talkative woman) [7a 36][13 1, 403303]If you become a Blessed Samurai, you'll
+be counted as a Luxuror too! What a
+boon that must be!
+[->]Though I'm satisfied being a Casualry,
+myself. It's the station in life God
+has given me.
+[END]
+8: (Talkative woman) [7a 36][13 1, 403303]Oh, what a young Blessed Samurai you are.
+Are you on holiday today?
+[->]Do you know the bakery in the castle
+town? It's quite popular...
+[->]Even Luxurors come down to buy the
+bread there.
+[END]
+9: (Talkative woman) [7a 36][13 1, 403341]That bakery always smells so good.
+[->]Just yesterday, I was telling a boy
+from outside the village about it...
+[END]
+10: (Talkative woman) [7a 36][13 1, 403302]The baker seems to do a brisk business.
+He even gets customers from other
+villages.
+[->]Until now, no one had ever considered
+shopping outside their hometown...
+[->]I suppose it's because of those
+Sabbaths. I see a lot of people come
+and go these days.
+[END]
+11: (Talkative woman) [7a 36][13 1, 403302]Black Samurai said that God bore us
+no love...
+[->]Does she mean that there is no God?
+Then who assigned our roles?
+[END]
+12: (Talkative woman) [7a 36][13 1, 403302]Black Samurai said that God bore us
+no love...
+[->]But that was utter bilge. Of course
+God exists!
+[->]Why, our new leader called herself a
+messenger from God, didn't she?
+[END]
+13: (Talkative woman) [7a 36][13 1, 403302]I've actually never met the new leader
+in the flesh.
+[->]But you can tell from all the wise
+words that come to us from the
+Monastery...
+[->]She really is a messenger of God.
+She knows everything happening in
+this kingdom.
+[END]
+14: (Talkative woman) [7a 36][13 1, 403321]I've actually never met the new leader
+in the flesh.
+[->]There's a thought that gives me shivers.
+We blindly put our trust in someone
+we'd never once met.
+[END]
+15: (Craftsman) [7a 35][13 1, 403242]Today's that ceremony, right? That means
+there'll be a whole mob of people coming
+to Mikado Castle...
+[->]I'd best pick up the pace on my work,
+shouldn't I?
+[->]Ah well. I'm not paid to use my brain.
+The Luxurors can do the thinking for me.
+[END]
+16: (Craftsman) [7a 35][13 1, 403242]I saw a group of Blessed Samurai this
+morning. Were they departing on some
+mission?
+[->]And if they are, should I pick up the
+pace on my work?
+[->]Ah well. I'm not paid to use my brain.
+The Luxurors can do the thinking for me.
+[END]
+17: (Craftsman) [7a 35][13 1, 403242]I heard tell there was an expedition to
+Kiccigiorgi. Is that right?
+[->]That peaceful burg is far from any
+strife. Why go there?
+[->]Oh, how the question torments me...
+But the Luxurors will solve it for
+us, so there's no sense worrying.
+[END]
+18: (Craftsman) [7a 35][13 1, 403242]The Blessed Samurai are still going to
+and fro even after that Black Samurai's
+execution...
+[->]Perhaps I should pick up the pace to
+satisfy the higher demand...?
+[->]Ah well. The Luxurors will tell me if
+it's necessary, I suppose.
+[END]
+19: (Craftsman) [7a 35][13 1, 403242]I hear that the Blessed Samurai will
+continue to go on more expeditions...
+[->]I was asked to pick up the pace to
+satisfy the higher demand.
+[->]Our new leader is so resourceful! She
+makes her decisions before I can even
+bring her the question.
+[END]
+20: (Craftsman) [7a 35][13 1, 403242]The Blessed Samurai are still going
+willy−nilly over the land.
+[->]So I'll be picking up the pace, as our
+new leader has ordered.
+[->]Since we're about to usher in the new
+millennium, we tradesmen of the kingdom
+must join forces and work harder.
+[END]
+21: (Craftsman) [7a 35][13 1, 403242]The Blessed Samurai are still going
+willy−nilly over the land...
+[->]They've a tough road to hoe. I must pick
+up the pace of my work to do my part.
+[->]After all, we're emigrating to a new
+land, yes? So we tradesmen of the kingdom
+must join forces and work harder.
+[END]
+22: (Fearful woman) [7a 36][13 1, 403313]Ah... ahhhhh...!
+[END]
+23: (Demon) [7a 65112][13 1, 412001]This is a red pill I got in Tokyo.
+The choice is yours. Eat it and join
+us in demonhood...
+[->]Or stay human−−a slave to God−−and end
+your miserable life here. Choose now.
+[END]
+102: (Innocent man) [7a 34][13 1, 403203]They'll be letting us Casualries into
+Mikado Castle today.
+[->]The Monastery has summoned us all to
+Obelisk Plaza this morning...
+[->]They said it would be a holiday from
+work, but I ask you, what is more
+important in this world than work?
+[END]
+103: (Innocent man) [7a 34][13 1, 403213]My son is so engrossed in Sabbaths
+that he's not willing to learn an
+honest trade...
+[->]So I've decided to take this boy into
+my home. He's an orphan who lost his
+parents in Cheoda to demons.
+[->]According to what I've read, this sort
+of thing is called ”adoption.”
+[END]
+106: (Innocent man) [7a 34][13 1, 403202]...I had a son... He spent his time at
+Sabbaths instead of working. In the end,
+he was executed...
+[->]It was I who reported him to the
+authorities. I was only doing my duty
+to my kingdom...
+[->]But don't worry about me, blessed
+Samurai. As I was just telling someone
+else who was concerned about me...
+[->]My son never could sleep alone when he
+was alive. I think I may join him to
+bring him comfort...
+[END]
+110: (Talkative woman) [7a 36][13 1, 403302]I just overheard a rumor from a few
+Luxurors...
+[->]They said that the event at the castle
+today is the Black Samurai's execution.
+[->]But the Black Samurai is a friendly sort
+who brought us books, isn't she? Why the
+execution?
+[END]
+117: (Craftsman) [7a 35][13 1, 403242]These days, the Blessed Samurai are
+dispatched all across the kingdom.
+[->]I think that I should pick up my pace
+to fulfill the expected need...
+[->]But I can't be sure. I'll let the
+Luxurors decide...
+[END]
+118: (Craftsman) [7a 35][13 1, 403242]The Blessed Samurai are needed for more
+expeditions than before, I suppose...
+[->]Perhaps I should pick up the pace to
+satisfy the higher demand...?
+[->]Ah well, it's not for me to decide.
+That's the Luxurors' job.
+[END]
+217: (Craftsman) [7a 35][13 1, 403242]I've never seen the town this lively
+outside of the Gauntlet Rite...
+[->]Perhaps I should pick up the pace to
+satisfy the higher demand...?
+[->]But I can't be sure. I'll let the
+Luxurors decide...
+[END]

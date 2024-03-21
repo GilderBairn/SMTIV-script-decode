@@ -1,0 +1,162 @@
+0: (Demon) [7a 65496][13 1, 417007]Who are you?
+Are you... after me?
+[END]
+1: 〉 [Flynn] explains the reason he
+came here.
+[END]
+2: (Demon) [7a 65496][13 1, 417001]Brigid sent you?
+Whew, I'm saved!
+[->]My name's Fortuna.
+I'm an old friend of Brigid.
+[->](Fortuna) [7a 65496]It'd be bad if an angel caught us
+here, so I'll be quick and tell you
+what's going on.
+[->]This is [Color:0x5]Dagda's Cauldron.[Color:0x0]
+Some people mistakenly call it the
+Holy Grail.
+[->]We snuck into their main stronghold
+to take back the Cauldron, which had
+been stolen from us, but...
+[->]Everyone was killed by the angels...
+Everyone but me, that is...
+[->]I have to get the Cauldron back,
+but I'm too hurt to go any further.
+[->]But now that you're here, I get the
+feeling that our plan may yet succeed.
+[->]Please, take Dagda's Cauldron to
+Brigid before the angels find you!
+[END]
+3: 〉 Fortuna presses Dagda's Cauldron
+into [Flynn]'s hands...
+[END]
+4: (Fortuna) [7a 65496]Dagda's Cauldron is old and somewhat
+fragile.
+[->]If it breaks, bring it back to me
+and I will repair it for you.
+[->]I still have the power to do that...
+[END]
+5: 〉 [Flynn] will now carry Dagda's
+Cauldron.
+[END]
+6: 〉 While carrying the Cauldron,
+[Flynn] can only perform the Run
+and Next actions in battle.
+[->]〉 In addition, if [Flynn] is hurt,
+Dagda's Cauldron will also take
+damage.
+[END]
+7: (Fortuna) [7a 65496][13 1, 417008]Did you break Dagda's Cauldron?
+Fine, let me see it.
+[END]
+8: 〉 Fortuna's magic has returned Dagda's
+Cauldron to its original state.
+[END]
+9: (Fortuna) [7a 65496]I'm sure it'll work out this time.
+You can do it!
+[END]
+10: (Fortuna) [7a 65496][13 1, 417007]I tried to do this task for my
+friend, it ended kind of pathetically.
+[->]It's killing me to admit it, but
+you're the only one I can count on
+now. Please get it to Brigid.
+[END]
+11: 〉 Dagda's Cauldron has broken.
+[->]〉 You must go back to Fortuna to have
+it repaired.
+[END]
+12: (Demon) [7a 65494][13 1, 418003]Thank you for accepting the quest.
+My name is Brigid.
+[->](Brigid) [7a 65494]My task for you is to bring me
+Dagda's Cauldron.
+[->]My kin have risked their lives in
+order to recover the Cauldron, which
+was stolen from us...
+[->]While those who went to retrieve it
+could not bring it here, they were
+able to bring it to Naraku.
+[->]I believe that the goddess [Color:0x5]Fortuna[Color:0x0]
+is currently in possession of the
+Cauldron at the moment.
+[->]There's not much time left. I will
+explain my reasons later. For now, I
+want you to bring me Dagda's Cauldron.
+[END]
+13: (Brigid) [7a 65494][13 1, 418003]Megami Fortuna should be somewhere
+in the cavern known as Naraku.
+[->]Please obtain Dagda's Cauldron from her,
+and bring it here.
+[END]
+14: (Demon) [7a 65494][13 1, 418004]That is Dagda's Cauldron!
+[->]So you saw the quest, and brought me
+the Cauldron? Thank you so much.
+[->]My name is Brigid, a member of the
+Tuatha De Danann.
+[->](Brigid) [7a 65494]Excuse me, but do you know if the
+others are still alive...?
+[END]
+15: (Brigid) [7a 65494][13 1, 418004]That is Dagda's Cauldron!
+[->]So you retrieved it from Fortuna
+and brought it here.
+[->]Excuse me, but... Do you know if the
+others are still alive...?
+[END]
+16: 〉 [Flynn] explains what he had been
+told by Fortuna...
+[END]
+17: (Brigid) [7a 65494][13 1, 418007]I see... Everyone but Fortuna...
+[->]......
+[->]We were all prepared for this. Now I
+must finish the task that we all set
+out to accomplish.
+[->]I will take Dagda's Cauldron from
+here.
+[END]
+18: 〉 [Flynn] hands Dagda's Cauldron
+to Brigid...
+[END]
+19: (Brigid) [7a 65494][13 1, 418001]Thank you. 
+[END]
+20: 〉 Brigid places Dagda's Cauldron
+atop an altar in the atrium hall.
+[->]......
+[->]......
+[->]......
+[END]
+21: (Brigid) [7a 65494][13 1, 418003]Thank you, human.
+[->]Now, my only goal is to protect the
+Cauldron until the resurrection of
+our mother, Danu.
+[->]The Lady Danu shall soon return to
+us... I have seen the signs.
+[->]Once the Cauldron is in Lady Danu's
+possession, our race will flourish
+once again.
+[->]Soon our fallen will be resurrected,
+and we will once again be able to
+live in peace.
+[->]This is all thanks to your aid...
+[->]Thank you so much.
+[END]
+22: (Brigid) [7a 65494][13 1, 418002]I shall protect the Cauldron until
+the return of our mother, Lady Danu.
+[->]On that day, our race, the Tuatha De
+Danann, shall flourish once more...
+[END]
+23: (Brigid) [7a 65494][13 1, 418006]What is the matter?
+[END]
+24: 〉 [Flynn] decides to step outside
+for now...
+[END]
+25: (Brigid) [7a 65494][13 1, 418003]I shall take Dagda's Cauldron from
+your care.
+[END]
+26: 〉 Brigid has returned...
+[END]
+27: 〉 According to the map, this place
+is called the International
+Convention Center.
+[->]〉 The enormous empty space is
+filled with silence...
+[END]
+900: 〉 There is no one here...
+[END]

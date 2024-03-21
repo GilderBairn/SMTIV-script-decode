@@ -1,0 +1,263 @@
+0: (Walter) [7a 4][7b 196612, 65537][13 0, 185001]What's this place?
+[END]
+1: (Walter) [7a 4][7b 655364, 65537][13 0, 185002]Hm? What is that...?
+[END]
+2: (Voice) [13 0, 185003]Stay away from that.
+[END]
+3: (Tayama) [7a 17][13 0, 185004]Huh... Not as many of you this time.
+Well, makes no difference to me.
+[END]
+4: (Tayama) [7a 17][13 0, 185005]Welcome to the Yamato Perpetual Reactor!
+[->][13 0, 185006]Is that the greeting you two expected?
+[END]
+5: (Tayama) [7a 17][13 0, 185007]So what's all this about, huh?
+[->][13 0, 185008]You forgot all I've done for you and
+went with Yuriko... or Lilith, I guess
+I should say.
+[END]
+6: (Tayama) [7a 17][13 0, 185009]...This what you're looking for?
+[END]
+7: 〉 Tayama walked up to [Flynn] and
+his fellow Samurai and flashed a small
+object to them.
+[END]
+8: (Tayama) [7a 17][7b 65553, 65537][13 0, 185010]You only have to press this switch and
+the gate to the Expanse opens.
+[->][13 0, 185011]So... this remote is what that bitch
+Yuriko was after.
+[END]
+9: (Walter) [7a 4][7b 65540, 131073][13 0, 185012]If you know that much, then this
+needn't be difficult. Hand it here.
+[END]
+10: (Tayama) [7a 17][7b 262161, 65537][13 0, 185013]Blow me, kid. This thing won't just
+screw up Tokyo, it'd throw the whole
+world into chaos.
+[END]
+11: (Walter) [7a 4][7b 65540, 131073][13 0, 185014]Such concern, coming from the jackal
+who raises men solely to harvest them
+for red pills.
+[END]
+12: (Tayama) [7a 17][7b 131089, 65537][13 0, 185016]Do you understand? If the gate to the
+Expanse opens, Tokyo's gonna get a
+flood of demons comin' in.
+[->][13 0, 185017]More demons than our production lines
+of Reds can keep up with.
+[END]
+13: (Tayama) [7a 17][7b 131089, 65537][13 0, 185018]This city's gonna be stacked with
+mountains of stiffs ripped apart by
+the demons...
+[END]
+16: (Tayama) [7a 17][7b 262161, 65537][13 0, 185019]...You there.
+[END]
+17: 〉 Tayama is looking at [Flynn]...
+[END]
+18: (Tayama) [7a 17][7b 262161, 65537][13 0, 185020]You'd march into a place that had it
+made and force them to change it all?
+[->][13 0, 185021]That's okay with you?
+[END]
+19: ”I see no issue.”
+”It is a bit vexing.”
+[END]
+20: (Tayama) [7a 17][7b 131089, 65537][13 0, 185022]...Alright, then. You're just another
+shithead, I see.
+[END]
+21: (Tayama) [7a 17][7b 262161, 65537][13 0, 185023]Right? How could I allow that? How
+could anyone?
+[END]
+22: (Walter) [7a 4][7b 65540, 131073][13 0, 185024]...Let's not mince words.
+[->][13 0, 185025]If you intend to kill us, then let's
+have it. We'll overcome you and take
+the remote.
+[END]
+23: (Tayama) [7a 17][7b 262161, 65537][13 0, 185026]*chuckle*
+[->][13 0, 185027]...That's too bad. If you'd just done
+what I told you to, I'd have let you
+into the Ashura−kai.
+[END]
+24: (Tayama) [7a 17][7b 262161, 65537][13 0, 185028]But instead, I'll be making hay from
+the news of your deaths.
+[->][13 0, 185029]”The Ashura−kai won a stunning victory
+over the intruders from above the
+Firmament!”
+[->][13 0, 185030]”No one crosses the great Tayama and
+lives to tell about it.” Sound good?
+[END]
+25: (Tayama) [7a 17][7b 131089, 65537][13 0, 185031]Tokyo is mine.
+[->][13 0, 185032]And I won't let anyone screw around
+with my utopia!
+[END]
+26: 〉 The demon turned to stone...
+[END]
+27: (Walter) [7a 4][13 0, 185035]Hoy, it's we you should be kicking.
+[END]
+28: (Tayama) [7a 17][7b 786449, 65537][7b 786436, 65537][13 0, 185036]Urgh...!
+[->][13 0, 185037]Hey... What's gonna happen to me now...?
+[END]
+29: (Walter) [7a 4][7b 786436, 65537][13 0, 185038]I don't know. Think for yourself.
+[END]
+30: (Walter) [7a 4][7b 65540, 131073][13 0, 185040]You'll give us the remote now, yes?
+[END]
+31: (Tayama) [7a 17][7b 786449, 65537][13 0, 185041]Y...Yeah, alright... Here... Here...!
+[END]
+32: 〉 Tayama handed the remote to Walter.
+[END]
+33: (Walter) [7a 4][13 0, 185042]...It's yours.
+[END]
+34: 〉 Walter threw the remote to [Flynn].
+[->]〉 You obtained the remote.
+[END]
+35: (Walter) [7a 4][END]
+36: (Walter) [7a 4][7b 786436, 65537][13 0, 185043]You need only press this button?
+Mr. Tayama...?
+[END]
+37: (Tayama) [7a 17][7b 786449, 65537][13 0, 185044]W−Well... yeah, but...
+[END]
+38: (Tayama) [7a 17][13 0, 185045]Wh−Why don't you think this through
+again? These are demons we're talking
+about. A legion of demons in Tokyo...
+[END]
+39: (Walter) [7a 4][7b 65540, 131073][13 0, 185046]You should do it, [Flynn]...
+Press the button.
+[END]
+40: [13 3, 185047]Press the button
+Don't press the button
+[END]
+41: 〉 [Flynn] pressed the button.
+[END]
+42: (Walter) [7a 4]…さて [何/なに]が[起/お]こってくれるかね
+[END]
+43: (Walter) [7a 4][7b 655364, 65537][13 0, 185048]Hoy, [Flynn]... are you scared?
+[->][13 0, 185049]In truth, so am I... but we have
+nowhere to go back to now, yes?
+[->][7b 786436, 65537][13 0, 185050]Perhaps you'd like to go get some
+fresh air? I'll be waiting here. 
+[END]
+44: (Walter) [7a 4][7b 786449, 65537][7b 786436, 65537][13 0, 185051]Ah, you're back, as I knew you'd be.
+[END]
+45: (Tayama) [7a 17][7b 786449, 65537][7b 786436, 65537][13 0, 185052]Wh−Why don't you think this through
+again? These are demons we're talking
+about. A legion of demons in Tokyo...
+[END]
+46: (Walter) [7a 4][7b 65540, 131073][13 0, 185053]You should do it, [Flynn]...
+Press the button.
+[END]
+50: 〉 Yaizu's Flint started to glow in
+your hand...
+[END]
+51: (Voice) [7a 2][13 1, 459000]I am the Famed Yamato Takeru, one of
+the deadly National Defense Divinities.
+[END]
+52: (Yamato Takeru) [7a 2][13 1, 459003]My power is for my master to use. And
+if you are the one with my medium...
+[->][13 1, 459010]An honor to meet you, Master.
+[END]
+53: 〉 You can now fuse
+[74 641] [42 641].
+[END]
+54: 〉 The Yamato Perpetual Reactor is
+here before you...
+[END]
+55: 〉 A stone that once was Yamato Takeru
+sits before you...
+[END]
+56: (Burroughs) [7a 2][13 1, 400005]Oh... Master [Flynn], the Yamato's
+remote control is here on the floor.
+[END]
+57: Press the remote button
+Walk away
+[END]
+58: 〉 [Flynn] placed his finger on the
+button...
+[END]
+59: (Burroughs) [7a 2][13 1, 400003]Sorry, Master [Flynn], but let me
+make sure of something...
+[END]
+60: (Burroughs) [7a 2]Which are you going to: the Tokyo
+covered in desert or the Tokyo
+engulfed in flames?
+[END]
+61: ”The Tokyo covered in desert.”
+”The Tokyo engulfed in flames.”
+”Neither, I think.”
+[END]
+62: (Burroughs) [7a 2]OK. I just wanted to know; sorry for
+butting in. Go right ahead.
+[END]
+63: 〉 [Flynn] pressed the button
+with the blasted Tokyo in mind...
+[END]
+64: (Burroughs) [7a 2]OK. I just wanted to know; sorry for
+butting in. Go right ahead.
+[END]
+65: 〉 [Flynn] pressed the button
+with the infernal Tokyo in mind...
+[END]
+66: (Burroughs) [7a 2]OK. I think that's a perfectly valid
+choice too.
+[END]
+67: 〉 The Yamato Perpetual Reactor is
+here before you...
+[END]
+68: 〉 The remote is lying on the floor...
+[END]
+69: Press the button
+Talk to Akira
+Walk away
+[END]
+70: (King Akira) [7a 85]......
+[END]
+71: 〉 Akira seems distracted.
+[END]
+72: Talk to him again
+Walk away
+[END]
+73: (King Akira) [7a 85][13 1, 401701]...Oh, it's you, Boss. Sorry, I was...
+just doing some thinking.
+[->]I finally realized something after I
+became the King of Tokyo. When it comes
+to who I should be looking out for...
+[->]I need to put everyone else first,
+right? I mean, I'm the King of Tokyo,
+after all.
+[->]Having to worry about more than
+yourself is harder than a punch to
+the gut...
+[->]To be honest, I already want to ditch
+it all, but I already told my sis
+about it... so I gotta stand firm.
+[END]
+74: (Burroughs) [7a 2]Which are you going to, the Tokyo
+below the ceiling or the Tokyo
+covered in desert?
+[END]
+75: ”The Tokyo below the ceiling.”
+”The Tokyo covered in desert.”
+”Neither, I think.”
+[END]
+76: 〉 [Flynn] pressed the button with
+the Tokyo below the ceiling in mind...
+[END]
+112: (Tayama) [7a 17][7b 131089, 65537][13 0, 185015]You goddamned brat...!
+[END]
+126: (Tayama) [7a 17][13 0, 185033]Hey, hey, hey, heyyyy!
+[->][13 0, 185034]What the shit!? How could you lose!?
+[END]
+127: (Tayama) [7a 17][13 0, 185039]You son of a bitch...!
+[END]
+129: (Tayama) [7a 17][7b 458769, 65537][13 0, 185039]Why you...!
+[END]
+139: 〉 The hand holding the remote begins
+to sweat...
+[END]
+141: 〉 Surprised by the sudden sound,
+[Flynn] dropped the remote...
+[END]
+146: 〉 The hand holding the remote begins
+to sweat...
+[END]
+226: 〉 Tayama keeps on kicking the rock that
+once was Yamato Takeru.
+[END]
+1050: 〉 A voice emanates from the stone in
+front of you...
+[END]

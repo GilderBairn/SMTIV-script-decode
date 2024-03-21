@@ -1,0 +1,243 @@
+0: (Bartender) [7a 24][13 0, 271001]Aha, perfect timing. We were just
+updating the bulletin board.
+[->][13 0, 271002]You're the clear first−place rank
+overall.
+[END]
+1: (Isabeau) [7a 5][7b 65541, 65537][13 0, 271003]Meaning...?
+[END]
+2: (Bartender) [7a 24][13 0, 271004][Flynn]'s our first champion!
+[END]
+3: (Bartender) [7a 24][13 0, 271008]Word about the champion will spread
+all across Tokyo.
+[->][13 0, 271009]You better be careful walking around
+now. You might find yourself mobbed
+by adoring fans.
+[END]
+4: (Blue−lipped man) [7a 60][13 0, 271010]...Hm?
+[->][13 0, 271011]Aren't you...?
+[END]
+5: 〉 A blue−lipped man is staring up and
+down at [Flynn]...
+[END]
+6: (Blue−lipped man) [7a 60][13 0, 271012]I knew it! You're him! [Flynn],
+right?
+[->][13 0, 271013]My friend said he saw you at the
+Hunter's Association. That's how
+I knew.
+[END]
+7: (Blue−lipped man) [7a 60][13 0, 271014]Man... you're a lot younger than I
+imagined you.
+[END]
+8: (Woman's voice) [13 0, 271015]What'd you say? [Flynn]'s here?
+Ooh, where is he?
+[END]
+9: (Man's voice) [13 0, 271016][Flynn]'s here in Ueno...?
+[END]
+10: 〉 The people in the underground district,
+hearing the rumors of [Flynn],
+begin to gather.
+[END]
+11: (Isabeau) [7a 5][7b 393221, 65537][13 0, 271017]It seems you're quite popular, [Flynn].
+[END]
+12: (Man's voice) [13 0, 271018]Yeah! You go, bro! Tokyo'll be safe
+and sound as long as you're here!
+[END]
+13: (Woman's voice) [13 0, 271019]Ah... just seeing him here gives me
+hope.
+[->][13 0, 271020]You're what gives us the strength to
+carry on.
+[END]
+14: エラーです
+[END]
+15: 〉 Light pools within the chalice...
+[END]
+16: 〉 Light pools within the chalice...
+[END]
+17: 〉 The light within the chalice now fills
+it roughly halfway to the brim...
+[END]
+18: 〉 Light pools within the chalice...
+[END]
+19: 〉 The light within the chalice has almost
+reached the cup's brim...
+[END]
+20: (Broken−toothed man) [7a 46][13 0, 271021]The hell are ya lookin' at?
+[->][13 0, 271022]The Ashura−kai may be toast, but I
+ain't gonna let a kid like you mess
+with...
+[->][13 0, 271023]Huh?
+[END]
+21: 〉 The broken−toothed man is staring up
+and down at [Flynn]...
+[END]
+22: (Broken−toothed man) [7a 46][13 0, 271024]A−Are you shittin' me...? You're not
+[Flynn], are ya?
+[->][13 0, 271025]Son of a gun! It is you! My girl's
+a big fan of yours!
+[END]
+23: (Broken−toothed man) [7a 46][13 0, 271026]Hey, guys, come quick! [Flynn]'s
+here!
+[END]
+24: (Man's voice) [13 0, 271027]No way! [Flynn]...?
+[END]
+25: (Woman's voice) [13 0, 271028][Flynn]'s here in Shinjuku...?
+[END]
+26: 〉 The people in the underground district,
+hearing the rumors of [Flynn],
+begin to gather.
+[END]
+27: (Isabeau) [7a 5][7b 393221, 65537][13 0, 271029]You're attracting a great deal of
+attention...
+[END]
+28: (Woman's voice) [13 0, 271030]He's the one, right? The guy who's
+been beating up the demons.
+[END]
+29: (Man's voice) [13 0, 271031]I check the bulletin board all the time!
+[->][13 0, 271032]Just seeing how much you're gettin'
+done gives me hope. Makes me wanna
+try harder.
+[END]
+30: エラーです
+[END]
+31: 〉 Light pools within the chalice...
+[END]
+32: 〉 Light pools within the chalice...
+[END]
+33: 〉 The light within the chalice now fills
+it roughly halfway to the brim...
+[END]
+34: 〉 Light pools within the chalice...
+[END]
+35: 〉 The light within the chalice has almost
+reached the cup's brim...
+[END]
+36: (Long−eyelashed girl) [7a 123][13 0, 271033]Hey... isn't that... you know?
+I bet you it is.
+[END]
+37: (Sparkling−nailed girl) [7a 122][13 0, 271034]Like that would ever happen...
+[END]
+38: 〉 The two girls are looking at
+[Flynn] with furrowed brows.
+[END]
+39: 欠番です
+[END]
+40: (Sparkling−nailed woman) [7a 122]欠番です
+[END]
+41: (Long−eyelashed woman) [7a 123]欠番です
+[END]
+42: 欠番です
+[END]
+43: (Long−eyelashed woman) [7a 123]欠番です
+[END]
+44: (Sparkling−nailed girl) [7a 122][13 0, 271035]...Holy damn, it's seriously [Flynn].
+What a babe!
+[END]
+45: (Woman's voice) [13 0, 271036][Flynn]? He's here in Shibuya?
+[END]
+46: (Man's voice) [13 0, 271037]Whoa, it's really [Flynn].
+He's even got a girl with him!
+[END]
+47: 〉 The people in the underground district,
+hearing the rumors of [Flynn],
+begin to gather.
+[END]
+48: (Isabeau) [7a 5][7b 393221, 65537][13 0, 271038]The excitement here is becoming
+palpable...
+[END]
+49: (Man's voice) [13 0, 271039]There's way too many demons around
+these days. Go kill 'em, [Flynn]!
+[END]
+50: (Woman's voice) [13 0, 271040]If we stay alive, we might even
+land ourselves a babe like him.
+[->][13 0, 271041]I'm starting to get my hopes up...!
+[END]
+51: エラーです
+[END]
+52: 〉 Light pools within the chalice...
+[END]
+53: 〉 Light pools within the chalice...
+[END]
+54: 〉 The light within the chalice now fills
+it roughly halfway to the brim...
+[END]
+55: 〉 Light pools within the chalice...
+[END]
+56: 〉 The light within the chalice has almost
+reached the cup's brim...
+[END]
+57: (Exotic woman) [7a 62][13 0, 271042]Mister, you fine looking man.
+Want massage for... hm?
+[->][13 0, 271043]Mister, are you... [Flynn]?
+[END]
+58: 〉 The exotic woman is staring
+up and down at [Flynn]...
+[END]
+59: (Exotic woman) [7a 62][13 0, 271044]I certain! My customers show me
+pictures.
+[->][13 0, 271045]I wanted meet you once. You hero of
+all Tokyo, right?
+[END]
+60: (Man's voice) [13 0, 271046]No way... [Flynn]? Really?
+[END]
+61: (Woman's voice) [13 0, 271047]Sure enough... it's [Flynn]!
+I didn't know he was in Ikebukuro.
+[END]
+62: 〉 The people in the underground district,
+hearing the rumors of [Flynn],
+begin to gather.
+[END]
+63: (Woman's voice) [13 0, 271049]Oh, he's so wonderful! There's just
+no other word to describe him!
+[END]
+64: (Man's voice) [13 0, 271050]You ask me, it's a privilege breathing
+the same air as you.
+[->][13 0, 271051]I got hope for us here in Tokyo now!
+[END]
+65: エラーです
+[END]
+66: 〉 Light pools within the chalice...
+[END]
+67: 〉 Light pools within the chalice...
+[END]
+68: 〉 The light within the chalice now fills
+it roughly halfway to the brim...
+[END]
+69: 〉 Light pools within the chalice...
+[END]
+70: 〉 The light within the chalice has almost
+reached the cup's brim...
+[END]
+71: 〉 Light pools within the chalice...
+[END]
+72: 〉 The chalice is filled with light...
+[END]
+73: (Isabeau) [7a 5][7b 65541, 65537][13 0, 271052]Hm? What's this...?
+[END]
+74: 〉 The light within the chalice takes
+form...
+[END]
+75: (Isabeau) [7a 5][7b 393221, 65537][13 0, 271053]That warm light... It feels kindly,
+yet fleeting...
+[END]
+76: (Isabeau) [7a 5][7b 655365, 65537][13 0, 271054]Perhaps this is the Great Spirit of
+Hope that Masakado spoke of?
+[END]
+102: (Bartender) [7a 24][13 0, 271005]”Champion”...
+[->][13 0, 271006]I like the sound of that. It gives
+a guy hope in these dark times.
+[END]
+103: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]
+162: (Isabeau) [7a 5][7b 393221, 65537][13 0, 271048]I marvel to see your name alone
+causing such a stir...
+[END]
+176: 〉 The chalice has been filled.
+[END]
+202: (Isabeau) [7a 5][7b 655365, 65537][13 0, 271007]Oh... look! Something's filling the
+chalice...
+[END]
+276: (Burroughs) [7a 2][13 0, 400063]Looks like the quest is going well.
+[END]
+302: 〉 Some light begins to pool inside the
+chalice...
+[END]

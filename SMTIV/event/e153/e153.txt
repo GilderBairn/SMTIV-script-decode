@@ -1,0 +1,55 @@
+0: (Questioning monk) [7a 42][13 0, 153001]It has stopped at the boot screen.
+What should I do now...?
+[END]
+1: (Hugo) [7a 10][13 0, 153002]I explained this to you once before...
+You simply enter the password.
+[END]
+2: 〉 The questioning monk bowed to Hugo
+and walked away.
+[END]
+3: (Questioning monk) [7a 42][13 0, 153003]Er... pardon me again...
+[->][13 0, 153004]How do I enter ”ぢ”?
+[END]
+4: (Hugo) [7a 10][13 0, 153005]”ぢ” is ”D” and then ”I”, remember?
+How many times must I tell you...?
+[END]
+5: 〉 The monk asking the questions bows to
+Hugo and leaves...
+[END]
+6: (Jonathan) [7a 3][13 0, 153006]You seem busy, Abbot Hugo.
+[END]
+7: Talk to him
+Walk away
+[END]
+8: (Hugo) [7a 10][13 0, 153007]Ah, you've come...
+[END]
+9: (Hugo) [7a 10][13 0, 153008]The PC that our Samurai recovered in
+Tokyo IS quite useful, but...
+[->][13 0, 153009]Well, we have received orders to
+transcribe all of our scriptures
+into the PC.
+[END]
+10: (Hugo) [7a 10][7b 65546, 65537][13 0, 153010]Our new leaders are quite a stern lot...
+[->][13 0, 153011]None of us are accustomed to this 
+process. And I could not even fathom
+how much scripture our records hold.
+[END]
+11: (Hugo) [7a 10][7b 786442, 65537][13 0, 153012]Would the new leaders have us labor
+day and night, without rest?
+[END]
+12: (Hugo) [7a 10][7b 65546, 65537][13 0, 153013]Ah, but enough of that...
+[END]
+13: (Hugo) [7a 10][7b 786442, 65537][13 0, 153014]I did relay the message to you,
+did I not?
+[END]
+14: (Hugo) [7a 10][7b 786442, 65537][13 0, 153015]Go to Shene Duque! Else I shall be the
+one punished...!
+[END]
+15: (Questioning monk) [7a 42][13 0, 153016]Uhh... I am dreadfully sorry to
+intrude, but...
+[END]
+16: (Hugo) [7a 10][7b 458762, 65537][13 0, 153017]Ugh! Will this never end...!?
+[END]
+17: 〉 Hugo is barking answers to the monk's
+questions...
+[END]

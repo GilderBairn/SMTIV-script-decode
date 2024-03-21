@@ -1,0 +1,177 @@
+0: (Merkabah) [7a 0][13 0, 307800]Salvation is no longer open to you.
+The Lord has withdrawn mercy for you
+for all eternity.
+[->][13 0, 307801]Heretics and Unclean Ones...
+[->][13 0, 307802]Be sundered by the Lord Almighty's
+power and perish!
+[END]
+1: (Merkabah) [7a 0][13 0, 307828]It is unthinkable that you have driven
+the Lord's chariot to such desperation...
+Is the son of man's hope so dreadful?
+[END]
+2: (Isabeau) [7a 5][13 0, 307829]As humans, we must be accepting of
+both goodwill and spite.
+[->][13 0, 307830]We can always yearn for what is best
+without falling into monistic
+extremes.
+[->][13 0, 307831]Such have we always lived thus far.
+[END]
+3: (Isabeau) [7a 5][7b 131077, 65537][13 0, 307832]That is why I put my faith in the
+possibilities of humanity... That is
+the choice in which our hopes lie!
+[END]
+4: (Merkabah) [7a 0][13 0, 307833]This cannot be... We are... the
+heralds of the Lord... How have we
+been thus defeated...?
+[END]
+5: (Merkabah) [7a 0][13 0, 307834]Know this... Humans are not... strong
+enough... to live without... the Lord...
+[->][13 0, 307835]Those who yearn for us... will surely
+arise again...
+[END]
+6: (Merkabah) [7a 0][13 0, 307836]When that time comes... may we meet
+again... 
+[END]
+1000: (Merkabah) [7a 0][13 0, 307803]Answer me this, you who believes in
+nothing and foments rebellion against
+the Lord's order.
+[->][13 0, 307804]For whom do you wage this battle too
+severe for a son of man?
+[END]
+1001: ”For the people of Tokyo.”
+”For my old friend.”
+”For myself.”
+”.........”
+[END]
+1002: (Merkabah) [7a 0][13 0, 307805]Then you have become a light for the
+Unclean Ones who were cast into the
+depths of the earth.
+[->][13 0, 307806]...Very well. Whether 'twill be the
+Lord's light, or the Filth's, that
+pierce the darkness...
+[->][13 0, 307807]Show to me your resolve.
+[END]
+1003: 〉 [Flynn] is filled with a powerful
+resolve...
+[END]
+1004: 〉 All of [Flynn]'s stats increased!
+[END]
+1005: (Merkabah) [7a 0][13 0, 307808]Jonathan, a son of man who was once
+your friend, has been saved by the
+Lord's hand.
+[->][13 0, 307809]He differs from you forsaken ones in
+every way. 'Tis presumptuous to devote
+this battle to his memory.
+[->][13 0, 307810]Know your limitations, Filth.
+[END]
+1006: 〉 Merkabah's argument cuts [Flynn]
+down to the very soul...
+[END]
+1007: 〉 All of [Flynn]'s stats have
+greatly decreased!
+[END]
+1008: (Merkabah) [7a 0][13 0, 307708]So, you preach the gospel of dissent
+merely to satisfy your own urges?
+[->][13 0, 307709]You have fallen so far from the light
+that you are no longer worthy even
+to be called human.
+[->][13 0, 307813]So I shall call you this. I name you
+Demon, one who overflows with Filth...
+[END]
+1009: 〉 Merkabah's wrathful words torture
+[Flynn]'s party!
+[END]
+1010: (Merkabah) [7a 0][13 0, 307711]What am I to call this vain creature
+whose heart is empty of resolve?
+[->][13 0, 307815]You are refuse; the congealed mass of
+the Filth of the sons of man. I shall
+return you to the dust.
+[END]
+1011: 〉 Merkabah is filled with divine
+power...
+[END]
+1012: 〉 Merkabah's attack power has greatly
+increased!
+[END]
+1013: (Merkabah) [7a 0][13 0, 307816]You still will not fall? You
+are truly the embodiment of Filth.
+[->][13 0, 307817]Nonetheless... just as darkness is
+pierced by light, your defeat is part
+of the natural order of things.
+[->][13 0, 307818]Now learn of the human's Filth and its
+powerlessness before my light!
+[END]
+1014: 〉 Merkabah gives [Flynn] a stern
+and piercing stare...
+[END]
+1015: Stare back
+Smile back
+Look away
+Quietly accept it
+[END]
+1016: 〉 [Flynn] stares back with equal
+intensity...
+[END]
+1017: (Merkabah) [7a 0][13 0, 307819]Behold the dark, stagnant, human Filth.
+The evil glare in its eyes...
+[->][13 0, 307820]Were I to release the light within me,
+it would overcome your darkness, and I
+should see nothing.
+[END]
+1018: 〉 [Flynn]'s party was suddenly hit
+with a feeling of blindness...
+[END]
+1019: 〉 [Flynn]'s party's accuracy
+decreased greatly!
+[END]
+1020: 〉 [Flynn] returns Merkabah's glare
+with a sunny smile...
+[END]
+1021: (Merkabah) [7a 0][13 0, 307821]The smiles etched on filthy human
+mouths only breathe the stench
+of decay.
+[->][13 0, 307822]You shall be made more suitable of
+that Filth and decay.
+[END]
+1022: 〉 Merkabah's stare etches into the
+party's souls and engraves them with
+decay...
+[END]
+1023: 〉 [Flynn]'s party's defense
+decreased greatly!
+[END]
+1024: 〉 [Flynn] looks away...
+[END]
+1025: (Merkabah) [7a 0][13 0, 307823]Behold this Filth that cannot be saved.
+It has turned its eyes away from the
+Lord's overwhelming righteousness.
+[->][13 0, 307824]You meager one who cannot face the
+light; you shall be changed into a
+form more suitable.
+[END]
+1026: 〉 Merkabah's glare crushes
+[Flynn]'s spirit...
+[END]
+1027: 〉 All of [Flynn]'s stats greatly
+decreased!
+[END]
+1028: 〉 [Flynn] quietly accepts
+Merkabah's gaze...
+[END]
+1029: (Merkabah) [7a 0][13 0, 307825]Are you implying that you accept
+the Lord's order, yet remain aloof
+from it?
+[->][13 0, 307826]Frail humanity yearned for order and
+something to believe in, yet you dare
+assert otherwise?
+[->][13 0, 307827]So your faith in humanity is this
+obstinate...
+[END]
+1030: 〉 [Flynn] is awakening to unlimited
+power...
+[END]
+1031: 〉 All of [Flynn]'s stats increased
+greatly!
+[END]
+1032: 〉 [Flynn] fully recovered!
+[END]

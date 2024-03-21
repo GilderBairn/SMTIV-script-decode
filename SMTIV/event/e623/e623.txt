@@ -1,0 +1,62 @@
+0: (Nozomi) [7a 0][13 0, 623000]Oh, hey, you're that guy from before!
+So you accepted my quest, huh?
+[->][13 0, 623001]...You're the famous [Flynn], right?
+I've heard a lot of rumors about you.
+[->][13 0, 623002]Well, I'd like to formally request
+your aid in slaying a demon.
+[->][13 0, 623003]The place is further north of the
+Ueno district...
+[->][13 0, 623004]The demon Asura is attacking people
+over there.
+[->][13 0, 623005]He's become a real threat, so I've
+been asked to put him down. I'm
+trying to recruit people to help me.
+[->][13 0, 623006]And, actually, you're the only one
+to show up... But I'm pretty sure
+the two of us can beat him.
+[->][13 0, 623007]Well, let's get going.
+I'm counting on you.
+[END]
+1: 〉 Nozomi has joined you.
+[END]
+2: (Nozomi) [7a 0][13 0, 623008]*whistle* So that's what the famous
+Hunter can do. You must be pretty
+strong if you can defeat Asura.
+[->][13 0, 623009]I'm pretty sure if I'd fought
+him alone, he would've eaten me...
+I really appreciate your help.
+[->][13 0, 623010]If something else comes up, I'll
+make sure to call you. Here's your
+reward. Take it with my thanks.
+[END]
+3: 〉 Nozomi leaves...
+[->]〉 You and Nozomi have parted ways.
+[END]
+4: (Nozomi) [7a 0][13 1, 402102]Hm. I guess we kinda underestimated
+that demon, huh?
+[->]Well, let's get going again.
+I'm counting on you.
+[END]
+5: (Nozomi) [7a 0][13 1, 402101]The place we're looking for is north
+of the Ueno district, along the
+Arakawa River.
+[->]Well, let's get going.
+I'm counting on you.
+[END]
+6: (Nozomi) [7a 0][13 0, 623011]Oh, yeah, if we see each other again,
+you've got to show me some of the
+pictures you've taken! See ya 'round!
+[END]
+900: The female Hunter Nozomi
+joins as a guest. A marker for
+the Fury Asura will be placed.
+[END]
+901: 〉 Nobody's here...
+[END]
+902: You have defeated the Fury Asura.
+The quest will end after this event.
+Nozmoi will leave your party.
+[END]
+903: 〉 Nozmoi has returned to where you
+found her to recover from her wounds.
+[END]

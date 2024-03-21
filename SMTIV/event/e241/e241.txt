@@ -1,0 +1,25 @@
+0: (The White) [7a 124][13 0, 241001]Our fifth son, who chose upheaval...
+[END]
+1: (The White) [7a 220][13 0, 234002]It is our fate to endlessly repeat the
+same mistakes.
+[->][13 0, 241003]Given this, what other salvation can
+there be than returning everything
+to naught...?
+[END]
+2: (The White) [7a 220][13 0, 241004]Your choice is wrong... We will prove
+that to you...
+[END]
+3: (Walter) [7a 4][7b 655364, 65537][13 0, 241006]'Tis odd, but even as we fought...
+I sensed no hostility from them.
+[->][7b 393220, 65537][13 0, 241007]They must be utterly devoted to the
+idea that destruction is salvation.
+[END]
+4: (Walter) [7a 4][7b 196612, 65537][13 0, 241008]If our own earnest choices were in such
+conflict that we had no choice but to
+do battle...
+[->][13 0, 241009][7b 327684, 65537]...Ha.
+[->][13 0, 241010][7b 327684, 65537]Then there is only one thing for
+us to do.
+[END]
+102: (Burroughs) [7a 2][13 1, 400051]Congratulations on completing the quest.
+[END]

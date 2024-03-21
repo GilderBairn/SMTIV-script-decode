@@ -1,0 +1,29 @@
+0: [71 1]For a lady to travel by herself is a
+sin... All the men I meet become my
+slaves.
+[->][END]
+1: [71 1]I wish you could have seen my
+graceful accomplishments.
+[->][END]
+2: [71 1]Hmhmhm... A lady's beauty only grows
+when she is more experienced...
+[->][END]
+3: [71 1]I am reborn. Now I shall show you
+my newfound powers...
+[->][END]
+4: [71 1]Hmmm... Which demon was it that made
+me this beautiful...?
+[->][END]
+5: [71 1]You are looking at me in a different
+way than you were last time...
+I can feel it.
+[->][END]
+6: [71 1]Here is a souvenir...
+I selected it just for you.
+[->][END]
+7: [71 1]I chose it personally... You don't
+find anything wrong with it, do you?
+[->][END]
+8: [71 1]A normal gift is something of a
+bore... How about this?
+[->][END]

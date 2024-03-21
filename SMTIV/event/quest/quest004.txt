@@ -1,0 +1,6 @@
+0: The details are just as I explained a moment ago.
+You must [Color:0x5]find Navarre, who has gone missing in
+Naraku.[Color:0x0] He must be petrified with isolation and
+fear in that place where demons roam... You must
+find him at once!
+[END]

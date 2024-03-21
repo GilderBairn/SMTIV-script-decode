@@ -1,0 +1,122 @@
+0: (Voice) [13 0, 158001]I knew you would come, [Flynn].
+[END]
+1: (Walter) [7a 4][13 0, 158002]May I say one thing...?
+[END]
+2: (Walter) [7a 4][7b 786436, 65537][13 0, 158003]This feeling of gloom I've had since
+I was a child is hard to put into
+words...
+[->][13 0, 158004]But thanks to the knowledge and wisdom
+Lilith has given me, I am now able to
+express it.
+[END]
+3: (Walter) [7a 4][7b 655364, 65537][13 0, 158005]Another man's rule is only that:
+his rules.
+[->][13 0, 158044]'Tis a mistake to believe that those
+rules will make your own life better.
+[END]
+4: (Walter) [7a 4][7b 196612, 65537][13 0, 158006]Of course I realize that if I aid
+Lilith, it may cause the world harm.
+[END]
+5: (Walter) [7a 4][7b 196612, 65537][13 0, 158007]But the world is in such a state now
+that I can see no option remaining to
+me than to change it.
+[->][7b 131076, 65537][13 0, 158008]I'm willing to wager everything on
+that chance.
+[END]
+7: (Walter) [7a 4][7b 327684, 65537][13 0, 158009]...Will you come with me to see Lilith?
+[END]
+8: Go with Walter
+Beg off for now
+[END]
+9: (Walter) [7a 4][13 0, 158015]Now we have both of us lost a place
+to call home, eh?
+[END]
+10: (Walter) [7a 4][7b 786436, 65537][13 0, 158019]I see...
+[END]
+11: (Walter) [7a 4][7b 786436, 65537][13 0, 158020]I'll still be waiting here in the
+hopes that you change your mind.
+[END]
+12: 〉 Walter has joined you.
+[END]
+13: (Walter) [7b 786436, 65537][13 0, 158021]I knew that you'd be back.
+[END]
+14: (Walter) [7a 4][7b 786436, 65537][13 0, 158022]I'm being a nag, I realize, but I
+would like to know your answer.
+[END]
+15: (Voice) [13 0, 158023]I had a feeling you'd come, [Flynn].
+[END]
+16: (Jonathan) [7a 3][13 0, 158024]I can understand how confusing these
+very different opinions can seem...
+[END]
+17: (Jonathan) [7a 171][7b 786603, 65537][13 0, 158025]But let us say a new world was to be
+forged. What do you think would result?
+[->][13 0, 158026]You believe that a leader with neither
+experience nor deeds backing him up
+could create a world for the people?
+[->][13 0, 158027]Do you not see how the people would
+descend into a state of chaos as you
+rebuilt everything from bedrock?
+[END]
+18: (Jonathan) [7a 171][7b 131243, 65537][13 0, 158028]Does it not seem to you that Lilith
+spoke such tempting words...
+[->][13 0, 158029]Only to laugh at seeing us panic?
+[END]
+19: (Jonathan) [7a 171][7b 131243, 65537][13 0, 158030]Do not be so swayed by the concept of
+reform that you are blind to reality.
+[END]
+20: (Jonathan) [7a 171][7b 721067, 65537][13 0, 158031][Flynn]...
+[END]
+21: (Jonathan) [7a 171][7b 721067, 65537][13 0, 158032]Let us go together and destroy Lilith,
+the root of this evil.
+[END]
+22: Go with Jonathan
+Beg off for now
+[END]
+23: (Isabeau) [7a 5][13 0, 158033]I see... So you have sided with
+Jonathan.
+[->][13 0, 158034]I saw you making for the entrance to
+Naraku, and I assumed...
+[END]
+24: (Isabeau) [7a 5][7b 196613, 65537][13 0, 158012]But I cannot go with you. There is
+still much that I must think about...
+[->][7b 196613, 65537]......
+[END]
+25: (Isabeau) [7a 5][7b 786437, 65537][13 0, 158037]...I shall pray for your safety.
+[END]
+26: (Jonathan) [7a 3][7b 327683, 65537][13 0, 158038]*sniff*...
+[->][13 0, 158039]How pathetic of me, weeping openly.
+I am not fit to be called a Samurai...
+[END]
+27: (Jonathan) [7a 171][7b 655531, 65537][13 0, 158040]I see...
+[END]
+28: (Jonathan) [7a 171][7b 196779, 65537][13 0, 158041]I shall stay here a while longer in
+the hopes you have a change of heart.
+[END]
+29: 〉 Jonathan has joined you.
+[END]
+30: (Voice) [7b 262147, 65537][13 0, 158042]So you are back.
+[END]
+31: (Jonathan) [7a 3][7b 65539, 65537][13 0, 158043]Let me ask you once more...
+[END]
+108: (Isabeau) [7a 5][13 0, 158010]I see... So you have sided with Walter.
+[->][13 0, 158011]I saw you making for the residence hall,
+and I assumed...
+[END]
+109: (Isabeau) [7a 5][7b 196613, 65537][13 0, 158012]But I cannot go with you. There is
+still much that I must think about...
+[->]......
+[END]
+110: (Isabeau) [7a 5][7b 786437, 65537][13 0, 158014]Take care, you two.
+[END]
+111: (Burroughs) [7a 2][13 0, 158016]Master [Flynn], hang on.
+[->][13 0, 158017]Factoring that decision into your
+quest log makes a few of them
+contradictory.
+[END]
+125: 〉 Isabeau walked away...
+[END]
+210: 〉 Isabeau walked away...
+[END]
+211: 〉 Burroughs is discarding some quests
+from the Gauntlet's memory...
+[END]

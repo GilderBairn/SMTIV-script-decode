@@ -1,0 +1,38 @@
+0: (Cheerful demonoid) [7a 146][13 1, 415105]...Huh? Didn't think I'd run into a
+neurisher here. That's something you
+don't see every day.
+[->]I could use someone to talk to. I won't
+snack on you, so come and talk to me.
+[END]
+1: ”Very well.”
+”I think not.”
+[END]
+2: (Cheerful demonoid) [7a 146][13 1, 415101]...Thanks.
+[END]
+3: (Cheerful demonoid) [7a 146][13 1, 415108]Huh... Hey, don't worry about it. I can
+just hang around here a while longer.
+[END]
+4: (Cheerful demonoid) [7a 146]You see that giant cocoon behind me?
+[END]
+5: (Cheerful demonoid) [7a 146]It's hard to picture it now, but a long
+time ago, Shinjuku was the angels' turf.
+[->]They kidnapped a bunch of kids and locked
+'em up in that cocoon.
+[->]They said they were going to take them
+to a ”new millennium.”
+[END]
+6: (Cheerful demonoid) [7a 146]In the end, Kenji−−who was a human at
+the time−−and his crowd killed them all.
+[->]Since then, the cocoon hasn't been
+touched... They let out the kids who
+were inside, of course.
+[END]
+7: (Cheerful demonoid) [7a 146]I thought I'd forget about it when I gave
+up being human, but maybe my sharp new
+sense of smell reminds me a lot...
+[->]The smell of my rotting daughter, with
+the flies buzzing around her, coming
+from that cocoon...
+[END]
+8: 〉 The shutter is tightly closed.
+[END]

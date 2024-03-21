@@ -1,0 +1,16 @@
+0: The divide between the Luxurors and the
+Casualries has been done away with, but
+ever since the new rulers have taken power,
+my uneasiness just continues to grow...
+I'd like you to bring some guns to Kiccigiorgi
+Forest. If possible, we want to get a cannon
+known as a [Color:0x5]bazooka.[Color:0x0] Perhaps a military base...
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

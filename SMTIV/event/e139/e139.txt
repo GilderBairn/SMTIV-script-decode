@@ -1,0 +1,32 @@
+0: (Walter) [7a 4][7b 131076, 65537][13 0, 139001]Ugggh... Damnation, I think I've
+fractured my bottom...
+[END]
+1: (Jonathan) [7a 3][7b 131075, 65537][13 0, 139002]Ugh... Are the rest of you unhurt?
+[END]
+2: (Isabeau) [7a 5][7b 131077, 65537][13 0, 139003]Ouch... Yes, I'm still in one piece...
+[END]
+3: 〉 The voice of the monk echoes from
+above...
+[END]
+4: (Voice) [13 0, 139004]Normally, those who threaten the Ring
+of Gaea are put down by force.
+[->][13 0, 139005]You have Lady Yuriko to thank for
+this mercy.
+[END]
+5: (Voice) [13 0, 139006]Now, travel through the the Passage
+of Ethics and meet Lady Yuriko.
+[END]
+6: (Walter) [7a 4][13 0, 139007]She knew our motives, yet she still
+invited us in...
+[END]
+7: (Isabeau) [7a 5][13 0, 139008]But will we be allowed to leave?
+[END]
+8: (Jonathan) [7a 3][13 0, 139009]Have faith, Isabeau. All shall
+be well.
+[END]
+9: 〉 Jonathan, Walter, and Isabeau have 
+joined you.
+[END]
+105: (Burroughs) [7a 2][13 0, 86020]This seems like important evidence.
+I'll make a note of it in the quest.
+[END]

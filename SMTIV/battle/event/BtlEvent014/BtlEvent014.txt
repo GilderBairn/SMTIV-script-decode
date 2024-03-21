@@ -1,0 +1,29 @@
+0: (Menacing man) [7a 47][13 0, 301401]We'll give you a whuppin' that'll
+teach you to fear the Ashura−kai!
+[END]
+1: (Underling) [7a 46][13 0, 301402]You run back to the surface and take
+a message to your God...
+[->][13 0, 301403]”Ya don't mess with the Ashura−kai”!
+Got that, angels!?
+[END]
+2: (Jonathan) [7a 3][13 0, 301404]This Unclean One can summon demons
+too...
+[END]
+3: (Walter) [7a 4][13 0, 301405]He's manipulating that small, thin
+box. It seems like a Gauntlet
+for the Unclean Ones...
+[END]
+4: (Isabeau) [7a 5][13 0, 301406]Tokyo certainly is a hazardous land.
+[END]
+5: (Underling) [7a 46][13 0, 301407]N−No way...! Bro's demon...!
+[END]
+6: (Menacing man) [7a 47][13 0, 301408]You little... These angels ain't no
+ordinary brats!
+[->][13 0, 301409]Tch... I've had enough of this!
+Let's get outta here!
+[END]
+7: (Isabeau) [7a 5][13 0, 301410]They ran away again.
+[END]
+8: (Jonathan) [7a 3][13 0, 301411]Hm. The accented ones must have
+their own errands.
+[END]

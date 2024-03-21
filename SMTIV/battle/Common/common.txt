@@ -1,0 +1,77 @@
+0: 〉 You cannot protect [Demon name 6]
+any longer!
+[->][END]
+1: Escaping...
+[->][END]
+2: You can't escape!
+[->][END]
+3: Reinforcements have appeared!
+[->][END]
+4: You were annihilated...
+[->][END]
+5: You cannot escape from this battle!
+[->][END]
+6: Switching to Auto−Battle. Cancel with the B Button.
+[->][END]
+7: Switching to Auto−Pinpoint. Cancel with the B Button.
+[->][END]
+8: Successful preemptive attack!
+[->][END]
+9: [Demon name 6] is staring into space.
+[->][END]
+10: [Demon name 6] loses control!
+[->][END]
+11: [Demon name 6] is asleep.
+[->][END]
+12: [Demon name 6] can't move!
+[->][END]
+13: [Demon name 6] is gossiping.
+[->][END]
+14: [Demon name 6] is chatting on and on.
+[->][END]
+15: [Demon name 6] is still chatting.
+[->][END]
+16: [Demon name 6]'s luck is improving!
+[->][END]
+17: The desperate [Demon name 6] gained more turns!
+[->][END]
+18: [Demon name 6]'s hit/evasion rate increases!
+[->][END]
+19: [Demon name 6] is ill and feels stiff!
+[->][END]
+20: [Demon name 6] is poisoned!
+[->][END]
+21: The rest of the party is trying their best...
+[->][END]
+22: [Demon name 6] was blasted away!
+[->][END]
+23: The demon was blasted away!
+[->][END]
+24: [Flynn] has fallen!
+[->][END]
+25: [Demon name 6] smirks...
+[->][END]
+26: [Demon name 6] endured the attack!
+[->][END]
+27: [Demon name 6] revived with its Enduring Soul!
+[->][END]
+28: [Demon name 6] fell ill!
+[->][END]
+29: It had no effect!
+[->][END]
+30: Everyone has gained their composure!
+[->][END]
+31: [Demon name 6]'s magic increases!
+[->][END]
+32: The instant kill activated!
+[->][END]
+33: Everyone smirks...
+[->][END]
+34: The protective wall was nullified!
+[->][END]
+35: The protective wall repelled the attack!
+[->][END]
+36: [Demon name 6] is branded...
+[->][END]
+37: It pierced through the resistance!
+[->][END]

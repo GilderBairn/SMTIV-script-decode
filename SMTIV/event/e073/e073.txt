@@ -1,0 +1,52 @@
+0: (Voice) [7a 1][13 0, 73001]Yo, yo, yo! Hold it right there,
+young man!
+[->][13 0, 73002]You jumped right into this Domain like
+a moth bein' drawn to the fire.
+[END]
+1: (Earthy man) [7a 59][13 0, 73003]It's been twenty years since I started
+looking after the Terminals. Folks
+call me the Terminal Guardian.
+[END]
+2: (Earthy man) [7a 59][13 0, 73004]People call me the... Wait, you again!?
+[->][13 0, 73005]Well, don't matter none... Just 'cause
+you got some skills don't mean you
+should let it go to your head!
+[END]
+3: (Earthy man) [7a 59][13 0, 73006]I knew you'd come, kid. There's no way
+I'd forget my number one enemy's face.
+[END]
+4: (Earthy man) [7a 59][13 0, 73007]There you are... Ever since you started
+showin' your face, my business has
+gone to pot!
+[->][13 0, 73008]You listen here! Puttin' food on the
+table for my family's no easy thing
+in this day and age!
+[END]
+5: (Earthy man) [7a 59][13 0, 73009]Yo, did I surprise ya? I knew you'd
+come around here!
+[->][13 0, 73010]I still love this job, and I've always
+been proud of the work I do.
+[->][13 0, 73011]Don't no matter how much you get the best
+of me, I know I can take it.
+[END]
+6: (Earthy man) [7a 59][13 0, 73012]Seein' as how I've found you here,
+you'd better get fixin' to die.
+[->][13 0, 73013]Least you'll be fertilizer for the
+famous cherry trees here!
+[END]
+7: 〉 The demon's Domain has been lifted.
+[END]
+8: (Burroughs) [7a 2][13 1, 400063]Looks like the quest is going well.
+[END]
+9: (Burroughs) [7a 2][13 1, 400062]Activating scan mode...
+[END]
+10: (Burroughs) [7a 2][13 1, 405705]This is the Ueno Terminal.
+[END]
+11: (Burroughs) [7a 2][13 0, 74001]I'm going to run the Terminal
+activation program.
+[END]
+12: (Burroughs) [7a 2][13 0, 74002]Activation complete.
+[->][13 0, 74003]A link with other Terminals is
+established now. You can travel to
+them from here.
+[END]

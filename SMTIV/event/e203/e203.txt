@@ -1,0 +1,68 @@
+0: (Akira) [7a 84][7b 65620, 65537][13 0, 203001]...Speak of the devil.
+[END]
+1: (Kiyoharu) [7a 83][7b 262227, 65537][13 0, 203002]Everyone in Tokyo's talking about
+you already.
+[->][13 0, 203003]The Messiahs I summoned have beaten
+Pluto! Eee hee hee.
+[->][13 0, 203004]Now we can all live out in the open
+again!
+[END]
+2: (Kiyoharu) [7a 83][7b 65619, 65537][13 0, 203005]Oh, right... I must go thank God!
+[->][7b 262227, 65537][13 0, 203006]Akira, you know what to do, right?
+Make sure to thank our Messiahs!
+[END]
+3: (Walter) [7a 4][7b 393220, 65537][7b 786435, 65537][13 0, 203007]Reporting to ”God”, eh...?
+[END]
+4: 〉 Kiyoharu walked away.
+[END]
+5: (Akira) [7a 84][7b 786516, 65537][13 0, 203008]Here you are... as promised.
+[END]
+6: 〉 Akira handed the remote to [Flynn].
+[END]
+7: (Akira) [7a 84][7b 786516, 65537][13 0, 203009]According to the White...
+[->][13 0, 203010]This remote connects the human world
+to the Expanse?
+[END]
+8: (Jonathan) [7a 3][7b 458755, 131073][7b 786436, 65537][13 0, 203011]Knowing that... you are certain about
+giving it over to us?
+[END]
+9: (Akira) [7a 84][7b 786516, 65537][13 0, 203012]You can use it as you please. I'm
+prepared to have Tokyo filled with
+demons.
+[END]
+10: (Akira) [7a 84][7b 786516, 65537][13 0, 203013]Some people used to preach that demons
+were the embodiment of our desires,
+and that we should live in harmony.
+[END]
+12: (Akira) [7a 84][7b 262228, 65537][13 0, 203015]I get that now.
+[->][13 0, 203016]To bring back Tokyo, we need passion
+now, not empty words.
+[->][13 0, 203017]We can't afford to stand on ceremony.
+[END]
+14: (Jonathan) [7a 3][7b 65539, 65537][13 0, 203019]...A very bold plan.
+[->][13 0, 203020]Sir Kiyoharu is a tad bit unique,
+so I think it would be better if you
+were to lead.
+[END]
+15: (Akira) [7a 84][7b 262228, 65537][13 0, 203021]If we succeed in reviving Tokyo, I'm
+thinking of renaming the newborn city.
+[->][13 0, 203022]Out of respect to you three, I'll call
+it the ”Eastern Kingdom of Mikado.”
+[END]
+16: (Jonathan) [7a 3][7b 65539, 65537][13 0, 203023]If that were to happen, you would be 
+King Akira of the Eastern Kingdom of...
+[END]
+17: (Jonathan) [7a 3][7b 65539, 131073][7b 655364, 65537][13 0, 203024]...Eh?
+[END]
+18: (Akira) [7a 84][7b 262228, 65537][13 0, 203025]Now go...
+[->][13 0, 203026]Stories of your achievements will be
+passed down for generations to come.
+So long, our Messiahs.
+[END]
+106: (Burroughs) [7a 2][13 0, 400051]Congratulations on completing the quest.
+[END]
+111: (Jonathan) [7a 3][7b 786435, 65537][7b 786436, 65537][13 0, 203014]Wait, that's...
+[END]
+113: (Akira) [7a 84][7b 262228, 65537][13 0, 203018]If demons start popping up, I'll take
+control of 'em and put 'em to use.
+[END]

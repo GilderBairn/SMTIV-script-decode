@@ -1,0 +1,15 @@
+0: This is Hope. We have a Gauntlet in our
+possession that we refer to as the Cursed
+Gauntlet, and a certain problem occurs when
+we attempt to summon with it. I would rather
+not let a valuable Gauntlet go to waste.
+Report to the Samurai in the treasure room.
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

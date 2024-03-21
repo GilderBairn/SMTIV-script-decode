@@ -1,0 +1,87 @@
+0: (Hooded man) [7a 31][13 0, 27001]This is beyond the pale...!
+[->][13 0, 27002]I was supposed to show the Casualries
+preening around the place their
+proper station...
+[END]
+1: (Hooded man) [7a 31][13 0, 27003]Jonathan, Isabeau... If only you
+hadn't come to his aid...
+[->][13 0, 27004]Why do you intervene on a Casualry's
+behalf when you are Luxurors!?
+[END]
+2: (Jonathan) [7a 3][7b 786435, 65537][7b 655365, 131073][13 0, 27005]Because we abide by the code of the
+Samurai. Our way is to cast aside the
+tragedies that befall the people.
+[->][13 0, 27006]And [Flynn] is our fellow.
+That is all the reason we require.
+[END]
+3: (Isabeau) [7a 5][7b 65541, 131073][13 0, 27007]I gather you intended to prey on the
+weak, but you have badly miscalculated.
+[END]
+4: (Voice) [7a 4][13 0, 27008]Huh? Jonathan? Isabeau?
+[END]
+5: 〉 Walter entered the room.
+[END]
+6: (Walter) [7a 4][7b 655364, 65537][13 0, 27009]The hooded man's here too? What's
+going on...?
+[END]
+7: (Jonathan) [7a 3][7b 458755, 131073][13 0, 27010]Walter, allow me to explain...
+[END]
+8: 〉 Jonathan explained the situation
+to Walter.
+[END]
+9: (Walter) [7a 4][7b 131076, 65537][7b 655363, 131073][13 0, 27011]...This is a dubious business, make
+no mistake.
+[END]
+10: (Error) [END]
+11: (Hooded man) [7a 31][13 0, 27012]But my only role in this was to lure
+you here. You cannot hold a grudge
+against me for that...!
+[->][13 0, 27013]G−Go complain to Navarre further in!
+[END]
+12: (Walter) [7a 4][7b 786436, 131073][13 0, 27014]I'll make time another day to deal
+with you. The favor must be returned,
+after all.
+[->][7b 196612, 65537][13 0, 27015]But for now, we must find Navarre and
+make him pay for what he's done.
+[END]
+13: (Jonathan) [7a 3][7b 786435, 131073][7b 196612, 65537][13 0, 27017]I will accompany you.
+[END]
+14: (Walter) [7a 4][7b 131076, 65537]It's an error, I'll have you know!
+[END]
+15: (Isabeau) [7a 5][7b 524293, 65537][13 0, 27018]As will I. Someone must treat
+Navarre's wounds, after all.
+[->][13 0, 27019]...Since I fear that Walter will not
+restrain himself once we find him.
+[END]
+16: (Walter) [7a 4][7b 393220, 65537][13 0, 27020]Fine...
+[END]
+17: 〉 Jonathan, Walter, and Isabeau are now
+accompanying you.
+[END]
+18: (Walter) [7a 4][13 0, 27021]Hold... Someone's coming this way.
+[END]
+19: (Suspicious Samurai) [7a 29][13 0, 27022]Oh no... You're those... Casualries...!
+[->][13 0, 27023]H−Ho there... I wouldn't recommend
+going any further.
+[->][13 0, 27024]There's... a−a funny wall.
+[->][13 0, 27025]Navarre hasn't been seen since going
+through that wall... I've lost contact
+with him myself...
+[->][13 0, 27026]I−I'm going back to the hall. This is
+passing strange. I would suggest you
+go no further either.
+[->][13 0, 27027]But, er, this isn't a retreat, you
+understand. I'm simply too bewildered
+to continue...
+[END]
+20: 〉 The suspicious Samurai left in
+a hurry.
+[END]
+21: A guest has joined your party.
+[->]Though you cannot control guests, they
+will assist you in battle.
+[END]
+112: (Hooded man) [7a 31][13 0, 27016]*shriek*
+[END]
+212: 〉 The hooded man ran away.
+[END]

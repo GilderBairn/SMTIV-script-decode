@@ -1,0 +1,95 @@
+0: (Tough woman) [7a 98][13 1, 403341]You guys seem like you know how to
+fight. Why not help out our association?
+[->]I know Tokyo's a mess, but it's where
+we've got to live. Like we have a
+choice, right?
+[END]
+2: (Tough woman) [7a 98][13 1, 403302]You guys beat Pluto, right? Then why
+not help out our association too?
+[->]I know Tokyo's a mess, but it's where
+we've got to live. Like we have a
+choice, right?
+[END]
+3: (Hunter) [7a 99][13 1, 403042]Kiyoharu? I dunno. I thought he was
+with Akira.
+[->]Those two go way back to when they used
+to fight demons together.
+[END]
+4: (Hunter) [7a 99][13 1, 403012]Kiyoharu and Akira got infected by
+Pluto's poison.
+[->]It was when the demons first appeared
+all over Tokyo. They were fighting in
+Shinjuku and got into a battle outside.
+[->]If Kiyoharu and Akira were in better
+shape, they might stand a chance at
+beating Pluto.
+[END]
+5: (Hunter man) [7a 162][13 1, 403002]After God brought down his wrath, we
+decided to stay in this shelter.
+[->]We spent 25 years here, eating all
+the food stockpiled in the joint,
+little by little...
+[->]I still remember the pit in my stomach
+when I first set foot outside. Our
+Tokyo... it was just a huge desert...
+[END]
+6: (Hunter man) [7a 162][13 1, 403031]If I had to sum up the last 25 years
+in one word, it'd be ”despair.” But the
+one thing I've learned...
+[->]It'd be the fact that despair gets you
+nowhere. I know that deep inside now...
+[->]And I have you to thank for it. You
+got rid of Pluto for us...
+[END]
+7: (Hunter woman) [7a 100][13 1, 403142]I heard Akira had a sister who got
+separated from him when they were kids.
+[->]She was taken sky high in the Angel's
+Cocoon...
+[END]
+8: (Hunter woman) [7a 100][13 1, 403133]Thanks for accepting Akira's request.
+But damn... you really beat Pluto...
+[->]Well, hell, don't just stand there.
+Go give him the good news!
+[END]
+9: (Hunter woman) [7a 100][13 1, 403141]Akira was telling me you're from the
+Eastern Kingdom of Mikado?
+[->]He said he's gonna use that demon from
+Ichigaya and restore Tokyo.
+[->]That's some idea, huh? Well, it's cool
+with me. I'm pretty good at controlling
+demons myself.
+[END]
+10: (Hermit woman) [7a 98][13 1, 403321]Hey, you've got to keep those goggles
+on tight! Don't fiddle with them!
+[END]
+11: (Hazard−suited child) [7a 95][13 1, 404012]But I hate them! They hurt my eyes!
+The bad monster's gone now, right?
+Then how come...
+[END]
+12: (Hermit woman) [7a 98][13 1, 403302]Yes, the bad monster's dead, but Tokyo
+is still dirty. It won't be clean again
+for a while.
+[->]So please be patient, okay?
+[END]
+14: (Stiff woman) [7a 163][13 1, 403312]Sorry to break up the good mood...
+[->]But even if Pluto is dead, his poison
+is sticking around...
+[->]And if it infects you, nothing can save
+you then.
+[END]
+15: (Stiff woman) [7a 163][13 1, 403312]Even if Pluto is dead, his poison is
+sticking around...
+[->]So it's a race against time... Can we
+establish the Eastern Kingdom of Mikado
+before Akira's time runs out?
+[->]God knows what'll happen now...
+[END]
+109: (Hunter woman) [7a 100][13 1, 403141]That idea about using demons to restore
+Tokyo... It's actually not gonna be so
+easy, you know...
+[->]Not the work itself. But training a
+demon to do it...
+[->]With Tokyo how it is, I can't really
+give them decent rewards. But I can't
+just give them sticks either, right?
+[END]

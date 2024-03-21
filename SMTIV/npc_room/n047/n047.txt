@@ -1,0 +1,44 @@
+0: (Middle−aged woman) [7a 61][13 1, 403902]I'm afraid of the demons... But kids
+these days scare me, too.
+[->]Children with power have no self−
+control. They just go wild, and do
+terrible things...
+[->]I beg you, please don't harm innocent
+people!
+[END]
+1: (Demon) [7a 65297][13 1, 418002]Ah, how refreshing... I feel so...
+young and powerful!
+[->]I don't have to fear demons any
+longer, because...
+[->]Because I ate Reds, and became a
+demon myself...!
+[END]
+2: (Middle−aged woman) [7a 61][13 1, 403941]No wonder everyone is excited.
+The Hunter championship is taking
+place...
+[->]The people still manage to keep their
+spirits up, I see...
+[END]
+3: (Demon) [7a 65297][13 1, 418002]Just as the humans did, I, too,
+found hope...
+[->]I took Reds and became a demon.
+Now I have nothing to fear.
+[->]That is my hope now...
+[END]
+4: (Demon) [7a 65297][13 1, 418002]I have no regrets about using the
+Reds to become a demon.
+[->]I could just commit suicide...
+But I will wait for my time to come
+here.
+[->]Demons' sorrow always resides under
+the shadow of human prosperity...
+I will make them remember us...
+[END]
+100: (Middle−aged woman) [7a 61][13 1, 403902]I'm afraid of the demons... But kids
+these days scare me, too.
+[->]Children with power have no self−
+control. They just go wild, and do
+terrible things...
+[->]I beg you, please don't go mad and
+make more victims like my husband...
+[END]

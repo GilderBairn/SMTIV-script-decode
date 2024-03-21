@@ -1,0 +1,67 @@
+0: 〉 You hear a voice coming from further
+down the passage...
+[END]
+1: (Woman's voice) [7a 1][13 0, 141001]You who wish to pass. Answer our
+question.
+[END]
+2: (Man's voice) [7a 1][13 0, 141002]You will have two choices. The answer
+will reveal your inner self.
+[END]
+3: (Man's voice) [7a 1][13 0, 141003]Now, for the question...
+[END]
+4: (Man's voice) [7a 1][13 0, 141004]You are the chief of a village which
+has lived the same way for 1,000 years.
+[->][13 0, 141005]One day, a man visits your village,
+carrying with him revolutionary
+technology.
+[->][13 0, 141006]This technology would greatly ease
+your people's lives, but would also
+do away with their current lifestyle.
+[->][13 0, 141007]What would you do?
+[END]
+5: (Woman's voice) [7a 1][13 0, 141008]Go right if you would expel the
+visitor in order to preserve the
+lifestyle you have always known.
+[END]
+6: (Man's voice) [7a 1][13 0, 141009]Go left if you would welcome the
+visitor in order to adopt his
+technology for your village.
+[END]
+7: (Jonathan) [7a 3][7b 196611, 65537][13 0, 141010]...New technology is quite tempting.
+[->][13 0, 141011]But I do not think it worth upending
+the stability of a culture and causing
+confusion amongst the people.
+[->][7b 65539, 65537][13 0, 141012]I shall go right.
+[END]
+8: (Walter) [7a 4][7b 131076, 65537][13 0, 141013]Don't be so hasty, Jonathan. Give the
+matter more thought. Life for all the
+villagers would be improved.
+[->][13 0, 141014][7b 65540, 65537]One must take risks in order for one
+to see progress.
+[->][13 0, 141015]Were it up to me, I'd go left.
+[END]
+9: (Isabeau) [7a 5][7b 65541, 65537][13 0, 141016]Another difference of opinion.
+[->][13 0, 141017][7b 131077, 65537]Is Yuriko attempting to drive a wedge
+between our band...?
+[END]
+10: (Isabeau) [7a 5][7b 65541, 65537][13 0, 141018]I hesitate to be the one to decide
+this time either.
+[->][7b 786437, 65537][13 0, 141019]Which would you choose, [Flynn]...?
+[->][13 0, 141020]Right, to protect the traditional
+way of life? Or left to welcome the
+new technology?
+[END]
+11: (Woman's voice) [13 0, 141021]You would expel the visitor to protect
+the village's way of life?
+[END]
+12: ”Yes, I would.”
+Reconsider
+[END]
+13: (Man's voice) [13 0, 141022]You would welcome the visitor to usher
+in the new technology?
+[END]
+14: ”Yes, I would.”
+Reconsider
+[END]
+999: つなぎ用仮イベントです
+[END]

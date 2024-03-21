@@ -1,0 +1,990 @@
+0: (Mido) [7a 0]Dummy
+[->][END]
+1: (Mido) [7a 0][13 1, 902060]It seems there is a demon whose condition
+for fusion has been met and can now be
+fused at will.
+[->][END]
+2: The fusion condition for
+[Color:0x5][Demon race 1] [Demon name 1][Color:0x0] has been met.
+[->][END]
+3: (Mido) [7a 0][13 1, 902060]It seems that you now have the required
+demons to perform a new special fusion.
+[->][END]
+4: [Color:0x5][Demon race 1] [Demon name 1][Color:0x0] can
+now be made through special fusion.
+[->][END]
+5: (Mido) [7a 0]Please hold while I search...
+To cancel the search, press [button 65536].
+[->][END]
+6: (Mido) [7a 0]I am searching, but it will take some
+time... To cancel the search, press [button 65536].
+[->][END]
+7: (Mido) [7a 0][13 1, 902010]Gather demons and come again.
+[->][END]
+8: (Mido) [7a 0]Press [button 196608] to begin a search.
+[->][END]
+9: (Mido) [7a 0]Welcome to the Cathedral of Shadows,
+where demons gather...
+[->][END]
+10: (Mido) [7a 0]What sort of fusion interests you?
+[->][END]
+11: (Mido) [7a 0]Your search yields [Color:0x5][Amount 1] demon(s),[Color:0x0] which
+can be made in [Color:0x5][Amount 2] way(s).[Color:0x0]
+[->][END]
+12: (Mido) [7a 0]Which demon do you wish to create?
+[->][END]
+13: (Mido) [7a 0]Which combination will you make it with?
+[->][END]
+14: (Mido) [7a 0]Which contract do you want to make?
+[->][END]
+15: (Mido) [7a 1]レギオンスキル枠が一杯のようだな
+どれと入れ替えるのだ?
+[->][END]
+16: (Mido) [7a 1][13 1, 902030]Then I will perform the fusion.
+[->][END]
+17: (Mido) [7a 1]It seems your level is too low to fuse
+this demon.
+[->][END]
+18: (Mido) [7a 1]It seems you already have that demon
+with you.
+[->][END]
+19: (Mido) [7a 1]It seems your stock is full.
+[->][END]
+20: (Mido) [7a 1]It seems you lack the necessary demons
+to fuse this one.
+[->][END]
+21: (Mido) [7a 1]It seems you lack the Macca to use the
+Demon Compendium.
+[->][END]
+22: (Mido) [7a 0]That search results in too many hits...
+You must further narrow your criteria.
+[->][END]
+23: (Mido) [7a 1]Your demon has no skills. You should
+give it at least one.
+[->][END]
+24: (Mido) [7a 0]Demon fusion is a process in which
+multiple demons are fused to create
+a new one.
+[->]Pay no mind to the demons' place of
+origin, divinity, or tradition; fuse
+whatever demons you like together.
+[->]This is a process which fears no god...
+For that reason, it might be said to be
+immoral and taboo.
+[->]To perform demon fusion, select
+[Color:0x5]Fusion[Color:0x0] from the menu.
+[->][END]
+25: (Mido) [7a 0][Color:0x5]Component demons[Color:0x0] are demons that you
+select as fodder for fusion.
+[->]The [Color:0x5]resulting demon[Color:0x0] is the demon that
+is created by the fusion process.
+[->]All fusion revolves around these two
+types of demons... Remember them well.
+[->][END]
+26: (Mido) [7a 0]The [Color:0x5]fusion limit[Color:0x0] is the level restraint
+on demons that can be created through
+fusion.
+[->]There is a fear that demons of too high
+a level would be too powerful for you
+to safely control.
+[->]That is why you cannot create demons with
+levels higher than the fusion limit.
+[->]The fusion limit is connected to your
+own level.
+[->]If you wish to create high−level demons,
+you must first increase your own level.
+[->][END]
+27: (Mido) [7a 0]Apart from a select few, the skills your
+component demons know can be passed down
+to the resulting demon.
+[->]This is called [Color:0x5]skill inheritance,[Color:0x0] and it
+is the most important factor in fusion.
+[->]By using skill inheritance, you can
+create demons with skills they would
+not normally have.
+[->]You may freely select which skills a
+demon you create will inherit.
+[->]What sorts of demons will you make...?
+Hmhmhm...
+[->][END]
+28: (Mido) [7a 0][Color:0x5]Recommended Fusions[Color:0x0] are the demons created
+from the combination I recommend.
+[->]I will handpick three of the best fusions
+you can perform at any given time.
+[->]If any of them catch your eye, simply
+select that menu option and fuse it.
+[->][END]
+29: (Mido) [7a 0]Recommended Fusions can be performed
+directly from the Cathedral of Shadows'
+main menu.
+[->]There are three recommendations listed
+above the standard options...
+[->]Choose whichever one you like from the
+three and press [button 0].
+[->]Once you have reviewed the resulting
+demon to your satisfaction, press [button 0]
+again to perform the fusion.
+[->][END]
+30: (Mido) [7a 0][Color:0x5]Fusion Search[Color:0x0] allows you to create
+demons by searching specified criteria.
+[->]Narrow down the list by criteria such
+as race, performance, and skills to find
+the demon of your choice.
+[->][END]
+31: (Mido) [7a 0]To perform a fusion search, first choose
+”Fusion”...
+[->]And then ”Fusion Search” in that order.
+[->][END]
+32: (Mido) [7a 0]The first step in a Fusion Search is to
+select the search criteria.
+[->]You may adjust the performance of the
+expected demon as you wish.
+[->]If you expect nothing in particular
+from the fusion, then you need not
+set anything.
+[->]Once you have chosen your criteria,
+press [button 0] to carry out the search.
+[->][END]
+33: (Mido) [7a 0]After the search has been carried out,
+you will see a list of candidates.
+[->]Select a demon you wish to create from
+that list.
+[->][END]
+34: (Mido) [7a 0]After choosing the resulting demon,
+select a combination of component
+demons for the fusion.
+[->]This step is necessary since most demons
+can be fused via multiple combinations.
+[->]When choosing component demons, look to
+their [Color:0x5]skills[Color:0x0] and the [Color:0x5]demons currently
+at your side.[Color:0x0]
+[->]The skills inherited from the component
+demons and the makeup of your party after
+the fusion are both important factors.
+[->]Keep these thoughts in mind as you
+select your component demons.
+[->][END]
+35: (Mido) [7a 0]Once you have a resulting demon and its
+component demons, the final step is to
+choose skills to pass down.
+[->]Allocate the inherited skills of your
+choice into the resulting demon's
+skill slots.
+[->]When you have made your decisions,
+press [button 196608] to move on.
+[->][END]
+36: (Mido) [7a 0]After the final step has been taken,
+you may review the resulting demon's
+details.
+[->]Here, you can perform a final check of
+your new demon's stats, affinities,
+and skills.
+[->]All that remains is to press [button 0] to
+commit to the fusion.
+[->][END]
+37: (Mido) [7a 0]You may specify demons you are adamant
+about using as a component in the fusion.
+[->]Perhaps you wish to use strong demons
+as components in order to create even
+more powerful allies...
+[->]Or perhaps a demon has outlived its
+usefulness to you and you wish to wring
+one final use from it...
+[->]There are good reasons why you may wish
+to set this condition.
+[->][END]
+38: (Mido) [7a 0]You may specify demons as off limits from
+being used as a component in the fusion.
+[->]Perhaps you wish to keep a demon who has
+been an important ally in battle...
+[->]Or you may wish to preserve the demon
+for use in a different fusion...
+[->]There are good reasons why you may wish
+to set this condition.
+[->][END]
+39: (Mido) [7a 0]When a search is complete, I will
+display the top ten that catch my eye.
+[->]You may find this useful if a search has
+too many results to make up your mind.
+[->][END]
+40: (Mido) [7a 0]This will display only demons that you
+do not yet have in the Compendium in
+your search results.
+[->]It is a useful condition to set if you
+are searching for demons you have not
+yet encountered.
+[->][END]
+41: (Mido) [7a 0]You may, if you wish, specify the race
+of the demon you will create.
+[->]However, you cannot specify a race from
+which you have never encountered any
+representatives before.
+[->]Only those in the Demon Compendium or
+registered with Analyze can be specified.
+[->]It can be useful if you know you will
+need a demon of a specific race for
+a later fusion.
+[->][END]
+42: (Mido) [7a 0]This allows you to specify an individual
+demon to create.
+[->]However, you cannot specify a demon which
+you've never encountered before.
+[->]Only those in the Demon Compendium or
+registered with Analyze can be specified.
+[->]Only the most discerning summoners
+will find this condition of use...
+[->][END]
+43: (Mido) [7a 0]You can specify the types of skills you
+wish the resulting demon to have.
+[->]If you are looking for a demon to play
+a particular role, such as strking enemy
+weaknesses, or support and healing...
+[->]You may find this condition useful.
+[->][END]
+44: (Mido) [7a 0]You can specify individual skills you
+wish the resulting demon to have.
+[->]However, you cannot specify a skill which
+you have never seen put to use before.
+[->]If your own party has used it, or it has
+been used against you, that is another
+matter.
+[->]This is a helpful condition if you
+wish to build your demons in a very
+specific way.
+[->][END]
+45: (Mido) [7a 0]You can specify elements that you require
+the resulting demons to be resistant to.
+[->]For example, if you specify Fire or Ice
+as your condition...
+[->]The search will return demons who Resist,
+Null, Repel, or Drain that element.
+[->]This condition can be invaluable if
+you are building a force to combat
+troublesome foes.
+[->][END]
+46: (Mido) [7a 0]This will allow you to use demons
+registered in the Compendium for
+components as well.
+[->]In other words, component demons which
+you do not have on hand can be summoned
+directly into the fusion.
+[->]The same amount of Macca is required to
+summon them, so mind your finances.
+[->]This condition can increase the
+possibilities in fusion tremendously.
+[->]And it will increase the number of
+results in a search commensurately, so
+you must narrow it down by other means.
+[->]The broad range of possibilities that
+this condition opens is fit only for
+experts.
+[->][END]
+47: (Mido) [7a 0]This allows you to omit Elements from the
+component demons.
+[->]Should you include Elements in the
+search, it can cause a tremendous
+increase in the number of results...
+[->]Should you run afoul of this, use this
+condition to narrow your search.
+[->][END]
+48: (Mido) [7a 0]The Demon Compendium is a grimoire that
+contains the details of your demons.
+[->]Not only can you view the demons you
+have befriended thus far...
+[->]You can also summon them into your party
+for a fee of Macca.
+[->]As you meet more demons, the Demon
+Compendium will become an important
+tool in your journey.
+[->][END]
+49: (Mido) [7a 0]To view the Demon Compendium, access the
+Cathedral of Shadows' main menu...
+[->]From there, select Demon Compendium
+and then View Compendium.
+[->]Select demons you wish to view from the
+list and examine their details to your
+heart's content.
+[->]You may also press [button 0] here to summon
+that demon.
+[->]This is an extremely useful feature,
+but it does have a steep cost in Macca.
+[->]Take care that you use it deliberately
+so as not to find yourself penniless.
+[->][END]
+50: (Mido) [7a 0]As you develop your demons, they will
+begin to diverge from their entries in
+the Demon Compendium.
+[->]When this happens, you may register the
+demon's current details in the Compendium,
+overwriting its previous information.
+[->]To do so, first go to the Cathedral of
+Shadows' main menu...
+[->]Select Demon Compendium, and then
+Register.
+[->]The resulting list will contain demons
+whose current state diverges from their
+recorded Compendium details.
+[->]Select a demon and press [button 0] to
+record the new details.
+[->]You may also press [button 131072] to record all of
+the demons' updated details at once.
+[->][END]
+51: (Mido) [7a 0]When updating the records in your Demon
+Compendium, there is one thing to be
+cautious of.
+[->]Take care that a stronger version of a
+demon in the Compendium is not displaced
+by the weak one in your party.
+[->]For example, you might use a well−
+developed demon in fusion, eliminating
+it from your stock.
+[->]If you happened to befriend that same
+demon through conversation again...
+[->]The demon would be in its initial state,
+putting you at risk of running afoul
+of the case I mentioned.
+[->]When you are considering whether or not
+to update the records, press [button 196608] on the
+register screen.
+[->]This will display the demon's current
+state and its Compendium record one
+after another for easy comparison.
+[->][END]
+52: (Mido) [7a 0]Summoning from the Demon Compendium
+requires a certain amount of Macca.
+[->]It may interest you to know that the
+summoning fee is dependent on the
+recorded demon's quality.
+[->]HP, MP, its statistics, elemental
+affinities, and known skills are all
+factors in determining the price.
+[->]The stronger the demon, the higher the
+cost of summoning it will be.
+[->]Whether you opt for strength or savings
+will pose quite a dilemma.
+[->][END]
+53: (Mido) [7a 0]”The record in the Compendium is too
+strong! I can't afford the high cost of
+summoning!”
+[->]There are many users who express such
+concerns, so allow me to tell you one
+way to bypass this thorny problem.
+[->]It's quite simple. All you have to do
+is purposely replace the record with
+a weaker version of the demon.
+[->]Befriend a demon through conversation
+to gain it in its initial state, and then
+register that state to the Compendium.
+[->]Employing this technique is counter to
+the warning given elsewhere, but it
+definitely has its uses.
+[->][END]
+54: (Mido) [7a 0]There are a series of laws that govern
+demon fusion.
+[->]What kind of demon the resulting demon
+becomes is decided by the laws of
+fusion, for instance.
+[->]It is, of course, entirely possible to
+fuse demons without knowing these laws...
+[->]But it is best to be aware of them to
+some extent to perform more refined
+fusions.
+[->][END]
+55: (Mido) [7a 0]The race of the resulting demon depends
+on which component demons are fused.
+[->]For example, fusing race [Color:0x1]A[Color:0x0] with race [Color:0x1]B[Color:0x0]
+will result in race [Color:0x1]C,[Color:0x0] and so forth.
+[->]It is most useful to be conscious of this
+law if you are seeking to fuse a demon
+of a particular race.
+[->]If you wish to make a demon of race [Color:0x1]C,[Color:0x0]
+you will need component demons of races
+[Color:0x1]A[Color:0x0] and [Color:0x1]B...[Color:0x0]
+[->]With the reverse lookup, you can figure
+out which races of component demon
+to use.
+[->][END]
+56: (Mido) [7a 0]The resulting demon's level is decided
+by the level of the component demons.
+[->]The formula dictates that the averaged
+level of the component demons is the
+basis for the resulting demon's level.
+[->]A strong demon is born from strong demons.
+A weak demon is born from weak demons.
+[->]It only stands to reason...
+[->][END]
+57: (Mido) [7a 0]If a component demon has gained any
+levels, you must take care when
+calculating the fusion result.
+[->]This is because the formula dictated by
+the laws of fusion...
+[->]...takes only the component demon's
+initial level into account, rather than
+any it has accrued through experience.
+[->]Even if you fused a Foul Slime at level
+99, it would result in a very weak demon.
+[->]It's important to remember that the
+demon's initial strength is what
+matters, not its current strength.
+[->][END]
+58: (Mido) [7a 0]Of the many races of demons, do you know
+the idiosyncracies of the Elements?
+[->]This Element race has a special and
+rather technical role in fusion.
+[->]It gets a bit complicated to explain,
+but using them in fusions can greatly
+influence your results.
+[->]If you are confident in your skills,
+you should by all means make an effort
+to learn their use.
+[->][END]
+59: (Mido) [7a 0]To create an Element, simply fuse two
+demons of the same race together.
+[->]Which Element results from the fusion
+is determined by the race of the
+component demons used.
+[->]If there is a specific Element you wish
+to create, then narrow down your search
+to the races that can create it...
+[->]And then fuse two demons of that race
+together.
+[->][END]
+60: (Mido) [7a 0]In order to understand an Element's
+effect on fusion, you must first
+understand the concept of ”ranks.”
+[->]Rank is the order of each demon's level
+within the same race.
+[->]For example, if there were a demon [Color:0x1]A[Color:0x0]
+of level 20...
+[->]Within this race, you would look for
+a higher−level demon than [Color:0x1]A.[Color:0x0]
+[->]It happens that demon [Color:0x1]B,[Color:0x0] of level 25,
+is the first one you find.
+[->]In this case, demon [Color:0x1]B[Color:0x0] would be one rank
+higher than demon [Color:0x1]A.[Color:0x0]
+[->]Conversely, you could also say that
+demon [Color:0x1]A[Color:0x0] is one rank lower than demon [Color:0x1]B.[Color:0x0]
+[->][END]
+61: (Mido) [7a 0]An Element's role in fusion is in essence
+to manipulate the rank of your component
+demons.
+[->]For example, if you fused a certain
+Element with demon [Color:0x1]A...[Color:0x0]
+[->]The result would be a demon of [Color:0x1]A[Color:0x0]'s race,
+but one rank above or below [Color:0x1]A.[Color:0x0]
+[->]This amounts to manipulating [Color:0x1]A[Color:0x0]'s rank.
+[->]Whether the rank increases or decreases
+depends on [Color:0x1]A[Color:0x0]'s race, as well as the
+Element fused with it.
+[->]There would seem to be many combinations
+where fusion is not possible...
+[->]Learn well the web of compatibility
+between the races and Elements.
+[->][END]
+62: (Mido) [7a 0]Demon fusions essentially follow certain
+laws and proceed systematically...
+[->]But very rarely, unexpected errors may
+crop up during this process.
+[->]When this happens, the resulting demon
+will not be what you had planned for.
+[->]...Even I have yet to figure out why such
+a thing occurs.
+[->]I highly doubt that there are any bugs
+in the Cathedral of Shadows' code...
+[->]Perhaps some mysterious power, unknown
+even to me, is at play.
+[->][END]
+63: (Mido) [7a 0]Special fusion is a unique process where
+the component demons are predetermined.
+[->]These fusions are only possible through
+specific combinations.
+[->]That is why many of the demons created
+through special fusion tend to be special
+themselves.
+[->]Try experimenting to see what kinds of
+special fusions you can perform.
+[->][END]
+64: (Mido) [7a 0]There are four main ways in which special
+fusion differs from normal fusion.
+[->]First, the normal laws of fusion do
+not apply.
+[->]Second, the process is not limited to
+only two component demons. It may
+involve three or even four at times.
+[->]Third, demons created through special
+fusion cannot be created in any other
+way.
+[->]Not through normal fusion, and not
+through fusion accidents.
+[->]Fourth, even if the component demons
+are the same, the resulting demon will
+be different in a special fusion.
+[->]For example, if demon [Color:0x1]A[Color:0x0] and demon [Color:0x1]B[Color:0x0]
+fuse to create demon [Color:0x1]C[Color:0x0] through special
+fusion...
+[->]You would not get demon [Color:0x1]C[Color:0x0] by fusing
+demon [Color:0x1]A[Color:0x0] and demon [Color:0x1]B[Color:0x0] in normal fusion.
+[->]Remember these four points well...
+[->][END]
+65: (Mido) [7a 0]To use the special fusion feature,
+first access the Cathedral of Shadows'
+main menu...
+[->]Then select Fusion and, from there,
+Special Fusion.
+[->][END]
+66: (Mido) [7a 0]For special fusions, you first select the
+demon you wish to create from the list.
+[->]Once you have selected it, press [button 0] to
+review which component demons the fusion
+requires.
+[->]By the way, there is one condition for
+that demon to appear on the list...
+[->]You must have befriended at least one
+of its component demons in the past.
+[->]You may wish to check the special fusion
+list often as you befriend new demons.
+[->][END]
+67: (Mido) [7a 0]After deciding on the demon you wish to
+create, check which component demons are
+required for the fusion.
+[->]At this time, component demons not
+present in your stock will be supplied
+automatically from the Compendium.
+[->]After reviewing the combination, press
+[button 0] to move on to your final check.
+[->]Finally, press [button 0] once more to perform
+the fusion.
+[->][END]
+68: (Mido) [7a 0]When performing special fusions, you may
+come across demons listed as ”???”.
+[->]This indicates that the demon's identity
+is not yet known.
+[->]If the resulting demon is listed as
+???”, it means that not all of the
+component demons have been acquired yet.
+[->]If a component demon is listed as ”???”,
+it means you have not yet befriended
+that demon in some way.
+[->]Despite this, the demon's race and level
+will be legible, which should provide a
+hint toward acquiring that demon.
+[->][END]
+69: (Mido) [7a 0]Fusion conditions show that a demon is
+not currently available to be fused.
+[->]Even if you are of an appropriate level,
+and in possession of the right component
+demons...
+[->]Unless the fusion conditions are met,
+you will be unable to create that demon.
+[->]What this means in practice is...
+[->]The Fusion Search does not reflect all
+possible results. Special fusions will
+not appear on the list.
+[->]Their very existence is hidden.
+[->]...Even I am not sure why this occurs.
+I am currently looking into it.
+[->][END]
+70: (Mido) [7a 0]It seems that there are two ways to meet
+fusion conditions.
+[->]One is to fight the demon and defeat it.
+[->]The other is to somehow enlist that
+demon's help.
+[->]Either way... you must make the demon
+accept you as its master.
+[->][END]
+71: (Mido) [7a 0]There is an App that extends the
+Cathedral of Shadows to allow you to
+fuse demons even during battle.
+[->]By installing the ”Fusion Lite” App on
+Burroughs, you will gain access to this
+functionality.
+[->]However, since the Gauntlet is occupied
+with various other processes during
+battle...
+[->]Only the simplest, most minimal functions
+are enabled, so as not to overexert it.
+[->]It permits a quick fusion between two
+demons on hand. Skill inheritance is
+handled automatically.
+[->]This may seem to compare poorly with
+the more fully−featured version...
+[->]But the ability to fuse during battle
+will surely open up new strategic
+possibilities.
+[->][END]
+72: (Mido) [7a 0]The Cathedral of Shadows app... This is
+the masterpiece I spent my life crafting.
+[->]It is the ultimate demon App that allows
+the user full control of all things
+related to demons.
+[->]From the ritual of demon fusion to
+various functions to control demons...
+[->]This App is your gateway to the
+mesmerizing world of demons.
+[->]I hope that you use it to the fullest.
+[->][END]
+73: (Mido) [7a 0]What are you asking me now? I am Mido,
+master of this Cathedral of Shadows app.
+[->]If you wish to know more, well...
+[->]I am a man who grew fascinated by
+demons, and as a result, ended up
+as a digital entity...
+[->]...That much I don't mind telling you.
+[->][END]
+74: (Strange man) [13 0, 900000]Welcome to the Cathedral of Shadows,
+where demons gather...
+[->][END]
+75: (Strange man) [13 0, 900001]Ah, you must be a new user.
+Congratulations on activating
+this application.
+[->][13 0, 900002]My name is Mido, the master of the
+Cathedral of Shadows app.
+[->][13 0, 900003]Glad to make your acquaintance.
+[->][END]
+76: (Mido) [7a 0][13 0, 900004]Now... do you want to go through the
+lessons for beginners?
+[->][END]
+77: Go through it
+Don't go through it
+[->][END]
+78: (Mido) [7a 0][13 0, 900005]If you want to learn more about
+particular topics later, choose ”Talk”
+and ask me your questions.
+[->][END]
+79: (Mido) [7a 0][13 0, 900007]Many things are possible in the
+Cathedral of Shadows, but the most
+important of them is demon fusion.
+[->][13 0, 900008]Demon fusion is a forbidden process
+wherein multiple demons are fused
+together to create a new demon.
+[->][13 0, 900009]To perform demon fusion, select
+[Color:0x5]”Demon Fusion”[Color:0x0] from the menu.
+[->][END]
+80: (Mido) [7a 0][13 0, 900010]An astounding variety of demons can
+be created through fusion...
+[->][13 0, 900011]Which is why I have prepared a useful
+function called [Color:0x5]”Fusion Search.”[Color:0x0]
+[->][13 0, 900012]This will allow you to search by
+categories such as race, performance,
+and skills to fuse your desired demon.
+[->][END]
+81: (Mido) [7a 0][13 0, 900013]I would recommend that beginners
+simply perform a search without
+changing any of the parameters.
+[->][13 0, 900014]Doing so will display a list of demons
+you are currently capable of fusing.
+[->][13 0, 900015]If any of them catch your interest,
+go ahead and fuse them.
+[->][13 0, 900016]Once you get the hang of it, then you
+can try adjusting some of the search
+conditions.
+[->][END]
+82: (Mido) [7a 0][13 0, 900017]Now, apart from that, I've actually
+prepared one other method of fusion
+that's very basic.
+[->][13 0, 900018]Look at those rows directly above
+the menu. Do you see the icons with
+demon faces?
+[->][13 0, 900019]That is the ultimate time−saving
+function... I call it [Color:0x5]”Recommended
+Fusions.”[Color:0x0]
+[->][13 0, 900020]It lists the top three demons you can
+currently fuse, hand−picked by me.
+[->][13 0, 900021]If any of them pique your interest,
+you can select it and fuse it at once.
+[->][13 0, 900022]You can be particular with the Fusion
+Search or take the simple route of
+Recommended Fusions.
+[->][13 0, 900023]Use whatever style works best for you.
+[->][END]
+83: (Mido) [7a 0][13 0, 900017]Now, apart from that, I've actually
+prepared one other method of fusion
+that's very basic.
+[->][13 0, 900033]Look at those rows directly above
+the menu.
+[->][13 0, 900019]That is the ultimate time−saving
+function... I call it ”Recommended
+Fusions.”
+[->][13 0, 900020]It lists the top three demons you can
+currently fuse, hand−picked by me.
+[->][END]
+84: [13 1, 903002]Unfortunately, there are no demons that
+can be fused right now.
+[->][13 1, 903001]When the tutorial is done, gather more
+demons so that you can fuse them.
+[->][13 1, 903004]Should you do so, Mido will make fusion
+recommendations here...
+[->][END]
+85: (Mido) [7a 0][13 0, 900021]If any of them pique your interest,
+you can select it and fuse it at once.
+[->][13 0, 900022]You can be particular with the Fusion
+Search or take the simple route of
+Recommended Fusions.
+[->][13 0, 900023]Use whatever style works best for you.
+[->][END]
+86: (Mido) [7a 0][13 0, 900024]One last thing... I should say a few
+words about the [Color:0x5]”Demon Compendium.”[Color:0x0]
+[->][13 0, 900025]The Demon Compendium is a grimoire
+where your demons' data is recorded.
+[->][13 0, 900026]Not only can you view the data for the
+demons you have fused or befriended...
+[->][13 0, 900027]You can also summon those demons in
+exchange for Macca.
+[->][13 0, 900028]The more demons you encounter, the more
+use you will get out of the Compendium.
+[->][END]
+87: (Mido) [7a 0][13 0, 900029]That concludes my lessons.
+[->][13 0, 900030]If you want to learn more about
+particular topics later, simply ask.
+[->][13 0, 900031]Select [Color:0x5]”Talk”[Color:0x0] from the menu and you'll
+be able to speak with me.
+[->][END]
+88: (Mido) [7a 0][13 0, 900032]And now, go and enjoy the wondrous
+world of demons to your heart's content.
+[->][END]
+89: (Mido) [7a 0][13 0, 900100]Welcome to the Cathedral of Shadows,
+where demons gather...
+[->][END]
+90: (Mido) [7a 0][13 0, 900101]ほう どうやらレギオンスキルを
+手に入れたようだな
+[->][13 0, 900102]レギオンスキルに関する
+チュートリアルを聞いておくか?
+[->][END]
+91: 聞いておく
+結構だ
+[->][END]
+92: (Mido) [7a 0][13 0, 900103]レギオンスキルを再習得したい時は
+[Color:0x5]『軍勢全書』[Color:0x0]を選ぶがよい
+[->][END]
+93: (Mido) [7a 0][13 0, 900104]レギオンスキルとは
+悪魔の軍勢を一時的に召喚する魔法だ
+[->][13 0, 900105]軍勢は強力なスキルを繰り出し
+お[前/まえ]を助けてくれるだろう
+[->][13 0, 900106]…ただし ガントレットに登録しておける
+レギオンスキルの数は限られている
+[->][13 0, 900107]多数の悪魔を一度に扱うため
+ガントレットが膨大な計算を行うからだ
+[->][13 0, 900108]したがって お[前/まえ]はレギオンスキルの
+取捨選択に悩まされるだろう…
+[->][END]
+94: (Mido) [7a 0][13 0, 900109]そこで 新機能を用意しておいたぞ
+[->][13 0, 900110]レギオンスキルを登録する[魔導書/グリモア]…
+その名も[Color:0x5]『軍勢全書』[Color:0x0]だ
+[->][13 0, 900111]メニューを見るがよい 軍勢全書の
+項目が追加されているだろう
+[->][13 0, 900112]お[前/まえ]が今までに習得したレギオンスキルは
+全てその中に登録されている
+[->][13 0, 900113]スキルの内容を確認できるのは勿論
+再び習得しなおしたいスキルがあれば…
+[->][13 0, 900114]マッカと引き換えに
+いつでも習得しなおすことができるぞ
+[->][END]
+95: (Mido) [7a 0][13 0, 900115]さて チュートリアルは以上だ
+[->][13 0, 900116]バトルの切り札 レギオンスキル
+その切り札がズラリと並ぶ 軍勢全書
+[->][13 0, 900117]この新たなる悪魔の業を
+是非とも活用してみるがよい
+[->][END]
+96: (Mido) [7a 0][13 0, 901001]By the way, you seem to have handled
+a startling number of quests so far.
+[->][13 0, 901002]What? How can I know such a thing?
+[->][13 0, 901003]Why, it's quite obvious if I look into
+your Gauntlet's data.
+[->][13 0, 901004]Hahahaha...
+[->][END]
+97: (Mido) [7a 0][13 0, 901005]That aside, about those quests...
+[->][13 0, 901006]I'd like to request one of you myself.
+[->][13 0, 901007]I want you to assist me in my research
+on demons.
+[->][13 0, 901008]I cannot offer much, but there will
+be a reward as well. Not a bad deal,
+is it?
+[->][END]
+98: (Mido) [7a 0][13 0, 901009]Thank you for taking the time to speak
+with me. I actually have another
+request for you.
+[->][END]
+99: (Mido) [7a 0][13 0, 901010]The details...? Well, it's something
+along these lines.
+[->][13 0, 901011]Let me transfer the data to Burroughs
+right now.
+[->][END]
+100: (Burroughs) [13 0, 901012]Mido passed along some data.
+I'll register it as a quest.
+[->][END]
+101: (Mido) [7a 0][13 0, 901013]All right, I'll be counting on you.
+I expect excellent results.
+[->][END]
+102: (Mido) [7a 0][13 0, 901014]Is the request I gave you going
+smoothly?
+[->][END]
+103: (Mido) [7a 0][13 0, 901015]Hm... it doesn't seem like you have
+what I specified yet.
+[->][13 0, 901016]Well, all I ask is that you continue
+trying.
+[->][END]
+104: (Mido) [7a 0][13 0, 901017]Ah, it would seem that you have what
+I specified.
+[->][END]
+105: (Mido) [7a 0][13 0, 901018]Hm, this is a fine report. Very useful
+data. It will do a great deal for my
+research...
+[->][13 0, 901019]I hope you'd be willing to pitch in
+again if something were to come up.
+[->][END]
+106: (Mido) [7a 0]This Cathedral of Shadows is stored on
+a server. The Gauntlet acts as a terminal
+to access it.
+[->]In essence, all of Mikado's Samurai are
+Cathedral of Shadows users.
+[->]This year, you and four other new users
+have been registered...
+[->]Walter, Jonathan, Isabeau, Navarre,
+and [Flynn]...
+[->]I look forward to working with these
+five new Samurai.
+[->][END]
+107: (Mido) [7a 0]If there is anything you don't understand
+about fusion, you may ask me.
+[->]Select a topic from the list below and
+I will give you as clear an answer as
+I am able.
+[->]After you have digested what I have to
+teach, all that's left is to fuse and
+keep fusing...
+[->]Experience is the greatest teacher,
+after all.
+[->][END]
+108: (Mido) [7a 0]Once you grow accustomed to normal
+fusion, try attempting special fusions.
+[->]Demons created through special fusion
+are generally quite strong...
+[->]They will be reassuring allies when you
+face powerful enemies.
+[->][END]
+109: (Mido) [7a 0]What was your initial reaction when
+you saw Tokyo? Isn't it truly vast?
+[->]There are many demons unknown to you
+lurking in this land.
+[->]Which means it is all the more abundant
+in components for fusion...
+[->]The Cathedral of Shadows will be your
+oyster now! Hahahahahaha...
+[->][END]
+110: (Mido) [7a 0]As you face stronger demons, support
+skills will play a more vital role.
+[->]If you see a support skill in the list
+of skills to inherit, you should think
+carefully about what to keep.
+[->]Are you certain you won't need that
+support skill? Might you come to regret
+that decision later?
+[->]Give careful thought to such questions
+when fusing...
+[->][END]
+111: (Mido) [7a 0]How many skill slots do your demons
+have as yet?
+[->]Your demons' skills will surely be
+more abundant going forward.
+[->]How many of these skills they can hold
+at a time will be dependant on the
+number of skill slots you provide.
+[->]Whether or not to purchase more skill
+slots for your demons is certainly
+something to consider...
+[->][END]
+112: (Mido) [7a 0]Have you been making use of special
+fusions?
+[->]There are a limited number available
+at first, but I'm sure the list has
+become quite substantial now.
+[->]If the component demons are unknown,
+it can be diverting to try and guess
+what they might be.
+[->]Discovering the components, fusing the
+special demons, and deploying their
+strength in battle...
+[->]Special fusion can be rewarding indeed.
+[->][END]
+113: (Mido) [7a 0]Have you experimented with using Elements
+in your fusions?
+[->]Manipulating rank with Elements is the
+most straightforward way to strengthen
+a demon.
+[->]It does require some care. You must
+understand the laws governing it and
+prepare the proper Elemental...
+[->]But the reward for taking such pains
+will surely be significant.
+[->]If ever you find yourself needing such
+an ally, give it a try.
+[->][END]
+114: (Mido) [7a 0]I assume your Demon Compendium must
+be quite substantial by now.
+[->]Try allowing demons in your Compendium
+to be used in fusion searches.
+[->]You may be shocked at the expanded range
+of possibilities that will result. You
+could call it explosive...
+[->]But then, the vast range of possibilities
+could also prove overwhelming for you.
+[->]Use your own judgement in setting your
+conditions for a fusion search.
+[->][END]
+115: (Mido) [7a 0]The enemy demons will only be stronger
+from this point on.
+[->]It may be time to have your demons
+specialize in a particular role, such as
+attackers, supporters, or healers.
+[->]You could also create well−rounded
+demons, but you run the risk of them
+falling short at a critical moment.
+[->]The kind of demons you create will be
+the true proof of your skills.
+[->][END]
+116: (Mido) [7a 0]You don't even understand your situation,
+yet even so, you want to fuse demons...
+[->]Amazing! That is how a true user of the
+Cathedral of Shadows App should behave!
+[->][END]
+117: (Mido) [7a 0]The digital world where I live is
+connected to all places.
+[->]Thus, there is no difficulty in using
+the Cathedral of Shadows App even from
+the Tokyo you find yourself in now.
+[->]Pay no mind to these trifling matters
+and concentrate on your fusions as
+usual.
+[->][END]
+118: (Mido) [7a 0]Have you encountered any fusion accidents
+thus far?
+[->]Fusion accidents are essentially a
+flawed fusion resulting in an unforeseen
+demon...
+[->]However, they will sometimes result in
+rare demons that cannot normally be
+created through fusion.
+[->]What starts as an unfortunate accident
+could become a happy stroke of luck...
+[->]This is one of the things that makes
+fusion so mesmerizing.
+[->][END]
+119: (Mido) [7a 0]Your battle has reached its climax now...
+The highest class of demons will be
+making its appearances soon.
+[->]Though I call it the highest class,
+it contains quite a number of demons.
+[->]Are you up to the challenge of creating
+the best demons from within this
+exalted class?
+[->][END]
+120: (Mido) [7a 0]You seem to have accomplished a great
+mission.
+[->]It is all thanks to your fusion of
+steadfast demons through the Cathedral
+of Shadows app.
+[->]Knowing that it gave you the power to
+change the world, I'm ready to call it
+my true masterpiece.
+[->]Hahahahaha...
+[->][END]

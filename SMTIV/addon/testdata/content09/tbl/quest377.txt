@@ -1,0 +1,10 @@
+0: I am a wayfarer of space and time. My latest hobby is
+to hire dwarves to craft various items and give them
+to people of various timelines. I have an outfit made
+in the image of the [Color:0x5]bringer of light;[Color:0x0] it is my finest
+work, hewn from a superdimensional fabric similar to
+light itself. I'd trade it for  [Color:0x5][Item 1][Color:0x0] x[Color:0x5][Amount 1],[Color:0x0]
+deliverable to a [Color:0x5]Hunter Association[Color:0x0] or [Color:0x5]K's Tavern.[Color:0x0]
+[END]
+1: Download Content 1 Second time
+[END]

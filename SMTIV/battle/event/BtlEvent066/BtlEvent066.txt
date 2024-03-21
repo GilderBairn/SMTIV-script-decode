@@ -1,0 +1,7 @@
+1: (The White) [13 0, 306600]It's impossible to thwart God's curse
+by pure force...
+[->][13 0, 306601]All you gain is a false sense of
+liberation. It is a far cry from
+true freedom.
+[->][13 0, 306602]Such indulgence is beyond redemption...
+[END]

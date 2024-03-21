@@ -1,0 +1,10 @@
+0: (Okuninushi) [7a 0][13 1, 412107]There is no hope for you. Mourn for
+your coming death and await your
+fate, for you have angered a god.
+[->]You shall feel the pain the land has
+felt after centuries of destruction
+by the hands of you greedy humans.
+[END]
+1: (Okuninushi) [7a 0][13 1, 412109]I am sorry... my friend...
+I could not... keep my promise...
+[END]

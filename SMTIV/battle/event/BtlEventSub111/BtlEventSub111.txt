@@ -1,0 +1,11 @@
+0: (Wu Kong) [7a 0][13 1, 411000]You again! You know, you're pretty
+good for a human!
+[->]But you're not going to catch me
+that easily!
+[END]
+2: (Wu Kong) [7a 0][13 1, 411007]Damn, what's with this guy...!?
+[->]Y−You'll never catch me!
+You hear me? Never!
+[END]
+3: 〉 The demon runs away...
+[END]

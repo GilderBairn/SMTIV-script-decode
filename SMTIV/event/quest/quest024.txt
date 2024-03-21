@@ -1,0 +1,28 @@
+0: I want you to [Color:0x5]kill Yuriko,[Color:0x0] that scary broad
+who's after the Ashura−kai's [Color:0x5]Yamato Reactor.[Color:0x0]
+She wants to put a lockdown on our electricity.
+You've offed plenty of demons up to now, so one
+woman shouldn't be so hard, right? The Ring of
+Gaea's temple is in Tsukiji. You can get there
+through Tokyo Station.
+[END]
+1: Dummy
+[END]
+2: I've been keeping tabs on you through this
+Gauntlet thing your pal has. I'm impressed you
+beat some of those Gaea folks. I almost wish
+you were on my team. Keep going and [Color:0x5]take the
+entrance test,[Color:0x0] and say hi to Yuriko for me.
+[END]
+3: Burroughs' note:
+ 
+Yuriko seems like a shrewd woman. This isn't
+the best situation for us, but you definitely
+seem to be getting closer to your goal. Go on
+through the [Color:0x5]Passage of Ethics[Color:0x0] to see her.
+[END]
+4: I don't give a damn if Yuriko's this ”Black
+Samurai” or not. She's a menace to both Tokyo
+and the Eastern Kingdom of Mikado. Hurry and
+bump her off already.
+[END]

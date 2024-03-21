@@ -1,0 +1,153 @@
+0: (Jonathan) [7a 3][13 0, 206001]...Ah, you've awakened.
+[->][13 0, 206002]It seems we're once again at the
+Counter−Demon Force base...
+[END]
+1: (Walter) [7a 4][13 0, 206003]Hoy, are you awake?
+[->][13 0, 206004]We're back at the Counter−Demon
+Force base...
+[END]
+2: 〉 A bizarre−looking man entered the room.
+[END]
+3: (Jonathan) [7a 3][13 0, 206005]Who's there!?
+[END]
+4: (Bizarre man) [7a 146][13 0, 206006]That's my line. You just suddenly
+appeared at our hideout−−
+[->][13 0, 206007]Huh...?
+[END]
+5: (Bizarre man) [7a 146][13 0, 206008]Those are Gauntlets...
+[END]
+6: (Bizarre man) [7a 146][13 0, 206009]Oh, this is perfect. Akira! Hey, Akira!
+[END]
+7: 〉 The bizarre man ran away shouting.
+[END]
+8: (Walter) [7a 4][13 0, 206010]Akira...?
+[END]
+9: (Jonathan) [7a 3][13 0, 206051]Gracious...!
+[END]
+10: (Walter) [7a 4][13 0, 206052]Errr, it seems... unstable...!
+[END]
+11: (Akira) [7a 85][13 0, 206053]Always hilarious to see a country boy
+reacting to the big city for the
+first time.
+[END]
+12: (Akira) [7a 85][13 0, 206054]It's like this everywhere. There's
+always a few gang wars going on.
+[END]
+13: (Walter) [7a 4][13 0, 206055]This is very different from Kiyoharu's
+Tokyo, or ours...
+[END]
+14: (Akira) [7a 85][13 0, 206056]You can do whatever you want here,
+as long as you got the strength to
+back it up. That's the rule in Tokyo.
+[END]
+15: (Walter) [7a 4][13 0, 206057]Nice and simple.
+[END]
+16: (Akira) [7a 85][13 0, 206058]Now's not the time to stand around
+and gawk, though. We're gonna be at
+war ourselves soon.
+[END]
+17: (Jonathan) [7a 3][13 0, 206059]Are you... using us to extend your
+influence?
+[END]
+18: (Akira) [7a 85][13 0, 206060]Don't sweat the details. Together,
+we're gonna be the new kings of Tokyo!
+[->][13 0, 206061]Alright, good boys and bad, it's time
+to get going to Shinjuku.
+[END]
+19: (Smirking man) [7a 85][13 0, 206016]...Who the hell are these guys?
+[END]
+20: (Bizarre man) [7a 146][13 0, 206017]These are the guys I was talking
+about, Akira. See? Their arms,
+look at their arms.
+[END]
+21: (Walter) [7a 4][7b 196612, 65537][13 0, 206018]This man's also called Akira?
+[END]
+22: (Akira) [7a 85][7b 786517, 65537][13 0, 206019]The Intruders came to meet with me...?
+Lady Luck is on my side.
+[END]
+23: (Jonathan) [7a 3][7b 65539, 131073][13 0, 206020]”Intruders”...?
+[END]
+24: (Akira) [7a 85][7b 786517, 65537][7b 65621, 65537][13 0, 206021]Alright, listen. You need to help
+me out.
+[->][13 0, 206022]We're gonna beat Kenji together.
+[END]
+25: (Jonathan) [7a 3][7b 655363, 65537][13 0, 206023]Kenji...?
+[END]
+26: (Akira) [7a 85][7b 65621, 65537][13 0, 206024]Y'know, Kenji? As in, the King of Tokyo?
+[END]
+27: (Akira) [7a 85][7b 196693, 65537][13 0, 206025]Hmm...
+[END]
+28: (Akira) [7a 85][7b 196693, 65537][13 0, 206026]You guys are a little weird.
+[->][13 0, 206027]I wonder...
+[->][13 0, 206028]Lemme ask ya this: where'd you come
+from?
+[END]
+29: 〉 Jonathan whispered to [Flynn]
+and Walter.
+[END]
+30: (Jonathan) [7a 3][7b 786435, 65537][13 0, 206029]We know nothing of this person or
+this world.
+[->][13 0, 206030]Perhaps we should simply say we're
+from Tokyo and see how he reacts?
+[END]
+31: (Walter) [7a 4][7b 655364, 65537][13 0, 206031]I think we should just say we're from
+the Eastern Kingdom of Mikado.
+[END]
+32: (Akira) [7a 85][7b 196693, 65537][13 0, 206032]What are you whispering about?
+[->][13 0, 206033]I asked a simple question. Where'd
+you come from?
+[END]
+33: ”Tokyo.”
+”The Eastern Kingdom of Mikado.”
+[END]
+34: (Walter) [7a 4][7b 458756, 131073][7b 786435, 131073][13 0, 206034]Hoy, what are you saying...!?
+[END]
+35: (Akira) [7a 85][7b 196693, 65537][13 0, 206035]That smells like a lie to me.
+It doesn't sound right...
+[->][13 0, 206036]You don't know enough to be from Tokyo.
+[END]
+36: (Jonathan) [7a 3][7b 131075, 65537][7b 786436, 65537][13 0, 206037]Ah! What are you saying...!?
+[END]
+37: (Akira) [7a 85][7b 196693, 65537][13 0, 206038]The Eastern Kingdom of Mikado...!?
+[->][13 0, 206039]Where's that? Russia? China?
+[END]
+38: (Akira) [7a 85][7b 65621, 65537][13 0, 206040]Ha, I ask like it really matters.
+[END]
+39: (Akira) [7a 85][7b 65621, 65537][13 0, 206041]Look, I don't care who you are.
+Let's work together, okay?
+[END]
+40: (Akira) [7a 85][13 0, 206042]Besides, if Kenji's men find you,
+you're dead.
+[END]
+41: (Jonathan) [7a 3][7b 458755, 131073][7b 196612, 65537][13 0, 206043]What do you mean...?
+[END]
+42: (Akira) [7a 85][7b 786517, 65537][13 0, 206044]It seems Kenji's shaking in his boots
+after what the Prophets of the White
+World told him.
+[->][13 0, 206045]When the Intruders touch the remote,
+Kenji's gonna die.
+[END]
+43: (Walter) [7a 4][7b 786436, 131073][7b 458755, 131073][13 0, 206046]Remote...?
+[END]
+44: (Akira) [7a 85][7b 786517, 65537][13 0, 206047]You're interested in the remote, huh?
+[->][13 0, 206048]Well, I'll fill you in as we go.
+[END]
+45: (Akira) [7a 85][7b 65621, 65537][13 0, 206049]See, I think you guys are the
+Intruders from the prophecy.
+[END]
+46: (Akira) [7a 85][7b 65621, 65537][13 0, 206050]If you join me, I won't let him kill
+ya. Let me know if you're interested.
+[END]
+47: (Demonoid on guard) [7a 103][13 0, 206011]...Nuh−uh. Keep away from the elevator.
+[END]
+48: (Demonoid on guard) [7a 103][13 0, 206012]Akira told me to not let anyone in or
+out right now.
+[END]
+49: (Akira) [7a 85][13 0, 206013]...And now Akira is telling you to
+let them use this elevator whenever
+they want.
+[->][13 0, 206014]These guys are my special guests.
+[END]
+50: (Demonoid on guard) [7a 103][13 0, 206015]Oh? Oh...! Does that mean that the
+Intruders are finally here!?
+[END]

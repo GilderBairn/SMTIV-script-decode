@@ -1,0 +1,426 @@
+0: Dummy
+[END]
+1: [71 1]I am the Lord's chariot. I obey only
+His will.
+[->]To your demands that I follow you,
+I shall respond with holy fire.
+[->][END]
+2: NOT USED
+[END]
+3: [71 1]NOT USED
+[->][END]
+4: NOT USED
+[END]
+5: [71 1]Think upon what it means for the Lord's
+chariot to intervene in matters...
+[->]I have not come to bring a peaceful
+cessation of hostilities. I am here to
+annihilate you for the glory of the Lord.
+[->][END]
+6: [71 1]NOT USED
+[->][END]
+7: NOT USED
+[END]
+8: [71 1]NOT USED
+[->][END]
+9: NOT USED
+[END]
+10: [71 1]NOT USED
+[->][END]
+11: NOT USED
+[END]
+12: [71 1]NOT USED
+[->][END]
+13: [71 1]NOT USED
+[->][END]
+14: [71 1]NOT USED
+[->][END]
+15: [71 1]NOT USED
+[->][END]
+16: [71 1]NOT USED
+[->][END]
+17: [71 1]NOT USED
+[->][END]
+18: [71 1]NOT USED
+[->][END]
+19: [71 1]NOT USED
+[->][END]
+20: [71 1]NOT USED
+[->][END]
+21: [71 1]NOT USED
+[->][END]
+22: [71 1]NOT USED
+[->][END]
+23: NOT USED
+[END]
+24: NOT USED
+[END]
+25: [71 1]NOT USED
+[->][END]
+26: NOT USED
+[END]
+27: [71 1]NOT USED
+[->][END]
+28: NOT USED
+[END]
+29: [71 1]NOT USED
+[->][END]
+30: NOT USED
+[END]
+31: NOT USED
+[END]
+32: [71 1]NOT USED
+[->][END]
+33: NOT USED
+[END]
+34: [71 1]Do you wish to hear my words... the holy
+teachings of the Lord?
+[->]Then a suitable tithe must be paid...
+[->][END]
+35: NOT USED
+[END]
+36: [71 1]Then heed me well. Whether my words
+sway you or not depends on you...
+[->][END]
+37: NOT USED
+[END]
+38: [71 1]Ah...! So you will finally heed me!
+[->]Then let us convey to you the Lord's
+holy scripture!
+[->][END]
+39: NOT USED
+[END]
+40: [71 1]Ah, great are the Lord's teachings...
+If only I could continue to recite them
+for eternity...
+[->][END]
+41: NOT USED
+[END]
+42: [71 1]The Lord commands us to be merciful.
+Are you worthy of our love...?
+[->][END]
+43: NOT USED
+[END]
+44: [71 1]I deem you worthy, for the moment, of
+our mercy. We bestow upon you the charity
+of easing your pain...
+[->][END]
+45: NOT USED
+[END]
+46: [71 1]Sleep... gives peace... equally to all...
+[->]May you be... at peace as well...
+Such is the Lord's mercy...
+[->][END]
+47: NOT USED
+[END]
+48: NOT USED
+[END]
+49: [71 1]Let the Lord's love continue to wash
+over you...
+[->][END]
+50: NOT USED
+[END]
+51: [71 1]You would ask me to shower you with
+money...? Are your desires truly
+boundless?
+[->][END]
+52: NOT USED
+[END]
+53: [71 1]Wallower in Filth and sin, await your
+day of reckoning...
+[->][END]
+54: NOT USED
+[END]
+55: [71 1]The wages of your sin will be cleansing
+fire from God's chariot.
+[->]Burn in the holy light as you repent
+of your wickedness...!
+[->][END]
+56: NOT USED
+[END]
+57: [71 1]Ahhhh...!
+[->][END]
+58: NOT USED
+[END]
+59: [71 1]Do you believe that such blasphemy can
+be forgiven in the Lord's sight...?
+[->][END]
+60: NOT USED
+[END]
+61: [71 1]...Stay, I will give you money. And now?
+Has this brought you happiness?
+[->]Hold fast to your money with clenched
+fists as these pitiful desires blacken
+your soul.
+[->][END]
+62: NOT USED
+[END]
+63: [71 1]I cannot witness any more acts of
+barbarism on the Lord's behalf...!
+[->][END]
+64: NOT USED
+[END]
+65: [71 1]You have robbed me of my freedom to move.
+What evil do you have in store...!?
+[->][END]
+66: NOT USED
+[END]
+67: [71 1]The Lord has permitted me to carry out
+an honest exchange. Are you willing to
+deal fairly...?
+[->][END]
+68: NOT USED
+[END]
+69: [71 1]Very well, then let us make an exchange.
+This is worthy of you, I think.
+[->][END]
+70: NOT USED
+[END]
+71: [71 1]The Lord has permitted me to carry out
+an honest exchange. And moreover...
+[->]He has bade me to be generous in what
+I distribute...!
+[->][END]
+72: NOT USED
+[END]
+73: [71 1]I shall give you this as well, for an
+even more favorable exchange.
+[->][END]
+74: NOT USED
+[END]
+75: [71 1]...Time is of the essence.
+[->]The price is [Color:0x1][Amount 1] Macca.[Color:0x0]
+Will you tithe that much?
+[->][END]
+76: NOT USED
+[END]
+77: [71 1]Your [Color:0x1][Item 1][Color:0x0] must be offered
+unto the Lord.
+[->][END]
+78: NOT USED
+[END]
+79: [71 1]You must make an offering of
+[Color:0x1][Amount 1] Macca[Color:0x0] to me.
+[->][END]
+80: NOT USED
+[END]
+81: [71 1]You must make an offering of
+[Color:0x1]a little[Color:0x0] of your [Color:0x1]stamina[Color:0x0] to me.
+[->][END]
+82: NOT USED
+[END]
+83: [71 1]You must make an offering of
+[Color:0x1]some[Color:0x0] of your [Color:0x1]stamina[Color:0x0] to me.
+[->][END]
+84: NOT USED
+[END]
+85: [71 1]You must make an offering of
+[Color:0x1]a lot[Color:0x0] of your [Color:0x1]stamina[Color:0x0] to me.
+[->][END]
+86: NOT USED
+[END]
+87: [71 1]You must make an offering of
+[Color:0x1]a severe amount[Color:0x0] of your [Color:0x1]stamina[Color:0x0] to me.
+[->][END]
+88: NOT USED
+[END]
+89: [71 1]You must make an offering of
+[Color:0x1]a little[Color:0x0] of your [Color:0x1]spirit[Color:0x0] to me.
+[->][END]
+90: NOT USED
+[END]
+91: [71 1]You must make an offering of
+[Color:0x1]some[Color:0x0] of your [Color:0x1]spirit[Color:0x0] to me.
+[->][END]
+92: NOT USED
+[END]
+93: [71 1]You must make an offering of
+[Color:0x1]a lot[Color:0x0] of your [Color:0x1]spirit[Color:0x0] to me.
+[->][END]
+94: NOT USED
+[END]
+95: [71 1]You must make an offering of
+[Color:0x1]a severe amount[Color:0x0] of your [Color:0x1]spirit[Color:0x0] to me.
+[->][END]
+96: NOT USED
+[END]
+97: [71 1]Your demon there... You must offer
+[Color:0x1]the life of [Demon name 2][Color:0x0] to me.
+[->][END]
+98: NOT USED
+[END]
+99: [71 1]...You must make an offering of [Color:0x1]that[Color:0x0]
+to me.
+[->][END]
+100: NOT USED
+[END]
+101: [71 1]What would you suppose I would ask for?
+[->][END]
+102: NOT USED
+[END]
+103: [71 1]Yes... That is correct.
+[->][END]
+104: NOT USED
+[END]
+105: [71 1]Then you fail to understand...
+[->][END]
+106: NOT USED
+[END]
+107: [71 1]NOT USED
+[->][END]
+108: NOT USED
+[END]
+109: NOT USED
+[->][END]
+110: [71 1]NOT USED
+[->][END]
+111: NOT USED
+[END]
+112: NOT USED
+[->][END]
+113: NOT USED
+[->][END]
+114: [71 1]NOT USED
+[->][END]
+115: NOT USED
+[END]
+116: NOT USED
+[->][END]
+117: NOT USED
+[->][END]
+118: [71 1]NOT USED
+[->][END]
+119: NOT USED
+[END]
+120: [71 1]Hm, that will be sufficient.
+[->][END]
+121: NOT USED
+[END]
+122: [71 1]Ah, this is truly impressive...!
+This will be sufficient.
+[->][END]
+123: NOT USED
+[END]
+124: [71 1]You... dare deny His light...?
+[->][END]
+125: NOT USED
+[END]
+126: [71 1]To think you would be so miserly...
+You may be sure that the Lord mourns
+for your hardened heart.
+[->]You shall be punished...!
+[->][END]
+127: NOT USED
+[END]
+128: [71 1]That is quite enough. My heart is no
+longer in this.
+[->][END]
+129: NOT USED
+[END]
+130: [71 1]To think that you would try and cheat
+me... You may be sure that the Lord
+mourns to see such wickedness.
+[->]You must be punished...!
+[->][END]
+131: NOT USED
+[END]
+132: [71 1]So you are among the poor...
+[->][END]
+133: NOT USED
+[END]
+134: [71 1]'Tis quite lamentable that you have no
+Life Stones.
+[->][END]
+135: NOT USED
+[END]
+136: [71 1]The virtue of modesty compels me to
+accept this as sufficient...
+[->][END]
+137: NOT USED
+[END]
+138: [71 1]So reluctant to share... You may be
+sure that the Lord mourns to see your
+heart so hardened.
+[->]You must be punished...!
+[->][END]
+139: NOT USED
+[END]
+140: [71 1]Such determined, persistent denial...
+You must have undertaken a dark and
+unyielding vow.
+[->]I shall now honor that vow.
+[->][END]
+141: NOT USED
+[END]
+142: [71 1]Your eagerness to meet any demand is
+the product of a debased, blind faith.
+[->]Begone from me! This negotiation is
+ended.
+[->][END]
+143: NOT USED
+[END]
+144: [71 1]You stood against me though you were
+utterly bereft...?
+[->]Your will is dark and strong...!
+[->][END]
+145: NOT USED
+[END]
+146: [71 1]NOT USED
+[->][END]
+147: NOT USED
+[END]
+148: [71 1]NOT USED
+[->][END]
+149: NOT USED
+[END]
+150: [71 1]NOT USED
+[->][END]
+151: NOT USED
+[END]
+152: [71 1]NOT USED
+[->][END]
+153: NOT USED
+[END]
+154: [71 1]NOT USED
+[->][END]
+155: NOT USED
+[END]
+156: [71 1]NOT USED
+[->][END]
+157: NOT USED
+[END]
+158: [71 1]NOT USED
+[->][END]
+159: NOT USED
+[END]
+160: [71 1]NOT USED
+[->][END]
+161: NOT USED
+[END]
+162: [71 1]You repeat the same thing over and over.
+Even I tire in the end...
+[->][END]
+163: NOT USED
+[END]
+164: [71 1]NOT USED
+[->][END]
+165: [71 1]NOT USED
+[->][END]
+166: NOT USED
+[END]
+167: [71 1]NOT USED
+[->][END]
+168: NOT USED
+[END]
+169: [71 1]NOT USED
+[->][END]
+170: NOT USED
+[END]
+171: [71 1]NOT USED
+[->][END]
+172: [71 1]NOT USED
+[->][END]
+173: [71 1]NOT USED
+[->][END]
+174: [71 1]NOT USED
+[->][END]

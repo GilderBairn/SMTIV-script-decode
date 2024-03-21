@@ -1,0 +1,72 @@
+0: [71 1]A new skill, ho!
+Now I'm the hero, ho!
+[->][END]
+1: [71 1]I got a new skill, ho! Stay tuned
+for my further adventures, ho!
+[->][END]
+2: [71 1]Yet another skill, ho!
+Looks like I'm the MVP, ho!
+[->][END]
+3: [71 1]I'm hee−ven stronger now, ho!
+If this keeps up, the next chapter
+will be about me!
+[->][END]
+4: [71 1]I can't hold any more skills, ho.
+I need to toss one of them, ho!
+[->][END]
+5: [71 1]Hee ho ho! I'll change [Color:0x5][Skill 1][Color:0x0]
+into [Color:0x5][Skill 2],[Color:0x0] ho!
+[->][END]
+6: [71 1]Hee ho ho! I'll change [Color:0x5][Skill 1][Color:0x0]
+into a better hee−hoing skill, ho!
+[->][END]
+7: [71 1]Away we ho!
+[->][END]
+8: [71 1]I'll let you off this time, ho.
+[->][END]
+9: [71 1]It became [Color:0x5][Skill 1]![Color:0x0]
+Wonderho!
+[->][END]
+10: [71 1]Here comes the transformation you've
+all been waiting for, ho! Watch,
+and be amazed, hee ho!
+[->][END]
+11: [71 1]Heeeeeeeeeeeeeee hooooooooo!
+[->][END]
+12: [71 1]I wanted to show off some stock
+footage for my transformation, ho...
+[->][END]
+13: [71 1]Transformation message (provisional)
+[->][END]
+14: [71 1]I feel like I'm gonna [Color:0x5]transform,[Color:0x0]
+ho!
+[->][END]
+15: [71 1][Color:0x5][Item 1],[Color:0x0] ho!
+It's a hee−ho present, ho!
+[->][END]
+16: [71 1][Color:0x5][Item 1],[Color:0x0] ho!
+This is from me, ho!
+[->][END]
+17: [71 1]Here, ho! [Color:0x5][Item 1]![Color:0x0] It's a special one, ho.
+[->][END]
+18: [71 1]Hee ho ho ho! I'll teach you the
+power of demons, ho!
+[->][END]
+19: [71 1]I still have more to teach you, ho!
+[->][END]
+20: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1]![Color:0x0]
+Nice to meet you, ho!
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

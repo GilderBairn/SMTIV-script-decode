@@ -1,0 +1,9 @@
+0: (Squinting man) [7a 59]Ah, it's you.
+[->]Seems you managed to kill Peallaidh.
+Everyone's been buzzing about it here.
+[END]
+1: (Squiting man) [7a 59]Oh, right, the Counter−Demon Force
+Base...
+[->]It's in Nagata−cho. Just cross the
+river and head west.
+[END]

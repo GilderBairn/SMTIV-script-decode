@@ -1,0 +1,72 @@
+0: [71 1]Death will howl once more...
+[->][END]
+1: [71 1]Let death come bearing a new power...
+[->][END]
+2: [71 1]How many lives can be taken with this
+skill, I wonder...
+[->][END]
+3: [71 1]Death predominates... May the world
+tremble at its steps.
+[->][END]
+4: [71 1]A skill has been born and now overflows
+with life. Another must be laid to rest.
+[->][END]
+5: [71 1]I shall lay to rest [Color:0x5][Skill 1][Color:0x0]
+and let [Color:0x5][Skill 2][Color:0x0] be born...
+[->][END]
+6: [71 1]I shall lay to rest [Color:0x5][Skill 1][Color:0x0]
+and give birth to a deadly skill...
+[->][END]
+7: [71 1]Die and be born...
+[->][END]
+8: [71 1]I shall leave this moment be...
+[->][END]
+9: [71 1][Color:0x5][Skill 1]...[Color:0x0]
+A skill born after death...
+[->][END]
+10: [71 1](仮)変異選択メッセージ
+[->][END]
+11: [71 1](仮)変異OKメッセージ
+[->][END]
+12: [71 1](仮)変異NGメッセージ
+[->][END]
+13: [71 1](仮)変異完了メッセージ
+[->][END]
+14: [71 1](仮)変異レベル未達メッセージ
+[->][END]
+15: [71 1]Take this [Color:0x5][Item 1]...[Color:0x0]
+A gift of death from a Fiend...
+[->][END]
+16: [71 1]This [Color:0x5][Item 1][Color:0x0] shall
+keep you clinging to life...
+[->][END]
+17: [71 1]Samurai who lives on the border of
+life and death... I grant you this
+[Color:0x5][Item 1].[Color:0x0]
+[->][END]
+18: [71 1]The whisper of a Fiend that spins
+death... Accept it into yourself and
+let it become power...
+[->][END]
+19: [71 1]Will you be going, stained with death
+as you are...?
+[->][END]
+20: [71 1]When the trumpets sound the end of days,
+the stars that fall shall be a prelude
+to death.
+[->]I am [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+Samurai, let us meet death gladly.
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

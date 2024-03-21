@@ -1,0 +1,69 @@
+0: [71 1]Bear witness: this is power.
+[->][END]
+1: [71 1]Observe this new skill begat from
+chaos.
+[->][END]
+2: [71 1]New power, gather within this hand...
+[->][END]
+3: [71 1]Skill completion message (provisional)
+[->][END]
+4: [71 1]It seemeth my cup of skills runneth
+over. Which shall disappear into the
+darkness of chaos...?
+[->][END]
+5: [71 1]I shall crush [Color:0x5][Skill 1][Color:0x0]
+in this hand and change it into
+[Color:0x5][Skill 2]...[Color:0x0]
+[->][END]
+6: [71 1]Skill change (random) message (provisional)
+[->][END]
+7: [71 1]Crumble... and be born anew!
+[->][END]
+8: [71 1]'Tis important to let this live?
+[->][END]
+9: [71 1]Skill change done message (provisional)
+[->][END]
+10: [71 1]Transformation selection message (provisional)
+[->][END]
+11: [71 1]Transformation OK message (provisional)
+[->][END]
+12: [71 1]Transformation cancel message (provisional)
+[->][END]
+13: [71 1]Transformation complete message (provisional)
+[->][END]
+14: [71 1]Transformation omen message (provisional)
+[->][END]
+15: [71 1]With this [Color:0x5][Item 1],[Color:0x0]
+bring forth more chaos.
+[->][END]
+16: [71 1]Thou hath done will in wielding thy
+power. I give thee this
+[Color:0x5][Item 1].[Color:0x0]
+[->][END]
+17: [71 1]Take this [Color:0x5][Item 1]...[Color:0x0]
+Thou hath won it with thine own
+power.
+[->][END]
+18: [71 1]Hear the voices that thunder forth
+from the abyss of chaos...
+[->][END]
+19: [71 1]Doth thou hear the beckoning chaos?
+[->][END]
+20: [71 1]Be thou the one who calleth me?
+Son of man, desiring infinite chaos...
+[->]My name is [Color:0x5][Demon race 1] [Demon name 1].[Color:0x0]
+Let us bring forth a grand change...
+[->][END]
+21: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+22: Allow the demon to transform
+Don't do it
+[->][END]
+23: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+24: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]

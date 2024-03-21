@@ -1,0 +1,15 @@
+0: We were able to find the body of my husband
+Osiris, but the evil [Color:0x5]Seth[Color:0x0] was waiting for me
+to do so. Now he has dismembered Osiris' body
+and scattered the pieces [Color:0x5]across Tokyo.[Color:0x0] Please
+[Color:0x5]recover the pieces[Color:0x0] and help me resurrect him.
+I will be waiting [Color:0x5]at the base of Tokyo Tower.[Color:0x0]
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

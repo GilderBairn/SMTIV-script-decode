@@ -1,0 +1,106 @@
+0: (Earthy man) [7a 59][13 0, 304901]I keep losing to you, so I'm pullin'
+out all the stops this time with the
+most powerful horde I got.
+[->][13 0, 304903]I'll freeze you jokers and sink you
+to the bottom of the Tokyo Bay!
+[END]
+1: (Guard−like man) [7a 60][13 0, 304904]You keep beating me, so I'm playing
+for keeps with my most powerful horde.
+[->][13 0, 304906]I'll freeze you solid and sink you to
+the bottom of the Tokyo Bay!
+[END]
+2: (Host−like man) [7a 120][13 0, 304907]I keep losing, so I'm going all out
+this time. Say hello to the strongest
+horde I could put together.
+[->][13 0, 304909]They'll freeze you and sink you to
+the bottom of the Tokyo Bay!
+[END]
+3: (Sloppy man) [7a 63][13 0, 304910]You keep beating me, so I'm through
+pulling my punches. Get ready to meet
+the most powerful horde I got!
+[->][13 0, 304912]I'll freeze all of you until you sink
+to the bottom of the Tokyo Bay!
+[END]
+4: (Heavily made−up girl) [7a 123][13 0, 304913]So I'm gonna go for broke this time?
+And just like, let loose to the max
+with a totally strong horde!
+[->][13 0, 304915]You'll be like, frozen and stuck at
+the bottom of the Tokyo Bay.
+[END]
+5: (Anachronistic man) [7a 29][13 0, 304916]I have grappled with thee so long to
+no avail, but ah, now thou shalt face
+the most powerful of mine hordes!
+[->][13 0, 304918]I shall make of thee a glacier and
+send thee to the bottom of Tokyo Bay!
+[END]
+6: (Businesslike man) [7a 47][13 0, 304919]Time and time again, I've lost to you,
+so this time I'm pulling out all the
+stops with a powerful demon horde.
+[->][13 0, 304921]They'll leave you encased in a block
+of ice at the bottom of the Tokyo Bay.
+[END]
+7: (Intuitive man) [7a 118][13 0, 304922]I don't see myself winning this way.
+So I'm bringing out the big guns,
+with the most powerful horde I've got.
+[->][13 0, 304924]You have a dismal future, frozen at
+the bottom of Tokyo Bay!
+[END]
+500: (Earthy man) [7a 59][13 0, 301224]It ain't gonna be like this next time!
+You better remember that!
+[END]
+501: (Guard−like man) [7a 60][13 0, 301225]You're not getting off this easy
+next time. Remember that!
+[END]
+502: (Host−like man) [7a 120][13 0, 301226]You'll be singing a different tune
+next time! Just remember that!
+[END]
+503: (Sloppy man) [7a 63][13 0, 301227]It ain't gonna go like this next time!
+You better remember that!
+[END]
+504: (Heavily made−up girl) [7a 123][13 0, 301228]So like, I hope you know it's not
+gonna go so crappy for me next time
+and stuff!
+[END]
+505: (Anachronistic man) [7a 29][13 0, 301229]'Twill not go so miserably for me
+our next go−round! Remember that!
+[END]
+506: (Businesslike man) [7a 47][13 0, 301230]It won't go this way next time.
+You can bank on that.
+[END]
+507: (Intuitive man) [7a 118][13 0, 301231]I don't see it going this way the
+next time! You remember that!
+[END]
+600: (Earthy man) [7a 59][13 0, 305041]Damn, you took all the Terminals.
+[->][13 0, 305042]Heh, you got me good! Man, Samurai
+are something else!
+[END]
+601: (Guard−like man) [7a 60][13 0, 305043]Well, you've taken all the Terminals
+now...
+[->][13 0, 305044]You win. I gotta say, Samurai are
+pretty impressive.
+[END]
+602: (Host−like man) [7a 120][13 0, 305045]So all the Terminals are yours now.
+[->][13 0, 305046]All right, I accept defeat. Samurai
+are pretty impressive, it seems.
+[END]
+603: (Sloppy man) [7a 63][13 0, 305047]You got all the Terminals now...
+[->][13 0, 305048]Yep, time to pack it in. Guess
+there ain't no beating a Samurai!
+[END]
+604: (Heavily made−up girl) [7a 123][13 0, 305049]Aww, is that like, all the Terminals?
+[->][13 0, 305050]So I guess I lose? Was there like,
+any way I could have beaten a Samurai?
+[END]
+605: (Anachronistic man) [7a 29][13 0, 305051]'Twould seem that thou hath captured
+all of the Terminals.
+[->][13 0, 305052]I concede defeat. Thou Samurai art
+truly impressive.
+[END]
+606: (Businesslike man) [7a 47][13 0, 305053]All the Terminals are yours now.
+[->][13 0, 305054]Very well, you win. Samurai are truly
+fearsome opponents.
+[END]
+607: (Intuitive man) [7a 118][13 0, 305055]You've taken all the Terminals now...
+[->][13 0, 305056]Alright, I admit defeat! I should've
+seen this coming against a Samurai!
+[END]

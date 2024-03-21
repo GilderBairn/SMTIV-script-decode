@@ -1,0 +1,66 @@
+0: 〉 There is a demon standing at the
+back of the room...
+[->]〉 The demon seems wary of
+[Flynn]...
+[->]〉 [Flynn] talks to the demon and
+explains the situation.
+[END]
+1: (Mokoi) [7a 65062][13 1, 495805]Pyro Jack's looking... for me?
+[->]I see... Guess they're worrying
+about me.
+[->]It's true. I used to help out weaker
+demons that were being attacked by
+other demons and humans.
+[->]I got them to a safe place called
+Naraku. Well, safer, anyway.
+[->]But, you know what? If the end, a
+Mokoi's still just a Mokoi. I was
+doing pretty good in the beginning...
+[->]But I didn't stand a chance against
+the strong demons in Shibuya. It
+took everything I had to survive.
+[->]I can't go back now. There's no way.
+[->]I never meant to, but I guess I've
+become something of a hero to them.
+[->]If I went back now, I wouldn't be a
+hero anymore.
+[END]
+2: ”You're just a Mokoi.”
+”Your friends miss you.”
+”You'll always be their hero.”
+[END]
+3: (Mokoi) [7a 65062][13 1, 495805]I know you're just repeating what
+I said, but it really bothers me
+to hear a human like you say that.
+[->]Hey, I might not look like it, but
+where I'm from I was the baddest evil
+spirit around. Don't rile me up!
+[->]......
+[->][13 1, 495800]Heh. I see what you're trying to
+do. Thanks, human.
+[->]I guess it's about time I left this
+place, huh?
+[END]
+4: (Mokoi) [7a 65062][13 1, 495805]Miss me? You think they still miss
+someone like me? I gave up on them!
+[->]......
+[->][13 1, 495800]I see... I guess it's more important
+to be alive as a friend than to be
+remembered as a hero...
+[END]
+5: (Mokoi) [7a 65062][13 1, 495805]You say that...
+[->]...but I didn't really do much.
+I'm not anybody great.
+[->]......
+[->][13 1, 495800]Oh, man. What was I getting all hung
+up over?
+[->]Thanks, human. I think I see what's
+really important now.
+[END]
+6: (Mokoi) [7a 65062]Okay, I get it.
+Night Mokoi's going home!
+[END]
+7: 〉 The Mokoi leaves...
+[END]
+900: 〉 There is nobody here...
+[END]

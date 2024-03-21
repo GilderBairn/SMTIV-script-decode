@@ -1,0 +1,18 @@
+0: [71 1]Yaso Magatsuhi...!
+[->][END]
+1: [71 1]Yaso Magatsuhi...!
+[->][END]
+2: [71 1]Yaso Magatsuhi...!
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]Yaso Magatsuhi...!
+[->][END]
+7: [71 1]Yaso Magatsuhi...!
+[->][END]
+8: [71 1]Yaso Magatsuhi...!
+[->][END]

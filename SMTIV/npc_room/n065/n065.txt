@@ -1,0 +1,11 @@
+0: (Ring of Gaea member) [7a 54][13 1, 404431]That demon Tayama had here...
+”Omoikane,” right?
+[->]It was a difficult battle, but thanks
+to help from the child of carnage,
+we were able to slay it.
+[END]
+1: (元ガイア教団の女) [7a 54][13 1, 404431]ワルターという[同胞/どうほう]を[得/え]た[我々/われわれ]にとって
+[霊的/れいてき][国防兵器/こくぼうへいき]など[敵/てき]ではない…ッ
+[->][東京/とうきょう]を[隷属/れいぞく]せしめた[阿修羅会/あしゅらかい]の[最期/さいご]…
+[華々/はなばな]しく[飾/かざ]ってやろう
+[END]

@@ -1,0 +1,102 @@
+0: 〉 [Flynn] leaves his room to head
+for Aquila Statue Plaza.
+[END]
+1: 〉 Many Samurai are gathered in the plaza.
+[END]
+2: (Isabeau) [7a 5][7b 65541, 196609][13 0, 59001][Flynn]... You could have stayed
+home to rest, you know...
+[END]
+3: (Jonathan) [7a 3][7b 196611, 65537][13 0, 59002]After what happened, I can hardly
+imagine what you must be thinking.
+[END]
+4: (Walter) [7a 4][7b 65540, 65537][13 0, 59003]It's because of the shock he's had
+that it's better to move around than
+stay cooped up in his room.
+[END]
+5: (Hope) [7a 8][7b 65544, 65537][13 0, 59004]Quiet down, everyone.
+[END]
+6: (Hope) [7a 8][7b 65544, 65537][13 0, 59005]I now call this emergency meeting to
+order that we might−−
+[END]
+7: (Monk) [7a 10][7b 65546, 65537][13 0, 59006]Please, Hope. This is an important
+matter.
+[->][13 0, 59007]Since I am the Abbot of this Monastery,
+I shall make the announcement.
+[END]
+8: (Hope) [7a 8][7b 458760, 65537][13 0, 59008]......
+[END]
+9: (Hugo) [7a 10][7b 65546, 65537][13 0, 59009]Through all of your diligence in
+what transpired at Kiccigiorgi, a
+startling truth has come to light.
+[END]
+10: (Hugo) [7a 10][7b 786442, 65537][13 0, 59012]For we who are blessed with God's love
+to degenerate into demons is a grave
+situation.
+[END]
+11: (Hugo) [7a 10][7b 786442, 65537][13 0, 59013]The books she scatters like seed are
+written in the same mystic script
+as that seen in the Gauntlets.
+[->][13 0, 59014]We of the Monastery have reason to
+suspect that the Black Samurai is in
+league with the Unclean Ones.
+[END]
+12: (Walter) [7a 4][7b 655364, 65537][7b 786435, 131073][13 0, 59015]Hoy, Jonathan. Who are these
+Unclean Ones?
+[END]
+13: (Jonathan) [7a 3][13 0, 59016]You should at least study our creation
+lore, Walter. They are the people said
+to dwell in the underworld.
+[END]
+14: (Hugo) [7a 10][7b 786442, 65537][13 0, 59017]That is why I charge you warriors with
+[Color:0x5]capturing the Black Samurai[Color:0x0] who seeks
+to undermine our kingdom.
+[->][13 0, 59018]For this, you must investigate the
+Unclean Ones' country, which is said
+to lie in the depths of Naraku.
+[END]
+15: (Hugo) [7a 10][7b 262154, 65537][13 0, 59019]This is a royal decree from King
+Ahazuya of Mikado himself.
+[END]
+16: (Master Samurai) [13 0, 59020]But... entering the depths of Naraku
+is against the Samurai code...
+[END]
+17: (Master Samurai) [13 0, 59021]And if we do venture forth to the
+Unclean Ones' country, there is that
+legendary demon to consider...
+[END]
+18: (Master Samurai) [13 0, 59022]This is tyranny from the Monastery!
+Does this violation of the code not
+give our Commander pause!?
+[END]
+19: (Hope) [7a 8][7b 458760, 65537][13 0, 59023]Ngh...
+[->][13 0, 59024]Quiet down, everyone.
+[END]
+20: (Hugo) [7a 10][7b 262154, 65537][13 0, 59025]The Monastery is ready to provide a
+special reward for this mission.
+[->][13 0, 59026]I'll yield the floor to Gabby for
+the particulars...
+[END]
+21: (Monastery woman) [7a 11][7b 65547, 65537][13 0, 59027]My name is Gabby.
+[END]
+22: (Gabby) [7a 11][7b 65547, 65537][13 0, 59028]A request has been established at
+K's Tavern regarding the capture of
+the Black Samurai.
+[->][13 0, 59029]Refer to the blackboard K keeps there
+for the full details.
+[END]
+23: (Hugo) [7a 10][7b 786442, 65537][13 0, 59030]The Black Samurai's actions are a
+sign of contempt for the people of
+our kingdom.
+[->][13 0, 59031]I say unto all of you: capture the
+Black Samurai for the sake of our
+people. That is all.
+[END]
+24: (Hope) [7a 8][7b 458760, 65537][13 0, 59032]So concludes this emergency meeting.
+May you all go your separate ways and
+promptly depart on your mission.
+[END]
+109: (Hugo) [7a 10][7b 786442, 65537][13 0, 59010]The Black Samurai, who has lately been
+on the lips of the public...
+[->][13 0, 59011]Those Casualries who have read her
+books are becoming demons.
+[END]

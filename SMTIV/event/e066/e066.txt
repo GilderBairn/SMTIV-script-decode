@@ -1,0 +1,45 @@
+0: (Walter) [7a 4][13 0, 66004]Hoy, that's no starlit sky. I can
+faintly make out bedrock on the
+ceiling...
+[END]
+1: (Isabeau) [7a 5][13 0, 66005]Ah, that must be the magic of the
+Unclean Ones. I've read about their
+power to light buildings...
+[END]
+2: (Jonathan) [7a 3][13 0, 66006]Then... that is the Unclean Ones'
+country. Quite a startling sight.
+[END]
+3: (Jonathan) [7a 3][13 0, 66008]This metal door here... Could it be
+the entrance to this hall?
+[->][13 0, 66009]But I don't see a knob... How is one
+meant to open it?
+[END]
+5: (Burroughs) [7a 2][13 0, 66010]I can field this one. It's a transport
+device called an elevator.
+[->][13 0, 66011]It lets people go easily up or down
+between each floor.
+[->][13 1, 400062]Activating scan mode...
+[END]
+6: (Burroughs) [7a 2][13 0, 66012]The electricity is definitely on,
+so you should be able to ride it
+by pushing the button near the door.
+[END]
+7: (Walter) [7a 4][7b 262148, 65537][13 0, 66013]Illuminating buildings and vertical
+transports... The Unclean Ones have
+some very interesting magic.
+[END]
+8: 〉 Walter pressed the elevator switch.
+[->]〉 [Flynn] and his fellow Samurai
+headed for the lower floors via elevator.
+[END]
+9: 〉 [Flynn] and his fellow Samurai
+headed for the lower floors via
+the stairs.
+[END]
+102: (Jonathan) [7a 3][7b 393219, 65537][13 0, 66007]Hm?
+[END]
+202: 〉 Jonathan stared at the corner of
+the hall.
+[END]
+900: 解析モードが入ります
+[END]

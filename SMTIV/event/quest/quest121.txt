@@ -1,0 +1,15 @@
+0: I would like to get my hands on an Enigma
+[Color:0x5][Demon name 1].[Color:0x0] I've heard a song that says one
+of these demons will make a woman beautiful
+as long as you keep its toilet clean. I'm
+intrigued... but I can't get the demon fusion
+right. Can you get me one of these demons?
+[END]
+1: Delivery Quest description template second time
+Clear condition:
+Bring [Amount 1] [Item 1]s
+Bring [Amount 2] [Item 2]
+Bring [Amount 3] [Item 3]
+Reward:
+[Amount 4] [Item 4]
+[END]

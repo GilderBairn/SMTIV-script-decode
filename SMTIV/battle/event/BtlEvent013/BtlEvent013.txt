@@ -1,0 +1,9 @@
+0: (Peallaidh) [7a 0][13 0, 301301]Hey bro, didja know? Ghosts show up
+at this here Shinobazu Pond.
+[->][13 0, 301302]These guys say they wanna freak out
+humans, so I summoned tons of 'em.
+[->][13 0, 301303]Have a nice trip to hell, with a
+scream dyin' in your trash−choked lungs.
+[END]
+1: 〉 Peallaidh releases a horde of demons!
+[END]

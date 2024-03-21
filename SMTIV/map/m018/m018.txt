@@ -1,0 +1,120 @@
+0: 〉 The door won't open.
+It seems to be broken.
+[END]
+1: 〉 The door won't open.
+It seems to be broken.
+[END]
+2: 〉 The door won't open.
+It seems to be broken.
+[END]
+3: 〉 There's a button.
+Press it?
+[END]
+4: 〉 There's a button.
+Press it?
+[END]
+5: 〉 The door won't open.
+It seems to be broken.
+[END]
+6: 〉 The door won't open.
+It seems to be broken.
+[END]
+7: 〉 There's a button.
+Press it?
+[END]
+8: 〉 There's a button.
+Press it?
+[END]
+9: 〉 There's a button.
+Press it?
+[END]
+10: 〉 There's a button.
+Press it?
+[END]
+11: 〉 There's a button.
+Press it?
+[END]
+12: 〉 The door is locked down.
+[END]
+13: 〉 The door is locked down.
+[END]
+14: 〉 The door is password−locked.
+[END]
+15: 〉 The door is password−locked.
+[END]
+16: 〉 The door won't open.
+It seems to be locked.
+[END]
+17: 〉 The door won't open.
+It seems to be broken.
+[END]
+18: 〉 The door won't open.
+It seems to be broken.
+[END]
+19: 〉 The door won't open.
+It seems to be broken.
+[END]
+20: 〉 The door won't open.
+It seems to be broken.
+[END]
+21: 〉 The door won't open.
+It seems to be broken.
+[END]
+22: 〉 The door won't open.
+It seems to be broken.
+[END]
+23: 〉 The door won't open.
+It seems to be broken.
+[END]
+24: 〉 The door won't open.
+It seems to be broken.
+[END]
+25: Press
+Don't press
+[END]
+26: 〉 The door is now open.
+[END]
+27: 〉 The door won't open.
+It seems to be locked.
+[END]
+28: 〉 There's a switch on the door.
+Press it?
+[END]
+29: Press
+Don't press
+[END]
+30: 〉 The door is now open.
+[END]
+31: 〉 There is no reaction.
+The switch seems to be broken.
+[END]
+32: 〉 The door won't open.
+It seems to be locked.
+[END]
+33: 〉 A key has been left inserted into
+the door. Open the door's lock?
+[END]
+34: Open the lock
+Don't open the lock
+[END]
+35: 〉 The door is now open.
+[END]
+36: 〉 There's an emergency alarm device.
+[END]
+37: 〉 There was a panel hidden behind
+the plate.
+[END]
+38: 〉 There was a panel hidden behind
+the device. Enter the password?
+[END]
+39: Enter
+Don't enter
+[END]
+40: 〉 The security lock on the doors has
+been released.
+[END]
+41: Input error: Incorrect password.
+[END]
+42: 〉 The security lock has already been
+lifted.
+[END]

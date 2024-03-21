@@ -1,0 +1,50 @@
+0: (Burroughs) [7a 2][13 0, 178001]...Be careful, Master [Flynn].
+I'm detecting a demon ahead.
+[->][13 0, 178002]It's that demon that was such a pain
+for you before.
+[END]
+1: (Burroughs) [7a 2][13 0, 178003]Going to get revenge? Or will you
+back out?
+[END]
+2: ”I'll have my satisfaction.”
+”Perhaps not yet...”
+[END]
+3: (Burroughs) [7a 2][13 0, 178004]OK, but be careful, and good luck.
+[END]
+4: (Burroughs) [7a 2][13 0, 178005]OK. It's up to you.
+[END]
+5: 〉 The demon turned into stone...
+[END]
+6: 〉 Hades' Soil began to shine in your hand...
+[END]
+7: (Voice) [7a 2][13 1, 473000]Yaso Magatsuhi...
+[END]
+8: 〉 Writing suddenly appeared on the stone
+in front of you...
+[END]
+9: 〉 Something is written on the stone...
+[->]”Deadly” ”National Defense Deity”
+”Medium” ”Master”
+[END]
+10: (Yaso Magatsuhi) [7a 2][13 1, 473002]Yaso Magatsuhi...
+[END]
+11: 〉 More writing appeared on the stone...
+[END]
+12: 〉 It reads as follows...
+[->]”I am in your care.”
+[END]
+13: 〉 You can now fuse
+[74 133] [42 133]
+[END]
+14: 〉 Yaso Magatsuhi is no longer here...
+[END]
+103: (Voice) [7a 65403][13 1, 473000]Yaso Magatsuhi...
+[END]
+105: 〉 The stone that was once Yaso Magatsuhi
+is sitting in front of you...
+[END]
+106: 〉 A voice emanates from the stone in
+front of you...
+[END]
+203: (Yaso Magatsuhi) [7a 211][13 1, 473003]Yaso Magatsuhi...
+[END]
