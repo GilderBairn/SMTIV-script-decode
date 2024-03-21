@@ -1,9 +1,10 @@
+
 # README (SUPER IMPORTANT)
 ## How do I use this dang thing? What IS it?
 
 These files contain the English localized text script for the 3DS game Shin Megami Tensei IV, translated from its native .mbm format to a human-readable .txt. This is our first draft of the extraction, and improvements may be made in the future. Included as well is the .mbm -> .txt program itself! This will presumably only fully work with SMTIV's .mbm files, but feel free to throw other stuff at the wall and see what sticks.
 
-This is kind of a handmade online library for the game. Each .txt has a corresponding .mbm in the actual ROM. Of course, this doesn't contain any actual game files, just the translations where the .mbms would be. You can dig through it right here, or download files to view in the text editor of your choice. It's just text, so even if you download everything, it'll be pretty tiny. Just pop on over to "Releases" on the right if you're lost.
+This is kind of a handmade online library for the game. Each .txt has a corresponding .mbm in the actual ROM. Of course, this doesn't contain any actual game files, just the translations where the .mbms would be. You can dig through it right here, or download files to view in the text editor of your choice. It's just text, so even if you download everything, it'll be pretty small. If you're still pretty lost, just click the green code button above and click "Download ZIP" for everything.
 
 If you have a (LEGAL!!) extracted ROM of your own to look through, you can compare the .mbm files to the .txt ones here for context purposes. The file structure should be the exact same, and all names are unchanged as well for ease of access. If that's too much searching for your tastes (understandable), a full compiled .txt of ALL text is also here to ctrl + F your way around. Fair warning, it's really big.
 
