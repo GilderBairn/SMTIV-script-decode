@@ -1,5 +1,14 @@
 
 # README (SUPER IMPORTANT)
+## update 06/16/2026
+- Added SMTIV: Apocalypse system text extracted the existing script
+- Added SMTIV (japanese language version) text extracted with original method
+- Updated script to add a 'no transcribe' (-nt) flag if you do not want the script to transcribe the SJIS-encoded mbm files into utf-8
+
+*Please note:*
+- The newly added text files may contain errors and missing characters for message functions that weren't in the original dump - we hope to iron these out soon
+- The japanese language text files will use the Shift-JIS (SJIS) encoding, so you may need to adjust options in a text editor to view them properly
+
 ## How do I use this dang thing? What IS it?
 
 These files contain the English localized text script for the 3DS game Shin Megami Tensei IV, translated from its native .mbm format to a human-readable .txt. This is our first draft of the extraction, and improvements may be made in the future. Included as well is the .mbm -> .txt program itself! This will presumably only fully work with SMTIV's .mbm files, but feel free to throw other stuff at the wall and see what sticks.
