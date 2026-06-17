@@ -1,0 +1,64 @@
+0: [71 1]Ho ho ho... A new skill. Should I use
+this to bring advantage to our battles?
+[->][END]
+1: [71 1][Flynn], I'll let you use a new skill.
+[->][END]
+2: [71 1]I haven't learn'd something new in a
+couple hundred years. Is it my turn yet?
+[->][END]
+3: [71 1]What, it's already full? How stingy...
+[->][END]
+4: [71 1]Now how about we change [Color:0x5][Skill 1][Color:0x0]
+to [Color:0x5][Skill 2][Color:0x0]?
+[->][END]
+5: [71 1]Well, let's try it out.
+[->][END]
+6: [71 1]Ho ho ho... Pretty cautious for a
+young'un, aren'tcha?
+[->][END]
+7: [71 1]Well, I'll show you what I'm like
+when I get serious...
+[->][END]
+8: [71 1]Well time to get younger.
+[->][END]
+9: [71 1]Oh, you want to continue revering me?
+[->][END]
+10: [71 1]How about it...
+Don't ya feeling like revering me more now?
+[->][END]
+11: [71 1]Mm...? The power from demon world is
+flowin' through my body...
+[->][END]
+12: [71 1]Here's a [Color:0x5][Item 1][Color:0x0].
+Takin' care of humans is such fun.
+[->][END]
+13: [71 1][Flynn], don't be slacking.
+Wash yer face with [Color:0x5][Item 1][Color:0x0].
+[->][END]
+14: [71 1]Use this [Color:0x5][Item 1][Color:0x0].
+I'll make ya a full−fledged Hunter.
+[->][END]
+15: [71 1]Alright, let me share a piece of
+knowledge with ya.
+[->][END]
+16: [71 1]Yer face looks better... Looks like
+this is enough.
+[->][END]
+17: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Nice meetin' ya, sonny...
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

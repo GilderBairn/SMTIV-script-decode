@@ -1,0 +1,24 @@
+0: Hiya! Got another test for all you top−tier Hunters 
+out there. This one's goal is to [Color:0x5]collect 70 relics[Color:0x0]. 
+Should be a breeze, right? Surely by now you've 
+got the hang of these tests. So get out there and 
+help make our lives a little safer and a little 
+better, Hunters!
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Congrats on finishing that test! You're getting
+pretty good at this. Random aside, how are you
+spending the Macca you've earned? Using it to help 
+recruit demons is all well and fine, but I would 
+suggest you spend it at shops, too. I know it seems 
+like I'm butting in on your business, but I can't 
+help but share important advice! Anyhow, see you 
+next time around!
+[END]

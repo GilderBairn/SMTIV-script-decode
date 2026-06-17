@@ -1,0 +1,25 @@
+0: [71 1]*chuckle*... Soon we shall be free
+from this universe... 
+[->][END]
+1: [71 1]I will continue fighting until I save you.
+No matter how many times it takes... 
+[->][END]
+2: [71 1]I am the light that shines upon your 
+future... Come, let us find salvation 
+together.
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]My salvation exists for you.
+Here, accept this. 
+[->][END]
+7: [71 1]I prepared a gift for you.
+Will you accept it?
+[->][END]
+8: [71 1]Take this. I pray that you will become
+the guidepost for salvation.
+[->][END]

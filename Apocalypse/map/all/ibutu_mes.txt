@@ -1,0 +1,10 @@
+0: (バロウズ) サーチ開始します
+[END]
+1: 〉 There is no relic reading right now...
+[END]
+3: 〉 Past this point is a demon's domain.
+Be absolutely sure you want to enter. 
+[END]
+4: Head in
+Hang back
+[END]

@@ -1,0 +1,22 @@
+0: There's a place called [Color:0x5]Tennozu Shelter[Color:0x0] where no one 
+lives, east of Roppongi, on the outskirts of Tokyo. 
+It came up as a possible place to temporarily 
+evacuate civilians, but when we went to investigate, 
+a terrible demon got in our way. Please defeat 
+[Color:0x5]Arahabaki[Color:0x0], the demon with impenetrable defenses.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: When I first heard the news, I was like ”How the heck 
+did he defeat that demon!?”, but I knew we could 
+count on you, [Flynn]! Anyway, now we can relax 
+and evacuate everyone. Although... I wonder why this 
+shelter was abandoned. There are plenty of supplies 
+in there...
+[END]

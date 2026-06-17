@@ -1,0 +1,5 @@
+778: Effect: Makes demons easier to scout.
+Effective on low−level demons.
+[END]
+779: Effect: Become weak to all attack types.
+[END]

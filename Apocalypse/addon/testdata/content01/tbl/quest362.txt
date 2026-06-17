@@ -1,0 +1,5 @@
+0: You've received a gift from the outside world.
+Please accept these [Color:0x5]Anarchy Earrings[Color:0x0].
+[END]
+1: Download Quest 1, 2nd time
+[END]

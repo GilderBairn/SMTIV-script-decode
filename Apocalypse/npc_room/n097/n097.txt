@@ -1,0 +1,58 @@
+0: (Bitter fairy) [7a 65392]That guy walking around the spring
+like he owns it... What an eyesore.
+[->]I wish he'd go away. Can you do
+something about it?
+[END]
+1: (Bitter fairy) [7a 65392]That guy hogging the spring finally
+left.
+[->]Now I can take care of my wings.
+I hate people like that.
+[END]
+2: (Bitter fairy) [7a 65392]The Divine Powers finally left. 
+They were really awful...
+[->]Nozomi, you gotta beat them!
+[END]
+3: (Amiable fairy) [7a 65392]I heard that you defeated the Divine
+Powers. I'm impressed.
+[->]You can do anything with Nozomi on your
+side.
+[END]
+4: (Amiable fairy) [7a 65392]I heard that the Divine Powers are
+back.
+[->]Everyone in this forest is making a
+fuss about it now.
+[END]
+5: (Amiable fairy) [7a 65392]This forest is amazing.
+It's so peaceful I'm dozing off.
+[->]I guess I'll go to the reiki spring
+and freshen up.
+[END]
+6: (Amiable fairy) [7a 65392]I wonder what's going to happen to the
+forest...? I'm feeling very sad...
+[END]
+101: (Innocent fairy) [7a 65291]Hee ho ho!
+I moved here from the spring!
+[->]Everyone's happy, ho! 
+And when everyone's happy,
+I'm happy, ho!
+[END]
+102: (Innocent fairy) [7a 65291]Hee ho... That was scary...
+The Divine Powers are scary, ho...
+[->]The forest is messed up, but we'll
+be okay as long as Nozomi's okay!
+[END]
+103: (Innocent fairy) [7a 65291]I'm so glad the Divine Powers left.
+[->]I hope I never see them again, ho.
+[END]
+104: (Innocent fairy) [7a 65291]There's a huge egg in the middle of
+Tokyo, ho!
+[->]It's so gross, ho!
+I wonder what'll come out of it?
+[END]
+105: (Innocent fairy) [7a 65291]Hee ho ho. Now I can play pranks
+without fearing for my life!
+[->]I love it when it's peaceful...
+[END]
+106: (Innocent fairy) [7a 65291]Sorry, ho.
+I'm not in the mood today, ho...
+[END]

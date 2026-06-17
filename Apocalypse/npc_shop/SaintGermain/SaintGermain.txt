@@ -1,0 +1,106 @@
+0: [Item 1]
+[Item 2]
+[Item 3]
+Hear explanation
+[END]
+1: Exchange
+Cancel
+[END]
+2: About [Item 1]
+About [Item 2]
+About [Item 3]
+Back
+[END]
+10: (Saint Germain) [7a 395]Ah... Is it the first time we've met?
+My name is Saint Germain.
+[->]I know all about you. Ah, don't let
+that trouble you.
+[->]I am just a merchant who loves
+collecting jewels...
+[->]Would you be interested in exchanging
+any jewels for some items I have?
+[->]Why not take a look?
+[END]
+11: (Saint Germain) [7a 395]Hello. Do you have enough jewels?
+[->]Choose the item you wish to have...
+[END]
+12: (Saint Germain) [7a 395]You want a [Item 1]?
+Then I need [Amount 1] of those [Item 2]s...
+[END]
+13: (Saint Germain) [7a 395]That's it for explanations...
+I will now answer your desires...
+[END]
+14: (Saint Germain) [7a 395]Is there anything else you'd like?
+If you have the jewels, that is...
+[END]
+15: (Saint Germain) [7a 395]I guess that's it...
+I hope everything was clear to you.
+[->]So much for explanations...
+I will now answer your desires...
+[END]
+16: (Saint Germain) [7a 395]Hmph, seems you don't have enough
+jewels...
+[END]
+17: (Saint Germain) [7a 395]I will be looking forward to the next
+time we meet.
+[END]
+18: (Saint Germain) [7a 395]Hmm? It seems you have enough of that
+item.
+[->]It is pointless to have any more.
+Please choose a different one.
+[END]
+19: (Saint Germain) [7a 395]I will explain...
+[END]
+20: (Saint Germain) [7a 395]Which item would you like to hear
+about?
+[END]
+21: Diamond: [Amount 1]   Emerald: [Amount 3]
+Garnet: [Amount 2]
+[END]
+100: (Saint Germain) [7a 395]Hm, the [Color:0x5]Complete Restoration Gem[Color:0x0].
+I see. You have a good eye...
+[->]It's a luxury item that heals every
+demon in your party and stock.
+[->]Not a bad item to have.
+[END]
+101: (Saint Germain) [7a 395]Ah, the [Color:0x5]Relic of Revival[Color:0x0], huh...
+You seem to have discerning taste.
+[->]While in your possession, it will fully
+heal your party after being defeated.
+[->]It will even increase the number of
+Press Turn Icons to 8.
+[END]
+102: (Saint Germain) [7a 395]Quite perceptive of you to ask about
+the [Color:0x5]Dimensional Hourglass[Color:0x0].
+[->]After using it, you will gain an
+additional Press Turn Icon every
+turn until the battle ends.
+[->]I have no use for it...
+[END]
+103: (Saint Germain) [7a 395]You want a [Color:0x5]Great Chakra[Color:0x0]?
+A solid choice. 
+[->]If you use it, you'll see all of your
+allies' MP recover greatly.
+[END]
+104: (Saint Germain) [7a 395]Ah, you are interested in a
+[Color:0x5]Bead Chain[Color:0x0]... Sharp eye.
+[->]This fine item will fully recover all
+of your allies' HP upon use.
+[END]
+200: (Saint Germain) [7a 395]A [Color:0x5]Complete Restoration Gem[Color:0x0] will
+fully heal all demons in your party
+and stock.
+[END]
+201: (Saint Germain) [7a 395]A [Color:0x5]Relic of Revival[Color:0x0] will fully
+heal your party when defeated.
+[END]
+202: (Saint Germain) [7a 395]A [Color:0x5]Dimensional Hourglass[Color:0x0] will add
+one Press Turn Icon during each turn
+until the end of the battle.
+[END]
+203: (Saint Germain) [7a 395]A [Color:0x5]Great Chakra[Color:0x0] will greatly recover
+all your allies' MP.
+[END]
+204: (Saint Germain) [7a 395]If you use a [Color:0x5]Bead Chain[Color:0x0], all of
+your allies' HP will be entirely recovered.
+[END]

@@ -1,0 +1,66 @@
+0: 〉 Difficulty will be changed from
+[Color:0x5][Item 1][Color:0x0] to [Color:0x5][Item 2][Color:0x0].
+Is that okay?
+[END]
+1: Yes
+No
+[END]
+2: 〉 Please choose a difficulty. 
+* Story and quest rewards won't change.
+[END]
+3: 〉 Save these volume settings?
+[END]
+4: 〉 Difficulty has been changed to
+[Color:0x5][Item 1][Color:0x0].
+[END]
+10: 〉 Start the game on this difficulty?
+[END]
+11: 〉 Be sure the gods and demons toying with
+you don't cause you to lose your way...
+[END]
+12: 〉 The difficulty level can be changed
+during the game.
+[END]
+13: 〉 A difficulty for players who are more
+interested in the story than training
+demons.
+[->]〉 The difficulty can be changed at any
+time in the menu.
+[END]
+14: 〉 A difficulty for players unfamiliar
+with the Shin Megami Tensei franchise.
+[->]〉 The difficulty can be changed at any
+time in the menu.
+[END]
+15: 〉 A difficulty for players familiar with
+RPGs looking for a reasonable challenge.
+[->]〉 The difficulty can be changed at any
+time in the menu.
+[END]
+16: 〉 A difficulty for players looking for a
+challenge.
+[->]〉 The difficulty can be changed at any
+time in the menu.
+[END]
+17: 〉 The highest difficulty. It is beatable.
+In theory.
+[->]〉 Battles in this mode are extremely
+difficult and even the slightest mistake
+can lead to death.
+[->]〉 On this difficulty, it's game over if
+the main character's HP reaches zero.
+[->]〉 Also, you will not be able to change
+the difficulty during the game. There's
+no turning back.
+[END]
+20: 〉 You cannot change the difficulty after
+choosing the hardest difficulty.
+[END]
+21: 〉 Once you pick this difficulty, you will
+not be able to change the difficulty later.
+[->]〉 Are you sure you want to change the 
+difficulty?
+[END]
+30: 〉 You currently cannot change the
+difficulty.
+[END]

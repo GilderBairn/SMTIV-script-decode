@@ -1,0 +1,195 @@
+0: Dummy Message
+[END]
+1: [71 1]Thanks, but that sort of request
+should go through my agent.
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Huh? Funding?
+[->][END]
+19: [71 1]So that's who you really want to be...
+That's off the hook! Now it's my turn,
+Hunter Boy!
+[->][END]
+20: [71 1]If you're gonna rob me, bring the
+heat first!
+[->]But you've shown me your true self,
+Hunter Boy!
+[->][END]
+21: [71 1]Kyaaaaa! My account is already
+empty!
+[->][END]
+22: [71 1]Hold on! Why are you robbing me!?
+[->][END]
+23: [71 1]Like, cut it out! I can't pay any
+more!!
+[->][END]
+24: [71 1]Huh!? What do you plan to do with
+my voluptuous body?
+[->][END]
+25: [71 1]Hey, hey, talking about that now?
+Was that what we were talking about?
+[->]But that's your true self...
+I don't mind it.
+[->][END]
+26: [71 1]Woo hoo! I'll give you my most
+treasured part of me!
+[->][END]
+27: [71 1]I'll show you what's inside my
+true self's pocket, Hunter Boy!
+[->][END]
+28: [71 1]Accept my true feelings!
+[->][END]
+29: [71 1]Finishing in one move, is my style.
+Sooooo...
+[->][Amount 1] Macca!
+Can you afford that, Hunter Boy!?
+[->][END]
+30: [71 1]Could you give me [Item 1] x[Amount 1]?
+[->][END]
+31: [71 1]Let's try [Amount 1] Macca!
+[->][END]
+32: [71 1]Can I take a teensy bit of your
+life, Hunter Boy?
+[->][END]
+33: [71 1]Can I take some of your life,
+Hunter Boy?
+[->][END]
+34: [71 1]Can I take a hunk of your life,
+Hunter Boy?
+[->][END]
+35: [71 1]Can I take oodles of your life,
+Hunter Boy?
+[->][END]
+36: [71 1]Can I take a teensy bit of your
+spirit, Hunter Boy?
+[->][END]
+37: [71 1]Can I take some of your spirit,
+Hunter Boy?
+[->][END]
+38: [71 1]Can I take a hunk of your spirit,
+Hunter Boy?
+[->][END]
+39: [71 1]Can I take oodles of your spirit,
+Hunter Boy?
+[->][END]
+40: [71 1]Your ally...
+Give me [Demon name 2]'s life!
+[->][END]
+41: [71 1]Can you give me that lovely thing?
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]What I want? Wellll, I DO like
+anything, buuuut...
+[->]What do you want to give me,
+Hunter Boy?
+[->][END]
+44: [71 1]Wooo! You actually got it right!
+[->][END]
+45: [71 1]Nope. That is totally out of the
+question.
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]Mmmmmmm! Good one, Hunter Boy!
+[->][END]
+56: [71 1]Is that who you really are? Okay, okay!
+[->][END]
+57: [71 1]Enough of this. You're just, so
+boring.
+[->][END]
+58: [71 1]...Hmmm.
+[->][END]
+59: [71 1]Okay okay−−Hey, this isn't okay!!
+[->]Not bad making me butt in on myself,
+Hunter Boy!
+[->][END]
+60: [71 1]Huh, are you the type not to have
+it?
+[->][END]
+61: [71 1]Huh, you're the type not to have
+Life Stones?
+[->][END]
+62: [71 1]Rejecting everything: your true
+self... Your feelings are coming in
+clear, Hunter Boy!
+[->][END]
+63: [71 1]*sigh* I'm am so disappointed.
+That just won't do, Hunter Boy.
+[->]Bending your own self and following
+others... You can't unleash your
+true power like that!
+[->]I'll show you the power of being
+who you want to be!
+[->][END]
+64: [71 1]Don't have anything? Pefectly fine!
+That's your true self.
+[->]But it IS a bit lonely. Soooooo...
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]Man, nah. I'm spent.
+[->][END]
+71: [71 1]Not Used
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

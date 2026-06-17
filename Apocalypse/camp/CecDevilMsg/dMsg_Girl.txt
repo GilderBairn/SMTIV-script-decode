@@ -1,0 +1,26 @@
+0: [71 1]A lot of Hunters played with me
+in the other world too! *giggle*...
+[->][END]
+1: [71 1]I'm back! I think being with
+[Flynn] is the most relaxing! 
+[->][END]
+2: [71 1]All the Hunters died so easily... 
+*sniff*...*sniff*...
+[->][END]
+3: [71 1]I fused with a lot of demons
+and became a bad girl.
+[->][END]
+4: [71 1]Hey [Flynn]. Were you surprised? 
+*giggle*...
+[->][END]
+5: [71 1]To tell the truth, I fused with another 
+demon and forgot about you.
+[->][END]
+6: [71 1]I picked it up from a lot of battlefields!
+[->][END]
+7: [71 1]Were you waiting like a good boy? 
+Here, you can have this.
+[->][END]
+8: [71 1]This is a souvenir from the other world.
+Everyone was unconscious, so I took it.
+[->][END]

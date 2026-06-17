@@ -1,0 +1,1121 @@
+0: Dummy Message
+[END]
+1: [71 1]Sorry sonny, but I ain't becoming
+yer ally.
+[->][END]
+2: [71 1]Askin' fer favors after attacking...?
+Young'uns these days...
+[->][END]
+3: [71 1]Well, let me think...
+[->][END]
+4: [71 1]...That's a done deal.
+[->][END]
+5: [71 1]First, ya hafta give me gifts.
+[->][END]
+6: [71 1]That smartphone's too full.
+[->]There's no seat fer me...
+I feel lonely...
+[->][END]
+7: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Nice meetin' ya, sonny!
+[->][END]
+8: [71 1]But yer a lower level than me...
+[->]We can't serve weaker beings.
+[->][END]
+9: [71 1]Oh? You have one of us on yer
+smartphone.
+[->]Look after him fer me!
+[->][END]
+10: [71 1]Why don't we invite the other demons
+while we're at it?
+[->][END]
+11: [71 1]...But yer smartphone's full.
+[->][END]
+12: [71 1]It looks like yer havin' fun here.
+Let me in on it!
+[->][END]
+13: [71 1]Ho−ho... Maybe they're all busy.
+[->][END]
+14: [71 1]...Now then, I hope you didn't
+ferget me!
+[->][END]
+15: [71 1]I'm gonna treat you like a king and
+introduce ya to my friend.
+[->][END]
+16: [71 1]Human, are you working hard?
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]What was that, you say? You want an
+allowance?
+[->][END]
+19: [71 1]You city−slickin' young'uns are
+scary...
+[->][END]
+20: [71 1]You wanted money for a night out?
+You're sorry? Well, it's too late...
+[->][END]
+21: [71 1]Arrrrrrrrgh!
+[->][END]
+22: [71 1]Don't add to yer lists of crimes!
+Yer parents must be crying!
+[->][END]
+23: [71 1]You dang ingrate... I'm ready to
+blow my gasket!
+[->][END]
+24: [71 1]...Urgh!? I sure have a baaaad
+feeling about this...
+[->][END]
+25: [71 1]You want to trade things we don't
+need? I'm impressed you recycle!
+[->][END]
+26: [71 1]Here, sonny, take this. Make good
+use of it.
+[->][END]
+27: [71 1]Gahahahaha! Fer some reason, I'm in
+a good mood!
+[->]Here ya go, sonny. This one's on me!
+[->][END]
+28: [71 1]Keep the change. You don't need to
+be modest, now.
+[->][END]
+29: [71 1]When you get old, you just start to
+yap away. Maybe we'll just decide it
+here.
+[->]How about [Amount 1] Macca?
+[->][END]
+30: [71 1]I think I'll take [Item 1] x[Amount 1].
+[->][END]
+31: [71 1]I think I'll take [Amount 1] Macca.
+[->][END]
+32: [71 1]I think I'll take a wee bit of yer HP.
+[->][END]
+33: [71 1]I think I'll take a part of yer HP.
+[->][END]
+34: [71 1]I think I'll take a lot of yer HP.
+[->][END]
+35: [71 1]I think I'll take a whallop of yer
+HP.
+[->][END]
+36: [71 1]I think I'll take a wee bit of yer MP.
+[->][END]
+37: [71 1]I think I'll take a part of yer MP.
+[->][END]
+38: [71 1]I think I'll take a lot of yer MP.
+[->][END]
+39: [71 1]I think I'll take a whallop of yer MP.
+[->][END]
+40: [71 1]I want the life of yer ally...
+[Demon name 2].
+[->][END]
+41: [71 1]Hrm, gimme some of that.
+[->][END]
+42: [71 1]I want HP from [7e]...
+[->][END]
+43: [71 1]Gimme something I want.
+[->][END]
+44: [71 1]Ho−ho... Not bad, sonny!
+[->][END]
+45: [71 1]I don't have a use fer that...
+[->][END]
+46: [71 1]Can I unleash the devilishness of
+that day?
+[->][END]
+47: ”Sure.”
+”No.”
+[->][END]
+48: [71 1]Ho ho ho! Yes, this feeling!
+[->][END]
+49: 〉 [Flynn] received youth
+from the demon!
+[->][END]
+50: 〉 [Flynn] received a lot of
+youth from the demon!
+[->][END]
+51: [71 1]Ho ho ho! Let me drench myself in
+yer blood!
+[->][END]
+52: 〉 The demon stole youth from
+[Flynn]!
+[->][END]
+53: 〉 The demon stole a lot of youth
+from [Flynn]!
+[->][END]
+54: [71 1]I see. That's too bad...
+[->][END]
+55: [71 1]Alright, I'm happy now.
+[->][END]
+56: [71 1]Then...
+[->][END]
+57: [71 1]Aren't we being a little greedy?
+[->]You should respect yer elders.
+[->][END]
+58: [71 1]I'm feeling all old and wrinkled
+now...
+[->][END]
+59: [71 1]Yer a cheat, aren't ya? Let me
+punish ya.
+[->][END]
+60: [71 1]I see... That's jist too bad.
+[->][END]
+61: [71 1]Ya can't do anything without a Life
+Stone...
+[->][END]
+62: [71 1]So you're not going to budge at all?
+[->]...You're a tough cookie. I think
+I'll back off here.
+[->][END]
+63: [71 1]This sure is boring.
+[->][END]
+64: [71 1]You don't like to carry things
+around...? I like simplicity.
+[->][END]
+65: [71 1]Now then, it's time to go home.
+[->][END]
+66: [71 1][Flynn], huh.
+We sure talked a lot.
+[->][END]
+67: [71 1]I'll become yer ally.
+I won't take any gifts from you.
+[->][END]
+68: [71 1]It costs money just to live. I'll
+give ya a helping hand.
+[->][END]
+69: [71 1]We're tea−drinking buddies, after
+all. I'll share the rest of my gifts.
+[->][END]
+70: [71 1]This conversation isn't going
+anywhere... Do you not think when
+you speak?
+[->][END]
+71: [71 1]Oooh, [Flynn].
+So there you are...!
+[->]Sorry, I was walking all around.
+Now then, I'll go with you now.
+[->][END]
+72: [71 1]Hrm, I lose... Now, do what you will
+with me.
+[->][END]
+73: [71 1]Ho−ho... You're showing mercy to me?
+[->]Very well, then... I'll answer to
+yer kindness!
+[->][END]
+74: [71 1]That's right. Do it now.
+[->][END]
+101: 〉 The demon is on guard...
+What will you do?
+[->][END]
+102: Lower your weapon
+Put up your guard
+[->][END]
+103: [71 1]...Yer a dumb fella, aren't you?
+[->][END]
+104: [71 1]Ho−ho. You have guts, sonny.
+Let me have a talk with you.
+[->][END]
+105: [71 1]You fool!
+[->][END]
+106: [71 1]What! I don't want to fight!
+Let this ol' man off with this!
+[->][END]
+107: [71 1][13 10, 1]Humans sure are scary...
+[->][END]
+109: 〉 The demon is approaching you...
+What will you do?
+[->][END]
+110: Step aside
+Raise your weapon
+Don't move
+[->][END]
+111: 〉 [Flynn] dodges the demon!
+[->][END]
+112: [71 1]Hey, why did you dodge me, sonny?
+[->]You want me to become yer ally,
+right? I'm here, so give me gifts!
+[->][END]
+113: 〉 The demon catches up...
+[->][END]
+114: [71 1]...You fool!
+[->][END]
+115: [71 1]Eep! Please, spare my life...!
+[->]I'll do anything you want!
+I'll become yer ally...!
+[->][END]
+116: [71 1]Ho−ho. You have guts, sonny.
+Let me have a talk with you.
+[->][END]
+117: [71 1]Ho−ho. You have guts, sonny...
+[->]...Is that what you expected me to
+say? Yer a fool.
+[->][END]
+119: 〉 The demon is beckoning you...
+What will you do?
+[->][END]
+120: Go near
+Beckon back
+Raise your weapon
+[->][END]
+121: [71 1]You fool! You fell fer it!
+[->][END]
+122: [71 1]I was in the mood to give this to a
+human.
+[->][END]
+123: [71 1]Use it well.
+[->][END]
+124: [71 1]I was in the mood to lend me power
+to a human.
+[->]Let me test you.
+[->][END]
+125: [71 1]You want me to come to you!? You
+ingrate!
+[->][END]
+126: [71 1]Well, maybe it's okay to talk to a
+human every so often.
+[->][END]
+127: [71 1]Hmph, I wasn't expecting anything
+from humans in the first place!
+[->][END]
+128: 〉 The demon took you by surprise...
+[->][END]
+129: [71 1]Eep! Please, spare my life...!
+[->]I'll do anything you want!
+I'll become yer ally...!
+[->][END]
+131: 〉 The demon is trying to leave...
+What will you do?
+[->][END]
+132: Stop him
+Ignore him
+Raise your weapon
+[->][END]
+133: [71 1]Hrm, I like that dedication.
+Let me train you.
+[->][END]
+134: [71 1]Sorry sonny, but I'm in a hurry.
+[->][END]
+135: [71 1]You don't have to be so cold.
+Why don't you listen to this old man?
+[->][END]
+136: [71 1]You don't have to be so cold.
+You're supposed to be nice to demons.
+[->][END]
+137: [71 1]Eep! Please, spare my life...!
+[->]I'll do anything you want!
+I'll become yer ally...!
+[->][END]
+138: [71 1]If you want to die that much,
+then I'll help you out.
+[->][END]
+140: 〉 The demon is ignoring you...
+What will you do?
+[->][END]
+141: Say something to him
+Get his attention
+Threaten him
+[->][END]
+142: [71 1]Leave me alone!
+[->][END]
+143: [71 1]Ho−ho... I'm impressed that you're
+a young'un that can actually greet
+a person.
+[->]Depending on your gifts, maybe I'll
+become yer ally.
+[->][END]
+144: Blank Line
+[->][END]
+145: Blank Line
+[->][END]
+146: Blank Line
+[->][END]
+147: [71 1]Eep! Please, spare my life...!
+[->]I'll do anything you want!
+I'll become yer ally...!
+[->][END]
+148: [71 1]You should respect yer elders.
+[->][END]
+150: [71 1]Please, spare me!
+[->][END]
+151: Spare
+Don't spare
+[->][END]
+152: [71 1]Thank you... This is a little
+something from me.
+[->][END]
+153: 〉 The demon left...
+[->][END]
+154: [71 1]You fool! You fell fer it!
+[->][END]
+155: [71 1]You should respect yer elders.
+[->][END]
+156: [71 1]Eep! Please, spare my life...!
+[->]I'll do anything you want!
+I'll become yer ally...!
+[->][END]
+158: [71 1][13 10, 1]You're [Flynn], aren't ya...
+I've heard yer rumors.
+[->][END]
+159: [71 1]I'll judge you fer all yer evil.
+[->][END]
+160: [71 1]How about making me yer ally? I'll
+go with ya no matter what you say!
+[->][END]
+161: [71 1]I don't want to have anything ta do
+with you!
+[->][END]
+162: 〉 The demon left...
+[->][END]
+164: [71 1][13 10, 1]Hmph... I sure can't trust humans.
+[->][END]
+165: ”Exactly.”
+”That's not true.”
+”I'm a trustworthy human.”
+[->][END]
+166: [71 1]That goes fer you, too.
+[->][END]
+167: [71 1]Our opinions sure do match! Let's
+fix the world together.
+[->]Now, show me that we can get along
+even better.
+[->][END]
+168: [71 1]You're free ta think that.
+[->][END]
+169: [71 1]Ho−ho... Then make me trust you.
+[->][END]
+170: [71 1]I've seen a lot of humans say that,
+but all of them were liars.
+[->][END]
+171: [71 1]If you really insist, then make me
+trust you.
+[->][END]
+173: [71 1]Ho ho ho... I'm interested in you
+humans.
+[->][END]
+174: 〉 How will you approach the demon?
+[->][END]
+175: Amicably
+High−handedly
+[->][END]
+176: [71 1]This smells fishy...
+[->][END]
+177: [71 1]Hrm, you're a good young'un.
+[->]Yer attitude will decide whether or
+not I become yer ally.
+[->][END]
+178: [71 1]What's with that attitude of yers!
+[->][END]
+179: [71 1]Hrm, you sure are an unrestrained
+young'un. I like that.
+[->]Yer attitude will decide whether or
+not I become yer ally.
+[->][END]
+181: 〉 The demon is frowning...
+What will you do?
+[->][END]
+182: Bow politely
+Amiably start a conversation 
+Frown yourself
+[->][END]
+183: Blank Line
+[->][END]
+184: Blank Line
+[->][END]
+185: Blank Line
+[->][END]
+187: [71 1]Hrm... I lost something here.
+[->][END]
+188: Ask to help
+Look around
+Ask what he dropped
+[->][END]
+189: Blank Line
+[->][END]
+190: Blank Line
+[->][END]
+191: Blank Line
+[->][END]
+193: [71 1]This isn't good... I'm in trouble...
+[->][END]
+194: ”What's wrong?”
+Be in trouble together
+Cheer him up
+[->][END]
+195: Blank Line
+[->][END]
+196: Blank Line
+[->][END]
+197: [71 1]Oh, so you'll comfort me? Then maybe
+I'll be a little greedy today.
+[->][END]
+199: [71 1]Oh, a human young'un?
+[->]Living fer hundreds of years, I'm
+so used to seeing them.
+[->][END]
+200: ”That's because you're old.”
+”You were young?”
+”I'm no ordinary human.”
+[->][END]
+201: Blank Line
+[->][END]
+202: Blank Line
+[->][END]
+203: Blank Line
+[->][END]
+205: [71 1]What's with all the ruckus...? I don't
+like how you young'uns like to make
+so much noise.
+[->][END]
+206: ”Sorry...”
+”Was I being loud?”
+”That's what young'uns do.”
+[->][END]
+207: Blank Line
+[->][END]
+208: Blank Line
+[->][END]
+209: [71 1]What was that...? That's what dumb
+ones do?
+[->]I hate dumb humans!
+[->][END]
+211: [71 1]What do you git from talking to me?
+[->][END]
+212: ”I get smarter.”
+”I gain an ally.”
+”I can kill time.”
+[->][END]
+213: Blank Line
+[->][END]
+214: Blank Line
+[->][END]
+215: Blank Line
+[->][END]
+217: [71 1]Hey you, human. Entertain me.
+[->][END]
+218: Dance
+Hand over liquor
+Refuse
+[->][END]
+219: 〉 [Flynn] dances skillfully!
+[->][END]
+220: [71 1]Ho ho ho... You're a fun human.
+I'm enjoying this.
+[->]Let me give you this.
+[->][END]
+221: [71 1]Entertain me again sometime...
+[->][END]
+222: 〉 [Flynn] is unable to dance well...
+[->][END]
+223: [71 1]What was that? You're a boring human.
+[->][END]
+224: 〉 [Flynn] happened to have
+liquor on him!
+[->][END]
+225: [71 1]*glug* *glug* *glug*
+[->][13 10, 0]That sure hits the spot.
+[->]Now that you've got my interest, I
+think I'll lend you my power.
+[->][END]
+226: [71 1]You're not much of a thoughtful
+human, are you?
+[->][END]
+227: [71 1]You direspectful ingrate... I'll
+teach you some manners!
+[->][END]
+229: [71 1]Humans nowadays are just like what
+they used to be. Don't you think
+so, too?
+[->][END]
+230: ”I think so, too.”
+”I don't think so.”
+”Used to be like what?”
+[->][END]
+231: [71 1]You're part of the problem, sonny.
+[->][END]
+232: Blank Line
+[->][END]
+233: Blank Line
+[->][END]
+234: [71 1]They aren't considerate of others or
+nature. They've forgotten that
+they're alive thanks to that.
+[->]They're all arrogant bastards like
+you.
+[->][END]
+236: [71 1]You... You're the same race as me,
+aren't you?
+[->][END]
+237: ”No.”
+”You can tell?”
+”Oh, hell no.”
+[->][END]
+238: Blank Line
+[->][END]
+239: Blank Line
+[->][END]
+240: Blank Line
+[->][END]
+242: 〉 [Flynn] dances a dance...
+[->][END]
+243: [71 1]What an annoying miscreant!
+[->][END]
+244: [71 1]Ho−ho... You're an interesting
+human. Maybe I'll test you some.
+[->][END]
+246: [71 1]Demon Summoning Program...
+How does that work?
+[->][END]
+247: ”It digitally summons demons.”
+”You wouldn't understand.”
+”I don't know either.”
+[->][END]
+248: Blank Line
+[->][END]
+249: [71 1]Hrm... It's true that I haven't
+really studied since I last lended
+my knowledge to Fermat.
+[->]This techno−whatever is all Greek to
+me.
+[->][END]
+250: [71 1]What!? Don't underestimate the old gods!
+[->][END]
+251: [71 1]It's using gimmicks you can't
+figure out? Humans always were misers
+with these kinds of things.
+[->][END]
+253: [71 1]Ahh, you human... Please help me...
+[->][END]
+254: Help him
+Don't help him
+Ask what's the matter
+[->][END]
+255: 〉 [Flynn] is unable to help
+the demon...
+[->][END]
+256: [71 1][13 10, 0]Hrm... No matter the result, it's
+the thought that counts.
+[->]I'll give you another chance.
+Satisfy me with yer gifts.
+[->][END]
+257: 〉 [Flynn] is able to help the demon!
+[->][END]
+258: [71 1]I see... You're one of those busy
+humans, aren't you?
+[->]Commoners lose opportunities because
+they say they're busy when wisemen
+would willingly pick up trash.
+[->]You lost yer oppotunity, sonny.
+[->][END]
+259: [71 1]Don't think that we're on equal
+footing.
+[->][END]
+261: [71 1]Why do you want to make me yer ally?
+[->][END]
+262: ”You look valuable.”
+”You were the only one left.”
+”I'm here to protect you.”
+[->][END]
+263: [71 1]Wait... You're after my fortune,
+aren't you? I won't let that happen!
+[->]Officer! Over here!
+[->][END]
+264: [71 1]You're a rare admirable young'un.
+Maybe I'll become yer ally.
+[->][END]
+265: [71 1]You killed all the other demons!?
+[->]E−Eeeeeeeeep!
+[->][END]
+266: [71 1]The best comes last. Why don't you
+give me a try?
+[->][END]
+267: [71 1]Whaddya say Kuzunoha? I haven't
+grown senile yet, Hijiri!
+[->][END]
+268: [71 1]Yes, we all need protection, too.
+We're all lost in this vast world.
+[->]Alright, I've decided to go with you.
+[->]...Of course that depends on yer
+gifts.
+[->][END]
+270: [71 1]By the way, sonny...
+Are you okay with killing old men?
+[->][END]
+271: ”I'm fine.”
+”I'm not okay.”
+[->][END]
+272: [71 1]Ho−Ho... I see, I see.
+[->]Jist so you know, I'm perfectly
+fine with killing young'uns.
+[->][END]
+273: 〉 [Flynn] is slapped by
+the demon!
+[->][END]
+274: 〉 The demon is ready to fight!
+[->][END]
+275: [71 1]Then you're killing demons because
+it's yer duty as a Hunter?
+[->][END]
+277: [71 1]I haven't been worshipped in a long
+while...
+[->]...By the way, who was I?
+[->][END]
+278: ”[Demon name 1]”
+”[Flynn]”
+”I don't know.”
+[->][END]
+279: [71 1]Oooh... My power... it's returning...!
+[->]When humans were looking fer allies,
+I was always called by this name...
+[->]I'll git back all the power I lend
+to you. Now, offer gifts in name.
+[->][END]
+280: [71 1]That's a good name. I like it!
+[->]I think I'll call myself
+[Flynn] from now on.
+[->][END]
+281: [71 1]Ho ho ho... That's fine. In a true
+religion, a name isn't important.
+[->]Even without a name, I'll be with
+you, sonny.
+[->][END]
+282: [71 1]Then give me yer name!
+[->][END]
+284: 〉 [Flynn] sings a song...
+[->][END]
+285: [71 1]What a loud miscreant!
+[->][END]
+286: [71 1]Ho−ho... You're an interesting human.
+Maybe I'll test you some.
+[->][END]
+288: 〉 [Flynn] shows off some Macca...
+[->][END]
+289: [71 1]What a pitiful young'un...
+[->][END]
+290: [71 1]Heeheehee... I'm glad you know how
+to talk!
+[->]Now, if you want me to become yer
+ally, keep them coming!
+[->][END]
+292: [71 1][13 10, 0]You sure have manners fer a human.
+What're ya doing around here?
+[->][END]
+293: ”Working.”
+”Looking for allies.”
+[->][END]
+294: [71 1]That's a tough job you have. Maybe
+I should do some work, too.
+[->]...Where I reap human souls.
+[->][END]
+295: Blank Line
+[->][END]
+297: [71 1][13 10, 1]Ho−ho... Can you find any around
+these parts?
+[->][END]
+298: ”Right in front of me.”
+”I'll find one.”
+[->][END]
+299: [71 1]Me, yer ally? I haven't gotten
+anything from you yet.
+[->][END]
+300: [71 1]I see. Well, give it yer best.
+[->]If you want, why don't you try
+talking to me?
+[->][END]
+302: [71 1][13 10, 1]Oh, a human. I thought it was noisy.
+I want to be alone right now.
+[->][END]
+303: ”Should I massage your shoulders?”
+”Please become my ally.”
+[->][END]
+304: Blank Line
+[->][END]
+305: [71 1]Argh! young'uns don't know how to be
+considerate! My afternoon tea time
+is ruined!
+[->]Scram, sonny!
+[->][END]
+307: [71 1][13 10, 0]Ho−ho... That's pretty considerate
+fer a young'un. Do you know where
+my shoulders are?
+[->][END]
+308: ”I think so...”
+”I don't know.”
+[->][END]
+309: [71 1]Here, right here...
+[->][END]
+310: 〉 The demon suddenly attacked!
+[->][END]
+311: [71 1]I thought so. In the end, we can't
+understand each other.
+[->][END]
+313: [71 1]What, are you bowing to me?
+[->][END]
+314: ”I'm not bowing.”
+”Yes, I am.”
+[->][END]
+315: [71 1]Ho−ho... That's not a bow, it's
+a deep bow.
+[->]You went that far. I must answer
+that. I'll become your ally.
+[->][END]
+316: [71 1]Are you pouting? You're still a
+child.
+[->][END]
+318: [71 1][13 10, 0]You'll help me look fer it? What
+a kind human...
+[->][END]
+319: ”We help each other out.”
+”I need to help elders.”
+[->][END]
+320: Blank Line
+[->][END]
+321: [71 1]What an admirable stance. Come
+closer, so I can reward you.
+[->]...This is yer reward! For treating
+me like an old fart!
+[->][END]
+323: [71 1][13 10, 0]I see. Then I need to help you...
+[->][END]
+324: ”Just the thought counts.”
+”Become my ally.”
+[->][END]
+325: [71 1]The only thought is to become an
+ally...
+[->]Then first I need to git what I can
+git.
+[->][END]
+326: [71 1]I can't do that. Not until I find
+what I lost.
+[->][END]
+328: [71 1][13 10, 0]Ahh, you're that young'un from that
+time. I found what I lost.
+[->][END]
+329: [71 1]Look... It's my heart. The passionate
+me of the days when I fought left
+and right.
+[->]I was thinking of going with you
+and reclaiming the young me.
+[->][END]
+331: [71 1]Did you lose something too?
+[->][END]
+332: ”That's right.”
+”I'm looking for what you lost.”
+[->][END]
+333: [71 1]Would it be this?
+[->][END]
+334: 〉 The demon handed over dynamite!
+[->][END]
+335: [71 1]Ho ho ho... You fell for it.
+[->][END]
+336: [71 1]Y−You're trying to con us old men,
+aren't you!?
+[->]What dangerous times these are...
+So horrifying...!
+[->][END]
+338: [71 1]Why are you asking that?
+[->][END]
+339: ”I was going to look with you.”
+”I was going to find it first.”
+[->][END]
+340: [71 1]Y−You're trying to con us old men,
+aren't you!?
+[->]What dangerous times these are...
+So horrifying...!
+[->][END]
+341: [71 1]Hrm, I like that honesty. Kids
+should be a bit greedy.
+[->]Now, I should get greedy, too...
+[->][END]
+343: [71 1][13 10, 1]Would you hear me out?
+[->][END]
+344: ”Yes.”
+”No.”
+[->][END]
+345: [71 1]I can't find anyone who'll go with
+me to the afterlife.
+[->][END]
+346: [71 1]I see. Then I guess I'll sit here
+in lament...
+[->][END]
+348: [71 1][13 10, 1]What's with the gloomy face, sonny?
+[->][END]
+349: ”I was copying you.”
+”I have a problem.”
+[->][END]
+350: [71 1]Ho ho ho... You're an interesting
+young'un.
+[->][END]
+351: [71 1]Being human must be tough. Take
+this and cheer up.
+[->][END]
+353: [71 1]Don't treat me like an old man.
+Humans just have short lives.
+[->][END]
+354: ”Sorry...”
+”But you're old.”
+[->][END]
+355: [71 1]I don't believe you. Let me show
+you my youth!
+[->][END]
+356: [71 1]See? I'm not bad, huh? Now let me
+take tuition fer that lesson.
+[->][END]
+357: [71 1]Judging a demon by his looks is a
+bad habit humans have.
+[->][END]
+359: [71 1]What? I'm still young.
+[->][END]
+360: ”You've always looked like that?”
+”You're going to look even older?”
+[->][END]
+361: Blank Line
+[->][END]
+362: [71 1]What a rude young'un! Next time you
+see me, don't you talk to me!
+[->][END]
+364: [71 1][13 10, 0]Was it, now? Well, no matter how I
+look, I'm me.
+[->][END]
+365: ”Then even after fusion...”
+”Then even if you look different...”
+[->][END]
+366: [71 1]Fusion, you say...!?
+[->]I like them fusions!
+[->]All I can think of is fusion...
+Let's start talking.
+[->][END]
+367: [71 1]That's right. Real or digital, my
+personality's the same.
+[->][END]
+369: [71 1][13 10, 1]You're that rude young'un! I
+thought I told you not to talk to me.
+[->][END]
+370: ”I can't forget you.”
+”Sorry...”
+[->][END]
+371: [71 1]Ho−ho... Yer heart's beating?
+[->]Maybe I'm not so bad after all.
+Maybe I should side with humans
+sometimes.
+[->][END]
+372: [71 1]That's so touching...
+[->]...But I don't like that attitude
+of yours, trying be nice to everyone.
+[->][END]
+374: [71 1][13 10, 0]Ho−ho... And how are you not
+ordinary?
+[->][END]
+375: ”I'm one of the youngest Hunters.”
+”I totally love demons.”
+[->][END]
+376: Blank Line
+[->][END]
+377: [71 1]Our interests intersect at one
+point.
+[->]So you understand my interest, don't
+you sonny? Now out with it.
+[->][END]
+379: [71 1]Are you planning on hunting me?
+[->][END]
+380: ”What should I do...”
+”Yep.”
+[->][END]
+381: [71 1]A single hesitation can bring death!
+[->][END]
+382: [71 1]Hold there, sonny. There's no
+reason for you to repeat the taking
+of lives.
+[->]Take this and calm down.
+[->][END]
+384: [71 1]We wouldn't need Enma if ”sorry”
+solved everything. I'm that Enma...
+Can you not tell?
+[->][END]
+385: ”I can't tell even by looking.”
+”Now that you mention it...”
+[->][END]
+386: [71 1]I guess that's true for humans. You
+don't look like you meant any harm...
+[->]Depending on yer attitude, I'll
+forgive you.
+[->][END]
+387: [71 1]You can't tell even if I told you!
+You miscreant!
+[->][END]
+389: [71 1][13 10, 1]With all the gun shots and screams,
+it's more than noisy.
+[->][END]
+390: ”Sorry...”
+”You've got the wrong person.”
+[->][END]
+391: [71 1]Why're you apologizing? You're
+supposed to invite me to these
+kind of events.
+[->]Now then, before wreaking havoc, I
+need to git what I can git.
+[->][END]
+392: [71 1]No, it's you. I can smell blood from ya.
+[->][END]
+394: [71 1][13 10, 0]Why do you want to become so smart?
+[->][END]
+395: ”That's how humans are.”
+”To feel like I gained something.”
+[->][END]
+396: [71 1]It seems you don't know what
+knowledge brings.
+[->]Knowledge brings wealth. And I'm
+gonna git a lot from you!
+[->][END]
+397: [71 1]Am I that rare to you?
+[->]Then try and get me with your
+knowledge and wealth.
+[->][END]
+399: [71 1][13 10, 0]I'm glad you know how to get right
+to business. What do you plan on
+doing, getting me?
+[->][END]
+400: ”Get stronger.”
+”Become your friend.”
+[->][END]
+401: [71 1]Ho−ho... You do understand. Become
+strong and know yer limits.
+[->]I feel like lending you my hand.
+Depending on yer gifts, that is.
+[->][END]
+402: [71 1]You use yer friends as meat shields
+and ingredients to yer fusions?
+[->]Yer friends must really have it bad.
+[->][END]
+404: [71 1][13 10, 1]You must've been living a lonely
+life.
+[->][END]
+405: ”That's not true.”
+”That's right.”
+[->][END]
+406: [71 1]You don't need to worry. I'll end
+that sad life here.
+[->][END]
+407: [71 1]Er, what am I supposed to do about
+yer complaining? If you're THAT
+lonely, I'll stay with you.
+[->]So out with the gifts.
+[->][END]
+409: [71 1][13 10, 0]Then will you change this world?
+[->][END]
+410: ”I will.”
+”I won't.”
+[->][END]
+411: [71 1]You sure talk big, human. Don't git
+yerself killed by that dream.
+[->][END]
+412: [71 1]Jist let things happen, eh?
+[->]Then, I will let things happen and
+become yer ally.
+[->][END]
+414: [71 1][13 10, 1]They're definitely not. I've been
+watching humans all this time.
+[->]Humans deny our existence. What about
+you?
+[->][END]
+415: ”I don't deny.”
+”I deny.”
+[->][END]
+416: [71 1]Hrm, I'm glad you have faith.
+[->]...By the way, I know you are
+looking for some benefit from me.
+[->]Could you agree with me even more?
+[->][END]
+417: [71 1]Then I should just leave...
+[->][END]
+419: [71 1][13 10, 1]Oh, you aren't...? But the soul may
+decide that.
+[->][END]
+420: ”Our souls are the same race?”
+”I was a demon last life?”
+[->][END]
+421: [71 1]You're sharp, boy. It seems our bond
+is a tight one.
+[->]Now, let's go, soul brother.
+[->][END]
+422: [71 1]You've been reading too many comics,
+sonny. You need to face reality.
+[->][END]
+424: [71 1]There's a demon behind you. I don't
+smell a human soul.
+[->][END]
+425: ”There's no demon.”
+”To tell you the truth...”
+[->][END]
+426: [71 1]You want to act as a human, even if
+it means you lie? You're a strange
+being.
+[->]You've got me interested. Maybe I'll
+become your ally.
+[->][END]
+427: [71 1]Are you trying to fool me? I'm not
+letting you off!
+[->][END]
+429: [71 1]Ah, sorry there, sonny. Was I
+mistaken?
+[->][END]
+430: ”I'm not a demon.”
+”You seniles...”
+”Become my ally as an apology.”
+[->][END]
+431: [71 1]I got you, I got you. I'll leave it
+at that.
+[->]Say hello to Dadga fer me...
+[->][END]
+432: [71 1]You think that everything you see
+is everything, don't you boy?
+[->]You should respect yer elders.
+[->][END]
+433: [71 1]Sorry, but I don't want to be ruled
+by you.
+[->][END]
+435: [71 1][13 10, 0]Ho−ho... That smartphone−thingie
+can perform the summoning ritual
+for you?
+[->][END]
+436: ”That's right.”
+”That's not it.”
+”I don't know either.”
+[->][END]
+437: [71 1]That makes me more interested...
+[->]Can you summon me? Right from that
+smartphone?
+[->]I'll become yer ally.
+[->][END]
+438: [71 1]Then, it's ESP?
+[->][END]
+439: [71 1]It's using gimmicks you can't figure
+out? Humans always were misers with
+these kinds of things.
+[->][END]
+440: [71 1]I knew it. There's only so much a
+human can understand.
+[->]That's why us gods are here. I'll
+go with you and help out.
+[->][END]
+442: [71 1][13 10, 0]Hrm... An admirable young'un, you
+are. I was testing you.
+[->]Now, what would you like as your reward?
+[->][END]
+443: ”An ally.”
+”An item.”
+”Your life.”
+[->][END]
+444: [71 1]Very well, I shall grant your wish.
+[->][END]
+445: [71 1]Very well, I shall grant your wish.
+[->][END]
+446: [71 1]Keep at it...
+[->][END]
+447: [71 1]Very well, I shall grant your wish.
+[->][END]
+449: [71 1]Hrm hrm... You're a hard worker.
+[->][END]
+450: [71 1]I'll focus on my work and hunt
+humans.
+[->][END]
+451: [71 1]Then as members of the working
+class, let's talk business.
+[->][END]

@@ -1,0 +1,8 @@
+0: You are suspected of treason. Failure to present
+yourself to us for judgment will result in the use
+of force−−the protection of Tokyo is paramount
+above all else. Report to [Color:0x5]Cafe Florida[Color:0x0] in Shinjuku 
+immediately.
+[END]
+1: ダミー
+[END]

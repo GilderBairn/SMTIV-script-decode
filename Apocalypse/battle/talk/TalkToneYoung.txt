@@ -1,0 +1,1062 @@
+0: Dummy Message
+[END]
+1: [71 1]Ya want me to become your ally?
+...Hell no!
+[->][END]
+2: [71 1]Heheh... What, the fight's all over
+already?
+[->][END]
+3: [71 1]Welllll...
+[->][END]
+4: [71 1]Well that's that!
+[->][END]
+5: [71 1]Oh yeah, ya gotta pay my fee first.
+[->][END]
+6: [71 1]Hey man, you got way too much stuff
+installed on this smartphone.
+[->]You should at least have enough
+memory to summon me...
+[->][END]
+7: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Nice meeting ya!
+[->][END]
+8: [71 1]Whoa, hold on. You're on a whole
+different level than me: below!
+[->]Sorry, but I don't want to be
+summoned by no wimp.
+[->][END]
+9: [71 1]Hey man, you already have one of me
+in your smartphone.
+[->]It's me, but not actually me, but
+yeah, anyways holler to him for me.
+[->][END]
+10: [71 1]...Hold up. I'll show you how
+popular I am around here.
+[->][END]
+11: [71 1]What the... Outta memory already?
+You sure that smartphone ain't
+broken?
+[->][END]
+12: [71 1]Hell yeah! I'll go along for the
+ride.
+[->][END]
+13: [71 1]The hell... Everyone's ignoring me!?
+[->][END]
+14: [71 1]Alright human, let's roll!
+[->][END]
+15: [71 1]...I know. One of my pals in the
+Expanse wanted to come along. Can
+I give'em a call?
+[->][END]
+16: [71 1]I got a call from [Demon name 2]
+on the Expanse hotline.
+[->]Let me in on the fun, huh?
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]What was that? I can double my Macca in
+a few seconds? That sounds fishy to me...
+[->][END]
+19: [71 1]...Phew, you're one scary kid...
+[->][END]
+20: [71 1]If you like Macca that much, how about
+I shove some up your ass!
+[->][END]
+21: [71 1]Nrrrrrrgh! Aaaaaaaaack!
+[->][END]
+22: [71 1]...Don't ya think it's about time to
+call it quits?
+[->][END]
+23: [71 1]Hyahahahahaha...! Had enough fun?
+'Cuz it's my turn now!
+[->][END]
+24: [71 1]Hey! What the hell, pun−−er−−What are
+you doing, kind sir!?
+[->]That is very dangerou−−Arrgh!
+[->][END]
+25: [71 1]I have a good amount of gear with me
+too. Alright, hand somethin' over.
+[->][END]
+26: [71 1]Take it. You wanted it, right?
+[->][END]
+27: [71 1]Hyaha!? The Expanse is beyond the lens!?
+I got a call from Tayama!!
+[->]Hyahahahahahaha...! This item'll bring
+world peace!
+[->][END]
+28: [71 1]Order now and you get one more free!
+[->][END]
+29: [71 1]Why don't we just settle this with
+Macca?
+[->][Amount 1] Macca! Don't tell me
+you don't have the cash.
+[->][END]
+30: [71 1]Hand over [Item 1] x[Amount 1].
+[->][END]
+31: [71 1]Hand over [Amount 1] Macca.
+[->][END]
+32: [71 1]Hand over a little of your HP.
+[->][END]
+33: [71 1]Hand over some of your HP.
+[->][END]
+34: [71 1]Hand over a lot of your HP.
+[->][END]
+35: [71 1]Hand over a crapload of your HP.
+[->][END]
+36: [71 1]Hand over a little of your MP.
+[->][END]
+37: [71 1]Hand over some of your MP.
+[->][END]
+38: [71 1]Hand over a lot of your MP.
+[->][END]
+39: [71 1]Hand over a crapload of your MP.
+[->][END]
+40: [71 1]Your ally... Hand over
+[Demon name 2]'s life.
+[->][END]
+41: [71 1]Hello? That! That! Gimme that!
+[->][END]
+42: [71 1]Hand over [7e]'s HP.
+[->][END]
+43: [71 1]Tell me what I want.
+[->][END]
+44: [71 1]Not bad, buddy!
+[->][END]
+45: [71 1]I don't need that crap!
+[->][END]
+46: [71 1]You punk! Brace yourself!
+[->][END]
+47: Brace yourself
+Don't brace yourself
+[->][END]
+48: [71 1]Love!
+[->][END]
+49: 〉 [Flynn] is motivated!
+[->][END]
+50: 〉 [Flynn] is really motivated!
+[->][END]
+51: [71 1]Education!
+[->][END]
+52: 〉 [Flynn] is discouraged!
+[->][END]
+53: 〉 [Flynn] is really discouraged!
+[->][END]
+54: [71 1]I... I see...
+[->][END]
+55: [71 1]Yeah! You know how to make me happy!
+[->][END]
+56: [71 1]Tch... You got some nerve.
+[->][END]
+57: [71 1]Not willing to let go?
+[->]Don't disrespect us demons.
+[->][END]
+58: [71 1]I'm tired of talking to you...
+[->][END]
+59: [71 1]Heheh... You think you can fool me?
+[->]Don't disrespect us demons.
+[->][END]
+60: [71 1]Tch... This blows.
+[->][END]
+61: [71 1]Oh, is that so!?
+[->][END]
+62: [71 1]You clinched my heart by refusing
+me? What are you, a con artist!?
+[->][END]
+63: [71 1]This is getting boring...
+[->][END]
+64: [71 1]Well, I'll let ya off this time.
+[->][END]
+65: [71 1]Thanks, sucka!
+[->][END]
+66: [71 1]Yo, [Flynn]!
+[->]After all that time talking, I feel
+like we good now.
+[->][END]
+67: [71 1]You wanna make me your ally, right?
+I'm ready to roll!
+[->][END]
+68: [71 1]You begging me for some Macca?
+Ain't that cute...
+[->][END]
+69: [71 1]You begging me for some items?
+Ain't that cute...
+[->][END]
+70: [71 1]You're boring as hell. Lates...
+[->][END]
+71: [71 1]...Ahhh, I've been lookin' for ya,
+[Flynn]!
+[->]Let's raise hell together again.
+[->][END]
+72: [71 1]Eek! Spare my life! I'll do anything!
+I'll even become your ally!
+[->][END]
+73: [71 1]Phew, I'm saved... Heheheh...
+[->][END]
+74: [71 1]Ugh... A damn Hunter thinks he's
+better than me, huh!?
+[->][END]
+101: 〉 The demon is on guard...
+What will you do?
+[->][END]
+102: Lower your weapon
+Put up your guard
+[->][END]
+103: [71 1]Your days as a Hunter are over the
+instant you let your guard down!
+[->][END]
+104: [71 1]Looks like you got some balls. What
+else ya got?
+[->][END]
+105: [71 1]Tch... Nowhere to attack...
+[->][END]
+106: [71 1]Wait up! I don't wanna fight! Take
+this and lower your weapon!
+[->][END]
+107: [71 1]...Phew, humans really are scary.
+[->][END]
+109: 〉 The demon is approaching you...
+What will you do?
+[->][END]
+110: Step aside
+Raise your weapon
+Don't move
+[->][END]
+111: 〉 [Flynn] dodges the demon!
+[->][END]
+112: [71 1]Hey! Don't ignore me, dammit!
+...Please?
+[->]...C'mon, be true to yourself.
+You want my power, right?
+[->][END]
+113: 〉 The demon catches up...
+[->][END]
+114: [71 1]Tch... You figured it out, huh?
+[->][END]
+115: [71 1]Wait up! I don't wanna fight!
+Lower your weapon!
+[->]You want me to be your ally, right?
+Let's talk, okay?
+[->][END]
+116: [71 1]You gots guts...
+[->]I guess I'll talk with ya some.
+[->][END]
+117: [71 1]You gots guts...
+[->]...Guts my ass! Think I'd say that!?
+[->][END]
+119: 〉 The demon is beckoning you...
+What will you do?
+[->][END]
+120: Go near
+Beckon back
+Raise your weapon
+[->][END]
+121: [71 1]You fell for it! Hyahahahahaha!
+[->][END]
+122: [71 1]I was just thinking of handing this
+to ya.
+[->][END]
+123: [71 1]Lates!
+[->][END]
+124: [71 1]I was just thinking of lending my
+power to a human.
+[->]So gimme something.
+[->][END]
+125: [71 1]Your mama has an outie!
+[->][END]
+126: [71 1]Heh, you know your stuff.
+[->][END]
+127: [71 1]Don't get cocky, Hunter.
+[->][END]
+128: 〉 The demon took you by surprise...
+[->][END]
+129: [71 1]Eek! Spare my life!
+[->]I'll sign up with you if you want.
+First listen to what I have to say.
+[->][END]
+131: 〉 The demon is trying to leave...
+What will you do?
+[->][END]
+132: Stop him
+Ignore him
+Raise your weapon
+[->][END]
+133: [71 1]You got good eyes, kid!
+[->]But the most important part is what
+comes next.
+[->][END]
+134: [71 1]Sorry, think I'll pass!
+[->][END]
+135: [71 1]You shouldn't be cold to demons.
+Just listen to me.
+[->][END]
+136: [71 1]Tch... Think you're all high and
+mighty...?
+[->][END]
+137: [71 1]Eek! Spare my life!
+[->]I'll sign up with you if you want.
+First listen to what I have to say.
+[->][END]
+138: [71 1]You think you can beat me?
+[->][END]
+140: 〉 The demon is ignoring you...
+What will you do?
+[->][END]
+141: Say something to him
+Get his attention
+Threaten him
+[->][END]
+142: [71 1]Just leave me alone!
+[->][END]
+143: [71 1]A smartphone... You wanna make me
+your ally?
+[->][END]
+144: Blank Line
+[->][END]
+145: Blank Line
+[->][END]
+146: Blank Line
+[->][END]
+147: [71 1]Eek! Spare my life!
+[->]I'll sign up with you if you want.
+First listen to what I have to say.
+[->][END]
+148: [71 1]You think you can beat me?
+[->][END]
+150: [71 1]Please, let me go!
+[->][END]
+151: Spare
+Don't spare
+[->][END]
+152: [71 1]Heheheh... Thanks, buddy! Here's a
+little something from me.
+[->][END]
+153: 〉 The demon left...
+[->][END]
+154: [71 1]You fell for it! Hyahahahahaha!
+[->][END]
+155: [71 1]Don't get cocky, Hunter!
+[->][END]
+156: [71 1]Eek! Spare my life!
+[->]I'll sign up with you if you want.
+First listen to what I have to say.
+[->][END]
+158: [71 1][13 10, 1]You're [Flynn]...
+I've heard about you.
+[->][END]
+159: Blank Line
+[->][END]
+160: [71 1]Chilling with you's only gonna
+bring bad things...
+[->][END]
+161: 〉 The demon left...
+[->][END]
+163: [71 1][13 10, 1]I can't trust humans...
+[->][END]
+164: ”Exactly.”
+”That's not true.”
+”I'm a trustworthy human.”
+[->][END]
+165: [71 1]You're one of them, dumbass.
+[->][END]
+166: [71 1]Right? You sure know what you're
+talking about, for a human.
+[->]If I were to sign up with a human,
+it'd be someone like you would.
+[->][END]
+167: [71 1]Go pray at a church then!
+[->][END]
+168: [71 1]Then can you win my trust?
+[->][END]
+169: [71 1]Aren't we confident, huh?
+[->]I've seen plenty of people that
+said that and lived a short life.
+[->][END]
+170: [71 1]Then can you win my trust?
+[->][END]
+172: [71 1]I'm interested in you humans...
+[->][END]
+173: 〉 How will you approach the demon?
+[->][END]
+174: Amicably
+High−handedly
+[->][END]
+175: [71 1]What are you a horny dog or
+something?
+[->][END]
+176: [71 1]It looks like you have some common
+sense. Let's continue the talks...
+[->][END]
+177: [71 1]Don't get cocky, human.
+[->][END]
+178: [71 1]Looks like I can have some fun.
+Show me some more.
+[->][END]
+180: [71 1]What, you wanna get it on? I'll kick
+your ass.
+[->][END]
+181: Stare at him
+Ignore him
+Approach him
+[->][END]
+182: Blank Line
+[->][END]
+183: Blank Line
+[->][END]
+184: [71 1]You're dissin' me, aren't you?
+[->][END]
+186: [71 1]Heheheh... Nice weather today, huh?
+[->][END]
+187: Look up
+Put your guard up
+Nod quietly
+[->][END]
+188: Blank Line
+[->][END]
+189: [71 1]Let's stop with that stuff. Weather
+is a great icebreaker, y'know?
+[->][END]
+190: Blank Line
+[->][END]
+192: [71 1]Heeheehee... I smell blood...
+[->][END]
+193: Laugh with him
+Sniff the air
+Watch him
+[->][END]
+194: Blank Line
+[->][END]
+195: Blank Line
+[->][END]
+196: Blank Line
+[->][END]
+198: [71 1]Hyahahahahaaaaaaa!
+[->][END]
+199: 〉 The demon is laughing manaically.
+What will you do?
+[->][END]
+200: Laugh even louder
+Stare at him coldly
+Approach him
+[->][END]
+201: 〉 [Flynn] laughs as loud as
+he can.
+[->][END]
+202: [71 1]Whoa, whoa. Don't stare so passionately
+at me, bro.
+[->][END]
+203: [71 1]I got a bad feeling about this...
+See ya!
+[->][END]
+205: [71 1]Hey man, put down the weapon.
+[->][END]
+206: ”You're right.”
+”I don't trust you.”
+Raise your weapon
+[->][END]
+207: Blank Line
+[->][END]
+208: [71 1]Tch... Humans really do suck balls,
+not being able to trust a demon...
+[->][END]
+209: Blank Line
+[->][END]
+211: [71 1]You look tasty. Can I eat ya?
+[->][END]
+212: ”YOU look tasty.”
+”I'm probably gross.”
+”Wanna try?”
+[->][END]
+213: Blank Line
+[->][END]
+214: [71 1]Well, you DO lack meat...
+[->]Go and train yourself. Get some meat on
+them bones. I'll remember ya.
+[->][END]
+215: Blank Line
+[->][END]
+217: [71 1]Yo, governor! You hittin' it up!?
+[->][END]
+218: ”What the hell?”
+”Yep.”
+”YOU'RE hittin' it up.”
+[->][END]
+219: Blank Line
+[->][END]
+220: Blank Line
+[->][END]
+221: [71 1]Uh... er, stop that. Don't say things
+like that to my face...
+[->]You're making me blush, you punk!
+Uh... Oh, I'm going home now!
+[->][END]
+223: [71 1]Whaddya want? Wanna become my flunkie
+or something?
+[->][END]
+224: ”You become my flunkie.”
+”I'll follow you forever!”
+”If you become my ally.”
+[->][END]
+225: Blank Line
+[->][END]
+226: [71 1]Good attitude!
+[->]But I want a boss. Lates...
+[->][END]
+227: Blank Line
+[->][END]
+229: [71 1]Top half or bottom half of the body;
+which do you like?
+[->][END]
+230: ”Top.”
+”Bottom.”
+”Neither.”
+[->][END]
+231: [71 1]Ohhhh? You like it that way!?
+[->]Then I'll eat you from the top.
+[->][END]
+232: [71 1]Yeah, huh? I like that feeling of being
+held up by the bottom!
+[->]You and I see eye to eye, huh.
+I'll negotiate with ya.
+[->][END]
+233: [71 1]You're a dirty one, huh?
+[->][END]
+234: [71 1]Ohhhh? You like it that way!?
+[->]Then I'll eat you from the bottom.
+[->][END]
+235: [71 1]Yeah, huh? I like that feeling of
+holding up the top!
+[->]You and I see eye to eye, huh.
+I'll negotiate with ya.
+[->][END]
+236: [71 1]You got some fetish, huh?
+[->][END]
+237: [71 1]Tch... You're a smart one...
+[->][END]
+239: [71 1]...Mama!? Is that you, Mama!?
+[->][END]
+240: ”That's right!”
+”Uh, no.”
+”I am your father.”
+[->][END]
+241: [71 1]Ohhh... Mama!
+[->][END]
+242: Blank Line
+[->][END]
+243: [71 1]No! No! No!
+[->]You're my toy, and I'm gonna break you!
+[->][END]
+245: [71 1]Let me punch you once.
+[->][END]
+246: ”Sure.”
+”No.”
+”Not for free.”
+[->][END]
+247: [71 1]Alright, here I go!
+[->][END]
+248: 〉 [Flynn] is punched by the
+demon!
+[->][END]
+249: Blank Line
+[->][END]
+250: [71 1]I hate humans like you the most.
+[->][END]
+252: [71 1]The last human that summoned me went
+crazy...
+[->]You sure that you can handle me?
+[->][END]
+253: ”Yep.”
+”Nope.”
+[->][END]
+254: [71 1]Don't get cocky, human.
+[->][END]
+255: [71 1]Then ya wanna try? I ain't cheap,
+y'know?
+[->][END]
+256: [71 1]Heheh... Smart move. 
+[->][END]
+257: [71 1]Then don't mess around with me.
+[->][END]
+259: [71 1]Ya want me to tell you your future?
+[->][END]
+260: ”Please do.”
+”I decline.”
+[->][END]
+261: [71 1]It's simple... You're gonna be eaten
+by me!
+[->][END]
+262: [71 1]...
+[->][13 10, 1]Tch... Dagda...! He's getting in the
+way of me reading your future!
+[->]Whatever... Maybe it's better that I
+side with him...
+[->]...Hey Hunter, wanna make me your ally?
+[->][END]
+263: [71 1]...
+[->][13 10, 1]...Dammit! It's too bright for me to
+see!
+[->]What's going on here!? Take me to your
+future!
+[->][END]
+264: [71 1]Then have fun carving your own path.
+Heheh...
+[->][END]
+266: [71 1]Heheh...
+You hate this world too, don't ya?
+[->][END]
+267: ”I do.”
+”I don't.”
+”I don't care.”
+[->][END]
+268: [71 1]That's right... Hate! Hate more!
+[->]You're right! They're wrong!
+[->]Want me to help ya?
+Listen to what I have to say.
+[->][END]
+269: [71 1]Don't worry about it so much, buddy.
+Take this and feel better.
+[->][END]
+270: [71 1]This'll be a fun one to convince...
+[->]You don't have to pretend to be the
+good guy. I'll make ya relax.
+[->][END]
+271: [71 1]What a scary guy...
+[->]Not hating anything is the same as not
+loving anything, man.
+[->][END]
+272: [71 1]...Then I'll put some hate in you!
+[->][END]
+273: [71 1]You not on the same planet anymore?
+Wow, you chiefin' that cotton?
+[->]Heheh... I don't mind humans like
+that. First, hear me out!
+[->][END]
+275: 〉 [Flynn] dances a dance...
+[->][END]
+276: [71 1]What, you a new type of stupid?
+[->][END]
+277: [71 1]Heheh... You wanna dance with me?
+I'm down.
+[->][END]
+279: 〉 [Flynn] sings a song...
+[->][END]
+280: [71 1]What, you a new type of stupid?
+[->][END]
+281: [71 1]Heheh... You wanna sing with me?
+I'm down.
+[->][END]
+283: 〉 [Flynn] shows off some Macca...
+[->][END]
+284: [71 1]Sorry, I got enough!
+[->][END]
+285: [71 1]Glad you know what you're talkin'
+about!
+[->][END]
+287: 〉 The demon is watching [Flynn]...
+[->][END]
+288: [71 1]Just as they said... You're plenty
+tough...
+[->]You wanna make me your ally, right?
+I'm down for it!
+[->][END]
+289: [71 1]Aww, you ain't that tough.
+[->]Damn rumors...
+[->][END]
+291: [71 1][13 10, 1]Tch, getting all cocky... Don't
+look at me with that stupid−looking
+face of yours.
+[->][END]
+292: ”Well, excuse me, pal.”
+”This is how my face always looks.”
+”It's better than yours.”
+[->][END]
+293: [71 1]You don't hafta act like that.
+I was worried about you.
+[->]It's not often a demon worries
+about someone else.
+[->]So y'know... You should be handing
+over stuff as thanks.
+[->][END]
+294: [71 1]Poor sucker... I'll fix that face
+myself.
+[->][END]
+295: [71 1]You... That really hurt...
+[->][END]
+297: [71 1][13 10, 0]Heheheh... You afraid? Why don't ya
+beg for your life?
+[->][END]
+298: ”Please spare me...”
+”I refuse.”
+[->][END]
+299: [71 1]Whaddya actually doing it for?
+Show some guts, man.
+[->]Or at least, show some goods.
+[->][END]
+300: [71 1]Huh? You the type that's ready to
+kill?
+[->]This ain't good...
+[->][END]
+302: [71 1]It ain't good for a demon to be
+looked down on by a human. I won't
+let you off so easily.
+[->][END]
+303: ”Being a demon is tough, huh?”
+”Let's get along.”
+”YOU don't look down on me.”
+[->][END]
+304: [71 1]You think so, too? It is.
+Like, damn tough...
+[->]I won't let you off easily, so
+gimme something... please?
+[->][END]
+305: [71 1]Sure thing! Let's get along with
+our fists!
+[->][END]
+306: [71 1]Hey, hey. Don't make such a scary
+face. Demons hate that.
+[->][END]
+308: [71 1][13 10, 0]It's a great day for a picnic, huh?
+Don't you think so?
+[->][END]
+309: ”Uh, it's dark.”
+”I agree.”
+[->][END]
+310: [71 1]Dark? Did you say dark?
+[->]I said it's a great day for a picnic,
+which means it's a great day for a
+picnic. Got it?
+[->][END]
+311: [71 1]Ain't it!? Let's have one on you!
+[->][END]
+313: [71 1]People say you're difficult, huh?
+[->][END]
+314: ”Yeah.”
+”You have no right to say that.”
+[->][END]
+315: [71 1]You can't enjoy life like that.
+[->]Must be a curse from your ancestors.
+I'll get rid of it, for a fee.
+[->][END]
+316: [71 1]Don't be so mean, buddy. Let me say
+it.
+[->][END]
+318: [71 1]It's gonna rain soon. Did ya know
+that?
+[->][END]
+319: ”I knew.”
+”I didn't know.”
+[->][END]
+320: [71 1]You have some type of power to see
+the future?
+[->]Wow, whoo, yippee. Oh, and I'll
+become your ally, so gimme
+something.
+[->][END]
+321: [71 1]It's gonna rain your blood!
+[->][END]
+323: [71 1][13 10, 0]Lately, it's bloody everywhere.
+Makes me comfy. How about you?
+[->][END]
+324: ”Nope.”
+”I'm at home with it.”
+[->][END]
+325: [71 1]But it seems like other humans like
+it.
+[->]You should be honest to yourself
+about it.
+[->][END]
+326: [71 1]Don't BS me. You don't know anything
+about demons.
+[->]Why don't ya read the Bible!
+[->][END]
+328: [71 1][13 10, 1]Can you smell it? This is the smell
+of the survival of the fittest.
+[->][END]
+329: ”You reek of it.”
+”It's a good smell.”
+[->][END]
+330: [71 1]...Oh! Come to think of it, I've
+never taken a bath before.
+[->]It's best to try things at least
+once, right? I'll catcha later!
+[->][END]
+331: [71 1]Isn't it? Let's make the smell
+stronger!
+[->][END]
+333: [71 1][13 10, 0]You're pretty amazing, staying calm
+in this stink...
+[->][END]
+334: [71 1]...Are you some amazing master!?
+Please, make me your student!
+[->][END]
+335: [71 1]It seems better to become your ally
+rather than fight you.
+[->]Ya wanna make me your ally, right?
+Let's start talks in that direction.
+[->][END]
+337: [71 1][13 10, 1]That's a weak laugh. I'll teach ya
+how to laugh, so come here.
+[->][END]
+338: Go near him
+”You're gonna hit me, huh?”
+[->][END]
+339: [71 1]No, no. I don't need all of it.
+[->]I only need your head.
+[->][END]
+340: [71 1]You're pretty smart... I didn't
+think of doing that...
+[->]If you're so smart, then you know
+what I want you to do next, right?
+[->][END]
+342: [71 1]Am I really famous?
+[->][END]
+343: ”Give me a signature!”
+”Don't get cocky.”
+[->][END]
+344: [71 1]Ya mean a blood contract? Man, I'm
+an awesome demon.
+[->]But you're rushin' things. There's
+stuff I should be getting first,
+right?
+[->][END]
+345: [71 1]I'm sorry... Thanks to you, I've
+woken up.
+[->]I'm supposed to be a demon that kills 
+all humans that disrespect me.
+[->][END]
+347: [71 1][13 10, 0]Then you'll let me go, right?
+[->][END]
+348: ”I'll spare you.”
+”You can't escape.”
+”Negotiations first.”
+[->][END]
+349: [71 1]Heheh... Thanks. This is thanks.
+Take it.
+[->][END]
+350: 〉 The demon left...
+[->][END]
+351: [71 1]I'll sign up with you, so spare me,
+man! You wanna make me your ally,
+don't you?
+[->]Right? Let's start talking.
+[->][END]
+352: [71 1]What a shameless punk. I'm getting
+pissed.
+[->][END]
+354: [71 1][13 10, 1]What a cold guy. Don't you have any
+mercy in you?
+[->][END]
+355: ”I do.”
+”I don't.”
+”Look who's talking.”
+[->][END]
+356: [71 1]Really? That sounds like a lie to
+me.
+[->]Alright, I'll find out myself. By
+going into your head...
+[->][END]
+357: [71 1]Are you actually a demon...?
+[->]Then I don't have business here.
+I'm only intersted in humans.
+[->][END]
+358: [71 1]Hahahaha! You're right! You're a
+good comedian!
+[->]I'm gonna become your ally so I can
+hear more of your jokes.
+[->][END]
+360: [71 1][13 10, 1]Is that a joke from the 2010's?
+[->][END]
+361: ”Yes.”
+”No.”
+[->][END]
+362: [71 1]It's a waste of time to talk with
+someone with no taste.
+[->][END]
+363: [71 1]Hold on, are you really gonna eat
+me? C−Calm down now.
+[->]I'll become your ally if you
+reeeeeeally want me to, y'know?
+[->][END]
+365: [71 1][13 10, 0]Yo buddy, you're back? And did you
+get stronger like I told you to?
+[->][END]
+366: 〉 The demon checks out [Flynn].
+[->][END]
+367: [71 1]...You got a good body now. It's a
+waste to eat you.
+[->]Alright, let's wreak havoc together.
+I feel like I can count on ya!
+[->][END]
+368: [71 1]...You still have as scrawny a body
+as ever, huh?
+[->]Forget it. I can't wait, so I'll
+eat ya now.
+[->][END]
+370: [71 1][13 10, 1]Uh, you have that kind of fetish or
+something?
+[->][END]
+371: ”No.”
+”I do.”
+[->][END]
+372: [71 1]So you really want to eat you?
+[->][END]
+373: [71 1]Please! Teach it to me! I want to
+become a new me!
+[->]Let's talk about that contract now.
+[->][END]
+375: [71 1][13 10, 1]Governor... You're spoiling the
+party. Just accept the feelings of
+demons.
+[->][END]
+376: ”I can't accept it.”
+”Sorry.”
+[->][END]
+377: [71 1]...Block!? You're blocking me,
+punk!?
+[->][END]
+378: [71 1]If you give me something as an
+apology, I might forgive you.
+[->][END]
+380: [71 1][13 10, 1]Aren't we happy−go−lucky. Don't
+take it so seriously.
+[->][END]
+381: ”Why not?”
+”I'm not.”
+[->][END]
+382: [71 1]You're right. It IS best to be
+happy−go−lucky.
+[->]It's a great day today. I'll become
+your ally, so gimme something.
+[->][END]
+383: [71 1]Dude doesn't even get sarcasm...
+[->][END]
+385: [71 1][13 10, 1]Me, a demon, become a human's
+flunkie...?
+[->][END]
+386: ”That's right.”
+”Then let's start out as friends...”
+[->][END]
+387: [71 1]Sometimes I run into people who
+don't know the world like you...
+[->]You're human. You should submit to
+me. I'm a demon. I should dominate
+you. Get it?
+[->][END]
+388: Blank Line
+[->][END]
+390: [71 1][13 10, 0]Friend? That's the first time I've
+ever heard that word. What does
+that mean?
+[->][END]
+391: ”We help each other out.”
+”We can say anything to each other.”
+[->][END]
+392: [71 1]Then help me out. There's something
+I want.
+[->][END]
+393: [71 1]Humans are funny. They can only
+speak their thoughts to friends?
+[->][END]
+395: [71 1]Whaddya plan on doing with me if
+I become your ally?
+[->][END]
+396: ”Fusion material.”
+”Front line.”
+[->][END]
+397: [71 1]You're gonna use me as material for
+demon fusion...?
+[->][13 10, 0]You got balls for a kid. I like
+people like that.
+[->]We'll see how it goes. If I
+become your ally, you can do
+whatever you want with me.
+[->][END]
+398: [71 1]You're gonna make me work? Feed me
+for the rest of my life, dammit!
+[->][END]
+400: [71 1]But... Why do you smell like human?
+[->][END]
+401: ”I ate a human.”
+”I am a human.”
+”I'm not your mother.”
+[->][END]
+402: [71 1]Ohhhhh!
+[->]Then I'll be like you, Mama, and
+eat humans!
+[->][END]
+403: [71 1]M...Mama's a human...!?
+[->]Daaaaaaaaaaaaaaaad!!
+[->][END]
+404: [71 1]...I know that, fool. Play along
+'til the end, dammit.
+[->][END]
+406: [71 1]Then... Does that mean...?
+[->][END]
+407: ”It's your big bro!”
+”I'm a perfect stranger.”
+”It's your wife.”
+[->][END]
+408: [71 1]You were my bro...!?
+[->]Then pay me back the Macca I lent
+you a while back. Or let me hit you.
+[->][END]
+409: [71 1]Perfect...? What makes you so
+perfect?
+[->]...Alright, I'm gonna watch ya and
+see how perfect you are!
+[->]I'm going along with you!
+[->][END]
+410: [71 1]Then we need to sign a prenuptial
+agreement! Let's negotiate!
+[->][END]
+412: [71 1][13 10, 0]You're still standing...? You're a
+tough one...
+[->][END]
+413: ”That all you got?”
+”Hit me more.”
+”Now become my ally.”
+[->][END]
+414: [71 1]I−Is this guy invincible?
+[->]Eek...! I'm gonna be killed!
+[->][END]
+415: [71 1]You're a feisty one. Alright, take
+another one!
+[->][END]
+416: 〉 The demon hit [Flynn]!
+[->][END]
+417: [71 1][13 10, 0]You're still standing...!
+[->]You're full of vigor, kid. That's
+rare for a human.
+[->]You showed me some guts. I'll
+remember you...
+[->][END]
+418: [71 1]Huh? The hell? This and that are
+two different stories.
+[->]Let me hit you more!
+[->][END]
+420: [71 1][13 10, 0]I've been looking for you, Hunter!
+[->][END]
+421: [71 1]I can't forget how tough you were;
+taking blow after blow and still
+standing...!
+[->]Take me with you. I'll go even if
+you say no!
+[->][END]
+423: [71 1]Heheh... You scared?
+[->][END]
+424: ”That's right.”
+”No.”
+”I'm not feeling good today...”
+[->][END]
+425: [71 1]Tch... I'm not interested in people
+without any pride.
+[->][END]
+426: [71 1]Then I won't hit you. Just let me
+eat ya. You guys eat demons, so
+it's okay, right?
+[->][END]
+427: [71 1]Careless much? Take this and feel
+better.
+[->][END]
+428: [71 1]When you get better, let me hit ya,
+Okay?
+[->][END]

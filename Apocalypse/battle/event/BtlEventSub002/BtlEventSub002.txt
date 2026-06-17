@@ -1,0 +1,36 @@
+0: (Mother Harlot) Oho, to think you would chase after a
+demon so far... You are pathetically
+lacking in a warrior's judgment.
+[->]However... I like that kind of
+persistence.
+[->]Very well. If you want to play with me
+that much, I will be your partner until
+you are satisfied!
+[END]
+1: 〉 Mother Harlot disappeared...
+[END]
+2: (Believer) [7a 53]No... I can't believe Mother would fall...
+[->]We came so close... It's all your fault!
+[->]Damn you...!
+[END]
+3: (Hunter) [7a 67]Dammit! Our paradise...
+[->]Listen up. I haven't given up, okay?
+[END]
+4: 〉 The people who gathered for the ritual
+run off...
+[END]
+5: (Pales) [7a 65410]To be honest, I was quite worried when
+the ritual completed.
+[->]Good job defeating Mother Harlot.
+[->]With this, the peace between demons
+and humans will surely be maintained.
+[->]However, for humans to go this far...
+[->]It seems I must change how I think...
+[->]In any case, good work, [Flynn].
+[END]
+6: (Pales) [7a 65410][Flynn]! Are you okay!?
+[->][END]
+7: テスト
+[->][END]
+8: (Mother Harlot) How can this... be?
+[->][END]

@@ -1,0 +1,57 @@
+100: 〉 When you exit the room, you find 
+Stephen waiting for you as if all
+of this is perfectly normal.
+[END]
+101: (Stephen) [7a 14]Hello. I'm glad to see you accepted 
+my quest.
+[->]Sorry for being so terse, we're short 
+on time. Allow me to explain things.
+[->]As I wrote in my request, repercussions 
+from YHVH's defeat are manifesting in
+other universes...
+[->]These repercussions have particularly
+effected the other four who came here,
+and now threatens their very existence.
+[END]
+102: 〉 Stephen produces a soul and shows
+it to you.
+[END]
+103: (Stephen) [7a 14]This is one of those four.
+[->]He has lost his reason to exist,
+and has since been reduced to a soul.
+[->]It's not necessarily your fault, but...
+Well, you did indirectly cause it.
+[->]The other four are, like you, messiahs
+in their own worlds.
+[->]If you agree to help them, I will
+lend you my power.
+[END]
+104: 〉 Help the messiahs from 
+other universes?
+[END]
+105: Help them
+Don't help them
+Think about it later
+[END]
+106: (Stephen) [7a 14]I thought you might say that.
+[->]If you wish to help them, I will
+lend you my power.
+[->]First, go greet them.
+[->]I'm counting on you.
+[END]
+107: (Stephen) [7a 14]I see. That's too bad...
+[->]Talk to Zenki to return to your world. 
+He is in that room over there.
+[->]But if you change your mind...
+[->]Go meet the three of them.
+[->]I hope you change their mind and 
+decide to save them.
+[END]
+108: (Stephen) [7a 14]I see. Take your time...
+[->]If you wish to return to your world, 
+talk to Zenki. He is in that room 
+over there.
+[->]But, if you decide to save them...
+[->]Go meet the three of them.
+[->]I look forward to your decision.
+[END]

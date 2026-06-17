@@ -1,0 +1,89 @@
+0: 〉 How would you like to attach the demon 
+to the card?
+[END]
+1: Growth Type
+Fusion Type
+[END]
+2: 〉 Choose a demon to attach.
+[END]
+3: Yes
+No
+[END]
+4: 〉 The card has been created. It will be
+sent via StreetPass to other players
+with these details:
+[END]
+5: 〉 This demon cannot be attached.
+[END]
+6: 〉 Attach this demon?
+[END]
+7: 〉 You have no demons that can be attached.
+Sending the card as is...
+[END]
+8: 〉 When a summoned demon is attached, it
+will be removed from the party.
+[->]〉 Attach this demon?
+[END]
+9: 〉 Choose a simple message for the people
+you exchange StreetPass data with.
+[END]
+10: 〉 Is this the message you want to use?
+[END]
+11: Yes
+No
+[END]
+12: 〉 This demon is already attached.
+[END]
+13: 〉 You have no attachable demons.
+[END]
+14: 〉 Choose a title.
+[END]
+15: 〉 Use this title?
+[END]
+16: Yes
+No
+[END]
+17: Select equipment to wear.
+[END]
+18: 〉 Use this equipment set?
+[END]
+19: Save
+Cancel
+Return to editing
+[END]
+20: 〉 Choose a pose.
+[END]
+21: 〉 Is this pose okay?
+[END]
+22: Yes
+No
+[END]
+23: Change type
+Remove demon
+[END]
+30: 〉 Select the background for your DDS Card.
+[END]
+31: 〉 Select a title line to use on your DDS Card.
+[END]
+32: 〉 Change the name displayed on your 
+DDS Card.
+[END]
+33: 〉 Choose the equipment displayed on your
+DDS Card.
+[END]
+34: 〉 Choose the pose displayed on your
+DDS Card.
+[END]
+35: 〉 Choose which demon to attach to your
+DDS Card.
+[END]
+36: 〉 Choose a message to display on your
+DDS Card.
+[END]
+37: 〉 Choose a background.
+[END]
+38: 〉 Is this background okay?
+[END]
+39: Yes
+No
+[END]

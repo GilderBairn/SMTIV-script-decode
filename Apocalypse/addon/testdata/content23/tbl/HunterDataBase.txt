@@ -1,0 +1,28 @@
+940: UNKNOWN
+[END]
+950: UNKNOWN
+[END]
+960: UNKNOWN
+[END]
+970: UNKNOWN
+[END]
+980: UNKNOWN
+[END]
+990: UNKNOWN
+[END]
+1000: UNKNOWN
+[END]
+1010: [Color:0xc]◆Summary[Color:0x0]
+  Full name is Mephistopheles, but 
+  many refer to him as Mephisto.
+  Name means ”not light loving.”
+
+  Mephisto sent [Flynn] an invitation 
+  to a virtually recreated Hawaii, an
+  island said to exist before God's Plan. 
+  There, he forms a contract with [Flynn] 
+  to give him moments so memorable he 
+  loses all sense of time in exchange 
+  for his soul. He is ultimately defeated
+  by [Flynn], however.
+[END]

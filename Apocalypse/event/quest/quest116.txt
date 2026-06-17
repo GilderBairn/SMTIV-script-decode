@@ -1,0 +1,23 @@
+0: 聞いてきいtえ! [Flynn]にお客サンなのよ
+はやく[Color:0x5]よーせいのもり[Color:0x0]に来てほしいのよさ
+お客サンは [Color:0x5][Demon name 1][Color:0x0]と一緒がいいって
+言ってrから つれてきてあげてネ
+Hey, you! Listen up! Someone's here to see you!
+Hurry to the [Color:0x5]Fairy Forest[Color:0x0] and be sure to bring 
+[Color:0x5][Demon name 1][Color:0x0] with you.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: エクスカリバーが あんなふうになっちゃうなんて
+びkkりしたのよ! [Flynn]もしたよね?
+でも お客サンがよろこんでくれt よかったのよさ
+[Flynn]は 剣がつおくなってうれしい!
+アタシも ひさしぶりにノゾミと会えてうれしい!
+みんながハッピーなクエストだったのよ!
+[END]

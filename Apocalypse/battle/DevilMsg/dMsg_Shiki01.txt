@@ -1,0 +1,61 @@
+0: [71 1]A new skill!
+Let's slaughter a lot of people with this!
+[->][END]
+1: [71 1]A new skill!
+Use it a lot!
+[->][END]
+2: [71 1]A new skill!
+Careful not to overuse it!
+[->][END]
+3: [71 1]There's too many skills〜
+You need to throw one away!
+[->][END]
+4: [71 1]Hey hey, can I change [Color:0x5][Skill 1][Color:0x0]
+to [Color:0x5][Skill 2][Color:0x0]?
+[->][END]
+5: [71 1]Hahahaha! Do it!
+[->][END]
+6: [71 1]Boo, let me do it next time!
+[->][END]
+7: [71 1](仮)変異選択メッセージ
+[->][END]
+8: [71 1](仮)変異OKメッセージ
+[->][END]
+9: [71 1](仮)変異NGメッセージ
+[->][END]
+10: [71 1](仮)変異完了メッセージ
+[->][END]
+11: [71 1](仮)変異レベル未達メッセージ
+[->][END]
+12: [71 1]Here's a [Color:0x5][Item 1][Color:0x0]!
+It's dangerous, so be careful.
+[->][END]
+13: [71 1]Here's a [Color:0x5][Item 1][Color:0x0]!
+It's dangerous, so be careful.
+[->][END]
+14: [71 1]Here's a [Color:0x5][Item 1][Color:0x0]!
+It's dangerous, so be careful.
+[->][END]
+15: [71 1]*giggle*... The power of the demon
+is going in Mister...
+[->][END]
+16: [71 1]You can put more if you want.
+[->][END]
+17: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+[->]...Will you die for me?
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

@@ -1,0 +1,62 @@
+0: [71 1]With this, death will blow through the
+land...
+[->][END]
+1: [71 1]Death is granting you new strength...
+[->][END]
+2: [71 1]How many lives will this skill take...?
+[->][END]
+3: [71 1]A skill is born, filling it to brim...
+Choose one to bury...
+[->][END]
+4: [71 1]I shall bury [Color:0x5][Skill 1][Color:0x0]
+and birth [Color:0x5][Skill 1][Color:0x0]...
+[->][END]
+5: [71 1]Die and be born...
+[->][END]
+6: [71 1]Let it be as is... for now...
+[->][END]
+7: [71 1](仮)変異選択メッセージ
+[->][END]
+8: [71 1](仮)変異OKメッセージ
+[->][END]
+9: [71 1](仮)変異NGメッセージ
+[->][END]
+10: [71 1](仮)変異完了メッセージ
+[->][END]
+11: [71 1](仮)変異レベル未達メッセージ
+[->][END]
+12: [71 1]This [Color:0x5][Item 1][Color:0x0]...
+It is a gift from a Fiend...
+[->][END]
+13: [71 1]This [Color:0x5][Item 1][Color:0x0] will keep
+you connected to life...
+[->][END]
+14: [71 1]Oh samurai, heading to face death...
+Let me give you this [Color:0x5][Item 1][Color:0x0].
+[->][END]
+15: [71 1]A Fiend's whispers spin death... Absorb
+them into your body to convert power...
+[->][END]
+16: [71 1]Will you go, one who is colored with death?
+[->][END]
+17: [71 1]A white line severs the sky... The steel
+poison that is scattered, be it truth or
+falsehood?
+[->]I am [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Samurai, go face death...
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

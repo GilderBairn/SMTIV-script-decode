@@ -1,0 +1,26 @@
+0: [71 1]My training has taken me across the lands.
+I shall devote my trained skills to this 
+country... 
+[->][END]
+1: [71 1]This shadow technique I mastered
+shall save the Samurai from his 
+predicament.
+[->][END]
+2: [71 1]No matter what country they come from, 
+if we fight for our mission the hearts 
+of the Samurai will become one... 
+[->][END]
+3: [71 1][->][END]
+4: [71 1][->][END]
+5: [71 1][->][END]
+6: [71 1]Let me hand you a souvenir from my travels.
+All this exists because the country exists...
+[->][END]
+7: [71 1]Did you have any difficulties while 
+I was gone? Use this souvenir to your 
+advantage.
+[->][END]
+8: [71 1]Let me hand you this souvenir.
+Objects obtained during travels are 
+a bond, of sorts.
+[->][END]

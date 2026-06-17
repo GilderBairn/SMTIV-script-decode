@@ -1,0 +1,21 @@
+0: Why hello there. I'm Betty. I run the skill quest tests. 
+Let's start you off with something simple. How about 
+[Color:0x5]recruiting ten demons[Color:0x0]! Remember, your performance 
+is tracked on your phone, so you don't need to 
+return here once you have all ten.
+
+Well, good luck, hotshot.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Hey there. Just got your report. Looks like that was
+a real walk in the park, for you. With all those new
+demons, you should be ready for anything. Well, see
+you at the next skill test!
+[END]

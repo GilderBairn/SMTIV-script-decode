@@ -1,0 +1,16 @@
+0: At [Color:0x5]Gakushuin University[Color:0x0] south of Ikebukuro, there 
+is a small but precious water source, but a demon 
+called [Color:0x5]Lanling Wang[Color:0x0] has set up a domain over it. 
+I'd like you to defeat the demon, of course, but 
+could you also get a sample of the water so we can 
+test it for human consumption?
+[END]
+10: The test results show that the water is drinkable.
+I'm glad you were able to secure the water source−−
+you really helped us out. Though, I never would
+have thought that the demon would have taken it over 
+to try and purify itself... I actually graduated 
+from that school, so I'm familiar with the urban 
+legend about the pond having purifying properties. 
+I guess even demons can fall for rumors...
+[END]

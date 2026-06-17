@@ -1,0 +1,6 @@
+0: 〉 Purchase [Color:0x5][Item 1][Color:0x0] 
+for [Color:0x5][Amount 1] AP[Color:0x0]?
+[END]
+1: Purchase
+Cancel
+[END]

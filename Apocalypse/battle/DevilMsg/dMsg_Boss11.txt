@@ -1,0 +1,59 @@
+0: [71 1]Take a good look at the sharpness of my spear.
+[->][END]
+1: [71 1]To reverse the Ragnarok... 
+[->][END]
+2: [71 1]The Twilight is close... I must obtain 
+more power.
+[->][END]
+3: [71 1]Something must be lost to be gained...
+Choose the skill to get rid of.
+[->][END]
+4: [71 1]I will change [Color:0x5][Skill 1][Color:0x0] for
+[Color:0x5][Skill 2][Color:0x0]...Good?
+[->][END]
+5: [71 1]*chuckle* Very well... I understand.
+[->][END]
+6: [71 1]Hmph. Very well... I understand.
+[->][END]
+7: [71 1](仮)変異選択メッセージ
+[->][END]
+8: [71 1](仮)変異OKメッセージ
+[->][END]
+9: [71 1](仮)変異NGメッセージ
+[->][END]
+10: [71 1](仮)変異完了メッセージ
+[->][END]
+11: [71 1](仮)変異レベル未達メッセージ
+[->][END]
+12: [71 1]I shall give thee [Color:0x5][Item 1][Color:0x0].
+[->][END]
+13: [71 1][Color:0x5][Item 1][Color:0x0] to thee...
+A consideration from myself.
+[->][END]
+14: [71 1]Use [Color:0x5][Item 1][Color:0x0] to become a
+stronger warrior...
+[->][END]
+15: [71 1]The remarkable skills I have attained...
+I shall teach it to thee.
+[->][END]
+16: [71 1]Thou, who have earned my skill, have taken 
+one step closer to being a true warrior.
+[->][END]
+17: [71 1]I am [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Allow us to regain our former glory...
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

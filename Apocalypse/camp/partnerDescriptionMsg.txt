@@ -1,0 +1,47 @@
+1: Supports you through use of
+healing skills.
+Learns healing skills.
+[END]
+2: Supports you with buffs and
+uses offensive items.
+Learns buff skills.
+[END]
+3: A mix of offensive and support
+Gun skills.
+Learns Gun skills.
+[END]
+4: A fighter who attacks with Phys
+skills.
+Learns Phys skills.
+[END]
+5: Calls forth a demon to protect
+his allies.
+Learns defensive skills.
+[END]
+6: A fighter who inflicts instant
+death and status ailments.
+Learns Phys skills.
+[END]
+7: A magic user that calls forth
+demons to protect his allies.
+[END]
+8: Well−rounded fighter who uses
+both healing and magic.
+Learns healing skills.
+[END]
+9: Well−rounded fighter who uses
+both Phys and magic skills.
+Learns Phys and Almighty skills.
+[END]
+10: A fighter who attacks with Phys
+skills.
+Learns Phys skills.
+[END]
+11: A fighter who attacks with Phys
+skills.
+Learns Phys skills.
+[END]
+12: A fighter who inflicts instant
+death and status ailments.
+Learns Phys skills.
+[END]

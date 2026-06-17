@@ -1,0 +1,13 @@
+0: We've detected unusual behavior from the human
+colony above the Ceiling. It seems likely they
+will interfere with your plans. To prevent this,
+you must go and [Color:0x5]slaughter all who dwell above the
+Ceiling[Color:0x0].
+[END]
+1: ダミー
+[END]
+2: Something called the ”Demon Gene” is affecting the
+population in Mikado. It seems [Color:0x5]Hugo[Color:0x0] is at the heart
+of the matter. We need to go to the [Color:0x5]Monastery[Color:0x0] to
+find Hugo and learn the truth.
+[END]

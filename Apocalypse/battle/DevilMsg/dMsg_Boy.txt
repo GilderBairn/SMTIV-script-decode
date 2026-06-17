@@ -1,0 +1,62 @@
+0: [71 1]Skill get!
+Let me fight more!
+[->][END]
+1: [71 1]Look look [Flynn]! Isn't it cool?
+Heh heh heh...
+[->][END]
+2: [71 1]I'll make you a great Hunter!
+[->][END]
+3: [71 1]Too many skills, huh?
+Let's throw away one.
+[->][END]
+4: [71 1]Okay, change [Color:0x5][Skill 1][Color:0x0]
+to [Color:0x5][Skill 2][Color:0x0]!
+[->][END]
+5: [71 1]Leave it to me!
+[->][END]
+6: [71 1]Tsk tsk tsk...
+You're a weakling huh?
+[->][END]
+7: [71 1]Transfooooorm!
+[->][END]
+8: [71 1]You're pretty easy−going!
+Let's do it!
+[->][END]
+9: [71 1]...Raaah!
+[->][END]
+10: [71 1]I feel great!
+[->][END]
+11: [71 1]Next form...
+5... 4... 3... 2...
+[->][END]
+12: [71 1]I'll give you this [Color:0x5][Item 1][Color:0x0].
+Don't die.
+[->][END]
+13: [71 1][Flynn]! Cheer up! Here, have this
+[Color:0x5][Item 1][Color:0x0]!
+[->][END]
+14: [71 1]Here, a [Color:0x5][Item 1][Color:0x0].
+Let's be the strongest Hunter!
+[->][END]
+15: [71 1]I'll teach you about demon power.
+[->][END]
+16: [71 1]I can teach you more if you want, y'know?
+[->][END]
+17: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Nice to meet you!
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

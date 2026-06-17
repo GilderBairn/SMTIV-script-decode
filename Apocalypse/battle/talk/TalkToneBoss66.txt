@@ -1,0 +1,182 @@
+0: Dummy Message
+[END]
+1: [71 1]Hmph, is that the same line you
+used on Toki?
+[->]Sorry, I have no intention of
+joining the likes of you.
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Give you money? What the hell are
+you thinking...?
+[->][END]
+19: [71 1]Damn you... How dare you...
+[->][END]
+20: [71 1]There's no excuse for your actions.
+[->][END]
+21: [71 1]Aaaaaaaaaaaaaaah...! I spent so
+long saving all that!
+[->][END]
+22: [71 1]Is it that fun to take money from
+others...?
+[->]I can't let a barbarian like you
+live.
+[->][END]
+23: [71 1]I haven't been this mad in a while.
+[->]I hate men like you. I will kill you,
+you scum!
+[->][END]
+24: [71 1]N...No... How dare you... take money...
+from a girl who can't move...!
+[->][END]
+25: [71 1]Trade items? You know the drill,
+right...?
+[->][END]
+26: [71 1]Hmhm... A done deal. Take this.
+[->][END]
+27: [71 1]Huh!? Oh... yeah... I'm supposed to
+give you an something... huh...
+[->]I suppose this is part of the
+survival of the fittest.
+[->][END]
+28: [71 1]Heck, I'll give you this too.
+Take it...
+[->][END]
+29: [71 1]I won't make Master Mii and Kei
+wait. Let's decide it now.
+[->][Amount 1] Macca. It's a killer
+deal if I say so myself.
+[->][END]
+30: [71 1]I'll take [Item 1] x[Amount 1].
+[->][END]
+31: [71 1]I'll take [Amount 1] Macca.
+[->][END]
+32: [71 1]Share a little of your life.
+[->][END]
+33: [71 1]Can I have some of your life?
+[->][END]
+34: [71 1]I'll take a lot of your life.
+[->][END]
+35: [71 1]Give me your life until you bleed.
+[->][END]
+36: [71 1]Share a little of your spirit.
+[->][END]
+37: [71 1]Can I have some of your spirit?
+[->][END]
+38: [71 1]I'll take a lot of your spirit.
+[->][END]
+39: [71 1]Give me your spirit until you bleed.
+[->][END]
+40: [71 1]Your ally [Demon name 2]...
+I want that demon's life.
+[->][END]
+41: [71 1]That thing you have...
+Give it to me.
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Do you know what I want?
+[->][END]
+44: [71 1]Hmmm... You actually knew?
+Pretty good.
+[->][END]
+45: [71 1]Did you really think I wanted that?
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]Hmph, that about does it...
+[->][END]
+56: [71 1]Tch, not giving it to me?
+[->][END]
+57: [71 1]You don't want to give me anything?
+Are you toying with me...?
+[->][END]
+58: [71 1]Forget it, I don't have time to
+play your stupid games!
+[->][END]
+59: [71 1]Did you think I'd fall for that?
+[->][END]
+60: [71 1]You don't have it...? Hmph, bum...
+[->][END]
+61: [71 1]You don't even have a Life Stone...?
+I don't know why you even bothered.
+[->][END]
+62: [71 1]You refuse to bend your will at any
+cost...
+[->]I see. I like that attitude.
+[->][END]
+63: [71 1]It seems you aren't good at this...
+[->]Maybe you shouldn't bother...
+[->][END]
+64: [71 1]How poor could you possibly be?
+Sorry...
+[->]I'll give in to you this time...
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]You're not very good at this.
+[->]You should figure out how to talk
+your way out of these situations.
+[->][END]
+71: [71 1]Not Used
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

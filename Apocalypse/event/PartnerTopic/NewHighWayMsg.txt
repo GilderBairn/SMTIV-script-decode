@@ -1,0 +1,40 @@
+0: As part of our efforts to improve transit
+throughout Tokyo, we have opened a new route.
+
+[Color:0x5]Route opened: Ueno to Joto[Color:0x0]
+
+We will continue to work diligently to open
+additional routes. Thank you for your patience.
+[END]
+1: As part of our efforts to improve transit
+throughout Tokyo, we have opened a new route.
+
+[Color:0x5]Route opened: Ueno/Joto to Chiyoda[Color:0x0]
+
+We will continue to work diligently to open
+additional routes. Thank you for your patience.
+[END]
+2: As part of our efforts to improve transit
+throughout Tokyo, we have opened a new route.
+
+[Color:0x5]Route opened: Chiyoda to Roppongi[Color:0x0]
+
+We will continue to work diligently to open
+additional routes. Thank you for your patience.
+[END]
+3: As part of our efforts to improve transit
+throughout Tokyo, we have opened new routes.
+
+[Color:0x5]Routes opened: Chiyoda to Ikebukuro/Johoku
+and Roppongi to Bay Area[Color:0x0]
+
+Construction is now complete!
+Thank you for your cooperation.
+[END]
+4: From: Hunter Association
+To: All Hunters
+
+The Terminals rendered unusable by the
+Tokugawa Mandala are back online.
+Thank you for your patience.
+[END]

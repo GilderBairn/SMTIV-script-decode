@@ -1,0 +1,29 @@
+0: [71 1]*chuckle*... It may be a different world. 
+Yet my grandness knows no change.
+[->][END]
+1: [71 1]I have met numerous Hunters...
+You remain the most admirable.
+[->][END]
+2: [71 1]The workings of the world may change
+but what changes not... are humans.
+[->][END]
+3: [71 1]I commend your welcome.
+Grovel in my majestic appearance.
+[->][END]
+4: [71 1]It was an indiscriminate fusion but...
+Haha, my grandness is unparalleled.
+[->][END]
+5: [71 1]This StreetPass that humans use...
+'Tis not bad. You should try it as well.
+[->][END]
+6: [71 1]A souvenir from a different world
+for the amount of worshippers I have 
+knows no bounds.
+[->][END]
+7: [71 1]A product of my valor. Feel the hundred 
+stories it holdeth.
+[->][END]
+8: [71 1]A Koushin'etsu souvenir from the 
+other world−−a place where the sun 
+does not shine, similar to this Tokyo.
+[->][END]

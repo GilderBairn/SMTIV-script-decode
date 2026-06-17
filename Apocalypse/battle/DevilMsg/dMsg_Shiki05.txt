@@ -1,0 +1,65 @@
+0: [71 1]Dammit...
+A new... skill...!
+[->][END]
+1: [71 1]Dammit...
+A new... skill...!
+[->][END]
+2: [71 1]Dammit...
+A new... skill...!
+[->][END]
+3: [71 1]Dammit... the skill quota... is full...
+Hurry up... and throw one... away...!
+[->][END]
+4: [71 1]Do you want... to change... [Color:0x5][Skill 1][Color:0x0]
+to [Color:0x5][Skill 2][Color:0x0]...?
+[->][END]
+5: [71 1]Change it...! All of it...!
+[->][END]
+6: [71 1]What...! You... don't have... any...
+guts...
+[->][END]
+7: [71 1]I'll... change...
+I'll... trans...foooorm!
+[->][END]
+8: [71 1]Say... goodbye... to this... body...!
+[->][END]
+9: [71 1]D...Dammit...! I have... to stay...
+in this... body...!?
+[->][END]
+10: [71 1](仮)変異完了メッセージ
+[->][END]
+11: [71 1]A... little more... I'll... transform...
+one day...!
+[->][END]
+12: [71 1]I'll give... you this... [Color:0x5][Item 1][Color:0x0]...
+It's better... than nothing... right...?
+[->][END]
+13: [71 1]I'll give... you this... [Color:0x5][Item 1][Color:0x0]...
+It's better... than nothing... right...?
+[->][END]
+14: [71 1]I'll give... you this... [Color:0x5][Item 1][Color:0x0]...
+It's better... than nothing... right...?
+[->][END]
+15: [71 1]Taint... yourself... with... the power...
+of the demon...!
+[->][END]
+16: [71 1]Taint yourself... more... Got it...?
+[->][END]
+17: [71 1]I'm... [Color:0x5][Demon race 1] [Demon name 1][Color:0x0]...
+Let's... do this... together...
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

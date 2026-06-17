@@ -1,0 +1,769 @@
+0: Dummy Message
+[END]
+1: [71 1]Totally not in the mood to talk.
+[->][END]
+2: [71 1]Why'd you attack before talking to me? 
+Are you dumb or something?
+[->][END]
+3: [71 1]Liiiiike...
+[->][END]
+4: [71 1]I'm good now. I'll become your ally, 
+then.
+[->][END]
+5: [71 1]...First, can I take something?
+[->][END]
+6: [71 1]...Talk about over−registering your
+stock. You the lecherous type?
+[->]I'm going home, then.
+[->][END]
+7: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Nice to meet you!
+[->][END]
+8: [71 1]...Aren't you a bit low−level?
+[->]I'm going home, then.
+[->][END]
+9: [71 1]Ohhh... You have my BFF with you!
+[->]Say ”hi” to her. I'm going home, then.
+[->][END]
+10: [71 1]You're okay with me inviting another
+demon, right?
+[->][END]
+11: [71 1]...Talk about over−registering your
+stock. You the lecherous type?
+[->][END]
+12: [71 1]*giggle* Maybe I'll have a little fun.
+[->][END]
+13: [71 1]...They're all buzzkills.
+[->][END]
+14: [71 1]Alright, lets go!
+[->][END]
+15: [71 1]I know a fun demon, you know?
+[->][END]
+16: [71 1]Hmmm...
+[->]I'm friends with [Demon name 2]. 
+You look tasty.
+[->][END]
+17: [71 1]...Do you believe in your fate?
+[->]Hehe... Want me to make you believe in
+it?
+[->][END]
+18: [71 1]What? Uh, I don't have Macca.
+[->][END]
+19: [71 1]Hmmmm... You're like the other human
+guys...
+[->][END]
+20: [71 1]Do you wanna die?
+[->][END]
+21: [71 1]Wha...!? You creep!
+[->][END]
+22: [71 1]This is totally not happening! 
+...I'm startin' to get pissed.
+[->][END]
+23: [71 1]...You have some interesting taste, 
+don't you?
+[->][END]
+24: [71 1]...N−No! I can't move right now!
+[->][END]
+25: [71 1]A trade? Sure, why not.
+[->][END]
+26: [71 1]Here you go. Don't use it for anything
+funny, okay?
+[->][END]
+27: [71 1]Ugh... I feel sick...
+[->]Whatever... I don't care...
+[->][END]
+28: [71 1]I'll give you this.
+[->][END]
+29: [71 1]I really need Macca right now.
+[->]Wanna just end this with [Amount 1] Macca?
+[->][END]
+30: [71 1]You'll give me [Item 1] x[Amount 1], 
+right?
+[->][END]
+31: [71 1]You'll give me [Amount 1] Macca, right?
+[->][END]
+32: [71 1]You'll give me a little of your HP,
+right?
+[->][END]
+33: [71 1]You'll give me some of your HP, right?
+[->][END]
+34: [71 1]You'll give me a bunch of your HP,
+right?
+[->][END]
+35: [71 1]You'll give me a serious amount of your
+HP, right?
+[->][END]
+36: [71 1]You'll give me a little of your MP,
+right?
+[->][END]
+37: [71 1]You'll give me some of your MP, right?
+[->][END]
+38: [71 1]You'll give me a bunch of your MP,
+right?
+[->][END]
+39: [71 1]You'll give me a serious amount of your
+MP, right?
+[->][END]
+40: [71 1]You'll give me [Demon name 2]'s life, 
+right?
+[->][END]
+41: [71 1]Give me that, okay?
+[->][END]
+42: [71 1]You'll give me [7e]'s HP, right?
+[->][END]
+43: [71 1]What will you give me?
+[->][END]
+44: [71 1]You know your stuff.
+[->][END]
+45: [71 1]What the heck is that?
+[->][END]
+46: [71 1]Hey there... Wanna do something even 
+funner?
+[->][END]
+47: ”Sure.”
+”No.”
+[->][END]
+48: [71 1]Wooooo!
+[->][END]
+49: 〉 The demon kisses [Flynn]!
+[->][END]
+50: 〉 The demon kisses [Flynn] a bunch!
+[->][END]
+51: [71 1]Wooooooo!
+[->][END]
+52: 〉 The demon slaps [Flynn]!
+[->][END]
+53: 〉 The demon slaps [Flynn] hard!
+[->][END]
+54: [71 1]You're a small man.
+[->][END]
+55: [71 1]You gave me a lot of gifts.
+[->][END]
+56: [71 1]Hmm...?
+[->][END]
+57: [71 1]You have it, but you won't give it to
+me?
+[->]...Then why don't you just die?
+[->][END]
+58: [71 1]Can we just end this?
+[->][END]
+59: [71 1]Ugh, you're really doing that?
+[->]...Then why don't you just die?
+[->][END]
+60: [71 1]So... you don't have it.
+[->][END]
+61: [71 1]You don't have it...
+[->][END]
+62: [71 1]You the type to say no all the time?
+[->]I kinda like that. It's new to me.
+[->][END]
+63: [71 1]This is getting bo−ring.
+[->][END]
+64: [71 1]I'm starting to worry about you. 
+You want me to help you out?
+[->][END]
+65: [71 1]I'm going home now.
+[->][END]
+66: [71 1]Oh, [Flynn]!
+[->]I haven't seen you in a while, so I was
+worried.
+[->][END]
+67: [71 1]Yeah, I can feel it in my heart.
+[->][END]
+68: [71 1]Do you want me to show you my kind side?
+[->][END]
+69: [71 1]How're you? I'll give you this.
+[->][END]
+70: [71 1]I'm tired of talking.
+[->][END]
+71: [71 1]Oh, [Flynn]. Welcome back.
+[->][END]
+72: [71 1]...Is this where I die?
+[->][END]
+73: [71 1]Thank you! You're a good person!
+[->][END]
+74: [71 1]That's cruel...
+[->][END]
+101: 〉 The demon is on guard...
+What will you do?
+[->][END]
+102: Lower your weapon
+Put up your guard
+[->][END]
+103: [71 1]You're a sucker, huh?
+[->][END]
+104: [71 1]Good... Now I can talk without worrying.
+[->][END]
+105: [71 1]Humans have always been as stupid as
+you, huh?
+[->][END]
+106: [71 1]...I'm not fighting! I'll give you this,
+so please don't attack!
+[->][END]
+107: [71 1]Ugh, what a jerk...
+[->][END]
+109: 〉 The demon is approaching you...
+What will you do?
+[->][END]
+110: Step aside
+Raise your weapon
+Don't move
+[->][END]
+111: 〉 [Flynn] dodges the demon!
+[->][END]
+112: 〉 [Flynn] leans to dodge the demon...
+[->][END]
+113: [71 1][13 10, 0]What was that? That was funny!
+[->]You seems interesting. Maybe I'll go
+with you.
+[->][END]
+114: 〉 The demon catches up...
+[->][END]
+115: [71 1]Humans have always been as stupid as
+you, huh?
+[->][END]
+116: [71 1]Eek! Don't kill me...
+[->]If you give something to me, I'll become
+your ally!
+[->][END]
+117: [71 1]Are you trying to act cool?
+[->]But, y'know what? I kinda like that.
+[->][END]
+118: [71 1]Don't move, okay?
+[->][END]
+120: 〉 The demon is beckoning you...
+What will you do?
+[->][END]
+121: Go near
+Beckon back
+Raise your weapon
+[->][END]
+122: [71 1]You really came... Did you think I'd try
+to kill you?
+[->][END]
+123: [71 1]This gift's for you.
+[->][END]
+124: [71 1]Bye now!
+[->][END]
+125: [71 1]That's right, nice and obedient.
+[->][END]
+126: [71 1]If you're going to just stand that far
+away, then I'm going to leave.
+[->][END]
+127: [71 1]Hehehe...
+[->][END]
+128: [71 1]Don't do things like that.
+I was interested in you, too...
+[->][END]
+129: [71 1]Eek! Don't kill me...
+[->]If you give something to me, I'll become
+your ally!
+[->][END]
+131: 〉 The demon is trying to leave...
+What will you do?
+[->][END]
+132: Stop her
+Ignore her
+Raise your weapon
+[->][END]
+133: [71 1]Where are you going? Should I go with
+you?
+[->][END]
+134: [71 1]I'm sorry... I've been summoned, so I
+have to hurry!
+[->][END]
+135: [71 1]Hey...!
+[->]...I want to know more about you. 
+Let's talk.
+[->][END]
+136: [71 1]What kind of Hunter are you if you 
+can't be nice to demons?
+[->][END]
+137: [71 1]Eek! Don't kill me...
+[->]If you give something to me, I'll
+become your ally!
+[->][END]
+138: [71 1]Humans have always been as stupid as
+you, huh?
+[->][END]
+140: 〉 The demon looks unhappy...
+What will you do?
+[->][END]
+141: Say something to her
+Get her attention
+Threaten her
+[->][END]
+142: [71 1]You can't tell by looking? I'm really 
+pissed, y'know?
+[->][END]
+143: [71 1]...
+[->]I have some time to spare.
+[->][END]
+144: Blank Line
+[->][END]
+145: Blank Line
+[->][END]
+146: Blank Line
+[->][END]
+147: [71 1]Eek! Don't kill me...
+[->]If you give something to me, I'll 
+become your ally!
+[->][END]
+148: [71 1]Eek! Don't kill me...
+[->][END]
+150: [71 1]Please, let me go...
+[->][END]
+151: Spare
+Don't spare
+[->][END]
+152: [71 1]Good... Now I can talk without worrying.
+[->][END]
+153: [71 1]Hehe... Do you have a death wish?
+[->][END]
+154: [71 1]What kind of Hunter are you if you
+can't be nice to demons?
+[->][END]
+155: [71 1]I wanted to meet you in a different 
+way...
+[->][END]
+157: [71 1]You're [Flynn]... I've heard of you.
+[->][END]
+158: [71 1]You're an evil Hunter. Maybe I should 
+kill you.
+[->][END]
+159: [71 1]Well, we've met, so why don't we make 
+this meeting mean something?
+[->][END]
+160: [71 1]You and I don't get along, huh.
+[->][END]
+161: 〉 The demon leaves...
+[->][END]
+163: [71 1]Hellooo? I can't trust you humans?
+[->][END]
+164: ”Exactly.”
+”That's not true.”
+”I'm a trustworthy human.”
+[->][END]
+165: [71 1]Hehe... You have an interesting take on
+things.
+[->][END]
+166: 〉 ...And the demon leaves.
+[->][END]
+167: [71 1]Humans have always been as stupid as
+you, huh?
+[->][END]
+168: [71 1]It is.
+[->][END]
+169: [71 1]Hmmmm...
+[->]You seem earnest enough. I'll see what
+you have to say.
+[->][END]
+170: [71 1]Hmmm...
+[->]That's good to know.
+[->][END]
+171: [71 1]I kinda like people like that.
+[->]...Hey, can you show me your strong 
+parts?
+[->][END]
+173: [71 1]Hehe... I'm interested in humans, 
+you know.
+[->][END]
+174: 〉 How will you approach the demon?
+[->][END]
+175: Amicably
+High−handedly
+[->][END]
+176: [71 1]Bo−ring...
+[->]But I have time right now, so I'll 
+let you keep going.
+[->][END]
+177: [71 1]You're like, a good human.
+[->][END]
+178: [71 1]Showing your true colors, huh human...
+[->][END]
+179: [71 1]I kinda like people like that.
+[->]...Hey, can you show me your strong 
+parts?
+[->][END]
+181: [71 1]Hey, what are you doing?
+[->][END]
+182: ”I'm looking for allies.”
+”I'm training.”
+”I'm trying to save the world.”
+[->][END]
+183: Blank Line
+[->][END]
+184: Blank Line
+[->][END]
+185: Blank Line
+[->][END]
+187: [71 1]What do you think happiness is to a 
+demon?
+[->][END]
+188: ”To attack humans.”
+”To become allies.”
+”They have no happiness.”
+[->][END]
+189: [71 1]You know your stuff.
+[->][END]
+190: [71 1]That's a bit different.
+[->]It's to scare humans more and more... 
+and be able to control them.
+[->][END]
+191: [71 1]Isn't it a bit early to say that?
+[->][END]
+192: [71 1]That's not it...
+[->]It's to listen to the screams of humans.
+[->][END]
+193: [71 1]Then maybe I'll become one.
+[->][END]
+194: [71 1]Hehe... You have an interesting take 
+on things.
+[->][END]
+195: 〉 ...And the demon leaves.
+[->][END]
+196: Blank Line
+[->][END]
+198: [71 1]What will you do for me if I become 
+your ally?
+[->][END]
+199: ”Raise you with care.”
+”Use you for fusion.”
+”I haven't thought about it.”
+[->][END]
+200: [71 1]Oh... Are you looking down on us 
+demons? Isn't that mean?
+[->][END]
+201: Blank Line
+[->][END]
+202: Blank Line
+[->][END]
+203: [71 1]You don't seem like you have any 
+worries. I'm jealous.
+[->][END]
+204: [71 1]You should think a little more.
+[->][END]
+206: [71 1]Hey, wanna do something fun?
+[->][END]
+207: ”Sure.”
+”No.”
+”What is it?”
+[->][END]
+208: [71 1]Alright!
+[->][END]
+209: [71 1]Yeah, huh! Then let me ask you this...
+[->][END]
+210: [71 1]Huh? You're asking me? Why don't you 
+think about it yourself?
+[->][END]
+212: [71 1]Hahahahaha...!
+[->][END]
+213: 〉 The demon is ignoring you. She's too
+busy communicating with the Expanse...
+[->]〉 What will you do?
+[->][END]
+214: Talk to her again
+Laugh with her
+Scold her
+[->][END]
+215: 〉 The demon isn't listening at all...
+[->][END]
+216: [71 1]Oh... Are you trying to ”scout” me or 
+something?
+[->]I have a policy of killing anyone 
+who does that.
+[->][END]
+217: [71 1]Huh...?
+[->]Ha... Hahaha... It's funny, huh? 
+[->][END]
+218: 〉 ...And the demon leaves.
+[->][END]
+219: Blank Line
+[->][END]
+220: [71 1]Hey... I don't like scary things...
+[->][END]
+221: [71 1]What the heck... You human...
+[->]But that may be the first time I've 
+been scolded...
+[->]...
+[->][END]
+222: 〉 The demon blushed...
+[->][END]
+224: [71 1]What do humans want to accomplish by 
+killing gods and demons?
+[->][END]
+225: ”To become gods.”
+”To become the rulers of the world.”
+”To make the world a better place.”
+[->][END]
+226: [71 1]That's not true...
+[->]That's what demons do.
+[->][END]
+227: [71 1]It's great to have a big dream, huh?
+[->][END]
+228: 〉 ...And the demon leaves.
+[->][END]
+229: [71 1]It's great to have a big dream, huh?
+[->]First, give me some presents.
+You might get closer to your dream
+that way, y'know?
+[->][END]
+230: [71 1]There are humans out there like you? 
+Maybe I should go with you...
+[->][END]
+231: Blank Line
+[->][END]
+233: [71 1]...Was that scary?
+[->][END]
+234: ”It was scary.”
+”It wasn't scary.”
+[->][END]
+235: [71 1]Hehe... It was, huh? But that's exactly 
+what I wanted to hear.
+[->]Let's be more honest to each other, 
+okay?
+[->][END]
+236: [71 1]Bo−ring...
+[->][END]
+238: 〉 [Flynn] dances a dance...
+[->][END]
+239: [71 1]That's creepy...
+[->][END]
+240: [71 1]You're really into it! Wanna negotiate 
+with me?
+[->][END]
+242: 〉 [Flynn] sings a song...
+[->][END]
+243: [71 1]That's creepy...
+[->][END]
+244: [71 1]You're good! Wanna negotiate with me?
+[->][END]
+246: 〉 [Flynn] flashes some Macca...
+[->][END]
+247: [71 1]Oh... That's some shady business!
+[->][END]
+248: [71 1]Hehehe...
+[->]...I want to see more of your kind 
+side.
+[->][END]
+250: [71 1][13 10, 0]Did you want to see me?
+[->][END]
+251: ”I did.”
+”Not really.”
+[->][END]
+252: [71 1]Hmm...
+[->]Well, good for you.
+[->][END]
+253: [71 1]Hmm...
+[->]That sounded half−hearted.
+[->][END]
+254: [71 1]That made my heart flutter!
+[->]Your attitude may make it beat even 
+more!
+[->][END]
+255: [71 1]Same here...
+[->][END]
+256: [71 1]Hehe... You have an interesting take 
+on things.
+[->][END]
+257: 〉 ...And the demon leaves.
+[->][END]
+258: [71 1]Awwww, pay more attention to me!
+[->]...Did you think I'd really say that?
+[->][END]
+260: [71 1][13 10, 10]Are you having fun?
+[->][END]
+261: ”I am.”
+”I'm not.”
+[->][END]
+262: [71 1]No fair! If you're having that much 
+fun, then make me your ally!
+[->][END]
+263: [71 1]I'm not having any fun...
+[->][END]
+264: [71 1]Then why don't you quit?
+[->][END]
+266: [71 1]Are you up to it?
+[->][END]
+267: ”I am.”
+”Maybe not...”
+[->][END]
+268: [71 1]Hmm...
+[->]Have fun trying.
+[->][END]
+269: [71 1]Hmm...
+[->]Then can you make me believe that?
+[->][END]
+270: [71 1]Then it's okay if I eat you, right?
+[->][END]
+272: [71 1][13 10, 10]Are you happy right now?
+[->][END]
+273: ”I am.”
+”I'm not.”
+[->][END]
+274: [71 1]Oh... Are you looking down on us 
+demons? Isn't that mean?
+[->][END]
+275: [71 1]Then would you die with me?
+[->][END]
+276: [71 1]Why so much despair? I'll help you 
+get some hope.
+[->][END]
+278: [71 1][13 10, 10]You're not going to do anything cruel, 
+right?
+[->][END]
+279: ”I will.”
+”I won't.”
+[->][END]
+280: [71 1]W−Wait! I'm the type that likes to serve!
+[->]I'll negotiate with you, so please 
+don't do anything mean, okay?
+[->][END]
+281: [71 1]Bo−ring...
+[->][END]
+283: [71 1]You just want me for my body, huh?
+[->][END]
+284: ”That's right.”
+”That's not true.”
+[->][END]
+285: 〉 The demon is glaring at you, as if 
+she was looking at scum...
+[->][END]
+286: [71 1]Hehe... Yeah, huh? But that's exactly 
+what I wanted to hear.
+[->]You're an honest human, aren't you? 
+Maybe I should go with you.
+[->][END]
+287: [71 1]I won't be fooled by your lies!
+[->][END]
+289: [71 1]Are you saying that you're not 
+interested in my body?
+[->][END]
+290: ”Not interested.”
+”I AM interested.”
+[->][END]
+291: [71 1]...You're a total bore. You don't even 
+get jokes.
+[->][END]
+292: [71 1]Really!? That makes me happy...
+[->]Looking at you makes my heart flutter...
+[->]And my blood boil!
+[->][END]
+294: [71 1]...Is this meeting fate?
+[->][END]
+295: ”It's fate.”
+”It's not.”
+”I don't know.”
+[->][END]
+296: [71 1]Really!? I didn't know that...
+[->][END]
+297: [71 1]Oh... Are you just half−assing the 
+answer? Maybe I should kill you.
+[->][END]
+298: [71 1]You say that to everyone, don't you?
+[->][END]
+299: [71 1]*giggle* You have an interesting 
+take on things.
+[->][END]
+300: 〉 ...And the demon left.
+[->][END]
+301: [71 1]Do you want me to tell you?
+[->]If you give me gifts, you might find 
+out, you know?
+[->][END]
+303: [71 1]Why?
+[->][END]
+304: ”I don't know what you'll do.”
+”Just because.”
+[->][END]
+305: [71 1]It's simple.
+[->]I'll just accept the gifts you give 
+to me.
+[->][END]
+306: [71 1]It's simple.
+[->]Like this!
+[->][END]
+307: [71 1]Fine then. Bye now!
+[->][END]
+308: [71 1]I'm hurt...
+[->]Comfort me, will you?
+[->][END]
+310: [71 1][13 10, 1]Oh... Sorry! Are you mad at me?
+[->][END]
+311: ”I'm mad.”
+”I'm not mad.”
+[->][END]
+312: [71 1]Why are you so short−tempered?
+[->][END]
+313: [71 1]That's my line.
+[->][END]
+314: [71 1]You say that to everyone, don't you?
+[->][END]
+315: [71 1]You're pretty kind. For a human guy.
+[->]Maybe something good'll happen if you 
+give me something?
+[->][END]
+317: [71 1][13 10, 1]Oh...
+[->][END]
+318: [71 1]It's, uh... been a while...
+[->]...
+[->]So... Can I become your ally?
+[->][END]
+320: [71 1][13 10, 10]Then why do humans want weapons so 
+much?
+[->][END]
+321: ”To defeat bad guys.”
+”I don't need weapons.”
+[->][END]
+322: [71 1]You're the same as the gods...
+[->][END]
+323: [71 1]There are humans out there like you? 
+Maybe I should go with you...
+[->][END]
+324: [71 1]Hehe... You have an interesting take 
+on things.
+[->][END]
+325: 〉 ...And the demon leaves.
+[->][END]
+327: [71 1]Reserved
+[->][END]
+328: Reserved
+[->][END]
+329: Reserved
+[->][END]
+330: Reserved
+[->][END]
+331: [71 1]Reserved
+[->][END]
+332: Reserved
+[->][END]
+333: [71 1]Reserved
+[->][END]
+334: Reserved
+[->][END]
+335: [71 1]Reserved
+[->][END]
+336: Reserved
+[->][END]
+337: [71 1]Reserved
+[->][END]
+338: Reserved
+[->][END]
+339: [71 1]Reserved
+[->][END]
+340: Reserved
+[->][END]
+341: [71 1]Reserved
+[->][END]
+342: Reserved
+[->][END]
+343: [71 1]Reserved
+[->][END]
+344: Reserved
+[->][END]
+345: [71 1]Reserved
+[->][END]
+346: Reserved
+[->][END]
+347: [71 1]Reserved
+[->][END]

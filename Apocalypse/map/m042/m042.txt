@@ -1,0 +1,6 @@
+0: 〉 The door is shut tight.
+[END]
+1: 〉 The door is shut tight.
+[->]〉 It seems you can't open this door
+right now. 
+[END]

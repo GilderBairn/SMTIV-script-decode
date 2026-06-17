@@ -1,0 +1,16 @@
+0: (Stephen) [7a 64425]It's been quite some time since I've
+needed to get serious in a fight...
+[->]I might not be able to hold back.
+Apologies in advance.
+[END]
+900: (Stephen) [7a 64425][7b 262158, 65537]You have shown me your power...
+[->][7b 65550, 65537]Your strengths are all wonderful. 
+I suppose it's no surprise, considering 
+the Goddess saw so much potential in you.
+[->]My job here is done... It seems the
+only thing left now is to leave quietly.
+[->]All of you must return to your own 
+universes and accomplish what you were 
+meant to do.
+[->][7b 262158, 65537]...Until we meet again.
+[END]

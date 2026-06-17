@@ -1,0 +1,22 @@
+0: Tokyo has changed completely during the long fight
+against the demons. We don't have many children left.
+I want the power of a god to help fix this problem. 
+Specifically, [Color:0x5][Demon name 1][Color:0x0]. Just summoning him requires 
+a [Color:0x5]special method[Color:0x0], but after that it should be 
+100 percent successful. I'm counting on you.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Wow! I didn't think I'd ever see him in person. 
+Hunters sure are amazing. When Tokyo regains its 
+former glory, your name will be recorded at the top 
+of the scriptures. I promise! Well, I will go into 
+training now. I have to be prepared, since this god 
+will not tolerate failure.
+[END]

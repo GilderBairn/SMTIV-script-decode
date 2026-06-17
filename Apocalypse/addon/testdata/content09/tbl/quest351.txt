@@ -1,0 +1,9 @@
+0: You're gonna need some top−tier demon allies to
+stay on top as my Godslayer. I'll make sure you
+can get what you need, but these demons won't
+come free. Purchase demons from the Demon Market,
+then step through the exit when you want to return
+to Tokyo.
+[END]
+1: Download Quest 1 again.
+[END]

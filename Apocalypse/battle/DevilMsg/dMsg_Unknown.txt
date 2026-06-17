@@ -1,0 +1,56 @@
+0: [71 1]wZeEKAkdfaza42A RlyaLULPnnaaWo
+[->][END]
+1: [71 1]uIBchads8fs9 8qf;tsalra0mGz
+[->][END]
+2: [71 1]uIBchads8fs9 8qf;tsalra0mGz
+[->][END]
+3: [71 1]hOEzzaaf0ajgrm nWlsdapfe;iFEnsaEEN
+[->][END]
+4: [71 1][Color:0x5][Skill 1][Color:0x0] asdaJGEmg
+taT98e [Color:0x5][Skill 2][Color:0x0].
+[->][END]
+5: [71 1]sas8743NWSktj;e
+[->][END]
+6: [71 1]kaOGXajf8ejgWk9W
+[->][END]
+7: [71 1]WakfaJGEMpb&je RLEjsa'asdf6Sjg
+[->][END]
+8: [71 1]dHGedjafa8Ajsa
+[->][END]
+9: [71 1]TsutavVA84n9
+[->][END]
+10: [71 1]Wagaw*#&jkaQit
+[->][END]
+11: [71 1]PtagjeasUN*faya ptKosmuBE
+[->][END]
+12: [71 1][Color:0x5][Item 1][Color:0x0] asdfjGEasd
+Zega874GjeiGir
+[->][END]
+13: [71 1]YoMGkeawef83BGvw [Color:0x5][Item 1][Color:0x0]
+tjoEWj9J
+[->][END]
+14: [71 1]ajEW$j [Color:0x5][Item 1][Color:0x0] jaset8E
+KowaWEHFWE';WEFR8y32
+[->][END]
+15: [71 1]BNeaksxFEWjOKm... IsDE845GJEiedne...
+[->][END]
+16: [71 1]RejaoRbaXAsadf
+[->][END]
+17: [71 1]JWEFWE [Color:0x5][Demon race 1][Color:0x0] ajfewa!
+Hpawefa8 [Color:0x5][Demon name 1][Color:0x0] jwfaN0!
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+intended has been created.
+[->][END]
+22: Dummy
+[->][END]

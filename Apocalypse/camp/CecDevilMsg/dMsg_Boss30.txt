@@ -1,0 +1,26 @@
+0: [71 1]I shall travel to various places and
+restore proper order... Where shall
+I go next?
+[->][END]
+1: [71 1]So much Filth still prevails in this
+world. I must purify and cleanse it
+all...
+[->][END]
+2: [71 1]There is still much I must do to create 
+a world where today's peace lasts eternal. 
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]This is a gift from the heavens...
+Use it well.
+[->][END]
+7: [71 1]I have prepared this for you.
+Do not hestitate to take it... 
+[->][END]
+8: [71 1]Accept this. I pray that you shall
+be the foundation for order...
+[->][END]

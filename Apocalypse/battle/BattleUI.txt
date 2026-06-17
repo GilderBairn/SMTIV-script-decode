@@ -1,0 +1,9 @@
+0: [7d 3] attack(s) with the [7d 4] element
+Target: [7d 5] Add: [7d 6]
+[END]
+1: [7d 3] attack(s) with the [7d 4] element
+Target: [7d 5] Add: [7d 6]
+[END]
+2: [7d 3] attack(s) with the [7d 4] element
+Target: [7d 5] Add: [7d 6]
+[END]

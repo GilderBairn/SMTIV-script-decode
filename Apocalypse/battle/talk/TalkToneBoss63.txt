@@ -1,0 +1,182 @@
+0: Dummy Message
+[END]
+1: [71 1]I have no interest in thy words.
+[->]The only thing I'm interested in
+is... thy skills!
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Funds? What sort of trick is this?
+[->][END]
+19: [71 1]I shall return the favor!
+[->][END]
+20: [71 1]That was a terrifying technique.
+I shall have my revenge, knave!
+[->][END]
+21: [71 1]Hrngwaaaaaaah!?
+[->][END]
+22: [71 1]What a move...
+I could not resist it...!
+[->][END]
+23: [71 1]I won't let thee!
+[->][END]
+24: [71 1]Urgh... Do as you may!
+[->][END]
+25: [71 1]Hrm? Asketh thou for gifts in the
+midst of battle?
+[->]If thou art so poor, I suppose I
+could. Let us deal.
+[->][END]
+26: [71 1]Extend your hand, boy!
+[->][END]
+27: [71 1]Thou hast good taste, looking at
+this! Take it!
+[->][END]
+28: [71 1]Now, take this as well.
+[->][END]
+29: [71 1]Instead of wasting our time, let us
+decide this now.
+[->]Give me [Amount 1].
+[->][END]
+30: [71 1]I ask for [Item 1] x[Amount 1].
+[->][END]
+31: [71 1]I ask for [Amount 1].
+[->][END]
+32: [71 1]I shall take a smidgen of thy life.
+[->][END]
+33: [71 1]I shall take a fair amount of thy
+life.
+[->][END]
+34: [71 1]I shall take much of thy life.
+[->][END]
+35: [71 1]I shall take a great amount of thy
+life.
+[->][END]
+36: [71 1]I shall take a smidgen of your
+spirit.
+[->][END]
+37: [71 1]I shall take a fair amount of thy
+spirit.
+[->][END]
+38: [71 1]I shall take much of thy spirit.
+[->][END]
+39: [71 1]I shall take a great amount of thy
+spirit.
+[->][END]
+40: [71 1]Thy ally... I ask for
+[Demon name 2]'s life.
+[->][END]
+41: [71 1]Give me something that thou hast.
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]I shall test thee. What do I
+desire?
+[->][END]
+44: [71 1]Exactly! Well played, boy.
+[->][END]
+45: [71 1]A miss! Thou must train more.
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]Thou hast done well. Let us finish
+this.
+[->][END]
+56: [71 1]Sayest thou no?
+[->][END]
+57: [71 1]Then I shall reject thy desire as
+well. Now, let us continue the
+battle!
+[->][END]
+58: [71 1]I am disappointed, boy.
+[->][END]
+59: [71 1]Liest thou, boy? ...'Tis a pity.
+[->]I do not like thine attitude!
+[->][END]
+60: [71 1]Ahh, thou hast it not. I beg thy
+pardon.
+[->][END]
+61: [71 1]Ahh, thou hast no Life Stones. I
+beg thy pardon.
+[->][END]
+62: [71 1]Gahaha! 'Tis actually a good
+feeling to be denied so much!
+[->]'Tis better than seeing someone
+grovel.
+[->][END]
+63: [71 1]...Nodding to all orders I give.
+Boy, is that thy way of life?
+[->]That way of life is not that of a
+human. If thou art not human, I
+need not comply!
+[->][END]
+64: [71 1]...So thou hast naught?
+[->]Thou art that poor... I apologize
+for being so blind to that...
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]I grow weary of this.
+[->][END]
+71: [71 1]Not Used
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

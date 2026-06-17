@@ -1,0 +1,4 @@
+0: Krishna, the demon freed from within the Ark, is
+after [Color:0x5]Flynn[Color:0x0]. Go to [Color:0x5]Ginza[Color:0x0] and warn Flynn that [Color:0x5]he
+is in danger[Color:0x0].
+[END]

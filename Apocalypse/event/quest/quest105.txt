@@ -1,0 +1,22 @@
+0: A group of [Color:0x5]Strixes[Color:0x0] have banded together and taken
+over the [Color:0x5]Nikoshi Department Store[Color:0x0], which houses a 
+large amount of canned food. You can find the store
+by heading out Kinshicho's south exit and heading
+toward Ginza. Be warned, there's quite a few of them, 
+and they've put up a Domain. Wipe them out and
+retrieve the food.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4]
+[END]
+10: Great work. The residents of Ginza are overjoyed−−
+they haven't had canned goods in quite some time.
+The [Color:0x5]black market and legit shops[Color:0x0] in the underground
+district have both agreed to give you a discount,
+so stop by their stores when you have the time.
+[END]

@@ -1,0 +1,19 @@
+0: I'll give you an opportunity to distract yourself.
+[Color:0x5]Defeat demons[Color:0x0] I've prepared by [Color:0x5]predicting their 
+thought patterns and characteristics[Color:0x0]. 
+
+Entertain me, kid.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Excellent. That was quite the show. Keep building 
+strength and one day you will overcome your humanity.
+Kid, you have the power to grasp true freedom...
+Go forth and carve your own path.
+[END]

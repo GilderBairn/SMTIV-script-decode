@@ -1,0 +1,27 @@
+0: [71 1]I slaughtered a lot of people!
+Mister, I hope you die soon!
+[->][END]
+1: [71 1]I slaughtered a lot of people!
+Mister, I hope you die soon!
+[->][END]
+2: [71 1]I slaughtered a lot of people!
+Mister, I hope you die soon!
+[->][END]
+3: [71 1]I'm back!
+Hey, hey−−hurry up and die!
+[->][END]
+4: [71 1]I'm back!
+Hey, hey−−hurry up and die!
+[->][END]
+5: [71 1]I'm back!
+Hey, hey−−hurry up and die!
+[->][END]
+6: [71 1]Here's a gift!
+I'll give you this, so hurry up and die!
+[->][END]
+7: [71 1]Here's a gift!
+I'll give you this, so hurry up and die!
+[->][END]
+8: [71 1]Here's a gift!
+I'll give you this, so hurry up and die!
+[->][END]

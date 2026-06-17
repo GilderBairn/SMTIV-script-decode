@@ -1,0 +1,8 @@
+0: Where will you go?
+[END]
+1: (Burroughs) Where will you go?
+[END]
+2: Going.
+[END]
+3: (Burroughs) Well then, let's go.
+[END]

@@ -1,0 +1,9 @@
+0: To all Hunters:
+
+Just as Krishna claimed, Shesha seems to have 
+resurrected somehow. The serpent's been sighted in
+[Color:0x5]Ikebukuro[Color:0x0]. Go there and defeat the serpent again. 
+Good luck.
+[END]
+1: ダミー
+[END]

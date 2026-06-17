@@ -1,0 +1,186 @@
+0: Dummy Message
+[END]
+1: [71 1]Sorry buddy, I don't care if you
+want me!
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Hmmm? Soooo?
+You want money from me?
+[->]Hyahahaha! That's funny.
+I'm down, go ahead and try!
+[->][END]
+19: [71 1]You really did it, huh?
+I'm about to return the favor!
+[->][END]
+20: [71 1]Know your place, human! It's a
+serious crime to extort money from
+me!
+[->][END]
+21: [71 1]Whoa...!?
+[->][END]
+22: [71 1]Hmmm... Not bad for a human...
+[->][END]
+23: [71 1]Argh! Screw this! I'm not playing
+along with this crap anymore!
+[->][END]
+24: [71 1]This is just dirty. You making me
+an offer that I can't refuse.
+[->][END]
+25: [71 1]Hyahahahaha! You really like to
+play, don't ya? Yeah sure, I'm all
+for it.
+[->]If ya want my stuff, you better
+give me something that's worth it.
+[->][END]
+26: [71 1]I'll give you this. Happy, now?
+[->]Now let's restart this awesome
+battle!
+[->][END]
+27: [71 1]You're true to your desires, human!
+I like that!
+[->][END]
+28: [71 1]Now, take what you want!
+[->][END]
+29: [71 1]It'd be boring to keep trudging
+along, eh? Let's decide right now.
+[->][Amount 1] Macca! Now, out with it.
+[->][END]
+30: [71 1]Hand over [Item 1] x[Amount 1].
+[->][END]
+31: [71 1]I'll take [Amount 1] Macca.
+[->][END]
+32: [71 1]I'll grab a pinch of your life.
+[->][END]
+33: [71 1]I'll grab some of your life.
+[->][END]
+34: [71 1]I'll grab a bunch of your life.
+[->][END]
+35: [71 1]I'll grab a crapload of your life.
+[->][END]
+36: [71 1]I'll grab a pinch of your spirit.
+[->][END]
+37: [71 1]I'll grab some of your spirit.
+[->][END]
+38: [71 1]I'll grab a bunch of your spirit.
+[->][END]
+39: [71 1]I'll grab a crapload of your spirit.
+[->][END]
+40: [71 1]Your ally... I'll take
+[Demon name 2]'s life.
+[->][END]
+41: [71 1]Y'know that? I'll take it.
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]I'm sure you know what I want,
+right?
+[->][END]
+44: [71 1]Bingo! You really know things.
+[->][END]
+45: [71 1]Way to screw things up.
+You're boring, y'know that?
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]Yeah, yeah. You ain't so bad!
+[->][END]
+56: [71 1]Oh? So that's how it's gonna be?
+[->][END]
+57: [71 1]You suck, y'know that? Let's at
+least have some fun battling!
+[->][END]
+58: [71 1]...Oh, that so? Then screw that.
+[->][END]
+59: [71 1]Bullshit.
+[->]I like playing... but I don't like being played!
+[->][END]
+60: [71 1]Huh? You don't have it? Man, this
+sucks.
+[->][END]
+61: [71 1]Huh? You don't have a Life Stone?
+Man, this sucks.
+[->][END]
+62: [71 1]Hyahahaha! You're asking me for
+stuff, but you're not willing to
+give me anything!?
+[->]You're so selfish! I haven't laughed
+like this in a while!
+[->][END]
+63: [71 1]...I got what I wanted, but I'm not
+into it.
+[->]Screw the deal! Let's start
+fighting!
+[->][END]
+64: [71 1]Huh? You don't have this? Or that?
+Or anything?
+[->]Hyahahaha! I'm surprised you had
+the balls to start a negotiation!
+[->]You're crazy, I like that!
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]This again? This sucks...
+[->][END]
+71: [71 1]Not Used
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

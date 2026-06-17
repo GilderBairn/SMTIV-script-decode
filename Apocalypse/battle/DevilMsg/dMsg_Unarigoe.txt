@@ -1,0 +1,55 @@
+0: [71 1]Hot! hoT!
+[->][END]
+1: [71 1][Flynn]...! CoLD! COld!
+[->][END]
+2: [71 1]HuRts! hURts!
+[->][END]
+3: 〉 The demon is spaced out...
+[->][END]
+4: [71 1][Color:0x5][Skill 1][Color:0x0] tO
+[Color:0x5][Skill 2][Color:0x0]...
+[->][END]
+5: 〉 The demon silently nodded.
+[->][END]
+6: 〉 The demon sadly let out a growl.
+[->][END]
+7: [71 1]i WanT tO bE A HumAN...
+[->][END]
+8: [71 1]i Don'T WAnT to dIE...
+[->][END]
+9: [71 1]GyUGyuGyUgYUgyUgYuGYuGYu!
+[->][END]
+10: [71 1]AKyakYAkYAKYakyAKyAkYA...!
+[->][END]
+11: 〉 The demon is spaced out...
+[->][END]
+12: 〉 The demon quietly offers a [Color:0x5][Item 1][Color:0x0].
+[->][END]
+13: 〉 The demon happily offers a [Color:0x5][Item 1][Color:0x0].
+[->][END]
+14: [71 1][Color:0x5][Item 1][Color:0x0] tO ALly...
+[->][END]
+15: [71 1]BRaiN.
+[->][END]
+16: [71 1]hAPpy...?
+[->][END]
+17: 〉 The demon's voice directly speaks to you
+in your head...
+[->]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Nice to meet you.
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+intended has been created.
+[->][END]
+22: Dummy
+[->][END]

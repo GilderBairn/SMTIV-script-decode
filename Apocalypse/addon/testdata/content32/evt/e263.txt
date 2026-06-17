@@ -1,0 +1,70 @@
+100: 〉 Beyond the door, you find a 
+young man surrounded by enemies.
+[->]〉 It seems he is one of the others
+who found their way here.
+[END]
+101: 〉 Demi−fiend deftly avoids the enemy
+attacks while overwhelming them with
+magic.
+[END]
+102: (Demi−fiend) [7a 6]Who're you!? Tch. If you're not an 
+enemy, then get back!
+[END]
+103: 〉 Demi−fiend bravely faces off against 
+the horde, taking them down one after 
+another.
+[->]〉 Will you help Demi−fiend?
+[END]
+104: Help him
+Hang back and watch
+A〉選択肢01_A加勢する
+A〉選択肢01_Bもう少し様子を見る
+[END]
+105: 〉 You leap into the fray and cut down
+one of the enemies.
+[END]
+106: (Demi−fiend) [7a 6]Hey... So you can fight after all.
+[END]
+107: 〉 Demi−fiend nods at you.
+[END]
+108: (Demi−fiend) [7a 6]Sorry, but could you take care of
+those guys for me?
+[END]
+109: 〉 You decide to hang back and watch.
+[END]
+110: (Demi−fiend) [7a 6]Yeah, why don't you just stay out 
+of my way.
+[END]
+111: Demi−fiend obliterates the enemies 
+with overwhelming magical power...
+[->]〉 It doesn't really seem like he
+needs your help.
+[END]
+112: 〉 Suddenly, a horde of enemies 
+attacks you from behind!
+[END]
+113: 〉 Demi−fiend blasts away more enemies 
+and charges off toward another group.
+[->]〉 You ready your weapon and face
+your own group of enemies.
+[END]
+200: (Demi−fiend) [7a 6]You're not half−bad...
+[END]
+201: 〉 Demi−fiend, having finished off 
+his own enemies, walks over to you.
+[END]
+202: (Demi−fiend) [7a 6]Who are you? Why am I here? Tell me
+anything you know.
+[END]
+203: 〉 You explain the situation to 
+Demi−fiend.
+[END]
+204: (Demi−fiend) [7a 6]I see... I should go see En no Ozuno, 
+huh?
+[->]I'll head there and wait for you. 
+See ya later.
+[END]
+205: 〉 Demi−fiend walks off.
+[END]
+1000: 〉 The room is silent.
+[END]

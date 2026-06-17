@@ -1,0 +1,26 @@
+0: [71 1]I got stronger with warrior training!
+There was a lotsa people in space.
+[->][END]
+1: [71 1]I helped a lot of Hunters, but 
+[Flynn] is the best.
+[->][END]
+2: [71 1]I want to cross the cyber sea and 
+strive to be the strongest!
+[->][END]
+3: [71 1]I fused indiscriminately! 
+Raaah!
+[->][END]
+4: [71 1]Remember me, [Flynn]?
+I became stronger at the cyber world!
+[->][END]
+5: [71 1]I almost got my consciousness
+taken over by other demons...
+[->][END]
+6: [71 1]Here, a souvenir from the different world!
+[->][END]
+7: [71 1]I thought of you, [Flynn], and stole
+it from the other Hunter!
+[->][END]
+8: [71 1]The other world's Kanto
+had a lotta cold people.
+[->][END]

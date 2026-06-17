@@ -1,0 +1,21 @@
+0: Hey again! Got another test for all you Hunters. 
+This time, I want you to [Color:0x5]exploit the weaknesses[Color:0x0] of 
+[Color:0x5]300 demons[Color:0x0]. I'm sure you're used to fighting demons 
+by now, but I want you to really double down on 
+learning their various traits.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: You're pretty good! I didn't expect someone your age 
+to be so skilled. Understanding demon weaknesses is 
+a crucial part of being a Hunter. This test proves 
+that you have a strong understanding of your enemies 
+and allies alike. For that, I give you a passing mark. 
+Good luck out there!
+[END]

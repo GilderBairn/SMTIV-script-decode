@@ -1,0 +1,169 @@
+0: Dummy Message
+[END]
+1: [71 1]You think you can defeat me with mere
+words? I think not. Show me your might.
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]You dare rob me?
+[->][END]
+19: [71 1]To think I would fall prey to this... 
+How miserable...
+[->][END]
+20: [71 1]Do not be so arrogant! You leave me 
+no choice but to punish you!
+[->][END]
+21: [71 1]Ugh... Why!?
+[->][END]
+22: [71 1]Do not think you can get away
+with this, fool!
+[->][END]
+23: [71 1]Enough!
+[->][END]
+24: [71 1]You brute, taking my money while I'm
+helpless...
+[->][END]
+25: [71 1]You want my treasure? Present me with
+something worthwhile, then.
+[->][END]
+26: [71 1]Very well. You may have my treasure.
+[->][END]
+27: [71 1]Hmph, you want my treasure? Very well.
+You may have it.
+[->][END]
+28: [71 1]And this, as well. Be honored.
+[->][END]
+29: [71 1]There is no point to prattling on.
+Provide me a single, simple answer.
+[->][Amount 1] Macca... That is whatI ask.
+[->][END]
+30: [71 1]I desire [Item 1] x[Amount 1].
+[->][END]
+31: [71 1]I desire [Amount 1] Macca.
+[->][END]
+32: [71 1]I will take a pinch of your life force.
+[->][END]
+33: [71 1]I will take a fair amount of your life force.
+[->][END]
+34: [71 1]I will take much of your life force.
+[->][END]
+35: [71 1]I will take a great amount of your life force.
+[->][END]
+36: [71 1]I will take a pinch of your spiritual energy.
+[->][END]
+37: [71 1]I will take a fair amount of your 
+spiritual energy.
+[->][END]
+38: [71 1]I will take much of your spiritual energy.
+[->][END]
+39: [71 1]I will take a great amount of your 
+spiritual energy.
+[->][END]
+40: [71 1]I will take your ally... [Demon name 2]'s life.
+[->][END]
+41: [71 1]I desire that.
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Guess my desire.
+[->][END]
+44: [71 1]Excellent... This is what I desire.
+[->][END]
+45: [71 1]No... You clearly do not understand me.
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]This shall do.
+[->][END]
+56: [71 1]Hrm, this is reasonable...
+[->][END]
+57: [71 1]Are you unwilling to agree to my request?
+Then there's no point in this discussion!
+[->][END]
+58: [71 1]I understand. I expected too much of you.
+[->][END]
+59: [71 1]You think you can fool me?
+Don't make me laugh...
+[->][END]
+60: [71 1]Hrm, it seems you cannot fulfill my request.
+[->][END]
+61: [71 1]Hrm, it seems you do not have a Life Stone.
+[->][END]
+62: [71 1]Your resolve to deny me is... impressive.
+[->][END]
+63: [71 1]It seems you lack a spirit of defiance.
+[->]I detest those with no pluck.
+[->][END]
+64: [71 1]You have nothing, and yet still possess
+the means to gain more.
+[->]Repay my charity by showing me your
+spirit!
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]The same topic, over and over...
+You are an incredibly boring man.
+[->][END]
+71: [71 1]Apologies for troubling you. My absence 
+will no longer be a problem.
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

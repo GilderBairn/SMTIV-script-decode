@@ -1,0 +1,8 @@
+0: To all Hunters:
+
+As part of our ongoing effort to save Flynn, we need
+you to deliver supplies to Shinjuku. Please carry out
+this mission as quickly as possible.
+[END]
+1: ダミー
+[END]

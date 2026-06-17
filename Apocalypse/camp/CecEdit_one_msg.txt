@@ -1,0 +1,394 @@
+0: Nice to meet you.
+[END]
+1: Nice job!
+[END]
+2: Great work out there.
+[END]
+3: Hi! Hope to see you around!
+[END]
+4: Thanks for always exchanging!
+[END]
+5: Let me introduce you to my partner!
+[END]
+6: This demon is my pride and joy!
+[END]
+7: Isn't this demon great?
+[END]
+8: This is the coolest demon out there.
+[END]
+9: Behold, my demon!
+[END]
+10: My demon's a bit different!
+[END]
+11: My demon is fresh. Treat it well.
+[END]
+12: I hope it gets stronger!
+[END]
+13: Don't hold back!
+[END]
+14: This demon's gonna get stronger!
+[END]
+15: It's growing stronger by the second!
+[END]
+16: Can't wait to see the results!
+[END]
+17: Let's aim for the top with our demons!
+[END]
+18: Come on, let's fuse with each other!
+[END]
+19: Alright! Let's go, Nanashi!
+[END]
+20: Nrgh!?
+[END]
+21: I'll get a good shot of you!
+[END]
+22: Let's go, Leader!
+[END]
+23: I am magnificent!
+[END]
+24: This is my duty...
+[END]
+25: I'm ready whenever you are.
+[END]
+26: I want to protect them all...
+[END]
+27: Come on now...
+[END]
+28: What a joke.
+[END]
+29: I am your light.
+[END]
+30: It's no use. I'm getting an error...
+[END]
+31: ME EAT YOU WHOLE
+[END]
+32: Max
+[END]
+100: ダミー
+[END]
+101: ダミー
+[END]
+102: ダミー
+[END]
+103: ダミー
+[END]
+104: ダミー
+[END]
+105: ダミー
+[END]
+106: ダミー
+[END]
+107: ダミー
+[END]
+108: ダミー
+[END]
+109: ダミー
+[END]
+110: ダミー
+[END]
+111: ダミー
+[END]
+112: ダミー
+[END]
+113: ダミー
+[END]
+114: ダミー
+[END]
+115: ダミー
+[END]
+200: Sorry! I'll attach one next time!
+[END]
+201: Might as well try StreetPass.
+[END]
+202: Testing StreetPass...
+[END]
+203: I'm gonna wait and see.
+[END]
+204: Max
+[END]
+300: Camouflage
+[END]
+301: White
+[END]
+302: Black
+[END]
+303: Your Room
+[END]
+304: Asahi's Room
+[END]
+305: Hunter Association
+[END]
+306: Tokyo
+[END]
+307: Battlefield
+[END]
+308: Eastern Kingdom of Mikado
+[END]
+309: Background Max
+[END]
+400: Standing 1
+[END]
+401: Standing 2
+[END]
+402: Standing 3
+[END]
+403: Standing 4
+[END]
+404: Running
+[END]
+405: Using Smartphone
+[END]
+406: Battle Stance 1
+[END]
+407: Battle Stance 2
+[END]
+408: Battle Stance 3
+[END]
+409: Crouching
+[END]
+410: Sitting
+[END]
+411: Pose max
+[END]
+500: Dummy
+[END]
+501: Still just a fledgling Hunter cadet. 
+When will you become a full Hunter?
+[END]
+502: A rookie who carries the people's hope. 
+How strong is your hidden power?
+[END]
+503: A grunt working for the Hunter Association.
+Try not to let your dissatisfaction show.
+[END]
+504: An official member of the Hunter Association.
+Fight demons and recruit them.
+[END]
+505: Fires and arguments are the beauty of Tokyo.
+Leave it to me to mediate fights.
+[END]
+506: One who dances in the palm of another's
+hand. Calamity strikes regardless of intent.
+[END]
+507: It came out a demon is keeping you alive. 
+That's why you're still alive today.
+[END]
+508: You rescued Flynn, the Liberator. 
+Tokyo's future will certainly be peaceful.
+[END]
+509: You escaped the prison in Mikado. 
+Didn't even need to dig a tunnel.
+[END]
+510: You brought an end to Armageddon. 
+It's the age of humans now.
+[END]
+511: You defeated Mitra and stayed linked to the
+real world. The moon will be full soon...
+[END]
+512: You defeated YHVH and won true freedom. 
+This is the path you chose as a human.
+[END]
+513: You defeated YHVH and created a new universe.
+This is the path you chose as a new god.
+[END]
+514: You desired a world where the peace of 
+today lasts forever and sided with Merkabah.
+[END]
+515: You desired a world that the strong can 
+shape as they see fit and siding with Lucifer.
+[END]
+516: You are considerate to others and have
+strong bonds with your friends.
+[END]
+517: You are frequently considerate and nurture
+the bonds with your friends.
+[END]
+518: You are proactively considerate to others. 
+No one can break the bonds you have.
+[END]
+519: You act without paying any mind to others and
+have taken the first step as Dagda's puppet.
+[END]
+520: You paid no mind to others and as such
+are recognized as Dagda's right hand.
+[END]
+521: You proactively pay no mind to others 
+and serve as Dagda's successor.
+[END]
+522: You defeated 100 demons. Not a bad record 
+for a Hunter.
+[END]
+523: You defeated 1,000 demons. People regard 
+you as a celebrated hero.
+[END]
+524: You defeated 8 Fiends. 
+All were fearsomely strong foes.
+[END]
+525: You returned from Yomotsu Hirasaka 10 times.
+A puppet's life can never run out.
+[END]
+526: An error occurred while fusing demons. 
+Failure leads to success. Don't lose heart.
+[END]
+527: You created 30 demons through special fusion. 
+Just how much Macca did you spend...?
+[END]
+528: You completed 30% of the Demon Compendium. 
+Your demon collecting is going well.
+[END]
+529: You completed 60% of the Demon Compendium. 
+Mido is probably satisfied.
+[END]
+530: You completed the Demon Compendium. 
+No demons remain unknown to you.
+[END]
+531: You successfully Scouted demons 100 times. 
+There are no demons you can't sway.
+[END]
+532: You failed in demon negotiation 10 times. 
+One can never truly understand demons.
+[END]
+533: You talked with your demons 50 times. 
+There is a deep trust between you.
+[END]
+534: You deleted a demon. Sometimes, calm−headed
+decisions are necessary.
+[END]
+535: You successfully escaped from battle 10 times. 
+Sometimes, running is the best option.
+[END]
+536: You failed to escape from battle 10 times. 
+You cannot escape from reality.
+[END]
+537: You gained the Smirk status 500 times.
+Once you start fighting, you can't stop smiling.
+[END]
+538: You successfully traded 10 times. At this 
+rate, you could start a business doing this.
+[END]
+539: You successfully used Fundraise 100 times. 
+It's not extortion−−you're being benevolent.
+[END]
+540: You dealt 1,000 damage in a single hit. 
+Your average demon is no match for you.
+[END]
+541: You dealt 10,000 damage in a single hit. 
+Slaughter your enemies at full power.
+[END]
+542: You activated 10 Assist Attacks. 
+Reliable partners are good to have around.
+[END]
+543: Your Strength exceeds 200 without equipment.
+You may have trained a little too hard.
+[END]
+544: Your Dexterity exceeds 200 without equipment.
+Splendid deftness, if I do say so myself.
+[END]
+545: Your Magic exceeds 200 without equipment.
+Power flows throughout you.
+[END]
+546: Your Agility exceeds 200 without equipment. 
+You are truly as fast as a gale.
+[END]
+547: Your Luck exceeds 200 without equipment. 
+You feel like you can do anything.
+[END]
+548: You ate a meal at every Hunter Association.
+All of them inedib−−had a... unique flavor.
+[END]
+549: You completed 10 Challenge Quests. 
+Give me any quest you've got.
+[END]
+550: You completed 50 Challenge Quests. 
+You can complete quests in a snap.
+[END]
+551: Your Macca exceeded 1,000,000. 
+It's getting hard to carry...
+[END]
+552: You spent more than 100,000 Macca. 
+You can buy stuff whenever you want.
+[END]
+553: You donated more than 100,000 Macca through 
+demon conversations. Money is no object.
+[END]
+554: You battled with Asahi as your partner 
+10 times. You make a good team.
+[END]
+555: You battled with Asahi as your partner 
+100 times. She is irreplaceable.
+[END]
+556: You battled with Navarre as your partner 
+10 times. You can see him, so he won't leave.
+[END]
+557: You battled with Navarre as your partner
+100 times. Let's just say you're his disciple.
+[END]
+558: You battled with Nozomi as your partner
+10 times. She still treats you like a child.
+[END]
+559: You battled with Nozomi as your partner 
+100 times. The trust between you is strong.
+[END]
+560: You battled with Gaston as your partner
+10 times. He's obnoxious, but a great fighter.
+[END]
+561: You battled with Gaston as your partner 
+100 times. He's a great war buddy.
+[END]
+562: You battled with Hallelujah as your partner 
+10 times. You can tell he idolizes you.
+[END]
+563: You battled with Hallelujah as your partner 
+100 times. You're at ease having him around.
+[END]
+564: You battled with Toki as your partner 10
+times. She's slowly starting to trust you.
+[END]
+565: You battled with Toki as your partner 100
+times. Always by your side, watching you...
+[END]
+566: You battled with Isabeau as your partner 
+10 times. She seems to have faith in you.
+[END]
+567: You battled with Isabeau as your partner
+100 times. You can tell she counts on you.
+[END]
+568: You successfully performed 100 preemptive
+attacks. You understand your weapon's range.
+[END]
+569: You successfully performed 500 preemptive
+attacks. You carve your own path.
+[END]
+570: You fell into 10 traps. I mean, there's no
+way to avoid them, right?
+[END]
+571: You destroyed 50 objects on the map. 
+You're the avatar of destruction.
+[END]
+572: You reported 10 missing Hunters. 
+Out of good will, not for the App Points...
+[END]
+573: You destroyed Wraith Walls and repelled 
+enemies with the Jade Dagger 100 times.
+[END]
+574: You ran more than 42.195 kilometers. 
+That will benefit you in the long run.
+[END]
+575: You ran more than 100 kilometers. You may
+have Dagda to thank for your now strong legs.
+[END]
+576: Proof you inherited the memories of another
+world. Never forget the Samurai Code.
+[END]
+577: Proof you inherited the memories of another
+world and brought order to it in a past life.
+[END]
+578: Proof you inherited the memories of another
+world and brought chaos to it in a past life.
+[END]
+579: Proof you inherited the memories of another
+world and forged a new path in a past life.
+[END]
+580: Proof you inherited the memories of another
+world that was reduced to nothing.
+[END]

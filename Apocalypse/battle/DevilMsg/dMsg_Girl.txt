@@ -1,0 +1,60 @@
+0: [71 1]I think I learned a skill! So will you
+let me slaughter more?
+[->][END]
+1: [71 1]Mister, I'll let you use my new skill!
+[->][END]
+2: [71 1]Hehehe... I just keep getting stronger!
+[->][END]
+3: [71 1]I don't need this much...
+[->][END]
+4: [71 1]Let's change [Color:0x5][Skill 1][Color:0x0] to
+[Color:0x5][Skill 2][Color:0x0], okay?
+[->][END]
+5: [71 1]Heeheehee! It's so fuuuun!
+[->][END]
+6: [71 1]Hmph! What a cheapo...
+[->][END]
+7: [71 1]Will you still like me even if I get
+stronger?
+[->][END]
+8: [71 1]See you... mister...
+[->][END]
+9: [71 1]Ugh! This is so boring!
+[->][END]
+10: [71 1]This is the real me...?
+[->][END]
+11: [71 1]I feel tingly... There's something moving
+in me...
+[->][END]
+12: [71 1]I'll give you this [Color:0x5][Item 1][Color:0x0].
+So don't make me feel lonely, okay?
+[->][END]
+13: [71 1][Color:0x5][Item 1][Color:0x0]...
+[Flynn], you're my slave, got it?
+[->][END]
+14: [71 1]Here [Color:0x5][Item 1][Color:0x0]!
+Take care of it!
+[->][END]
+15: [71 1]Mister, do you want a little
+of my demon powers in you?
+[->][END]
+16: [71 1]Haha! What a cute human...
+[->][END]
+17: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Nice to meet you...
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

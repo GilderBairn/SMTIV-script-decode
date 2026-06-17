@@ -1,0 +1,15 @@
+0: To all Hunters:
+Please [Color:0x5]salvage the supplies needed to construct the 
+Shesha Radar[Color:0x0]. This will let us track the serpent's 
+exact location. For more details, please report to 
+the laboratory on [Color:0x5]Kasumigaseki's fourth level[Color:0x0].
+[END]
+1: ダミー
+[END]
+2: Hunters:
+Retrieve a [Color:0x5]sensor[Color:0x0] from the salvage at the
+Sky Tower.
+[END]
+3: Now that you've found a sensor, deliver it to the
+[Color:0x5]nearest Hunter Association[Color:0x0].
+[END]

@@ -1,0 +1,24 @@
+0: [71 1]Chaos has tainted
+one more world... 
+[->][END]
+1: [71 1]Numerous Samurai have been swallowed
+by the chaos I've brought... 
+[->][END]
+2: [71 1]The world is churning with desire.
+What land will call to me next... 
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]Shall I call this a souvenir
+or the remains of destruction...
+[->][END]
+7: [71 1]The times change and items wander places...
+This gift will now be owned by you.
+[->][END]
+8: [71 1]I saw chaos in this item.
+Thus, it is a gift to thee... 
+[->][END]

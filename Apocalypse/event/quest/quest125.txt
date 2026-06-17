@@ -1,0 +1,19 @@
+0: In the desert of the Johoku area, north of Ueno,
+you'll find an area within the [Color:0x5]the ruins of
+Ogunohara Park[Color:0x0] swarming with demons. I'd like
+you to bring a [Color:0x5]strong sapling[Color:0x0] back 
+to the lab.
+[END]
+1: Delivery Quest Description Second Time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Oh, I am so delighted! New life is budding in Tokyo
+after 25 years! Even with the world the way it is, 
+even the plants have adapted and evolved. We won't 
+be outdone by a plant. Thank you.
+[END]

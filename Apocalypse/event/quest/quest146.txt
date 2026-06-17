@@ -1,0 +1,22 @@
+0: Ever since Tokyo got sealed, we've been maintaining 
+the station to preserve wireless communications, but 
+the time has come. The antenna's been wearing down, 
+and it finally bit the dust. So, we need [Color:0x5]two[Color:0x0] new 
+[Color:0x5]station antennas[Color:0x0]. I've heard rumors that there's an 
+[Color:0x5]emergency supplies storehouse[Color:0x0] underneath 
+[Color:0x5]Kasumigaseki[Color:0x0]. Could you try looking there?
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: I can't believe there were still brand new antennas 
+left. With these, we could keep fighting for another 
+25 years! Well, it would be better if we could make 
+replacements instead of having to keep maintaining 
+them. Living in Tokyo is a real pain sometimes.
+[END]

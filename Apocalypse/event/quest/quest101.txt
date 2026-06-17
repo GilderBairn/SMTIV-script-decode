@@ -1,0 +1,21 @@
+0: I want to make some inarizushi for the kids here−−
+they don't get nearly enough good food. Could you
+find [Color:0x5][Amount 1] [Item 1]s[Color:0x0] for me? What goes in the 
+pouches is the best part. You can find Mamedanuki 
+lurking around [Color:0x5]Kinshi Park[Color:0x0]. Please, help me 
+achieve culinary perfection.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Just as I thought! The perfect ingredient! Now this 
+inarizushi will deliver a knock−out blow to their 
+taste buds! I'll make some extra for the [Color:0x5]Kinshicho 
+Hunter Association[Color:0x0], so you can have some too. Heck, 
+I'll even sell them to you at a [Color:0x5]discount[Color:0x0]!
+[END]

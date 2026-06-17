@@ -1,0 +1,34 @@
+0: There's a [Color:0x5]top−secret mission[Color:0x0] I'd like to discuss with 
+you all in person. Please come to [Color:0x5]the new Hunter HQ 
+in Kasumigaseki[Color:0x0] as soon as you can. Head down to 
+[Color:0x5]the second level[Color:0x0] and meet me there.
+[END]
+1: ダミー
+[END]
+2: Your mission is to infiltrate the [Color:0x5]Eastern Kingdom
+of Mikado[Color:0x0]. With Isabeau's help, I want you to
+covertly uncover whatever the Kingdom's planning.
+To get there, [Color:0x5]ascend the Sky Tower[Color:0x0], get past the
+Wailing Gate checkpoint, and then continue into the 
+castle. Be cautious−−if you are discovered, it's 
+likely you'll never see Tokyo again.
+[END]
+3: Seems there's to be some sort of emergency meeting
+held at Aquila Statue Plaza. We've still got a bit
+of time before it begins, however, so we ought to
+continue [Color:0x5]gathering information[Color:0x0].
+[END]
+4: The [Color:0x5]emergency meeting[Color:0x0] should be starting soon.
+It might yield useful information about Merkabah's
+next steps. Let's head to [Color:0x5]Aquila Statue Plaza[Color:0x0].
+[END]
+5: With our equipment retrieved, I can fight by your
+side again, Master. I think we've learned all we
+can from Mikado. Let's head to the [Color:0x5]Terminal[Color:0x0] in
+[Color:0x5]Aquila Statue Plaza[Color:0x0].
+[END]
+6: Gaston of all people actually got us out of Mikado.
+Our next step is to [Color:0x5]return to the Hunter HQ[Color:0x0] and
+[Color:0x5]tell Fujiwara what we learned[Color:0x0]. Let's get to it,
+Leader.
+[END]

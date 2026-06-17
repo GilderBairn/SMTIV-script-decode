@@ -1,0 +1,24 @@
+0: [71 1]Hahaha... I have deepened my insight
+and new forms of strength.
+[->][END]
+1: [71 1]Every encounter is a new source of
+experience, after all.
+[->][END]
+2: [71 1]I can become even stronger... 
+I seek chaos and what lies beyond it.
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]Ah yes, let me give this to you.
+It's just a simple souvenir. 
+[->][END]
+7: [71 1]Hahha... Allow me to give you something... 
+A gift. Isn't it nice?
+[->][END]
+8: [71 1]Now accept it.
+I brought it for you, after all.
+[->][END]

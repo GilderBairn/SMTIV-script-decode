@@ -1,0 +1,66 @@
+1: Failed to connect to the Internet.
+The SD Card may not be inserted or 
+may have been removed. Please turn
+the Nintendo 3DS system off, reinsert
+the SD Card, and try again.
+[END]
+2: An error has occurred. The SD Card 
+may not be inserted or may have been
+removed. Please turn the Nintendo 3DS
+system off, reinsert the SD Card, and
+try again. Returning to checking the
+Internet connection.
+[END]
+3: An error has occurred.
+Make sure that the SD Card is not
+set to write−protect. Returning to
+the Internet connection screen...
+[END]
+4: The SD Card could not be recognized.
+Please turn the Nintendo 3DS system
+off, reinsert the SD Card, and try 
+again. Returning to the Internet
+connection screen...
+[END]
+5: An error has occurred. It's possible
+that the SD Card is not inserted or
+has been removed during the 
+connection. Please turn the Nintendo
+3DS system off, reinsert the SD Card,
+and try again. Returning to the 
+Internet connection screen...
+[END]
+50: The add−on content could not be
+recognized. Returning to the Internet
+connection screen...
+[END]
+100: There is no SD Card inserted. Please
+turn the Nintendo 3DS system off,
+insert the SD Card, and try again.
+[END]
+101: The add−on content could not be
+recognized. It is possible that the
+SD Card is not inserted or has been
+removed during the connection. Please
+turn the Nintendo 3DS system off,
+reinsert the SD Card, and try again.
+[END]
+102: The add−on content could not be
+recognized. It is possible that the
+SD Card is not inserted or has been
+removed during the connection. Please
+turn the Nintendo 3DS system off,
+reinsert the SD Card, and try again.
+Returning to the Internet connection
+screen...
+[END]
+103: The add−on content could not be
+recognized. It is possible that the
+SD Card is not inserted or has been
+removed during the connection. Please
+turn the Nintendo 3DS system off,
+reinsert the SD Card, and try again.
+[END]
+150: The add−on content could not be
+recognized.
+[END]

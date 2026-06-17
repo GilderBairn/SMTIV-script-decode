@@ -1,0 +1,6 @@
+0: 〉 No one is here.
+ 
+[END]
+1: 〉 There's something on the floor.
+[->]〉 You obtain [Color:0x5][Item 1][Color:0x0].
+[END]

@@ -1,0 +1,14 @@
+0: I have detected a strange occurrence coming from an
+underground location in Shinjuku. The intelligence
+division has gone out to investigate, but they
+haven't found anything yet. I want you to go to the 
+[Color:0x5]area in question[Color:0x0] and [Color:0x5]investigate[Color:0x0].
+[END]
+1: ダミー
+[END]
+2: I know I'm a failure as an older sister by asking
+my little brother to do something like this, but I
+have no one else to depend on. This is [Color:0x5]my last wish[Color:0x0], 
+so please, Akira, forgive me...
+I need you to [Color:0x5]kill me[Color:0x0].
+[END]

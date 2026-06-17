@@ -1,0 +1,1315 @@
+0: Dummy Message
+[END]
+1: [71 1]Step down, knave. Our paths meet not.
+[->][END]
+2: [71 1]Thou hast previously disgraced me. 
+Prepare thyself for vengeance.
+[->][END]
+3: [71 1]Allowest me to think...
+[->][END]
+4: [71 1]So be it. I shall lend thee my might.
+[->][END]
+5: [71 1]First, present me with an offering.
+[->][END]
+6: [71 1]Thy stock is full. There is no room 
+for me.
+[->][END]
+7: [71 1]I am [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+'Tis a pleasure to meet thee.
+[->][END]
+8: [71 1]However, thy skills are insufficient 
+to command me.
+[->]I serve not those without strength.
+[->][END]
+9: [71 1]My compatriot is already with thee. 
+That being so, thou need not my help.
+[->][END]
+10: [71 1]'Tis lonely to travel alone. Allowest 
+me to bring a companion.
+[->][END]
+11: [71 1]...Hrm? Thou hast no room.
+[->]'Tis a pity...
+[->][END]
+12: [71 1]I shall answer thy call. Be grateful, 
+son of man.
+[->][END]
+13: [71 1]It seemeth I am the only whimsical demon.
+[->][END]
+14: [71 1]...Now, let us make haste.
+[->][END]
+15: [71 1]I shall invite someone worthy of thee.
+[->][END]
+16: [71 1]'Tis an opportunity [Demon name 2] 
+hath created. I shall go with thee.
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]An investment for tomorrow... 
+For my retirement?
+[->][END]
+19: [71 1]Macca driveth people mad. 
+'Tis the item of barbarians...
+[->][END]
+20: [71 1]Thine avarice shall destroy thee... 
+Know my wrath!
+[->][END]
+21: [71 1]Nrrrrrrrrrrgh!?
+[->][END]
+22: [71 1]Curses, knave... Thou hast deceived me...!
+[->][END]
+23: [71 1]I shan't be fooled!
+[->][END]
+24: [71 1]Asking for valuables from someone who 
+cannot move... This is how humans work?
+[->]...Then do as you shall!
+[->][END]
+25: [71 1]Hrm... Humans always desire the 
+possessions of those they worship.
+[->]Very well. I shall grant thee that glory. 
+...So long as I am properly compensated.
+[->][END]
+26: [71 1]Well played. I shall bestow thy 
+desired article.
+[->][END]
+27: [71 1]Hahaha! Children are playing! 
+Snails are dancing! 'Tis a beautiful day!
+[->]Come here! I shall give thee a gift! 
+Anything thou desirest! Hahahahaha!
+[->][END]
+28: [71 1]I am in a good mood. I bestow this 
+upon thee as well.
+[->][END]
+29: [71 1]I do not like long talks. Let us make 
+haste and end this now.
+[->]Give me [Amount 1] Macca.
+[->][END]
+30: [71 1]Offer me [Item 1] x[Amount 1].
+[->][END]
+31: [71 1]Offer me [Amount 1] Macca.
+[->][END]
+32: [71 1]Offer me a trifling amount of thy life.
+[->][END]
+33: [71 1]Offer me a reasonable amount of thy life.
+[->][END]
+34: [71 1]Offer me a great amount of thy life.
+[->][END]
+35: [71 1]Offer me the maximum amount of thy 
+life.
+[->][END]
+36: [71 1]Offer me a trifling amount of thy 
+spirit.
+[->][END]
+37: [71 1]Offer me a reasonable amount of thy 
+spirit.
+[->][END]
+38: [71 1]Offer me a great amount of thy spirit.
+[->][END]
+39: [71 1]Offer me the maximum amount of thy 
+spirit.
+[->][END]
+40: [71 1][Demon name 2]... Offer thine ally's 
+life.
+[->][END]
+41: [71 1]Dost thou have that?
+[->][END]
+42: [71 1]Thine associate... Offer me [7e]'s HP.
+[->][END]
+43: [71 1]Offer me what I desire.
+[->][END]
+44: [71 1]Hmhmhm... 'Tis good.
+[->][END]
+45: [71 1]I have no use for this.
+[->][END]
+46: [71 1]Dost thou wish to see the world 
+humans know not of?
+[->][END]
+47: ”I do.”
+”I don't.”
+[->][END]
+48: [71 1]Then feel it...
+[->][END]
+49: 〉 An indescribable feeling of relief 
+envelops [Flynn]...
+[->][END]
+50: 〉 A mysterious peace of mind 
+envelops [Flynn]...
+[->][END]
+51: [71 1]Haaa!
+[->][END]
+52: 〉 An indescribable pain runs through 
+[Flynn]'s body!
+[->][END]
+53: 〉 A mysterious power rips through 
+[Flynn]'s body!
+[->][END]
+54: [71 1]'Tis a wise decision... 
+Yet a boring one.
+[->][END]
+55: [71 1]Good, good. Thou hast worshipped 
+me well.
+[->][END]
+56: [71 1]Insolent knave...
+[->][END]
+57: [71 1]I now know what my worth is to thee. 
+Negotiations have ended.
+[->][END]
+58: [71 1]Very well. Let us end our talks.
+[->][END]
+59: [71 1]Thou hast underestimated me. 
+Suffer the consequences.
+[->][END]
+60: [71 1]Unbelievable...
+[->][END]
+61: [71 1]Hrm...
+[->][END]
+62: [71 1]Thou hast denied all of my requests.
+[->]Thy courage is praiseworthy! I like thee. 
+[->][END]
+63: [71 1]Good, good. Thou hast done well in 
+answering my desires.
+[->]However, a human that only nods is 
+of no interest to me.
+[->][END]
+64: [71 1]Thou hast nothing. Quite interesting.
+[->]Very well, he who hath nothing. 
+I shall travel with thee.
+[->][END]
+65: [71 1]I have received thine offerings. 
+Fare thee well.
+[->][END]
+66: [71 1]I remember thy face... 
+Thou art... [Flynn].
+[->]'Tis rare for me to remember 
+the name of a human.
+[->][END]
+67: [71 1]This must be fate. Very well, 
+I shall become thy ally.
+[->][END]
+68: [71 1]We are close. I shall patronize thee.
+[->][END]
+69: [71 1]We are close. I shall bestow this 
+upon thee.
+[->][END]
+70: [71 1]Thou repeatest thyself...
+[->][END]
+71: [71 1]...Oh, 'tis [Flynn]. Thou hast done 
+well in coming for me.
+[->]Solitude is not bad... But if thou 
+wishest, I shall return.
+[->][END]
+72: [71 1]Ha!!
+[->]'Tis pointless to fight any more. 
+Lower thy weapon.
+[->][END]
+73: [71 1]...I am happy that mine opponent 
+is a fool.
+[->][END]
+74: [71 1]Then, I shall fight to the death!
+[->][END]
+101: 〉 The demon is on guard...
+What will you do?
+[->][END]
+102: Lower your weapon
+Put up your guard
+[->][END]
+103: [71 1]...It would be a disgrace for me 
+to harm an unarmed man.
+[->][END]
+104: [71 1]Thou desirest to talk with me that much? 
+Then, I shall answer to that.
+[->]Allowest me to think...
+[->][END]
+105: 〉 The demon is observing [Flynn]...
+[->][END]
+106: 〉 The demon is observing [Flynn]...
+[->][END]
+108: 〉 The demon is approaching you...
+What will you do?
+[->][END]
+109: Step aside
+Raise your weapon
+Don't move
+[->][END]
+110: 〉 [Flynn] dodges the demon!
+[->][END]
+111: [71 1]Thou darest evade me...? 
+How insolent...
+[->][END]
+112: [71 1]Disdainful knave...
+[->][END]
+113: [71 1]Fearest thou my grandness?
+[->]That was quite entertaining. 
+I shall bestow this upon thee.
+[->][END]
+114: [71 1]Well, well. That was quite a show...
+[->][END]
+115: [71 1]Thou does not fear me?
+[->]I applaud thy courage. 
+I shall bestow upon thee a reward.
+[->][END]
+116: [71 1]Thou does not fear me?
+[->]Such insolence...!
+[->][END]
+118: 〉 The demon is beckoning you...
+What will you do?
+[->][END]
+119: Go near
+Beckon back
+Raise your weapon
+[->][END]
+120: [71 1]I did not beckon thee. Begone.
+[->][END]
+121: [71 1]Ahh, thou nearest me. An admirable man.
+[->][END]
+122: [71 1]Petty imitation...
+[->][END]
+123: [71 1]If I am called, then I shall come.
+[->][END]
+124: [71 1]Answering a summoning with force...?
+[->]Then I shall answer with force as well.
+[->][END]
+125: [71 1]Regret thy disrespect and perish.
+[->][END]
+126: [71 1]Answering a summoning with force...?
+[->]I shall teach thee the basis of talking.
+[->][END]
+128: 〉 The demon is trying to leave...
+What will you do?
+[->][END]
+129: Stop him
+Ignore him
+Raise your weapon
+[->][END]
+130: [71 1]Hrm? Thou was calling me? I apologize.
+[->]I shall negotiate with thee.
+[->][END]
+131: [71 1]Thou cannot stop me.
+[->][END]
+132: 〉 The demon leaves...
+[->][END]
+133: [71 1]...Hast thou not business with me? 
+Art thou giving up so soon?
+[->]Wew were talking about offerings, 
+were we not? Then offer me something.
+[->][END]
+134: [71 1]I was going to spare thee...
+[->]But if thou desirest a fight, 
+then I shall answer thee.
+[->][END]
+135: [71 1]I was going to spare thee...
+[->]But I admire thy recklessness. I shall 
+accept any offerings thou mayest have.
+[->][END]
+137: 〉 The demon is ignoring you...
+What will you do?
+[->][END]
+138: Say something to him
+Get his attention
+Threaten him
+[->][END]
+139: [71 1]I am not interested...
+[->][END]
+140: [71 1]Ha! Do not disturb my meditation!
+[->][END]
+141: Blank Line
+[->][END]
+142: Blank Line
+[->][END]
+143: Blank Line
+[->][END]
+144: [71 1]Thou callest that a threat?
+[->]THIS is a threat.
+[->][END]
+145: [71 1]Thou callest that a threat?
+[->]Quite amusing. I shall lisen to thee.
+[->][END]
+147: [71 1]Son of man... Allow me to go free.
+[->][END]
+148: Spare
+Don't spare
+[->][END]
+149: [71 1]I thank thee.
+[->][END]
+150: 〉 The demon leaves...
+[->][END]
+151: [71 1]Letting an enemy escape? 
+Thou needest more resolve.
+[->][END]
+152: [71 1]I thought as much...
+[->]Then might maketh right.
+[->][END]
+153: [71 1]I do not need thy permission.
+[->][END]
+154: [71 1]Ugh... Fair enough. I shall ask thee 
+thy wishes.
+[->][END]
+156: [71 1][13 10, 1]So thou art the famous [Flynn].
+[->][END]
+157: [71 1]I shall smite thee!
+[->][END]
+158: Blank Line
+[->][END]
+159: [71 1]'Tis best I ne'er near thee.
+[->][END]
+160: 〉 The demon leaves...
+[->][END]
+162: [71 1][13 10, 1]Humans are nary worth believing.
+[->][END]
+163: ”Exactly.”
+”That's not true.”
+”I'm a trustworthy human.”
+[->][END]
+164: [71 1]Then begone.
+[->][END]
+165: [71 1]Canst thou not believe thine own? 
+Such a miserable being.
+[->]The least I can do is talk with thee. 
+[->]Yes... So long as thou provide me 
+with offerings.
+[->][END]
+166: [71 1]Knowest not thou of the filth of 
+the world? So pitable...
+[->][END]
+167: [71 1]Then prove that thyself. 
+Canst thou gain my trust?
+[->][END]
+168: [71 1]'Tis exactly why humans cannot 
+be trusted...
+[->][END]
+169: [71 1]An admirable statement. 
+Then prove thyself.
+[->]In the form of offering, 
+of course.
+[->][END]
+171: [71 1]To tell thee the truth... 
+I am quite interested in humans...
+[->][END]
+172: 〉 How will you approach the demon?
+[->][END]
+173: Amicably
+High−handedly
+[->][END]
+174: [71 1]Feeble fool...
+[->][END]
+175: [71 1]Ahh, thou worshippest me? 
+Thou art an intelligent human.
+[->]Then... I assume thou hast offerings 
+for me?
+[->][END]
+176: [71 1]Meseemeth thou art overstepping thyself.
+[->][END]
+177: [71 1]A praiseworthy bluff. Very well, 
+I shall listen to thee.
+[->][END]
+179: 〉 The demon is not letting his guard down...
+What will you do?
+[->][END]
+180: Greet him
+Apologize
+Raise your weapon
+[->][END]
+181: Blank Line
+[->][END]
+182: [71 1]I forgive thee. But that regret is not 
+simply talk, I assume?
+[->][END]
+183: [71 1]Let us duel to the death!
+[->][END]
+184: [71 1]A show of might? Very well.
+[->][END]
+185: [71 1]Thou hast done well in withstanding 
+mine attack. I shall remember thy face.
+[->][END]
+187: 〉 ...The demon is staring at [Flynn]...
+What will you do?
+[->][END]
+188: Stare back
+Smile back
+Turn around
+[->][END]
+189: [71 1]So, thou answerest to my gaze, son of man?
+[->]Ho−ho, those eyes...
+[->][END]
+190: [71 1]Dare thou mock me? Thou deservest 
+a thousand deaths.
+[->][END]
+191: [71 1]A groveling coward...
+[->][END]
+192: [71 1]Ho−ho... Thou knoweth thy limits. 
+I like that, son of man.
+[->][END]
+193: [71 1]Hmph, is that all?
+[->][END]
+195: [71 1][13 10, 1]Dost thou plan to talk with a weapon 
+in thy hand?
+[->][END]
+196: Raise your weapon
+Put down your weapon
+Put up your hands 
+[->][END]
+197: Blank Line
+[->][END]
+198: Blank Line
+[->][END]
+199: [71 1]Fool...
+[->][END]
+201: [71 1]Much time hath passed since I last 
+saw a human.
+[->][END]
+202: Ask for a handshake
+Bow politely
+Threaten him
+[->][END]
+203: Blank Line
+[->][END]
+204: Blank Line
+[->][END]
+205: Blank Line
+[->][END]
+207: [71 1]Human life is so transient. What dost 
+thou think of its brevity?
+[->][END]
+208: ”Bright and triumphant.”
+”Wretched and sad.”
+”What do YOU think?”
+[->][END]
+209: [71 1]Then give me that brightness.
+[->][END]
+210: Blank Line
+[->][END]
+211: [71 1]Then I shall end it here.
+[->][END]
+212: Blank Line
+[->][END]
+213: [71 1]I am asking the question. 
+Know thy place!
+[->][END]
+214: [71 1]There is not much to say... Dost thou 
+thinkest about the life of an ant?
+[->][END]
+216: [71 1][13 10, 1]Humans are pitiable...
+[->][END]
+217: ”You're right...”
+”That's not true.”
+”YOU'RE pitiable.”
+[->][END]
+218: Blank Line
+[->][END]
+219: [71 1]Anybody can shake their heads, 
+even monkeys.
+[->][END]
+220: [71 1]Talk nonsense elsewhere.
+[->][END]
+221: [71 1]Unable to realize thine own misery... 
+'Tis quite heart−rending.
+[->][END]
+223: [71 1]There is naught to gain from war.
+[->][END]
+224: ”You're right.”
+”That's not true.”
+”It's not about benefit.”
+[->][END]
+225: Blank Line
+[->][END]
+226: Blank Line
+[->][END]
+227: [71 1]So battle itself is thine objective?
+[->]Then this conversation no longer 
+holdeth meaning.
+[->][END]
+229: [71 1]I have heard humans eat the flesh 
+of demons. Why is that?
+[->][END]
+230: ”It's delicious.”
+”That's all we have.”
+”I don't want to eat it...”
+[->][END]
+231: Blank Line
+[->][END]
+232: [71 1]Is that truly the case? Surely, 
+there is plenty of other food.
+[->][END]
+233: [71 1]The weak are unable to eat what 
+they desire? How pitable...
+[->][13 10, 0]I am strong, and can eat human flesh 
+all I desire.
+[->][END]
+235: [71 1]The strong aim for further heights, 
+searching for the stronger.
+[->]Answer me: Art thou strong?
+[->][END]
+236: ”I'm strong.”
+”I'm normal.”
+”I'm weak.”
+[->][END]
+237: [71 1]Then this is not the time for 
+conversation. Raise thy weapon.
+[->][END]
+238: [71 1]The strong should be accompanied by 
+the strong.
+[->]Very well. I shall answer to thee. 
+First, show me thy worthiness.
+[->][END]
+239: [71 1]Normal? What standard art thou using?
+[->]...A simple test of might shall show me.
+[->][END]
+240: [71 1]Answer me clearly...
+[->][END]
+241: [71 1]He who knoweth his own limit, 
+show me thy technique.
+[->][END]
+242: [71 1]I have no business with the weak.
+[->][END]
+244: [71 1]'Tis quite strange. I feel the same 
+water as me from thee.
+[->][END]
+245: ”I don't feel anything.”
+”I knew it!”
+”...Water?”
+[->][END]
+246: [71 1]Ah, I forgot. 'Tis something humans 
+have no means of knowing.
+[->][END]
+247: [71 1]What can humans sense? Do not lie 
+to me, knave.
+[->][END]
+248: [71 1]Yes, 'tis nostalgic, is it not?
+[->][END]
+249: Blank Line
+[->][END]
+251: [71 1]How doth it feel to be kept alive 
+by demons?
+[->][END]
+252: ”Great.”
+”Tough, actually...”
+”That's how things go.”
+[->][END]
+253: Blank Line
+[->][END]
+254: [71 1]As I expected. Worry thee not.
+I shall put an end to thy misery.
+[->][END]
+255: Blank Line
+[->][END]
+257: [71 1]Thou hast challenged me with only 
+that much ”Magic”?
+[->][END]
+258: [71 1]So helpless art thou... 
+'Tis worthless fighting thee.
+[->][END]
+259: [71 1]Learn thy place, arrogant bastard...
+[->][END]
+261: [71 1]Thou hast a good amount of ”Magic”. 
+So, thou desirest to fight me with 
+that power.
+[->][END]
+262: [71 1]Very well. Entertain me.
+[->][END]
+263: [71 1]Wilt thou negotiate with me? 
+Thou art worthy of it.
+[->][END]
+265: 〉 [Flynn] dances a dance...
+[->][END]
+266: [71 1]That is no dance.
+[->][END]
+267: [71 1]Callest that a dance? An amusing fellow.
+[->]I shall allow thee to give me offerings.
+[->][END]
+269: 〉 [Flynn] sings a song...
+[->][END]
+270: [71 1]There is no soul in thy song.
+[->][END]
+271: [71 1]'Tis amusing to watch thee sing 
+so frantically.
+[->]I shall allow thee to give me 
+offerings.
+[->][END]
+273: 〉 [Flynn] shows off some Macca...
+[->][END]
+274: [71 1]Dost thou think I desire such things? 
+I am offended.
+[->][END]
+275: [71 1]If thou art that frantic, 
+I shall listen to thee...
+[->][END]
+277: 〉 The demon is observing [Flynn]...
+[->][END]
+278: [71 1]I heard thou hast excellent ”Magic”...
+[->]The rumors are true. I shall improve 
+that ”Magic”.
+[->][END]
+279: [71 1]I heard thou hast excellent ”Magic”...
+[->]This is excellent...? I laugh at thee.
+[->][END]
+281: [71 1]What art thou doing, human?
+[->][END]
+282: ”Showing respect.”
+”I don't want to die...”
+”Greetings are important.”
+[->][END]
+283: [71 1]What art thou saying?
+[->]Showing respect is to be expected. 
+Now, show it materialistically.
+[->][END]
+284: [71 1]What art thou saying?
+[->]'Tis only natural I am worshipped. 
+Knowest not such basic information?
+[->][END]
+285: [71 1]Then, show thy respect by removing
+thine own head.
+[->][END]
+286: Blank Line
+[->][END]
+287: [71 1]Excellent manners for a young man. 
+But respect should be shown with 
+offerings.
+[->][END]
+288: [71 1]That is no reason.
+[->][END]
+290: [71 1][13 10, 0]How strange. There is nothing a human 
+can do by living longer.
+[->][END]
+291: ”We can do anything.”
+”I can make you stronger.”
+”We can explore the unknown.”
+[->][END]
+292: [71 1]That is quite the grandiose assertion.
+[->]He who knoweth nothing of the world, 
+I shall go with thee.
+[->][END]
+293: [71 1]Very well. I shall end thy life before 
+thou realizest thy dream is futile.
+[->][END]
+294: [71 1][->]Hmhmhm... I shall play along with 
+that jest. But there is something 
+thou must do first, correct?
+[->][END]
+295: [71 1]Makest me stronger...?
+[->]Then show me thy strength.
+[->][END]
+296: [71 1]I see... the unknown. However, 
+I can provide that as well.
+[->]The unknown, as in death!
+[->][END]
+297: [71 1]'Tis true becoming thy ally is unknown 
+to me. That may prove interesting
+[->][END]
+299: [71 1]What benefit wilt thou get from me?
+[->][END]
+300: ”I'll get a friend.”
+”I get to become a slave.”
+”I can negotiate.”
+[->][END]
+301: Blank Line
+[->][END]
+302: [71 1]I have enough slaves.
+[->][END]
+303: [71 1]Wishest thou to become my slave? 
+But I still need offerings.
+[->][END]
+304: [71 1]That is the most a human can do.
+Now... offer me thy valuables.
+[->][END]
+305: [71 1]Thinkest thou equal to me? 
+Do not be conceited, human.
+[->][END]
+307: [71 1][13 10, 10]Become friends with a human...? 
+What benefit do I receive from that?
+[->][END]
+308: ”Being with me all the time.”
+”Being friends with a great being.”
+[->][END]
+309: [71 1]I see... Having a sacrifice ready 
+at all times... Not bad...
+[->][13 10, 0]If thou givest me offerings on top 
+of that, it would be perfect!
+[->][END]
+310: [71 1]So I would lose solitude...
+[->][13 10, 1]I cannot bear such a loss.
+[->][END]
+311: [71 1]That is thy benefit.
+[->][13 10, 0]But it would not lack in appeal, 
+to be worshipped all the time. 
+Now, I shall take my gifts.
+[->][END]
+312: [71 1]Thou art greater than me...?
+[->][13 10, 1]Enough with the nonsense.
+[->][END]
+313: [71 1]Thou art greater than me...?
+[->][13 10, 0]One cannot judge a book by its cover. 
+Now, allow me to test thee.
+[->][END]
+315: [71 1]That face... I remember thee, [Flynn].
+[->]I do not forget the face of the strong, 
+especially one who hath withstood my blow.
+[->][END]
+316: [71 1]I just happened to be bored. 
+Allow me to lend thee my power.
+[->][END]
+318: [71 1]Thou hast a wish that surpasseth 
+that of mankind. Now, tell me.
+[->][END]
+319: ”Become my ally.”
+”Tell me the truth of the world.”
+”I want to become the strongest.”
+[->][END]
+320: [71 1]That desire truly surpasses the realm 
+of mankind. I have but one thing to say.
+[->][13 10, 1]Know thy place.
+[->][END]
+321: Blank Line
+[->][END]
+322: [71 1]Quite amusing. What dost thou plan 
+to do know the truth?
+[->][END]
+323: [71 1]All men dream of that, but 'tis 
+a wish beyond thy means.
+[->][END]
+325: [71 1]That desire truly surpasseth thy realm. 
+What dost thou plan on doing with me.
+[->][END]
+326: ”Fight powerful foes.”
+”Demon fusion.”
+”Nothing.”
+[->][END]
+327: [71 1]That soundeth interesting.
+[->]Then, I shall be entertained by 
+the knave in front of me.
+[->][END]
+328: [71 1]That soundeth interesting.
+[->]I am willing to grant thee thy wish, 
+but first... Understandest thou?
+[->][END]
+329: [71 1]Demon fusion!? Of the 
+Cathedral of Shadows!?
+[->]Knowest thou that technique? 
+Then I shall listen to thee.
+[->][END]
+330: [71 1]Demon fusion!? Of the 
+Cathedral of Shadows!?
+[->]How repulsive...
+[->][END]
+331: [71 1]Simply having power is its own worth. 
+Thou knowest the truth.
+[->][END]
+333: [71 1]Dost thou truly think there is 
+a truth to this world?
+[->][END]
+334: ”The truth exists.”
+”I don't know...”
+[->][END]
+335: [71 1]Then die along with that idea.
+[->][END]
+336: [71 1]That conviction itself is beyond 
+that of the human realm.
+[->]Very well. I shall see what lieth 
+at the end of thy haughty wish.
+[->][END]
+337: [71 1]As expected. 'Tis something humans 
+cannot even perceive.
+[->]Human should live accordingly. 
+...Meseemeth 'tis too late for thee.
+[->][END]
+339: [71 1]However... If I were to help?
+[->][END]
+340: ”Become my ally.”
+”Become fusion material.”
+[->][END]
+341: [71 1]Art thou not shamed to borrow the power 
+of demons? What an unpretentious lad.
+[->]Very well. I shall listen to thee.
+[->]First, give me offerings.
+[->][END]
+342: [71 1]Art thou not shamed to borrow the power 
+of demons? What an unpretentious lad.
+[->]'Tis pitiable to not know thine 
+own shame.
+[->][END]
+343: [71 1]Thou art willing to sacrifice others 
+for the sake of thy dream... Not bad.
+[->]Very well. I shall lend thee my power.
+[->][END]
+344: [71 1]Thinkest thou I would lend my power 
+to a human?
+[->][END]
+346: [71 1]Ho−ho... Thinkest thou can defeat me?
+[->][END]
+347: ”Exactly.”
+”It's an offering.”
+”I didn't mean it like that.”
+[->][END]
+348: [71 1]Then show me thy might.
+[->][END]
+349: Blank Line
+[->][END]
+350: [71 1]Thou hast manners. Then first, 
+offer me thy life.
+[->][END]
+351: [71 1]'Tis a delicacy. Now... for the offerings.
+[->][END]
+352: [71 1]Then learn there is only one meaning 
+for raising thy weapon!
+[->][END]
+354: [71 1]Thou speakest big, son of man. 
+Art thou not afraid of me?
+[->][END]
+355: ”I'm afraid.”
+”I'm not afraid.”
+[->][END]
+356: [71 1]I see. Thou yieldest not to fear... 
+That blade is thy pride. 
+[->]I like that. Very well, I shall be 
+with thee.
+[->][END]
+357: [71 1]I shall break that insolent blade 
+of thine.
+[->][END]
+359: [71 1]Thou art honest. Didst thou not think 
+I would attack thee?
+[->][END]
+360: ”I'm resolved.”
+”I believe in you.”
+”Oh yeah...”
+[->][END]
+361: [71 1]Then show me that resolve.
+[->][END]
+362: [71 1]Ho−ho... Thy resolve is real. 
+Then next give me offerings.
+[->][END]
+363: [71 1]Quite an interesting man.
+[->]But I do not like fools.
+[->][END]
+364: [71 1]What ignorance, in a world where 
+demons run rampant and even children 
+hold weapons.
+[->].........
+[->]I shall give thee this.
+[->][END]
+365: [71 1]Maybe 'tis time to retire...
+[->][END]
+366: [71 1]What ignorance, in a world where 
+demons run rampant and even children 
+hold weapons.
+[->]Leave thy life here.
+[->][END]
+368: [71 1]...What is that?
+[->][END]
+369: ”Sign of friendship.”
+”Sign of submission.”
+”Sign of defiance.”
+[->][END]
+370: [71 1]Very becoming of humans. Very adorable.
+[->]...And very sickening.
+[->][END]
+371: Blank Line
+[->][END]
+372: [71 1]I see, a test of might? I accept.
+[->][END]
+373: [71 1]Ho−ho... Meseemeth thou knoweth manners. 
+I shall listen to what thou hast to say.
+[->][END]
+375: [71 1]Ver well. As proof of thy loyalty, 
+offer my thine body.
+[->][END]
+376: ”Okay.”
+”No.”
+[->][END]
+377: [71 1]I shall take it.
+[->][END]
+378: [71 1]Fare thee well.
+[->][END]
+379: [71 1]Then what wilt thou offer? 
+Show me thy magnanimity.
+[->][END]
+381: [71 1][13 10, 0]Oh, so thou art handing me thy head? 
+Splendid, son of man.
+[->][END]
+382: ”Come on now!”
+”I didn't mean it that way...”
+[->][END]
+383: [71 1]Here I go!
+[->][END]
+384: [71 1][13 10, 1]Hrm... To think I could not sever it 
+in one strike...
+[->]In light of that sturdiness, I shall 
+comply with thee.
+[->][END]
+385: [71 1]Darest thou retract what thou promised? 
+Shameless knave!
+[->][END]
+387: [71 1]Didst thou think I would yield to 
+such a threat?
+[->][END]
+388: ”Listen to me.”
+”You won't?”
+”I'm sorry...”
+[->][END]
+389: [71 1]Die regretting thy insolence.
+[->][END]
+390: [71 1]Ur...gh......!
+[->]Wait. I am willing to hear thee out.
+[->][END]
+391: [71 1]Ur...gh......!
+[->]I shall let thee off this time.
+[->][END]
+392: [71 1]Everybody maketh mistakes.
+[->]Even my hand slips. From time to time.
+[->][END]
+393: [71 1]Everybody maketh mistakes.
+[->]Knowest thou what to do after this, 
+I assume?
+[->][END]
+395: [71 1]Thou desirest me to make that shine 
+eternal?
+[->][END]
+396: ”I want eternity.”
+”I don't need that.”
+[->][END]
+397: [71 1]Very well.
+[->]Burn like a waning candle and gain 
+eternity through death.
+[->][END]
+398: [71 1]'Tis a shame though art a human... 
+But that form is also thy desire, 
+I suppose.
+[->]Fare thee well, son of man.
+[->][END]
+400: [71 1][13 10, 10]If it is so miserable, wherefore dost 
+thou cling to this world?
+[->][END]
+401: ”I have something to do.”
+”I have compatriots.”
+”I'm scared to die...”
+[->][END]
+402: [71 1]So thou willingly art resigned to 
+the dishonor of life for the sake 
+of thy duty...
+[->][13 10, 0]Such a beautiful way of life. 
+I shall answer to thy wish.
+[->][END]
+403: [71 1]So thou willingly art resigned to 
+the dishonor of life for the sake 
+of thy duty...
+[->][13 10, 1]Quite an amusing show of hypocrisy.
+[->][END]
+404: [71 1]What a living hell thou hast stepped 
+into. Thy suffering shall not end as 
+long as there are others.
+[->]There is no need to lament. I shall 
+end thy suffering here.
+[->][END]
+405: [71 1]What a living hell thou hast stepped 
+into. Thy suffering shall not end as 
+long as there are others.
+[->]How entertaining suffering humans are. 
+Perhaps I should watch thou suffer by 
+thy side.
+[->][END]
+406: [71 1]I shall tell thee something good: 
+Humans are afraid of the unknown.
+[->]If I teach you death, there is nothing
+more to be afraid of.
+[->][END]
+407: [71 1]Thou runneth from the terrifying, 
+covering thyself in more mud...
+[->]Haha... Watching thou struggle is 
+entertaining.
+[->][END]
+409: [71 1]Is there any reason such a weak thing 
+should exist?
+[->][END]
+410: ”There is no meaning.”
+”To live like a human.”
+”I never thought about it.”
+[->][END]
+411: [71 1]As I suspected.
+[->][END]
+412: Blank Line
+[->][END]
+413: [71 1]It cannot be helped for beings that 
+crawl among the present, with no method 
+of knowing the future.
+[->]Son of man, if thou desirest, I shall 
+lead thee.
+[->][END]
+415: [71 1]In what sense is it to live like a 
+human?
+[->][END]
+416: ”To have fun.”
+”To kill demons.”
+”To be with someone.”
+[->][END]
+417: [71 1]A life of searching for momentary 
+pleasures... What a poor life.
+[->]Thou hast no worth in talking to.
+[->][END]
+418: [71 1]The fate of the weak is... battle?
+[->]I see. Trials and tribulation make 
+life. Then I shall help thee.
+[->][END]
+419: [71 1]The weak gather in order to live. 
+I see, that maketh sense.
+[->]'Tis irrelevant to me, the strong.
+[->][END]
+421: [71 1]If thou sayest thou art not pitiable, 
+then what canst thou do?
+[->][END]
+422: ”Fight you.”
+”Manipulate demons.”
+”Save someone.”
+[->][END]
+423: [71 1]Well said, o weak human. 
+Then show me proof.
+[->][END]
+424: [71 1]...I see. Thou art not all words. 
+I shall listen to what thou hast to say.
+[->][END]
+425: [71 1]Quite an amusing thing to say.
+[->]Now, entertain me.
+[->][END]
+426: [71 1]Such scary insolence... I cannot 
+bother with thee.
+[->][END]
+427: [71 1]Fierce words from a child.
+[->][END]
+429: [71 1]There was a human who preached salvation.
+Now look at this world.
+[->][END]
+430: ”I can do it.”
+”You help, too.”
+”Maybe it's not possible...”
+[->][END]
+431: [71 1]Is thy confidence due to thy lack of 
+knowledge of the world? Or art thou 
+stupid.
+[->]Very well, I shall see.
+[->][END]
+432: [71 1]Then try and save thyself.
+[->][END]
+433: [71 1]Thou knowest thy limits. That is the 
+way of human life.
+[->]Now, pitable being. If thou desirest 
+my power, offer me gifts.
+[->][END]
+434: [71 1]What a bore.
+[->][END]
+436: [71 1][13 10, 10]Then wherefore do humans fight 
+amongst each other?
+[->][END]
+437: ”They have different values.”
+”Fighting is fun.”
+”They're just animals.”
+[->][END]
+438: [71 1]I see. They cannot forgive difference 
+in each other. Becoming of humans.
+[->]They should be destroyed.
+[->][END]
+439: [71 1]Ahh... I understand that. 
+We seem to get along.
+[->]I hope the same holdeth for 
+thine offerings.
+[->][END]
+440: [71 1]Ahh... I understand that. 
+We seem to get along.
+[->]Now, let us fight.
+[->][END]
+441: [71 1]I see. Humans are nothing but beasts.
+[->]Then there is no reason in talking.
+[->][END]
+443: [71 1]What benefit is there from war?
+[->][END]
+444: ”Protection from others.”
+”Meeting strong foes.”
+”Enjoying the taste of victory.”
+[->][END]
+445: [71 1]I see. 'Tis a method of protection.
+[->]However, humans are foolish. One can 
+protect oneself through negotiations.
+[->][END]
+446: [71 1]I see. 'Tis a method of protection.
+[->]Then try and protect thine own self.
+[->][END]
+447: [71 1]'Tis true that is something only 
+battle can bring. I feel I can meet 
+strong foes if I travel with thee.
+[->][END]
+448: [71 1]I see... That doth seem fun.
+[->]I shall taste victory now.
+[->][END]
+450: [71 1][13 10, 10]...Is it that delicious?
+[->][END]
+451: ”It's addicting.”
+”Not really...”
+”Why don't you try some?”
+[->][END]
+452: [71 1]So that is the reason humans 
+hunt demons...
+[->]I have learned much, human. 
+I bestow this upon thee.
+[->][END]
+453: [71 1]Then thou was lying? I shall rip 
+thy tongue out!
+[->][END]
+454: [71 1]That is a good idea. All I need to do 
+is try for myself.
+[->]I must go now!
+[->][END]
+456: [71 1]Here, eat that dirt. There is plenty, 
+and it shall fill thy stomach.
+[->][END]
+457: ”I can't eat dirt.”
+”I already eat that.”
+”I'll eat you.”
+[->][END]
+458: [71 1]'Tis a jest. Thou canst not take a jest?
+[->]However, that seriousness may be good 
+for negotiations.
+[->][END]
+459: [71 1]Thou hast yet to try it. I shall help 
+thee put thy face to the ground.
+[->][END]
+460: [71 1]What...!? Humans now eat even dirt!?
+[->]At this rate, Tokyo shan't last long.
+[->][END]
+461: [71 1]Try and eat me.
+[->][END]
+462: [71 1]Hrngh!? What gluttony...
+[->]Calm down. Let us first negotiate.
+[->][END]
+464: [71 1]Perhaps it is fate that brings us
+together.
+[->][END]
+465: ”Then become my ally.”
+”I'm not interested.”
+[->][END]
+466: [71 1]Do not be mistaken. The water I sensed 
+is the same of mine enemy.
+[->][END]
+467: [71 1]Do not be so cold. Let us make ammends.
+[->][END]
+468: [71 1]Thou art correct. The past is the past, 
+the present is the present.
+[->][END]
+470: [71 1][13 10, 0]Humans cannot see it, but it transcendeth 
+beyond space and time, connecting together.
+[->]Thou art the one and the same as he who 
+once knew me.
+[->][END]
+471: ”We were friends?”
+”We were allies.”
+”We were family...?”
+[->][END]
+472: [71 1]Perhaps so.
+[->][END]
+473: [71 1]Were we? 'Tis a long, long time ago.
+[->]Perhaps I can remember in the midst 
+of battle.
+[->][END]
+474: [71 1]Were we? 'Tis a long, long time ago.
+[->]Perhaps I can remember if I received 
+offerings.
+[->][END]
+475: [71 1]...Quite shocking.
+[->][END]
+477: [71 1]The past is the past, the present 
+the present. Thou art thou, not him 
+nor her.
+[->][END]
+478: ”I don't get it...”
+”Just become my ally already.”
+”I'm 'him'.”
+[->][END]
+479: [71 1]That is fine, human. Live as thyself.
+[->][END]
+480: [71 1]Meseemeth there are things in this 
+world that do not change.
+[->][END]
+481: [71 1]How unpleasant. Speak no more, knave.
+[->][END]
+483: [71 1]Art thou serious, son of man?
+[->][END]
+484: ”Of course.”
+”I was joking.”
+[->][END]
+485: [71 1]Then I shall watch over you.
+[->][END]
+486: [71 1]...So be it.
+[->][END]
+488: [71 1][13 10, 1]Meseemeth thou art stained by demons.
+[->][END]
+489: ”Exactly.”
+”That's not true.”
+”I'm the same as you.”
+[->][END]
+490: [71 1]Ho−ho... Acceptest thou the truth? 
+An admirable human.
+[->]I shall let thee present me with 
+offerings.
+[->][END]
+491: [71 1]Thou cannot even accept that? 
+So pitiable...
+[->][END]
+492: [71 1]Exactly. Compared to the self−righteous 
+God, we are all demons.
+[->][13 10, 1]However... I am not the same weak 
+existence as thee.
+[->][END]
+494: [71 1]Clingest thou to life that much? 
+Such a pathetic being.
+[->][END]
+495: ”Exactly.”
+”That's not true.”
+”Leave me alone.”
+[->][END]
+496: [71 1]'Tis that struggling for life which 
+becometh both our power and our fall.
+[->]Son of man, continue to struggle.
+[->][END]
+497: [71 1]That is not thy own will, then?
+[->]Thou comprehendest nothing.
+[->][END]
+498: [71 1]Thy coldness interesteth me. I shall
+play along with thy nonsense.
+[->][END]
+500: [71 1]Reserved
+[->][END]
+501: Reserved
+[->][END]
+502: Reserved
+[->][END]
+503: Reserved
+[->][END]
+504: [71 1]Reserved
+[->][END]
+505: Reserved
+[->][END]
+506: [71 1]Reserved
+[->][END]
+507: Reserved
+[->][END]
+508: [71 1]Reserved
+[->][END]
+509: Reserved
+[->][END]
+510: [71 1]Reserved
+[->][END]
+511: Reserved
+[->][END]
+512: [71 1]Reserved
+[->][END]
+513: Reserved
+[->][END]
+514: [71 1]Reserved
+[->][END]
+515: Reserved
+[->][END]
+516: [71 1]Reserved
+[->][END]
+517: Reserved
+[->][END]
+518: [71 1]Reserved
+[->][END]
+519: Reserved
+[->][END]
+520: [71 1]Reserved
+[->][END]

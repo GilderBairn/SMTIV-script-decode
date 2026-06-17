@@ -1,0 +1,61 @@
+0: [71 1]My skill bloomed〜
+[->][END]
+1: [71 1]Do you want to use this skill,
+[Flynn]?
+[->][END]
+2: [71 1]This will be useful for the new journey.
+[->][END]
+3: [71 1]Heavy or light, which is the lazy one?
+[->][END]
+4: [71 1]Make [Color:0x5][Skill 1][Color:0x0] to [Color:0x5][Skill 2][Color:0x0]...
+Will a firework appear if I do that?
+[->][END]
+5: [71 1]Spinny spinny boom!
+[->][END]
+6: [71 1]Roar! Don't underestimate me!
+[->][END]
+7: [71 1]The new me caught up to me... I should
+surrender, huh?
+[->][END]
+8: [71 1]Spinny spinny−spin!
+[->][END]
+9: [71 1]Do you like your current self the most?
+You don't even know what the future you
+is like...
+[->][END]
+10: [71 1]I feel like the world changed. But only
+I did.
+[->][END]
+11: [71 1]Woah! The new me is chasing after me!
+Waaah...
+[->][END]
+12: [71 1]For you, this [Color:0x5][Item 1][Color:0x0]...
+[->][END]
+13: [71 1]I picked up this [Color:0x5][Item 1][Color:0x0].
+Where did I find it? It's a secret.
+[->][END]
+14: [71 1]I'll give you my special [Color:0x5][Item 1][Color:0x0],
+so it's not special anymore.
+[->][END]
+15: [71 1]Do you wanna be a demon too?
+[->][END]
+16: [71 1]You gots it?
+[->][END]
+17: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Nice to meet ya!
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

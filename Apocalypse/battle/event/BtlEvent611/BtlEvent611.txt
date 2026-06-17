@@ -1,0 +1,14 @@
+0: (Cleopatra) [7a 64428]I am the pharaoh−−the queen. It is only
+natural for me to have my own kingdom.
+[->]I can give freedom to a new race that
+is neither human nor angel nor demon.
+[->]I won't let you get in my way just
+because you're my little brother.
+[END]
+900: (Cleopatra) [7a 64428]Ugh... Is this the end...!?
+[->]I am the pharaoh... I would rather
+kill myself than live in disgrace.
+[->]I will not let anyone else kill me!
+[END]
+901: 〉 Cleopatra takes her own life.
+[END]

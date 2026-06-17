@@ -1,0 +1,62 @@
+1: 〉 You pull out the pillar that is
+stuck in the door.
+[END]
+2: 〉 You pull out the pillar that is
+stuck in the door.
+[END]
+3: 〉 You pull out the pillar that is
+stuck in the door.
+[END]
+4: 〉 You pull out the pillar that is
+stuck in the door.
+[END]
+5: 〉 You pull out the pillar that is
+stuck in the door.
+[END]
+6: 〉 You pull out the pillar.
+[END]
+7: 〉 You pull out the pillar.
+[END]
+8: 〉 You pull out the pillar that is
+stuck in the door.
+[END]
+101: 〉 Removing the pillar has unlocked
+the door.
+[END]
+102: 〉 Removing the pillar has unlocked
+the door.
+[END]
+103: 〉 Removing the pillar has unlocked
+the door.
+[END]
+104: 〉 Removing the pillar has unlocked
+the door.
+[END]
+105: 〉 Removing the pillar has unlocked
+the door.
+[END]
+106: 〉 Now that the pillar is gone, a
+distant door has unlocked...
+[END]
+107: 〉 Now that the pillar is gone, a
+distant door has unlocked...
+[END]
+108: 〉 Removing the pillar has unlocked
+the door.
+[END]
+201: 〉 You obtain the [Color:0x5][Item 1][Color:0x0].
+[END]
+202: 〉 You obtain the [Color:0x5][Item 2][Color:0x0].
+[END]
+203: 〉 You obtain the [Color:0x5][Item 3][Color:0x0].
+[END]
+204: 〉 You obtain the [Color:0x5][Item 4][Color:0x0].
+[END]
+205: 〉 You obtain the [Color:0x5][Item 5][Color:0x0].
+[END]
+206: 〉 You obtain the [Color:0x5][Item 6][Color:0x0].
+[END]
+207: 〉 You obtain the [Color:0x5][Item 7][Color:0x0].
+[END]
+208: 〉 You obtain the [Color:0x5][Item 8][Color:0x0].
+[END]

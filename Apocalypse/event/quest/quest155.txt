@@ -1,0 +1,18 @@
+0: Hi. You guessed−−it's Betty. Got another record that
+needs breaking. This time, your goal is to [Color:0x5]recruit[Color:0x0]
+demons [Color:0x5]90 times[Color:0x0]. Might be tough, but I'm sure it's 
+nothing for you! I'll be waiting for your report!
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Wow! You're unbelievable. I can't believe you managed
+to get so many demons to work with you. You must
+have... devilish charm! Hehe, I expected nothing
+less!
+[END]

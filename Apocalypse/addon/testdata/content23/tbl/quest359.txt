@@ -1,0 +1,10 @@
+0: Greetings, Lord [Flynn].
+I apologize for the unsolicited letter. I write to
+you to extend an invitation to [Color:0x5]my island[Color:0x0]. Please
+accept this quest and come discover moments so
+enjoyable you'll lose all sense of time.
+[END]
+1: ダミー
+[END]
+2: ダウンロードクエスト追記
+[END]

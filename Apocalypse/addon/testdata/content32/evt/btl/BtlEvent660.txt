@@ -1,0 +1,7 @@
+0: (Stephen) [7a 64426]Humans have been given the power to
+change the world.
+[->]We must show that power to his soul...
+Are you prepared?
+[END]
+900: (Stephen) [7a 64426]It looks like it's about time...
+[END]

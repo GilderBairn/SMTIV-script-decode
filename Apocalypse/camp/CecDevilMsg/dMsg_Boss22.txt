@@ -1,0 +1,36 @@
+0: [71 1]By knowing yourself, the path will 
+open... Deepen your insight and devote 
+yourself even more to your training.
+[->][END]
+1: [71 1]By knowing yourself, the path will 
+open... Deepen your insight and devote 
+yourself even more to your training.
+[->][END]
+2: [71 1]By knowing yourself, the path will 
+open... Deepen your insight and devote 
+yourself even more to your training.
+[->][END]
+3: [71 1]By knowing yourself, the path will 
+open... Deepen your insight and devote 
+yourself even more to your training.
+[->][END]
+4: [71 1]By knowing yourself, the path will 
+open... Deepen your insight and devote 
+yourself even more to your training.
+[->][END]
+5: [71 1]By knowing yourself, the path will 
+open... Deepen your insight and devote 
+yourself even more to your training.
+[->][END]
+6: [71 1]By knowing yourself, the path will 
+open... Deepen your insight and devote 
+yourself even more to your training.
+[->][END]
+7: [71 1]By knowing yourself, the path will 
+open... Deepen your insight and devote 
+yourself even more to your training.
+[->][END]
+8: [71 1]By knowing yourself, the path will 
+open... Deepen your insight and devote 
+yourself even more to your training.
+[->][END]

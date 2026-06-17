@@ -1,0 +1,15 @@
+0: Pleez sum1, hellp N0zomi. Nozomi's in trubble!
+Fine me @ Ueno, in Ameyok0 Way pleez kum.
+[END]
+1: ダミー
+[END]
+2: Having met with the client, Nozomi(?), it seems 
+there's some trouble in a place called the 
+[Color:0x5]Fairy Forest[Color:0x0]. You should be able to get there using 
+a Terminal. Head to the [Color:0x5]Ueno Terminal[Color:0x0].
+[END]
+3: Having now met the real Nozomi, you've been asked to
+look into the matter of a [Color:0x5]demon hogging spring water[Color:0x0]
+deeper in the forest. Escort Nozomi to this demon to
+learn why they're hoarding the spring water.
+[END]

@@ -1,0 +1,21 @@
+0: (Quetzalcoatl) [7a 64717]I shall never forgive YHVH for deposing
+me.
+[->]You're nothing more than human sacrifices.
+Offer your souls so that I might ascend
+my throne once more.
+[->]You should feel privileged to have the
+opportunity to offer your souls to the
+true sun god.
+[END]
+900: (Quetzalcoatl) [7a 64717]How could I, the true sun god, fall to
+the likes of the kindle meant to burn
+in my name...?
+[->]Just as nature demands the sun slip below
+the ends of Earth, must my life, too,
+fall beyond the edge?
+[END]
+1000: (Quetzalcoatl) [7a 64717]Your resistance is meaningless. 
+You shall be sacrificed!
+[->]Surrender your souls to me, so that I
+might build to my ascension.
+[END]

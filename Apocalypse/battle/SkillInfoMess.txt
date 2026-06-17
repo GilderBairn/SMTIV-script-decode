@@ -1,0 +1,264 @@
+41: All stats lowered!
+[END]
+73: Some of your Macca is gone!
+[END]
+74: Half of your Macca is gone!
+[END]
+77: The illness has worsened!
+[END]
+78: Magic attack increased!
+[END]
+96: Defense decreased!
+[END]
+97: Resistance penetrated!
+[END]
+98: Resistance penetrated!
+[END]
+101: Physical attack increased!
+[END]
+102: Hit/evade rate increased!
+[END]
+103: Defense increased!
+[END]
+104: All stats increased!
+[END]
+105: All stat enhancements are removed.
+[END]
+106: Attack decreased!
+[END]
+107: Hit/evade rate decreased!
+[END]
+108: Defense decreased!
+[END]
+109: All stats decreased!
+[END]
+110: All stat decreases are removed.
+[END]
+111: All stats returned to normal.
+[END]
+112: Attack/defense decreased!
+[END]
+113: Attack/hit/evade rate decreased!
+[END]
+114: Defense/hit/evade rate decreased!
+[END]
+115: Defense decreased and attack increased!
+[END]
+116: Next Phys/Gun attack will crit!
+[END]
+121: Phys/Gun damage temporarily increased!
+[END]
+122: Magic temporarily greatly increased!
+[END]
+123: All stats increased!
+[END]
+134: All stats decreased!
+[END]
+138: Max HP increased!
+[END]
+139: Attack greatly increased!
+[END]
+145: Attack greatly decreased!
+[END]
+146: Defense greatly decreased!
+[END]
+147: Hit/evade rate greatly decreased!
+[END]
+169: Attack decreased!
+[END]
+201: Defense decreased!
+[END]
+202: Hit/evade rate decreased!
+[END]
+206: Attack decreased!
+[END]
+207: Defense decreased!
+[END]
+208: Fire attacks will pierce until end of turn!
+[END]
+209: Ice attacks will pierce until end of turn!
+[END]
+210: Elec attacks will pierce until end of turn!
+[END]
+211: Force attacks will pierce until end of turn!
+[END]
+212: Press Turn Icons removed!
+[END]
+213: [Demon name 6] prepares for the enemy's attack.
+[END]
+216: Defense decreased!
+[END]
+217: Hit/evade rate decreased!
+[END]
+221: Attack decreased!
+[END]
+223: All stats decreased!
+[END]
+225: All stat enhancements are removed.
+[END]
+226: [Demon name 6] smirks...
+[END]
+230: All stat enhancements are removed.
+[END]
+232: Endure effect has been applied!
+[END]
+233: Status ailments will be prevented!
+[END]
+234: Defense decreased!
+[END]
+235: Max HP increased!
+[END]
+236: Weaknesses protected until next turn!
+[END]
+237: MP cost temporarily removed!
+[END]
+238: Attack decreased!
+[END]
+239: Defense decreased!
+[END]
+240: Attack temporarily greatly increased!
+[END]
+244: Hit/evade rate decreased!
+[END]
+245: Attack decreased!
+[END]
+247: All stat enhancements are removed.
+[END]
+250: Defense decreased!
+[END]
+251: Izanami faltered! The curse could not take form...
+[END]
+253: [Demon name 6] prepares to cover their weakness.
+[END]
+254: Defense greatly decreased!
+[END]
+259: Defense/hit/evade rate greatly increased!
+[END]
+260: [Demon name 6] readies himself for all attacks!
+[END]
+262: [Demon name 6] stores energy to resist Light...
+[END]
+264: Defense decreased!
+[END]
+266: The demon was returned to your stock...
+[END]
+268: Hit/evade rate decreased!
+[END]
+269: Defense decreased!
+[END]
+274: Press Turn Icons removed!
+[END]
+275: [Demon name 6] readies himself for the attack.
+[END]
+276: All stats increased!
+[END]
+291: Status buffs can no longer be removed on enemy!
+[END]
+295: All effects cancelled!
+[END]
+297: The weakest demon has died.
+[END]
+298: Magic attack greatly increased!
+[END]
+300: The demon was returned to your stock...
+[END]
+303: Tetrakarn's effect was nullified!
+[END]
+304: All effects cancelled!
+[END]
+309: Makarakarn's effect was nullified!
+[END]
+314: Hit/evade rate decreased!
+[END]
+315: All stats increased!
+[END]
+317: Press Turn Icons removed!
+[END]
+318: [Demon name 6] readies himself for the attack. 
+[END]
+321: Gained a Press Turn Icon!
+[END]
+323: All stats decreased!
+[END]
+326: Defense decreased!
+[END]
+328: [Demon name 6] is now weak versus Light!
+[END]
+330: YHVH waits to see what you will do...
+[END]
+331: YHVH trembles with scorn...
+[END]
+332: [Demon name 6] is now weak versus Dark!
+[END]
+333: [Demon name 6] is now weak versus Ice!
+[END]
+334: [Demon name 6] is now weak versus Fire!
+[END]
+335: [Demon name 6] is now weak versus Force!
+[END]
+336: [Demon name 6] is now weak versus Elec!
+[END]
+343: All stat enhancements are removed.
+[END]
+344: Next magic attack pierces with increased power!
+[END]
+346: Defense decreased!
+[END]
+347: Defense/hit/evade rate decreased!
+[END]
+357: All stats fully increased!
+[END]
+358: All stats fully decreased!
+[END]
+375: All stat enhancements are removed.
+[END]
+376: All stat decreases are removed.
+[END]
+380: Flynn is struggling inside Vishnu−Flynn!
+[END]
+382: Press Turn Icons removed!
+[END]
+388: All stats fully increased!
+[END]
+389: All stats fully decreased!
+[END]
+390: Gained Press Turn Icons!
+[END]
+391: All stats decreased!
+[END]
+392: 5 StreetPass Demons make an assist!
+[END]
+393: 6 StreetPass Demons make an assist!
+[END]
+394: 7 StreetPass Demons make an assist!
+[END]
+395: 8 StreetPass Demons make an assist!
+[END]
+396: 9 StreetPass Demons make an assist!
+[END]
+397: Hit/evade rate increased!
+[END]
+398: 11 StreetPass Demons make an assist!
+[END]
+399: 12 StreetPass Demons make an assist!
+[END]
+457: Energy replenishing!
+[END]
+458: Energy depleting!
+[END]
+459: ...And they were instantly killed!
+[END]
+460: Power rises within Gore's body!
+[END]
+1000: The effect is already at its max!
+[END]
+1001: No money left to steal...
+[END]
+1002: No more can be drained...
+[END]
+1003: The wall of light was nullified!
+[END]
+1004: The wall of light repelled the attack!
+[END]
+1005: There was no decrease in HP...
+[END]

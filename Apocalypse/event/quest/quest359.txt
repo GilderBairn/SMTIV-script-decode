@@ -1,0 +1,10 @@
+0: Hello, Mr. [Flynn]. Sorry for contacting you out of 
+the blue, I just wanted to invite you to [Color:0x5]my island[Color:0x0].
+Please [Color:0x5]accept this quest[Color:0x0] to come. I promise 
+you an amazing time, during which you will forget all 
+your troubles.
+[END]
+1: ダミー
+[END]
+2: ダウンロードクエスト追記
+[END]

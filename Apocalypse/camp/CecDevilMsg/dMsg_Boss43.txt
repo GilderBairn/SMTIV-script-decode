@@ -1,0 +1,22 @@
+0: [71 1]I am the arbiter... Where shall I
+head next?
+[->][END]
+1: [71 1]You need not detest hell if your heart 
+is with the heavens. I need only 
+complete my duties. 
+[->][END]
+2: [71 1]I will arbitrate all that I can...
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]This is also a test of mine...
+Now, accept this.
+[->][END]
+7: [71 1]I have prepared a gift. Accept it.
+[->][END]
+8: [71 1]This is a souvenir. Use it well. 
+[->][END]

@@ -1,0 +1,14 @@
+0: We've lost communication with Mikado. We can't access 
+their Terminal, nor can we reach any of our contacts.
+It's obvious that [Color:0x5]something's happened[Color:0x0]. And just as
+the war has ended and our relations were improving! 
+Please [Color:0x5]investigate the problem[Color:0x0] as quickly and 
+peacefully as possible.
+[END]
+1: ダミー
+[END]
+2: Something called the [Color:0x5]demon gene[Color:0x0] is at the
+heart of this business in Mikado. It all traces back
+to someone named Hugo. Let's go to the [Color:0x5]Monastery[Color:0x0]
+to find [Color:0x5]Hugo[Color:0x0] and [Color:0x5]solve this mystery[Color:0x0].
+[END]

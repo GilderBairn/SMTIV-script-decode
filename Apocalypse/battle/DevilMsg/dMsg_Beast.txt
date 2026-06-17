@@ -1,0 +1,62 @@
+0: [71 1]ME NEW SKILL!
+YOU HUNT BETTER!
+[->][END]
+1: [71 1]MORE BLOOD SPILL
+WITH THIS SKILL...
+[->][END]
+2: [71 1]POWER FILL UP.
+VICTORY CLOSE...
+[->][END]
+3: [71 1]ME LAVISH SKILL!
+MODERATE ALWAYS GOOD.
+[->][END]
+4: [71 1][Color:0x5][Skill 1][Color:0x0] BECOME [Color:0x5][Skill 2][Color:0x0]!
+WHAT WILL YOU DO?
+[->][END]
+5: [71 1]ME ACCEPT.
+[->][END]
+6: [71 1]ME ACCEPT.
+[->][END]
+7: [71 1]HRM... SOUL SAY CHANGE...
+ME GOODBYE TO BODY.
+[->][END]
+8: [71 1]AWOOOOOO!
+[->][END]
+9: [71 1]ME ACCEPT.
+[->][END]
+10: [71 1]HRM...
+ME GET POWER...
+[->][END]
+11: [71 1]ME SOUL SAY...
+TRANSFORM CLOSE... 
+[->][END]
+12: [71 1][Color:0x5][Item 1][Color:0x0]...
+NATURE'S BLESSING.
+[->][END]
+13: [71 1][Flynn]... [Color:0x5][Item 1][Color:0x0] EAT.
+[->][END]
+14: [71 1]NO NEED HUMAN ITEMS!
+NO NEED [Color:0x5][Item 1][Color:0x0]!
+[->][END]
+15: [71 1]LISTEN TO WHISPER OF NATURE...
+[->][END]
+16: [71 1]YOU FEEL NATURE?
+[->][END]
+17: [71 1]ME [Color:0x5][Demon race 1] [Demon name 1][Color:0x0]!
+NICE MEET YOU....
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

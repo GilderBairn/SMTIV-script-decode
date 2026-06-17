@@ -1,0 +1,23 @@
+0: (マザーハーロット) テスト
+[->][END]
+1: 〉 Mother Harlot's believers force their
+way into the battle.
+[END]
+2: (Believer) [7a 53]Mother! Leave this to us!
+[->]You have only just gained your form.
+You need to remain healthy.
+[->]Now, come over here!
+[END]
+3: 〉 The men lead Mother Harlot away...
+[END]
+4: (Believer) [7a 53]Come forth once again, gods of Babylon!
+[->]Protect the mother goddess!
+[END]
+5: テスト
+[->][END]
+6: テスト
+[->][END]
+7: テスト
+[->][END]
+8: (マザーハーロット) テストしぬ
+[->][END]

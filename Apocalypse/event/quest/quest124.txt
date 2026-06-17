@@ -1,0 +1,17 @@
+0: I've prepared another place to train you. The goal
+is to [Color:0x5]use items to defeat the enemy[Color:0x0] within the turn 
+limit. I'm sure you know by now, but what happens in 
+VR doesn't have any effect on the real world.
+[END]
+1: Delivery Quest Description Second Time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: I knew I was right to choose you as my Godslayer.
+I'll have another challenge ready for you soon. 
+How far will you go?
+[END]

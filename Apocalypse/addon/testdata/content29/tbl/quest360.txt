@@ -1,0 +1,11 @@
+0: As someone who has traveled a difficult path of
+their own, I have a request for you. Other messiahs
+in other universes travel their own difficult paths,
+just like you. I would like you to serve as a
+guiding light to them. I'll tell you more once
+you've accepted this quest.
+[END]
+1: ダミー
+[END]
+2: ダウンロードクエスト追記
+[END]

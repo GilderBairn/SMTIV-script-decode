@@ -1,0 +1,9 @@
+0: 〉 Try talking to a demon and making it
+your ally.
+[->]Select the Talk command, then Scout.
+This will allow you to invite the demon
+to become your ally.
+[->]The demons will ask you questions and
+make requests, so try to answer them
+skillfully for a successful conversation.
+[END]

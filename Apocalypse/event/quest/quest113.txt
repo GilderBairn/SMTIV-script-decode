@@ -1,0 +1,21 @@
+0: A Ginza denizen's frost demon escaped and made it 
+to [Color:0x5]Yaesu Passage[Color:0x0]. When their owner went to find the 
+thing, they discovered that the demon had transformed 
+into [Color:0x5][Demon name 1][Color:0x0] and had become unreasonable. 
+Please exterminate this monster before it harms 
+anyone.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: The demon ran off because of mistreatment... You
+know it's a bad sign when conditions get so rough
+that even a demon is put off. What a sad thought.
+I had a few words with the owner about their
+behavior. Can't have any more demons getting loose.
+[END]

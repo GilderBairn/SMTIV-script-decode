@@ -1,0 +1,25 @@
+0: [71 1]I traveled across the worlds with the
+Swan Bus. 
+[->][END]
+1: [71 1]People were fighting in each world.
+So I pretended to be the Little Prince
+by myself.
+[->][END]
+2: [71 1]*sigh* I'm back. I travel for this
+feeling.
+[->][END]
+3: [71 1]I fused with a lot of demons and became
+a lot of me's. 
+[->][END]
+4: [71 1]Wha... Is it [Flynn]!?
+I didn't realize it was you for a moment.
+[->][END]
+5: [71 1]I'm baaack. What happened? My secret.
+[->][END]
+6: [71 1]Here, a specialty product from space.
+[->][END]
+7: [71 1]I bought this souvenir for you at the
+airport going to the other world.
+[->][END]
+8: [71 1]Here, a ”Made in Havana” souvenir.
+[->][END]

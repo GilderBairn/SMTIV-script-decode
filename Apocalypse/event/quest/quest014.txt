@@ -1,0 +1,14 @@
+0: To all Hunters:
+The [Color:0x5]Shesha Radar[Color:0x0] is complete. All that remains is to 
+find the serpent and slay it. The [Color:0x5]Spear of Michael[Color:0x0], 
+possessed by the Samurai from Mikado, should prove 
+an effective weapon against Shesha. Cooperate with 
+the Crusaders and put an end to the demon.
+
+Retrieve the Shesha Radar from Dr. Matsuda.
+[END]
+1: ダミー
+[END]
+2: The Radar shows Shesha is currently in [Color:0x5]Shibuya[Color:0x0].
+Go there and defeat him.
+[END]

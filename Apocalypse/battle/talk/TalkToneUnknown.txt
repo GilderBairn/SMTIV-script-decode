@@ -1,0 +1,964 @@
+0: Dummy Message
+[END]
+1: [71 1]A^3Amn&sH$0^a#;s+4gka
+oyyT7$ftb&z)2%%he^*
+[->][END]
+2: [71 1]Reserved
+[->][END]
+3: [71 1]Reserved
+[->][END]
+4: [71 1]Reserved
+[->][END]
+5: [71 1]Reserved
+[->][END]
+6: [71 1]Reserved
+[->][END]
+7: [71 1]bInpo|*2[Color:0x5][Demon race 1][Color:0x0]!5?”=1,7
+RMoq59AtuE[Color:0x5][Demon name 1][Color:0x0]=xD7￥%t!
+[->][END]
+8: [71 1]Reserved
+[->][END]
+9: [71 1]m￥8[7}G‘=l5,Z*i*Ka+a
+qWYSV[0￥VRTFXs9g,**|Zr'n{1l'/W
+[->][END]
+10: [71 1]Reserved
+[->][END]
+11: [71 1]Reserved
+[->][END]
+12: [71 1]J4y(9fJ0zTXg8_B('9EzjxInY9ZF0!
+xoq5*ndya”(=jyO−}Q”PYHZ4gY$SX97!
+[->][END]
+13: [71 1]Reserved
+[->][END]
+14: [71 1]Reserved
+[->][END]
+15: [71 1]Reserved
+[->][END]
+16: [71 1]j:t0Pjy[Demon name 2]'9Ezj
+t7DS[#tbs%]9%〜v^+96!
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Reserved
+[->][END]
+19: [71 1]Reserved
+[->][END]
+20: [71 1]Reserved
+[->][END]
+21: [71 1]Reserved
+[->][END]
+22: [71 1]Reserved
+[->][END]
+23: [71 1]Reserved
+[->][END]
+24: [71 1]Reserved
+[->][END]
+25: [71 1]Reserved
+[->][END]
+26: [71 1]Reserved
+[->][END]
+27: [71 1]Reserved
+[->][END]
+28: [71 1]Reserved
+[->][END]
+29: [71 1]Reserved
+[->][END]
+30: [71 1]Reserved
+[->][END]
+31: [71 1]Reserved
+[->][END]
+32: [71 1]Reserved
+[->][END]
+33: [71 1]Reserved
+[->][END]
+34: [71 1]Reserved
+[->][END]
+35: [71 1]Reserved
+[->][END]
+36: [71 1]Reserved
+[->][END]
+37: [71 1]Reserved
+[->][END]
+38: [71 1]Reserved
+[->][END]
+39: [71 1]Reserved
+[->][END]
+40: [71 1]Reserved
+[->][END]
+41: [71 1]Reserved
+[->][END]
+42: [71 1]Reserved
+[->][END]
+43: [71 1]Reserved
+[->][END]
+44: [71 1]Reserved
+[->][END]
+45: [71 1]Reserved
+[->][END]
+46: [71 1]Reserved
+[->][END]
+47: Reserved
+Reserved
+[->][END]
+48: [71 1]Reserved
+[->][END]
+49: Reserved
+[->][END]
+50: Reserved
+[->][END]
+51: [71 1]Reserved
+[->][END]
+52: Reserved
+[->][END]
+53: Reserved
+[->][END]
+54: [71 1]Reserved
+[->][END]
+55: [71 1]Reserved
+[->][END]
+56: [71 1]Reserved
+[->][END]
+57: [71 1]Reserved
+[->][END]
+58: [71 1]Reserved
+[->][END]
+59: [71 1]Reserved
+[->][END]
+60: [71 1]Reserved
+[->][END]
+61: [71 1]Reserved
+[->][END]
+62: [71 1]Reserved
+[->][END]
+63: [71 1]Reserved
+[->][END]
+64: [71 1]Reserved
+[->][END]
+65: [71 1]Reserved
+[->][END]
+66: [71 1]N;￥BvGmfa!/−P$−
+nArQ#.4M5lJ|RtSX#H=
+[->][END]
+67: [71 1]Reserved
+[->][END]
+68: [71 1]Reserved
+[->][END]
+69: [71 1]Reserved
+[->][END]
+70: [71 1]Reserved
+[->][END]
+71: [71 1]cqQdw7￥(I”%3!
++9hD62eC,&zfOu!
+[->][END]
+72: [71 1]=〜{LMfVuRNE‘tG*W
+dO?gV&[j[EB#zW/!
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Reserved
+[->][END]
+101: 〉 The demon is on guard...
+What will you do?
+[->][END]
+102: Lower your weapon
+Put up your guard
+[->][END]
+103: [71 1]Fool...
+[->][END]
+104: [71 1]You are brave. I like that.
+I shall listen to you.
+[->][END]
+105: [71 1]Tch... No opening.
+[->][END]
+106: [71 1]Wait, I have will to fight.
+[->]Forgive me with this.
+[->][END]
+107: [71 1]Humans are terrifying...
+[->][END]
+109: 〉 The demon is approaching you...
+What will you do?
+[->][END]
+110: Step aside
+Raise your weapon
+Don't move
+[->][END]
+111: 〉 [Flynn] dodges the demon!
+[->][END]
+112: [71 1]You didn't have to avoid me. Let me
+listen to you.
+[->][END]
+113: 〉 The demon catches up...
+[->][END]
+114: [71 1]Please spare me! Let's negotiate!
+[->][END]
+115: [71 1]Tch, you noticed...
+[->][END]
+116: [71 1]You are brave...
+[->]I'll listen to you.
+[->][END]
+117: [71 1]You are brave...
+[->]...Is what you expected me to say!?
+[->][END]
+119: 〉 The demon is beckoning you...
+What will you do?
+[->][END]
+120: Go near
+Beckon back
+Raise your weapon
+[->][END]
+121: [71 1]You fell for it!
+[->][END]
+122: [71 1]I wanted to give this to you.
+[->][END]
+123: [71 1]Good−bye.
+[->][END]
+124: [71 1]I wanted to lend my power to a human.
+[->][END]
+125: [71 1]An eerie fellow...
+[->][END]
+126: [71 1]We get along well. I'll hear you out.
+[->][END]
+127: [71 1]Fool!
+[->][END]
+128: [71 1]Please, spare my life! I'll
+negotiate with you!
+[->][END]
+130: 〉 The demon is trying to leave...
+What will you do?
+[->][END]
+131: Stop it
+Ignore it
+Raise your weapon
+[->][END]
+132: [71 1]Very well, let's negotiate!
+[->][END]
+133: [71 1]I'm in a hurry, so excuse me.
+[->][END]
+134: [71 1]You don't have to be so cold.
+Let's talk.
+[->][END]
+135: [71 1]You don't have to be so cold.
+You should be nicer to demons.
+[->][END]
+136: [71 1]Please, spare my life! I'll
+negotiate with you!
+[->][END]
+137: [71 1]Humans really are foolish.
+[->][END]
+139: 〉 The demon is ignoring you...
+What will you do?
+[->][END]
+140: Say something to it
+Get its attention
+Threaten it
+[->][END]
+141: [71 1]Leave me alone!
+[->][END]
+142: [71 1]Very well. I'll hear what you have
+to say.
+[->][END]
+143: 〉 [Flynn] dances a dance...
+[->][END]
+144: [71 1]How stupid...
+[->][END]
+145: 〉 [Flynn] dances a dance...
+[->][END]
+146: [71 1]What an amusing human. I'll agree
+to negotiations.
+[->][END]
+147: [71 1]Please spare my life! I'll hear what
+you have to say.
+[->][END]
+148: [71 1]Humans really are foolish.
+[->][END]
+150: [71 1]Please, let me go!
+[->][END]
+151: Spare
+Don't spare
+[->][END]
+152: [71 1]Thank you.
+[->][END]
+153: [71 1]Here's a gift.
+[->][END]
+154: [71 1]You fell for it!
+[->][END]
+155: [71 1]Then I have no choice...
+[->][END]
+156: [71 1]I'll listen to you, so let me live.
+[->][END]
+158: [71 1]You're [Flynn].
+I've heard of you.
+[->][END]
+159: [71 1]You evil being! I shall destroy you!
+[->][END]
+160: [71 1]Why don't you make me your ally?
+[->][END]
+161: [71 1]I don't want to have anything to do
+with you.
+[->][END]
+163: [71 1]I can't trust humans!
+[->][END]
+164: ”Exactly.”
+”That's not true.”
+”I'm a trustworthy human.”
+[->][END]
+165: [71 1]And you're the same.
+[->][END]
+166: [71 1]You're a reasonable person.
+[->][END]
+167: [71 1]You're a fool beyond salvation!
+[->][END]
+168: [71 1]Then make me trust you.
+[->][END]
+169: [71 1]I can't trust people who say that!
+[->][END]
+170: [71 1]Then make me trust you.
+[->][END]
+172: [71 1]I'm interested in humans.
+[->][END]
+173: Amicably
+High−handedly
+[->][END]
+174: [71 1]You're creepy...
+[->][END]
+175: [71 1]You're exactly how I thought you
+were. Let's negotiate.
+[->][END]
+176: [71 1]I'm no longer in the mood.
+[->][END]
+177: [71 1]You are full of dignity, just as I
+imagined... Let's start negotiating.
+[->][END]
+179: [71 1]Waaaaaah...
+[->][END]
+180: 〉 The demon is crying.
+What will you do?
+[->][END]
+181: Look worried
+Ignore it
+Pat it on the shoulder
+[->][END]
+182: [71 1]I'm not crying!
+[->][END]
+183: [71 1]Don't ignore me!
+[->][END]
+184: [71 1]What do you want?
+[->][END]
+186: [71 1]You yawn like this sometimes, huh?
+[->][END]
+187: ”Nope.”
+”I do.”
+”I sleep when I'm sleepy.”
+[->][END]
+188: [71 1]Dummy
+[->][END]
+189: [71 1]Dummy
+[->][END]
+190: [71 1]Dummy
+[->][END]
+192: [71 1]Worry about me some.
+[->][END]
+193: ”What's wrong, kid?”
+”You're no longer crying.”
+[->][END]
+194: [71 1]Don't treat me like a kid!
+[->][END]
+195: [71 1]Reserved
+[->][END]
+197: [71 1]What do you plan on doing with me?
+[->][END]
+198: ”Kill you.”
+”Will you become my ally?”
+[->][END]
+199: [71 1]Reserved
+[->][END]
+200: [71 1]Reserved
+[->][END]
+202: [71 1]I know that humans are stupid!
+[->][END]
+203: Ignore it
+Shake your head
+Nod quietly
+[->][END]
+204: [71 1]Reserved
+[->][END]
+205: [71 1]Reserved
+[->][END]
+206: [71 1]Reserved
+[->][END]
+208: [71 1]You haven't said anything.
+Are you a doll?
+[->][END]
+209: ”I am.”
+”I'm a human.”
+[->][END]
+210: [71 1]Reserved
+[->][END]
+211: [71 1]Reserved
+[->][END]
+213: [71 1]Wanna have a quiz?
+[->][END]
+214: ”Sure thing.”
+”I don't have time for that.”
+[->][END]
+215: [71 1]Reserved
+[->][END]
+216: [71 1]Reserved
+[->][END]
+218: [71 1]”What does a poor man have that a
+rich man needs?” Answer that!
+[->][END]
+219: ”Nothing.”
+”Dignity.”
+”Screw that.”
+[->][END]
+220: [71 1]Reserved
+[->][END]
+221: [71 1]Reserved
+[->][END]
+222: [71 1]Reserved
+[->][END]
+224: [71 1]Gyahahahahahaha! Ahahahahaha!
+[->][END]
+225: 〉 The demon is rolling with laughter.
+What will you do?
+[->][END]
+226: Laugh with it
+Cover your ears
+Raise your guard
+[->][END]
+227: [71 1]What're you laughing about.
+[->][END]
+228: [71 1]Listen to what I'm talking about.
+[->][END]
+229: [71 1]Reserved
+[->][END]
+231: [71 1]You're a kid.
+[->][END]
+232: ”YOU'RE the kid.”
+”Sorry, teach.”
+[->][END]
+233: [71 1]Reserved
+[->][END]
+234: [71 1]Reserved
+[->][END]
+236: [71 1]What a rude person, not listening
+to me.
+[->][END]
+237: ”What should I do?”
+”I'll give you candy.”
+[->][END]
+238: [71 1]Reserved
+[->][END]
+239: [71 1]Reserved
+[->][END]
+241: [71 1]How was my song?
+[->][END]
+242: ”It was a song?”
+”I was touched.”
+[->][END]
+243: [71 1]What!?
+[->][END]
+244: [71 1]Reserved
+[->][END]
+246: [71 1]Are you having fun?
+[->][END]
+247: ”I am.”
+”Maybe if you become my ally.”
+[->][END]
+248: [71 1]Then make me have fun!
+[->][END]
+249: [71 1]Reserved
+[->][END]
+251: [71 1]You! Bow down!
+[->][END]
+252: 〉 The demon is staring at you.
+What will you do?
+[->][END]
+253: Bow your head
+Get on your knees
+Ignore it
+[->][END]
+254: [71 1]Did you drop something?
+[->][END]
+255: [71 1]What are you sad about?
+[->][END]
+256: [71 1]Reserved
+[->][END]
+258: [71 1]Pick that thing up.
+[->][END]
+259: ”You pick it up.”
+”There's nothing there.”
+[->][END]
+260: [71 1]Reserved
+[->][END]
+261: [71 1]Reserved
+[->][END]
+263: [71 1]Why are you so gloomy?
+[->][END]
+264: ”I met you.”
+”Listen to my problems.”
+[->][END]
+265: [71 1]Reserved
+[->][END]
+266: [71 1]Reserved
+[->][END]
+268: [71 1]Hmph! I won't listen to humans!
+[->][END]
+269: ”Please...”
+”Then forget it.”
+”Then say something.”
+[->][END]
+270: [71 1]If you give me something, I'm
+willing to talk.
+[->][END]
+271: [71 1]Oh, don't say that. I'll hear you out.
+[->][END]
+272: [71 1]Let's play tag!
+[->][END]
+274: [71 1]What will you give me?
+[->][END]
+275: Give him candy
+Give him water
+Give him liquor
+[->][END]
+276: [71 1]Don't treat me like a kid!
+[->][END]
+277: [71 1]I just happen to be thirsty!
+[->][END]
+278: [71 1]I'm drunk!
+[->][END]
+280: [71 1]So, what do you want to hear from me?
+[->][END]
+281: ”Become my ally.”
+”Never mind.”
+[->][END]
+282: [71 1]Reserved
+[->][END]
+283: [71 1]Reserved
+[->][END]
+285: [71 1]Y−You're not gonna just suddenly
+kill me, are you?
+[->][END]
+286: ”I'll kill you.”
+”I won't kill you.”
+”What should I do?”
+[->][END]
+287: [71 1]Nooooo!
+[->][END]
+288: [71 1]*phew* Thanks.
+[->][END]
+289: [71 1]Reserved
+[->][END]
+291: [71 1]Are you really going to kill me?
+[->][END]
+292: ”It's a lie.”
+”It's the truth.”
+”It's truly a lie.”
+[->][END]
+293: [71 1]Reserved
+[->][END]
+294: [71 1]Reserved
+[->][END]
+295: [71 1]Reserved
+[->][END]
+297: [71 1]Killing is popular right now, right?
+[->][END]
+298: ”It's popluar.”
+”Not not.”
+[->][END]
+299: [71 1]Reserved
+[->][END]
+300: [71 1]Reserved
+[->][END]
+302: [71 1]So are you really going to kill me?
+[->][END]
+303: ”That's right.”
+”Not really.”
+[->][END]
+304: [71 1]Reserved
+[->][END]
+305: [71 1]Reserved
+[->][END]
+307: [71 1]Eheheheh... What a coincidence it
+is to meet here.
+[->][END]
+308: ”Yeah, huh.”
+”Not really.”
+”Then become my ally.”
+[->][END]
+309: [71 1]I knew it!
+[->][END]
+310: [71 1]It's not a coincidence...?
+[->][END]
+311: [71 1]What should I do...?
+[->][END]
+313: [71 1]Is there a reason we met here?
+[->][END]
+314: ”There's no reason.”
+”A twist of fate.”
+[->][END]
+315: [71 1]Reserved
+[->][END]
+316: [71 1]Reserved
+[->][END]
+318: [71 1]Is there no such thing as fate?
+[->][END]
+319: ”So you noticed.”
+”No one knows the answer.”
+[->][END]
+320: [71 1]Reserved
+[->][END]
+321: [71 1]Reserved
+[->][END]
+323: [71 1]What do you want from me as an ally?
+[->][END]
+324: ”Your ability.”
+”Your body.”
+[->][END]
+325: [71 1]Reserved
+[->][END]
+326: [71 1]Reserved
+[->][END]
+328: [71 1]I'm really in trouble...
+Would you give me that?
+[->][END]
+329: ”Sure thing.”
+”Hell no.”
+”Not for free.”
+[->][END]
+330: [71 1]Yay!
+[->][END]
+331: [71 1]What!?
+[->][END]
+332: [71 1]Awwww...
+[->][END]
+334: [71 1]Then should we fight for it?
+[->][END]
+335: ”I don't plan on that.”
+”That's not good for me.”
+[->][END]
+336: [71 1]Reserved
+[->][END]
+337: [71 1]Reserved
+[->][END]
+339: [71 1]So, what do you want?
+[->][END]
+340: ”A friend.”
+”A dream.”
+”Love.”
+[->][END]
+341: [71 1]Reserved
+[->][END]
+342: [71 1]Reserved
+[->][END]
+343: [71 1]Reserved
+[->][END]
+345: [71 1]Hey human! Make room for a demon!
+[->][END]
+346: ”So what?”
+”Stop acting tough.”
+”And so is the great human.”
+[->][END]
+347: [71 1]He's not scared...!
+[->][END]
+348: [71 1]You're right.
+[->][END]
+349: [71 1]What!?
+[->][END]
+351: [71 1]Who are you!?
+[->][END]
+352: ”Me.”
+”I don't know.”
+[->][END]
+353: [71 1]Reserved
+[->][END]
+354: [71 1]Reserved
+[->][END]
+356: [71 1]Are you saying you're better than me!?
+[->][END]
+357: ”That's right.”
+”I was too harsh.”
+[->][END]
+358: [71 1]I'm the better one!
+[->][END]
+359: [71 1]I was overreacting, too. I'm sorry.
+[->][END]
+361: [71 1]Hey, I'm getting hungry...
+[->][END]
+362: ”So?”
+”Wanna eat something?”
+”I'm hungry, too.”
+[->][END]
+363: [71 1]Don't be so cold. Let me eat some
+of you, Mister!
+[->][END]
+364: [71 1]You'll give me something?
+[->][END]
+365: [71 1]Everyone gets hungry, huh...
+[->][END]
+367: [71 1]I can eat your left arm, right?
+[->][END]
+368: ”Just a little.”
+”It won't grow back, so no.”
+[->][END]
+369: [71 1]Yay! Thanks for the meal!
+[->][END]
+370: [71 1]Reserved
+[->][END]
+371: [71 1]You cheapo!
+[->][END]
+373: [71 1]Oh, I don't like that food.
+[->][END]
+374: ”Then I won't give it to you.”
+”Then die of hunger.”
+[->][END]
+375: [71 1]Reserved
+[->][END]
+376: [71 1]Reserved
+[->][END]
+378: [71 1]Mister, how long can you survive
+without eating?
+[->][END]
+379: ”Three days is the limit.”
+”Easily a year.”
+[->][END]
+380: [71 1]You sure do suck, Mister. I don't
+wanna become the ally of someone
+so weak.
+[->][END]
+381: [71 1]Wow!
+[->][END]
+383: [71 1]I wanna have a human friend. Now, let's
+shake hands to show our friendship!
+[->][END]
+384: Shake his hand
+Leave him hanging
+Put a tack in your hand
+[->][END]
+385: [71 1]Wow, that's some grip...
+I don't wanna fight that guy.
+[->][END]
+386: [71 1]Wow! You know, you're showing me
+your dominant hand...!?
+[->]You must really trust me!
+Let me join you!
+[->][END]
+387: 〉 But the demon's hand was full of tacks!
+[->][END]
+388: [71 1]Oh... You knew I had a tack, huh?
+Not bad, Mister!
+[->][END]
+389: [71 1]That was close. I was about to get
+human cooties on me.
+[->][END]
+390: [71 1]Ooh, your hand's all prickly, Mister.
+It feels good!
+[->][END]
+391: [71 1]Ouch...! Why you...!
+[->]...
+[->]Waaaaaah! This human is bullying me!
+[->][END]
+393: [71 1]Demons and humans... Which are stronger?
+[->][END]
+394: Demons
+Demons
+Demons
+[->][END]
+395: [71 1]Huh? You should say ”humans”!
+Have some pride, Mister!
+[->][END]
+396: [71 1]Yeah, but demons being powerful all the
+time isn't very fun, either.
+[->]Tell you what, I'll be your friend,
+and that'll balance things out.
+[->][END]
+397: [71 1]Awwww, what? Humans aren't the strongest?
+[->]I don't wanna be friends with weaklings.
+[->][END]
+398: [71 1]Huh? You should say ”humans”!
+Have some pride, Mister!
+[->][END]
+399: [71 1]Yeah, but demons being powerful all the
+time isn't very fun, either.
+[->]Tell you what, I'll be your friend,
+and that'll balance things out.
+[->][END]
+400: [71 1]Awwww, what? Humans aren't the strongest?
+[->]I don't wanna be friends with weaklings.
+[->][END]
+401: [71 1]Huh? You should say ”humans”!
+Have some pride, Mister!
+[->][END]
+402: [71 1]Yeah, but demons being powerful all the
+time isn't very fun, either.
+[->]Tell you what, I'll be your friend,
+and that'll balance things out.
+[->][END]
+403: [71 1]Awwww, what? Humans aren't the strongest?
+[->]I don't wanna be friends with weaklings.
+[->][END]
+405: [71 1]What do you think you should do with
+evil humans?
+[->][END]
+406: ”Prosecute them under the law.”
+”Serve justice personally.”
+”Forgive them.”
+[->][END]
+407: [71 1]You're obeying the rules of society?
+Wow, you're a grown−up!
+[->][END]
+408: [71 1]You can't beat bad guys with the law.
+You don't even know that?
+[->][END]
+409: [71 1]You'd act on your own!? You're not
+like other humans who just complain.
+[->][END]
+410: [71 1]But that would make you a bad guy
+according to the human's rules...
+[->]Alright, I'll become your ally and
+do it for you!
+[->][END]
+411: [71 1]What about the rules of society? If
+you step outside of those, you lose.
+[->][END]
+412: [71 1]You'd forgive them!? You're a great
+man...
+[->][END]
+413: [71 1]That's useless! They'll just do it
+again!
+[->][END]
+415: [71 1]What does it mean to be a grown−up?
+[->][END]
+416: ”To fight reality.”
+”To climb the steps of adulthood.”
+”To become my ally.”
+[->][END]
+417: [71 1]My daddy told me that too... He was
+looking at his hairline in the mirror.
+[->]Becoming a grown−up is a sad thing.
+[->][END]
+418: [71 1]Really...? That sounds pretty tough...
+[->]I don't think I can fight reality all by
+myself! Mister, you've got to help me!
+[->][END]
+419: [71 1]Then you need to fight, Mister.
+[->]Fight the reality that demons are
+coming to kill you...
+[->][END]
+420: [71 1]Mister, you're not making any sense.
+[->]You must've fallen from those steps
+and hit your head.
+[->][END]
+421: [71 1]No! Climbing is so tiring! Give me
+something easier!
+[->][END]
+422: [71 1]...That's a lie. But I'll pretend to
+be fooled.
+[->]Isn't that really grown−up of me? 
+[->][END]
+423: [71 1]That's what my daddy said!
+[->]He said that he became an adult with
+a girl demon that was in the same
+stock!
+[->][END]
+424: [71 1]I never said I wanted to become an
+adult.
+[->]So I won't become your ally.
+[->][END]
+426: [71 1]I'm not supposed to speak to humans.
+You're a human, right Mister?
+[->][END]
+427: ”I'm a god.”
+”I'm a demon.”
+”I'm the protagonist.”
+[->][END]
+428: [71 1]You're a god of weakness! I'm sure
+of that!
+[->][END]
+429: [71 1]It looks like you're sick in the head.
+[->]I guess I'll take you to see a doctor.
+[->][END]
+430: [71 1]Don't say that! The heavens will punish
+you! Get away from me!
+[->][END]
+431: [71 1]Your named is ”A Demon”? They
+allowed you to register that name?
+[->][END]
+432: [71 1]If you're a demon, then you're tough
+enough to handle this, right?
+[->][END]
+433: [71 1]Hey, I'm a protagonist, too! Everyone's
+the main character of their own lives!
+[->][END]
+434: [71 1]No fair! I'm gonna be a protagonist
+with you, too!
+[->][END]
+435: [71 1]My daddy told me something.
+[->]Demons are born to kill the protagonist!
+[->][END]
+437: [71 1]Ugh, I can't contain myself!
+[->]Counting down: Five! Four! Threeeeeee!
+Twoooooooooo! Onnnnnnnnnneeee...!
+[->][END]
+438: Stop the demon
+Run
+[->][END]
+439: [71 1]Th... That was close. Just a little
+more and we would've been in danger...
+[->]Thank you for stopping the mass
+destruction of the world!
+[->][END]
+440: [71 1]I was readying to jump into your
+stock... Forget it then.
+[->][END]
+441: [71 1]Wait... What comes after one?
+Math is hard...
+[->][END]
+442: [71 1]Don't run away by yourself! Take me
+with you!
+[->][END]
+443: [71 1]Time's up! It's my turn now!
+[->][END]
+445: [71 1]Reserved
+[->][END]
+446: Reserved
+[->][END]
+447: Reserved
+[->][END]
+448: Reserved
+[->][END]
+449: [71 1]Reserved
+[->][END]
+450: Reserved
+[->][END]
+451: [71 1]Reserved
+[->][END]
+452: Reserved
+[->][END]
+453: [71 1]Reserved
+[->][END]
+454: Reserved
+[->][END]
+455: [71 1]Reserved
+[->][END]
+456: Reserved
+[->][END]
+457: [71 1]Reserved
+[->][END]
+458: Reserved
+[->][END]
+459: [71 1]Reserved
+[->][END]
+460: Reserved
+[->][END]
+461: [71 1]Reserved
+[->][END]
+462: Reserved
+[->][END]
+463: [71 1]Reserved
+[->][END]
+464: Reserved
+[->][END]
+465: [71 1]Reserved
+[->][END]

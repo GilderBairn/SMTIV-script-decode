@@ -1,0 +1,66 @@
+0: 〉 The crystal is shining red.
+Examine it?
+[END]
+1: 〉 The crystal is shining yellow.
+Examine it?
+[END]
+2: 〉 The crystal is shining blue.
+Examine it?
+[END]
+3: Examine
+Leave it be
+[END]
+4: 〉 It seems one of the walls barricading
+a gate is no longer up...
+[END]
+5: 〉 The gate is blocked by a shining 
+wall. You can't go through right now. 
+[->]〉 Maybe there's a way to unlock the 
+wall somewhere else...
+[END]
+6: 〉 The gate is blocked tight by a wall. 
+[->]〉 You can't open this gate at your
+level.
+[END]
+7: 〉 The compressed contents expand,
+activating the portal cube.
+[END]
+8: Node 1
+[END]
+9: Node 2
+[END]
+10: Node 3
+[END]
+11: Node 4
+[END]
+12: 〉 It seems no other portal cubes 
+are activated...
+[->]〉 Unless the destination cube is 
+activated, the transportation cannot
+occur. 
+[END]
+13: 〉 The gate is blocked tight by a wall. 
+[->]〉 You can't open this gate at your 
+current [Color:0x5]Agility[Color:0x0] level.
+[END]
+14: 〉 The gate is blocked tight by a wall. 
+[->]〉 You can't open this gate at your 
+current [Color:0x5]Strength[Color:0x0] level.
+[END]
+15: 〉 The gate is blocked tight by a wall. 
+[->]〉 You can't open this gate at your 
+current [Color:0x5]Strength[Color:0x0] level.
+[END]
+16: 〉 The gate is blocked tight by a wall. 
+[->]〉 You can't open this gate at your 
+current [Color:0x5]Agility[Color:0x0] level.
+[END]
+100: 〉 When you touch the artifact, the
+outer shell comes off and its contents
+expand.
+[->]〉 It seems it's a passageway that can
+transport objects to a specific location...
+[->]〉 If you can activate another artifact
+elsewhere, it will likely let you
+transport between the two.
+[END]

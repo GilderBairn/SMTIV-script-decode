@@ -1,0 +1,12 @@
+1994: Recover a small amount of HP. Can be sold for a lot of money.
+Target: [7d 0] Max amount you can hold: [7d 1]
+[END]
+1995: Heal status ailment ”Confuse.” Can be sold for a lot of money.
+Target: [7d 0] Max amount you can hold: [7d 1]
+[END]
+1996: Heal a small amount of MP. Can be sold for a lot of money.
+Target: [7d 0] Max amount you can hold: [7d 1]
+[END]
+1997: Instantly level up. 
+Target: [7d 0] Max amount you can hold: [7d 1]
+[END]

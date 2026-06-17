@@ -1,0 +1,68 @@
+100: 〉 Beyond the door, you find a 
+young man surrounded by enemies.
+[->]〉 It seems he is one of the other 
+messiahs.
+[END]
+101: (Aleph) [7a 418]You're the one from my dream! I see.
+You must be whom Stephen spoke of.
+[END]
+102: 〉 Aleph glances at you while fighting
+off the enemies surrounding him.
+[->]〉 Will you help Aleph?
+[END]
+103: Help him
+Hang back and watch
+[END]
+104: 〉 You leap into the fray and cut down
+one of the enemies.
+[END]
+105: (Aleph) [7a 418]Hey−−Heh, I see. You're no ordinary
+kid, are you?
+[END]
+106: 〉 Aleph nods at you.
+[END]
+107: (Aleph) [7a 418][7b 1048993, 65537]Sorry to ask, but... mind helping
+me with these guys?
+[END]
+108: 〉 You decide to hang back and 
+watch.
+[END]
+109: (Aleph) [7a 418]You're a good boy!
+[END]
+110: 〉 Aleph turns back, and with nimble 
+footwork toys with the enemies in 
+front of him.
+[->]〉 It doesn't really seem like he
+needs your help.
+[END]
+111: 〉 Suddenly, a horde of enemies 
+attacks you from above!
+[END]
+112: 〉 As soon as he finishes his sentence, 
+Aleph attacks the nearest enemy.
+[->]〉 You ready your weapon and turn to
+face the enemies.
+[END]
+200: (Aleph) [7a 417]You're quite good...
+[END]
+201: 〉 Aleph, having finished off his own
+enemies, walks over to you.
+[END]
+202: (Aleph) [7a 417]I thought I died, burned away by
+the Megiddo Ark...
+[->]Why am I here? Do you know what's
+going on?
+[END]
+203: 〉 You explain the situation to Aleph.
+[END]
+204: (Aleph) [7a 417][7b 65953, 65537]I see... In that case, I should go 
+see En no Ozuno.
+[->][7b 1048993, 65537]I'll go on ahead. See you later.
+[END]
+205: 〉 Aleph walks off.
+[->]〉 You find a glowing, blue key in 
+the center of the room.
+[->]〉 You obtain the [Color:0x5]Blue Key[Color:0x0].
+[END]
+1000: 〉 The room is silent.
+[END]

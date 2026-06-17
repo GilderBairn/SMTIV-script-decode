@@ -1,0 +1,26 @@
+0: [71 1]I shall reach toward new, greater
+heights and conquer the unruly ones.
+[->][END]
+1: [71 1]I have traveled throughout the country, 
+training my skills... My studies are 
+never over.
+[->][END]
+2: [71 1]The military rule I seek is endless,
+and so I seek further training.
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]This is a souvenir I have obtained 
+from a far away land. I shall bestow 
+it to you. Make good use of it.
+[->][END]
+7: [71 1]My absence must have burdened you.
+Take this souvenir as an apology. 
+[->][END]
+8: [71 1]I have brought a sounvenior from my travels. 
+Please, accept it...
+[->][END]

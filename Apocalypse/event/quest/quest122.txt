@@ -1,0 +1,19 @@
+0: There's been a string of attacks against Hunters in 
+[Color:0x5]Shinjuku[Color:0x0] recently. Please take care of the [Color:0x5]Dormarths[Color:0x0]
+running rampant in Nicho.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Great work with those Dormarths. Crazy to think 
+they were being manipulated by another demon. 
+Well, I guess not all demons are on the same team. 
+This just goes to show, the enemy of your enemy isn't 
+necessarily a friend. Just another enemy. My advice? 
+Never let your guard down around a demon.
+[END]

@@ -1,0 +1,25 @@
+0: [71 1]The worlds may be different,
+but death is not... 
+[->][END]
+1: [71 1]I have fulfilled my promise... 
+Accompanied by countless death... 
+[->][END]
+2: [71 1]I saw with my own eyes until the very end...
+The battle of the samurais that lived... 
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]A gift given by death. Is it capable 
+of protecting your life...?
+[->][END]
+7: [71 1]Let me gift you with a gift from life.
+It is an item that protected the 
+lives of the Samurai.
+[->][END]
+8: [71 1]It died, perished and disappeared.
+What was left was this gift...
+[->][END]

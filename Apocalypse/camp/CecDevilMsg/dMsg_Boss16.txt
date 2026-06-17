@@ -1,0 +1,25 @@
+0: [71 1]I am the heart of this country's defense...
+But I must look beyond our borders, too.
+[->][END]
+1: [71 1]To protect this country, I must train... 
+Come, let us go to the outer worlds.
+[->][END]
+2: [71 1]The lights of the stars shall guide
+me... Come, let us go−−for Tokyo!
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]This is a souvenir from my patrols
+beyond the Firmament. Accept it.
+[->][END]
+7: [71 1]Ha... You need not say it, I can tell.
+You want this, don't you? Then take it.
+[->][END]
+8: [71 1]I took this because I thought it might be of use to you. Ihope you find it 
+Ithought oyu might find use for this, 
+and so I took it.Use it well.
+[->][END]

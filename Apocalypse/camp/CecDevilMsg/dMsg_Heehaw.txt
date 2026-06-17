@@ -1,0 +1,29 @@
+0: [71 1]I became stronger after traveling, ho!
+There was a lot of kind of people in
+space, ho!
+[->][END]
+1: [71 1]I helped out a lot of Hunters,
+but [Flynn] is the best, ho!
+[->][END]
+2: [71 1]I want to cross more cyber seas
+and become the strongest, ho!
+[->][END]
+3: [71 1]I demon fused a whole bunch, ho!
+Hee−ho! Hee−ho!
+[->][END]
+4: [71 1][Flynn]! It's me, ho!
+I became stronger from the 
+loneliness of StreetPass, ho!
+[->][END]
+5: [71 1]I'm surprised that I ended up like this 
+after fusing with that demon, ho.
+[->][END]
+6: [71 1]A souvenir from the other world, ho.
+You can decorate your room with it, ho.
+[->][END]
+7: [71 1]I thought of [Flynn] and stole it 
+from other Hunters, ho!
+[->][END]
+8: [71 1]A souvenir from the other world, ho.
+They mistook me for a Zashiki Warashi, ho.
+[->][END]

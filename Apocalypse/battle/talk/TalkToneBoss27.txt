@@ -1,0 +1,166 @@
+0: Dummy Message
+[END]
+1: [71 1]My will commands me to not align with
+you.
+[->]My will's only desire is to bring Flynn
+to Lord Lucifer.
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Hmph, money is everything? Such an
+abhorrent perspective. I cannot stand
+being in your presence.
+[->][END]
+19: [71 1]Macca is a cheap trinket as compared
+to my might! And such might will never
+falter over money!
+[->][END]
+20: [71 1]Not Used
+[->][END]
+21: [71 1]Guh!? My power... My authority...
+Yooooouuu!
+[->][END]
+22: [71 1]Not Used
+[->][END]
+23: [71 1]Not Used
+[->][END]
+24: [71 1]I am bound!? What is it you intend to
+do to me...?
+[->][END]
+25: [71 1]You wish to have my treasure? Does this
+seem, to you, an appropriate time to
+jest?
+[->]My will lacks the desire to trade with
+you...
+[->][END]
+26: [71 1]Not Used
+[->][END]
+27: [71 1]By my authority, I shall permit you
+to trade with me.
+[->]Now, then−−take my treasure...
+[->][END]
+28: [71 1]Take this, as well. My will demands it,
+and I shall not take no for an answer.
+[->][END]
+29: [71 1]Not Used
+[->][END]
+30: [71 1]Not Used
+[->][END]
+31: [71 1]Not Used
+[->][END]
+32: [71 1]Not Used
+[->][END]
+33: [71 1]Not Used
+[->][END]
+34: [71 1]Not Used
+[->][END]
+35: [71 1]Not Used
+[->][END]
+36: [71 1]Not Used
+[->][END]
+37: [71 1]Not Used
+[->][END]
+38: [71 1]Not Used
+[->][END]
+39: [71 1]Not Used
+[->][END]
+40: [71 1]Not Used
+[->][END]
+41: [71 1]Not Used
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Not Used
+[->][END]
+44: [71 1]Not Used
+[->][END]
+45: [71 1]Not Used
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]Not Used
+[->][END]
+56: [71 1]Not Used
+[->][END]
+57: [71 1]Not Used
+[->][END]
+58: [71 1]Not Used
+[->][END]
+59: [71 1]Not Used
+[->][END]
+60: [71 1]Not Used
+[->][END]
+61: [71 1]Not Used
+[->][END]
+62: [71 1]Not Used
+[->][END]
+63: [71 1]Not Used
+[->][END]
+64: [71 1]Not Used
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]Not Used
+[->][END]
+71: [71 1]Not Used
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

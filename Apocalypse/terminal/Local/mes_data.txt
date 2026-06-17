@@ -1,0 +1,83 @@
+1: It seems like you can proceed 
+from here.
+[->]Will you proceed?
+[END]
+2: Yes
+No
+[END]
+3: 〉 Pass through the anomaly to reach 
+the 2nd Brane?
+[END]
+4: 〉 Pass through the anomaly to reach 
+the 1st Brane?
+[END]
+5: 〉 Pass through the anomaly to reach 
+the 3rd Brane?
+[END]
+6: 〉 Pass through the anomaly to reach 
+the 2nd Brane?
+[END]
+7: 〉 Pass through the anomaly to reach 
+the 4th Brane?
+[END]
+8: 〉 Pass through the anomaly to reach 
+the 3rd Brane?
+[END]
+10: 〉 Something about this area feels off.
+[->]〉 You somehow intuitively understand
+that this place is linked to another 
+dimension...
+[->]〉 In order to proceed, you will need
+to cross into another dimension−−
+another plane of the universe.
+[->]〉 Pass through the anomaly to reach 
+the 2nd Brane?
+[END]
+11: 〉 Something about this area feels off.
+[->]〉 You somehow intuitively understand
+that this place is linked to another 
+dimension...
+[->]〉 In order to proceed, you will need
+to cross into another dimension−−
+another plane of the universe.
+[->][END]
+12: 〉 Something about this area feels off.
+[->]〉 You somehow intuitively understand
+that this place is linked to another 
+dimension...
+[->]〉 In order to proceed, you will need
+to cross into another dimension−−
+another plane of the universe.
+[->]〉 Pass through the anomaly to reach 
+the 3rd Brane?
+[END]
+13: 〉 Something about this area feels off.
+[->]〉 You somehow intuitively understand
+that this place is linked to another 
+dimension...
+[->]〉 In order to proceed, you will need
+to cross into another dimension−−
+another plane of the universe.
+[->]〉 Pass through the anomaly to reach 
+the 2nd Brane?
+[END]
+14: 〉 Something about this area feels off.
+[->]〉 You somehow intuitively understand
+that this place is linked to another 
+dimension...
+[->]〉 In order to proceed, you will need
+to cross into another dimension−−
+another plane of the universe.
+[->]〉 Pass through the anomaly to reach 
+the 4th Brane?
+[END]
+15: 〉 Something about this area feels off.
+[->]〉 You somehow intuitively understand
+that this place is linked to another 
+dimension...
+[->]〉 In order to proceed, you will need
+to cross into another dimension−−
+another plane of the universe.
+[->]〉 Pass through the anomaly to reach 
+the 3rd Brane?
+[END]

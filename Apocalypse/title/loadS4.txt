@@ -1,0 +1,96 @@
+0: If you wish to receive the save data bonuses,
+please have ready a Shin Megami Tensei IV
+Game Card or a downloadable version of
+the game installed on your SD card.
+[END]
+1: 〉 Begin receiving save data bonuses?
+[END]
+2: Yes
+No
+[END]
+3: 〉 The save data bonus process will now
+begin.
+[->]〉 If you wish to cancel this process,
+you will need to restart the game.
+[END]
+5: Please insert a Shin Megami Tensei IV Game 
+Card or an SD card with the downloadable
+version of the game installed.
+[END]
+6: 〉 Press the A Button once you have inserted
+a Shin Megami Tensei IV Game Card or SD
+card with the downloadable version.
+[END]
+7: 〉 Cancel receiving save data bonuses?
+[END]
+8: 〉 The Shin Megami Tensei IV Game Card has
+not been inserted properly.
+[END]
+9: Save data was not able to be read.
+[END]
+10: 〉 Shin Megami Tensei IV save data was
+successfully read.
+[END]
+11: Please insert your Shin Megami Tensei IV:
+Apocalypse Game Card or an SD card with
+the downloadable version of the game.
+[END]
+12: 〉 Press the A Button once you have inserted
+your version of Shin Megami Tensei IV:
+Apocalypse.
+[END]
+13: 〉 The Shin Megami Tensei IV: Apocalypse Game 
+Card has not been inserted properly.
+[END]
+15: 〉 Different bonuses will be received
+depending on how many times you have 
+completed the game.
+[->]〉 Additionally, you will receive titles 
+depending on which endings you reached.
+[->]〉 You can set a title once you have 
+unlocked StreetPass functionality.
+[->]〉 Which save data would you like to load?
+[END]
+16: Save data 1
+Save data 2
+[END]
+17: 〉 Save data bonus importing has been 
+cancelled.
+[END]
+18: 〉 Save failed.
+[END]
+19: 〉 Save data bonus importing successful.
+[->]〉 The bonuses that were loaded will be 
+unlocked early in the game.
+[->]〉 You can receive them by going to Inbox
+in the menu.
+[END]
+20: 〉 The game will now restart.
+[END]
+21: Debug message
+If Home Mode is on, it will restart automatically.
+If Home Mode is off, it cannot restart automatically
+and will need to be restarted manually.
+[END]
+22: Failed to read Game Card.
+[END]
+23: No save data exists.
+[END]
+24: 〉 Successfully loaded Shin Megami Tensei IV:
+Apocalypse.
+[END]
+25: 〉 Ending save data bonus importing.
+[END]
+26: 〉 Do you want to read save data [11 0]?
+[END]
+100: Save data [11 0]
+Name: [11 1]
+Level: [11 2]
+Play Time: [11 3]:[11 4]:[11 5]
+Cycles: [11 6]
+[11 7] [11 8]
+[11 9] [11 10]
+[END]
+101: Save data [11 0]
+No data
+[END]

@@ -1,0 +1,65 @@
+100: 〉 Beyond the door, you find a 
+young man surrounded by enemies.
+[->]〉 It seems he is one of the others
+who found their way here.
+[END]
+101: (Flynn) [7a 379]You're... It's dangerous here! 
+Get back!
+[END]
+102: 〉 Flynn glances to you while he 
+fights.
+[->]〉 Will you help Flynn?
+[END]
+103: Help him
+Hang back and watch
+A〉選択肢01_A加勢する
+A〉選択肢01_Bもう少し様子を見る
+[END]
+104: 〉 You leap into the fray and cut down
+one of the enemies.
+[END]
+105: (Flynn) [7a 379]You can fight!?
+[END]
+106: 〉 Flynn nods at you.
+[END]
+107: (Flynn) [7a 379]Please, lend me a hand. I need your 
+strength to defeat these enemies!
+[END]
+108: 〉 You decide to hang back and watch.
+[END]
+109: (Flynn) [7a 379]Yes, please−−just stay there.
+[END]
+110: 〉 Flynn gracefully dispatches the
+remainder of the enemies in one swing.
+[->]〉 It doesn't really seem like he
+needs your help.
+[END]
+111: 〉 Suddenly, a horde of enemies 
+surrounds you and attacks!
+[END]
+112: 〉 Flynn bravely charges back into
+the mass of enemies.
+[->]〉 You ready your weapon and face
+another group of enemies.
+[END]
+200: (Flynn) [7a 187]You're amazing...
+[END]
+201: 〉 Flynn, having finished off his own
+enemies, walks over to you.
+[END]
+202: (Flynn) [7a 187]It seems you know more about this place 
+than I.
+[->]If you don't mind, could you tell me 
+what you know?
+[END]
+203: 〉 You explain the situation to Flynn.
+[END]
+204: (Flynn) [7a 187]I see... I think I understand. 
+I shall speak with En no Ozuno.
+[->]I'll go on ahead. Let's meet again 
+later.
+[END]
+205: 〉 Flynn walks off.
+[END]
+1000: 〉 The room is silent.
+[END]

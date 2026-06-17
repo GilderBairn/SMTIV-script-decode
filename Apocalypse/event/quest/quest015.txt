@@ -1,0 +1,26 @@
+0: To all Hunters:
+Shesha is no more. What remains of the Divine Powers 
+are holed up in [Color:0x5]Tsukiji Konganji[Color:0x0]. We want to eliminate 
+them before they have a chance to recuperate. All 
+available Hunters are to make their way to Tsukiji 
+Konganji to help defeat the Divine Powers once and 
+for all. Good luck.
+[END]
+1: ダミー
+[END]
+2: The Tsukiji Konganji mission is a bust. Defeated, we 
+have no choice but to retreat and terminate the 
+mission.
+
+Sorry, [Flynn].
+[END]
+3: To all Hunters:
+Angel forces are making their way toward [Color:0x5]Tsukiji
+Konganji[Color:0x0]. We need to reach the temple, [Color:0x5]defeat the
+Divine Powers[Color:0x0], and [Color:0x5]rescue Flynn[Color:0x0] before the angels
+or demons get their hands on him.
+[END]
+4: We managed to beat the Divine Powers. Now we just 
+need to [Color:0x5]escape Tsukiji Konganji[Color:0x0] as fast as possible. 
+Flynn needs medical attention.
+[END]

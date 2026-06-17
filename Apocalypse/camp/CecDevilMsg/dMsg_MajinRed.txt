@@ -1,0 +1,27 @@
+0: [71 1]The worlds may be different,
+but death is not... 
+[->][END]
+1: [71 1]Your other self also dances with
+death...
+[->][END]
+2: [71 1]No matter what world I reside in,
+what I bestow does not change.
+[->][END]
+3: [71 1]The worlds may be different,
+but death is not... 
+[->][END]
+4: [71 1]The worlds may be different,
+but death is not... 
+[->][END]
+5: [71 1]The worlds may be different,
+but death is not... 
+[->][END]
+6: [71 1]Accept this, Hunter. It was given to 
+me from your other self.
+[->][END]
+7: [71 1]This was left behind after the destruction...
+Life can be born from loss.
+[->][END]
+8: [71 1]This is a tool that ended before it 
+could be used... How will you use it?
+[->][END]

@@ -1,0 +1,14 @@
+0: TEST
+[END]
+201: 〉 You have been transported to 
+Tir Na Nog.
+[->]〉 A black market called the Demon Market
+operates here.
+[->]〉 Here, you can purchase demons with
+Macca.
+[END]
+301: 〉 Return to Tokyo?
+[END]
+302: Yes
+No
+[END]

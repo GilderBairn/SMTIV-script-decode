@@ -1,0 +1,9 @@
+0: Following Shesha's defeat, the angel army is rerouting
+to Tsukiji Konganji. We must get there before them.
+[END]
+1: ダミー
+[END]
+2: The Divine Powers are no more. All that's left is
+to escape as quickly as we can. Flynn needs medical
+attention.
+[END]

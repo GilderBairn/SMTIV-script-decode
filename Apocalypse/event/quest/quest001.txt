@@ -1,0 +1,8 @@
+0: To all Hunters:
+While patrolling Tokyo, keep an eye out for anything
+that can be used as a weapon. The Hunter Association 
+needs to be prepared for anything, which means 
+having weapons readily available. Please bring back 
+the [Color:0x5]specified amount[Color:0x0] of weapons [Color:0x5]matching the criteria[Color:0x0]
+outlined by each underground district's Association.
+[END]

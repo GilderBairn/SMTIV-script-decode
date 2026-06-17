@@ -1,0 +1,217 @@
+0: Dummy Message
+[END]
+1: [71 1]The sound of the end of days has already
+echoed. Have you heard it...?
+[->]The magnificent echo that surges forth...
+[->]It creaks, shatters, and sounds a
+harmony. Ah, that final dirge when
+time itself shall be no more...
+[->]The time of reckoning has come.
+You shall be lost within the mystic
+threnody as well...
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Do you believe that you can squeeze
+money from a skull...?
+[->][END]
+19: [71 1]To show such avarice even at the moment
+of one's death... How dreadful is man's
+attachment to gold...
+[->][END]
+20: [71 1]Human whose soul is bound to gold...
+You have touched Death with trembling
+fingertips...
+[->]Then I ask for your soul! Release it
+in death!
+[->][END]
+21: [71 1]Kakakakakaka...!
+[->][END]
+22: [71 1]You still continue this barbarism, even
+on the precipice of death...?
+[->][END]
+23: [71 1]...!
+[->]Your fingertips have brushed it...
+the core of the abyss of Death...!
+[->][END]
+24: [71 1]Do you believe that you can wrest
+money from a Fiend? From Death?
+[->][END]
+25: [71 1]Only one thing interests me in trade...
+[->]Souls.
+[->][END]
+26: [71 1]Receive this treasure that was wrested
+from Death.
+[->][END]
+27: [71 1]Kakakakakaka...! Very well, very well!
+[->]To think that a mortal would ask for
+treasure from Death's own hands!
+[->][END]
+28: [71 1]Here is another treasure that Death
+holds hidden within...
+[->][END]
+29: [71 1]Time's flow is fleeting... Let us
+decide this moment, with payment...
+[->][Color:0x1][Amount 1] Macca[Color:0x0].
+Do you agree to this?
+[->][END]
+30: [71 1][Color:0x1][Item 1] x[Amount 1][Color:0x0] is my price.
+[->][END]
+31: [71 1][Color:0x1][Amount 1] Macca[Color:0x0] is my price.
+[->][END]
+32: [71 1]Your [Color:0x1]stamina[Color:0x0]... I request
+[Color:0x1]a little[Color:0x0] of it.
+[->][END]
+33: [71 1]Your [Color:0x1]stamina[Color:0x0]... I request
+[Color:0x1]some[Color:0x0] of it.
+[->][END]
+34: [71 1]Your [Color:0x1]stamina[Color:0x0]... I request
+[Color:0x1]a lot[Color:0x0] of it.
+[->][END]
+35: [71 1]Your [Color:0x1]stamina[Color:0x0]... I request
+[Color:0x1]enough to bring you to death's door[Color:0x0].
+[->][END]
+36: [71 1]Your [Color:0x1]spirit[Color:0x0]... I request
+[Color:0x1]a little[Color:0x0] of it.
+[->][END]
+37: [71 1]Your [Color:0x1]spirit[Color:0x0]... I request
+[Color:0x1]some[Color:0x0] of it.
+[->][END]
+38: [71 1]Your [Color:0x1]spirit[Color:0x0]... I request
+[Color:0x1]a lot[Color:0x0] of it.
+[->][END]
+39: [71 1]Your [Color:0x1]spirit[Color:0x0]... I request
+[Color:0x1]enough to bring you to death's door[Color:0x0].
+[->][END]
+40: [71 1]Death... Your demon there...! I ask
+for the [Color:0x1]life of [Demon name 2][Color:0x0].
+[->][END]
+41: [71 1]I ask for [Color:0x1]that thing[Color:0x0]. Yes...
+[Color:0x1]that[Color:0x0] will suffice for me...
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]This thirst that cannot be expressed
+in words... What can quench it?
+[->][END]
+44: [71 1]Yes, that will quench it...
+[->][END]
+45: [71 1]No, there is yet more thirst...
+[->][END]
+46: [71 1]That brilliant life... Allow me to
+touch it briefly.
+[->][END]
+47: [71 1]”Very well.”
+”I think not.”
+[->][END]
+48: [71 1]Ahhh... How exquisite... What a rare
+life force...
+[->][END]
+49: [71 1]〉 The Fiend gently touched
+[Flynn]...
+[->][END]
+50: [71 1]〉 [Flynn] felt his stamina ebb...
+[->][END]
+51: [71 1]Ahhh... How exquisite... What a rare
+life force...
+[->][END]
+52: [71 1]〉 The Fiend gently touched
+[Flynn]...
+[->][END]
+53: [71 1]〉 [Flynn] lost his life...
+[->][END]
+54: [71 1]Did you get cold feet, Hunter?
+[->][END]
+55: [71 1]Your offering pleases me. I consider
+myself satisfied now...
+[->][END]
+56: [71 1]Death takes another step towards you...
+[->][END]
+57: [71 1]Such folly, holding back on a Fiend...
+[->]Death is fitting, since you seem to hold
+your life in such meager regard.
+[->][END]
+58: [71 1]It ends here... Your luck in negotiating
+has expired.
+[->][END]
+59: [71 1]Did you think you could cheat a Fiend,
+who sees all...?
+[->]Death is fitting, since you seem to hold
+your life in such meager regard.
+[->][END]
+60: [71 1]You do not have it? What a pitiful life.
+[->][END]
+61: [71 1]Nothing can begin without any
+Life Stones...
+[->][END]
+62: [71 1]To think that a mortal would deny
+a Fiend so vigorously...
+[->]The strength of your life is magnificent.
+[->][END]
+63: [71 1]You continue to acquiesce and show
+obedience to me, a Fiend.
+[->]You are nothing but one who walks
+constantly toward death... There is no
+worth in speaking to you any longer.
+[->][END]
+64: [71 1]To think that you would face a demon with
+nothing but your life...
+[->]It is indeed a wonderful show of spirit.
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]You speak the same words as before...
+Your mind is a dying one that can no
+longer change.
+[->][END]
+71: [71 1]The music of my trumpet that sounds the
+end of days... None can escape it...
+[->]Now, [Flynn]... Attend this echo
+by your side once more.
+[->]Play your tune in time with the
+destruction of all that is...
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

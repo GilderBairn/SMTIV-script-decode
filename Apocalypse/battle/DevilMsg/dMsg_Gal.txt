@@ -1,0 +1,58 @@
+0: [71 1]Here, new arrivals.
+[->][END]
+1: [71 1][Flynn] [Flynn]!
+I learnt a new skill!
+[->][END]
+2: [71 1]Do you think this is a cool skill?
+[->][END]
+3: [71 1]No way... I have way too many skills...
+[->][END]
+4: [71 1]Why not change [Color:0x5][Skill 1][Color:0x0]
+to [Color:0x5][Skill 2][Color:0x0]?
+[->][END]
+5: [71 1]Mmhm, good for you to not make a fuss.
+[->][END]
+6: [71 1]Fine then, bye bye!
+[->][END]
+7: [71 1]Transforming... isn't it too early?
+[->][END]
+8: [71 1]I take no responsibilities for what's gonna happen.
+[->][END]
+9: [71 1]Good, you get it.
+[->][END]
+10: [71 1]*giggle*...
+Let's raise hell together.
+[->][END]
+11: [71 1]Oh, I feel a transformation is coming...
+[->][END]
+12: [71 1]This thing, [Color:0x5][Item 1][Color:0x0].
+I don't need it, so I'll give it to you.
+[->][END]
+13: [71 1]Hey [Flynn]. Let's use this
+[Color:0x5][Item 1][Color:0x0] together.
+[->][END]
+14: [71 1]I wonder what [Color:0x5][Item 1][Color:0x0] is?
+I don't really get it, so you can have it.
+[->][END]
+15: [71 1]You want... my power, don't you?
+[->][END]
+16: [71 1]Are you filled up already?
+[->][END]
+17: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Nice meeting you.
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

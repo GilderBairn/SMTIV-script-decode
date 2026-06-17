@@ -1,0 +1,186 @@
+0: Dummy Message
+[END]
+1: [71 1]Desirest thou to win me over?
+Child, that is possible.
+[->]However now is the time of trials.
+Show me thou canst withstand this
+fire.
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Money...? What are thou planning?
+[->][END]
+19: [71 1]I did not predict thou wouldst do
+such a thing before the trial...
+[->][END]
+20: [71 1]Son of man... Take thy punishment
+for thine outrage!
+[->][END]
+21: [71 1]Urgh...!? Is this the power of
+man...!?
+[->][END]
+22: [71 1]Is this thirst for Macca the nature
+of man...?
+[->][END]
+23: [71 1]Enough of this barbarism!
+[->][END]
+24: [71 1]Asking for money when I cannot
+move...!? Has mankind fallen that
+far...?
+[->][END]
+25: [71 1]Desirest thou materials before the
+trial? ...Amusing. I shall answer
+to thee.
+[->][END]
+26: [71 1]I bestow this upon thee. ...Now,
+let us continue the trial.
+[->][END]
+27: [71 1]He who taketh the trial, I shall
+help thee!
+[->][END]
+28: [71 1]Ahh... Yes. Use this as well.
+Son of man, overcome my trial.
+[->][END]
+29: [71 1]I desire not to waste time talking.
+Let us end this now.
+[->]Offer me [Amount 1] Macca.
+[->][END]
+30: [71 1]Offer me [Item 1] x[Amount 1].
+[->][END]
+31: [71 1]Offer me [Amount 1] Macca.
+[->][END]
+32: [71 1]Offer me a small portion of thine
+own life.
+[->][END]
+33: [71 1]Offer me a fair portion of thine
+own life.
+[->][END]
+34: [71 1]Offer me a good portion of thine
+own life.
+[->][END]
+35: [71 1]Offer me a large portion of thine
+own life.
+[->][END]
+36: [71 1]Offer me a small portion of thine
+own spirit.
+[->][END]
+37: [71 1]Offer me a fair portion of thine
+own spirit.
+[->][END]
+38: [71 1]Offer me a good portion of thine
+own spirit.
+[->][END]
+39: [71 1]Offer me a large portion of thine
+own spirit.
+[->][END]
+40: [71 1]Thine ally... Offer me
+[Demon name 2]'s life.
+[->][END]
+41: [71 1]Well... Offer me thy that.
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Knowest thou what I desire?
+[->][END]
+44: [71 1]Son of man, thou art correct.
+Thou hast answered my desire.
+[->][END]
+45: [71 1]Son of man, thou art incorrect.
+Thou knowest naught...
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]Thou hast answered me well.
+[->][END]
+56: [71 1]...So thou rejectest my demand?
+[->][END]
+57: [71 1]'Twas a boring break.
+...Let us return to the trial.
+[->][END]
+58: [71 1]...'Tis pointless.
+[->][END]
+59: [71 1]Pitiful son of man... Thinkest
+thou can deceive Prometheus!?
+[->][END]
+60: [71 1]I cannot take what thou hast not...
+[->][END]
+61: [71 1]I cannot take a Life Stone thou
+hast not...
+[->][END]
+62: [71 1]Thou hast naught to offer me...?
+Interesting.
+[->][END]
+63: [71 1]...Thinkest thou simply nodding
+will grant thee thy wish?
+[->]I have nothing to give you. Now,
+let us continue the trial.
+[->][END]
+64: [71 1]Begging others when thou hast
+nothing? ...Pitiable son of man...
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]I tire of this topic...
+[->][END]
+71: [71 1]Not Used
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

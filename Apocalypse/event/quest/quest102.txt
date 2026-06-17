@@ -1,0 +1,18 @@
+0: I want to establish a secure shipping route, but
+there's a demon called [Color:0x5][Demon name 1][Color:0x0] holed up in the 
+[Color:0x5]Kinshicho Shopping District[Color:0x0]. If you get rid of her, 
+I'll be able to lower the prices in our stores.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Didn't think a rookie like you could pull it off.
+Gotta say, that was pretty slick. Now we can
+[Color:0x5]authorize every shop[Color:0x0] in [Color:0x5]Kinshicho[Color:0x0] to hold a sale.
+Keep up the good work, Mr. Rookie of the Year.
+[END]

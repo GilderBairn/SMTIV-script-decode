@@ -1,0 +1,238 @@
+0: Dummy Message
+[END]
+1: [71 1]No way! Why would I join you!?
+[->]Huh...? You're looking for demons?
+[->]Wha−−!? Are you saying I look like
+a demon!? How rude!
+[->][END]
+2: [71 1]Are you joking? You attack me, and
+now you want to talk!?
+[->]This is why I hate fighting people.
+They're worse than demons...
+[->][END]
+3: [71 1]You want me to help you? Then show
+me some money! It's what makes the
+world go 'round!
+[->][END]
+4: [71 1]Hey, you paid me this much...
+All right, I'll join you!
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Hey! You don't have any room on
+your team for me!
+[->]Fine, then! I'm going home!
+[->][END]
+7: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0]!
+I'll stick around as long as you
+can keep paying me!
+[->][END]
+8: [71 1]Are you kidding me!? Your level's
+even lower than mine!
+[->]No way! I'm not going to be seen
+with someone like you!
+[->][END]
+9: [71 1]Wait! That girl with you...
+I've seen her before...
+[->]...Oh, that's my friend!
+Looks like I'm done here.
+[->][END]
+10: [71 1]Hey, while we're at it, why don't
+we ask the others?
+[->]We might just get a volunteer!
+[->][END]
+11: [71 1]...But you don't have enough room
+for anyone else to come along.
+[->]Guess it's just me, then. Ugh, and
+that was such a great idea!
+[->][END]
+12: [71 1]It looks like being with you would
+be better! I'm coming, too!
+[->][END]
+13: [71 1]What's up with them?
+Psh, whatever. Let's go!
+[->][END]
+14: [71 1]Okay, it's my turn now!
+[->][END]
+15: [71 1]Can I introduce you to one of my
+friends?
+[->][END]
+16: [71 1][Demon name 2] called me here!
+[->]Don't worry. Leave everything to me!
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Hey...! Those eyes of yours...
+[->]Has the Hunter become the Hunted...?
+[END]
+19: [71 1]Fine, take the money! Don't let it
+get to your head!
+[->]I'm going to hunt you down next time!
+[->][END]
+20: [71 1]I'll kill you first!
+[->]Once you're dead, I'll take what I
+want from your corpse!
+[->][END]
+21: [71 1]N−Nooooooooo!
+[->][END]
+22: [71 1]H−Hey! Why don't you stop right
+there, mister...
+[->][END]
+23: [71 1]Hey, didn't I say to stop it...?
+[->]Now you're going to have to pay...!
+[->][END]
+24: [71 1]Oh, crap... I can't move!
+[->]Things aren't looking good...
+[->][END]
+25: [71 1]You want to trade for an item, huh?
+Then show me your cash!
+[->][END]
+26: [71 1]Heh heh... Sold! You can have this!
+[->][END]
+27: [71 1]Hahaha... Why do people steal from
+each other? It's the human ability
+to share that makes us special!
+[->]And now! I'm sharing something with
+you! Take this!
+[->][END]
+28: [71 1]Here's something extra.
+I hope we meet again soon...
+[->][END]
+29: [71 1]I'm busy here! Let's get this over
+with right now!
+[->][Color:0x1][Amount 1] Macca[Color:0x0]!
+Deal, or no deal?
+[->][END]
+30: [71 1]Not Used
+[->][END]
+31: [71 1]I'll take [Color:0x1][Amount 1] Macca[Color:0x0]!
+[->][END]
+32: [71 1]Not Used
+[->][END]
+33: [71 1]Not Used
+[->][END]
+34: [71 1]Not Used
+[->][END]
+35: [71 1]Not Used
+[->][END]
+36: [71 1]Not Used
+[->][END]
+37: [71 1]Not Used
+[->][END]
+38: [71 1]Not Used
+[->][END]
+39: [71 1]Not Used
+[->][END]
+40: [71 1]Not Used
+[->][END]
+41: [71 1][Color:0x1]That[Color:0x0]! Give me [Color:0x1]that[Color:0x0]!
+You know, [Color:0x1]that[Color:0x0]!
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Oh...! I don't even know what I want.
+[->]You, tell me. What do I want?
+[->][END]
+44: [71 1]That's it! I wanted this!
+[->][END]
+45: [71 1]You idiot! I don't want that!
+[->][END]
+46: [71 1]Give me all your money!
+[->][END]
+47: [71 1]”Sure.”
+”I don't think so.”
+[->][END]
+48: [71 1]Ha! I'm just kidding. I'm not gonna
+take all your cash! Don't take
+everything so seriously.
+[->]I'll only take... this much!
+[->][END]
+49: [71 1]Not Used
+[->][END]
+50: [71 1]Not Used
+[->][END]
+51: [71 1]Did you think I was joking?
+[->]Hand it over!
+[->][END]
+52: [71 1]Not Used
+[->][END]
+53: [71 1]Not Used
+[->][END]
+54: [71 1]Hmph! I was only kidding!
+What a coward!
+[->][END]
+55: [71 1]Hmhmhm... This should be enough...
+[->][END]
+56: [71 1]Tch...! Not giving it to me...?
+[->][END]
+57: [71 1]You're gonna hold back, huh?
+Well, the joke's on you! Die!
+[->][END]
+58: [71 1]Forget it! I'm done trying to deal
+with you!
+[->][END]
+59: [71 1]Are you lying to me? Well, the joke's
+on you! Die!
+[->][END]
+60: [71 1]You don't have it!? You bum...
+[->][END]
+61: [71 1]Not Used
+[->][END]
+62: [71 1]You're so stubborn! Do you like money
+that much!?
+[->]Well, I can respect that greed.
+I'm gonna let you off the hook.
+Just this once, though!
+[->][END]
+63: [71 1]You just nod to everything I say!
+[->]I can't trust you to do anything!
+Leave me alone!
+[->][END]
+64: [71 1]Wow, you are seriously poor!
+I actually feel sorry for you.
+[->]All right, I'll let you go this once.
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1][Flynn]? You're still alive!
+[->]I think we've gotten pretty close
+after all this time, huh?
+[->][END]
+67: [71 1]You want to join up, huh?
+How can I refuse?
+[->]I normally charge for this, but since
+it's you, I'll do it for free.
+[->][END]
+68: [71 1]You want to rob me?
+How can I say no?
+[->]...Ha! I can say no by just giving
+you money! You could've just asked!
+[->]Here you go, buddy.
+[->][END]
+69: [71 1]You want to buy something off me?
+How can I say no?
+[->]I normally charge for this, but since
+it's you, I'll do it for free.
+[->][END]
+70: [71 1]Look, you're boring me to death here.
+[->]Instead of saying the same thing
+over and over again, can you try for
+a little variety? Come on!
+[->][END]
+71: [71 1][Flynn]! You're still alive!?
+[->]I figured I'd become the main
+character of this game once you were
+dead...
+[->]I guess that'll have to wait.
+[->][END]
+72: [71 1]Wait, you barbarian! You aren't
+really going to kill me, are you!?
+[->]I'll do anything you want!
+Please, let me go!
+[->][END]
+73: [71 1]Ugh! Fine!
+Not like I have a choice...
+[->][END]
+74: [71 1]You son of a bitch!
+You'll get yours one day!
+[->][END]

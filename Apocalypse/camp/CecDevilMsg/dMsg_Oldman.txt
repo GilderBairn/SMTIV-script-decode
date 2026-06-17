@@ -1,0 +1,30 @@
+0: [71 1]Ho ho ho.... I gave a good scolding
+to those insolent Hunters.
+[->][END]
+1: [71 1]Dimensional travels ain't so bad,
+but I've missed yer face, [Flynn].
+[->][END]
+2: [71 1]There was an ol' man that summoned me
+with a contraption called a flip phone... 
+Ho ho.
+[->][END]
+3: [71 1]I'm all wiped out from fusing with 
+all the demons I came across...
+[->][END]
+4: [71 1]Hmm... This body...
+Is it because I fused with that demon?
+[->][END]
+5: [71 1]I feel energy fillin' up these old bones...
+This is the real charm of StreetPass.
+[->][END]
+6: [71 1]Here, sonny, I took this from the 
+other Hunter.
+[->][END]
+7: [71 1]The old gods have become obsolete in 
+all the worlds...
+It was lamentable, so I took this.
+[->][END]
+8: [71 1]Here sonny, a Shikoku souvenir from 
+the other world. Oh? I thought I had 
+48... 
+[->][END]

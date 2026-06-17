@@ -1,0 +1,9 @@
+0: In order to encourage Hunters to jump to action and
+improve solidarity, we have produced a [Color:0x5]promotional
+animation[Color:0x0] based on you, [Flynn]. Before 
+we release it, we would like you to take a look at
+it. By accepting this quest, you will be able to
+view the video. [Color:0x5]Please let us know what you think[Color:0x0].
+[END]
+1: ダウンロードクエスト1 2回目
+[END]

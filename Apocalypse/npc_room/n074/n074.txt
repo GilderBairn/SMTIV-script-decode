@@ -1,0 +1,19 @@
+0: (Neurisher) [7a 105][13 1, 403442]Just when I thought Kenji's rule was
+over, this Akira guy comes and takes
+over Ikebukuro?
+[->]Well, no matter who becomes King of
+Tokyo, I'll welcome him.
+[->]...It doesn't change the fact that
+my brains are being sucked out...
+[END]
+1: (Neurisher) [7a 108][13 1, 403503]Long ago, Ikebukuro was controlled
+by foreign demons. It was terrible...
+[->]They didn't have neurishers back
+then... The demons would just eat
+people whole, whenever they wanted.
+[->]The old King of Tokyo, Kenji, defeated
+the leader of those foreign demons.
+[->]People might say a lot of other
+things about him, but in a way,
+Kenji was our savior.
+[END]

@@ -1,0 +1,23 @@
+0: The Divine Powers have created a barrier that blocks
+the Demon Summoning Program. We need to remove 
+the seal in order to return functionality to the app. 
+The first step is to visit [Color:0x5]Midtown in Ginza[Color:0x0] and use
+[Color:0x5]Myoko's Disk[Color:0x0] on the pile of rubble there.
+[END]
+1: ダミー
+[END]
+2: We've sealed the first jar, but the Tokugawa Mandala
+won't disappear until we seal all five jars. Let's
+hit the next Fudo temple−−no time to waste.
+[END]
+3: Toki says she's fine, but she's starting to slow down.
+Let's try to finish with these Fudo temples as fast
+as possible. There's three jars left.
+[END]
+4: Only two jars remain. Toki's looking worse for wear.
+Not like she'd listen to us even if we tried to stop
+her, though.
+[END]
+5: One last jar. Toki's at her limit. We better end this
+fast so she can rest and recuperate. 
+[END]

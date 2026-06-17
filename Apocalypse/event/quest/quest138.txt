@@ -1,0 +1,21 @@
+0: Hi! It's Betty, again. I have another goal for all
+you Hunters out there. This time I'd like to ask
+you to [Color:0x5]hit a demon's weak point 1,300 times[Color:0x0]. 
+Should be pretty easy for you, right? I'm looking 
+forward to seeing you out there!
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Thank you for your wonderful report, [Flynn]!
+The eyes of the Hunters here at HQ were
+practically popping out of their heads! They said
+you're the youngest Hunter to ever climb the ranks
+this fast. I'm so proud of you, [Flynn]!
+Keep entertaining me, okay?
+[END]

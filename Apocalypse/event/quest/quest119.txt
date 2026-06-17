@@ -1,0 +1,20 @@
+0: [Color:0x5][Demon name 1][Color:0x0], a demon that's appeared in [Color:0x5]downtown 
+Ginza[Color:0x0], is gathering humans, claiming that he wants 
+to give them power. A handful of Hunters have been 
+sent to look into the matter, but none have returned.
+Please put a stop to whatever this demon's doing.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: I heard what happened. I guess the demon meant well,
+but that doesn't change what happened to those poor
+people... Hunters should really know better: Never
+trust a demon. What they think is lending a helping
+hand is rarely the same as ours.
+[END]

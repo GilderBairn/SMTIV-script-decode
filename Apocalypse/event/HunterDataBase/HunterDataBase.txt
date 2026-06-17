@@ -1,0 +1,1966 @@
+0: ダミー本文
+[END]
+10: [Color:0xc]Hunter Name[Color:0x0]
+[Flynn]
+[Color:0xc]Age/Sex[Color:0x0]
+15 (presumably)/ Male
+[Color:0xc]Home District[Color:0x0]
+Kinshicho
+[Color:0xc]History[Color:0x0]
+Formerly a student of the Kinshicho Hunter
+known as Nikkari.
+
+[Flynn] now operates as an official
+Hunter.
+[END]
+11: [Color:0xc]History (Addendum)[Color:0x0]
+Prior to becoming an official Hunter,
+[Flynn] died in a demon attack, but
+was resurrected after striking a deal with
+Dagda. [Flynn] is also responsible for
+releasing Krishna, retrieving the
+Ame−no−habakiri, collecting components for
+the Shesha Radar, and defeating Shesha
+itself.
+It is unclear whether [Flynn]'s
+actions are of his own free will or the
+manipulations of the demon Dagda.
+[END]
+12: [Color:0xc]History (Addendum 2)[Color:0x0]
+While [Flynn] was at Cafe Florida,
+the Divine Powers spread their demon
+forces throughout Tokyo and without
+warning, attacked the underground
+districts simultaneously. Fujiwara
+agreed to let [Flynn] prove his
+innocence by helping repel the demon
+invasion. [Flynn] succeeds. Following
+the demon attack, [Flynn] next
+dispelled the Tokugawa Mandala, a
+magical barrier exploited by the
+Divine Powers to block the use of
+the Demon Summoning Program.
+[END]
+20: [Color:0xc]Hunter Name[Color:0x0]
+Asahi
+[Color:0xc]Age/Sex[Color:0x0]
+15/Female
+[Color:0xc]Home District[Color:0x0]
+Kinshicho
+[Color:0xc]History[Color:0x0]
+Formerly a student of the Kinshicho Hunter
+known as Nikkari.
+
+Asahi now operates in an official capacity
+as a Hunter.
+[END]
+21: [Color:0xc]History (Addendum)[Color:0x0]
+Lost her father when the Divine Powers sent
+their demons to attack the underground
+districts. There is no other living family
+listed on record. Currently, her father's
+successor at the Kinshicho Hunter Association
+is registered as her legal guardian.
+[END]
+22: [Color:0xc]History (Addendum 2)[Color:0x0]
+Though killed by the demon serpent Shesha,
+Asahi was returned to life upon Krishna's
+defeat. She has since resumed duties as an
+active Hunter.
+[END]
+30: [Color:0xc]Summary[Color:0x0]
+A student in training for service
+as an active, official Hunter.
+[Color:0xc]Becoming a Hunter[Color:0x0]
+In order for a cadet to advance to
+full Hunter status, they must first
+apprentice under an appropriately
+ranked Hunter. Following extensive
+training, the Hunter must then
+recommend the cadet to the Hunter
+Association.
+
+Alternatively, if a Hunter application's
+achievements and accomplishments can
+be assessed as equal or superior to
+standard training, they might be given
+official Hunter status. Few, however,
+have become a Hunter through these
+means.
+
+As for the Cadet experience, training
+varies greatly between instructors.
+There is no formal curriculum. The
+work asked of Hunters spans a wide
+range of skills, though some Hunters
+have been known to specialize.
+[END]
+40: [Color:0xc]Hunter Name[Color:0x0]
+Nikkari
+[Color:0xc]Sex[Color:0x0]
+Male
+[Color:0xc]Home District[Color:0x0]
+Kinshicho
+[Color:0xc]History[Color:0x0]
+Operated in official Hunter capacity
+through the Kinshicho Hunter Association.
+Specialized in delivery−type quests.
+One of the most reliable Hunters and
+respected by his peers, Nikkari was a 
+passionate instructor, often taking cadets
+into the field with him during quests.
+In the days of God's Plan, Nikkari served
+with the JSDF stationed at Camp Ichigaya.
+There, he met the future founders of the
+Hunter Association, Fujiwara and Skins.
+[Color:0xc]Death[Color:0x0]
+During a routine foraging mission just
+outside of Kinshicho, Nikkari was killed
+by a demon serving Lucifer.
+[END]
+50: [Color:0xc]Hunter Name[Color:0x0]
+Manabu
+[Color:0xc]Age/Sex[Color:0x0]
+18/Male
+[Color:0xc]Home District[Color:0x0]
+Kinshicho
+[Color:0xc]History[Color:0x0]
+Operated in official Hunter capacity
+through the Kinshicho Hunter Association.
+Though technically a novice Hunter,
+Manabu possessed the skills of someone
+more seasoned. He usually worked beside
+Nikkari, his former mentor.
+[Color:0xc]Death[Color:0x0]
+During a routine foraging mission just
+outside of Kinshicho, Manabu was killed
+by a demon serving Lucifer.
+[END]
+60: [Color:0xc]Summary[Color:0x0]
+Ironic name of artifacts made before God's Plan.
+[Color:0xc]Importance of Relics[Color:0x0]
+Following God's Plan, both the acquisition and
+manufacture of goods dropped precipitously.
+These relics proved to be a valuable resource
+to the people of Tokyo, who collect them daily.
+[Color:0xc]About the Name ”Relics”[Color:0x0]
+Supposedly, the name for these artifacts has
+origins with the Samurai who came down from
+the Ceiling and had been tasked by their kingdom
+to collect these ”mystic relics”. When the
+Samurai used this name while buying and selling
+the artifacts, Tokyo denizens found it amusing
+and perpetuated this wording.
+[END]
+70: [Color:0xc]Summary[Color:0x0]
+A hand−held computer and cell phone
+that is capable of running a variety
+of applications.
+[Color:0xc]Functions[Color:0x0]
+− Calls
+− Send/Receive Emails & Texts
+− Creating Documents
+− Managing Info (schedules, addresses, etc.)
+− Camera
+− Clock
+− Calculator
+
+Additional functions can be added
+by installing new apps. For Hunters,
+these apps are included by default:
+
+− Quest Management
+− Skill Mangement
+− Item Management
+− Party Management
+− Demon Summoning Program
+− Cathedral of Shadows
+− Demon Analysis
+− GPS
+− Report Missing People
+− Various Databases
+[END]
+80: [Color:0xc]Summary[Color:0x0]
+Prior to God's Plan, domesticated mammals
+(primarily cows and pigs) provided the main
+source of protein within Tokyo. Because of
+the severe shortages in livestock, however,
+demon meat is used as a replacement. Demons
+fit for human consumption are categorized
+as the ”Food” race.
+[END]
+90: [Color:0xc]Summary[Color:0x0]
+Formerly Japan's peacekeeping military
+organization, responsible for national
+defense, maintaining public order,
+and disaster relief. The JSDF has since
+disbanded, and its members scattered.
+[END]
+100: [Color:0xc]Summary[Color:0x0]
+Once a term used to describe the
+anthropomorphized versions of natural
+phenomena or, in certain cultures,
+minions of evil. Presently used to
+describe the non−terrestrial life−forms
+that appeared after God's Plan. The term
+encompasses a variety of creatures across
+a spectrum of cultural backgrounds.
+[Color:0xc]Races[Color:0x0]
+There are over fifty known demon races,
+identified by appearance and origin.
+[Color:0xc]Emergence[Color:0x0]
+Modern reports of demons place their
+emergence in the 1980s, though at the
+time their presence was so low they
+were often dismissed as urban legend.
+After the incident with the Yamato
+Perpetual Reactor in which a gate to
+the Expanse was created, the demon
+population surged. Following God's
+Plan, reports of humans turning into
+demons also began to surface, though
+the cause for this remains unknown.
+One theory asserts that the magnetite
+found naturally in all humans is
+somehow able to react to will and
+desire, sometimes triggering said
+transformation. If true, this theory
+would mean that all humans are then
+capable of becoming demons. The bulk
+of this theory comes from reports
+about the human consumption of Reds,
+but because evidence of Red−induced
+transformation into demons is so rare,
+the theory remains speculative at best.
+
+[Color:0x5]*More Data Needed[Color:0x0]
+[END]
+110: [Color:0xc]Summary[Color:0x0]
+A cascade of wars and economic collapse
+that spread across the world in 2013,
+following the Yamato Perpetual Reactor
+incident that resulted in the opening
+of a gateway to the Expanse. This
+incident coincides with the digital
+distribution of the Demon Summoning
+Program. As a result of both events,
+thousands of demons appeared throughout
+the world, instigating global chaos.
+
+The ensuing wars would see over a
+hundred nuclear missiles launched all
+across the world, spread so that no
+surface on Earth would be left
+unscorched. The wars taxed the global
+economy $1.7 trillion dollars and
+caused an estimated 7.2 billion
+casualties. The exact number remains
+unknown.
+[Color:0xc]Tokyo During the Missile Launch[Color:0x0]
+The worldwide simultaneous launch of
+nuclear missiles included Tokyo, but
+just before the city was struck, the
+dome of rocks now referred to as the
+Ceiling appeared, preventing any
+damage.
+[Color:0xc]Unexplained Mysteries Surrounding God's Plan[Color:0x0]
+A great many mysteries persist from
+God's Plan. The Demon Summoning Program,
+for instance, remains an enigma. Who
+created it? Why? Though many theories
+exist, a definitive answer has yet to
+be found. The details surrounding the
+global missile launch also remain unknown.
+When the war ended, and the angels
+appeared, many ascribed responsibility
+to them. This is why the event came to
+be known as God's Plan.
+[END]
+120: [Color:0xc]Summary[Color:0x0]
+The guardian deity of Tokyo.
+Also one of the National Defense Divinities.
+
+Transformed into a dome of rock to prevent
+nuclear missiles from striking down on 
+the city.
+[Color:0xc]Masakado's Life[Color:0x0]
+During the mid−Heian era, he claimed himself
+the ”New Emperor” and led a rebellion to
+liberate the Kanto region. Branded a traitor
+by the court, he was eventually killed by
+his ally, Fujiwara no Hidesato, and Taira
+no Sadamori. Masakado appears in numerous
+legends, sometimes even referred to as the
+”Guardian of Tokyo” in honor of his stand
+against the tyranny of the court and efforts
+to create a better future for the people.
+[END]
+130: [Color:0xc]Summary[Color:0x0]
+A program designed to simulate and simplify
+rituals and acts necessary to summon demons.
+Put simply, the program puts the power to
+summon up demons in the hands of even the
+most ordinary of people. Though, whether
+they are able to control the demon is
+entirely up to them. Inexperienced users
+are often overpowered by the demon and
+either killed or fall under the control of
+the demon. Neither the identity of its
+creator nor the purpose behind its design
+are known. Hunters are awarded smartphones
+equipped with the Demon Summoning Program
+upon registration as an official Hunter.
+[Color:0xc]Relation to God's Plan[Color:0x0]
+It is widely believed that the war now
+called God's Plan erupted as a result
+of the Demon Summoning Program's
+distribution.
+[END]
+131: [Color:0xc]The Tokugawa Mandala's Influence[Color:0x0]
+The Tokugawa Mandala set up by the Divine
+Powers disabled use of the Demon Summoning
+Program. Fortunately, [Flynn] shattered
+the seal and restored the app's functionality.
+[END]
+140: [Color:0xc]Summary[Color:0x0]
+Shortly after God's Plan ended, a small
+group managed to breach the Ceiling through
+the Sky Tower. There they encountered the
+Angels of Death. Despite years of effort,
+the group was unable to break through the
+Angels of Death, forcing them to retreat
+back to Tokyo.
+[END]
+150: [Color:0xc]Summary[Color:0x0]
+As seen in the Eastern Kingdom of
+Mikado's legends and lore, the name
+for residents of the ”Underground
+Country” (read: Tokyo).
+The ”Unclean Ones” were thought to
+be little more than myth, the stuff
+of fairytales. However, once Flynn
+and his comrades journeyed to Tokyo,
+many are starting to acknowledge the
+city as the one referred to in legends.
+[Color:0xc]Usage[Color:0x0]
+There is increasing call to end the
+use of the term, as it is regarded
+by the people of Tokyo as a slur.
+[END]
+160: [Color:0xc]Summary[Color:0x0]
+Officially known as the ”Hachibu Rengou
+Ashura−kai,” the organization HQ is in
+Roppongi, but they maintain branches
+throughout every underground district.
+The Ashura−kai's main goal is to maintain
+order and protect citizens from demons.
+The safety of the underground districts
+partly stems from their efforts. However,
+some Ashura−kai perform their duties
+through extortion, demanding unreasonable
+compensation in exchange for protection,
+and even use violence. For a time, the
+districts could do little about this. But
+once Tayama vanished, the organization's
+power weakened and its enforcers dwindled.
+[END]
+161: [Color:0xc]Acting Leader (Addendum)[Color:0x0]
+At present, a man by the name of Abe has
+stepped up as interim leader while Tayama
+remains missing. Through him, the Ashura−kai
+are managing to barely hold together.
+[END]
+162: [Color:0xc]The New Boss (Addendum 2)[Color:0x0]
+During Armageddon, a young man by the name
+of Hallelujah declared himself the Ashura−kai's
+new leader. Since then, his support has only
+increased. Great things are expected of him.
+[END]
+170: [Color:0xc]Summary[Color:0x0]
+Former Ashura−kai leader who brought
+relative order to Tokyo by negotiating
+with the demons. Whereabouts unknown.
+[Color:0xc]Age/Sex[Color:0x0]
+48/Male
+[Color:0xc]History[Color:0x0]
+Prior to God's Plan, Tayama was little
+more than a common gangster. He rose
+to power in the chaos caused by the
+sudden appearance of demons. Tayama
+is responsible for establishing the
+underground districts. He is said to
+wield one of the National Defense
+Divinities.
+
+Tayama is currently missing. Rumors
+of his death persist, but to date
+no body has turned up.
+[END]
+180: [Color:0xc]Summary[Color:0x0]
+A religious group operating out of
+Tsukiji Konganji. Their principle
+doctrine is ”survival of the fittest,”
+be they demon or human. The Ring
+of Gaea used to be rivals of the
+Ashura−kai, but after their leader's
+death, the group at large has weakened.
+[Color:0xc]Survival of the Fittest[Color:0x0]
+The Ring of Gaea's dogma is modeled
+upon natural selection, but is often
+confused by its members to mean a 
+”dog eat dog” philosophy. The teachings
+of Yuriko were the root of this violence.
+She instructed her followers to unleash
+their suppressed emotions upon the world
+to shape it as they saw fit. While it
+stands to reason that this may have
+been Yuriko's intent all along, her 
+machinations remain a mystery.
+[END]
+181: [Color:0xc]Factional Schism (Addendum)[Color:0x0]
+When the Divine Powers appeared, they usurped
+Tsukiji Konganji from the Ring of Gaea. As a
+result, a factional rift within the Ring of
+Gaea formed, dividing its members between
+followers of Yuriko and those of the Divine
+Powers' Maitreya. Maitreya is believed to
+have played a crucial role in Tsukiji
+Konganji's takeover.
+[END]
+182: [Color:0xc]Maitreya Faction Mass Suicide (Addendum 2)[Color:0x0]
+During a raid on Tsukiji Konganji in an
+effort to rescue Flynn and defeat the
+Divine Powers, Hunters discovered that the
+Ring of Gaea members loyal to Maitreya
+committed mass suicide by feeding themselves
+to Shesha. Because of this, the Yuriko faction
+met no resistance when reclaiming the area.
+[END]
+190: [Color:0xc]Summary[Color:0x0]
+Former leader of the Ring of Gaea.
+True identity is the demon Lilith.
+Defeated by Flynn.
+[Color:0xc]Age/Sex[Color:0x0]
+Unknown/Female
+[Color:0xc]History[Color:0x0]
+There are no records of Yuriko prior to
+God's Plan. When the war ended, however,
+Yuriko created the Ring of Gaea in
+opposition of the Ashura−kai. Yuriko
+led the Ring with one specific philosophy:
+survival of the fittest. Concealing her
+face behind armor of a black demonica suit,
+Yuriko managed to infiltrate Mikado and
+create a stir there. She was killed by
+one of the Kingdom's Samurai−−a man named
+Flynn, who came to Tokyo hunting for her.
+[END]
+200: [Color:0xc]Summary[Color:0x0]
+Facilities within each underground
+district that serve as hubs for the
+Hunter Association. The organization
+itself was founded by Fujiwara and Skins.
+[Color:0xc]Role[Color:0x0]
+Each Association manages registered
+Hunters by providing support, rewards,
+and assignments, ensuring that the right
+jobs end up with the right Hunters.
+[Color:0xc]Founding[Color:0x0]
+It is widely believed that founders
+Fujiwara and Skins created the
+organization to prepare for another
+attempt at breaching the Ceiling.
+[END]
+210: [Color:0xc]Summary[Color:0x0]
+Officially appointed members of the
+Hunter Association who make their
+living by killing demons and taking
+on requests for help.
+[Color:0xc]A Hunter's Work[Color:0x0]
+Hunters are chiefly responsible for
+procuring provisions (food, relics),
+patrolling the underground districts,
+helping direct trade traffic, and
+transporting goods. Assignments are
+determined by a Hunter's experience.
+Upon completing requests, Hunters are
+immediately rewarded and their exploits
+logged in the Hunter Association database.
+[Color:0xc]Relationship Between Hunters and Demons[Color:0x0]
+Most Hunters use the Demon Summoning
+Program, completing their assignments
+through the use of demons. 
+
+There are some, however, resolved to
+only use their own strength. But for
+you, the Association recommends using
+the app and summoning demons.
+[Color:0xc]Official Appointment[Color:0x0]
+To become a Hunter, one must first
+serve as a cadet and undergo training
+with an experienced Hunter. After
+sufficient training, the instructor
+must then recommend their cadet to
+the Hunter Association.
+[END]
+220: [Color:0xc]Summary[Color:0x0]
+The colloquial term for the missions
+assigned to or accepted by Hunters.
+These are typically assigned through
+the Hunter Association itself, though
+sometimes Hunters receive work directly
+from a client.
+
+Missions managed by the Association are
+marked by a category tag to help specify
+the type of assignment.
+
+The Hunter Association files their
+assignments under one of nine categories:
+
+Assist [Ast]
+Guard [Grd]
+Rescue [Rsc]
+Intel [Int]
+Investigate [Inv]
+Escort [Esc]
+Target [Tgt]
+Special [Spc]
+Other [Otr]
+[END]
+230: [Color:0xc]Summary[Color:0x0]
+The designation given to demons that
+serve humans and are controlled by
+the Demon Summoning Program.
+[END]
+240: [Color:0xc]Summary[Color:0x0]
+One of the Hunter Association founders.
+[Color:0xc]Age/Sex[Color:0x0]
+50/Male
+[Color:0xc]History[Color:0x0]
+Prior to God's Plan, Fujiwara served
+as a journalist in the Counter−Demon
+Force. After Tokyo became sealed within
+the dome, Fujiwara cooperated with Skins
+to burrow through the Ceiling. On the
+other side, they encountered the Angels
+of Death and were forced back down into
+Tokyo. After that, Fujiwara and Skins
+founded the Hunter Association. Fujiwara
+continues to oversee operations, where
+he focuses on protecting the people
+of Tokyo.
+[END]
+250: [Color:0xc]Summary[Color:0x0]
+One of the Hunter Association founders.
+[Color:0xc]Age/Sex[Color:0x0]
+55/Male
+[Color:0xc]History[Color:0x0]
+Prior to God's Plan, Skins served
+in the Counter−Demon Force. When the
+Ceiling appeared over the city, Skins
+helped Fujiwara burrow through it using
+the Sky Tower. Once through, they
+encountered the Angels of Death, and
+were forced back down to Tokyo.
+
+After that, Fujiwara and Skins founded
+the Hunter Association. Skins continues
+to oversee operations, where he focuses
+on protecting the people of Tokyo.
+[Color:0xc]Masakado's Katana[Color:0x0]
+Until recently turning the blade over to
+Flynn, Skins had been in possession of
+Masakado's Katana since God's Plan ended.
+In all that time, Flynn was the first
+person who proved able to free the sword
+from its sheath. Most believe that part
+of the reason Skins carried the sword
+with him was in remembrance of his dead
+friend, the man who served with him in
+the Counter−Demon Force.
+[END]
+260: [Color:0xc]Summary[Color:0x0]
+A young Samurai from Mikado. He is burdened
+with many expectations, having been dubbed
+”Liberator” and ”messiah” by those in Tokyo.
+[Color:0xc]Age/Sex[Color:0x0]
+18/Male
+[Color:0xc]History[Color:0x0]
+Flynn is from above the Ceiling, a place
+near Mikado called Kiccigiorgi Village.
+When he turned 18, Flynn was selected as a
+Samurai as part of a traditional coming−
+of−age ritual. As a Samurai, Flynn pursued
+the Black Samurai (later identified as
+Yuriko) into Tokyo. He became entangled in
+the affairs of both the Ashura−kai and the
+Ring of Gaea, but favored no one side over
+the other and chose to find his own way.
+Between all this, and his high−ranking 
+Hunter status, Flynn has become known as
+the ”Liberator” of Tokyo.
+[END]
+261: [Color:0xc]Capture by the Divine Powers (Addendum)[Color:0x0]
+Flynn was captured by the Divine Powers.
+
+His whereabouts are unknown.
+[END]
+262: [Color:0xc]Flynn's Rescue (Addendum 2)[Color:0x0]
+[Flynn], a Hunter, defeated the
+Divine Powers and rescued Flynn.
+Though wounded, Flynn did not suffer
+any serious injuries.
+[END]
+263: [Color:0xc]Flynn's Imposter (Addendum 3)[Color:0x0]
+The man rescued from Tsukiji Konganji
+was an imposter. The real Flynn remains
+a captive of the Divine Powers. The
+imposter revealed itself to be Shesha,
+who was feeding off the emotions of
+Flynn's enthusiastic supporters.
+[END]
+264: [Color:0xc]The Real Flynn's Rescue (Addendum 4)[Color:0x0]
+[Flynn] took out the Divine Powers
+and rescued Flynn. Tokyo's Liberator
+is now working alongside the Hunters
+toward the betterment of all.
+[END]
+270: [Color:0xc]Summary[Color:0x0]
+Currency from the Expanse. Has the mark of
+Jupiter engraved on it. Written as 魔貨 in
+kanji, which translates to ”demon currency.”
+Now used by humans in place of the yen.
+[Color:0xc]Manufacture[Color:0x0]
+Lucifuge had Macca minted for use as the
+Expanse's official currency. Before God's
+Plan, only demons used Macca. But once
+Tokyo became encased in the rock dome, its
+citizens began to use Macca to barter with
+demons. Its use has since become common.
+[END]
+280: [Color:0xc]Age/Sex[Color:0x0]
+Unknown/Male
+[Color:0xc]Home District[Color:0x0]
+Kinshicho
+[Color:0xc]History[Color:0x0]
+After serving as a Hunter for ten years
+following the wake of God's Plan, the man
+affectionately referred to as ”Boss” quit
+after the death of his wife. He now runs
+the Kinshicho Hunter Association, where
+he provides support to active Hunters.
+[END]
+281: [Color:0xc]Death (Addendum)[Color:0x0]
+Died protecting his daughter, Asahi, during
+the demons' coordinated attacks against the
+underground districts. An apprentice has
+taken on his duties at the Association.
+[END]
+290: [Color:0xc]Hunter Name[Color:0x0]
+Akira
+[Color:0xc]Age/Sex[Color:0x0]
+40s (if alive)/Male
+[Color:0xc]Home region[Color:0x0]
+Shinjuku
+[Color:0xc]History[Color:0x0]
+Served in the Counter−Demon Force
+prior to God's Plan. After the dome
+formed over Tokyo, Akira−−along with
+Skins and Fujiwara−−tunneled through
+the Ceiling via the Sky Tower.
+
+On the other side, they encountered
+the Angels of Death. While Fujiwara
+and Skins retreated back to Tokyo,
+Akira remained in Mikado.
+
+His current whereabouts are unknown.
+[Color:0xc]Perception Among Hunters[Color:0x0]
+Akira's decision to remain above the
+Ceiling left many Hunters feeling
+betrayed.
+
+Akira has since been labeled a ”traitor”
+and talk of him among the Hunters is
+considered taboo.
+[END]
+291: [Color:0xc]Akira's True Intentions (Addendum)[Color:0x0]
+Akira's decision to stay above the Ceiling
+was not, in fact, an act of betrayal, but
+rather an attempt to deceive the angels in
+order to form the Eastern Kingdom of
+Mikado. As King Aquila, he unified the
+new nation and created a safe place for
+the other humans above the Ceiling. Mikado
+endured under the authority of the angels
+until Armageddon. It now maintains an
+amicable alliance with Tokyo, and people
+from both lands travel freely between the
+two. It seems that Akira's original
+intentions have come to fruition.
+[END]
+300: [Color:0xc]Summary[Color:0x0]
+A.K.A. the Demon King and the ”morning
+star.” His philosophy promotes Chaos.
+Lucifer operates out of Camp Ichigaya
+and controls the Yamato Perpetual Reactor.
+[END]
+301: [Color:0xc]Identity (Addendum)[Color:0x0]
+Walter, a Samurai from Mikado, sacrificed
+himself in order to restore Lucifer's power
+and create a ”world the strong can change.”
+Walter became a Samurai at the same time
+as Flynn and was known to be hot−headed.
+[END]
+302: [Color:0xc]Defeat (Addendum 2)[Color:0x0]
+Spurred by the appearance of the Divine
+Powers, Lucifer called for a ceasefire
+between his forces, Merkabah's, and the
+people of Tokyo. It ended once the Divine
+Powers were defeated and Armageddon began.
+Eventually, Flynn and [Flynn] defeated
+him at Camp Ichigaya.
+[END]
+310: [Color:0xc]Summary[Color:0x0]
+A.K.A. God's Chariot and ”holy throne of
+God.” His philosophy promotes Order.
+Merkabah resides above the Ceiling, within
+Mikado, waiting for a chance to invade Tokyo.
+[END]
+311: [Color:0xc]Identity (Addendum)[Color:0x0]
+Jonathan, a soft−spoken Samurai and peer
+of Flynn, sacrificed himself to join with
+the four archangels and become Merkabah.
+Their goal is to create a ”world where
+today's peace continues tomorrow.”
+[END]
+312: [Color:0xc]Defeat (Addendum 2)[Color:0x0]
+Prompted by the rise of the Divine Powers,
+Lucifer proposed a ceasefire to Merkabah.
+But once they were defeated, the treaty
+ended, and a final battle−−Armageddon−−
+began. Eventually, Flynn and [Flynn]
+put an end to Merkabah.
+[END]
+320: [Color:0xc]Summary[Color:0x0]
+The medium used to control Masakado. 
+Even for a tachi, Masakado's Katana is
+considered long at 5 feet in total length.
+Though many believe it to be Masakado's
+beloved weapon, it was actually crafted
+after his death as an object of worship.
+[Color:0xc]Stewardship[Color:0x0]
+Prior to God's Plan, a young man in the
+Counter−Demon Force possessed Masakado's
+Katana. Upon his death, however, Skins
+kept the blade safe until, eventually,
+passing it unto Flynn, the first person
+capable of unsheathing the sword since
+the one who merged with Masakado to
+form the Ceiling.
+[END]
+321: [Color:0xc]Current Status (Addendum)[Color:0x0]
+Following the Cosmic Egg's appearance,
+reports indicated that [Flynn]
+had taken possession of the sword.
+There's been no indication that he
+is also able to wield it, however.
+To date, only two people are known
+to have freed the sword from its
+sheath: Skins' companion from the
+Counter−Demon Force and Flynn.
+Unverified reports suggest there may
+be some connection between the two.
+
+Assuming [Flynn] can in fact draw
+the sword, it would suggest that
+this connection, this physical
+resemblance, is not what determines
+whether someone can unsheath the
+blade. Unfortunately, because so
+few people have been able to wield
+the sword, the requirements to do
+so remain unclear.
+
+[Color:0x5]*More Data Needed[Color:0x0]
+[END]
+330: [Color:0xc]Summary[Color:0x0]
+A demon with the body of a donkey and peacock.
+Serves under Lucifer to bring about chaos.
+[Color:0xc]Activity[Color:0x0]
+Adramelech's been spotted throughout
+Tokyo a considerable amount as of late,
+primarily acting as a scout for Lucifer's
+army. He has been seen scouting the
+Sky Tower, presumably on the look out
+for Merkabah.
+[END]
+331: [Color:0xc]Defeat (Addendum)[Color:0x0]
+Following the fall of the Divine Powers and
+the safe rescue of Flynn from Tsukiji
+Konganji, Adramelech made one last attempt
+at capturing Flynn, but was ultimately
+defeated by Hunter [Flynn].
+[END]
+340: [Color:0xc]Summary[Color:0x0]
+A Samurai from the Mikado, often seen
+alongside Flynn.
+[Color:0xc]Age/Sex[Color:0x0]
+18/Female
+[Color:0xc]Biography[Color:0x0]
+A member of the Luxuror class from
+Mikado. Born into a line of monks,
+Isabeau thought she, too, would
+walk that path, but wound up chosen
+to be a Samurai at age 18 during
+Mikado's Gauntlet Rite ritual. As
+a Samurai, Isabeau accompanied Flynn
+to Tokyo in search of the Black
+Samurai (Yuriko). Isabeau continues
+to fight alongside Tokyo's Liberator,
+Flynn.
+[Color:0xc]Interests[Color:0x0]
+Though Isabeau exudes a cool, calm,
+and collected attitude on the outside,
+on the inside she is a passionate
+manga enthusiast.
+
+Her favorite stories involve Joan
+of Arc, of French history fame. As
+of late, Isabeau's also been reading
+gay romance stories.
+
+[Color:0x5]*More Data Needed[Color:0x0]
+[END]
+350: [Color:0xc]Summary[Color:0x0]
+Soldiers of the Eastern Kingdom of Mikado who
+protect the land from demons. Only those
+chosen by the Gauntlet Rite become Samurai.
+[Color:0xc]Role[Color:0x0]
+The primary duties of Samurai are to defend
+Mikado and acquire relics. In many respects,
+Samurai are analogous to Hunters. Both wield
+demons in battle and have similar tasks. It's
+unclear if other factors differentiate them.
+[Color:0xc]The Gauntlet Rite[Color:0x0]
+There is a tradition within Mikado that,
+upon turning 18, everyone must participate
+in the Gauntlet Rite, a test that selects
+Samurai based on whether the smartphone−like
+Gauntlet device (one that bears striking
+resemblance to Counter−Demon Force demonica
+tech) they wear activates or not. Those
+chosen to be Samurai relocate to Mikado
+Castle.
+[END]
+351: [Color:0xc]Relationship to Akira (Addendum)[Color:0x0]
+King Aquila, founder of the Samurai order
+in Mikado, is the adopted name of the Hunter
+Akira. This explains the similarities
+between the Hunter Association and the
+Samurai, since the very first Samurai were
+made up of Hunters who stayed with Akira in
+Mikado. New research has determined that
+those able to activate the Gauntlet during
+the Rite are descendants of the original
+Samurai/former Hunters.
+[END]
+360: [Color:0xc]Summary[Color:0x0]
+A nation set atop the Firmament. Mikado
+is a castled city that is situated above
+the former Kanto region. It was founded
+by King Aquila roughly 1500 years ago.
+[Color:0xc]Social System[Color:0x0]
+Mikado had maintained a feudal caste
+system during the era of the first king
+to King Ahazuya. The two castes within
+Mikado were the upper−class Luxurors and
+the lower−class Casualries. However, the
+caste system was dissolved with the
+downfall of King Ahazuya.
+[Color:0xc]Military Strength[Color:0x0]
+Since Mikado lacks any enemy kingdoms,
+the Samurai order is solely dedicated
+to dealing with demons. Every citizen
+of Mikado, Luxuror and Casualry alike,
+is tested when they turn 18 to determine
+whether they're Samurai. Only a handful
+are chosen each year, so the Samurai
+order only numbers in the low hundreds.
+[Color:0xc]Time Dilation[Color:0x0]
+According to its history, Mikado has
+existed for 1500 years. The dome the
+nation is built upon, however, only
+appeared 25 years ago. The difference
+is caused by time flowing differently
+in Tokyo and Mikado.
+[END]
+361: [Color:0xc]Time Dilation Negated (Addendum)[Color:0x0]
+The time differential between Tokyo and
+Mikado is 1:75, meaning that every six
+months in Tokyo amounts to six and a half
+years in Mikado. When Shesha appeared and
+burst through the Ceiling, however, the
+differential disappeared. Much debate has
+been had over the cause of the time
+dilation, but nothing beyond theories
+have been produced. The phenomenon is
+still being researched.
+[END]
+370: [Color:0xc]Summary[Color:0x0]
+A bracer worn by Mikado's Samurai.
+It functions a lot like smartphones,
+complete with Demon Summoning Program
+and map navigation. And like the phones
+Hunters use, Gauntlets also have onboard
+AI support.
+[Color:0xc]About Support AI (Addendum)[Color:0x0]
+Gauntlets are installed with the ”Burroughs”
+operating system. She provides various
+support features essential to Samurai.
+[END]
+380: [Color:0xc]Summary[Color:0x0]
+A Japanese coming−of−age ceremony
+that dates back to to Japan's Nara
+Period (710−794 AD). Youths typically
+underwent the ritual between the ages
+of 10 and 20. The ceremony itself
+draws inspiration from a Tang Dynasty
+Chinese custom. The name has since
+faded out of fashion, but the ceremony
+itself is still celebrated in Japan
+as the Coming−of−Age Day festival,
+which became a national holiday in
+1948.
+[END]
+390: [Color:0xc]Summary[Color:0x0]
+Lightly battered and deep fried poultry.
+Chicken was among the most commonly consumed
+meats, but is incredibly difficult to come
+across now. Gryphon, Caladri, and Chupacabra
+meat (the cheapest option) are all used as
+substitutes.
+
+Fried chicken differs from cook to cook.
+Some prefer it crispy, and so use potato
+starch. Others prefer a fluffier texture,
+and use flour in the mix. For something in
+between−−which is best for packed lunches−−
+the starch and flour can be blended to
+prevent moisture from escaping.
+[Color:0xc]Side of Lemon[Color:0x0]
+Traditionally, fried chicken is served
+alongside lemon juice, which gives the
+chicken a lighter, more refreshing taste.
+The added lemon is also thought to help
+with digestion and with blood sugar.
+Fried chicken lovers can be quite picky
+about whether they use lemon juice.
+More than a few friendships have ended
+when someone poured lemon juice over
+fried chicken without asking first.
+[END]
+400: [Color:0xc]Summary[Color:0x0]
+An ex−Samurai from Mikado. Brought
+to Tokyo by his fellow Samurai, Flynn.
+Later discovered dead, having drowned.
+[Color:0xc]Age/Sex[Color:0x0]
+25 (at death)/Male
+[Color:0xc]History[Color:0x0]
+A member of Mikado's Luxuror class,
+Navarre was chosen to be a Samurai when
+he was 18 during the Gauntlet Rite.
+He was eventually removed from the
+Samurai order due to an undisclosed
+”incident.”
+
+Navarre actively opposed the abolition
+of Mikado's caste system, and in doing
+so put his life in danger of retribution
+from the angels. But with Flynn's help,
+Navarre managed to flee Mikado and take
+refuge in Tokyo.
+
+Not long after his exile, however,
+Navarre was discovered dead in the Kanda
+River. In the absence of any foul play,
+it is believed Navarre took his own life.
+[Color:0xc]Age Discrepancy[Color:0x0]
+Though Flynn and Navarre became Samurai
+at the same age, Navarre is now seven
+years older than Flynn. This was caused
+by Flynn's activity in Tokyo, while
+Navarre remained in Mikado.
+[END]
+410: [Color:0xc]Summary[Color:0x0]
+A lush forest where the fairies live in
+peace. Rumored to be located near Shinjuku.
+[END]
+420: [Color:0xc]Summary[Color:0x0]
+Tech that makes near−instant transport
+of physical objects from one point to
+another possible. Housed in Terminal Rooms.
+[Color:0xc]Details[Color:0x0]
+Teleportation is achieved by sending
+objects between Terminals. The only
+limitation is that the item being
+transported fit within the Terminal
+Room itself. As for how they work,
+well, that remains a mystery.
+[Color:0xc]Installation[Color:0x0]
+The Terminals were constructed as a
+means of transporting people and
+equipment up the Sky Tower while
+tunneling up through the Ceiling.
+
+However, after encountering the Angels
+of Death, all Terminals were powered
+down. They've since been reactivated
+by Flynn. All Terminals are currently
+active and available for use, pending
+user registration.
+[END]
+421: [Color:0xc]Re: Demon Summoning Program (Addendum)[Color:0x0]
+Using a seal called the Tokugawa Mandala,
+the Divine Powers have disabled both the
+Demon Summoning Program and the Terminals.
+This has led to speculation that the same
+science is used by both.
+[END]
+430: [Color:0xc]Summary[Color:0x0]
+An app designed to streamline the reportage
+of missing persons. The app is included by
+default on phones distributed to many
+Hunters.
+
+Whereas in the past, people would need to
+report a death to a government agency and
+go through a bureaucratic process,
+post−government Tokyo instead relies on
+a database maintained by the Hunter
+Association.
+
+The MIA App streamlines this documenting
+and even facilitates contact with known
+family.
+[Color:0xc]Use in the Field[Color:0x0]
+The MIA App is a normal part of everyday
+Hunter life. Whenever a Hunter comes
+across the body of a fallen Hunter, they
+can use the MIA App to photographically
+identify the deceased and register the
+information.
+
+The MIA App also handles the transfer of
+app points (AP) from the deceased to the
+Hunter who found them, as a form of
+reward.
+[END]
+440: [Color:0xc]Hunter Name[Color:0x0]
+Nozomi
+[Color:0xc]Age/Sex[Color:0x0]
+21/Female
+[Color:0xc]Home District[Color:0x0]
+Ueno
+[Color:0xc]History[Color:0x0]
+A Hunter who specializes in photography
+and missions that call for it. She is
+well−regarded by other Hunters.
+
+Currently, she is on hiatus, said to be
+concentrating on her photography.
+[END]
+441: [Color:0xc]Recent Activity (Addendum)[Color:0x0]
+Though on hiatus from her Hunter duties,
+Nozomi's been seen accompanying
+[Flynn].
+[END]
+450: [Color:0xc]Information[Color:0x0]
+Mother goddess of the fairy folk A.K.A.
+the Tuatha De Danaann. She is rumored
+to be inhabiting the body of former
+Hunter Nozomi.
+[END]
+460: [Color:0xc]Summary[Color:0x0]
+A demon of the Divine Powers. His name
+means the ”Furious One.” In combat,
+he is known for using lightning bolts
+and for his skill with a spear.
+[END]
+461: [Color:0xc]Defeat (Addendum)[Color:0x0]
+Odin was defeated by Flynn at Tsukiji
+Konganji. He only managed to wound
+Flynn during the battle.
+[END]
+462: [Color:0xc]Defeat (Addendum 2)[Color:0x0]
+After the apparent defeat of the
+Divine Powers, Odin returned to serve
+as the guard to the Cosmic Egg.
+He was defeated by [Flynn].
+His spear, Gungnir, is now in the
+possession of Gaston, a Samurai from
+the Eastern Kingdom of Mikado.
+[END]
+470: [Color:0xc]Summary[Color:0x0]
+A new faction of deities devoted to the
+salvation of humanity from the Creator
+God. They stand in opposition to both
+Lucifer and Merkabah.
+[Color:0xc]Goals of the Divine Powers[Color:0x0]
+Their ultimate goal is to defeat the
+creator god.
+
+They kidnapped Flynn, who is necessary
+for their plans, and demanded that humans
+sacrifice themselves at Tsukiji Konganji.
+
+While it is unclear what their vision of
+the future is, they have gathered a large
+following in Tokyo as an alternative to
+both Lucifer and Merkabah.
+[END]
+471: [Color:0xc]Destruction of the Divine Powers (Addendum)[Color:0x0]
+After [Flynn] defeated Shesha, their
+headquarters, Tsukiji Konganji, quickly fell.
+The Divine Powers have been defeated by a
+united force of angels, demons, and Hunters.
+[END]
+472: [Color:0xc]Return of the Divine Powers (Addendum 2)[Color:0x0]
+After the apparent defeat of the Divine
+Powers, the group reappeared with a plan
+to hatch the Cosmic Egg and take the souls
+of humanity to a new universe away from
+the authority of YHVH. Currently, over
+half of the citizens of Tokyo have had
+their souls taken away by Shesha, leaving
+them in a vegetative state. It is believed
+that their souls reside inside of the
+Cosmic Egg.
+[END]
+473: [Color:0xc]Disappearance of the Divine Powers (Addendum 3)[Color:0x0]
+[Flynn], a Hunter, prevented the
+hatching of the Cosmic Egg, rescued
+Flynn, and defeated the Divine Powers.
+However, the remains of the Cosmic Egg
+still stand as a sort of tourist spot.
+[END]
+480: [Color:0xc]Summary[Color:0x0]
+The de facto leader of the Divine
+Powers. His name means ”attractive
+one.”
+[END]
+481: [Color:0xc]Defeat (Addendum)[Color:0x0]
+Defeated by [Flynn], a Hunter,
+at Tsukiji Konganji, thereby dissolving
+the Divine Powers.
+[END]
+482: [Color:0xc]Defeat (Addendum 2)[Color:0x0]
+After the apparent defeat of the Divine
+Powers, Krishna faced off with [Flynn],
+fusing with Flynn to form Vishnu−Flynn.
+After his defeat, Flynn sealed Krishna
+back into Kanda Shrine.
+[END]
+490: [Color:0xc]Summary[Color:0x0]
+A demon of the Divine Powers. His name
+means ”one born in kindness.”
+
+He caused a schism in the Ring of Gaea,
+dividing its members into those who
+follow him and those still loyal to
+Yuriko. Strife continued between the two
+factions until the ones following Maitreya
+prevailed and took over Tsukiji Konganji.
+[END]
+491: [Color:0xc]Defeat (Addendum)[Color:0x0]
+Defeated by [Flynn], a Hunter, upon
+the unsealing of the Tokugawa Mandala.
+[END]
+492: [Color:0xc]Defeat (Addendum 2)[Color:0x0]
+Thought to be defeated, Maitreya was
+resurrected inside of the Cosmic Egg
+by the power of Inanna as Mitra−Buddha.
+[END]
+500: [Color:0xc]Summary[Color:0x0]
+A giant serpent summoned by Krishna.
+Krishna claims it will lead humanity
+to salvation.
+[Color:0xc]Abilities[Color:0x0]
+Shesha is capable of creating and
+traveling through rifts in space,
+allowing it to move freely throughout
+the universe.
+
+Shesha is also known to possess resistance
+to all manner of attacks and incredible
+regenerative powers.
+
+Shesha first appeared when Krishna ordered
+the creature to use its powers to bore
+through the Ceiling, illustrating its
+overwhelming power to angels, demons,
+and humanity alike.
+[END]
+501: [Color:0xc]Defeat (Addendum)[Color:0x0]
+Defeated by [Flynn], a Hunter,
+in Shibuya. However, it is claimed
+Shesha will resurrect in the near
+future.
+[END]
+502: [Color:0xc]Defeat (Addendum 2)[Color:0x0]
+Defeated by [Flynn], a Hunter,
+in Ikebukuro.
+
+The resurrected Shesha had a completely
+new appearance, as well as the ability
+to speak. After its defeat, the Divine
+Powers were considered neutralized,
+making it unlikely that Shesha will
+return.
+[END]
+503: [Color:0xc]Hatching of the Cosmic Egg (Addendum 3)[Color:0x0]
+It was determined that Shesha impersonated
+Flynn to gain the trust of the people of
+Tokyo. Shesha took advantage of the faith
+and hope that people had in Flynn and
+consumed their souls to transform into
+the Cosmic Egg.
+[END]
+510: [Color:0xc]Summary[Color:0x0]
+A former Samurai of the Eastern Kingdom
+of Mikado. He was once Flynn's ally,
+but chose to fuse with Merkabah.
+[Color:0xc]Age/Sex[Color:0x0]
+Unknown (appears to be 18)/Male
+[Color:0xc]History[Color:0x0]
+A Luxuror of the Eastern Kingdom of Mikado.
+His parents were monks. At 18, he was
+chosen to join the Samurai. He entered
+Tokyo on a mission to find the ”Black
+Samurai”. He fused with Merkabah in order
+to make ”a world where today's peace
+continues tomorrow” a reality.
+[END]
+520: [Color:0xc]Summary[Color:0x0]
+A former Samurai of the Eastern Kingdom
+of Mikado. He was once Flynn's ally,
+but chose to fuse with Lucifer.
+[Color:0xc]Age/Sex[Color:0x0]
+Unknown (appears to be 18)/Male
+[Color:0xc]History[Color:0x0]
+A Casualry of the Eastern Kingdom
+of Mikado. He was born in a remote
+village, his father was a fisherman,
+and he became a Samurai at age 18.
+Walter entered Tokyo on a mission
+to find the ”Black Samurai”.
+He fused with Lucifer in order to
+make ”a world the strong can rule”
+a reality.
+[END]
+530: [Color:0xc]Summary[Color:0x0]
+Someone who has the ability to kill a god.
+[Color:0xc]Significance of a Godslayer[Color:0x0]
+According to information supplied by
+Lucifer, demons are only capable of
+sealing one another. Thus, a human
+Godslayer is necessary to fully destroy
+a demon. However, it is still unknown
+how a human becomes a Godslayer.
+
+[Color:0x5]*More Data Needed[Color:0x0]
+[END]
+540: [Color:0xc]Summary[Color:0x0]
+Tamagami, the former defense minister,
+created the Counter−Demon Force to fight
+the growing tide of demons. Their main
+headquarters was in Kasumigaseki. The
+group was active all throughout Japan
+but concentrated in the Kanto region.
+The group was disbanded following
+the collapse of the government.
+[Color:0xc]Role[Color:0x0]
+The Counter−Demon Force was tasked
+with minimizing damage caused
+during demon−related incidents
+and provide defensive assistance
+to the populace. Members of this
+unit were chosen for their mastery
+of summoning demons, regardless of
+age or gender. Tamagami envisioned
+the Counter−Demon Force as the world's
+most elite demon fighting squad.
+[Color:0xc]Equipment[Color:0x0]
+The Counter−Demon Force wore battle
+suits called ”Demonicas.” Each
+Demonica was equipped with an advanced
+AI.
+[END]
+550: [Color:0xc]Summary[Color:0x0]
+An alliance of demons, angels, and
+humans created to fight the Divine
+Powers.
+
+Merkabah represented the angels.
+Lucifer represented the demons.
+Fujiwara and Skins represented humanity.
+A Samurai of the Eastern Kingdom of
+Mikado, Isabeau, served as a mediator.
+[Color:0xc]First War Council[Color:0x0]
+The first council introduced a truce
+between the angels and demons.
+Merkabah pledged to send an elite team
+of Samurai to Tokyo to aid in the fight
+against the Divine Powers. Lucifer 
+declared that the people of Tokyo would
+do his bidding in the upcoming war.
+Humanity was unable to have much of an
+influence during the negotiations.
+[END]
+551: [Color:0xc]Second War Council (Addendum)[Color:0x0]
+The second council served to reassess the
+situation after the defeat of Shesha.
+[END]
+552: [Color:0xc]Third War Council (Addendum 2)[Color:0x0]
+The Third War Council dissolved the truce
+between the angels and demons and led
+directly to the events of Armageddon.
+[END]
+560: [Color:0xc]Summary[Color:0x0]
+A Hunter Association R&D engineer.
+[Color:0xc]Age/Sex[Color:0x0]
+60/Male
+[Color:0xc]History[Color:0x0]
+While the details are unclear, Matsuda was
+allegedly a video game programmer before
+eventually being scouted by Fujiwara to
+join the Hunter Association's research
+and development team.
+[END]
+570: [Color:0xc]Summary[Color:0x0]
+The reactor that supplies electricity to
+Tokyo. Ever since it started functioning,
+it has provided energy to the city without
+fail, but no one is sure exactly how it
+works.
+[Color:0xc]Cause of ”God's Plan”[Color:0x0]
+The initial influx of demons during the
+events known as ”God's Plan” were thought
+to be caused by the reactor creating a
+gate connecting this world to the Expanse.
+[Color:0xc]Original Intent[Color:0x0]
+The Yamato Perpetual Reactor was originally
+created as a particle accelerator. It is
+theorized that it could be capable of
+producing a black hole which would
+completely swallow Tokyo.
+
+[Color:0x5]*More Data Needed[Color:0x0]
+[END]
+580: [Color:0xc]Summary[Color:0x0]
+A member of the Ashura−kai, and its interim
+leader following Tayama's disappearance.
+[Color:0xc]Age/Sex[Color:0x0]
+32/Male
+[Color:0xc]History[Color:0x0]
+Nothing is known about Abe before he
+appeared as the interim leader of the
+Ashura−kai. He negotiates with the demons
+to assure the safety of the underground
+districts without resorting to the use
+of Reds.
+[END]
+581: [Color:0xc]Identity and Death (Addendum)[Color:0x0]
+Abe was revealed to be Samyaza, a demon
+serving Lucifer. He was defeated by
+[Flynn] during Armageddon.
+[END]
+590: [Color:0xc]Summary[Color:0x0]
+A member of the Ashura−kai. He is like
+a brother to Abe.
+[Color:0xc]Age/Sex[Color:0x0]
+15/Male
+[Color:0xc]History[Color:0x0]
+Hallelujah was adopted into the Ashura−kai
+by Tayama when he was an orphan and has
+been a member ever since. Nowadays, he
+patrols the streets of Tokyo with the
+interim leader, Abe.
+[END]
+591: [Color:0xc]Leader of the Ashura−kai (Addendum)[Color:0x0]
+After the death of Abe during the
+Armageddon, Hallelujah declared himself
+the leader of the Ashura−kai.
+
+Under normal circumstances, many steps
+are usually taken to acquire this
+position. Notably, there are some
+agreements made by higher−ups in the
+organization about the successor, but
+since the previous leaders, Tayama and
+Abe, have gone missing or are dead, this
+appointment has not been contested.
+Having killed the duplicitous, previous
+leader, Hallelujah has the most legitimate
+claim to this responsibility.
+[END]
+592: [Color:0xc]Leader of the Ashura−kai (Addendum 2)[Color:0x0]
+Hallelujah has ordered the Ashura−kai
+to participate in the rebuilding of
+Tokyo and demanded an end to all
+extortion performed by the group.
+[END]
+600: [Color:0xc]Summary[Color:0x0]
+A demon of the Divine Powers.
+
+Medusa controlled the Sky Tower, 
+petrifying and collecting those who
+tried to get past the Ceiling, until
+she was defeated by Flynn as he entered
+Tokyo. She was resurrected by the Divine
+Powers only to be defeated by [Flynn],
+who was there to complete a quest.
+[Color:0xc]Sky Tower[Color:0x0]
+The Sky Tower's current appearance is due
+to Medusa creating a multitude of domains
+in the Tower in an effort to strengthen
+it.
+[END]
+610: [Color:0xc]Summary[Color:0x0]
+A Samurai from the Eastern Kingdom of
+Mikado. Chosen by Merkabah to lead the
+Crusaders into Tokyo.
+[Color:0xc]Age/Sex[Color:0x0]
+18/Male
+[Color:0xc]History[Color:0x0]
+A Luxuror from the Eastern Kingdom of
+Mikado who was recently selected to be
+a Samurai during the Gauntlet Rite.
+
+While he is a new Samurai, Gaston has
+innate talent and impressed Merkabah.
+
+Thus, he was chosen personally by Merkabah
+to be the leader of the Crusaders and
+was bestowed with the Spear of Michael,
+a weapon that was created to destroy
+Shesha. Gaston carries the expectations
+of many people on his shoulders.
+[END]
+611: [Color:0xc]Parting Ways with Merkabah (Addendum)[Color:0x0]
+Upon facing Merkabah during Armageddon,
+he was asked to cooperate, but he refused
+and broke the Spear of Michael that
+Merkabah had given him.
+[END]
+620: [Color:0xc]Summary[Color:0x0]
+The spear that Merkabah gave to Gaston,
+the Crusaders leader. Apparently, the
+shape of the spear changes according to
+the will of the wielder.
+[END]
+621: [Color:0xc]Properties (Addendum)[Color:0x0]
+Eyewitnesses claimed to have seen the
+spear vastly increase in size upon
+puncturing Shesha's hide, but no
+concrete explanations for this
+phenomenon have been given. Some
+surmise the spear adapts to the will
+of the one bearing it, while others
+think the spear reconstructs matter.
+[END]
+622: [Color:0xc]The Broken Spear (Addendum 2)[Color:0x0]
+Gaston shattered the spear to dissolve
+his alliance with Merkabah. Considering
+the durability of the weapon, it is hard
+to imagine how a human managed to break
+such a powerful artifact. It has been
+suggested that the spear became fragile
+in the same way that Gaston's allegiance
+to Merkabah had become.
+
+[Color:0x5]*More Data Needed[Color:0x0]
+[END]
+630: [Color:0xc]Summary[Color:0x0]
+A device that can pinpoint Shesha, the
+giant serpent unleashed by the Divine
+Powers. Shesha has the ability to freely
+traverse space, which made tracking it
+very difficult for angels and demons.
+However, it was discovered that Shesha
+emitted waves when creating rifts in
+space to travel between locations.
+This discovery led to the creation of
+these radars, which are being distributed
+to Hunters everywhere.
+[Color:0xc]Receivers and Transmitter[Color:0x0]
+The devices given to Hunters are actually
+receivers for the main radar, which is
+located underground in Kasumigaseki.
+
+The primary radar is an enormous piece
+of equipment constructed in the Hibiya
+utility corridor. While most radars receive
+and measure sound waves to determine the
+distance and direction of a target, this
+construct looks at gravitational waves.
+To properly detect these waves, the radar
+must be located in a stable environment,
+so the creator constructed it 131 feet
+below the surface, while building it to
+last and be simple to control.
+[END]
+631: [Color:0xc]Destruction[Color:0x0]
+The Shesha radar housed in the Hibiya
+utility corridor was destroyed by an
+unknown party. However, the device is no
+longer necessary since Shesha and the
+Divine Powers are no longer a threat to
+Tokyo. Thus, repairs have not been made.
+[END]
+640: [Color:0xc]Information[Color:0x0]
+A group of Samurai elites that Merkabah
+organized with the goal of defeating the
+Divine Powers and getting Flynn back.
+The leader is a Samurai named Gaston.
+He is a young, skilled Samurai that was
+hand−picked by Merkabah to lead the group.
+[Color:0xc]Group Composition[Color:0x0]
+Five of the unit's Samurai are designated
+fighters, while 12 other Samurai are
+tasked with gathering intelligence.
+Gaston is grouped with the fighters,
+but likes to do things on his own.
+[END]
+641: [Color:0xc]Disbanding[Color:0x0]
+Once the Crusaders acheived their goal
+of defeating the Divine Powers, the group
+disbanded. All of these Samurai were
+ordered to return to Mikado, but some
+of them wanted to stay and ignored this
+order.
+[END]
+650: [Color:0x5]Entry not found[Color:0x0]
+[END]
+660: [Color:0x5]Entry not found[Color:0x0]
+[END]
+670: [Color:0xc]Summary[Color:0x0]
+Known as the ”Lord of Great Knowledge,”
+this demon made a contract with [Flynn]
+and forced him to unseal Krishna.
+[Color:0xc]Role[Color:0x0]
+Despite his involvement in the unsealing
+of Krishna, it is unknown what Dagda's
+relation to the Divine Powers is.
+[END]
+680: [Color:0x5]Entry not found[Color:0x0]
+[END]
+690: [Color:0xc]Summary[Color:0x0]
+One of the National Defense Divinities used
+to defend Tokyo. He was under Tayama's
+control before he went missing. Tenkai was
+tasked with guarding Midtown, but became
+a mountain of stone after losing to Flynn.
+[Color:0xc]History[Color:0x0]
+He was on the staff of Tokugawa Ieyasu,
+the first shogun of the Edo shogunate.
+He helped with policy and city planning
+and built the Tokugawa Mandala according
+to onmyo−do and feng shui to help with
+the defense of the country.
+[END]
+700: [Color:0xc]Summary[Color:0x0]
+Powerful demons that were summoned during
+God's Plan to resist invasion by foreign
+countries and demons. They all have a
+strong will to protect Japan. They swear
+loyalty to anyone who possesses their
+corresponding medium. Also, these deities
+can be resurrected as many times as
+necessary as long as their medium is
+intact, even if they get defeated or
+turned to stone. It is confirmed that
+Tayama was in possession of several of
+these mediums before Flynn came to Tokyo.
+[Color:0xc]Confirmed Members[Color:0x0]
+These eight demons have been confirmed to
+be National Defense Divinities:
+
+1: Koga Saburo
+2: Tenkai
+3: Michizane
+4: Omoikane
+5: Yamato Takeru
+6: Yaso Magatsuhi
+7: Take−Mikazuchi
+8: Masakado
+[END]
+701: [Color:0xc]Newly Confirmed Divinity[Color:0x0]
+A new National Defense Divinity has been
+discovered!
+
+9: Izanami
+
+Izanami is a deity of the afterlife
+held in a living medium. Upon her
+medium's death, she was summoned.
+Almost as soon as she was summoned,
+she was defeated by a Hunter called
+[Flynn].
+[END]
+710: [Color:0xc]Summary[Color:0x0]
+Biological magnetism created by human
+brainwaves. It is a form of energy that is
+necessary for demons to take physical shape.
+[Color:0xc]Demons[Color:0x0]
+Spiritual beings like demons can
+consume magnetite to maintain their
+physical presence. If they wish to
+remain corporeal, they must continue
+consuming magnetite.
+
+Demons that are summoned through the
+Demon Summoning Program can consume
+magnetite through their summoner, but
+demons without a summoner must acquire
+it in some other way. This factor is
+why wild demons attack and eat human
+beings.
+[Color:0xc]Reds[Color:0x0]
+Reds produced by the Ashura−kai have
+a high concentration of biological
+magnetite. The ingredients and process
+to create Reds has been lost with
+their manufacturing facility.
+[END]
+720: [Color:0xc]Summary[Color:0x0]
+A magic barrier that the Divine Powers
+set up. It is based on a spiritual seal
+that Tenkai put up in Edo 400 years ago.
+The Divine Powers were able to stop the
+Demon Summoning Program from working by
+utilizing the seal.
+[Color:0xc]Effects[Color:0x0]
+The Tokugawa Mandala is activated by jars
+placed in the five Fudo temples absorbing
+Aether infinitely. This Aether is the
+same thing as biological magnetite. By
+having the jars absorb the Aether coming
+from the Expanse, it prevents demons
+from appearing in our world. The types
+of Aether and the temples that regulate
+them are as follows:
+
+Blue (Kyoseiin): Sloth
+White (Hakujoin): Gluttony
+Red (Nansekiji): Lust
+Black (Ryukokuji): Wrath
+Yellow (Okuji): Pride
+[END]
+730: [Color:0xc]Summary[Color:0x0]
+A member of the Ring of Gaea.
+She seems to be sent on missions to
+destroy things or assassinate people.
+[Color:0xc]Age/Sex[Color:0x0]
+14/Female
+[Color:0xc]History[Color:0x0]
+Toki's parents were both devoted to
+the Ring of Gaea, and Toki was given
+to the Ring when she was small.
+Mii and Kei, long−time black operatives
+for the Ring of Gaea, trained her to
+be an assassin.
+[END]
+731: [Color:0xc]Leaving the Ring of Gaea (Addendum)[Color:0x0]
+Upon destruction of the Divine Powers,
+Tsukiji Konganji was returned to the
+Ring of Gaea. Toki declared then that
+she would leave the Ring of Gaea. She
+currently works with [Flynn].
+[END]
+740: [Color:0xc]Summary[Color:0x0]
+The ”Lady of Heaven,” she was able to gain
+physical form by consuming the Aether from
+the jars the Divine Powers used to set up
+the Tokugawa Mandala. Defeated by [Flynn].
+[END]
+741: [Color:0xc]Resurrection (Addendum)[Color:0x0]
+She was supposed to have been defeated by
+[Flynn] when the Tokugawa Mandala was
+destroyed, but it seems she possessed
+Toki, who was there at the time. 
+Because of Toki's role in the unsealing
+of the Tokugawa Mandala, it is thought
+that a lot of Aether had accumulated
+in her body. Inanna consumed this Aether
+to gain strength. Because of Inanna's
+resurrection, the Divine Powers were
+able to spawn demons endlessly, but
+she was defeated by [Flynn] and Toki
+was safely freed.
+[END]
+750: [Color:0xc]Summary[Color:0x0]
+A ship that was found deserted in the
+Atlantic Ocean in 1872. There were
+supposed to be ten people on the ship,
+but none were located. To this day,
+no one is certain where those people
+went. The strange part is that when
+the ship was discovered, the interior
+looked as if people had just been there.
+For example, a cup of tea was found on
+a dining table, reportedly still warm.
+
+While many people have suspicions
+about how these people disappeared,
+no substantial evidence has surfaced,
+making this one of the greatest nautical
+mysteries in history.
+[Color:0xc]Fantastical Dramatization[Color:0x0]
+The bit about the tea still being warm
+was probably made−up. The current story
+is filled with so many creative additions
+that it's practically entered the status
+of being an urban legend at this point.
+[END]
+760: [Color:0xc]Summary[Color:0x0]
+The first king of the Eastern Kingdom of
+Mikado. He was known to be a skilled fighter
+and possessed a wealth of information far
+surpassing the standards of the time.
+[Color:0xc]Age/Sex[Color:0x0]
+Unknown/Male
+[Color:0xc]History[Color:0x0]
+The first mention of Aquila in historical
+texts appeared when the people of Tokyo
+attempted to breach the Ceiling. The
+Unclean Ones were at war with the Angels
+of Death, but Aquila appeared suddenly
+and put an end to the fighting. After
+this, he founded the Eastern Kingdom of
+Mikado and established a centralized
+government. Aquila also created the
+Samurai to prevent anyone from Tokyo
+entering his kingdom. The pre−existing
+Monastery was so pleased by his efforts
+that they granted him even greater powers.
+But a few years later, King Aquila
+disappeared. No one is certain why, but
+some suspect an assassination occurred.
+[END]
+761: [Color:0xc]About Aquila (Addendum)[Color:0x0]
+New information reveals that Aquila was,
+in fact, a member of the Counter−Demon
+Force named Akira. He based the Samurai
+on the CDF and conspired against the angels
+in Mikado. He planned to seal the four
+archangels. This is believed to have led
+to his death.
+[END]
+770: [Color:0xc]Summary[Color:0x0]
+The head monk of the Monastery in the
+Eastern Kingdom of Mikado. He informs
+the populace of Merkabah's will.
+[Color:0xc]Age/Sex[Color:0x0]
+Late 40s/Male
+[Color:0xc]History[Color:0x0]
+A Luxuror from the Eastern Kingdom of
+Mikado. He was chosen to be a Samurai
+at age 18 during the Gauntlet Rite.
+He was always better with words than
+with physical combat, and became close
+to King Ahazuya of Mikado by taking
+advantage of his own eloquence.
+He was promoted at an astounding
+rate, and became the head monk at
+a remarkably young age. Hugo was second
+in power only to the king, but lost
+much of his influence when the angels
+took over Mikado. He now acts as their
+servant.
+[Color:0xc]Tastes[Color:0x0]
+Hugo is famous for being a connoisseur
+of fine wines. Wine is not made in the
+Eastern Kingdom of Mikado, so one must
+procure it from Tokyo.
+
+He sometimes sends personal requests
+for wine to Samurai going to Tokyo.
+[Color:0xc]Spouse[Color:0x0]
+Hugo is also famously afraid of his
+wife. She is an assertive woman who,
+in Hugo's eyes, asks the impossible of
+him. It's not unusual for her errands 
+to turn into missions for the Samurai.
+[END]
+780: [Color:0xc]Summary[Color:0x0]
+The current commander of the Samurai of
+the Eastern Kingdom of Mikado.
+[Color:0xc]Age/Sex[Color:0x0]
+Early 50s/Male
+[Color:0xc]Information[Color:0x0]
+A Casualry from the Eastern Kingdom of
+Mikado. He is a skilled warrior and one
+of the strongest men to ever lead the
+Samurai, rivaling even K. While still
+active in the field, Hope is starting
+to focus on mentoring and training the
+younger generation of Samurai.
+[END]
+790: [Color:0xc]Summary[Color:0x0]
+The final war to bring about the end of
+the world. When the Divine Powers were
+destroyed, the ceasefire between the
+angels and demons ended, and the final
+war began.
+[END]
+791: [Color:0xc]The End of the War[Color:0x0]
+The war ended when Merkabah and Lucifer
+were both defeated at Camp Ichigaya.
+The Liberator Flynn and [Flynn] defeated
+them both with help from a key group of
+allies. This victory marks an era where
+Tokyo has finally acheived true freedom.
+[END]
+800: [Color:0x5]Entry not found[Color:0x0]
+[END]
+810: [Color:0xc]Summary[Color:0x0]
+Shesha transformed into this egg.
+Supposedly, when this egg hatches,
+a new universe will be created.
+[END]
+811: [Color:0xc]Tourist Attraction (Addendum)[Color:0x0]
+The Cosmic Egg completely stopped
+functioning because of [Flynn],
+a Hunter. However, the remains are
+still there. It's currently free for
+viewing as long as a Hunter is on
+guard.
+[END]
+820: [Color:0xc]Summary[Color:0x0]
+Maitreya resurrected by Inanna. His name
+means ”one who makes covenants.”
+He was defeated by [Flynn], a Hunter,
+in the Cosmic Egg.
+[END]
+830: [Color:0xc]Summary[Color:0x0]
+A deity of the Divine Powers and de facto
+leader, Krishna, and Flynn as ”Godslayer”
+morphed into one. He fought [Flynn] and
+was defeated. Flynn was freed from the
+union and sealed Krishna deep within
+Kanda Shrine.
+[END]
+840: [Color:0xc]Summary[Color:0x0]
+The leader of the Maruology cult.
+[Color:0xc]Age/Sex[Color:0x0]
+Unknown/Male
+[Color:0xc]History[Color:0x0]
+After founding Maruology, he has been
+actively recruiting members around Shinjuku.
+[Color:0xc]About Maruology[Color:0x0]
+Maruology's philosophy revolves around
+living moment to moment just as you are.
+There are many among its ranks who are
+ex−Ashura−kai or Ring of Gaea members.
+He attracts many followers who are all
+about self−acceptance in the form of
+stealing food and being obnoxiously loud.
+Not too surprisingly, this group has
+its fair share of critics. His followers
+now number in the hundreds, so Maruo's
+influence can no longer be ignored.
+[END]
+841: [Color:0xc]The End of Maruology (Addendum)[Color:0x0]
+Because of [Flynn], Maruology has
+been disbanded and its leader Maruo has
+disappeared. There are sightings of him
+on a farm near Shinjuku National Park,
+but the details aren't clear.
+[END]
+850: [Color:0xc]Hunter name[Color:0x0]
+Hiroshi
+[Color:0xc]Age/Sex[Color:0x0]
+62/Male
+[Color:0xc]Home District[Color:0x0]
+Shinjuku
+[Color:0xc]History[Color:0x0]
+He has been a Hunter since the Hunter
+Association was founded, and is the
+oldest active member. Refers to himself
+as ”Hiroshi the Wanderer.” He is known
+for taking on quests in remote locations.
+Many people seek him out for jobs that
+require his particular set of skills.
+[END]
+860: [Color:0xc]Summary[Color:0x0]
+A member of the Ashura−kai who oversees
+younger members. Active around Ikebukuro.
+[Color:0xc]Age/Sex[Color:0x0]
+38/Male
+[Color:0xc]History[Color:0x0]
+He is known for his tendency to settle
+conflicts aggressively and is well−
+respected within his organization.
+[END]
+870: [Color:0xc]Summary[Color:0x0]
+The defense minister of Japan during
+God's Plan. He went missing after the
+Yamato Reactor, which was housed under
+the Ministry of Defense, went haywire.
+[Color:0xc]Age/Sex[Color:0x0]
+68 (at disappearance)/Male
+[Color:0xc]History[Color:0x0]
+Previously a part of the Japanese Air
+Self−Defense Force, Tamagami eventually
+turned his attention to politics and was
+appointed to the position of Minister of
+Defense right before God's Plan. With
+the cooperation of an undisclosed foreign
+nation, he fostered development for the
+cutting−edge Demonicas to combat demons.
+But at the same time, Tamagami had the
+Yamato Reactor created without anyone
+else in the goverment knowing. On the
+surface, it was a secret infinite energy
+project. But in reality, the Yamato Reactor
+was drawing energy from the Expanse. 
+However, the reactor malfunctioned and
+an overflow of demons surged into this
+world, causing the events of God's Plan.
+He was last seen in front of the Yamato
+Reactor before his disappearance.
+[END]
+880: [Color:0xc]Hunter Name[Color:0x0]
+Betty
+[Color:0xc]Age/Sex[Color:0x0]
+Unknown/Female
+[Color:0xc]Home District[Color:0x0]
+Ginza
+[Color:0xc]History[Color:0x0]
+Works at the Hunter Association as an
+expert in data management. Not many
+have met her in person. The action
+reports of Hunters are sent to the
+Association database and are saved as
+logs. Betty evaluates these logs and
+determines rank among the Hunters.
+[END]
+890: [Color:0xc]Summary[Color:0x0]
+A demon processed food produced by the
+restaurant Akujiki in Ginza. This meal
+can rightfully be called ”Mystery Meat”
+since Nue meat varies widely in taste
+depending on which part of the Nue is
+used.
+[END]
+900: [Color:0xc]Summary[Color:0x0]
+A processed demon food that the restaurant
+Akujiki wants to popularize in Kinshicho.
+Inarizushi were once made with tofu, but
+the ones made by Akujiki uses meat. The
+origin of the meat is unknown. Any Hunter
+who has ever been on a quest for procuring
+the meat is sworn to secrecy.
+[END]

@@ -1,0 +1,23 @@
+0: A bunch of ghosts are wandering [Color:0x5]Shinobazu Pond[Color:0x0] 
+in [Color:0x5]Ueno[Color:0x0] like they own the place. This might be a sign 
+that history is about to repeat itself. Could you nip 
+this in the bud and [Color:0x5]exterminate the ghosts[Color:0x0]? We've 
+contacted another Hunter, so please cooperate with 
+him.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Thanks to your help, their plan has fallen apart.
+We cannot thank you enough. But, we have one more
+thing to say: please don't think that what that
+brain said is everything that there was to Tamagami. 
+Good intentions don't always lead to good actions, 
+but at the very least, the man we believed in was 
+noble.
+[END]

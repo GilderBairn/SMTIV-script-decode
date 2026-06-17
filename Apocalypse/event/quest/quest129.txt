@@ -1,0 +1,23 @@
+0: Hehe. I'm trying to make some new equipment, and I'm 
+just one step away! One! The eyes of the [Color:0x5]Catoblepas[Color:0x0], 
+which roam around [Color:0x5]Ikebukuro[Color:0x0]. Bring me 
+[Color:0x5]three Catoblepas eyes[Color:0x0]. I'm planning on selling 
+this extraordinary invention at the shop in Kinshicho, 
+so it's in your best interest to help out.
+[END]
+1: Delivery Quest Description Second Time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Heh... hehe! It's complete! I took the experiences 
+of the eyes, which have seen countless deaths, 
+forged them into metal, and made them into the 
+[Color:0x5]Intellect Ring[Color:0x0]! This is the fruit of my 
+research, and my only hope of paying off my debts! 
+You can find out what it does at the [Color:0x5]Kinshicho shop[Color:0x0]. 
+It's a must−buy!
+[END]

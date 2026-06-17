@@ -1,0 +1,36 @@
+5: Focus: Attacks using Magic skills
+Normal attack: [7d 4] x[7d 3] hits, [7d 5]
+[END]
+174: Focus: Supports using Healing skills
+Normal attack: [7d 4] x[7d 3] hits, [7d 5]
+[END]
+175: Focus: Uses items to create elemental attacks.
+Normal attack: [7d 4] x[7d 3] hits, [7d 5]
+[END]
+176: Focus: Attacks with Gun Skills
+Normal attack: [7d 4] x[7d 3] hits, [7d 5]
+[END]
+177: Focus: Attacks using Phys skills
+Normal attack: [7d 4] x[7d 3] hits, [7d 5]
+[END]
+178: Focus: Supports using Defensive skills
+Normal attack: [7d 4] x[7d 3] hits, [7d 5]
+[END]
+179: Focus: Attacks using Phys skills
+Normal attack: [7d 4] x[7d 3] hits, [7d 5]
+[END]
+185: Focus: Attacks using Magic skills
+Normal attack: [7d 4] x[7d 3] hits, [7d 5]
+[END]
+186: Focus: Attacks using Phys skills
+Normal attack: [7d 4] x[7d 3] hits, [7d 5]
+[END]
+187: Focus: Attacks using various skills
+Normal attack: [7d 4] x[7d 3] hits, [7d 5]
+[END]
+191: Focus: Attacks using Phys skills
+Normal attack: [7d 4] x[7d 3] hits, [7d 5]
+[END]
+192: Focus: Attacks using Phys skills
+Normal attack: [7d 4] x[7d 3] hits, [7d 5]
+[END]

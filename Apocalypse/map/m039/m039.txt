@@ -1,0 +1,5 @@
+0: ”Thrice to light. Once to shadow. 
+Once to light.” ...So the sign says.
+[END]
+51: 〉 The gate is shut tight.
+[END]

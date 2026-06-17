@@ -1,0 +1,5 @@
+0: You've received a gift from the outside world.
+Please accept these [Color:0x5]Cute Glasses (Head)[Color:0x0].
+[END]
+1: Download Quest 1 again.
+[END]

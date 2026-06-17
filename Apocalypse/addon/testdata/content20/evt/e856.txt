@@ -1,0 +1,12 @@
+0: TEST
+[END]
+201: 〉 You have been transported to 
+Tir Na Nog.
+[->]〉 Here you can collect jewels by 
+defeating demons. 
+[END]
+301: 〉 Return to Tokyo?
+[END]
+302: Yes
+No
+[END]

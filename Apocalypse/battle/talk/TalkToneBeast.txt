@@ -1,0 +1,814 @@
+0: Dummy Message
+[END]
+1: [71 1]ME EAT YOU WHOLE.
+[->][END]
+2: [71 1]YOU ATTACK FIRST. ME WANT LOTS...
+[->][END]
+3: [71 1]GRRRRR...
+[->][END]
+4: [71 1]MY HEART FULL!
+[->][END]
+5: [71 1]GIFT FIRST...
+[->][END]
+6: [71 1]HRM... YOUR SMARTPHONE FULL. ME NO
+FIT.
+[->]ALLY MUST WAIT...
+[->][END]
+7: [71 1]ME [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+IT NICE MEET YOU!
+[->][END]
+8: [71 1]HRM... YOU WEAK. MY LEVEL STRONG.
+[->]SO LONG...
+[->][END]
+9: [71 1]HRM... FRIEND ALREADY ALLY. SAY HI
+FOR ME.
+[->]SO LONG...
+[->][END]
+10: [71 1]ME LOOK FOR TRAVEL PARTNER. 
+HUNTING FUNNER TOGETHER...
+[->][END]
+11: [71 1]HRM... YOUR SMARTPHONE FULL. CAN'T
+FIT FRIENDS.
+[->][END]
+12: [71 1]SOMEONE CALL ME...
+[->][END]
+13: [71 1]EVERYONE HAS OWN PATH. ME HUNT BY
+MYSELF.
+[->][END]
+14: [71 1]ME ALSO ALLY. YOU NO FORGET.
+[->][END]
+15: [71 1]ME INTRODUCE HUNTING BUDDY.
+YOU WAIT.
+[->][END]
+16: [71 1][Demon name 2] CALL ME. ME HELP...
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]THOSE EYES... SAME AS HUNGRY BEAST...
+[->][END]
+19: [71 1]TOKYO, SCARY JUNGLE...
+[->][END]
+20: [71 1]...ME EAT YOU WITH MACCA!
+[->][END]
+21: [71 1]A...A...AWOOOOOOOOO!?
+[->][END]
+22: [71 1]...WHY HUMANS KEEP WANTING!?
+[->][END]
+23: [71 1]ME PROTECT MESELF... YOUR FAULT...
+[->][END]
+24: [71 1]NO! IT TRAP!
+[->][END]
+25: [71 1]YOU WANT GIFT? THEN TRADE.
+[->][END]
+26: [71 1]ALRIGHT... ME SHARE GIFTS. WITH YOU!
+[->][END]
+27: [71 1]AWOOOOOOOOO! ME FEELING GOOD!
+[->]PARTY! PARTY! YOU TAKE GIFT!
+[->][END]
+28: [71 1]YOU GOOD GUY! TAKE THIS TOO.
+[->][END]
+29: [71 1]YOU SHOW ME WHAT YOU MADE OF.
+[->][Amount 1] MACCA. ME DECIDE ON THAT.
+[->][END]
+30: [71 1]GIVE [Item 1] x[Amount 1].
+[->][END]
+31: [71 1]GIVE [Amount 1] MACCA.
+[->][END]
+32: [71 1]YOU, GIVE LITTLE HP.
+[->][END]
+33: [71 1]YOU, GIVE SOME HP.
+[->][END]
+34: [71 1]YOU, GIVE LOTS HP.
+[->][END]
+35: [71 1]YOU, GIVE TONS HP!
+[->][END]
+36: [71 1]YOU, GIVE LITTLE MP.
+[->][END]
+37: [71 1]YOU, GIVE SOME MP.
+[->][END]
+38: [71 1]YOU, GIVE LOTS MP.
+[->][END]
+39: [71 1]YOU, GIVE TONS MP!
+[->][END]
+40: [71 1]YOUR ALLY... ME WANT LIFE OF
+[Demon name 2].
+[->][END]
+41: [71 1]ME WANT THAT. YOU UNDERSTAND?
+[->][END]
+42: [71 1]YOUR FRIEND... GIVE [7e]'S HP!
+[->][END]
+43: [71 1]GIVE ME WHAT ME LIKE.
+[->][END]
+44: [71 1]YOU AMAZING! EXACTLY WHAT ME WANT!
+[->][END]
+45: [71 1]ME NO WANT THAT.
+[->][END]
+46: [71 1]CAN ME FAWN?
+[->][END]
+47: ”Sure.”
+”No.”
+[->][END]
+48: [71 1]*WHIMPER*
+[->][END]
+49: 〉 [Flynn]'s party was soothed by the
+soft bite of the demon!
+[->][END]
+50: 〉 [Flynn]'s party was really soothed
+by the soft bite of the demon!
+[->][END]
+51: [71 1]AWOOOOOOOOO!
+[->][END]
+52: 〉 The demon bit [Flynn]!
+[->][END]
+53: 〉 The demon repeatedly bit [Flynn]!
+[->][END]
+54: [71 1]YOU COLD...
+[->][END]
+55: [71 1]ME LIKE YOU.
+[->][END]
+56: [71 1]HRM... OH WELL.
+[->][END]
+57: [71 1]WHY YOU LIE? ME KNOW YOU HAVE.
+[->]ME RETURN FAVOR!
+[->][END]
+58: [71 1]ME BORED.
+[->][END]
+59: [71 1]YOU DODGE QUESTION.
+[->]ME RETURN FAVOR!
+[->][END]
+60: [71 1]HRM... THEN...
+[->][END]
+61: [71 1]HRM... ME SEE...
+[->][END]
+62: [71 1]GRRR... YOU KEEP REFUSING ME! YOU
+HAVE HEART OF STEEL!
+[->]YOU STRONG!
+[->][END]
+63: [71 1]ME BORED.
+[->][END]
+64: [71 1]YOU HAVE NOTHING. SIMPLE HUMAN.
+[->][END]
+65: [71 1]SO LONG...
+[->][END]
+66: [71 1][Flynn]! WE MEET AGAIN!
+[->]WE TALK LOTS. ME KNOW YOU WELL.
+[->][END]
+67: [71 1]ME THOUGHT ABOUT ALLY TOO. THIS
+MEETING FATE.
+[->][END]
+68: [71 1]ME HELP. TAKE THIS...
+[->][END]
+69: [71 1]ME HELP. TAKE THIS...
+[->][END]
+70: [71 1]HRM... ME BORED...
+[->][END]
+71: [71 1][Flynn]... SO YOU HERE.
+[->]ME REMEMBER YOUR SMELL. ME FIND YOU
+ANY TIME.
+[->][END]
+72: [71 1]...WAIT! ME NO CAN WIN!
+[->]ME FOLLOW YOU, SO NO WASTE LIFE!
+[->][END]
+73: [71 1]YOU KNOW IMPORTANCE OF LIFE. PHEW...
+[->][END]
+74: [71 1]...THEN ME EAT YOU WHOLE EVEN IF ME
+DIE!
+[->][END]
+101: 〉 The demon is on guard...
+What will you do?
+[->][END]
+102: Lower your weapon
+Put up your guard
+[->][END]
+103: [71 1]HE WHO LOWERS GUARD FIRST LOSE!
+[->][END]
+104: [71 1]ME CAN TRUST YOU. CONTINUE TALKING.
+[->][END]
+105: [71 1]HRM... PERFECT DEFENSE...
+[->][END]
+106: [71 1]WAIT! ME NO WANT TO FIGHT! ME GIVE
+YOU THIS, SO SPARE ME!
+[->][END]
+107: [71 1]HUMANS SO TERRIFYING...
+[->][END]
+109: 〉 The demon is approaching you...
+What will you do?
+[->][END]
+110: Step aside
+Raise your weapon
+Don't move
+[->][END]
+111: 〉 [Flynn] dodges the demon!
+[->][END]
+112: [71 1]WHY YOU DODGE? ME WANT TO TALK.
+[->]ME WANT TO DEMON FUSE. BUT ME ALSO
+SCARED...
+[->]GIVE ME GIFTS TO REASSURE ME.
+[->][END]
+113: 〉 The demon catches up...
+[END]
+114: [71 1]HRM... YOUR INSTINCTS SHARP...
+[->][END]
+115: [71 1]WAIT! ME NO WANT TO FIGHT! ME VALUE
+LIFE!
+[->]ME CONSIDER BECOMING ALLY.
+[->][END]
+116: [71 1]ME LIKE BRAVE HUMAN.
+[->]ME TALK WITH YOU...
+[->][END]
+117: [71 1]ME LIKE BRAVE HUMAN.
+[->]...BUT IS THAT TRUE? ME NEED TO
+FIGHT TO KNOW!
+[->][END]
+119: 〉 The demon is trying to leave...
+What will you do?
+[->][END]
+120: Stop him
+Ignore him
+Raise your weapon
+[->][END]
+121: [71 1]ME KNOW. YOU WANT ME AS ALLY, RIGHT?
+[->]DEPENDS ON GIFT.
+[->][END]
+122: 〉 The demon ignored you and left...
+[->][END]
+123: [71 1]YOU TALK TO ME.
+[->][END]
+124: [71 1]HUMANS ALWAYS TRY ACTING COOL.
+[->][END]
+125: [71 1]WAIT! ME NO WANT TO FIGHT! ME VALUE
+LIFE!
+[->]ME CONSIDER BECOMING ALLY.
+[->][END]
+126: [71 1]YOU NO SHOULD WASTE LIFE.
+[->][END]
+128: [71 1]HUMAN, WE PARTY! YOU MAKE ME HAVE
+FUN.
+[->][END]
+129: Dance
+Sing
+Show off Macca
+[->][END]
+130: 〉 [Flynn] dances with Dadga...
+[->]〉 The demon doesn't look pleased...
+[->][END]
+131: 〉 [Flynn] dances with Dadga...
+[->][END]
+132: [71 1][13 10, 0]FUN! FUN! ME AWOOOOOOOOO!
+[->]YOU DESERVE REWARD. ME CONSIDER
+ALLY. DEPENDS ON GIFTS.
+[->][END]
+133: 〉 [Flynn] sings with Dadga...
+[->]〉 The demon doesn't look pleased...
+[->][END]
+134: 〉 [Flynn] sings with Dadga...
+[->][END]
+135: [71 1][13 10, 0]FUN! FUN! ME AWOOOOOOOOO!
+[->]YOU DESERVE REWARD. ME CONSIDER
+ALLY. DEPENDS ON GIFTS.
+[->][END]
+136: [71 1]HUMANS ALWAYS LIKE THAT...
+[->][END]
+137: [71 1]AWOOOOOOOOO! GIVE ME THAT!
+[->][END]
+139: [71 1]HRM... YOU SPARE ME?
+[->][END]
+140: Spare
+Don't spare
+[->][END]
+141: [71 1]THANK YOU, HUMAN. YOU GOOD GUY.
+[->]YOU WANT ALLY? THEN GIVE ME GIFTS.
+[->][END]
+142: [71 1]THIS TRAP! ME HUNGRY!
+[->][END]
+143: [71 1]ME IN BAD MOOD... GRRRRRRRRRRRR...!
+[->][END]
+144: [71 1]WAIT! ME NO WANT TO FIGHT! ME GIVE
+YOU THIS, SO SPARE ME!
+[->][END]
+146: [71 1][13 10, 1]YOU [Flynn]... ME HEAR RUMORS.
+[->][END]
+147: Blank Line
+[->][END]
+148: [71 1]BAD LUCK TO BE WITH YOU. ME HEAR
+THAT.
+[->][END]
+149: 〉 The demon left...
+[->][END]
+151: [71 1][13 10, 1]HUMANS, NO CAN TRUST...
+[->][END]
+152: ”Exactly.”
+”That's not true.”
+”I'm a trustworthy human.”
+[->][END]
+153: [71 1]ME TALKING ABOUT YOU.
+[->][END]
+154: [71 1]ME ALWAYS RIGHT.
+[->]YOU HAVE GOOD EYE. ME CONSIDER ALLY.
+[->][END]
+155: [71 1]YOU CALL ME LIAR. ME KILL YOU...
+[->][END]
+156: [71 1]YOU RIGHT...
+[->]ME TRY TRUSTING YOU.
+[->][END]
+157: [71 1]JUST TAKE EASY...
+[->][END]
+158: [71 1]ME NO MIND THAT CONFIDENCE! YOU TRY
+AND MAKE ME TRUST YOU!
+[->][END]
+160: [71 1]ME INTERESTED IN HUMANS.
+[->][END]
+161: 〉 How will you approach the demon?
+[->][END]
+162: Amicably
+High−handedly
+[->][END]
+163: [71 1]YOU TREAT ME LIKE PET. ME WILD!
+[->][END]
+164: [71 1]YOU KNOW YOUR PLACE. HUMANS SHOULD
+RESPECT ME.
+[->]ME KIND TO GOOD HUMANS.
+[->][END]
+165: [71 1]HUMANS ALWAYS BREAK THINGS LIKE
+THAT...
+[->][END]
+166: [71 1]MAYBE IT OKAY TO BE DOMINATED
+SOMETIME...
+[->]ME FOLLOW STRONG HUMAN. YOU STRONG?
+[->][END]
+168: 〉 The demon is stretching...
+What will you do?
+[->][END]
+169: Watch him
+Raise your weapon
+Stretch yourself
+[->][END]
+170: [71 1]YOU WIDE OPEN.
+[->][END]
+171: Blank Line
+[->][END]
+172: [71 1]ME KNOW WHAT YOU DOING. 
+NO UNDERESTIMATE NATURE.
+[->][END]
+173: [71 1]WAIT! ME NO WANT TO FIGHT! ME VALUE
+LIFE!
+[->]ME CONSIDER BECOMING ALLY.
+[->][END]
+174: [71 1]YOU WIDE OPEN.
+[->][END]
+175: [71 1]YOU FUNNY. AWOOOOOOOOO!
+[->]ME GIVE YOU THIS. USE CAREFULLY.
+[->][END]
+177: [71 1]HUMANS STOLE WHAT WE PROTECT AND
+DESTROY IT...
+[->]SO NOW THEY SUFFER... HEHEHE...
+ME FEEL GOOD!
+[->][END]
+178: ”That's not true.”
+”Exactly.”
+”Let's get it back together.”
+[->][END]
+179: Blank Line
+[->][END]
+180: [71 1]ME NOT LIKE OTHER DEMONS. ME NO
+ABANDON HUMANS.
+[->]IF YOU SORRY, ME MAKE YOU FOLLOWER.
+GIVE ME THINGS.
+[->][END]
+181: [71 1]YOU GOING TO KILL MORE?
+[->][END]
+182: [71 1]IT TOO LATE!
+[->][END]
+184: [71 1]HRM... YOU SMELL LIKE BLOOD.
+YOU KILL LOTS OF DEMONS?
+[->][END]
+185: ”I AM a hunter.”
+”You smell more.”
+Pray for the demons
+[->][END]
+186: [71 1]ME SEE... THEN ME AVOID YOU.
+[->][END]
+187: [71 1]HUMANS WEAK. SO CAN ONLY KILL
+DEMONS.
+[->]ME NO WANT TO DIE. ME BECOME ALLY.
+[->][END]
+188: Blank Line
+[->][END]
+189: [71 1]YOU HAVE REASON. NO CAN BE HELPED.
+[->][END]
+190: [71 1]NO PRETEND TO BE COOL. YOU MAKE FUN
+OF ME?
+[->]IF YOU FEEL BAD, DON'T KILL. ME MAD!
+[->][END]
+192: [71 1]YOU SMALL. ME BIG!
+[->][END]
+193: ”What are you talking about?”
+”I'm bigger.”
+[->][END]
+194: [71 1]ME NOBLE! HUMANS SCAMPER.
+[->][END]
+195: [71 1]THAT LIE! ME NO CAN TRUST YOU!
+[->][END]
+196: [71 1]BIG BUT SMALL... ME REALLY WONDER...
+[->]ME BECOME ALLY.
+[->][END]
+198: [71 1]MOON IS COMING...
+[->][END]
+199: ”So?”
+”Yeah, huh.”
+[->][END]
+200: Blank Line
+[->][END]
+201: [71 1]MY HEART, LUNATIC!
+[->]AWOOOOOOOOOOOO!
+[->][END]
+202: [71 1]WAR OF GODS, COMING...
+[->]AWOOOOOOOOO!
+[->][END]
+203: 〉 The demon howled and left...
+[->][END]
+205: [71 1]ME PLAYED LOTS WITH OLD HUMANS. ME
+FIGHT LOTS WITH NOW HUMANS.
+[->][END]
+206: ”Let's play.”
+”Times have changed.”
+”That's sad...”
+[->][END]
+207: 〉 [Flynn] picks up a nearby bone and
+throws it far away...
+[->][END]
+208: [71 1][13 10, 0]AWOOOOOOOOO!
+[->][END]
+209: 〉 The demon left...
+[->][END]
+210: [71 1]NO CAN PLAY ANY MORE...
+[->][END]
+211: [71 1]THAT RIGHT... THINGS CHANGE. YOU
+RIGHT.
+[->]WHICH WAY MY FUTURE? YOU TELL ME.
+[->][END]
+212: [71 1]NO... HUMANS CHANGED.
+[->][END]
+213: [71 1]WHY YOU SAD?
+[->]ME LIKE FIGHTING. AWOOOOOOOOO!
+[->][END]
+214: [71 1]ME SAD?
+[->]YOU FUNNY HUMAN. ME TALK WITH YOU
+MORE...
+[->][END]
+216: [71 1]HUNTER... IS DEMON MEAT TASTY?
+[->][END]
+217: ”It's delicious.”
+”It's horrible.”
+”I never had it before.”
+[->][END]
+218: Blank Line
+[->][END]
+219: [71 1]HUMANS EAT TOO MUCH. THEY EAT ALL.
+[->]NO TASTY, THEN DON'T EAT. YOU NEED
+DIET.
+[->][END]
+220: [71 1]TASTE NO MATTER. YOU GET ENERGY. 
+NO EAT NO ENERGY.
+[->]SAME AS ME.
+[->][END]
+221: Blank Line
+[->][END]
+223: [71 1]HUMANS ALL SAME FACE. WHY?
+[->][END]
+224: ”They have different faces.”
+”It's because of makeup.”
+”Same with demons.”
+[->][END]
+225: [71 1]BONES ALL SAME.
+[->][END]
+226: [71 1]ME NO CAN TELL. HUMAN FACE FLAT.
+[->]LOOK LIKE CHIMPANZEE BABY. HAHAHA...
+[->][END]
+227: [71 1]MAKEUP HAVE MAGIC POWER. MEN HUNT
+PREY. WOMEN HUNT MEN.
+[->][END]
+228: [71 1]YOU ALSO HAVE MAKEUP.
+[->]...NO, IT DADGA. DADGA NICE GUY.
+[->][END]
+229: [71 1]THAT RIGHT. FACE NO IMPORTANT.
+HEART IS.
+[->]YOU GIVE ME GIFTS. ME TEST YOUR
+HEART.
+[->][END]
+230: [71 1]AWOOOOOOOOOOOO!
+[->][END]
+231: 〉 The demon howled and left...
+[->][END]
+233: [71 1]HUMANS MAKE CONTRADICTION. THEN ARE
+TROUBLED.
+[->]IT BECAUSE THAT BRAIN. YOU SHOULD
+THROW IT AWAY.
+[->][END]
+234: ”Alright, I will.”
+”We can't do that.”
+”It's none of your business.”
+[->][END]
+235: [71 1]NO... ME TAKE IT.
+[->][END]
+236: [71 1]YOU NO UNDERSTAND JOKE?
+[->][END]
+237: [71 1]THAT CONTRADICTION.
+[->][END]
+238: [71 1]THEN LOCK IT AWAY. OTHER DEMONS AFTER
+IT.
+[->][END]
+239: [71 1]AWOOOOOOOOOOOO! YOU STUBBORN!
+[->][END]
+240: [71 1]ME LIKE TO HELP. ME CONSIDER ALLY.
+[->][END]
+242: [71 1]YOU SCARED TO DIE?
+[->][END]
+243: ”I'm scared.”
+”I'm not scared.”
+”I want to just die.”
+[->][END]
+244: [71 1]THAT NATURAL. ME SCARED TOO.
+[->]YOU TAKE THIS. USE LIFE WISELY...
+[->][END]
+245: [71 1]ME LOOKING FOR HUMAN THAT KNOW FEAR.
+YOU NORMAL, EVERYONE ELSE CRAZY.
+[->]BUT NO CAN BE ALLY FOR FREE. GIVE
+GIFTS.
+[->][END]
+246: [71 1]YOU RECKLESS. YOU DIE EARLY.
+[->]USE THIS TO PROTECT YOURSELF.
+[->][END]
+247: [71 1]THEN ME CAN FIGHT NO HESITATION.
+[->][END]
+248: [71 1]NO. ME NO LET YOU ESCAPE BY YOUSELF.
+[->][END]
+249: [71 1]YOU INTERESTING HUMAN... ME LET YOU
+LIVE LONGER.
+[->][END]
+251: [71 1]IF YOU WANT MY POWER, TAKE HAND...
+[->][END]
+252: Take his hand
+”Hand!”
+”That's a front leg.”
+[->][END]
+253: [71 1]THIS IS ”HAND”. REMEMBER IT.
+[->][END]
+254: [71 1]...YOU BRAVE.
+[->][END]
+255: [71 1]HUMANS ALWAYS TRY ACTING COOL. SO
+SAD...
+[->][END]
+256: 〉 The demon places his hand on yours!
+[->][END]
+257: [71 1]YOUR HAND WARM... SIGN OF LIFE...
+[->]MY HAND COLD. SIGN OF DEMON!
+[->][END]
+258: [71 1]YOU NO STUPID. ME CAN TALK TO YOU.
+[->][END]
+259: [71 1]YOU REBELLIOUS. ME PUNISH YOU.
+[->][END]
+261: [71 1]TEST OF LUCK...
+[->]YOU DIG HERE. HURRY.
+[->][END]
+262: Dig here
+Dig there
+Don't dig
+[->][END]
+263: 〉 [Flynn] digs here...
+[->][END]
+264: [71 1][13 10, 0]HRM... SOMETHING CAME OUT! YOU LUCKY!
+[->][END]
+265: 〉 [Flynn] digs here...
+[->][END]
+266: [71 1][13 10, 1]HRM... NOTHING CAME OUT. YOU UNLUCKY.
+[->][13 10, 0]INSTEAD ME BECOME ALLY.
+[->][END]
+267: 〉 [Flynn] digs here...
+[->][END]
+268: [71 1][13 10, 0]GOOD. THAT YOUR GRAVE.
+[->][END]
+269: 〉 [Flynn] digs there...
+[->][END]
+270: [71 1][13 10, 0]HRM... SOMETHING CAME OUT! YOU LUCKY!
+[->][END]
+271: 〉 [Flynn] digs there...
+[->][END]
+272: [71 1][13 10, 1]HRM... NOTHING CAME OUT. YOU UNLUCKY.
+[->][13 10, 0]INSTEAD ME BECOME ALLY.
+[->][END]
+273: 〉 [Flynn] digs there...
+[->][END]
+274: [71 1][13 10, 0]GOOD. THAT YOUR GRAVE.
+[->][END]
+275: [71 1]TOO BAD...
+[->][END]
+277: [71 1]ME HUNGRY. HUMAN, DO SOMETHING.
+[->][END]
+278: Hand over food
+Hand over liquor
+”Eat yourself.”
+[->][END]
+279: 〉 [Flynn] doesn't happen to have any
+food...
+[->][END]
+280: [71 1][13 10, 1]GRRRRR... ME EAT YOU WHOLE.
+[->][END]
+281: 〉 Dadga happened to have food.
+[->][END]
+282: [71 1][13 10, 0]THIS TASTY! YOU HAVE GOOD PARTNER!
+[->]ME LIKE YOU TWO. ME CONSIDER ALLY.
+[->][END]
+283: 〉 [Flynn] happened to not have any liquor
+on him...
+[->][END]
+284: [71 1][13 10, 1]GRRRRR... ME EAT YOU WHOLE.
+[->][END]
+285: [71 1]ME LOVE LIQUOR!
+[->][END]
+286: 〉 The demon happily licked up the
+liquor...
+[->][END]
+287: [71 1]ME LIKE YOU. ME CONSIDER ALLY.
+[->][END]
+288: [71 1]ME EAT, GROW FLESH. ME EAT THAT,
+GROW MORE FLESH...
+[->]OOOOH... ME EAT INFINITE! LIKE YAMATO
+PERPETUAL REACTOR!
+[->]YOU GENIUS! ME NEVER GO HUNGRY!
+[->][END]
+289: [71 1]ME NO LIKE YOUR ATTITUDE...
+[->][END]
+291: 〉 The demon is watching [Flynn]...
+[->][END]
+292: [71 1]YOU HAVE GOOD ”LUCK”! YOU NO FORGET
+THE WILD.
+[->]YOU WANT ALLY? ME BECOME!
+[->][END]
+293: [71 1]”LUCK” NO GOOD... YOU CITY−SLICKER.
+[->][END]
+294: 〉 The demon disappointingly left...
+[->][END]
+296: [71 1][13 10, 10]WHY LOOK? SOMETHING WRONG WITH ME?
+[->][END]
+297: ”You're cool.”
+”You're cute.”
+[->][END]
+298: [71 1]OF COURSE ME STRONG!
+[->]YOU LOOK WEAK. WANT ME HELP YOU?
+[->][END]
+299: [71 1]*WHIMPER*
+[->][END]
+300: 〉 The demon left embarrassed...
+[->][END]
+302: [71 1]THEN WHY NO GREEN?
+JUST BIG TOMBSTONES.
+[->][END]
+303: ”That's the development of humanity.”
+”To protect from enemies.”
+”Those are buildings.”
+[->][END]
+304: [71 1]DEVELOPMENT... ME WANT DEVELOP TOO.
+[->]YOU DEVELOP ME. GIVE ME SOMETHING.
+[->][END]
+305: [71 1]HUMANS NO HAVE FANGS. NO HAVE FUR.
+WEAK NAKED.
+[->]YOU KNOW WHY?
+[->]GOD MADE THEM EASY TO EAT.
+[->][END]
+306: [71 1]BUILDING? WHAT THAT?
+[->]AWOOOOOOOOOOOO!
+[->][END]
+308: [71 1][13 10, 10]*SNIFF* *SNIFF* WHAT KIND OF SMELL?
+[->][END]
+309: ”A good scent.”
+”Like a farm.”
+”A horrible odor.”
+[->][END]
+310: [71 1]YOU NO GOOD AT LIE.
+[->]THIS SMELL OF HUNTER ME JUST ATE.
+[->]ME GO FOR SECONDS.
+[->][END]
+311: [71 1]YOU HAVE GOOD NOSE!
+[->]WE BEASTS. LET'S NEGOTIATE!
+[->][END]
+312: [71 1]NO MAKE SENSE. ME GO HOME.
+[->][END]
+314: [71 1]YOU SMALLER THAN PEA! HAHAHAHA...
+[->][END]
+315: ”That may be true.”
+”I'm bigger than a pea.”
+”I'm bigger than you.”
+[->][END]
+316: [71 1]PEA SMALL, BUT GET BIG IF YOU GROW.
+[->]YOU STILL KID. BECOME BIG ONE DAY.
+[->]LET'S GROW TOGETHER. ME GROW BIGGER
+TOO.
+[->][END]
+317: [71 1]SO WHAT?
+[->][END]
+318: [71 1]NO GET ANGRY. ME JUST JOKING.
+[->][END]
+320: [71 1]STORM COMING. YOU FEEL IT TOO?
+[->][END]
+321: ”I feel it.”
+”I don't feel it.”
+”The idol group?”
+[->][END]
+322: [71 1]ME SCARED. YOU TAKE ME WITH YOU.
+[->][END]
+323: [71 1]WAR OF GODS IS COMING...
+[->]AWOOOOOOOOO!
+[->][END]
+324: 〉 The demon howled and left...
+[->][END]
+325: [71 1]YOU ARE THAT STORM!
+[->][END]
+326: [71 1]WAR OF GODS IS COMING...
+[->]AWOOOOOOOOO!
+[->][END]
+327: 〉 The demon howled and left...
+[->][END]
+328: [71 1]THAT OLD. IT NOW 2038.
+[->][END]
+330: [71 1][13 10, 0][Flynn]! ME PICK UP BONE!
+[->][END]
+331: 〉 The demon returned with a bone in
+its mouth!
+[->][END]
+332: [71 1][13 10, 0]FUN! FUN! ME GO WITH YOU!
+[->][END]
+334: [71 1][13 10, 10]THAT WHY YOU EAT IT?
+[->][END]
+335: ”That's right.”
+”I have to to live...”
+”There's nothing else.”
+[->][END]
+336: [71 1]EXCESSIVE HUNTING OF DEMONS NO GOOD.
+HUMANS SHOULD DIE.
+[->][END]
+337: [71 1]THAT GOOD. THAT NATURAL.
+[->]CRY SMILE EAT SLEEP. GOOD TO HAVE
+LIFE.
+[->]YOU WANT ALLY. THAT ALSO NATURAL.
+[->][END]
+338: [71 1]THERE IS. EAT HUMAN.
+[->][END]
+340: [71 1][13 10, 0]THEN WHAT YOU EAT?
+[->][END]
+341: ”Vegetables.”
+”Things other than demons.”
+”Clouds.”
+[->][END]
+342: [71 1]VEGETABLES OF TOKYO...
+[->][END]
+343: [71 1]THAT SOMETHING ME NO KNOW? HUMANS
+ARE GOURMET.
+[->]ME WANT TO BE GOURMET TOO. ME LIKE
+YOU.
+[->][END]
+344: [71 1]CLOUDS?
+[->]NO CLOUDS HERE.
+[->][END]
+346: [71 1]Reserved
+[->][END]
+347: Reserved
+[->][END]
+348: Reserved
+[->][END]
+349: Reserved
+[->][END]
+350: [71 1]Reserved
+[->][END]
+351: Reserved
+[->][END]
+352: [71 1]Reserved
+[->][END]
+353: Reserved
+[->][END]
+354: [71 1]Reserved
+[->][END]
+355: Reserved
+[->][END]
+356: [71 1]Reserved
+[->][END]
+357: Reserved
+[->][END]
+358: [71 1]Reserved
+[->][END]
+359: Reserved
+[->][END]
+360: [71 1]Reserved
+[->][END]
+361: Reserved
+[->][END]
+362: [71 1]Reserved
+[->][END]
+363: Reserved
+[->][END]
+364: [71 1]Reserved
+[->][END]
+365: Reserved
+[->][END]
+366: [71 1]Reserved
+[->][END]

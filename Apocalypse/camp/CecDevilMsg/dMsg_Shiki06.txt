@@ -1,0 +1,21 @@
+0: [71 1]I've... spread... patriotism...
+to other lands...!
+[->][END]
+1: [71 1]I've... spread... patriotism...
+to other lands...!
+[->][END]
+2: [71 1]I've... spread... patriotism...
+to other lands...!
+[->][END]
+3: [71 1]I've... awakened... patriotism...!
+[->][END]
+4: [71 1]I've... awakened... patriotism...!
+[->][END]
+5: [71 1]I've... awakened... patriotism...!
+[->][END]
+6: [71 1]Take this! This... patriotic... souvenir...
+[->][END]
+7: [71 1]Take this! This... patriotic... souvenir...
+[->][END]
+8: [71 1]Take this! This... patriotic... souvenir...
+[->][END]

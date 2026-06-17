@@ -1,0 +1,36 @@
+0: (Hope) [7a 8]We've become something more, something
+better−−a new breed of humanity rebuilt
+by God.
+[->]We are celestial beings, part human
+and part angel, now.
+[->]Our differences with you Unclean Ones 
+are irreconcilable. All who oppose 
+Abbot Hugo must be eradicated!
+[END]
+1: (Hope) [7a 8]Ugh... How could a celestial being such
+as myself lose to unawakened rabble like
+you!?
+[->]You said your name is [Flynn], yes?
+[->]Heh... The Eastern Kingdom of Mikado
+is now filled with celestial beings...
+[->]It won't be long before the [Color:0x5]Demon Gene[Color:0x0]
+infects everyone...
+[->]If you want to stop this, you need
+to find Abbot Hugo. He is in the
+Monastery...
+[END]
+100: (Dagda) There are 20 turns left. Hurry, Kid.
+[END]
+101: (Dagda) C'mon, kid−−only 10 turns left.
+[END]
+102: (Dagda) 5 more turns... This is looking grim.
+[END]
+103: (Dagda) Damn. You failed, kid. It's too late, 
+now.
+[->]Everyone in the kingdom is now infected.
+[Color:0x5]Including you[Color:0x0].
+[END]
+104: 〉 Dagda looks at you bitterly.
+[->]〉 As he does, you notice what's 
+happening to your body...
+[END]

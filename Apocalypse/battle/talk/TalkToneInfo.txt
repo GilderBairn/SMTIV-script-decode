@@ -1,0 +1,1040 @@
+0: Dummy Message
+[END]
+1: [71 1]Nuh−uh−uh! Chaaarge!
+[->][END]
+2: [71 1]Yo! Attacking, then negotiating? 
+That pisses me off... Punchy, punchy, 
+boom!
+[->][END]
+3: [71 1]Hehehe...
+[->][END]
+4: [71 1]I'll become your ally!
+[->][END]
+5: [71 1]First, I'll take something, got it?
+[->][END]
+6: [71 1]Your stock is full.
+[->]Roar! I'm outs.
+[->][END]
+7: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Nice to meet ya!
+[->][END]
+8: [71 1]Huh? Your level's below mine?
+[->]That's some BS! Now me are sad...
+[->][END]
+9: [71 1]Whoa! I see me in your stock! Phew,
+I thought it was a mirror for a sec.
+[->]Come back when you're tired of mirrors.
+[->][END]
+10: [71 1]You're the summoner I met in my dream 
+yesterday! Can I go with you, too?
+[->][END]
+11: [71 1]Oh, but your stock's full. 
+So much for that idea.
+[->][END]
+12: [71 1]Punchy puuuuunch! I wanna cruise 
+the world with you!
+[->][END]
+13: [71 1]Alright! No one's coming! 
+Well, that sucks!
+[->][END]
+14: [71 1]Oh, uh, yeah...
+[->][END]
+15: [71 1]Can I release the demon I caught 
+yesterday?
+[->][END]
+16: [71 1]Hey! Mr. Human−guy!
+[->]I saw [Demon name 2], so I came here.
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Macca's spinning. Punchy puuuuunch!
+[->][END]
+19: [71 1]Hee hee hee...
+[->][END]
+20: [71 1]Roar!
+[->][END]
+21: [71 1]Oh?
+[->][END]
+22: [71 1]Ooh!
+[->][END]
+23: [71 1]...This sun's gonna set.
+[->][END]
+24: [71 1]I'm a new type of bagworm. 
+I don't move.
+[->][END]
+25: [71 1]Items come and go. Punchy puuuuunch!
+[->][END]
+26: [71 1]I caught this the other day. 
+You can have it.
+[->][END]
+27: [71 1]Harahoro, harahoro!
+Lalalululooo!
+[->][END]
+28: [71 1]I'll give you this thingie
+I picked up at Jupiter.
+[->][END]
+29: [71 1]Hehe... Maybe I'll do a buy−it−now?
+[->]How about [Amount 1] Macca?
+[->][END]
+30: [71 1]I could use [Item 1] x[Amount 1].
+[->][END]
+31: [71 1]I could use [Amount 1] Macca.
+[->][END]
+32: [71 1]I'll take a slurp of your HP.
+[->][END]
+33: [71 1]I'll take a smack of your HP.
+[->][END]
+34: [71 1]I'll take a nibble of your HP.
+[->][END]
+35: [71 1]I'll take a chomp of your HP.
+[->][END]
+36: [71 1]I'll take a slurp of your MP.
+[->][END]
+37: [71 1]I'll take a smack of your MP.
+[->][END]
+38: [71 1]I'll take a nibble of your MP.
+[->][END]
+39: [71 1]I'll take a chomp of your MP.
+[->][END]
+40: [71 1]Your demonic pal... I'll take 
+[Demon name 2]'s life.
+[->][END]
+41: [71 1]Gotta have me some of that.
+[->][END]
+42: [71 1]Yo, human dude... I'll take [7e]'s HP.
+[->][END]
+43: [71 1]Can you guess what I want?
+[->][END]
+44: [71 1]Correct! Hehe...
+[->][END]
+45: [71 1]Bzzzzzt! That was a hard question.
+[->][END]
+46: [71 1]Can this box be opened?
+[->][END]
+47: ”It can.”
+”It can't.”
+[->][END]
+48: [71 1]Whoa!
+[->][END]
+49: 〉 A mysterious power soothes 
+[Flynn]'s party!
+[->][END]
+50: 〉 A mysterious power really soothes
+[Flynn]'s party!
+[->][END]
+51: [71 1]Punchy puuunch!
+[->][END]
+52: 〉 The contents of the box hurt [Flynn]!
+[->][END]
+53: 〉 The contents of the box hurt [Flynn]
+bad!
+[->][END]
+54: [71 1]That's right, this box has no lid to open.
+[->][END]
+55: [71 1]You're pretty cool.
+[->][END]
+56: [71 1]Roar!
+[->][END]
+57: [71 1]You won't give me it, even if you have it?
+[->]Roar! What the heck!
+[->][END]
+58: [71 1]Punchy, punchy, boom!
+[->][END]
+59: [71 1]You're not smart. You should probably 
+try thinking. It works.
+[->]Roar! What the heck!
+[->][END]
+60: [71 1]And now what're you gonna do?
+[->][END]
+61: [71 1]And now what're you gonna do?
+[->][END]
+62: [71 1]You're a smart one. I think I found 
+a new species.
+[->][END]
+63: [71 1]Punchy, punchy, boom!
+[->][END]
+64: [71 1]That's Greek to me.
+[->][END]
+65: [71 1]I'm outs.
+[->][END]
+66: [71 1]Ooh! It's [Flynn]!
+[->]We really talked the night away. 
+Days have passed, and we back!
+[->][END]
+67: [71 1]I'll become your buddy!
+[->][END]
+68: [71 1]You want a ticket on the galaxy express? 
+Leave the trip budget to me!
+[->][END]
+69: [71 1]A fresh star shard is yours for 
+the keepings.
+[->][END]
+70: [71 1]Buh−bye!
+[->][END]
+71: [71 1]Huh? [Flynn]? Didn't we just meet?
+[->]Let's chase after shooting stars again!
+[->][END]
+72: [71 1]...Kill?
+[->][END]
+73: [71 1]Hehe... Got off easy.
+[->][END]
+74: [71 1]Punchy, punchy, boom!
+[->][END]
+101: 〉 The demon is approaching you...
+What will you do?
+[->][END]
+102: Step aside
+Raise your weapon
+Don't move
+[->][END]
+103: 〉 [Flynn] dodges the demon!
+[->][END]
+104: [71 1]You're like a grasshopper. 
+Let's live life on the ground, dude.
+[->]I'll let you catch me, but I 
+want something.
+[->][END]
+105: 〉 The demon catches up...
+[->][END]
+106: [71 1][13 10, 10]You had me all figured out? 
+Then um, er, let's see...
+[->][END]
+107: [71 1]If that weapon was your friend, 
+would it cry? Laugh? Get angry, maybe?
+[->][END]
+108: [71 1]You're not afraid of demons, huh?
+Hehe... That's good.
+[->][END]
+109: [71 1]He's not moving! Let's get 'em, boys!
+[->][END]
+111: 〉 The demon is beckoning you...
+What will you do?
+[->][END]
+112: Go near
+Beckon back
+Raise your weapon
+[->][END]
+113: [71 1]A dragonfly's here!
+Punchy puuuuunch!
+[->][END]
+114: [71 1]I'll give ya this.
+[->][END]
+115: [71 1]Buh−bye!
+[->][END]
+116: [71 1]I'm lend my power to humans.
+[->][END]
+117: [71 1]Punchy puuuuunch!
+[->][END]
+118: 〉 The demon left dizzy...
+[->][END]
+119: [71 1]Hola!
+[->][END]
+120: [71 1]If that weapon was a pieris rapae, 
+I bet'cha we could light the night 
+with its wing scales...
+[->][END]
+121: [71 1]Aren't we a ruffian? Just put that
+thing away.
+[->][END]
+123: 〉 The demon is trying to leave...
+What will you do?
+[->][END]
+124: Stop them
+Ignore them
+Raise your weapon
+[->][END]
+125: [71 1]If you called me, maybe I'll call you.
+[->][END]
+126: 〉 The demon ignores you and leaves.
+[->][END]
+127: [71 1]Don't be so cold. Let's have some fun, 
+brother.
+[->][END]
+128: 〉 The demon leaves...
+[->][END]
+129: [71 1]Aren't we a ruffian? Just put that
+thing away.
+[->][END]
+130: [71 1]If your weapon was candy, we could
+kill all the dictators.
+[->][END]
+132: 〉 The demon is ignoring you...
+What will you do?
+[->][END]
+133: Say something
+Get their attention
+Threaten them
+[->][END]
+134: [71 1]Can't you tell I was pretending not 
+to know you!? Punchy puuuuunch!
+[->][END]
+135: [71 1]Oh, it's you? You want me or something?
+[->][END]
+136: Blank Line
+[->][END]
+137: Blank Line
+[->][END]
+138: Blank Line
+[->][END]
+139: [71 1]Humans are dummies. Hehe...
+[->][END]
+141: [71 1][13 10, 1]Oh you're [Flynn]. I know you.
+[->][END]
+142: Blank Line
+[->][END]
+143: [71 1][13 10, 10]Hehe... I'll be the talk of the town, 
+now that I met you.
+[->][END]
+144: 〉 The demon leaves...
+[->][END]
+146: [71 1]Grrrrr...!
+[->][END]
+147: Watch them
+Calm them down
+Wave to them
+[->][END]
+148: 〉 The demon is also watching...
+[->][END]
+149: [71 1]Ohhh, it was a human. I thought it 
+was a new species of animal.
+[->][END]
+150: [71 1]Why are you saying, ”there, there”? 
+I'm right here!
+[->][END]
+151: Blank Line
+[->][END]
+153: [71 1]Do humans know stuff I don't?
+[->][END]
+154: Nod your head
+Tilt your head
+Shake your head
+[->][END]
+155: Blank Line
+[->][END]
+156: Blank Line
+[->][END]
+157: Blank Line
+[->][END]
+159: [71 1]Zzzzzzzz...
+[->][END]
+160: 〉 The demon is snoring...
+What will you do?
+[->][END]
+161: Quietly pass by them
+Talk to them
+Shake them
+[->][END]
+162: Blank Line
+[->][END]
+163: Blank Line
+[->][END]
+164: [71 1]Roar!
+[->][END]
+165: [71 1]My emotions are wavering...
+Punchy puuuuunch!
+[->][END]
+167: 〉 The demon is thinking...
+What will you do?
+[->][END]
+168: Sneak up on them
+Watch them
+Walk right up to them
+[->][END]
+169: Blank Line
+[->][END]
+170: Blank Line
+[->][END]
+171: Blank Line
+[->][END]
+173: [71 1]Humans all look different. Why's that?
+[->][END]
+174: ”The same goes for demons.”
+”There's gender and age.”
+”It'd be creepy if we were the same.”
+[->][END]
+175: [71 1][13 10, 10]We don't really know what we look like.
+[->][END]
+176: Blank Line
+[->][END]
+177: Blank Line
+[->][END]
+179: [71 1]Why is the sky black?
+[->][END]
+180: ”Is there a reason?”
+”Is there a sky that's not black?”
+”Why do you think?”
+[->][END]
+181: [71 1]I was asking you 'cause I don't know.
+[->][END]
+182: [71 1]Hehe... You don't know anything, huh!
+[->][END]
+183: Blank Line
+[->][END]
+185: [71 1]Whoa, that scared me! I thought 
+you were a worm!
+[->][END]
+186: ”W−Worm!?”
+”I'm a human.”
+”Why are you so scared?”
+[->][END]
+187: [71 1]Hehe... Wrong word. I meant a mole.
+[->][END]
+188: Blank Line
+[->][END]
+189: Blank Line
+[->][END]
+191: [71 1]Do you kill anything that's a demon?
+[->][END]
+192: ”I kill if you attack.”
+”I negotiate.”
+”I AM a Hunter, so...”
+[->][END]
+193: [71 1]Then you won't kill me if I don't attack? 
+Phew, that's good to know.
+[->]I'm gonna attack you. Are you gonna kill me?
+[->][END]
+194: Blank Line
+[->][END]
+195: Blank Line
+[->][END]
+197: [71 1]I think humans are demon flowers.
+[->][END]
+198: ”...Demon flowers?”
+”The hell you talking about?”
+”You going to pluck me?”
+[->][END]
+199: [71 1]Yep, flowers. You're born in the morning 
+and die at night, right?
+[->][END]
+200: Blank Line
+[->][END]
+201: [71 1]Hehe... That may or may not happen.
+[->][END]
+203: [71 1]I know! I wanna go on a trip with you.
+[->][END]
+204: ”Sure.”
+”Why?”
+”What're you up to?”
+[->][END]
+205: Blank Line
+[->][END]
+206: Blank Line
+[->][END]
+207: Blank Line
+[->][END]
+209: [71 1]Hehe... It's hunting time! Roar!
+[->][END]
+210: ”I'll hunt YOU.”
+”Let's hunt together.”
+[->][END]
+211: Blank Line
+[->][END]
+212: Blank Line
+[->][END]
+214: [71 1]Would you hear me out? Well, you're human, 
+so maybe not...
+[->][END]
+215: ”I'll listen.”
+”Depends on the subject.”
+”Here me out, too.”
+[->][END]
+216: Blank Line
+[->][END]
+217: Blank Line
+[->][END]
+218: Blank Line
+[->][END]
+220: 〉 [Flynn] dances a dance...
+[->][END]
+221: 〉 The demon started dancing, too!
+[->]〉 But they're too absorbed in dancing 
+to negotiate...
+[->][END]
+222: [71 1]Punchy puuuuunch! This is pretty fun!
+[->][END]
+224: 〉 [Flynn] sings a song...
+[->][END]
+225: 〉 The demon started singing, too!
+[->]〉 But they're too absorbed in singing 
+to negotiate...
+[->][END]
+226: [71 1]Punchy puuuuunch! This is pretty fun!
+[->][END]
+228: 〉 [Flynn] flashes some Macca...
+[->][END]
+229: [71 1]Macca Macca MacArthur!
+[->][END]
+230: [71 1]You're pretty smart. Let's burn 'em 
+and light our hearts.
+[->][END]
+232: 〉 The demon is watching [Flynn]...
+[->][END]
+233: [71 1]You have as much ”Luck” as they say! 
+You should go gamble!
+[->][END]
+234: [71 1]Meh, you're ”Luck” is low...
+Punchy, punchy, boom!
+[->][END]
+236: [71 1]Human, whatcha doin' here?
+[->][END]
+237: ”Hunting demons.”
+”Negotiating with demons.”
+[->][END]
+238: Blank Line
+[->][END]
+239: [71 1]Hehe... You lonely, human?
+[->]If you're lonely by yourself, you'll 
+be lonely no matter who you're with!
+[->][END]
+241: [71 1][13 10, 10]Hmmm? Is that fun?
+[->][END]
+242: ”It's fun.”
+”It's to survive.”
+[->][END]
+243: [71 1]Blargh, humans are so violent! 
+But at least you're an honest guy!
+[->]Punchy, punchy, boom!
+[->][END]
+244: [71 1][13 10, 10]But why demons? It doesn't matter, 
+as long the target's weak!
+[->]Humans do pointless things, huh?
+[->][END]
+246: [71 1]That a sign asking to play?
+[->][END]
+247: ”That's right.”
+”You looked angry, so...”
+[->][END]
+248: [71 1][13 10, 10]That's right? What's right? 
+I'm sitting right here.
+[->]You're boring. Go over there!
+[->][END]
+249: [71 1]I was just on an adventure. It's important 
+for us adventurers to greet each other, huh? 
+[->]Punchy, punchy, boom!
+[->]I know what this is! I found a monster!
+[->][END]
+251: [71 1][13 10, 0]Ohhh! A lost human!
+[->][END]
+252: ”I'm not lost.”
+”Don't attack me.”
+[->][END]
+253: [71 1]Hmmm. You know where you're going? 
+Not bad. For a human.
+[->]So you're strong, right?
+[->][END]
+254: [71 1]Hehe... Asking a demon? Playing hard to get?
+[->]That was hilarious, so I'm willing to 
+NOT attack you.
+[->][END]
+256: [71 1][13 10, 0]Awwww, humans don't know, either?
+[->][END]
+257: ”I didn't say that.”
+”That may be.”
+[->][END]
+258: [71 1]You didn't say anything, either! 
+You shouldn't be stubborn.
+[->][END]
+259: [71 1]It's interesting not knowing things. 
+You can think all you want, and you'll 
+still not know.
+[->]There's a star at the bottom of the well. 
+I wonder if there's a well on the star!
+[->]Punchy, punchy, boom!
+[->][END]
+261: [71 1]What do you want me to do?
+[->][END]
+262: ”Tell me about you.”
+”Become my ally.”
+[->][END]
+263: [71 1][13 10, 10]People'll hate you if you rely on others 
+too much, y'know! If you're lucky, we'll 
+meet again!
+[->][END]
+264: [71 1]I'm not interested in that. Weren't you 
+taught to read the mood?
+[->]I'm being chased by the wind.
+[->][END]
+266: [71 1][13 10, 0]Hehe... We meet again! I said we'd 
+meet again if you're lucky, remember?
+[->][END]
+267: [71 1]Ummm, errr...
+[->][13 10, 0]You have a lot of ”Luck”! This is fate!
+[->][END]
+268: [71 1]Um, er...
+[->][13 10, 1]You have low ”Luck”. Wrong human, 
+wrong demon!
+[->][END]
+269: 〉 The demon leaves...
+[->][END]
+271: [71 1][13 10, 10]You don't understand what I'm saying?
+Hm?
+[->][END]
+272: ”I don't understand.”
+”Can humans understand?”
+[->][END]
+273: [71 1]LIKE I SAID. I don't know. 
+You're not very smart, huh...
+[->]Moles dig the ground, but they're still
+on the ground. Meh, whatever...
+[->][END]
+274: [71 1][13 10, 10]I don't know. As long as it's fun!
+[->]Life is but a pizzicato. The unexpected
+frontal attack, that's the key.
+[->][END]
+276: [71 1][13 10, 0]Huh? You know? You're pretty good. 
+For a human.
+[->][END]
+277: ”Huh?”
+”What do you not know?”
+[->][END]
+278: Blank Line
+[->][END]
+279: [71 1]I don't know what I don't know. 
+Like about rabbits or turtles on the moon?
+[->]Learning stuff is boring.
+[->][END]
+281: [71 1]Why are you surprised? You're smart, 
+aren't you?
+[->][END]
+282: ”That's right.”
+”I'm not.”
+[->][END]
+283: [71 1]Hmmm, you're incredible, huh? 
+The boring know−it−all type.
+[->][END]
+284: [71 1]Hmmm, you're actually honest, huh?
+[->]Punchy puuuuunch!
+[->][END]
+286: [71 1][13 10, 10]...Huh? Did something just pass by?
+[->][END]
+287: Say it was you
+Look around
+[->][END]
+288: [71 1]Oh, a human. I thought it was a 
+polka−dot shrew.
+[->]I'll become your ally... Just let me 
+dream a little more.
+[->][END]
+289: [71 1]Hey, that was you who passed by, huh!? 
+I know the truth!
+[->]What a jerk, ignoring me! I'll ignore you!
+[->][END]
+291: [71 1][13 10, 10]Hrmmm... Zzzzzz...
+[->][END]
+292: Raise your voice
+Punch him
+Give up and leave
+[->][END]
+293: [71 1]Still around, bug!?
+[->][END]
+294: 〉 [Flynn] punches the demon.
+[->][END]
+295: [71 1][13 10, 0]Ooh, that was a nice massage!
+[->]Here's your tip.
+[->][END]
+296: [71 1]Murderous intent!
+[->][END]
+297: 〉 The demon attacked!
+[->][END]
+299: [71 1][13 10, 0]Whoa, you scared me! You're good at 
+sneaking.
+[->][END]
+300: ”What were you thinking?”
+”Was I bothering you?”
+[->][END]
+301: [71 1]My dream of a cocoon high above 
+the black sky...
+[->]I want to go there one day. 
+Will you take me?
+[->][END]
+302: [71 1]I forgot what I was thinking about 
+thanks to you. Meh, I'll think about 
+it again.
+[->][END]
+304: [71 1]What're you looking at, human?
+[->][END]
+305: ”I was trying not to bother you.”
+”I was waiting for you to notice.”
+[->][END]
+306: [71 1]Then I'd like it if you went away. 
+You're pretty inconsiderate.
+[->][END]
+307: [71 1]You should just say something, silly. 
+You'll become a striped mole.
+[->]If you want to become my friend, it's easy.
+[->][END]
+309: [71 1][13 10, 0]Oh, human. I was just thinking.
+[->][END]
+310: ”Of what?”
+”How to kill humans?”
+[->][END]
+311: [71 1]Of a bird that's raising an egg on 
+a big tree... Oh, that's a secret!
+[->][END]
+312: [71 1]Exactly.
+[->][END]
+314: [71 1]I'm pretty sure there's lots of stuff, 
+but maybe we're the same. How do you 
+see me?
+[->][END]
+315: ”A scary creature.”
+”A gentle creature.”
+[->][END]
+316: [71 1]Demons are scared when humans are scared. 
+You're a boring dummy.
+[->][END]
+317: Blank Line
+[->][END]
+319: [71 1][13 10, 0]Hehe... You see me like that? 
+Do you think demons like humans?
+[->][END]
+320: ”They hate humans.”
+”They like humans.”
+[->][END]
+321: [71 1]Hmmm, I don't really hate them. 
+Humans and demons are the same, 
+after all.
+[->]*snicker*
+[->][END]
+322: [71 1]Humans and demons are like... 
+playing tag on top of a ball.
+[->]If you get caught, it's the good−bye 
+of the hello.
+[->][END]
+324: [71 1][13 10, 0]Do you remember the hello of the 
+good−bye on top of a ball?
+[->][END]
+325: [71 1]Punchy, and I'm an ally.
+Punchy, punchy, boom!
+[->][END]
+327: [71 1][13 10, 10]Gender and age? What's that? 
+Humans are funny.
+[->][END]
+328: ”That's normal.”
+”Your face is funny.”
+[->][END]
+329: [71 1][13 10, 10]Hmm, humans' normal is funny. 
+There's nothing like that with demons' 
+normal.
+[->][END]
+330: [71 1][13 10, 10]Humans like to decide things for others.
+Me? I just like fun stuff.
+[->]How about you play with me?
+[->][END]
+332: [71 1][13 10, 10]Hmm, creepy, huh? What's the same 
+and different?
+[->][END]
+333: ”You and me are the same.”
+”You and your buddies are different.”
+[->][END]
+334: [71 1]Oooh, you're smart. The world's so big,
+and I have one grain of sand.
+[->]You look fun, so I'll go with you.
+[->][END]
+335: [71 1]Hmmm. I know, but I don't know. 
+Then, it's all the same.
+[->]Alright, I'll go ask someone!
+[->][END]
+337: [71 1]Do you know what I don't?
+[->][END]
+338: ”There really is no reason.”
+”The sky is just black.”
+[->][END]
+339: [71 1]I bet you're an idiot, huh?
+There's a reason for everything.
+[->]Are all humans idiots?
+[->][END]
+340: [71 1]Humans only have two eyes, so they 
+can't see everything, huh?
+[->]Deciding things one way and it's 
+stuck there!
+[->][END]
+342: [71 1]A giant black island swallowed the sky.
+[->][END]
+343: ”Stop lying.”
+”Where is that island?”
+[->][END]
+344: [71 1]Hmmm, so you are kinda smart. 
+But it's not a lie, either.
+[->]People just see what they want. 
+No one knows the truth.
+[->][END]
+345: [71 1]Of course that doesn't exist! 
+It's what I dreamt about last night.
+[->]But it's true the dream world shows you 
+just a little bit of the truth.
+[->]Wanna look for it together?
+[->][END]
+347: [71 1][13 10, 0]A giant black frog must be puffing 
+his belly waaaaay up.
+[->][END]
+348: ”Really?”
+”Don't exaggerate.”
+[->][END]
+349: [71 1][13 10, 10]The hell if I know. But it might 
+actually be true.
+[->]If you want to learn more secrets 
+about the world, gimme something.
+[->][END]
+350: [71 1]What a rude human. Then I won't tell you anything.
+[->][END]
+352: [71 1]Or maybe it's a ghost. It DOES speak...
+[->][END]
+353: Explain you're a human
+Scorn him for mistaking you
+[->][END]
+354: [71 1]Oh, you're a human? You're the first
+one I've ever seen.
+[->]Can I play around with you some?
+[->][END]
+355: [71 1][13 10, 10]That's odd... I know a lot of creatures.
+[->]Human, human, human... 
+Alright, I'll remember it, now.
+[->][END]
+357: [71 1][13 10, 0]Ooh, a human! This is the first time 
+I've seen a talking one.
+[->][END]
+358: ”All humans talk.”
+”What are you mistaking me for.”
+[->][END]
+359: [71 1]What, for reals!? That's pretty cool.
+[->]All demons talk, too. I'll become your friend.
+[->]*snicker*
+[->][END]
+360: [71 1]Huh? That so? What did I mistake you for?
+[->]I should try talking with ants, too. 
+There may be a new type.
+[->]Hehe...
+[->][END]
+362: [71 1][13 10, 1]I mean, it's a human. This is the 
+first time I've seen one!
+[->][END]
+363: ”Are we that rare?”
+”Humans aren't that low.”
+[->][END]
+364: [71 1]Wouldn't you be surprised to run 
+into something for the first time?
+[->]It'd be like seeing the sun, moon, 
+and stars all at the same time.
+[->][END]
+365: [71 1]Like flowers, demons are low in numbers, too.
+[->][13 10, 0]Let's grow some, baby.
+[->][END]
+367: [71 1][13 10, 0]Oooh, negotiations! If I help you, 
+will I get stronger?
+[->][END]
+368: ”You'll get stronger.”
+”You'll become fusion materials.”
+[->][END]
+369: [71 1][13 10, 10]What're you doing to become stronger?
+[->]I'm cool enough as it is. But if we're 
+talking about becoming a hero, that's a 
+different story.
+[->]It's a tough decision.
+[->][END]
+370: [71 1]Whaaa!? I'm fusion material!? 
+What're you gonna do to me!
+[->]I'm getting scared just thinking about it.
+[->]I can't wait!
+[->][END]
+372: [71 1][13 10, 0]What do Hunters do? Hunt demons?
+[->][END]
+373: ”Hunt demons.”
+”Scout demons.”
+[->][END]
+374: [71 1]Oooh! You kill demons! That's pretty cool, 
+being able to kill demons!
+[->][END]
+375: [71 1]I got it, now! That's how you make 
+more demons.
+[->]The world is full of demons thanks 
+to humans!
+[->][END]
+377: [71 1]It's way short compared to demons. 
+I've seen that planet be born.
+[->][END]
+378: ”That planet?”
+”You're exaggerating.”
+[->][END]
+379: [71 1]Whoops! That's a secret. The alien's 
+trying to kill me!
+[->][END]
+380: [71 1]You think I'm lying, huh!? I'm just 
+not telling the truth!
+[->]Listen, real truth is... 
+Oh, that'll be extra.
+[->][END]
+382: [71 1][13 10, 0]Hmmm, humans are actually pretty smart.
+Do you think that demons like flowers?
+[->][END]
+383: ”I do.”
+”I don't.”
+”Do you?”
+[->][END]
+384: [71 1]Your head is blooming. 
+It's about time to pluck.
+[->][END]
+385: [71 1]I'm hurt.
+[->][END]
+386: [71 1]I have flowers I like and don't like. 
+Friendly ones and unfriendly ones.
+[->]Which are you?
+[->][END]
+388: [71 1]Human life countdown. Ooone, twooo...
+[->][END]
+389: ”Don't pluck me.”
+”Guess I'll have to fight.”
+[->][END]
+390: [71 1]Hehe... That makes me want to do it more.
+[->]If you give me something, I might 
+be able to stop.
+[->][END]
+391: [71 1]What? That's such a pain. 
+Fighting makes me hungry.
+[->][END]
+393: [71 1][13 10, 0]Good answer! Alright, where we heading?
+[->][END]
+394: ”I haven't decided yet.”
+”Somewhere fun.”
+”It's going to be a boring trip.”
+[->][END]
+395: [71 1]A journey's like a maze.
+[->]You know where you're goin' when you
+get there. I can't wait. Hehe!
+[->][END]
+396: [71 1]The only fun place is in my dreams.
+[->][END]
+397: [71 1]Boring? Bring it! Oh, but, well... 
+Boring, huh...
+[->]Maybe I'll go ask my grandpappy.
+[->][END]
+399: [71 1][13 10, 0]You and I really hit it off. 
+Just like the sun being round.
+[->][END]
+400: ”Thank you.”
+”That's too bad.”
+[->][END]
+401: [71 1]Hehe. I'm sure we can do something 
+even funner together! I think...
+[->][END]
+402: [71 1][13 10, 10]It's more relaxing to have a reason. 
+You know why?
+[->]Because humans' futures are in the dark!
+[->][END]
+404: [71 1][13 10, 0]Whoa! How'd you know?
+[->][END]
+405: ”Is it evil?”
+”Is it fun.”
+[->][END]
+406: [71 1][13 10, 10]An evil plan? Hmmmm, I guess it is.
+[->]Hehe. It's a secret world's secret.
+[->][END]
+407: [71 1]Hehe. You found me out. 
+Don't be shocked by this!
+[->][END]
+409: [71 1][13 10, 0]Oooh! The human took a stance. 
+Plus there's no room to get near!
+[->][END]
+410: ”Now, come on!”
+”Let's have a truce.”
+[->][END]
+411: [71 1]You sure have a stubborn head, for a kid.
+[->]Scary monsters will come your way like that.
+[->]I think you should think more.
+[->][END]
+412: [71 1]Oh!? You got scared!? Alrighty then, 
+I'll get you with my words!
+[->][END]
+414: [71 1][13 10, 1]Hehe... Me, with you? Like I can hunt 
+with a human.
+[->][END]
+415: ”You never know.”
+”Maybe you're right.”
+[->][END]
+416: [71 1]Hmmm, you say some pretty good things. 
+Alright, let's do it!
+[->][END]
+417: [71 1]Right? Right? Then, I'll start the hunt!
+[->][END]
+419: [71 1][13 10, 1]Hmmm, you're pretty arrogant. 
+That's annoying.
+[->][END]
+420: ”Sorry, please tell me.”
+”Then forget it.”
+[->][END]
+421: [71 1]Even if they're not listening, they'll
+still hear you. Then what?
+[->][END]
+422: [71 1]Hmm, you seem like the serious type! 
+Relax some!
+[->]Sorry to poke fun at you. 
+I'll give you this.
+[->][END]
+424: [71 1][13 10, 0]It's a revolutionary thing. Wanna hear it?
+[->][END]
+425: ”I do.”
+”I don't.”
+[->][END]
+426: [71 1]Huh, really? Talking with a human... 
+I'm getting nervous.
+[->]It's bad on my heart, so I'm going home.
+[->][END]
+427: [71 1][13 10, 10]Hehe... Well, you ARE a human. 
+You're missing a rib, so it can't be helped.
+[->]In place of ribs, I'll talk with you.
+[->][END]
+429: [71 1][13 10, 1]Humans say nothing but lies. 
+It's all Greek to me.
+[->][END]
+430: ”They're not lies.”
+”No fair talking by yourself.”
+[->][END]
+431: [71 1]Hmmm, oh well then. I'll hear you out 
+on Jupiter.
+[->][END]
+432: [71 1]God was tired of making the world and 
+half−assed humans in the end.
+[->]Who's God, you ask? Er, who was it?
+[->][END]
+434: [71 1]Reserved
+[->][END]
+435: Reserved
+[->][END]
+436: Reserved
+[->][END]
+437: Reserved
+[->][END]
+438: [71 1]Reserved
+[->][END]
+439: Reserved
+[->][END]
+440: [71 1]Reserved
+[->][END]
+441: Reserved
+[->][END]
+442: [71 1]Reserved
+[->][END]
+443: Reserved
+[->][END]
+444: [71 1]Reserved
+[->][END]
+445: Reserved
+[->][END]
+446: [71 1]Reserved
+[->][END]
+447: Reserved
+[->][END]
+448: [71 1]Reserved
+[->][END]
+449: Reserved
+[->][END]
+450: [71 1]Reserved
+[->][END]
+451: Reserved
+[->][END]
+452: [71 1]Reserved
+[->][END]
+453: Reserved
+[->][END]
+454: [71 1]Reserved
+[->][END]

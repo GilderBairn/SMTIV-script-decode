@@ -1,0 +1,7 @@
+0: I've created a realm you can use to level up quickly.
+Need to toughen you up, since you're my Godslayer.
+Gain experience there for as long as you want, then
+just step through the exit to return to Tokyo.
+[END]
+1: Download Quest 1 again.
+[END]

@@ -1,0 +1,184 @@
+0: Dummy Message
+[END]
+1: [71 1]No more words. Offer your souls to
+Lord Maitreya.
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]You plead for Macca at a time like this?
+What ails you?
+[END]
+19: [71 1]Hmph, I no longer need Macca. I am
+glad to be rid of it!
+[->][END]
+20: [71 1]You are a slave to wealth and greed...
+I must deliver Maitreya's teachings
+with my fists!
+[->][END]
+21: [71 1]Gah! It took me ages to save all that!
+[->][END]
+22: [71 1]Have you no shame, moneygrubber!?
+[->][END]
+23: [71 1]I have freed myself of trivial needs.
+There will be no place for Macca in 
+our new world.
+[->]It weighs too heavily upon the soul...
+That is why I will rid you of your own
+Macca!
+[->][END]
+24: [71 1]Guh, can't... move. What are you−−stop!
+Get away!
+[->][END]
+25: [71 1]You want to exchange items? Hmph.
+Perhaps if you can fulfill my requests.
+[->][END]
+26: [71 1]The deal is done. Now, will you offer
+your soul without further interruption?
+[->][END]
+27: [71 1]Such things no longer matter. If you
+truly want it, have it.
+[->][END]
+28: [71 1]Why not have this, too. Once we achieve
+salvation, there will be no need for it.
+[->][END]
+29: [71 1]There are more souls to save...
+Let us end this now.
+[->][Amount 1] Macca. Can you pay that?
+[->][END]
+30: [71 1]Hand over [Item 1] x[Amount 1].
+[->][END]
+31: [71 1]Hand over [Amount 1] Macca.
+[->][END]
+32: [71 1]Hand over a meager portion of your life.
+[->][END]
+33: [71 1]I will take some of your life.
+[->][END]
+34: [71 1]I will take a lot of your life.
+[->][END]
+35: [71 1]Give me enough of your life to die.
+[->][END]
+36: [71 1]Hand over a meager portion of your spirit.
+[->][END]
+37: [71 1]I will take some of your spirit.
+[->][END]
+38: [71 1]I will take a lot of your spirit.
+[->][END]
+39: [71 1]Give me enough of your spirit to die.
+[->][END]
+40: [71 1]Allow me to kill your ally, [Demon name 2]...
+[->][END]
+41: [71 1]Give me that.
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Do you know what I want?
+[->][END]
+44: [71 1]Hmm... You did well. You're pretty sharp.
+[->][END]
+45: [71 1]Hmph, it seems you do not understand me... 
+And by extension, Lord Maitreya's beliefs.
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]Hmph, not bad...
+[->][END]
+56: [71 1]You refuse me? You have guts.
+[->][END]
+57: [71 1]You asked to have a deal. 
+Why now do you refuse?
+[->][END]
+58: [71 1]Never mind... I can't play along with 
+your farce.
+[->][END]
+59: [71 1]Hmph, so you WERE trying to trick me. 
+Such a blatant lie, you fool...
+[->][END]
+60: [71 1]It seems you don't have what I requested... 
+*sigh*
+[->][END]
+61: [71 1]You do not even have a Life Stone? 
+Pitiful, but I will spare you no
+sympathy.
+[->][END]
+62: [71 1]Such strong will, to deny anything
+that falls short of your wishes....
+[->]Very well. I will agree−−if only out of
+respect for your iron will.
+[->][END]
+63: [71 1]Anyone else would bow to your every whim...
+[->]But not me... I see through you.
+I sense your ulterior motives, and
+I do not care for any of it!
+[->][END]
+64: [71 1]How unexpected. Your piritiful situation
+actually moves me...
+[->]I am not without my benevolence. I shall
+give you something of mine, then.
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]You've said as much already... 
+Do you already suffer senility?
+[->][END]
+71: [71 1]Not Used
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

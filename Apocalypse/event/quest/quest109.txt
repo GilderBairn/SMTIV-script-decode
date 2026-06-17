@@ -1,0 +1,22 @@
+0: I'm trying to get back into smelting, to help make
+weapons, but I need some instruction. I don't have
+the time to just figure it out on my own, so I need
+to find anyone willing to teach me−−even a demon! 
+That's where you come in.
+Word is [Color:0x5][Demon name 1][Color:0x0] are experts at smithing.
+Could you bring one to help teach me?
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Thanks a bunch! Ippon−Datara's a handful, but once
+he's got a hammer in his hand, that boy gets busy
+somethin' fierce. And yeah, I know, it's not the
+smartest idea, using demons, but hey−−whatever works 
+in a pinch!
+[END]

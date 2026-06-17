@@ -1,0 +1,20 @@
+0: Hi. Betty again. Got another Association record for
+you to smash. Let's see if you can [Color:0x5]do 900,000 total 
+damage[Color:0x0]. Might be impossible, but this is the last 
+test I've got! Can't wait to hear how you do!
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: You've broken the Association record! Congrats! 
+The records that you've made will serve as an 
+inspiration for those who come after you in the 
+battle against the demons. You're my... No, the 
+Association's pride and joy. Isn't it strange? 
+I'm going to miss hearing from you.
+[END]

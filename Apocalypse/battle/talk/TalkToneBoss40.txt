@@ -1,0 +1,172 @@
+0: Dummy Message
+[END]
+1: [71 1]Hmph... No good, kid.
+[->]There's nothing left for us to say.
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]You bastard... You're mocking me.
+[->]Hmph... I'm disappointed in you,
+kid.
+[->][END]
+19: [71 1]Not Used
+[->][END]
+20: [71 1]Not Used
+[->][END]
+21: [71 1]Not Used
+[->][END]
+22: [71 1]Not Used
+[->][END]
+23: [71 1]Not Used
+[->][END]
+24: [71 1]Not Used
+[->][END]
+25: [71 1]A trade... Fine.
+But can you pay the price?
+[->][END]
+26: [71 1]Hmph... This little chat is done.
+[->][END]
+27: [71 1]Not Used
+[->][END]
+28: [71 1]I might as well give you this, too.
+[->][END]
+29: [71 1][Flynn], let's settle this now.
+[->][Amount 1] Macca.
+I'll go with that.
+[->][END]
+30: [71 1]Hand over [Item 1] x[Amount 1].
+[->][END]
+31: [71 1]Hand over [Amount 1] Macca.
+[->][END]
+32: [71 1]I'll take a little of your life.
+[->][END]
+33: [71 1]I'll take some of your life.
+[->][END]
+34: [71 1]I'll take a lot of your life.
+[->][END]
+35: [71 1]I'll take most of your life.
+[->][END]
+36: [71 1]I'll take a little of your spirit.
+[->][END]
+37: [71 1]I'll take some of your spirit.
+[->][END]
+38: [71 1]I'll take a lot of your spirit.
+[->][END]
+39: [71 1]I'll take most of your spirit.
+[->][END]
+40: [71 1]Give me [Demon name 2]'s life.
+[->][END]
+41: [71 1]Give me that.
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Guess what I'm looking for...
+[->][END]
+44: [71 1]That's right... I commend you for
+that, kid.
+[->][END]
+45: [71 1]No... As I thought, kid. You don't
+understand.
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]This will do.
+[->][END]
+56: [71 1]Hmph, you reject my demand...?
+[->][END]
+57: [71 1]Rejecting all of my demands...
+Hmph... So that's your answer.
+[->][END]
+58: [71 1]Forget it... The deal is over.
+[->]I expect nothing from you...
+[->][END]
+59: [71 1]Did you think you can fool me...?
+Don't mess with me, kid...
+[->][END]
+60: [71 1]Ha, it seems you can't fulfill my
+demands.
+[->][END]
+61: [71 1]Ha, you don't even have a Life
+Stone...?
+[->][END]
+62: [71 1]Rejecting all of my demands...
+Hahaha... Amusing.
+[->][END]
+63: [71 1]Hmph... As I thought, you still
+depend too much on others.
+[->]Your continuous compliance is
+proof of that. You make me sick.
+[->][END]
+64: [71 1]Ha, you have nothing? I'm surprised
+you had the nerve to start
+negotiating.
+[->]Very well. The least I can do for
+you. [Flynn], take this.
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]Hmph... Don't you have anything
+of substance to say?
+[->][END]
+71: [71 1]Not Used
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

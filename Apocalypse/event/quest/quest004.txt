@@ -1,0 +1,8 @@
+0: Emergency:
+We've received word that the angels have captured 
+one of our own. Go to the [Color:0x5]Sky Tower[Color:0x0] immediately 
+and [Color:0x5]rescue your fellow Hunter[Color:0x0]. As we prepare to 
+assist Flynn in his fight against the angels and demons, 
+we cannot afford to lose an ally. This mission is of 
+the highest priority.
+[END]

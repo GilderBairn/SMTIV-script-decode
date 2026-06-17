@@ -1,0 +1,24 @@
+0: [71 1]Order is restored to one more world... 
+[->][END]
+1: [71 1]Numerous Samurai opened their eyes
+to the miracles I brought... 
+[->][END]
+2: [71 1]The world looks forward to peace.
+What land will call to me next... 
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]This item was left after the purge...
+You shall take it in your hands.
+[->][END]
+7: [71 1]The items are shared and handed across 
+places... Know that this is a gift from 
+another world. 
+[->][END]
+8: [71 1]I saw order in this item.
+Thus, it is a gift to thee... 
+[->][END]

@@ -1,0 +1,17 @@
+0: I've prepared training exercise for you. The goal is 
+to [Color:0x5]defeat the enemy using as much firepower as 
+possible[Color:0x0] within the turn limit. You'll need to use 
+everything you've learned as a Godslayer.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Just as I thought. No, this exceeds my expectations. 
+I was right to choose you.
+Don't forget... I'm watching the decisions you make.
+[END]

@@ -1,0 +1,181 @@
+0: Dummy Message
+[END]
+1: [71 1]Allying one's self with a human...
+What a pitiful idea...
+[->]I will not allow a human to
+conquer demons.
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]What are you...!?
+[->][END]
+19: [71 1]I underestimated the greed of
+humans...!
+[->][END]
+20: [71 1]Hold on to that money!
+[->]Do you know how it feels to be rich?
+[->]Then die in the comfort of that
+knowledge!
+[->][END]
+21: [71 1]Gwah! Stop that!
+[END]
+22: [71 1]Y−You...! Now is your chance to
+stop...!
+[->][END]
+23: [71 1]Grrraaaaaah! It ends here!
+[->][END]
+24: [71 1]Urgh...! You steal my freedom,
+and plan to steal more...!
+[->][END]
+25: [71 1]You want to talk business...?
+Very well, so long as you know the
+price.
+[->][END]
+26: [71 1]That's a deal. Take this item.
+[->][END]
+27: [71 1]My treasure!? Mwahahaha! I'll give
+you it!
+[->]What kind of demons holds back!?
+Take it!
+[->][END]
+28: [71 1]...I'll give you this as well.
+I have no need for it.
+[->][END]
+29: [71 1]...I don't want to waste time.
+[->][Color:0x1][Amount 1] Macca[Color:0x0].
+Is it worth it for you?
+[->][END]
+30: [71 1]I'll take [Color:0x1][Item 1][Color:0x0] x[Color:0x1][Amount 1][Color:0x0].
+[->][END]
+31: [71 1]I'll take [Color:0x1][Amount 1] Macca[Color:0x0].
+[->][END]
+32: [71 1]I'll take [Color:0x1]a little[Color:0x0] of your [Color:0x1]life[Color:0x0].
+[->][END]
+33: [71 1]I'll take [Color:0x1]some[Color:0x0] of your [Color:0x1]life[Color:0x0].
+[->][END]
+34: [71 1]I'll take [Color:0x1]a lot[Color:0x0] of your [Color:0x1]life[Color:0x0].
+[->][END]
+35: [71 1]I'll take [Color:0x1]a terrifying amount[Color:0x0]
+of your [Color:0x1]life[Color:0x0].
+[->][END]
+36: [71 1]I'll take [Color:0x1]a little[Color:0x0] of your
+[Color:0x1]spirit[Color:0x0].
+[->][END]
+37: [71 1]I'll take [Color:0x1]some[Color:0x0] of your
+[Color:0x1]spirit[Color:0x0].
+[->][END]
+38: [71 1]I'll take [Color:0x1]a lot[Color:0x0] of your
+[Color:0x1]spirit[Color:0x0].
+[->][END]
+39: [71 1]I'll take [Color:0x1]a terrifying amount[Color:0x0]
+of your [Color:0x1]spirit[Color:0x0].
+[->][END]
+40: [71 1]Your ally... I'll take
+[Color:0x1][Demon name 2]'s life[Color:0x0].
+[->][END]
+41: [71 1]That... Yes... I'll take that...
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]You choose.
+[->][END]
+44: [71 1]...Hrm, I'll take it.
+[->][END]
+45: [71 1]...That's not it, fool.
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]うむ これくらいで良かろう
+[->][END]
+56: [71 1]Ho−ho, so that's your answer...?
+[->][END]
+57: [71 1]You have it, but won't give it to
+me?
+[->]I see. So that's your answer...
+[->][END]
+58: [71 1]Alright then. That's enough of this.
+[->][END]
+59: [71 1]You tried to cheat me.
+[->]I see... So that is your answer...
+[->][END]
+60: [71 1]...I see, so you don't have it.
+[->][END]
+61: [71 1]Reserved
+[->][END]
+62: [71 1]You're stubborn...
+[->]I like that. I am satisfied...
+[->][END]
+63: [71 1]You only do as you are told!
+[->]Begone, fool!
+[->][END]
+64: [71 1]Even I, a demon, pity you...
+[->]That is enough. I'll let you have
+this.
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]That again? Don't bore me...
+[->][END]
+71: [71 1]...
+[->]Oh well...
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

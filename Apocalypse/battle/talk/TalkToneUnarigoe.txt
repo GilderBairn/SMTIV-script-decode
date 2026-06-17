@@ -1,0 +1,362 @@
+0: Dummy Message
+[END]
+1: 〉 The demon has no intention of talking!
+[->][END]
+2: 〉 It seems the demon is annoyed at
+being attacked first...
+[->][END]
+3: 〉 The demon looks like it wants to say
+something...
+[->][END]
+4: [71 1]alLY.
+[->][END]
+5: [71 1]GiMmE.
+[->][END]
+6: 〉 The demon growled sadly and left...
+[->][END]
+7: 〉 The demon's voice echoed directly in
+your head...
+[->]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Nice to meet you.
+[->][END]
+8: 〉 The demon growled sadly and left...
+[->][END]
+9: [71 1]〉 The demon left cheerfully...
+[->][END]
+10: 〉 The demon is trying to get another
+demon to come along.
+[->][END]
+11: 〉 The demon is disappointed.
+[->][END]
+12: [71 1]AKeeaKyEaAkeYEaKkAyaEE...!
+[->][END]
+13: [71 1]GggGGGGggggGGggggG...
+[->][END]
+14: [71 1]AaAaAAAAAaAaaaaaAaAA...
+[->][END]
+15: 〉 The demon is trying to introduce you
+to another demon.
+[->][END]
+16: [71 1]AKeeaKyEaAkeYEaKkAyaEE...!
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: 〉 The demon is spacing out...
+[->][END]
+19: [71 1]AaAaAAAAAaAaaaaaAaAA...
+[->][END]
+20: [71 1]sMeLL oF hUmAn sKIN gOod.
+[->][END]
+21: [71 1]cOLD! COld!
+[->][END]
+22: [71 1]HOt! hOT!
+[->][END]
+23: [71 1]pAIn! PAiN!
+[->][END]
+24: [71 1]GggGGGGggggGGggggG...
+[->][END]
+25: 〉 The demon looks like it wants to say
+something...
+[->][END]
+26: [71 1]THis.
+[->][END]
+27: [71 1]AKeeaKyEaAkeYEaKkAyaEE...!
+[->][END]
+28: [71 1]AKeeaKyEaAkeYEaKkAyaEE...!
+[->][END]
+29: [71 1][Amount 1] MaCcA. NOw...
+[->][END]
+30: [71 1][Item 1] x[Amount 1]...
+[->][END]
+31: [71 1][Amount 1] maCCa...
+[->][END]
+32: [71 1]HP the...
+[->][END]
+33: [71 1]HP walk...
+[->][END]
+34: [71 1]HP ing...
+[->][END]
+35: [71 1]HP dead...
+[->][END]
+36: [71 1]MP the...
+[->][END]
+37: [71 1]MP walk...
+[->][END]
+38: [71 1]MP ing...
+[->][END]
+39: [71 1]MP dead...
+[->][END]
+40: 〉 The demon is asking for [Demon name 2]'s
+life.
+[->][END]
+41: [71 1]ThAt...
+[->][END]
+42: 〉 The demon is asking for your [7e]'s
+HP.
+[->][END]
+43: [71 1]WhiCH?
+[->][END]
+44: [71 1]AKeeaKyEaAkeYEaKkAyaEE...!
+[->][END]
+45: [71 1]...
+[->][END]
+46: [71 1]YEs?
+[->][END]
+47: ”Sure.”
+”No.”
+[->][END]
+48: [71 1]AKeeaKyEaAkeYEaKkAyaEE...!
+[->][END]
+49: 〉 The demon cheered up [Flynn]'s
+party for some reason!
+[->][END]
+50: 〉 The demon really cheered up [Flynn]'s
+party for some reason!
+[->][END]
+51: [71 1]GggGGGGggggGGggggG...
+[->][END]
+52: 〉 The demon's despair gnawed at
+[Flynn]'s heart!
+[->][END]
+53: 〉 The demon's despair gnawed intensely
+at [Flynn]'s heart!
+[->][END]
+54: [71 1]BrAIn...
+[->][END]
+55: [71 1]AKeeaKyEaAkeYEaKkAyaEE...!
+[->][END]
+56: [71 1]...
+[->][END]
+57: [71 1]...
+[->]HumAN fLeSh iS sOFT aND taSTY.
+[->][END]
+58: [71 1]...
+[->][END]
+59: [71 1]...
+[->]HuMAN boNe iS jUIcY.
+[->][END]
+60: [71 1]...
+[->][END]
+61: [71 1]...
+[->][END]
+62: [71 1]AKeeaKyEaAkeYEaKkAyaEE...!
+[->][END]
+63: [71 1]...
+[->][END]
+64: [71 1]AKeeaKyEaAkeYEaKkAyaEE...!
+[->][END]
+65: [71 1]FaREweLl.
+[->][END]
+66: [71 1][Flynn]...
+[->]AKeeaKyEaAkeYEaKkAyaEE...!
+[->][END]
+67: [71 1]HAppy.
+[->][END]
+68: [71 1]MAcCa.
+[->][END]
+69: [71 1]tHIs.
+[->][END]
+70: [71 1]...
+[->][END]
+71: 〉 The demon is looking this way...
+[->]The demon happily runs to [Flynn]!
+[->][END]
+72: [71 1]...I'M tiREd oF dyINg...
+[->][END]
+73: 〉 The demon growled happily.
+[->][END]
+74: [71 1]I WanT To bEComE hUMan...
+[->][END]
+101: 〉 The demon is on guard... What will
+you do?
+[->][END]
+102: Lower your weapon
+Put up your guard
+[->][END]
+103: [71 1]HumAN fLeSh iS sOFT aND taSTY.
+[->][END]
+104: Blank Line
+[->][END]
+105: [71 1]cOLD! COld!
+[->][END]
+106: [71 1]tHis.
+[->][END]
+108: 〉 The demon is approaching you...
+What will you do?
+[->][END]
+109: Step aside
+Raise your weapon
+Don't move
+[->][END]
+110: 〉 [Flynn] dodges the demon!
+[->][END]
+111: 〉 The demon is looking at [Flynn]
+sadly...
+[->][END]
+112: 〉 The demon catches up...
+[->][END]
+113: [71 1]GggGGGGggggGGggggG...
+[->][END]
+114: [71 1]I'M tiREd oF dyINg...
+[->][END]
+115: [71 1]HOt! hOT!
+[->][END]
+116: [71 1]BrAIn...
+[->][END]
+118: 〉 The demon is beckoning you...
+What will you do?
+[->][END]
+119: Go near
+Beckon back
+Raise your weapon
+[->][END]
+120: [71 1]huMan blOOD IS smOotH aND tASty.
+[->][END]
+121: 〉 The demon presented you with
+something...
+[->][END]
+122: [71 1]AaAaAAAAAaAaaaaaAaAA...
+[->][END]
+123: [71 1]AKeeaKyEaAkeYEaKkAyaEE...!
+[->][END]
+124: [71 1]...
+[->][END]
+125: [71 1]I WanT To bEComE hUMan...
+[->][END]
+126: [71 1]AaAaAAAAAaAaaaaaAaAA...
+[->][END]
+128: 〉 The demon is trying to leave...
+What will you do?
+[->][END]
+129: Stop it
+Ignore it
+Raise your weapon
+[->][END]
+130: [71 1]HuMAN boNe iS jUIcY.
+[->][END]
+131: [71 1]pAIn! PAiN!
+[->][END]
+132: [71 1]AaAaAAAAAaAaaaaaAaAA...
+[->][END]
+133: [71 1]...
+[->][END]
+134: 〉 The demon hands over a letter...
+[->]〉 It says, ”NeXT tIMe wE MEet, mAKe me
+yoUR aLLy.”
+[->][END]
+135: [71 1]ScaRyyYyyyYYy! SCArYyYYyYYYY!
+[->][END]
+137: 〉 The demon is spacing out... What will
+you do?
+[->][END]
+138: Say something to it
+Get its attention
+Threaten it
+[->][END]
+139: [71 1]sMeLL oF hUmAn sKIN gOod.
+[->][END]
+140: [71 1]AaAaAAAAAaAaaaaaAaAA...
+[->][END]
+141: Blank Line
+[->][END]
+142: Blank Line
+[->][END]
+143: Blank Line
+[->][END]
+144: [71 1]I WanT To bEComE hUMan...
+[->][END]
+145: 〉 The demon growled sadly and left...
+[->][END]
+147: [71 1][Flynn]...
+[->][END]
+148: [71 1]HuMaN oRgaNs aRe bITtER.
+[->][END]
+149: [71 1]I WanT To bEComE hUMan...
+[->][END]
+150: [71 1]ScaRyyYyyyYYy! SCArYyYYyYYYY!
+[->][END]
+151: 〉 The demon left...
+[->][END]
+153: 〉 The demon is laughing... What will
+you do?
+[->][END]
+154: Laugh with it
+Watch it
+Raise your weapon
+[->][END]
+155: [71 1]AKeeaKyEaAkeYEaKkAyaEE...!
+[->][END]
+156: 〉 The demon attacked suddenly!
+[->][END]
+157: [71 1]AKeeaKyEaAkeYEaKkAyaEE...!
+[->][END]
+158: [71 1]AaAaAAAAAaAaaaaaAaAA...
+[->][END]
+159: [71 1]I'M tiREd oF dyINg...
+[->][END]
+160: 〉 The demon is dazed.
+[->][END]
+162: [71 1][13 10, 0][Flynn]... wE meEt aGaIN?
+[->][END]
+163: Blank Line
+[->][END]
+165: 〉 [Flynn] dances a dance...
+[->][END]
+166: 〉 The demon attacked suddenly!
+[->][END]
+167: [71 1]LoOLeEEeE! looLEEEee!
+[->][END]
+169: 〉 [Flynn] sings a song...
+[->][END]
+170: 〉 The demon attacked suddenly!
+[->][END]
+171: [71 1]LoOLeEEeE! looLEEEee!
+[->][END]
+173: 〉 [Flynn] shows off some Macca...
+[->][END]
+174: 〉 The demon is dazed.
+[->][END]
+175: [71 1]AKeeaKyEaAkeYEaKkAyaEE...!
+[->][END]
+177: [71 1]Reserved
+[->][END]
+178: Reserved
+[->][END]
+179: Reserved
+[->][END]
+180: Reserved
+[->][END]
+181: [71 1]Reserved
+[->][END]
+182: Reserved
+[->][END]
+183: [71 1]Reserved
+[->][END]
+184: Reserved
+[->][END]
+185: [71 1]Reserved
+[->][END]
+186: Reserved
+[->][END]
+187: [71 1]Reserved
+[->][END]
+188: Reserved
+[->][END]
+189: [71 1]Reserved
+[->][END]
+190: Reserved
+[->][END]
+191: [71 1]Reserved
+[->][END]
+192: Reserved
+[->][END]
+193: [71 1]Reserved
+[->][END]
+194: Reserved
+[->][END]
+195: [71 1]Reserved
+[->][END]
+196: Reserved
+[->][END]
+197: [71 1]Reserved
+[->][END]

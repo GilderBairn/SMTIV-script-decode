@@ -1,0 +1,30 @@
+0: To all Hunters:
+Scout Tokyo and [Color:0x5]bring back any edible food[Color:0x0] you come 
+across. The Association will pay extra if you bring 
+more than the specified amount. Your efforts will 
+benefit all the people of Tokyo.
+[END]
+1: ダミー
+[END]
+2: To Cadets [Flynn] and Asahi:
+Nikkari's decided it's time we [Color:0x5]taught you two how to 
+fight[Color:0x0]. Yeah, we know you're just cadets, but we both 
+agree that you should know at least the basics. Well, 
+Nikkari thinks so. Anyhow, try your hand at [Color:0x5]a few 
+fights[Color:0x0]. When you're done, [Color:0x5]report to Nikkari[Color:0x0].
+[END]
+3: I'm sure we've learned enough about battling for now! 
+Let's go find Nikkari. He should be [Color:0x5]waiting by the 
+fountain[Color:0x0].
+[END]
+4: Cadets:
+Your short lesson on combat has concluded. Now we 
+will begin foraging for food as originally planned. 
+Our first step is to [Color:0x5]find an area populated by edible 
+demons[Color:0x0] and gather the [Color:0x5]specified amount of food[Color:0x0] to 
+bring back.
+[END]
+5: The demon Adramelech has killed Nikkari and Manabu.
+Report this to [Color:0x5]Asahi's dad[Color:0x0] at the [Color:0x5]Kinshicho Hunter
+Association[Color:0x0].
+[END]

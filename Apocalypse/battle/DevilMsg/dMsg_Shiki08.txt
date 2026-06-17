@@ -1,0 +1,60 @@
+0: [71 1]This power will bring a new order...
+[->][END]
+1: [71 1]Look at this new skill born from order.
+[->][END]
+2: [71 1]Come here, power of honor...
+[->][END]
+3: [71 1]I cannot carry any more skills...
+Which one will fall from my hands?
+[->][END]
+4: [71 1]I shall envelop [Color:0x5][Skill 1][Color:0x0] with my hand
+and change it to [Color:0x5][Skill 2][Color:0x0]...
+[->][END]
+5: [71 1]Be born once more from order...
+[->][END]
+6: [71 1]I shall purposefully withdraw this hand...
+[->][END]
+7: [71 1](仮)変異選択メッセージ
+[->][END]
+8: [71 1](仮)変異OKメッセージ
+[->][END]
+9: [71 1](仮)変異NGメッセージ
+[->][END]
+10: [71 1](仮)変異完了メッセージ
+[->][END]
+11: [71 1](仮)変異レベル未達メッセージ
+[->][END]
+12: [71 1]Use this [Color:0x5][Item 1][Color:0x0] to bring
+about order.
+[->][END]
+13: [71 1]To reward your devotion, I shall give
+this [Color:0x5][Item 1][Color:0x0] to you.
+[->][END]
+14: [71 1]With this [Color:0x5][Item 1][Color:0x0], I bless
+you.
+[->][END]
+15: [71 1]This voice that echoes from the high
+heavens... Listen to it now.
+[->][END]
+16: [71 1]Did you hear the voice of heavens?
+[->][END]
+17: [71 1]Are you the one who calls for me? The
+child of man who seeks eternal order...
+[->]I am [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Let us start creation from here on...
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

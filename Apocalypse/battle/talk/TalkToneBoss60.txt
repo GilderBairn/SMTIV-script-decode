@@ -1,0 +1,189 @@
+0: Dummy Message
+[END]
+1: [71 1]Aw, naw, baby. We're not going to
+be all lovey−dovey.
+[->]We gotta make some friction!
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]You say you want money...
+but what are you gonna do for it?
+[->][END]
+19: [71 1]I can't believe you got me to give
+it up like that...
+[->][END]
+20: [71 1]You think your weak game will work
+on me!?
+[->][END]
+21: [71 1]Bwaaaaaaaaah!?
+[->][END]
+22: [71 1]L...Let me recover, ya feisty boy...
+[->][END]
+23: [71 1]You don't even care if I get off,
+do you?
+[->][END]
+24: [71 1]Those gleaming eyes...! Y−You
+animal, you!
+[->][END]
+25: [71 1]Ya want my junk? Beggin' like
+that...
+[->]Ooh−hoo! We're in the middle of
+fightin' but I'll chat with ya!
+[->][END]
+26: [71 1]Handle my junk with care, okay sonny?
+[->][END]
+27: [71 1]Beggin' me like that, I got no
+choice but to answer ta you!
+[->][END]
+28: [71 1]I'm pumping out more treasure!!
+[->][END]
+29: [71 1]Well, let's figure out how much
+this is gonna cost you...
+[->][Amount 1] Macca! Show me that
+you're a man!
+[->][END]
+30: [71 1]Could I have [Item 1] x[Amount 1]?
+[->][END]
+31: [71 1][Amount 1] Macca...
+Could ya lend me some?
+[->][END]
+32: [71 1]Could I have an ounce of your life?
+[->][END]
+33: [71 1]Could I have some of your life?
+[->][END]
+34: [71 1]Could I have lots of your life?
+[->][END]
+35: [71 1]Could I have a good squeeze of your
+life?
+[->][END]
+36: [71 1]Could I have an ounce of your
+spirit?
+[->][END]
+37: [71 1]Could I have some of your spirit?
+[->][END]
+38: [71 1]Could I have lots of your spirit?
+[->][END]
+39: [71 1]Could I have a good squeeze of your
+spirit?
+[->][END]
+40: [71 1]How 'bout yer ally...
+[Demon name 2]'s life?
+[->][END]
+41: [71 1]I want yer junk!
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Baby, you know what I want, don't
+you?
+[->][END]
+44: [71 1]That's right, Lusty Boy!
+I believed in ya!
+[->][END]
+45: [71 1]You're making me hang my head in...
+shame...
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]Ooh−hoo! That's the spirit!
+[->][END]
+56: [71 1]What? Oh, well...
+[->][END]
+57: [71 1]You don't know what you're missing
+out on!
+[->][END]
+58: [71 1]Ugh, screw this! Show me what you
+want!
+[->][END]
+59: [71 1]Did you think I couldn't see
+through that lie? I've seen the
+real deal.
+[->]Ooh−hoo... I'm gonna make you pay
+for playing with my heart!
+[->][END]
+60: [71 1]You don't have it? But what if you
+need it when you're ready to go?
+[->][END]
+61: [71 1]You don't have a Life Stone? You
+should always carry protection...
+[->][END]
+62: [71 1]Ohhhhhh... You're playing hard
+to get...
+[->]I'll give you this, so cut it out...
+[->][END]
+63: [71 1]You're a nice Lusty Boy, complying
+with all my needs.
+[->]But who needs the cow when they
+get the milk for free!
+[->][END]
+64: [71 1]Traveling the world stark naked...
+That's what I expect from you,
+Lusty Boy!
+[->]It's been a while since I've seen
+a real man. Here's a gift!
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]Baby, I'm tired of talking...
+[->][END]
+71: [71 1]Not Used
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

@@ -1,0 +1,19 @@
+0: You hae a vistor, [Flynn]! Thee said they want
+[Color:0x5]Yamata−no−Orochi[Color:0x0], but... I have 0 clue y there 
+here. Duder's kinda scary, so hury up!
+[END]
+1: Delivery Quest Description Second Time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: I, Take−Mikazuchi, the god of swords, must thank you
+once more for granting my father, Ame−no−habakiri, 
+his final wish. Long ago, my father killed a child. 
+That is why he wanted to meet his end at the hands 
+of his own son. Honestly... He didn't even stop to 
+think about how I feel at all.
+[END]

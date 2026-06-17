@@ -1,0 +1,23 @@
+0: (Demonic Samurai) We are God's Chosen, and thus superior.
+[->]But soon you shall be the same as us.
+Until then, why don't I entertain you?
+[END]
+1: It's turn [Amount 1] right now! 
+[END]
+2: That means there are [Amount 2] turns left!
+[END]
+100: (Dagda) There are 20 turns left. Hurry, Kid.
+[END]
+101: (Dagda) C'mon, kid−−only 10 turns left.
+[END]
+102: (Dagda) 5 more turns... This is looking grim.
+[END]
+103: (Dagda) Damn. You failed, kid. It's too late, 
+now.
+[->]Everyone in the kingdom is now infected.
+[Color:0x5]Including you[Color:0x0].
+[END]
+104: 〉 Dagda looks at you bitterly.
+[->]〉 As he does, you notice what's 
+happening to your body...
+[END]

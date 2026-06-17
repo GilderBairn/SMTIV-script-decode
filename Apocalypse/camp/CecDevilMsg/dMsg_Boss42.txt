@@ -1,0 +1,23 @@
+0: [71 1]By the will of the Lord, I shall
+destroy the heretics...
+[->][END]
+1: [71 1]I must spread the Lord's word to as
+many Unclean as possible. Come, we
+must depart for the next land.
+[->][END]
+2: [71 1]I am returned!
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]拾イ物ヲ 汝ニ提供シヨウ
+I shall give you all that I have found.
+[->][END]
+7: [71 1]This is a gift for you. Use it wisely.
+[->][END]
+8: [71 1]Here, have this. It is of no use to
+me...
+[->][END]

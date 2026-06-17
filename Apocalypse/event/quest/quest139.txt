@@ -1,0 +1,21 @@
+0: Emergency! The grown−ups in Ikebukuro are going 
+crazy! They're all fighting over supplies. The 
+[Color:0x5]underground district[Color:0x0] of [Color:0x5]Ikebukuro[Color:0x0] is dangerous, 
+especially [Color:0x5]in front of the ticket gates[Color:0x0]. I can't even 
+get close. Ken told me not to contact you, but please 
+help us.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Thanks to you, Ikebukuro is all better! [Color:0x5]The store just 
+got a bunch of items in and they're having a sale[Color:0x0]! 
+Thank you so much. Also, there's one more awesome 
+thing... I saw Ken smile the other day! He's still 
+kind of scary when he smiles, though...
+[END]

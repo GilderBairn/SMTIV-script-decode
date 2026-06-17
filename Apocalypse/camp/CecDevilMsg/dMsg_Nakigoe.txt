@@ -1,0 +1,25 @@
+0: [71 1]Hssss! Hssshsssssss!
+[->][END]
+1: [71 1]Hssshssss! Hsssss!
+[->][END]
+2: [71 1]Grrrr!
+Hssss! Hsss!
+[->][END]
+3: [71 1]Hisss! Hisss!
+Hssshssshssss!
+[->][END]
+4: [71 1]Hssshssshssss!
+Hisss! Hisss!
+[->][END]
+5: [71 1]Hisss! Hsshsss!
+Hisshisss!
+[->][END]
+6: [71 1]Rah rah rah...
+Hrrraaaaaah!
+[->][END]
+7: [71 1]Hrrraaaaaah!
+Rah rah rah...
+[->][END]
+8: [71 1]Rah...!
+Hrarah...! Rahhh!
+[->][END]

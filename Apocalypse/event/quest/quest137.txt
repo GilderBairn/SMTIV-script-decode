@@ -1,0 +1,21 @@
+0: In order to improve and maintain our transport
+routes, we've come up with a plan to lure the demons 
+out of the area. On that note, we request that you 
+bring us [Color:0x5]five red incense balls[Color:0x0], which the demon 
+[Color:0x5]Peri[Color:0x0] is supposed to have. The demon's been sighted 
+[Color:0x5]deep in the Sky Tower[Color:0x0]. We ask for your cooperation 
+in securing the safety of our workers.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Thanks to the cooperation of all of you Hunters,
+we were able to secure the work area. I am sincerely 
+thankful for all your hard work. We will endeavor to 
+maintain the transport route from here on out.
+[END]

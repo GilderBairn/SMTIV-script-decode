@@ -1,0 +1,21 @@
+0: Could you find some red and blue LEDs for me? 
+With 'em, I can whip up some lighting to help grow
+healthy plants in the absence of, y'know, the sun.
+LED lighting's pretty hard to come by these days,
+but there might be a few left in the [Color:0x5]electronic shops[Color:0x0]
+around [Color:0x5]Ueno[Color:0x0].
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Item 4] x[Amount 4]
+[END]
+10: Can't believe you managed to find both... Guess I 
+made the right call, having a Hunter help me out! 
+I know it might not seem like much, but what you've 
+brought me is nothing short of hope. It'll take me 
+a while, but I'll make this work one way or another.
+[END]

@@ -1,0 +1,11 @@
+0: (Soul) So I... died...
+[END]
+1: (Soul) Is this... a near−death experience?
+No... I can't go back...
+[END]
+2: (Soul) Something's compelling me to move 
+beyond here.
+[END]
+3: (Soul) Damn it, they left me behind...
+I'll haunt them! 
+[END]

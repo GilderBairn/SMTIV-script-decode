@@ -1,0 +1,49 @@
+0: [71 1]A new skill. This is also the result of
+sedulous training.
+[->][END]
+1: [71 1]A new skill. This is also the result of
+sedulous training.
+[->][END]
+2: [71 1]A new skill. This is also the result of
+sedulous training.
+[->][END]
+3: [71 1]Dummy
+[->][END]
+4: [71 1]Dummy
+[->][END]
+5: [71 1]Dummy
+[->][END]
+6: [71 1]Dummy
+[->][END]
+7: [71 1]Dummy
+[->][END]
+8: [71 1]Dummy
+[->][END]
+9: [71 1]Dummy
+[->][END]
+10: [71 1]Dummy
+[->][END]
+11: [71 1]Dummy
+[->][END]
+12: [71 1]Dummy
+[->][END]
+13: [71 1]Dummy
+[->][END]
+14: [71 1]Dummy
+[->][END]
+15: [71 1]Dummy
+[->][END]
+16: [71 1]Dummy
+[->][END]
+17: [71 1]Dummy
+[->][END]
+18: [71 1]Dummy
+[->][END]
+19: [71 1]Dummy
+[->][END]
+20: [71 1]Dummy
+[->][END]
+21: [71 1]Dummy
+[->][END]
+22: [71 1]Dummy
+[->][END]

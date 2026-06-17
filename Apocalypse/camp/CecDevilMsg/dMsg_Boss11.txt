@@ -1,0 +1,25 @@
+0: [71 1]My manor has become more lively,
+but I wish to invite more to it.
+[->][END]
+1: [71 1]The feasts of Valhalla are indeed merry.
+Come, entertain me more.
+[->][END]
+2: [71 1]To prepare for the twilight of the 
+gods, I must gather more warriors... 
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]I shall invite you to my manor as 
+an honored guest. Consider this an
+invitation. Please, take it.
+[->][END]
+7: [71 1]I took the trouble to obtain this
+for you. Use it wisely.
+[->][END]
+8: [71 1]I shall give this to thee... Haha.
+No need to be modest.
+[->][END]

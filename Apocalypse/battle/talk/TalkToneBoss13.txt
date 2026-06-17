@@ -1,0 +1,159 @@
+0: Dummy Message
+[END]
+1: [71 1]You desire an ally? Haha...
+I'm sure you do.
+[->]As you humans would say, ”No way, Jose.”
+Give your soul over to the Divine Powers.
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]You ask for money now? How despicable...
+Human, I shall purge your soul!
+[->][END]
+19: [71 1]Tch... My Macca! Nevertheless, 
+the Divine Powers shall prevail!
+[->][END]
+20: [71 1]Not Used
+[->][END]
+21: [71 1]Urrrgh!? No...!
+[->][END]
+22: [71 1]Not Used
+[->][END]
+23: [71 1]Not Used
+[->][END]
+24: [71 1]I cannot move... What are you doing!?
+[->]Robbing one who only wishes to save you?
+[->][END]
+25: [71 1]An item? Hmph, I am here to save you.
+[->]To desire anything more is avaricious.
+[->][END]
+26: [71 1]Not Used
+[->][END]
+27: [71 1]Hahaha... You covet something of mine?
+[->]Once we've brought salvation, you'll
+have no need for it. Here, take it.
+[->][END]
+28: [71 1]You may have this unnecessary trinket, too.
+[->][END]
+29: [71 1]Not Used
+[->][END]
+30: [71 1]Not Used
+[->][END]
+31: [71 1]Not Used
+[->][END]
+32: [71 1]Not Used
+[->][END]
+33: [71 1]Not Used
+[->][END]
+34: [71 1]Not Used
+[->][END]
+35: [71 1]Not Used
+[->][END]
+36: [71 1]Not Used
+[->][END]
+37: [71 1]Not Used
+[->][END]
+38: [71 1]Not Used
+[->][END]
+39: [71 1]Not Used
+[->][END]
+40: [71 1]Not Used
+[->][END]
+41: [71 1]Not Used
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Not Used
+[->][END]
+44: [71 1]Not Used
+[->][END]
+45: [71 1]Not Used
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]Not Used
+[->][END]
+56: [71 1]Not Used
+[->][END]
+57: [71 1]Not Used
+[->][END]
+58: [71 1]Not Used
+[->][END]
+59: [71 1]Not Used
+[->][END]
+60: [71 1]Not Used
+[->][END]
+61: [71 1]Not Used
+[->][END]
+62: [71 1]Not Used
+[->][END]
+63: [71 1]Not Used
+[->][END]
+64: [71 1]Not Used
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]Not Used
+[->][END]
+71: [71 1]Not Used
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

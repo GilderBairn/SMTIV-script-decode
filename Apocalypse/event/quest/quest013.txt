@@ -1,0 +1,11 @@
+0: Hunters:
+The Samurai dispatched by Merkabah have arrived in
+Tokyo. Please meet them in [Color:0x5]Ueno[Color:0x0] and escort them to 
+[Color:0x5]Kasumigaseki[Color:0x0].
+[END]
+1: ダミー
+[END]
+2: Regardless of your feelings about the Crusaders,
+please guide them to the elevator on Sakurada Way
+at [Color:0x5]Kasumigaseki[Color:0x0].
+[END]

@@ -1,0 +1,26 @@
+0: TEST
+[END]
+201: You have been transported to 
+Tir Na Nog.
+[->]〉 Here, you can obtain experience−
+increasing items by defeating demons.
+[END]
+301: 〉 Return to the original world?
+[END]
+302: Yes
+No
+[END]
+400: 〉 What did you think of the video?
+[END]
+401: ”It was good.”
+”Not my thing.”
+Don't send feedback
+[END]
+402: 〉 The response is enthusiastic:
+”Thank you for your feedback!”
+[END]
+403: 〉 The response is terse:
+”Thank you for your feedback.”
+[END]
+404: 〉 You quietly close the video.
+[END]

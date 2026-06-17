@@ -1,0 +1,593 @@
+1: I'm ready, Nanashi!
+[->][END]
+2: I'm fired up!
+[->][END]
+3: Nnn... Hurry, Nanashi!
+[->][END]
+4: All together now!
+[->][END]
+5: I think I can do it now.
+[->][END]
+6: Leave it to me.
+[->][END]
+7: You can rely on me!
+[->][END]
+8: Let's take 'em out!
+[->][END]
+9: I'm ready, Nanashi!
+[->][END]
+10: Nnn... Hurry, Nanashi!
+[->][END]
+11: I think I can do it now.
+[->][END]
+12: What? Hey, listen to me!
+[->][END]
+13: Wha−−that's not what I told you to do!
+[->][END]
+14: You can't just do whatever you want...
+[->][END]
+15: What? Hey, listen to me!
+[->][END]
+16: Wha−−that's not what I told you to do!
+[->][END]
+17: You can't just do whatever you want...
+[->][END]
+18: Now!
+[->][END]
+19: Okay...!
+[->][END]
+20: Watch this, Nanashi!
+[->][END]
+21: I won't let this chance slip away!
+[->][END]
+22: I want to protect everyone...
+[->][END]
+23: No more!
+[->][END]
+24: Give me strength...
+[->][END]
+25: I'll support you, Nanashi.
+[->][END]
+26: No more!
+[->][END]
+27: Give me strength...
+[->][END]
+28: I'll support you, Nanashi...
+[->][END]
+29: Let's do this!
+[->][END]
+30: Now's our chance!
+[->][END]
+31: I got this.
+[->][END]
+32: How about this?
+[->][END]
+33: Let's keep it up!
+[->][END]
+34: Come on!
+[->][END]
+35: Leave it to me.
+[->][END]
+36: We're not done!
+[->][END]
+37: Take this!
+[->][END]
+38: It's not over yet!
+[->][END]
+39: No one will die!
+[->][END]
+40: We're gonna win!
+[->][END]
+41: This is what a Hunter can do!
+[->][END]
+42: Was I helpful?
+[->][END]
+43: Alright, feelin' good!
+[->][END]
+44: I'm gonna get even stronger!
+[->][END]
+45: Everyone okay?
+[->][END]
+46: You okay, Nanashi?
+[->][END]
+47: We're gonna win!
+[->][END]
+48: This is the best I can do right now!
+[->][END]
+49: I'll do anything for Nanashi!
+[->][END]
+50: You okay, Nanashi?
+[->][END]
+51: Was I helpful?
+[->][END]
+52: My power's shining through!
+[->][END]
+53: Today's my day in the sun!
+[->][END]
+54: Now's my chance to shock and amaze!
+[->][END]
+55: Hehehe... It's Navarre time!
+[->][END]
+56: Today's my day in the sun!
+[->][END]
+57: Hehehe... It's Navarre time!
+[->][END]
+58: My power's shining through!
+[->][END]
+59: Leave it to me!
+[->][END]
+60: An opening!
+[->][END]
+61: Let me show you how it's done!
+[->][END]
+62: You're in good hands!
+[->][END]
+63: Leave it to me!
+[->][END]
+64: You're in good hands!
+[->][END]
+65: Let me show you how it's done!
+[->][END]
+66: Watch carefully!
+[->][END]
+67: Feast your eyes!
+[->][END]
+68: Leave it to me.
+[->][END]
+69: Now's my chance!
+[->][END]
+70: It's my turn!
+[->][END]
+71: Watch this!
+[->][END]
+72: Count on me!
+[->][END]
+73: Did you call?
+[->][END]
+74: Amazing, right?
+[->][END]
+75: Hmph, a trifling matter.
+[->][END]
+76: Not too bad, hm?
+[->][END]
+77: Hmph. You should thank me.
+[->][END]
+78: Amazing, right?
+[->][END]
+79: Hmph, a trifling matter.
+[->][END]
+80: Not too bad, hm?
+[->][END]
+81: Reloaded−−good to go!
+[->][END]
+82: For the fairies!
+[->][END]
+83: I'll give it my all!
+[->][END]
+84: Gonna pull out all the stops!
+[->][END]
+85: I feel Danu's power within me...
+[->][END]
+86: Didn't even break a nail!
+[->][END]
+87: I feel Danu's power within me...
+[->][END]
+88: Reloaded−−good to go!
+[->][END]
+89: Gonna pull out all the stops!
+[->][END]
+90: Concentrate your fire!
+[->][END]
+91: How 'bout we show 'em our strength?
+[->][END]
+92: I'll get a good shot of you!
+[->][END]
+93: Hey! It's still our turn.
+[->][END]
+94: Never understimate a queen.
+[->][END]
+95: We'll decide our own fate!
+[->][END]
+96: Concentrate your fire!
+[->][END]
+97: Never understimate a queen.
+[->][END]
+98: Hey! It's still our turn.
+[->][END]
+99: Time to attack!
+[->][END]
+100: Leave it to me.
+[->][END]
+101: Now's our chance!
+[->][END]
+102: You're mine!
+[->][END]
+103: Didn't even break a sweat.
+[->][END]
+104: Don't let up!
+[->][END]
+105: That's what happens when a queen gets serious!
+[->][END]
+106: Did I just waste a bullet?
+[->][END]
+107: Nice! Everyone's on their game today.
+[->][END]
+108: This is our answer!
+[->][END]
+109: I'm with you!
+[->][END]
+110: That's what happens when a queen gets serious!
+[->][END]
+111: Did I just waste a bullet?
+[->][END]
+112: Guess we gotta do it.
+[->][END]
+113: Hey! Chiro, keep it down!
+[->][END]
+114: I'd rather not, but...
+[->][END]
+115: This is just my luck...
+[->][END]
+116: Looks like it's my turn.
+[->][END]
+117: Okay! Come at me!
+[->][END]
+118: I've made up my mind.
+[->][END]
+119: Oh, this is gonna be good...!
+[->][END]
+120: I've made up my mind.
+[->][END]
+121: Looks like it's my turn.
+[->][END]
+122: Okay! Come at me!
+[->][END]
+123: Quit wandering off! Jeez!
+[->][END]
+124: That was close, huh?
+[->][END]
+125: I've had enough of this shit...
+[->][END]
+126: I can't just ignore this!
+[->][END]
+127: It's not like I want to stand out!
+[->][END]
+128: Dammit... Take this! Rrrah!
+[->][END]
+129: I'm going all out!
+[->][END]
+130: I'm not lettin' ya run wild!
+[->][END]
+131: This is what I think is right!
+[->][END]
+132: Sorry, but it's still our turn.
+[->][END]
+133: Sorry, but it's still our turn.
+[->][END]
+134: I'm going all out!
+[->][END]
+135: I can't just ignore this!
+[->][END]
+136: Let's go!
+[->][END]
+137: Outta the way!
+[->][END]
+138: Leave it to me.
+[->][END]
+139: Taking you out!
+[->][END]
+140: Gah! Enough!
+[->][END]
+141: I gotta do this.
+[->][END]
+142: Get this over with.
+[->][END]
+143: No way 'round it.
+[->][END]
+144: Going all out.
+[->][END]
+145: Get outta here!
+[->][END]
+146: Leave it to me!
+[->][END]
+147: Let's do it, Leader!
+[->][END]
+148: That went well...
+[->][END]
+149: No hard feelings, yeah?
+[->][END]
+150: This sucks...
+[->][END]
+151: Dammit... I...
+[->][END]
+152: Well, hopefully that helped.
+[->][END]
+153: Hey! That was damn good!
+[->][END]
+154: You're a pain, you know that?
+[->][END]
+155: You okay, Leader?
+[->][END]
+156: I won't lose if I'm with you, Leader.
+[->][END]
+157: Well, hopefully that helped.
+[->][END]
+158: Hey! That was pretty good!
+[->][END]
+159: Let me show you my full strength!
+[->][END]
+160: Are you ready!?
+[->][END]
+161: God has chosen me...
+[->][END]
+162: Hurry up and let me have my time in the sun!
+[->][END]
+163: I was just starting to get bored!
+[->][END]
+164: I can do it... I can do it...
+[->][END]
+165: Come at me from any side!
+[->][END]
+166: I shall show you the pride of a Samurai!
+[->][END]
+167: I shall show you the power of the goddess!
+[->][END]
+168: Are you ready!?
+[->][END]
+169: You chose me, [Flynn]...
+[->][END]
+170: I'll show you what it means to be a Samurai.
+[->][END]
+171: God, grant me your blessing!
+[->][END]
+172: That's right... I won't lose!
+[->][END]
+173: [Flynn]! Don't let your guard down!
+[->][END]
+174: May you be blessed, [Flynn]!
+[->][END]
+175: That's right... I won't lose!
+[->][END]
+176: My spear must be bent!
+[->][END]
+177: Wha−−Nrgh!
+[->][END]
+178: Have I always been this bad?
+[->][END]
+179: I went too far...
+[->][END]
+180: Wha−−Nrgh!
+[->][END]
+181: I went too far...
+[->][END]
+182: Hmph. I can see through your strategy.
+[->][END]
+183: Toh!
+[->][END]
+184: Who could ignore an opening like that!?
+[->][END]
+185: This is beginning of my glory!
+[->][END]
+186: Get out of my way!
+[->][END]
+187: I... I...
+[->][END]
+188: Oh dear. Let me show you how it's done.
+[->][END]
+189: Leave it to me.
+[->][END]
+190: Toh!
+[->][END]
+191: Who could ignore an opening like that!?
+[->][END]
+192: Hmph. I can see through your strategy.
+[->][END]
+193: Nary a chance!
+[->][END]
+194: Learn your place.
+[->][END]
+195: I shall lend a hand.
+[->][END]
+196: Leave it to me.
+[->][END]
+197: I will skewer you!
+[->][END]
+198: Behold!
+[->][END]
+199: Know your place.
+[->][END]
+200: Stand back!
+[->][END]
+201: Tremble with fear!
+[->][END]
+202: Onward!
+[->][END]
+203: Not over yet.
+[->][END]
+204: What a handful.
+[->][END]
+205: Hmph... Excellent...
+[->][END]
+206: Hmph... You soiled my spear.
+[->][END]
+207: This is the power of the chosen people!
+[->][END]
+208: I'm in an entirely different league than you!
+[->][END]
+209: Don't underestimate me!
+[->][END]
+210: Everything should just be destroyed...
+[->][END]
+211: This is what it means to be a Samurai!
+[->][END]
+212: Hmph... Excellent...
+[->][END]
+213: Hmph... You soiled my spear.
+[->][END]
+214: This is the power of the goddess!
+[->][END]
+215: That's what happens when you fight me.
+[->][END]
+216: I'm ready.
+[->][END]
+217: So, I must kill again...
+[->][END]
+218: If it's my duty.
+[->][END]
+219: We'll focus our attacks.
+[->][END]
+220: Tell me your command!
+[->][END]
+221: I leave my life in your hands.
+[->][END]
+222: Leave it to me. I'll kill them.
+[->][END]
+223: I'll unleash my power!
+[->][END]
+224: I'm ready.
+[->][END]
+225: I leave my life in your hands.
+[->][END]
+226: I will sever the chains that bind!
+[->][END]
+227: Objective complete...
+[->][END]
+228: It seems I didn't cut deep enough.
+[->][END]
+229: Objective complete...
+[->][END]
+230: It seems I didn't cut deep enough.
+[->][END]
+231: I'll do it.
+[->][END]
+232: Let's go.
+[->][END]
+233: I'll end this now.
+[->][END]
+234: You're done.
+[->][END]
+235: Out of the way.
+[->][END]
+236: This is the end.
+[->][END]
+237: I won't let you.
+[->][END]
+238: Om vajra ratna om trah svaha...
+[->][END]
+239: Die.
+[->][END]
+240: Ngh!
+[->][END]
+241: It's still our turn...!
+[->][END]
+242: Don't touch my Master!
+[->][END]
+243: Die.
+[->][END]
+244: Ngh!
+[->][END]
+245: Don't touch my Master!
+[->][END]
+246: Die.
+[->][END]
+247: Ngh!
+[->][END]
+248: This is getting interesting...
+[->][END]
+249: Weak.
+[->][END]
+250: Life is transient...
+[->][END]
+251: This is my duty...
+[->][END]
+252: I did it, Master!
+[->][END]
+253: What do you think of that, Master?
+[->][END]
+254: Form is emptiness...
+[->][END]
+255: I need more training.
+[->][END]
+256: If it's for my Master...
+[->][END]
+257: Back to my mission.
+[->]Om vajra ratna om trah svaha...
+[->][END]
+259: I'm ready whenever you are.
+[->][END]
+260: For Flynn!
+[->][END]
+261: Let's make this a fair fight!
+[->][END]
+262: Excellent! We're doing well!
+[->][END]
+263: I'm ready when you are.
+[->][END]
+264: I do this for you, [Flynn]!
+[->][END]
+265: Excellent! We're doing well!
+[->][END]
+266: This isn't over yet!
+[->][END]
+267: How's this!?
+[->][END]
+268: Let me show you what my skills can do!
+[->][END]
+269: Are you ready, Burroughs?
+[->][END]
+270: Let me show you what my skills can do!
+[->][END]
+271: How's this!?
+[->][END]
+272: Are you ready, Burroughs?
+[->][END]
+273: Let's go!
+[->][END]
+274: Allow me to help!
+[->][END]
+275: Leave it to me.
+[->][END]
+276: Ready?
+[->][END]
+277: Pardon me!
+[->][END]
+278: You cannot escape.
+[->][END]
+279: Now it's my turn.
+[->][END]
+280: Are you ready?
+[->][END]
+281: Goodbye... forever!
+[->][END]
+282: People won't like you if you're so persistent.
+[->][END]
+283: Men are so careless.
+[->][END]
+284: It's the Samurai's turn!
+[->][END]
+285: Was I of help to you?
+[->][END]
+286: Goodbye... forever!
+[->][END]
+287: People won't like you if you're so persistent.
+[->][END]
+288: We'll do this together!
+[->][END]
+289: Leave it to me, Master!
+[->][END]
+290: Glory be to the Master!
+[->][END]
+291: This is the power of a Godslayer...
+[->][END]
+292: I'm finished here. Let me join you.
+[->][END]
+293: I won't let you hurt my friend!
+[->][END]
+294: [1b]I009019a    Don't you have any more?
+[END]
+295: [1b]I009020a    Is that it?
+[END]
+296: [1b]I009019b    Don't you have any more?
+[END]
+297: [1b]I009020b    Is that it?
+[END]

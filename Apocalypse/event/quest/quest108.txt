@@ -1,0 +1,24 @@
+0: One of the underground heaters went down. Looks
+like it'll take a while to fix. In the meanwhile, we'd
+like you to bring a large quantity of winter clothes 
+to help everyone keep warm. Your best bet is going 
+to be the [Color:0x5]Tosho Department Store[Color:0x0] in [Color:0x5]Shimo−kitazawa[Color:0x0], 
+just south of Shinjuku. The area's known to be 
+infested with demons, so be careful.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: I had the clothes delivered immediately−−sounds like
+people were pretty thrilled to have some new, clean 
+clothes. You're probably too young to know this, but 
+there was a time when amenities like that were in 
+such supply that we could just throw out whatever we 
+didn't need or no longer wanted. Well, anyway, no 
+use showing my age by complaining about the past.
+[END]

@@ -1,0 +1,11 @@
+0: Defeating [Color:0x5]YHVH[Color:0x0] has caused unforeseen
+[Color:0x5]changes toother universes[Color:0x0]. Normally this 
+wouldn't be a problem, but it seems those who lost 
+their purpose are disappearing. This is the same as 
+[Color:0x5]history itself[Color:0x0] being altered. If you want to 
+[Color:0x5]help them[Color:0x0], please [Color:0x5]accept this quest[Color:0x0].
+[END]
+1: ダミー
+[END]
+2: ダウンロードクエスト追記
+[END]

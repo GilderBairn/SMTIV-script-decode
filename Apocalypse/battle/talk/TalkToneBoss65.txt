@@ -1,0 +1,188 @@
+0: Dummy Message
+[END]
+1: [71 1]I will eliminate you and Flynn.
+Those are Master Mii and Kei's
+orders!
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Hrm... Lending you money...? What
+the hell are you thinking...!?
+[->][END]
+19: [71 1]Grr, to think I let a kid like you
+rip money straight from my hands...!
+[->][END]
+20: [71 1]Punk, addicted to money... I'll
+beat Master Yuriko's teachings into
+you!
+[->][END]
+21: [71 1]Urrrrgh... Aaaaaaaaaa...!
+My hard−earned savings!?
+[->][END]
+22: [71 1]Is Macca that important to you!?
+Money−grubbing scum!
+[->][END]
+23: [71 1]Greed only gets in the way of
+training... No good comes from it.
+[->]I'll rid the world of it, along
+with you and Flynn!
+[->][END]
+24: [71 1]Wha...!? I can't move... What are
+you... Stoooooop!
+[->][END]
+25: [71 1]Ho−ho... A trade? Sure.
+[->][END]
+26: [71 1]Good, that closes the deal.
+[->][END]
+27: [71 1]What? You want my stuff...?
+Hmph, take it yourself.
+[->][END]
+28: [71 1]Take this as well. It reeks of my
+sweat, but you can have it.
+[->][END]
+29: [71 1]I don't want to waste time and
+bother Master Mii and Kei...
+[->][Amount 1] Macca. I won't go any
+lower.
+[->][END]
+30: [71 1]Hand over [Item 1] x[Amount 1].
+[->][END]
+31: [71 1]Hand over [Amount 1] Macca.
+[->][END]
+32: [71 1]Hand over a meager portion of your
+life.
+[->][END]
+33: [71 1]I will take some of your life.
+[->][END]
+34: [71 1]I will take a lot of your life.
+[->][END]
+35: [71 1]I'll take so much life you can
+barely stand.
+[->][END]
+36: [71 1]Hand over a meager portion of your
+spirit.
+[->][END]
+37: [71 1]I will take some of your spirit.
+[->][END]
+38: [71 1]I will take a lot of your spirit.
+[->][END]
+39: [71 1]I'll take so much of your spirit
+you can barely stand.
+[->][END]
+40: [71 1]Allow me to kill your ally
+[Demon name 2]...
+[->][END]
+41: [71 1]Give me that.
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Do you know what I want?
+[->][END]
+44: [71 1]Ho−ho... I'm surprised you knew.
+You have good taste.
+[->][END]
+45: [71 1]Hmph, I guessed as much... You're
+just a kid.
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]Ha, I'm satisfied.
+[->][END]
+56: [71 1]So you won't hold up your end of
+the deal? I see.
+[->][END]
+57: [71 1]...Do you have any intention of
+agreeing...?
+[->][END]
+58: [71 1]Forget it... I'm done playing your
+games.
+[->][END]
+59: [71 1]Hmph, how stupid of you... You're
+ten years too young to fool me.
+[->][END]
+60: [71 1]You don't have what I'm looking
+for...?
+[->][END]
+61: [71 1]You don't even have a Life Stone?
+How pitiful... What a waste of
+time.
+[->][END]
+62: [71 1]I admire your will.
+[->]Very well. I will agree.
+[->][END]
+63: [71 1]How cowardly.
+[->]I'll beat some courage into you.
+[->][END]
+64: [71 1]Pathetic. But the Yuriko faction is
+compassionate...
+[->]I will spare you something of mine...
+Here, take it.
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]You should work on your conversation
+skills.
+[->]Right now, you're only boring me.
+[->][END]
+71: [71 1]Not Used
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

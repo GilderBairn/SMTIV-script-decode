@@ -1,0 +1,20 @@
+0: Hey again! Today's test is something all Hunters 
+should know how to do−−performing [Color:0x5]demon fusions[Color:0x0]! 
+Should be pretty easy, right? I think [Color:0x5]15 demon fusions[Color:0x0] 
+ought to do it.
+[END]
+1: Delivery quest description template second time confirmation
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Looks like you're really getting the hang of demon 
+fusions. That's good−−it's a necessary skill for 
+obtaining stronger demons. I mean, there's nothing 
+wrong with Scouting, but I've been told that you can 
+only get some demons by learning how to fuse them. 
+Keep at it!
+[END]

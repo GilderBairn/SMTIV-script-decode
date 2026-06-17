@@ -1,0 +1,26 @@
+0: (Fujiwara) [7a 18]Demons are attacking the
+underground districts. I need you
+to head there immediately.
+[->]Our Hunters are out in full force to
+combat the invasion, but it still
+may not be enough.
+[->]And it seems like you're the only
+one who can summon demons now.
+[END]
+1: (Fujiwara) [7a 18]I see. The underground districts
+are safe. Now, we can focus on
+the Demon Summoning Program.
+[->]I know it's hectic, but we need
+to deal with this as soon as
+possible.
+[END]
+100: (Skins) [7a 19]You're the only Hunter that can
+summon demons right now.
+[->]You better hurry up then. People's
+lives depend on you.
+[END]
+101: (Skins) [7a 19]You took care of the demons in the
+underground districts? Good work.
+[->]Although... Well, I won't worry
+about it now.
+[END]

@@ -1,0 +1,65 @@
+0: [71 1]*chuckle*... I have obtained
+an unbelievable skill...
+[->][END]
+1: [71 1]Now, [Flynn]...
+Let me offer you this skill...
+[->][END]
+2: [71 1]Oh, are you unsatisfied?
+[->][END]
+3: [71 1]I'm afraid I can't hold all these skills.
+What shall I do...
+[->][END]
+4: [71 1]How about it? Change [Color:0x5][Skill 1][Color:0x0]
+to [Color:0x5][Skill 2][Color:0x0]?
+[->][END]
+5: [71 1]...Very well.
+[->][END]
+6: [71 1]If it's not of your liking, it cannot be helped...
+[->][END]
+7: [71 1]*chuckle*...
+To transform or not...
+[->][END]
+8: [71 1]Oh... You are the first person
+that I've heard stating that.
+[->][END]
+9: [71 1]...Are you testing
+if I get angry or not?
+[->][END]
+10: [71 1]Oh, this body is...
+Hm, filling up with new power.
+[->][END]
+11: [71 1]This premonition... Does my body
+wish to awaken...?
+[->][END]
+12: [71 1]Here is a [Color:0x5][Item 1][Color:0x0].
+Keep continuing to work for me.
+[->][END]
+13: [71 1]I will give you this [Color:0x5][Item 1][Color:0x0].
+I swear my loyalty to [Flynn].
+[->][END]
+14: [71 1]Here, have this [Color:0x5][Item 1][Color:0x0].
+This is a secret from Dagda, understood?
+[->][END]
+15: [71 1]Now, accept the power of demons...
+Power rarely afforded to mere humans...!
+[->][END]
+16: [71 1]Would anything more than this... scare you?
+[->][END]
+17: [71 1]I am [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+The pleasure is all mine...
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

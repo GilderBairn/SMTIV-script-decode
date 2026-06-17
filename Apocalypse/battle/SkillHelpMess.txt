@@ -1,0 +1,1417 @@
+1: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+2: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+3: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+4: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+5: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+6: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+7: 1−4 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+8: Severe [7d 14] attack. Smirking: Pierce
+Target: [7d 15]
+[END]
+9: 1−4 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+10: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+11: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+12: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+13: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+14: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+15: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+16: 1−4 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+17: 1−4 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+18: Heavy [7d 14] attack. Can instant kill
+Target: [7d 15]
+[END]
+19: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+20: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+21: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+22: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+23: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+24: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+25: 1−4 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+26: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+27: Heavy [7d 14] attack
+Target: [7d 15]. Effect: Pierce
+[END]
+28: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+29: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+30: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+31: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+32: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+33: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+34: 1−4 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+35: Severe [7d 14] attack. Smirking: Pierce
+Target: [7d 15]
+[END]
+36: 1−4 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+37: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+38: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+39: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+40: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+41: Severe [7d 14] attack. Smirking: Stats down
+Target: [7d 15] 
+[END]
+42: Medium [7d 14] attack. Inflicts Panic
+Target: [7d 15]
+[END]
+43: [7d 14] attack. Strong vs. Chaos demons
+Target: [7d 15]
+[END]
+44: [7d 14] attack. Strong vs. Neutral demons
+Target: [7d 15]
+[END]
+45: [7d 14] attack. Strong vs. Law demons
+Target: [7d 15]
+[END]
+46: [7d 14] attack. Drains enemy HP
+Target: [7d 15]
+[END]
+47: [7d 14] attack. Drains enemy MP
+Target: [7d 15]
+[END]
+48: [7d 14] attack. Drains enemy HP/MP
+Target: [7d 15]
+[END]
+49: Weak [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+50: Heavy [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+51: Weak [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+52: Heavy [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+53: Severe [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+54: Weak [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+55: Heavy [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+56: Weak [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+57: Heavy [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+58: Severe [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+59: Inflicts the Sleep ailment
+Target: [7d 15]
+[END]
+60: Inflicts the Sleep ailment
+Target: [7d 15]
+[END]
+61: Inflicts the Poison ailment
+Target: [7d 15]
+[END]
+62: Inflicts the Poison ailment
+Target: [7d 15]
+[END]
+63: Inflicts the Bind ailment
+Target: [7d 15]
+[END]
+64: Inflicts the Bind ailment
+Target: [7d 15]
+[END]
+65: Inflicts the Panic ailment
+Target: [7d 15]
+[END]
+66: Inflicts the Panic ailment
+Target: [7d 15]
+[END]
+67: Inflicts the Sick ailment
+Target: [7d 15]
+[END]
+68: Inflicts the Sick ailment
+Target: [7d 15]
+[END]
+69: Inflicts a random ailment
+Target: [7d 15]
+[END]
+70: Inflicts several ailments
+Target: [7d 15]
+[END]
+71: [7d 14] attack that decreases MP 
+Target: [7d 15]
+[END]
+72: [7d 14] attack that decreases MP 
+Target: [7d 15]
+[END]
+73: [7d 14] attack that decreases Macca
+Target: [7d 15]
+[END]
+74: [7d 14] attack that decreases more Macca 
+Target: [7d 15]
+[END]
+75: [7d 14] attack that reduces HP to 1
+Target: [7d 15]
+[END]
+76: 1−5 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+77: Weak [7d 14] attack. Sick ailment adds effect 
+Target: [7d 15]. Effect: Reduce HP to 1
+[END]
+78: Increases magic attack
+Target: [7d 15]
+[END]
+79: Inflicts the Charm ailment
+Target: [7d 15]
+[END]
+80: Inflicts the Charm ailment
+Target: [7d 15]
+[END]
+81: Heals HP
+Target: [7d 15]
+[END]
+82: Greatly heals HP
+Target: [7d 15]
+[END]
+83: Fully heals HP
+Target: [7d 15]
+[END]
+84: Heals HP
+Target: [7d 15]
+[END]
+85: Greatly heals HP
+Target: [7d 15]
+[END]
+86: Fully heals HP
+Target: [7d 15]
+[END]
+87: Fully heals HP. Smirking: Removes ailments
+Target: [7d 15]
+[END]
+88: Removes Sleep/Panic/Bind/Charm/Mute/Daze
+Target: [7d 15]
+[END]
+89: Removes Sleep/Panic/Bind/Charm/Mute/Daze
+Target: [7d 15]
+[END]
+90: Removes Poison/Sick
+Target: [7d 15]
+[END]
+91: 2−4 heavy [7d 14] attacks
+Target: [7d 15]. Effect: Brand
+[END]
+92: Removes all ailments
+Target: [7d 15]
+[END]
+93: Revives from KO with half HP
+Target: [7d 15]
+[END]
+94: Revives from KO with full HP
+Target: [7d 15]
+[END]
+95: Revives and fully heals in exchange for caster's life
+Target: [7d 15]
+[END]
+96: 2−4 heavy [7d 14] attacks. Smirking: Defense down
+Target: [7d 15]
+[END]
+97: Severe [7d 14] attack. Smirking: Pierce
+Target: [7d 15]
+[END]
+98: Severe [7d 14] attack. Smirking: Pierce
+Target: [7d 15]
+[END]
+99: Inflicts the Mute ailment
+Target: [7d 15]
+[END]
+100: Inflicts the Mute ailment
+Target: [7d 15]
+[END]
+101: Increases physical attack
+Target: [7d 15]
+[END]
+102: Increases hit/evade rate
+Target: [7d 15]
+[END]
+103: Increases defense
+Target: [7d 15]
+[END]
+104: Increases attack/defense/hit/evade rate
+Target: [7d 15]
+[END]
+105: Removes status buffs
+Target: [7d 15]
+[END]
+106: Decreases attack
+Target: [7d 15]
+[END]
+107: Decreases hit/evade rate
+Target: [7d 15]
+[END]
+108: Decreases defense
+Target: [7d 15]
+[END]
+109: Decreases attack/defense/hit/evade rate
+Target: [7d 15]
+[END]
+110: Removes status debuffs
+Target: [7d 15]
+[END]
+111: Removes status buffs and debuffs
+Target: [7d 15]
+[END]
+112: Decreases attack/defense
+Target: [7d 15]
+[END]
+113: Decreases attack/hit/evade rate
+Target: [7d 15]
+[END]
+114: Decreases defense/hit/evade rate
+Target: [7d 15]
+[END]
+115: Increases attack, decreases defense
+Target: [7d 15]
+[END]
+116: Next Phys/Gun attack will be a critical hit
+Target: [7d 15]
+[END]
+117: Attack power changes based on number of
+status ailments. Target: [7d 15]
+[END]
+118: Repels Phys/Gun attacks until your next turn
+Target: [7d 15]
+[END]
+119: Repels magic attacks until your next turn
+Target: [7d 15]
+[END]
+120: Nulls one Light or Dark attack
+Target: [7d 15]
+[END]
+121: Next Phys/Gun attack deals 2.5x damage
+Target: [7d 15]
+[END]
+122: Next magic attack deals 2.5x damage
+Target: [7d 15]
+[END]
+123: Applies all status buffs, but reduces HP to 1
+Target: [7d 15]
+[END]
+124: Summons an ally demon
+Target: [7d 15]
+[END]
+125: Summons an ally demon and revives from KO 
+Target: [7d 15]
+[END]
+126: Heavy [7d 14] attack. Smirking: Pierce
+Target: [7d 15]. Effect: Stats down
+[END]
+127: Summons your highest level demons from stock
+Target: [7d 15]
+[END]
+128: Heals HP
+Target: [7d 15]
+[END]
+129: Greatly heals HP
+Target: [7d 15]
+[END]
+130: Heals HP
+Target: [7d 15]
+[END]
+131: Greatly heals HP
+Target: [7d 15]
+[END]
+132: Induces Smirk
+Target: [7d 15]. Condition: No ailments
+[END]
+133: Removes Smirk
+Target: [7d 15]
+[END]
+134: Heavy [7d 14] attack. Smirking: Pierce
+Target: [7d 15]. Effect: Panic
+[END]
+135: Inflicts 66% of target's HP as [7d 14]
+damage. Target: [7d 15]
+[END]
+136: Severe [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+137: Guaranteed escape when possible
+Target: [7d 15]
+[END]
+138: Increases maximum HP during battle
+Target: [7d 15]
+[END]
+139: Induces Smirk and fully increases attack
+and magic. Target: [7d 15]
+[END]
+140: Avoid battles with low−level demons while
+skill is in effect
+[END]
+141: Calls an ally
+Target: [7d 15]
+[END]
+142: No effect
+Target: [7d 15]
+[END]
+143: No effect
+Target: [7d 15]
+[END]
+144: No effect
+Target: [7d 15]
+[END]
+145: Fully decreases attack and magic. Inflicts Mute
+Target: [7d 15]
+[END]
+146: Fully decreases defense. Inflicts Sleep
+Target: [7d 15]
+[END]
+147: Fully decreases hit/evade rate
+Target: [7d 15]. Effect: Brand
+[END]
+148: Instant kills sleeping targets
+Target: [7d 15]
+[END]
+149: Weak [7d 14] attack. Inflicts Poison/Bind/Charm
+Target: [7d 15]
+[END]
+150: Weak [7d 14] attack. Drains enemy HP
+Target: [7d 15]
+[END]
+151: Weak [7d 14] attack. High critical/low hit rate
+Target: [7d 15]
+[END]
+152: Medium [7d 14] attack. High critical/low hit rate
+Target: [7d 15]
+[END]
+153: Heavy [7d 14] attack. High critical/low hit rate
+Target: [7d 15]
+[END]
+154: Weak [7d 14] attack. High critical/low hit rate
+Target: [7d 15]
+[END]
+155: Medium [7d 14] attack. High critical/low hit rate
+Target: [7d 15]
+[END]
+156: Heavy [7d 14] attack. High critical/low hit rate
+Target: [7d 15]
+[END]
+157: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+158: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+159: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+160: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+161: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+162: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+163: 1−3 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+164: 1−3 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+165: 1−3 heavy [7d 14] attacks
+Target: [7d 15]
+[END]
+166: 1−3 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+167: 1−3 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+168: 1−3 heavy [7d 14] attacks
+Target: [7d 15]
+[END]
+169: Weak [7d 14] attack
+Target: [7d 15]. Effect: Attack down
+[END]
+170: Weak [7d 14] attack. Inflicts Sleep
+Target: [7d 15]
+[END]
+171: 1−3 medium [7d 14] attacks. Inflicts Panic
+Target: [7d 15]
+[END]
+172: Weak [7d 14] attack. Inflicts Lost
+Target: [7d 15]
+[END]
+173: 2−4 medium [7d 14] attacks. Inflicts Daze
+Target: [7d 15]
+[END]
+174: Medium [7d 14] attack. Inflicts Sick
+Target: [7d 15]
+[END]
+175: 2 medium [7d 14] attacks. Inflicts Mute
+Target: [7d 15]
+[END]
+176: Weak [7d 14] attack. Inflicts Poison
+Target: [7d 15]
+[END]
+177: Heavy [7d 14] attack
+Target: [7d 15]. Effect: Pierce
+[END]
+178: Medium [7d 14] attack. Inflicts Bind
+Target: [7d 15]
+[END]
+179: Medium [7d 14] attack. Inflicts Poison
+Target: [7d 15]
+[END]
+180: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+181: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+182: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+183: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+184: Severe [7d 14] attack. Smirking: Pierce
+Target: [7d 15]
+[END]
+185: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+186: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+187: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+188: Weak [7d 14] attack. Inflicts Sleep
+Target: [7d 15]
+[END]
+189: Weak [7d 14] attack. Inflicts Poison
+Target: [7d 15]
+[END]
+190: Weak [7d 14] attack. Inflicts Bind
+Target: [7d 15]
+[END]
+191: Weak [7d 14] attack. Inflicts Panic 
+Target: [7d 15]
+[END]
+192: 1−3 medium [7d 14] attacks. Inflicts Bind
+Target: [7d 15]
+[END]
+193: 2−4 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+194: 1−5 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+195: Weak [7d 14] attack. Inflicts Sleep
+Target: [7d 15]
+[END]
+196: 1−3 medium [7d 14] attacks. Inflicts Bind
+Target: [7d 15]
+[END]
+197: Weak [7d 14] attack. Inflicts Daze
+Target: [7d 15]
+[END]
+198: Medium [7d 14] attack. Smirking: Daze
+Target: [7d 15]
+[END]
+199: Medium [7d 14] attack. Inflicts Daze
+Target: [7d 15]
+[END]
+200: 2 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+201: 4 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+202: 6 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+203: 8 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+204: 10 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+205: 12 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+206: 14 medium [7d 14] attacks
+Target: [7d 15]
+[END]
+207: Dummy.
+[END]
+208: Fire attacks pierce until end of your turn
+Target: [7d 15]
+[END]
+209: Ice attacks pierce until end of your turn
+Target: [7d 15]
+[END]
+210: Elec attacks pierce until end of your turn
+Target: [7d 15]
+[END]
+211: Force attacks pierce until end of your turn
+Target: [7d 15]
+[END]
+212: Remove Press Turn Icon on enemy's next turn
+Target: [7d 15]
+[END]
+213: Remove Press Turn Icon on enemy's next turn
+Target: [7d 15]
+[END]
+214: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+215: Severe [7d 14] attack
+Target: [7d 15]. Effect: Pierce
+[END]
+216: Asahi performs a basic attack
+Target: [7d 15]
+[END]
+217: Asahi performs a basic attack
+Target: [7d 15]
+[END]
+218: Asahi performs a basic attack
+Target: [7d 15]
+[END]
+219: Asahi performs a basic attack
+Target: [7d 15]
+[END]
+220: Asahi performs a basic attack
+Target: [7d 15]
+[END]
+221: Instant kill attack
+Target: [7d 15]
+[END]
+222: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+223: Medium [7d 14] attack. Drains enemy HP
+Target: [7d 15]
+[END]
+224: 2 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+225: Medium [7d 14] attack
+Target: [7d 15]. Effect: Removes buffs
+[END]
+226: Induces Smirk
+Condition: No ailments
+[END]
+227: Heavy [7d 14] attack
+Target: [7d 15]. Effect: Pierce
+[END]
+228: Heavy [7d 14] attack. Drains enemy HP
+Target: [7d 15]. Effect: Pierce
+[END]
+229: 2 medium [7d 14] attacks
+Target: [7d 15]. Effect: Pierce
+[END]
+230: Heavy [7d 14] attack 
+Target: [7d 15]. Effect: Pierce, removes buffs
+[END]
+231: 6 medium [7d 14] attacks. Low hit rate
+Target: [7d 15]. Effect: Pierce
+[END]
+232: Grants targets Endure until end of turn
+Target: [7d 15]. Chance: Medium
+[END]
+233: Prevents status ailments until the next turn
+Target: [7d 15]
+[END]
+234: Medium [7d 14] attack
+Target: [7d 15]. Effect: Pierce, defense down
+[END]
+235: Medium [7d 14] attack. Ailments increase power
+Target: [7d 15]
+[END]
+236: Drains weakness until your next turn 
+Target: [7d 15]. Trigger: Smirk, stats up
+[END]
+237: Weak [7d 14] attack. Smirking: More power
+Target: [7d 15]
+[END]
+238: Inflicts Poison, Sick, and Bind
+Target: [7d 15]. Effect: Attack down
+[END]
+239: Inflicts Sleep, Panic, and Charm
+Target: [7d 15]. Effect: Defense down
+[END]
+240: Might make Phys attack at start of battle
+Effect: Pierce, instant kill
+[END]
+241: Might make Phys attack during enemy turn
+Effect: Pierce, instant kill
+[END]
+242: Medium [7d 14] attack
+Target: [7d 15]. Effect: Hit/evade down
+[END]
+243: Medium [7d 14] attack. Inflicts Daze
+Target: [7d 15]
+[END]
+244: Inflicts the Daze ailment
+Target: [7d 15]. Effect: Hit/Evade down
+[END]
+245: Inflicts the Charm ailment
+Target: [7d 15]. Effect: Attack down
+[END]
+246: 3 medium [7d 14] attacks
+Target: [7d 15]. Effect: Removes Smirk
+[END]
+247: Heavy [7d 14] attack
+Target: [7d 15]. Effect: Removes buffs
+[END]
+248: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+249: Heavy [7d 14] attack
+Target: [7d 15]
+[END]
+250: Medium [7d 14] attack. Smirking: Defense down
+Target: [7d 15]
+[END]
+251: Dummy.
+[END]
+252: 2−3 heavy [7d 14] attacks
+Target: [7d 15]
+[END]
+253: Changes your weakness when exploited
+Target: [7d 15]
+[END]
+254: Inflicts Charm
+Target: [7d 15]. Effect: Fully decreases defense
+[END]
+255: Severe [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+256: [7d 14] attack. Light resistance affects power
+Target: [7d 15]
+[END]
+257: Severe [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+258: 2 severe [7d 14] attacks
+Target: [7d 15]. Effect: Pierce
+[END]
+259: Fully increases defense/hit/evade rate
+Target: [7d 15]
+[END]
+260: When hit next, inflict the same damage
+Smirking: Continuous. Target: [7d 15]
+[END]
+261: When hit next, inflict the same damage
+Smirking: Continuous. Target: [7d 15]
+[END]
+262: No effect
+Target: [7d 15]
+[END]
+263: 2 medium [7d 14] attacks. Inflicts Panic
+Target: [7d 15]
+[END]
+264: Inflicts 50% of the target's HP as [7d 14] damage 
+Target: [7d 15]
+[END]
+265: Severe [7d 14] attack. Inflicts Panic
+Target: [7d 15]
+[END]
+266: Randomly returns a target back to the stock
+Target: [7d 15]
+[END]
+267: Halves HP of all enemies
+Target: [7d 15]
+[END]
+268: Medium [7d 14] attack
+Target: [7d 15]. Effect: Hit/evade down
+[END]
+269: 2 [7d 14] attacks
+Target: [7d 15]. Effect: Defense down
+[END]
+270: Instant kill attack that always hits
+Target: [7d 15]
+[END]
+271: Heavy [7d 14] attack
+Target: [7d 15]. Effect: Pierce
+[END]
+272: Heavy [7d 14] attack
+Target: [7d 15]. Effect: Pierce
+[END]
+273: Heavy [7d 14] attack
+Target: [7d 15]. Effect: Pierce
+[END]
+274: Remove 3 Press Turn Icons on enemy's next turn 
+Target: [7d 15]
+[END]
+275: Remove 3 Press Turn Icons on enemy's next turn 
+Target: [7d 15]
+[END]
+276: Increases attack/defense/hit/evade rate
+Target: [7d 15]
+[END]
+277: Attack power changes based on number of
+status ailments. Target: [7d 15]
+[END]
+278: Inflicts Sleep
+Target: [7d 15]
+[END]
+279: Inflicts Panic
+Target: [7d 15]
+[END]
+280: 1−3 severe [7d 14] attacks. Inflicts Panic
+Target: [7d 15]
+[END]
+281: Heavy [7d 14] attack. Inflicts Daze
+Target: [7d 15]
+[END]
+282: Inflicts the Charm ailment
+Target: [7d 15]
+[END]
+283: Heavy [7d 14] attack. Inflicts Sleep
+Target: [7d 15]
+[END]
+284: Inflicts Bind
+Target: [7d 15]
+[END]
+285: Heavy [7d 14] attack. High critical/low hit rate
+Target: [7d 15]
+[END]
+286: Severe [7d 14] attack. High critical rate
+Target: [7d 15]
+[END]
+287: Heavy [7d 14] attack. Inflicts Poison/Bind/Charm
+Target: [7d 15]
+[END]
+288: Heavy [7d 14] attack. High critical rate
+Target: [7d 15]
+[END]
+289: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+290: Weak [7d 14] attack. Inflicts Poison
+Target: [7d 15]
+[END]
+291: Nulls Dekaja for one turn
+Target: [7d 15]
+[END]
+292: [7d 14] attack that reduces HP to 1
+Target: [7d 15]
+[END]
+293: [7d 14] attack. Drains enemy MP
+Target: [7d 15]
+[END]
+294: Severe [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+295: Nulls all support effects
+Target: [7d 15]
+[END]
+296: Medium [7d 15] attack. Inflicts Bind/Panic/Charm
+Target: [7d 15]
+[END]
+297: Instant kill attack
+Target: [7d 15]
+[END]
+298: Greatly increases magic attack
+Target: [7d 15]
+[END]
+299: Heavy [7d 14] attack. Inflicts Lost
+Target: [7d 15]
+[END]
+300: Returns a random target to the stock
+Target: [7d 15]
+[END]
+301: Severe [7d 14] attack
+Target: [7d 15]. Effect: Brand
+[END]
+302: Heavy [7d 14] attack
+Target: [7d 15]. Effect: Pierce
+[END]
+303: Removes Tetrakarn effect
+Target: [7d 15]
+[END]
+304: Nulls all support effects
+Target: [7d 15]
+[END]
+305: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+306: Heavy [7d 14] attack
+Target: [7d 15]. Effect: Pierce
+[END]
+307: Medium [7d 14] attack. Inflicts Bind/Panic/Charm
+Target: [7d 15]
+[END]
+308: Heavy [7d 14] attack
+Target: [7d 15]. Effect: Pierce
+[END]
+309: Removes Makarakarn effect
+Target: [7d 15]
+[END]
+310: 6−10 heavy [7d 14] attacks
+Target: [7d 15]
+[END]
+311: [7d 14] attack. Drains enemy MP
+Target: [7d 15]
+[END]
+312: Heavy [7d 14] attack
+Target: [7d 15]. Effect: Pierce
+[END]
+313: Medium [7d 14] attack. Weakens random resist
+Target: [7d 15]. Effect: Pierce
+[END]
+314: 2 medium [7d 14] attacks
+Target: [7d 15]. Effect: Hit/evade down
+[END]
+315: Increases attack/defense/hit/evade rate
+Target: [7d 15]
+[END]
+316: Medium [7d 14] attack. Weakens random resist
+Target: [7d 15]. Effect: Pierce
+[END]
+317: Remove 2 Press Turn Icons on enemy's next turn
+Target: [7d 15]
+[END]
+318: Remove 2 Press Turn Icons on enemy's next turn 
+Target: [7d 15]
+[END]
+319: Severe [7d 14] attack
+Target: [7d 15]. Effect: Pierce
+[END]
+320: 2 medium [7d 14] attacks
+Target: [7d 15]. Effect: Removes Smirk
+[END]
+321: Adds 3 Press Turn Icons
+Target: [7d 15]
+[END]
+322: 2−3 heavy [7d 14] attacks. Inflicts Bind
+Target: [7d 15]
+[END]
+323: Decreases attack/defense/hit/evade rate
+Target: [7d 15]
+[END]
+324: Severe [7d 14] attack. Smirking: 2x damage
+Target: [7d 15]
+[END]
+325: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+326: Severe [7d 14] attack
+Target: [7d 15]. Effect: Defense down
+[END]
+327: Heavy [7d 14] attack. High critical rate
+Target: [7d 15]. Effect: Pierce
+[END]
+328: 4 heavy [7d 14] attacks
+Target: [7d 15]. Effect: Pierce
+[END]
+329: No effect
+Target: [7d 15]
+[END]
+330: No effect
+Target: [7d 15]
+[END]
+331: No effect
+Target: [7d 15]
+[END]
+332: 4 heavy [7d 14] attacks
+Target: [7d 15]. Effect: Pierce
+[END]
+333: Severe [7d 14] attack. Gain Ice weakness
+Target: [7d 15]
+[END]
+334: Severe [7d 14] attack. Gain Fire weakness
+Target: [7d 15]
+[END]
+335: Severe [7d 14] attack. Gain Force weakness
+Target: [7d 15]
+[END]
+336: Severe [7d 14] attack. Gain Elec weakness
+Target: [7d 15]
+[END]
+337: 1−5 severe [7d 14] attacks
+Target: [7d 15]
+[END]
+338: [7d 14] attack. Highly effective against YHVH
+Target: [7d 15]. Effect: Weakens random resist
+[END]
+339: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+340: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+341: Weak [7d 14] attack. Drains enemy HP
+Target: [7d 15]
+[END]
+342: 2 weak [7d 14] attacks
+Target: [7d 15]
+[END]
+343: Weak [7d 14] attack
+Target: [7d 15]. Effect: Remove buffs
+[END]
+344: Next magic attack deals 2.5x damage
+Target: [7d 15]. Effect: Pierce
+[END]
+345: [7d 14] attack. Drains enemy HP/MP
+Target: [7d 15]. Smirking: More power
+[END]
+346: Heavy [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]. Effect: Defense down
+[END]
+347: Heavy [7d 14] attack. Target: [7d 15]
+Effect: Defense/hit/evade rate down
+[END]
+348: Heavy [7d 14] attack. Drains enemy HP
+Target: [7d 15]
+[END]
+349: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+350: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+351: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+352: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+353: 4−6 heavy [7d 14] attacks
+Target: [7d 15]
+[END]
+354: Heavy [7d 14] attack. Inflicts Bind
+Target: [7d 15]
+[END]
+355: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+356: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+357: Fully increases all stats and induces Smirk
+Target: [7d 15]
+[END]
+358: Fully decreases all stats
+Target: [7d 15]
+[END]
+359: Weak [7d 14] attack
+Target: [7d 15]
+[END]
+360: 3−4 heavy [7d 14] attacks
+Target: [7d 15]
+[END]
+361: Weak [7d 14] attack. Smirking: More power
+Target: [7d 15]
+[END]
+362: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+363: Severe [7d 14] attack. Smirking: Pierce
+Target: [7d 15]
+[END]
+364: Severe [7d 14] attack
+Target: [7d 15]. Condition: Smirk only
+[END]
+365: Severe [7d 14] attack
+Target: [7d 15]. Condition: Smirk only
+[END]
+366: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+367: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+368: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+369: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+370: Heavy [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+371: Heavy [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+372: Medium [7d 14] attack
+Target: [7d 15]
+[END]
+373: Repels Phys and Gun attacks for one turn
+Target: [7d 15]
+[END]
+374: Repel all non−status magic attacks for one turn
+Target: [7d 15]
+[END]
+375: Removes status buffs
+Target: [7d 15]
+[END]
+376: Removes status debuffs
+Target: [7d 15]
+[END]
+377: Heavy [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+378: Inflicts the Charm ailment
+Target: [7d 15]
+[END]
+379: 2−4 heavy [7d 14] attacks. Inflicts Daze
+Target: [7d 15]
+[END]
+380: No effect
+Target: [7d 15]
+[END]
+381: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+382: Remove 3 Press Turn Icons on enemy's next turn 
+Target: [7d 15]
+[END]
+383: Remove 3 Press Turn Icons on enemy's next turn 
+Target: [7d 15]
+[END]
+384: Severe [7d 14] attack. Inflicts Brand
+Target: [7d 15]
+[END]
+385: 6−10 heavy [7d 14] attacks
+Target: [7d 15]
+[END]
+386: [7d 14] attack. Drains enemy MP
+Target: [7d 15]
+[END]
+387: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+388: Fully increases all stats and induces Smirk
+Target: [7d 15]
+[END]
+389: Fully decreases all stats. Inflicts Mute
+Target: [7d 15]
+[END]
+390: Adds 2 Press Turn Icons
+Target: [7d 15]
+[END]
+391: Inflicts the Panic ailment
+Target: [7d 15]. Effect: Stats down
+[END]
+392: 4−12 heavy [7d 14] attacks
+Target: [7d 15]
+[END]
+393: Heavy [7d 14] attack
+Target: [7d 15]. Effect: Instant kill
+[END]
+394: 1−5 medium [7d 14] attacks. Inflicts Panic
+Target: [7d 15]. Effect: Pierce
+[END]
+395: Severe [7d 14] attack
+Target: [7d 15]
+[END]
+396: Heavy [7d 14] attack. Inflicts Mute
+Target: [7d 15]. Effect: Hit/Evade rate down
+[END]
+397: Greatly increases hit/evade rate
+Target: [7d 15]
+[END]
+398: Weak [7d 14] attack. Ailments increase power 
+Target: [7d 15]. Effect: Pierce
+[END]
+399: Weak [7d 14] attack. Smirking: Instant kill
+Target: [7d 15]
+[END]
+400: Weak [7d 14] attack. Inflicts Charm
+Target: [7d 15]
+[END]
+401: Increases resistance to Phys attacks
+[END]
+402: Nulls Phys attacks
+[END]
+403: Repels Phys attacks
+[END]
+404: Drains Phys attacks
+[END]
+405: Increases resistance to Gun attacks
+[END]
+406: Nulls Gun attacks
+[END]
+407: Repels Gun attacks
+[END]
+408: Drains Gun attacks
+[END]
+409: Increases resistance to Fire attacks
+[END]
+410: Nulls Fire attacks
+[END]
+411: Repels Fire attacks
+[END]
+412: Drains Fire attacks
+[END]
+413: Increases resistance to Ice attacks
+[END]
+414: Nulls Ice attacks
+[END]
+415: Repels Ice attacks
+[END]
+416: Drains Ice attacks
+[END]
+417: Increases resistance to Elec attacks
+[END]
+418: Nulls Elec attacks
+[END]
+419: Repels Elec attacks
+[END]
+420: Drains Elec attacks
+[END]
+421: Increases resistance to Force attacks
+[END]
+422: Nulls Force attacks
+[END]
+423: Repels Force attacks
+[END]
+424: Drains Force attacks
+[END]
+425: Increases resistance to Dark attacks
+[END]
+426: Nulls Dark attacks
+[END]
+427: Increases resistance to Light attacks
+[END]
+428: Nulls Light attacks
+[END]
+429: Nulls Sleep/Panic/Charm/Mute
+[END]
+430: Nulls Poison/Bind/Sick/Daze
+[END]
+431: Strengthens Phys attacks
+[END]
+432: Greatly strengthens Phys attacks
+[END]
+433: Strengthens Gun attacks
+[END]
+434: Greatly strengthens Gun attacks
+[END]
+435: Strengthens Fire attacks
+[END]
+436: Greatly strengthens Fire attacks
+[END]
+437: Strengthens Ice attacks
+[END]
+438: Greatly strengthens Ice attacks
+[END]
+439: Strengthens Elec attacks
+[END]
+440: Greatly strengthens Elec attacks
+[END]
+441: Strengthens Force attacks
+[END]
+442: Greatly strengthens Force attacks
+[END]
+443: Strengthens healing magic
+[END]
+444: Greatly strengthens healing magic
+[END]
+445: Revive from KO once per battle with 1 HP
+[END]
+446: Revive from KO once per battle with
+full HP
+[END]
+447: Chance of countering Phys or Gun attack
+[END]
+448: High chance of countering Phys or Gun
+attack
+[END]
+449: Chance of countering Phys or Gun attack
+to ally
+[END]
+450: High chance of countering Phys or Gun
+attack to ally
+[END]
+451: Recover full HP after battle
+[END]
+452: Recover full MP after battle
+[END]
+453: Recover full HP/MP after battle
+[END]
+454: Recover some HP while walking 
+Inactive when in stock
+[END]
+455: Recover some MP while walking 
+Inactive when in stock
+[END]
+456: Prevents demons from becoming Lost
+Returns them to party 100% of the time
+[END]
+457: Less likely to be targeted by enemies
+[END]
+458: Might make Phys attack at start of battle
+Effect: Pierce, instant kill
+[END]
+459: Might make Phys attack during enemy turn
+Effect: Pierce, instant kill
+[END]
+460: Raises stats every time own weak point
+is hit
+[END]
+461: Slightly increases maximum HP
+[END]
+462: Increases maximum HP
+[END]
+463: Greatly increases maximum HP
+[END]
+464: Slightly increases maximum MP
+[END]
+465: Increases maximum MP
+[END]
+466: Greatly increases maximum MP
+[END]
+467: Strengthens Dark attacks
+[END]
+468: Greatly strengthens Dark attacks
+[END]
+469: Strengthens Light attacks
+[END]
+470: Greatly strengthens Light attacks
+[END]
+471: Enables use of healing/support items
+[END]
+472: Greatly strengthens all attacks
+[END]
+473: Repels Dark attacks
+[END]
+474: Drains Dark attacks
+[END]
+475: Enables use of attack items
+[END]
+476: Repels Light attacks
+[END]
+477: Recover a little HP after a battle
+[END]
+478: Recover a little MP after a battle
+[END]
+479: Light attacks pierce the enemy's
+Light Drain/Repel/Null/Resist
+[END]
+480: Dark attacks pierce the enemy's
+Dark Drain/Repel/Null/Resist
+[END]
+481: Drains Light attacks
+[END]
+482: Decreases chances of suffering ailments
+[END]
+483: Obtain more EXP after battles
+[END]
+484: Obtain much more EXP after battles
+[END]
+485: Increases hit/evade rate
+[END]
+486: Greatly increases hit/evade rate
+[END]
+487: Increases critical hit rate
+[END]
+488: Phys attacks pierce the enemy's
+Phys Drain/Repel/Null/Resist
+[END]
+489: Gun attacks pierce the enemy's
+Gun Drain/Repel/Null/Resist
+[END]
+490: Fire attacks pierce the enemy's
+Fire Drain/Repel/Null/Resist
+[END]
+491: Ice attacks pierce the enemy's
+Ice Drain/Repel/Null/Resist
+[END]
+492: Elec attacks pierce the enemy's
+Elec Drain/Repel/Null/Resist
+[END]
+493: Force attacks pierce the enemy's
+Force Drain/Repel/Null/Resist
+[END]
+494: Strengthens and adds pierce to all attacks
+[END]
+495: Greatly strengthens healing magic
+[END]
+496: Strengthens and adds pierce to Gun attacks
+[END]
+497: Greatly strengthens Magic attacks
+[END]
+498: Greatly strengthens Phys attacks
+[END]
+499: Phys attacks gain pierce. Sneak Attack
+activation rate increased
+[END]
+500: Strengthens Almighty attacks
+[END]

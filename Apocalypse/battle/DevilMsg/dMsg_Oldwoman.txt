@@ -1,0 +1,65 @@
+0: [71 1]Powerless one, drown in power...
+Nothing can start without power.
+[->][END]
+1: [71 1]This new power...
+I give it to [Flynn]. It is my mercy.
+[->][END]
+2: [71 1]It is up to you how to use this power.
+[->][END]
+3: [71 1]What, too many skills?
+Well what a useless contraption...
+[->][END]
+4: [71 1]I see it... You should change [Color:0x5][Skill 1][Color:0x0]
+to [Color:0x5][Skill 2][Color:0x0]!
+[->][END]
+5: [71 1]Yes, accept fate...
+[->][END]
+6: [71 1]...You plan to bend fate's will?
+[->][END]
+7: [71 1]Farewell [Flynn].
+I no longer can stay myself.
+[->][END]
+8: [71 1]That is right, all things change
+constantly...
+[->][END]
+9: [71 1]You should not fear change!
+[->][END]
+10: [71 1]Now, change the world's fate...
+[->][END]
+11: [71 1]The time of change is coming close to
+my body...
+[->][END]
+12: [71 1]This does not fit me. I will give this
+[Color:0x5][Item 1][Color:0x0] to you.
+[->][END]
+13: [71 1]Beloved [Flynn], I shall give you this
+[Color:0x5][Item 1][Color:0x0] that I kept warm with my
+breasts.
+[->][END]
+14: [71 1]Here, take this [Color:0x5][Item 1][Color:0x0].
+This one item will be the difference
+between life and death...
+[->][END]
+15: [71 1]To live through these turbulent times
+you must devour my poison.
+[->][END]
+16: [71 1]Let us fight, now that we are done.
+[->][END]
+17: [71 1]I am [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Be honored I am with you...
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

@@ -1,0 +1,19 @@
+0: Could you come to [Color:0x5]Kansuiji[Color:0x0] in [Color:0x5]Ueno[Color:0x0]? Noa's body has 
+disappeared. I want a proper send−off, but what 
+doesn't exist can't burn or rot... The old men have 
+an idea of what happened, so they want you to [Color:0x5]hear 
+what they have to say[Color:0x0]. Well, I'll be waiting.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: I didn't get to complain, or say thanks... Those old 
+guys are pretty selfish. Listen, [Flynn]. I want you 
+to look forward to the future. Though, I guess you 
+don't need me to tell you that. Well, see you around.
+[END]

@@ -1,0 +1,171 @@
+0: 〉 [11 0]'s [Color:0x1]HP[Color:0x0] increased by [Color:0x1][11 1][Color:0x0]!
+[END]
+1: 〉 [11 0]'s [Color:0x1]MP[Color:0x0] increased by [Color:0x1][11 1][Color:0x0]!
+[END]
+2: 〉 [11 0]'s [Color:0x1]St[Color:0x0] increased by [Color:0x1][11 1][Color:0x0]!
+[END]
+3: 〉 [11 0]'s [Color:0x1]Dx[Color:0x0] increased by [Color:0x1][11 1][Color:0x0]!
+[END]
+4: 〉 [11 0]'s [Color:0x1]Ma[Color:0x0] increased by [Color:0x1][11 1][Color:0x0]!
+[END]
+5: 〉 [11 0]'s [Color:0x1]Ag[Color:0x0] increased by [Color:0x1][11 1][Color:0x0]!
+[END]
+6: 〉 [11 0]'s [Color:0x1]Lu[Color:0x0] increased by [Color:0x1][11 1][Color:0x0]!
+[END]
+7: 〉 [Flynn] obtained [Color:0x1][Item 1][Color:0x0]!
+[END]
+8: 〉 You currently have no received cards.
+[END]
+9: 〉 StreetPass has not been activated on
+this Nintendo 3DS system.
+[->]〉 Select [Color:0x5]ON/OFF[Color:0x0] in the menu 
+and go through the activation steps.
+[END]
+12: 〉 By exchanging StreetPass data with a
+veteran player, you gained [Color:0x5]40 App Points[Color:0x0]!
+[END]
+19: 〉 You receive [Color:0x1][Item 1][Color:0x0] [Color:0x1]x[11 1][Color:0x0]!
+[END]
+20: The attached demon's stats will grow.
+They will also bring back gifts.
+[END]
+21: The attached demon will be fused
+randomly. They will also bring back gifts.
+[END]
+23: 〉 Rankings will be updated after you
+exchange StreetPass data [11 0] more times.
+[END]
+24: 〉 More data required to determine rankings...
+[END]
+25: 〉 Rankings updated!
+[END]
+26: 〉 You got StreetPass data from [Color:0x5][11 0][Color:0x0], 
+who received save data bonuses!
+[END]
+100: 〉 [11 0] fused and became
+[11 1]!
+[END]
+101: 〉 The demon attached to the Growth−type
+card returned from their StreetPass trip.
+[END]
+102: 〉 The demon attached to the Fusion−type
+card returned from their StreetPass trip.
+[END]
+103: 〉 [11 0] improved its skills
+by aiding others, and powered up!
+[END]
+104: 〉 [Color:0x5][11 0] [11 1][Color:0x0] randomly
+fused with some demon...
+[END]
+105: 〉 And returned as [Color:0x5][11 0] [11 1][Color:0x0]!
+[END]
+107: 〉 The [Color:0x5]StreetPass[Color:0x0] feature in this 
+game cannot be used, since StreetPass is
+restricted in Parental Controls.
+[->]〉 If StreetPass had already been activated
+for this game on this Nintendo 3DS system,
+it will be deactivated.
+[END]
+108: 〉 To use this feature, you must accept
+the terms of the Nintendo 3DS
+Service User Agreement.
+[->]〉 In the System Settings, select [Color:0x5]Internet
+Settings[Color:0x0] 〉 [Color:0x5]Other Information[Color:0x0] 〉
+[Color:0x5]User Agreement[Color:0x0] and agree to the terms.
+[->]〉 If StreetPass had already been activated
+for this game on this Nintendo 3DS system,
+it will be deactivated.
+[END]
+109: 〉 The demon attached to the card will
+return automatically.
+[END]
+111: 〉 The demon attached to the card is dead, 
+and cannot be used for StreetPass.
+[END]
+112: 〉 The demon attached to the card is Lost,
+and cannot be used for StreetPass.
+[END]
+113: 〉 You must wait 10 minutes after accepting 
+your DDS Cards before you can access the
+feature again.
+[->]Please wait and try again later.
+[END]
+114: Yes
+No
+[END]
+115: 〉 You received [11 0] DDS Card(s).
+[END]
+116: 〉 No DDS Cards were received.
+[END]
+117: 〉 StreetPass has not been activated for
+this game on this Nintendo 3DS system.
+[->]〉 Select [Color:0x5]ON/OFF[Color:0x0] in the menu and 
+go through the steps to activate it.
+[END]
+120: Using the Internet, you can exchange 
+DDS Cards with random users from all 
+over the world. In order to exchange 
+DDS Cards over the Internet, your need 
+to upload your DDS Card data.
+[END]
+121: Once you have exchanged 
+DDS Cards, you will not be able to 
+exchange them again until 2 hours of 
+game time pass.
+[END]
+122: 〉 Would you like to save your progress 
+and connect to the Internet to exchange 
+DDS Cards?
+[END]
+123: 〉 Canceling DDS Card exchange.
+[END]
+124: 〉 Connecting to the Internet...
+[END]
+125: 〉 Receiving DDS Cards.
+[END]
+127: 〉 Disconnecting...
+[END]
+128: 〉 Connection terminated.
+[END]
+129: 〉 A communication error occurred. 
+Terminating connection.
+[->]〉 In order to avoid having to wait the
+full 2 hours of game time before
+reconnecting to the Internet...
+[->]〉 Would you like to save?
+[END]
+130: 〉 Save canceled.
+[->]〉 In order to connect to the Internet
+again...
+[->]〉 2 hours of game time need to pass.
+[END]
+131: 〉 In order to connect to the Internet...
+[->]〉 [11 0] hours and [11 1] minutes
+of game time need to pass.
+[->]〉 Please wait and try again later.
+[END]
+132: 〉 In order to connect to the Internet...
+[->]〉 [11 1] minutes of game time need to pass.
+[->]〉 Please wait and try again later.
+[END]
+500: 〉 [11 0] already has the
+maximum amount of [Color:0x1]HP[Color:0x0]!
+[END]
+501: 〉 [11 0] already has the
+maximum amount of [Color:0x1]MP[Color:0x0]!
+[END]
+502: 〉 [11 0] already has the
+maximum amount of [Color:0x1]St[Color:0x0]!
+[END]
+503: 〉 [11 0] already has the
+maximum amount of [Color:0x1]Dx[Color:0x0]!
+[END]
+504: 〉 [11 0] already has the
+maximum amount of [Color:0x1]Ma[Color:0x0]!
+[END]
+505: 〉 [11 0] already has the
+maximum amount of [Color:0x1]Ag[Color:0x0]!
+[END]
+506: 〉 [11 0] already has the
+maximum amount of [Color:0x1]Lu[Color:0x0]!
+[END]

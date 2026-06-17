@@ -1,0 +1,33 @@
+0: [7d 16]
+Normal attack: [7d 4] x[7d 3], [7d 5]
+[->][END]
+1: [7d 16]
+Normal attack: [7d 4] x[7d 3], [7d 5]
+[->][END]
+2: Ailment resistance: ?
+Normal attack: ? element x?, ?
+[->][END]
+3: Power swirls around you. 
+You will now drive away weak demons.
+[->][END]
+4: 〉 Is this skill order acceptable?
+[END]
+5: Yes
+No
+[END]
+6: 〉 Changes will be discarded. Is that okay?
+[END]
+7: Finish changing skill order.
+[END]
+8: This will take you out of the domain. 
+Do you want to leave?
+[END]
+9: 〉 You sense the presence of demons
+gathering near you.
+[->][END]
+10: 〉 You sense the presence of demons
+gathering near you.
+[->][END]
+11: Nulls all status ailments
+Normal attack: [7d 4] x[7d 3], [7d 5]
+[->][END]

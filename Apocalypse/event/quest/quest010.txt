@@ -1,0 +1,11 @@
+0: To all Hunters:
+Shesha's been spotted in [Color:0x5]Shinjuku[Color:0x0]. Recent sightings
+place the snake in the [Color:0x5]Metropolitan Government Office 
+Plaza[Color:0x0]. Nearby Hunters are to immediately converge 
+on the serpent's location and defeat him. The plaza is 
+only accessible through Shinjuku's underground 
+district−−surface roads are currently blocked by 
+debris.
+[END]
+1: ダミー
+[END]

@@ -1,0 +1,17 @@
+0: テスト
+[END]
+201: 〉 You have been transported to 
+Tir Na Nog.
+[->]〉 Here, you can obtain experience 
+points by defeating demons.
+[END]
+301: 〉 Will you send your thoughts/opinions?
+〉 Please tell us what you thought.
+[END]
+302: I dug it
+Not so much
+Don't respond
+[END]
+303: 〉 A reply came. It reads, 
+”Thank you for your cooperation.”
+[END]

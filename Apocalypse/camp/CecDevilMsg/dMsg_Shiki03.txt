@@ -1,0 +1,24 @@
+0: [71 1]Patrol... over...
+No... disturbances... as usual!
+[->][END]
+1: [71 1]Patrol... over...
+No... disturbances... as usual!
+[->][END]
+2: [71 1]Patrol... over...
+No... disturbances... as usual!
+[->][END]
+3: [71 1]Now... that I... am back...
+I will... arrest you...!
+[->][END]
+4: [71 1]Now... that I... am back...
+I will... arrest you...!
+[->][END]
+5: [71 1]Now... that I... am back...
+I will... arrest you...!
+[->][END]
+6: [71 1]I've... seized this... for evidence!
+[->][END]
+7: [71 1]I've... seized this... for evidence!
+[->][END]
+8: [71 1]I've... seized this... for evidence!
+[->][END]

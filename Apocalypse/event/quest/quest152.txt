@@ -1,0 +1,19 @@
+0: Hi. It's Betty. Since you're so amazing, I want you 
+to break an Association record. Can you [Color:0x5]negotiate 
+with demons[Color:0x0] and earn [Color:0x5]50000 Macca[Color:0x0]? 
+
+Hehe, I'll be waiting for your report!
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: You've broken the record! Congratulations! No one 
+could have predicted you could have negotiated that 
+much money out of those demons! I'm so happy that we 
+have such an amazing Hunter with us!
+[END]

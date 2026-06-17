@@ -1,0 +1,23 @@
+0: We've learned that a number of medical supplies are
+being housed in a doctor's office not far from the 
+[Color:0x5]National Diet Building[Color:0x0]. The place is long abandoned,
+and demons have been squatting there ever since. 
+We need you to clear them out and reclaim the med 
+supplies within.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: I've sent the medical supplies to Shinjuku, where 
+there's quite a few wounded. Once they're back on 
+their feet, you might see [Color:0x5]a boon to the store sales 
+in the area[Color:0x0]. That should be a big help to your Hunter 
+activities. And with these med supplies available, 
+we'll be better equipped to conduct missions in more
+dangerous areas. Thanks for everything.
+[END]

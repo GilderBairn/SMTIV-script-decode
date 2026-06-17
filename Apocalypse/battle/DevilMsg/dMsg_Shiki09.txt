@@ -1,0 +1,61 @@
+0: [71 1]Take a look, this is power.
+[->][END]
+1: [71 1]Look at this new skill
+born from chaos.
+[->][END]
+2: [71 1]A new power, come gather at my hand...
+[->][END]
+3: [71 1]There is too many skills.
+Which will be the one to disappear in chaos...
+[->][END]
+4: [71 1]I will crush [Color:0x5][Skill 1][Color:0x0]
+and change it to [Color:0x5][Skill 1][Color:0x0]...
+[->][END]
+5: [71 1]Break... and change!
+[->][END]
+6: [71 1]It is necessary at times to keep it alive...
+[->][END]
+7: [71 1](仮)変異選択メッセージ
+[->][END]
+8: [71 1](仮)変異OKメッセージ
+[->][END]
+9: [71 1](仮)変異NGメッセージ
+[->][END]
+10: [71 1](仮)変異完了メッセージ
+[->][END]
+11: [71 1](仮)変異レベル未達メッセージ
+[->][END]
+12: [71 1]Use this [Color:0x5][Item 1][Color:0x0]
+to bring about even more chaos.
+[->][END]
+13: [71 1]I applaude you for wielding power.
+I gift you this [Color:0x5][Item 1][Color:0x0].
+[->][END]
+14: [71 1]Take this [Color:0x5][Item 1][Color:0x0]...
+You have won this with your own power.
+[->][END]
+15: [71 1]The voice that rumbles from the depths
+of chaos... Listen to it now.
+[->][END]
+16: [71 1]Did you hear the voice of chaos?
+[->][END]
+17: [71 1]Are you the one who calls for me?
+Child of man who seeks eternal chaos...
+[->]I am [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Let us bring about even more evolution.
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

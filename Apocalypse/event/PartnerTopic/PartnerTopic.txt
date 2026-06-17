@@ -1,0 +1,1006 @@
+0: パートナートピックは24字表示です 
+あいうえおかきくけこさしすせそたちつてとなにぬねの
+あいうえおかきくけこさしすせそたちつてとなにぬね
+1
+8
+行
+想
+定
+で
+す
+1
+2
+3
+4
+5
+6
+7
+8ここで終了です
+[END]
+1: We did it! We're finally Hunters!
+Dad sees us as more than just kids,
+now! If only Nikkari and Manabu were
+here to see this... We'll just have
+to work twice as hard in their honor!
+They'd be happy to know we became
+successful Hunters, right?
+[END]
+2: Flynn is sooo cool! That angel would've
+wiped the floor with us if he didn't
+show up and kick its butt like it was
+nothing. That's why he's our Liberator!
+But you know who really blew my mind?
+Miss Isabeau. She's so strong, and so
+graceful... I want to be like her.
+
+I don't think Dad would've made us
+Hunters if they hadn't said all those
+nice things about us.
+
+Come to think of it... They really
+helped us out, but we didn't help
+them any. Okay, we need to get stronger
+so that the next time we see them, we
+can help. Right, Nanashi?
+[END]
+3: Hey Nanashi, is it just me or are you 
+talking to yourself all of a sudden? 
+Are you okay? You stressed or something? 
+I know a lot's happened recently.
+
+You know you can talk to me about
+anything, so just let me know, okay?
+[END]
+4: Sorry to get you wrapped up in fairy
+business like this. It was really
+great to have your help, though, so...
+Thanks.
+
+Napaea can be a little space−brained
+sometimes. She didn't mean to cause
+you any undue fuss, so don't hold it
+against her, okay?
+[END]
+5: I can't believe you're possessed−−by
+two different things! When did you
+become such a ghost magnet, Nanashi?
+Are you sure you're okay? Really okay?
+I believe in you no matter what. Just
+promise you'll talk to me if anything's
+wrong. You're my oldest friend, you can
+rely on me!
+[END]
+6: Thanks for your help. Glad we took
+care of that. I know you got a lot
+going on, but don't worry your friend
+too much, okay? Anyhow, drop by and
+say hi if you ever have the time.
+You know where to find me!
+[END]
+7: This place is pretty crazy. Who would've
+thought there was a huge underground
+cavern beneath that well...
+
+What kind of demon do you think they
+have sealed down here? Will they really
+fight for us when we set them free?
+I've kind of got a bad feeling about
+this, but... I'm sure everything will
+be fine!
+
+Okay, let's do our best−−for everyone
+in Tokyo!
+[END]
+8: We might've made a big mistake...
+
+What is Krishna gonna do to Flynn?
+Who the heck are the Divine Powers?
+What's this ”salvation” thing? It
+seems like that Dagda demon knows
+an awful lot about Krishna, but we
+don't know anything!
+
+Well, for now, we need to get to Ginza
+fast and warn Flynn!
+[END]
+9: This is bad. I can't believe that
+giant snake tore a hole in the Ceiling!
+And the Divine Powers got away with
+Flynn...
+
+This is all my fault. If Maitreya
+hadn't grabbed me... No. We should've
+never gone to Kanda−no−yashiro...
+
+No point complaining about what we
+can't change. Only thing we can do
+now is find a way to save Flynn!
+[END]
+10: I can't believe we managed to hold 
+back Shesha... Well, I guess the
+angels and demons helped. And Adramelech...
+
+Ugh! I'm so mad! He was totally messing
+with us! We need to get stronger so we
+can avenge Nikkari and Manabu!
+[END]
+11: I didn't get what anyone said during
+the conference, so I checked out the
+Hunter Notes... And, uh, I think I
+understand a little more now? Well,
+I learned a lot about fried chicken,
+anyhow.
+
+But that doesn't matter! We need to
+tackle those two quests so we can help
+save Flynn and defeat the Divine Powers.
+Let's do it, Nanashi!
+[END]
+12: Sorry about all the crying... It's
+just that when I heard that you're
+dead, it made me feel so worthless...
+How could I not know what's going on?
+
+Of course, it's your fault, too, you
+know! You just acted like everything
+was okay. Geez... Now I feel like an
+idiot for crying so much. Just pretend
+like it never happened, okay!?
+
+I just wanna say that... no matter
+what happens, I'll always be on your
+side. You can always trust me, okay?
+[END]
+13: Looks like you kept Excalibur safe.
+Thanks for taking care of that while
+I protected the fairies. Couldn't have
+done it without you.
+
+You know, I haven't been the fairy
+queen all that long. But even in that
+short amount of time, the fairies
+have become more important to me than
+just about anything else. That's why
+I'll never forgive the Divine Powers
+for what they did to the Fairy Forest.
+
+We need to put a stop to them. I have 
+a feeling you guys have what it takes
+to do that.
+
+Give 'em hell, [Flynn].
+[END]
+14: So there's a teenager like us in the
+Ashura−kai, huh? He doesn't seem all
+that helpful, but at least he's not
+scary like the other Ashura−kai. Maybe
+we can be friends?
+
+I hope so! I wonder if he'd let me
+pet Chiro again. That demon was sooo
+cute and fluffy! I just want to snug
+him up!
+[END]
+15: You're pretty amazing... I mean, we're
+the same age and all, but you're working
+as a Hunter and fighting demons like a
+pro. You're clearly somethin' special.
+I think I could learn a lot from you...
+
+Of course, I'm... not the greatest at
+fighting. Really, I just don't like it.
+But while I might not be much help, I
+still look forward to traveling with 
+you!
+[END]
+16: Medusa had disgusting taste. Why would
+anyone want to turn humans to stone and
+collect them? Sends a shiver down my
+spine just thinking about ending up
+like that...
+
+I suddenly don't think Dad's pipe
+collection is so weird after all.
+Anything's better than collecting people
+you turned to stone...
+
+I wonder if I should start my own
+collection...
+[END]
+17: What's that guy's deal? I've got a bad 
+feeling about him. The only thing
+magnificent about him is how much he
+sucks... Making me call him ”sir”...
+I mean, I guess he IS like a knight
+or whatever, but still...
+
+I just wish all the Samurai were as
+nice as Flynn and Miss Isabeau. Guess
+that's a tall order...
+[END]
+18: We should be celebrating the fact that
+we stomped Shesha, but Gaston's gotten
+under my skin a little. I get that he's
+real proud of his strength and all, but
+that doesn't mean he has to be so rude
+to Asahi...
+
+Is she okay? It seemed like she took
+his alpha−male bullshit pretty hard...
+
+I dunno what you think about Asahi,
+but I can tell she's trying her best.
+Make sure you check in with her, okay?
+[END]
+19: How awesome is it that we get to roll
+with Miss Isabeau!? I can't be mopey
+with her around! I gotta do my best
+to be helpful to her! Let's go beat
+down the Divine Powers and save Flynn!
+[END]
+20: I asked Burroughs to send you a message.
+Did you receive it?
+
+I am very grateful that you let me
+travel with you. I never expected
+such a... warm welcome. I appreciate
+Asahi's enthusiasm. 
+
+Let us put an end to the Divine Powers 
+and rescue Flynn!
+[END]
+21: Man, those old ladies were weird. I'm
+all for energetic eldery, but uh...
+were they literally floating?
+
+Can everyone in the Ring of Gaea float?
+No, there's just no way. Nobody can do
+that. What the hell are they...?
+[END]
+22: We must take that girl with us if we
+are to rescue Flynn. I thought we might
+need to make compromises in order to
+save Flynn, but...
+
+I apologize for losing my composure. 
+I just cannot bring myself to trust 
+Toki. I won't let her lay a hand on
+Flynn...
+
+You should be careful, too.
+[END]
+23: Hey, don't let Gaston get to you, okay?
+
+He just said that 'cause, well, that's
+how he is. I don't think you're deceiving
+us or working for demons or anything
+like that.
+
+I heard what Krishna said, but...
+You're our Leader. I'm having a hard
+time finding the right words here.
+Just know that I'm your friend.
+I don't care what you are−−just who
+you are.
+
+Sorry, I'm rambling. I just thought
+I should say something.
+[END]
+24: I just filed my report on Tsukiji
+Konganji to the Hunter Association...
+They'll probably order you to turn
+yourself in to Cafe Florida tomorrow.
+
+I wish I didn't have to. I really do.
+I feel awful. But I had to do what's
+in the best interest of the people of
+Tokyo, and right now they need to band
+together. If people start thinking
+there's a traitor among us now, everything
+we've worked so hard for will fall apart.
+I did what I had to do to prevent that.
+
+I'll try to make sure they go easy on
+you. Good luck...
+[END]
+25: That was pretty rough. You okay?
+I know I said I'd try to have them
+go easy on you, but there wasn't
+anything I could do. I'm ashamed
+about how that shook out... Sorry.
+
+At least everyone doesn't hate you.
+Some are even thankful for all you've
+done. Don't forget that.
+[END]
+26: Listen well. Do not confuse my
+continued presence for trust. I am
+merely monitoring you, watching for
+any suspicious behavior. You'd best
+be mindful to keep your true nature
+cloaked.
+[END]
+27: Seems like Asahi's got a lot going
+on right now... You shouldn't be so
+hard on yourself either.
+
+I can't think of anything clever to say.
+Look, at least you've got me. And Nozomi.
+And Gaston, sorta? Navarre, too. I can
+only imagine what it's like, to watch
+your dad die... Just remember that you
+and Asahi aren't alone, okay?
+[END]
+28: After all that, Toki wound up coming
+with us anyway...
+
+Tenkai said the Aether will make people
+go crazy. Is Toki going to be alright?
+I know she said not to worry, that she's
+had training, but still. I know I've
+said this before, but I still have a
+bad feeling about that girl, like she'll
+lose it at a moment's notice...
+
+All the same, I don't want her to 
+throw her life away like Gaston 
+suggested. Let's keep an eye on her, 
+yeah?
+[END]
+29: Ladies Mii and Kei told me that each
+Aether jug represents a human desire.
+The jars draw that desire from the
+people of Tokyo, causing it to gather
+up like a mist. Most people couldn't
+handle being around something like
+that.
+
+But as someone trained to switch off
+my emotions, I should be fine. I think.
+
+Listen, just don't run off on me, okay?
+You still owe me from Tsukiji Konganji.
+[END]
+30: I was NOT expecting Inanna to show up.
+
+As the fairy queen, I inherited Danu's
+power. Danu and Inanna used to be the
+same god. It's... hard to explain in
+human terms. You can sorta think of 
+them as mother and daughter, or maybe 
+like Inanna is the older sister and
+Danu the younger one.
+
+Inanna lost her sense of self while
+in the Aether, but I guess closing
+the jars caused her to gather up again.
+
+At least we could beat her before she
+regained all her strength.
+[END]
+31: Did I go too far, punching Gaston like
+that? I should apologize, right? But...
+what should I say? I don't think I did
+anything wrong. I mean, yeah, it's
+wrong to hit someone, but...
+
+Man, what am I doing? Sorry for venting
+on you. I'm gonna take a walk and try
+to cool off.
+[END]
+32: Things got a little weird yesterday, so 
+I'm gonna try again here! I just want you 
+to know that I will always try my hardest, 
+Nanashi. Let's do this!
+
+Also, uh... What I said yesterday? I meant 
+we're ALL in this together!
+[END]
+33: We finally dispatched Shesha. That
+last blow really was the nail in the
+snake's coffin, even if you hammered
+it home. Well, I suppose I can let
+you have credit.
+
+All that remains is to journey to
+Tsukiji Konganji and rescue Flynn.
+And while we do, I can dispose of
+Odin. I realize this is not our
+main goal, of course, but I must
+clear my name! I shall snap his
+spear in twain...
+[END]
+34: It took a little help from Asahi, but
+I finally managed to apologize to Gaston.
+
+I knew he wasn't such a bad guy.
+I shouldn't have dragged my feet so
+much, but it's like... It never gets
+any easier, no matter how old I get.
+Know what I'm saying?
+
+Anyway, sorry for causing a fuss.
+I hope I can keep helping you out!
+[END]
+35: I've heard word of your deeds since
+we last saw one another in Shinjuku.
+Not only did you remove the Tokugawa
+Mandala and defeat Maitreya, you also
+stopped Shesha in Ikebukuro.
+
+I can hardly believe how much you've
+grown in this short amount of time.
+
+I'm grateful to have you on our side. 
+Now, let us go rescue Flynn!
+[END]
+36: We did it! We killed Adramelech and
+got revenge for Nikkari and Manabu!
+I hope their souls can be at peace,
+now... What do you think they'd say
+to us if they were still here? Do you
+think they'd be proud of how much we've
+grown?
+
+It's hard to imagine what they'd say.
+Maybe they wouldn't have wanted us
+to avenge them like that...?
+
+Well, enough moping! We saved Flynn,
+so there's no reason to be down.
+[END]
+37: I left the Ring of Gaea. I had no
+choice, but I do not regret my
+decision to stay with you. I refuse
+to be the Ring's slave anymore.
+Maybe I was affected by the Aether,
+who knows. It doesn't change that
+this is my choice. I regret nothing.
+
+Besides, when I'm with you I actually
+feel... Happy? Glad? I don't know,
+I just get this tingling sensation in
+my chest and stomach. I want to know
+what this feeling is. I know I'm not
+being very clear, but... I just wanted
+you to know how I feel. 
+
+Sorry, this must be confusing to read.
+When I figure it all out, I'll talk to
+you again. Until then, I look forward
+to working with you, Master.
+[END]
+38: Thank you for helping me rescue Flynn.
+He's at Kasumigaseki right now, having
+his wounds looked over. They're not so
+deep, so he's in no danger. I'm so
+relieved.
+
+I could have never rescued Flynn on
+my own. Truly, I am in your debt.
+[END]
+39: Gaston really went back to Mikado...
+I've never seen him so down.
+
+It's weird. I knew this had to happen
+eventually, but it just doesn't sit
+right. I REALLY don't like parting
+ways like this. 
+
+And now we're going to sneak into
+Mikado? What should we do if we see
+Gaston?
+[END]
+40: Nanashi! What do you think of my makeup?
+Do I look older? I never wear this stuff,
+so I wasn't sure I'd look good, but I
+think it came out okay! Isn't it so chic?
+
+Hm, if you like it, maybe I'll start
+wearing makeup more often. What do you
+think?
+[END]
+41: Er, I guess Asahi's never worn makeup
+before, huh? I didn't think she'd cake
+it on like that. Sorry...
+
+But when I saw how happy it made her,
+well, how could I say anything? It's 
+my bad, really. Should've shown her
+the ropes from the start. Good thing
+she's naturally pretty...
+
+Toki's came out pretty good, though.
+Think the Ring of Gaea gave her some
+beauty training, too?
+[END]
+42: Mikado's amazing. The air tastes so...
+clean. And the sun... I mean, I caught
+a glimpse when Shesha burst through
+the Ceiling, but I never thought it'd
+be so bright and warm.
+
+If I knew this is what it's like outside
+the dome, I'd have done all I could to
+get out there...
+
+I guess I understand how those Hunters
+who tried to get above the Ceiling felt.
+[END]
+43: It's so bright... The clean air is
+nice, and the cool winds, but I'm
+still getting used to all the light.
+I should try meditating up here...
+
+Oh yeah, it's a bit far, but I hear
+there's an actual lake just outside
+the castle. Would you like to go see
+it with me, Master?
+[END]
+44: Hehehe... I imitated this thumb−y thing
+you all do. Did you receive this?
+
+If so, I just wanted to say that I
+never thought I'd return to the
+Eastern Kingdom of Mikado. As a refugee,
+I'd hoped to never set foot above the
+Ceiling again. I suppose I had no
+choice, however. You'd be lost without
+me, after all.
+
+Now then, let's hurry along and unearth
+the information you need so we can
+return to Tokyo. Go forth, my student!
+[END]
+45: So much has happened! The most
+surprising thing is finding out that
+Hallelujah is half demon. All this
+time he acted like he couldn't fight,
+and now he's hurling magic left and
+right!
+
+Does this mean that I'm the only one
+not pulling her weight in battle...?
+
+...No, I'm trying my hardest. Sure, I'm
+not much help when it comes to laying
+on the hurt, but I know how to heal
+really well, right?
+[END]
+46: I've lost everything... The Crusaders
+have been disbanded, I've been stripped
+of my rank, and now no one will follow
+me. All that remains is the mighty
+spear bestowed upon me by Lord Merkabah.
+If no one recognizes my magnificence,
+I might as well be dead.
+
+But not you. You relied on me to escape
+the prison cell, and when we fled using
+the Terminal. That's why I've decided
+to stay with you. There's no place for
+me in the Eastern Kingdom of Mikado.
+I'm no different than my cowardly
+brother. I suppose we really are alike...
+
+[END]
+47: The ceasefire's over and Armageddon's
+begun... I guess it had to happen
+sooner or later.
+
+I can't side with the angels or the
+demons. I must walk my own path, for
+the fairies. But I can't force that
+same decision on anyone else. I won't
+hesitate to give you my two cents,
+but at the end of the day you have to
+make your own decision. Whether you
+want to listen to me is entirely up
+to you. 
+
+But I trust you. I'm sure you'll lead
+us to freedom. Just believe in yourself
+and follow your heart.
+
+Sorry this turned into another lecture.
+I'm sure you won't have to think too
+hard about it.
+[END]
+48: I want to fight alongside you guys.
+I want to be with you, Leader. But...
+something's still holding me back.
+
+I respect Abe, and I have an obligation
+to the Ashura−kai. But I have this
+feeling that I'm going to wind up
+standing against Bro some day. And
+before that day comes, I need to ready
+myself.
+[END]
+49: I'm relieved to see you again.
+I feared the worst after our capture
+in the Eastern Kingdom of Mikado.
+After you were thrown in prison,
+Commander Hope questioned me elsewhere.
+I should say, Commander Hope is the
+head of the Samurai order. Eventually,
+he arranged to have serious charges
+dismissed and allowed me to accompany
+the other Samurai dispatched to Tokyo.
+That is how I was able to reunite with
+you.
+
+I'm indebted to the Commander. When
+next I see him, I must give him my
+thanks. Perhaps, if the opportunity
+presents itself, I can introduce the
+two of you. I suspect you would see
+eye to eye.
+[END]
+50: This is turning into quite the
+spectacle. So this is what unbridled
+war between the angels and the demons
+is like.
+
+What do you intend to do? Will you
+side with the angels or the demons?
+Perchance, neither? Regardless, war
+is unavoidable, now.
+
+Flynn and Isabeau are my fellow Samurai.
+But so, too, are Jonathan and Walter.
+Er... Merkabah and Lucifer. I would
+rather there be no quarreling between
+Samurai. Alas, were that only possible...
+
+I suppose the only course available
+to me is to walk my own path. I have
+faith in you, [Flynn].
+[END]
+51: That was one helluva day, but we got
+through it. Now that Merkabah and
+Lucifer are gone, the fairies can
+finally live in peace.
+
+Oh yeah, the Hunter Association is
+throwing a big party to celebrate.
+I hear there'll be a keg and everything.
+Don't ask me where they got it, but
+it sure sounds like fun! Oh... I guess
+you're all underage, huh. Well, maybe
+we can find you some non−alcoholic
+champagne or something.
+
+...Do you guys even know what a keg
+is?
+
+Anyway, let's let loose and have some
+fuuuuun!
+[END]
+52: It's over. Merkabah, Lucifer, the
+Divine Powers are all gone. There's
+no one left to step on humanity...
+
+Have you decided what's next for you?
+Will you continue working as a Hunter?
+If so, would you... let me join you?
+
+I've always wanted to become stronger,
+but ever since meeting you something
+changed. I don't know what that is
+just yet, but... I want to stay with
+you so I can find out. Is that okay?
+[END]
+53: It feels like a lifetime since we
+started fighting, and yet, now
+Armageddon is finally over...
+
+In this new peace, Tokyo and the 
+Eastern Kingdom of Mikado will work 
+together to restore the city.
+
+As for me, I can finally continue
+reading my manga without distraction
+or interruption. I've heard whispers
+that an eleventh volume exists
+somewhere in Tokyo. I must investigate
+this rumor at once!
+[END]
+54: I've felt so invigorated ever since
+snapping the Spear of Michael in twain.
+I suppose you might say that victory
+restored some of my former vitality.
+
+I have, however, started seeing strange
+things. This green entity that hovers
+about you looks a great deal like...
+And sounds like... But no, it cannot
+be. It's simply impossible!
+
+Nrgh... Apologies. Please allow me
+some time to compose my thoughts.
+[END]
+55: I can't believe I did that. I can't
+believe I declared myself the new
+leader of the Ashura−kai. I'm so
+embarrassed...
+
+After I left you, things got pretty
+crazy. Some of the higher−ups were
+pissed. They swarmed me, saying that
+if I wanted to be the official leader
+of the Ashura−kai I needed to do this
+and that and that and this... I spent
+hours going through a whole mess of
+boring paperwork. But now I've
+officially replaced Abe, and things
+are starting to settle down again.
+(Though I had to flex some half−demon
+muscle to get that to happen...)
+
+Gives me a headache just thinking
+about all the stuff I still gotta do,
+but... Well, I gotta do it!
+[END]
+56: Well done, my boy! You not only saved
+Tokyo, but the Eastern Kingdom of
+Mikado as well! No doubt your victory
+was assured because I accompanied you!
+Hehehe, sometimes I impress even myself.
+
+But I must admit, you did fight hard.
+So long as we're together, nothing
+can stand in our way!
+
+Let us go forth, then, my stu−−no.
+My partner!
+[END]
+57: They're throwing a party! I can't wait!
+I've never gone to a big bash like this
+before.
+
+Should I just wear what I usually wear?
+Should I put on makeup again? I bet
+there's gonna be a ton of food. Maybe
+I should bring a box to take some back
+with me... OMG I'm just so excited!
+
+I'm sure there's lots more fun in
+store for us, if only to make up for
+all the pain we've suffered to get
+here. It'll be you and me forever,
+Nanashi!
+[END]
+58: Deceiving us all with an impostor
+posing as Flynn... the Divine Powers'
+depravities know no bounds. I still
+can't believe what they did to Asahi...
+
+I vow, here and now, to avenge her!
+[END]
+59: Odin's spear, Gungnir, is rather
+impressive. Not quite as spectacular
+as the Spear of Michael, mind you,
+but in its own ways quite a weapon.
+Sharper, for one. And it appears to
+be enchanted. I believe it can pierce
+through any enemy barriers...
+
+Ha! I'm one step closer to reclaiming
+my magnificence! Hahaha!
+[END]
+60: I can't believe Inanna's been lurking inside 
+of Toki this whole time. I guess she clung on 
+from Toki's exposure to the Aether, slowly 
+regaining strength...
+
+This is all my fault. I should've noticed 
+something sooner...
+
+But there's no point living in the past. 
+We need to push on and figure out what to 
+do about Inanna. I gotta make up for 
+letting this get by me!
+[END]
+61: My memory's a little fuzzy, but I
+have a grasp on most of what's happened.
+I guess I caused a lot of trouble for
+you... I'm sorry. I didn't know Inanna
+had changed me. If you could just forget
+about how I've been acting, I'd appreciate
+it.
+
+Though, I don't think my behavior as
+of late was entirely caused by Inanna...
+
+Do you... Would you mind if I still
+called you Master when we're alone?
+[END]
+62: Now that Danu's absorbed Inanna, I
+can... feel her thoughts inside of
+me. She just wanted something she'd
+lost. Not just her power. She thinks
+of everything, everyone, as her
+children, and thought that we were
+taking it all away from her in our
+actions.
+
+That doesn't mean I think it was wrong
+to stop her. She needed to let go. If
+I still let my mother run my life, I
+wouldn't be able to be fairy queen!
+[END]
+63: Sorry for bothering you so late with
+this, but it's been bugging me, and if
+I don't ask now I'll regret it. So...
+
+Do you have any idea what Mitra was
+talking about? Gaston and Toki seemed
+to get it, but I don't want to ask
+Gaston because he'll probably make fun
+of me, and I'm embarrassed to ask Toki
+because she's younger than me. So
+do you know?
+
+That dude talks like someone from a shitty
+anime or something...
+[END]
+64: If you're reading this, then you've
+already come to a decision regarding
+Dagda's offer. I don't know what you'll
+choose, and it's not my place to give
+my ghostly thoughts on the matter,
+but all the same...
+
+Just know that we believe in you.
+All of us. I truly believe you want
+to walk the same path we do.
+[END]
+65: If you're reading this, then you've
+already come to a decision regarding
+Dagda's offer. I don't know what you'll
+choose, but I can't shake this feeling
+your heart doesn't want the same thing.
+
+I've watched you all this time, and I
+can see that you're not quite like the
+others. I suspect you do not see us
+in your future. But while I still have
+your ear, let me impart one last bit
+of elderly wisdom...
+
+Regardless of what you choose, regret
+nothing. You don't want to wind up like
+me!
+[END]
+66: I can't believe I'm back. It feels so
+strange. I'm suddenly so aware of all
+the things I took for granted, before.
+
+But leaping in and taking that hit for
+you−−I was pretty badass, wasn't I?
+I mean, it would've been cooler if I
+hadn't died and made everyone sad, but...
+Well, I'm okay now!
+[END]
+67: From the moment I laid eyes on you
+in Kinshicho, I knew you were someone
+special, someone who could do anything
+they put their mind to. Indeed!
+
+And now, with Asahi back among us,
+things are starting to look up all
+around!
+[END]
+68: I've been dropping by the Fairy Forest
+these past few days, making sure I don't
+slack in my fairy queen responsibilities.
+
+You know that big, giant cherry blossom
+tree? The Divine Powers really did a
+number on it. I thought maybe I could
+use my new powers−−from Inanna−−to heal it, 
+but, no such luck. Sometimes reality's a 
+bitch. I'll just keep trying every day. 
+Maybe I can heal it little by little.
+
+Once I get it on the mend, we can all
+hang out and watch the flowers fall.
+Can't wait!
+[END]
+69: Running the Ashura−kai's a tough job.
+
+Clearing wreckage, building temporary
+housing, establishing infrastructure,
+scheduling, budgets, negotiations with
+Mikado... The list goes on and on.
+
+Of course, it's not like I'm doing all
+that alone, but I still need to approve
+every aspect of our operation, not to
+mention handle inspections and deal
+with people... Honestly, the gig's a
+lot different than I'd imagined.
+
+But I'm not complaining. Sure, it's a
+pain sometimes, but it feels good to
+do something meaningful, something
+that helps people, instead of just
+fighting angels and demons all the 
+time.
+[END]
+70: I returned to the Eastern Kingdom of
+Mikado to build a proper grave for my
+brother. It's odd, being able to see
+him as a ghost, and stranger still to
+dig a grave for one I can still speak
+with, but I think it's brought some
+peace of mind to my mother and father.
+[END]
+71: I've decided to get a new mask. There's
+nothing wrong with my old one, it's just...
+not very cute.
+
+I've tried a few different ones now,
+but none feel right to me. Maybe you
+could come with me and help pick a
+new one out?
+[END]
+72: Flynn and I toured Tokyo together.
+The restoration is going quite well,
+and the people are starting to seem
+more hopeful. It's already much
+different than when I first came here.
+
+This is, of course, all thanks to you,
+[Flynn]. All of us−−Flynn, the people
+of Tokyo, the people of Mikado−−we are
+all in your debt.
+
+Thank you.
+[END]
+73: Running a Hunter Association is harder
+than I thought. I had no idea how much
+responsibility Dad had. If I'd known
+how much work was involved, I wouldn't
+have acted the way I did with him. Still,
+I feel like I'm getting to know him
+better, doing this. It's hard work, but...
+I'm happy. I even started learning how
+to be a bartender. It's not half bad!
+
+None of this means I won't keep working
+as a Hunter with you, Nanashi!
+[END]
+74: You all have been so active as of late.
+It seems you've really taken my teachings
+to heart. I fear I might be the only one
+standing still...
+
+Perhaps I should find a hobby for
+myself. Since I'm a ghost, I suppose
+I could take to haunting people.
+Though, no one owuld be able to see
+me, would they...
+
+Why don't you find a fitting hobby
+for me! I'm counting on you, my top
+pupil!
+[END]
+75: I wanted to formally thank you for
+rescuing me, [Flynn].
+
+I am confident that the two of us
+will find a way to break humanity
+free of YHVH. Let us finish this
+fight together. I vow to protect
+you to my last breath.
+[END]
+99: You have received a gift from the
+Hunters in thanks for defeating Lucifer
+and Merkabah. I'll transfer that to you
+now.
+
+The hopes of everyone rest upon your
+shoulders. Good luck, Master.
+[END]

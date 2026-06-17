@@ -1,0 +1,28 @@
+0: 〉 Overwriting this save.
+Continue?
+[END]
+1: Yes
+No
+[END]
+2: 〉 While saving, do not turn off the system
+or remove the Game Card or SD card.
+[END]
+3: 〉 Save complete.
+[END]
+4: 〉 Save failed.
+[END]
+5: 〉 While loading, do not turn off the system
+or remove the Game Card or SD card.
+[END]
+6: 〉 Load complete.
+[END]
+7: 〉 Load failed.
+[END]
+10: 〉 Save data will be created. Continue?
+[END]
+11: If you save in this slot, [Color:0x5]the save data
+will be stored on the SD card[Color:0x0].
+[END]
+12: 〉 Data that has been saved on the
+SD card can be loaded from here.
+[END]

@@ -1,0 +1,22 @@
+0: Please locate the bodies of the failed Hunter supply
+party and [Color:0x5]retrieve their phones[Color:0x0]. They should be in
+[Color:0x5]Asakusa Land, directly east of Ueno[Color:0x0]. While it used to
+be a fairly safe place, a demon recently put up a
+powerful Domain, so be cautious.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: This should be a big help since we're running low
+on phones at the Association. As an added bonus,
+[Color:0x5]business is booming in Ueno now[Color:0x0] because of your
+efforts! Hopefully, you can continue doing quests
+like this for us. One last thing... always keep
+your phone visible on your person in case other
+Hunters need to find it.
+[END]

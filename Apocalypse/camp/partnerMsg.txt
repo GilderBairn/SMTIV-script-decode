@@ -1,0 +1,12 @@
+0: 〉 Set [Demon name 1] as your Main Partner?
+[END]
+1: Yes
+No
+[END]
+2: 〉 Remove your Main Partner?
+[END]
+3: 〉 [Demon name 1] has been set as your Main
+Partner.
+[END]
+4: Choose a Main Partner.
+[END]

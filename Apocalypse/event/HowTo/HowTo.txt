@@ -1,0 +1,440 @@
+10: Making contact with an enemy will initiate
+combat.
+
+If you press the X Button to attack enemies
+before they touch you...
+[END]
+11: ...you get a preemptive attack at the start
+of battle!
+
+However, certain battles will not allow a
+preemptive attack.
+[END]
+20: [Color:0x5]Press Turn Icons[Color:0x0]
+The blue icons in the top right corner of
+the top screen are called Press Turn Icons.
+They represent the number of actions you
+can perform this turn.
+[END]
+21: In general, the number of icons at the start
+is equal to the number of your party members.
+
+[Color:0x5]Flashing Icons[Color:0x0]
+When you exploit an enemy's weakness or land
+a critical hit, a Press Turn Icon will flash,
+signifying that you can take an extra action.
+
+[Color:0x5]Battle Tips[Color:0x0]
+Exploiting enemy weaknesses and gaining more 
+actions per turn is the key to victory. 
+Juggling basic attacks and skills with elemental 
+properties such as Ice and Elec will let you hit
+multiple enemies' weaknesses.
+
+But just as you can gain actions, you can also
+lose them. If your attack misses or is nullified,
+you'll lose more than just one Press Turn Icon,
+leaving you at a disadvantage.
+
+The same applies to enemies. If an enemy hits
+your weakness, they'll gain more actions. If
+you dodge their attack or nullify it, however,
+the enemy will lose more actions.
+
+This concludes the flow of battle overview.
+Keep an eye out for enemy weaknesses, be mindful
+of your own, and look for opportunities to turn
+the tide of battle in your favor.
+[END]
+30: When [Flynn] levels up, you can improve his stats.
+
+You can allocate the stat points you earn by
+leveling up any way you want.
+[END]
+31: There are five stats: Strength, Dexterity, Magic,
+Agility, and Luck.
+
+[Color:0x5]Strength[Color:0x0]
+Affects the power of normal attacks and Phys skills.
+
+[Color:0x5]Dexterity[Color:0x0]
+Affects the power of gun attacks and skills.
+
+[Color:0x5]Magic[Color:0x0]
+Affects the power of magic skills.
+
+[Color:0x5]Agility[Color:0x0]
+Affects attack accuracy, evasion, turn order, 
+and chance of escaping from battle.
+
+[Color:0x5]Luck[Color:0x0]
+Affects things like critical hits and status
+ailment recovery.
+[END]
+40: Relics are obtained from certain spots on the
+field map. Relics can be sold to weapon and
+item shops for Macca.
+
+Relics are found by investigating buildings 
+and piles of debris on the ground.
+[END]
+41: After sufficient time has passed, new relics
+appear in spots you've already searched before,
+so always be on the look out for more.
+[END]
+50: Tap the Mapper icon on the bottom screen to
+open the app.
+[END]
+51: Mapper lets you survey the area and helps guide
+you to your current destination. Quest objectives
+are displayed on the top screen.
+
+Mapper has four main features:
+
+[Color:0x5]Current Location[Color:0x0]
+Centers the map on your current position. 
+Press the Y Button to trigger this view.
+
+[Color:0x5]Destination[Color:0x0]
+Centers the map on your destination, marked with
+a red flag. Press the X Button to view it.
+[END]
+52: [Color:0x5]Zoom[Color:0x0]
+Tap − to zoom out, + to zoom in. Pressing the
+A Button also switches between these two views.
+
+[Color:0x5]Change Floors[Color:0x0]
+Tap ↑ to show the next floor up, ↓ to show the
+next floor down. You can cycle through floors by
+pressing Up and Down on the +Control Pad too.
+[END]
+60: When you leave an area, you're taken back to
+the world map. Several Mapper features are
+only available for use on the world map.
+
+[Color:0x5]Toggle Location Names[Color:0x0]
+Turn location names on or off. 
+Toggle with R Button.
+
+[Color:0x5]Change Display[Color:0x0]
+Cycle through map indicators, such as relics
+or key locations.
+
+Current Location and Destination behave the
+same on the world map as they do in areas.
+[END]
+70: Certain actions, like exploiting an enemy's
+weakness, will grant you the Smirk status.
+[END]
+71: When Smirking, your attacks have a 100% hit
+rate and are always critical hits.
+
+Additionally, enemies can't land critical hits
+on you, nor exploit your own weakness.
+
+Smirk ends after you've attacked an enemy, 
+after several turns, or if you're inflicted
+with a status ailment.
+
+The most common ways to gain the Smirk status are:
+ − Exploit an enemy's weakness
+ − Land a critical hit
+ − Nullify, repel, or drain an enemy's attack
+[END]
+80: Unlock new Apps by spending App Points.
+[END]
+81: Earn App Points by leveling up or by using
+certain items.
+
+Some Apps become available through leveling.
+Others open up by unlocking specific Apps.
+
+Newcomers might consider starting with these 
+four apps:
+
+[Color:0x5]Analyze[Color:0x0]
+View demon data during battle. Weaknesses will
+show for any demons you've fought before or
+have had in your party.
+
+[Color:0x5]Skill Expansion[Color:0x0]
+Grants [Flynn] an additional skill slot, allowing
+him to have more skills at once.
+
+[Color:0x5]Demon Skill+[Color:0x0]
+Grants demons an additional skill slot, allowing
+them to have more skills at once.
+
+[Color:0x5]Expand Stock[Color:0x0]
+Adds an additional slot to your demon stock.
+You cannot recruit demons if your stock is
+full. The Expand Stock app increases your
+stock space by one.
+[END]
+90: StreetPass lets you attach a demon to a DDS
+(Digital Demon Service) Card and exchange
+them with other players. These exchanges
+can yield several benefits.
+[END]
+91: There are two kinds of DDS interactions:
+− StreetPass
+− Internet
+
+[Color:0x5]StreetPass[Color:0x0]
+
+  [Color:0x5]Growth Type[Color:0x0]
+  Stats of attached demon increased based on
+  number of StreetPass exchanges made.
+
+  [Color:0x5]Fusion Type[Color:0x0]
+  Attached demon will fuse with other player's
+  demon and become a new one. Be mindful not
+  to attach a demon you don't want to change.
+
+[Color:0x5]Internet[Color:0x0]
+By selecting ”DDS” and then ”Internet”
+to connect online, you can upload your DDS
+Card and download the DDS Cards of other players.
+
+After downloading a DDS Card through the
+Internet, you won't be able to download
+again for two hours of cumulative game time.
+[END]
+100: During battle, use Talk to access the 
+Scout option. Successfully Scouting a demon 
+allows you to use them as allies in battle.
+[END]
+101: There's a pattern to what responses demons prefer,
+so observe their speech patterns closely to look
+for clues. Even if negotiation fails, a demon
+might take a liking to you if you continue to
+speak with them.
+
+Having a conversation consumes Press Turn Icons.
+The amount varies depending on the outcome of
+the conversation.
+
+You can only recruit a demon through Scouting
+if you have room in your stock and if the demon
+is the same level as you or lower. There are
+select demons that cannot be recruited even if
+these conditions are met.
+
+Also, you cannot recruit a demon if you already 
+have the same one in stock.
+[END]
+110: When a demon's learned all its hidden skills,
+it can pass along whispered skills.
+[END]
+111: A whispered skill is one the demon can share 
+with the protagonist. Learning whispered skills
+helps make the protagonist stronger. Some demon
+skills cannot be passed on, however.
+
+When the protagonist already knows a whispered
+skill, that skill gains an upgrade. Each skill
+has an upgrade limit, however, and once reached
+the upgrade number shown on screen will turn from 
+green to yellow.
+
+[Color:0x5]Demon Skills and Affinities[Color:0x0]
+Demon skills cannot be strengthened. Instead,
+demons have innate affinities for specific
+types of skills. The higher their affinity
+is, the better they are at those skills.
+
+If a demon's affinity is at the max
+level for that skill type, the number
+shown on screen will be yellow.
+Conversely, if it is at the lowest
+level, the number will be magenta.
+
+You can check a demon's skill affinities on
+the status screen.
+[END]
+112: [Color:0x5]Changing Skill Order[Color:0x0]
+To change the order skills are listed,
+select ”Skill Order” from the ”Party” menu.
+[END]
+120: Partners are characters that aid you and your
+demons in battle.
+[END]
+121: Partners act at the end of your turn. While
+you can't choose their actions, they will
+perform a variety of skills to help support you.
+
+Be warned: If your attack is repelled or drained,
+causing you to lose your turn, your partner's turn
+will be skipped, too.
+
+Like the protagonist, partners have their own HP.
+If their HP reaches 0, they're left unable to act.
+After several turns, however, they'll rejoin the
+fight.
+[END]
+130: [Color:0x5]Main Partner[Color:0x0]
+Your Main Partner will assist you in battle.
+There can only be one Main Partner at a time.
+You can change your Main Partner from the
+”Partner” menu.
+[END]
+131: Every partner has their own style of support
+and set of skills. Selecting the partner that
+most suits your playstyle is another way to
+help turn the tide of battle in your favor.
+[END]
+140: Challenge Quests are automatically registered
+to your phone whenever specific conditions are
+met. These quests can be completed at any time.
+[END]
+141: Completing Challenge Quests gains you additional
+experience points along with a reward, so it's wise
+to take these on between main story moments.
+
+There are five types of quests−−delivery, combat,
+travel, achievement, and training−−each with their 
+own specific conditions.
+[END]
+142: [Color:0x5]Delivery Quests[Color:0x0]
+Quests that require a specific item or demon
+be delivered to a Hunter Association.
+
+[Color:0x5]Combat Quests[Color:0x0]
+Quests that require a specific demon or group
+of demons be defeated.
+
+[Color:0x5]Travel Quests[Color:0x0]
+Quests that require you to reach a specific
+location.
+
+[Color:0x5]Achievement Quests[Color:0x0]
+Quests that are completed once you reach a
+specific record. Progress is tracked in the
+Play Log.
+
+[Color:0x5]Training Quests[Color:0x0]
+Quests that require you to meet an objective
+using specified conditions. There is no penalty
+for failure, so these quests can be tried as
+many times as you want until you beat them.
+Access Training Quests by accepting them from
+the Challenge Quests list.
+Occasionally, you will receive additional 
+rewards for completing Challenge Quests 
+in addition to your normal rewards.
+[END]
+150: Force skills and select special skills have
+a low chance of causing your demons to become
+Lost.
+[END]
+151: Demons with the Lost status are forcibly removed
+from battle, and cannot be resummoned until they're
+found.
+
+Whenever you get into a new encounter, there's
+a chance the Lost demon will appear. When it
+does, the demon will rejoin your stock.
+[END]
+160: Examining Power Spots fills the Jade Dagger 
+with spirit energy.
+[END]
+161: Once filled, pressing the X Button will cause
+Navarre to charge forward and attack with the
+Jade Dagger. This can do two things:
+
+[Color:0x5]Destroy Wraith Walls[Color:0x0]
+The Jade Dagger can destroy Wraith Walls that
+block the way.
+[END]
+162: [Color:0x5]Repel Enemies[Color:0x0]
+The Jade Dagger can be used against enemies
+that are a lower level than the protagonist
+to prevent an encounter.
+
+The Jade Dagger's spirit energy drains as
+you move. Once the spirit energy runs out,
+you won't be able to perform either action.
+[END]
+170: Assist Attacks interrupt an enemy turn, gaining
+you an additional one. After your partners use
+support skills, they all team up to deliver a
+massive attack.
+[END]
+171: The Assist Gauge increases with each action
+your partner takes during battle. Once full,
+an Assist Attack will trigger at the end of
+the turn.
+[END]
+180: Some areas contain traps that restrain the
+protagonist.
+[END]
+181: Escape from traps by rapidly pressing the X
+Button. If you don't escape in time, you'll be
+transported to a different part of the area.
+[END]
+190: [Color:0x5]Messiah Blast[Color:0x0]
+Flynn and the protagonist can team up to unleash
+a powerful skill called Messiah Blast.
+[END]
+191: Messiah Blast can only be performed when Smirking.
+
+To activate Messiah Blast, choose ”Flynn” from
+the battle menu during the protagonist's turn.
+[END]
+200: In YHVH's Universe, Flynn will support the
+protagonist in various ways.
+
+[Color:0x5]Enemy Removal[Color:0x0]
+When Flynn sees an enemy, he will run up and 
+defeat it.
+[END]
+201: [Color:0x5]Macca and Items[Color:0x0]
+Flynn will collect Macca and items from the
+enemies he defeats. Speak with him to receive
+anything he collected.
+[END]
+202: [Color:0x5]Disabling Traps[Color:0x0]
+Flynn will free the protagonist from any traps
+he gets caught in.
+
+If Flynn is fighting a different enemy, the
+”Flynn” option won't be available during combat.
+After several turns, Flynn will rejoin you.
+When he does, the Messiah Blast option will
+be available again.
+[END]
+210: When fighting YHVH, you will alternate between
+the protagonist's party and Flynn's party.
+
+Healing and support effects only apply to the
+active party.
+
+Similarly, Flynn can only access items he
+himself is carrying.
+[END]
+220: During Smirk, some skills will gain an additional
+effect. These effects vary depending on the skill.
+
+For example, during Smirk, Hama and Mudo gain
+the chance to cause an instant kill.
+
+Enemies also gain these effects during Smirk.
+[END]
+230: You can save and change difficulty from the 
+System menu.
+
+[Color:0x5]Saving[Color:0x0]
+The first slot saves to the Game Card,
+while slots 2 through 5 save to the SD card.
+For the downloadable version of the game,
+all slots save to the SD card.
+
+[Color:0x5]Difficulty[Color:0x0]
+There are three difficulty levels: Skirmish,
+Conflict, and War. Conflict is the standard 
+difficulty.
+
+Story and quest rewards do not change based
+on difficulty level. Choose whichever most
+suits your personal skill level.
+[END]

@@ -1,0 +1,184 @@
+0: Dummy Message
+[END]
+1: [71 1]You can't talk me into it, ho!
+I'm not going back to work! Ho!
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]...Why are you looking at me like
+that, hee−ho? What's with those
+hands, ho?
+[->][END]
+19: [71 1]My Macca...
+Why are you doing this, ho?
+[->][END]
+20: [71 1]My Macca is my Macca, ho!
+I'll fight for it, ho!
+[->][END]
+21: [71 1]Heeeeeee−hoooooo!
+[->][END]
+22: [71 1]H−Humans are dirty, ho!
+They always trick me, ho...!
+[->][END]
+23: [71 1]I'm mad, ho! I'm becoming
+Red Frost, ho!
+[->][END]
+24: [71 1]I can't move, ho!
+Do humans have no sympathy, ho!?
+[->][END]
+25: [71 1]Ho? You want to negotiate with me?
+...Well, let's see...
+[->][END]
+26: [71 1]I'll strike a deal with you,
+hee−ho. Give and take, ho!
+[->][END]
+27: [71 1]Hee hee ho. You want my stuff, ho?
+Wellllll, if you insist...
+[->][END]
+28: [71 1]I'll give you a lot, so thank me,
+ho!
+[->][END]
+29: [71 1]The world's all about money, ho!
+Let's settle this in one go! Ho!
+[->][Amount 1] Macca! How's that, ho?
+[->][END]
+30: [71 1]Will you give me [Item 1] x[Amount 1]?
+[->][END]
+31: [71 1]Will you give me [Amount 1] Macca, ho?
+[->][END]
+32: [71 1]Will you give me just a smidgen
+of your life, ho?
+[->][END]
+33: [71 1]Will you give me some of your
+life, ho?
+[->][END]
+34: [71 1]Will you give me lots of your
+life, ho?
+[->][END]
+35: [71 1]Will you give me a whole chunk of
+your life, ho?
+[->][END]
+36: [71 1]Will you give me just a smidgen of
+your spirit, ho?
+[->][END]
+37: [71 1]Will you give me some of your
+spirit, ho?
+[->][END]
+38: [71 1]Will you give me lots of your
+spirit, ho?
+[->][END]
+39: [71 1]Will you give me a whole chunk
+of your spirit, ho?
+[->][END]
+40: [71 1]Will you give my your ally,
+[Demon name 2]'s life, ho?
+[->][END]
+41: [71 1]I want that, ho! That means that!
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Do you know what I want, hee−ho?
+[->][END]
+44: [71 1]Right on the dot, hoooo!
+[->][END]
+45: [71 1]You don't get it, ho.
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]You showed me you're sincere, ho!
+[->][END]
+56: [71 1]Mrm, I was denied, ho...
+[->][END]
+57: [71 1]Forget it, ho... It's no good to
+negotiate with humans, ho...
+[->][END]
+58: [71 1]...I don't trust you, ho.
+[->][END]
+59: [71 1]...You tried to trick me, ho?
+Humans are dirty!
+[->][END]
+60: [71 1]Mrm, you don't have it, ho?
+[->][END]
+61: [71 1]...Hooooo? No Life Stone, ho?
+[->][END]
+62: [71 1]It's brave of you to say ”no” so
+much!
+[->]I like you, ho! We're enemies, but
+I respect your manliness, ho!
+[->][END]
+63: [71 1]...Are you okay with that, ho?
+Nodding your head and being used
+all the time...
+[->]You're just like me yesterday, ho!
+[->][END]
+64: [71 1]You... don't have anything, ho?
+[->]...
+[->]I'll give you this, ho! Men are
+kind to those who have nothing, ho!
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]...Humans sure like to talk, ho.
+[->][END]
+71: [71 1]Not Used
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

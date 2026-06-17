@@ -1,0 +1,29 @@
+0: [71 1]I'm back!
+Man, those other Hunters were nothin'.
+[->][END]
+1: [71 1]I took a peek at other worlds.
+[Flynn], you're doin' pretty okay.
+[->][END]
+2: [71 1]Some of the summoners that used me
+went nuts... 
+[->][END]
+3: [71 1]I fused with anything I could find, 
+and got stronger!
+Hehehe!
+[->][END]
+4: [71 1][Flynn], it's me, me!
+Look at this form. Isn't it the bomb?
+[->][END]
+5: [71 1]I hate syrupy sweet things,
+so I settled it with my body.
+[->][END]
+6: [71 1]Here ya go. I took it from the 
+other world.
+[->][END]
+7: [71 1]I'll give it to ya, [Flynn].
+It was a huge help to me over there.
+[->][END]
+8: [71 1]A Hokkaido souvenir from the 
+other world. My ass totally froze 
+over there.
+[->][END]

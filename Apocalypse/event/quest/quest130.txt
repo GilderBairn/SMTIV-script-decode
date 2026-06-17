@@ -1,0 +1,22 @@
+0: Hi! It's Betty, again. I have another quest for all
+you Hunters out there. This time I want you to show 
+me your demon negotiation skills. Earn [Color:0x5]50,000 Macca[Color:0x0] 
+from demons using [Color:0x5]Fundraise[Color:0x0]. There's nothing wrong 
+with just Scouting, but... charismatic people are just
+more appealing, you know?
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Wow, can't believe a kid like you was able to clear 
+this challenge! I'm amazed. You're really good at 
+negotiating with demons, huh? By the way, about the 
+Macca you got... You know the phrase ”Macca makes 
+the world go round”? It would be awesome if you 
+could use that money to buy some new equipment!
+[END]

@@ -1,0 +1,8 @@
+0: Your mission is to defeat the Divine Powers, destroy
+the Cosmic Egg, and rescue Flynn. While straight−
+forward, I know what I'm asking of you will be far
+from easy. But as it stands, you're our only hope.
+Good luck.
+[END]
+1: ダミー
+[END]

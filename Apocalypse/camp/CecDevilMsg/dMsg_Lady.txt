@@ -1,0 +1,31 @@
+0: [71 1]I've traveled through the cyberworld
+to polish my magic and charm... 
+[->][END]
+1: [71 1]You were filled with malice in other 
+worlds. But your malice is the most 
+fragrant...
+[->][END]
+2: [71 1]You haven't been cozy with other demons
+while I was gone, were you?
+[->][END]
+3: [71 1]Many demons have passed through my body... 
+My current self is different than the norm.
+[->][END]
+4: [71 1]Don't stare at me... Your intense stare 
+makes me... ah...!
+[->][END]
+5: [71 1]This overflowing devlishness from my body...
+I can't contain it by myself so help me.
+[->][END]
+6: [71 1]This is an object that proves the 
+existence of another world. It doesn't 
+look like much, though.
+[->][END]
+7: [71 1]I made [Flynn] from the other world 
+give this to me so that I can give it 
+to you.
+[->][END]
+8: [71 1]A souvenir from the other world. The 
+fruits of the sea, the harvest of the 
+mountains, and the humans were delicious.
+[->][END]

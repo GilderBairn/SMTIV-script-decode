@@ -1,0 +1,633 @@
+0: Dummy Message
+[END]
+1: [71 1]No way, ho!
+[->][END]
+2: [71 1]You think I'd be nice to you after 
+hitting me, ho!? I'll talk while 
+being angry, hee−ho!
+[->][END]
+3: [71 1]Ummmm...
+[->][END]
+4: [71 1]You made me your ally, hee−ho! 
+We're gonna be unstoppable, ho!
+[->][END]
+5: [71 1]First, gimme something, ho! 
+That's proper etiquette!
+[->][END]
+6: [71 1]Hee−ho−ho... Your stock's full, ho...
+[->]I'm going hee−home!
+[->][END]
+7: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0], ho!
+Nice to meet you. Hee−ho!
+[->][END]
+8: [71 1]Hee−ho... You're a lower level then 
+me, ho...
+[->]I'm not down with low−level guys, ho!
+[->][END]
+9: [71 1]Hee−ho? You already have one of my 
+clones with you, ho!
+[->]Take good care of him, ho!
+[->][END]
+10: [71 1]I'll bring someone along, and we'll 
+have a Halloween party, hee−ho! Is 
+anyone going to come?
+[->][END]
+11: [71 1]...But you're full on allies, ho. 
+So much for bringing someone along, ho...
+[->][END]
+12: [71 1]Let me in! Hee−ho! I'm bored, ho!
+[->][END]
+13: [71 1]No one's coming, ho... Argh!
+[->][END]
+14: [71 1]Don't forget about me, ho! I'm gonna
+be your ally, too, ho!
+[->][END]
+15: [71 1]I'll introduce you to my friend, ho!
+[->][END]
+16: [71 1][Demon name 2] invited me here, hee−ho!
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Invest−wha? My brain is gonna melt, ho...
+[->][END]
+19: [71 1]Hee−ho... My funding...
+[->][END]
+20: [71 1]You're risking your life for 
+pocket change, ho?
+[->]...That's so cheap, ho! You're nothing 
+but trash, ho! And trash needs to be
+taken out, hee−ho!
+[->][END]
+21: [71 1]Hee−hooooo! No−ho−hooo!
+[->][END]
+22: [71 1]Wh−Where are you touching, hee−ho!? 
+Don't do that, ho!
+[->][END]
+23: [71 1]...I'm mad, ho!
+[->][END]
+24: [71 1]Wh... What're going to do to a demon 
+who can't move, hee−ho!?
+[->][END]
+25: [71 1]You want the goods, hee−ho? 
+Then let's make a deal, hee−ho!
+[->][END]
+26: [71 1]You can have the goods, ho!
+[->][END]
+27: [71 1]Trick or trea−ho! Now gimme, gimme!
+[->][END]
+28: [71 1]It's on me, hee−ho. Thank me, ho!
+[->][END]
+29: [71 1]I'm open−minded, so I'll decide this 
+quickly, hee−ho!
+[->][Amount 1] Macca, ho! And that's my 
+final offer, hee−ho!
+[->][END]
+30: [71 1]Gimme [Item 1] x[Amount 1], ho!
+[->][END]
+31: [71 1]Gimme [Amount 1] Macca, ho!
+[->][END]
+32: [71 1]Gimme a teeny bit of your HP, ho!
+[->][END]
+33: [71 1]Gimme some of your HP, ho!
+[->][END]
+34: [71 1]Gimme a lot of your HP, ho!
+[->][END]
+35: [71 1]Gimme a looooot of your HP, ho!
+[->][END]
+36: [71 1]Gimme a teeny bit of your MP, ho!
+[->][END]
+37: [71 1]Gimme some your MP, ho!
+[->][END]
+38: [71 1]Gimme a lot of your MP, ho!
+[->][END]
+39: [71 1]Gimme a looooot of your MP, ho!
+[->][END]
+40: [71 1]I want the life of one of your demon
+dudes... [Demon name 2], ho!
+[->][END]
+41: [71 1]That, ho! Gimme that, ho!
+[->][END]
+42: [71 1]Your friend... I want [7e]'s HP, 
+hee−ho!
+[->][END]
+43: [71 1]Quiz time, hee−ho! What is it I want, 
+ho?
+[->][END]
+44: [71 1]That's right, hee−ho! I'm thrilled, 
+hee−ho!
+[->][END]
+45: [71 1]Bzzzt, wrong, hee−ho! I'm sad, ho...
+[->][END]
+46: [71 1]Would you take my devilishness, ho?
+[->][END]
+47: ”Sure.”
+”No.”
+[->][END]
+48: [71 1]Hee−ho, yo−hoooo!
+[->][END]
+49: 〉 [Flynn]'s party is soothed by the 
+devilishness!
+[->][END]
+50: 〉 [Flynn]'s party is greatly soothed
+by the devilishness!
+[->][END]
+51: [71 1]Hee−ho, yo−hooo!
+[->][END]
+52: 〉 [Flynn] takes a hit from the 
+devilishness!
+[->][END]
+53: 〉 [Flynn] takes a big hit from the 
+devilishness!
+[->][END]
+54: [71 1]Well, I can understand that, hee−ho.
+[->][END]
+55: [71 1]HEEEEEE−HOOOOOO!
+[->]I like you, ho!
+[->][END]
+56: [71 1]You suck, hee−ho!
+[->][END]
+57: [71 1]You have, but you won't give it to me, ho?
+[->]You can go to hell with me−ho!
+[->][END]
+58: [71 1]I'm bored, ho. Screw this, ho!
+[->][END]
+59: [71 1]Tsk, tsk, tsk... You can't fool me, ho!
+[->]You can go to hell with me−ho!
+[->][END]
+60: [71 1]If you don't have it, then it can't 
+be helped, hee−ho.
+[->][END]
+61: [71 1]No−ho−ho...
+[->][END]
+62: [71 1]You sound suspicious... but ho well.
+[->][END]
+63: [71 1]I'm bored, hee−ho.
+[->][END]
+64: [71 1]You sound suspicious... but ho well.
+[->][END]
+65: [71 1]Bye−bye−ho!
+[->][END]
+66: [71 1]Hee−ho hee−ho! It's [Flynn], ho!
+[->]We really talked a lot. 
+We're best buds now!
+[->][END]
+67: [71 1]HEEEEEEE−HOOOOOO!
+[->]We're gonna be good buddies, ho!
+[->][END]
+68: [71 1]HEEEEEE−HOOOOOO!
+[->]You want Macca, ho? You don't need 
+to pretend you don't, ho!
+[->][END]
+69: [71 1]HEEEEEE−HOOOOOO!
+[->]You want the goods, right? Don't tell 
+anyone I gave you this, ho!
+[->][END]
+70: [71 1]I'm tired of talking to you, ho!
+[->][END]
+71: [71 1]Hee−ho, hee−ho! There you are, [Flynn]!
+[->]Don't get lost again, hee−ho! 
+Make sure to follow me, ho!
+[->][END]
+72: [71 1]...I give up, ho! I'll do anything 
+you want, just spare me, ho!
+[->][END]
+73: [71 1]Heee−hooo... I'm glad you're an 
+understanding Hunter, ho.
+[->][END]
+74: [71 1]...I knew I couldn't expect anything 
+from human kids, ho!
+[->][END]
+101: 〉 The demon is on guard...
+What will you do?
+[->][END]
+102: Lower your weapon
+Put up your guard
+[->][END]
+103: [71 1]Tsk, tsk, tsk... You're a sucker, ho!
+[->][END]
+104: [71 1]You got guts! It's too bad you're 
+a human, ho!
+[->]Let's talk, hee−ho!
+[->][END]
+105: [71 1]Tch... Not letting your guard down, 
+ho? This sucks!
+[->][END]
+106: [71 1]Hee−ho! You're scary! I'll give you 
+this, so let me off!
+[->][END]
+107: [71 1]Humans really are scary, ho...
+[->][END]
+109: 〉 The demon is approaching you...
+What will you do?
+[->][END]
+110: Step aside
+Raise your weapon
+Don't move
+[->][END]
+111: 〉 [Flynn] dodges the demon!
+[->][END]
+112: [71 1]What!? You didn't have to dodge me−ho!
+[->]If you give me something good, I'd 
+be willing to listen to you, hee−ho!
+[->][END]
+113: 〉 The demon catches up...
+[->][END]
+114: [71 1]Tch... You figured it out, hee−ho!
+[->][END]
+115: [71 1]Hee−ho! Please! Spare my life, ho!
+[->]If you give me something, I'll become 
+your ally, hee−ho! Okay?
+[->][END]
+116: [71 1]You're brave, ho! I'll hang with 
+you, hee−ho.
+[->][END]
+117: [71 1]You're brave, ho! 
+[->]...You think I'd say that, ho!
+[->][END]
+119: 〉 The demon is trying to leave...
+What will you do?
+[->][END]
+120: Stop him
+Ignore him
+Raise your weapon
+[->][END]
+121: [71 1]Hee−ho! The meeting of destiny!
+[->][END]
+122: [71 1]I'm in a big hurry, ho!
+[->][END]
+123: [71 1]Don't be so cold, hee−ho! 
+Let's talk some, ho!
+[->][END]
+124: [71 1]Don't be so cold, hee−ho! You should
+be kind to demons, ho.
+[->][END]
+125: [71 1]Hee−ho! Please! Spare my life, ho!
+[->]If you give me something, I'll 
+become your ally, hee−ho! Okay?
+[->][END]
+126: [71 1]Humans are possessed by some evil 
+spirit, ho...
+[->][END]
+128: 〉 The demon is ignoring you...
+What will you do?
+[->][END]
+129: Say something to him
+Get his attention
+Threaten him
+[->][END]
+130: [71 1]Argh! Don't bother me, ho!
+[->][END]
+131: [71 1]What's wrong, hee−ho? You want to 
+talk with me, ho?
+[->][END]
+132: Blank Line
+[->][END]
+133: Blank Line
+[->][END]
+134: Blank Line
+[->][END]
+135: [71 1]Hee−ho! Please! Spare my life, ho!
+[->]If you give me something, I'll 
+become your ally, hee−ho! Okay?
+[->][END]
+136: [71 1]People must really hate you, hee−ho!
+[->][END]
+138: 〉 The demon is striking a pose...
+What will you do?
+[->][END]
+139: Assume the same pose
+Take a picture
+Ignore him
+[->][END]
+140: Blank Line
+[->][END]
+141: [71 1]Hee−ho, hee−ho! A scout!? 
+Man, I'm good, ho!
+[->]My dream is to have a full crowd at 
+the Tokyo Doom, hee−ho!
+[->][END]
+142: [71 1][13 10, 10]Hey human, are you so mesmerized by 
+me that you can't move, ho?
+[->][END]
+144: [71 1]Hee−ho! My devilishness is spinny!
+[->][END]
+145: ”I'll spinny with you.”
+Ignore him
+”What's spinny?”
+[->][END]
+146: Blank Line
+[->][END]
+147: Blank Line
+[->][END]
+148: Blank Line
+[->][END]
+150: [71 1]Is there something I can help you 
+with, ho?
+[->][END]
+151: ”Massacring.”
+”Become my ally.”
+”Let's play.”
+[->][END]
+152: Blank Line
+[->][END]
+153: [71 1]Hee−ho! You're real honest! Too bad 
+you're a human, ho!
+[->]But let me think, ho.
+[->][END]
+154: [71 1]Huh!? You're a weird human, ho. 
+Humans have been getting more common, 
+hee−ho.
+[->][END]
+156: [71 1]I'll let you pet my head, hee−ho!
+[->][END]
+157: ”Yay!”
+”I don't want to touch you.”
+Silently pet him
+[->][END]
+158: [71 1]Hee−ho? You're that happy, ho? 
+Good for you, hee−ho!
+[->][END]
+159: Blank Line
+[->][END]
+160: Blank Line
+[->][END]
+162: [71 1]Can you see me, ho?
+[->][END]
+163: ”I can see you.”
+”I can't see you.”
+Pretend not to see him
+[->][END]
+164: Blank Line
+[->][END]
+165: [71 1]Normal people can't see me, ho.
+[->][END]
+166: [71 1][13 10, 10]Hee−ho? He can't see me, ho?
+[->]Then now's my chance to rob him blind, 
+hee−ho!
+[->][END]
+168: 〉 [Flynn] dances a dance...
+[->][END]
+169: [71 1]I feel sick, ho!
+[->][END]
+170: [71 1]You're an interesting human, ho! 
+You got me dancing, hee−ho!
+[->][END]
+172: 〉 [Flynn] sings a song...
+[->][END]
+173: [71 1]I feel sick, ho!
+[->][END]
+174: [71 1]You're an interesting human, ho! 
+Listen to my awesome voice, hee−ho!
+[->][END]
+176: 〉 [Flynn] flashes some Macca...
+[->][END]
+177: [71 1]I'm totally not in the mood, ho... 
+What're you gonna do about it, ho?
+[->][END]
+178: [71 1]Hee−ho, hee−ho! If I had Macca, 
+I could buy anything I want, ho!
+[->]Let the negotiations begin, ho!
+[->][END]
+180: [71 1][13 10, 10]Someone's copying me, hee−ho! 
+Are you disrespecting me, ho?
+[->][END]
+181: ”I am.”
+”I'm not.”
+[->][END]
+182: [71 1]Hee−ho! You're worse than demons! 
+Don't hunt me, ho!
+[->][END]
+183: Blank Line
+[->][END]
+185: [71 1][13 10, 0]Then does that mean you want to join 
+my group, hee−ho?
+[->][END]
+186: ”That's right.”
+”No.”
+[->][END]
+187: [71 1]Hee−ho! Then it's time for the 
+audition, ho!
+[->][END]
+188: [71 1]You're no fun, hee−ho. You're a real
+buzzkill, ho...
+[->][END]
+190: [71 1]Will you help me, ho?
+[->][END]
+191: ”I'll help.”
+”I won't help.”
+[->][END]
+192: [71 1]Hee−ho! Sensei, please teach me, ho!
+[->]And please pay for my expenses, ho!
+[->][END]
+193: [71 1]Agh! I won't let that happen, ho! 
+Make me a big star, ho!
+[->][END]
+195: [71 1]...This is awkward. Say something, ho!
+[->][END]
+196: ”.........”
+”Become my ally.”
+”Are you a demon?”
+[->][END]
+197: 〉 [Flynn] stays silent...
+[->][END]
+198: [71 1][13 10, 1]Argh! I can't take this, ho!
+[->]I'll become your ally, just say 
+something, ho!
+[->][END]
+199: [71 1]No way, ho! Praise my pose or I'll 
+become a delinquent, hee−ho!
+[->][END]
+200: [71 1]If I'm not a demon, then what am I, 
+hee−ho!?
+[->]I don't talk with dummies, ho!
+[->][END]
+202: [71 1][13 10, 0]Ohh! It's your devilishness spinny, 
+too, ho?
+[->][END]
+203: ”That's right.”
+”Not really.”
+”Something's going to happen.”
+[->][END]
+204: Blank Line
+[->][END]
+205: [71 1]Then leave me alone, ho! Hrngh!
+[->][END]
+206: [71 1]Hee−ho! That's not good, ho! 
+It's gonna rain blood, ho!
+[->]Run away, ho!
+[->][END]
+208: [71 1][13 10, 1]Wh−What!? You means your devilishness 
+is stronger than mine, ho!?
+[->][END]
+209: ”It's stronger.”
+”It's about the same.”
+[->][END]
+210: [71 1]Really, ho!? I can't let that happen... 
+I challenge you to a duel, ho!
+[->][END]
+211: [71 1]Hee−ho! I think we can get along 
+real well, ho!
+[->]All that's left is compatibility, ho!
+[->][END]
+213: [71 1][13 10, 1]Are you trying to make a demon cry?
+[->][END]
+214: ”That's right.”
+”Sorry...”
+[->][END]
+215: [71 1]This is fun, hee−ho! You're real good 
+at dealing with demons, ho!
+[->][END]
+216: [71 1]It's too late for that, ho!
+[->][END]
+218: [71 1][13 10, 0]You want to know, ho? You won't be 
+sorry to hear it, ho?
+[->][END]
+219: ”I won't be sorry.”
+”I will be sorry.”
+[->][END]
+220: 〉 The demon smiles eerily...
+[->][END]
+221: [71 1][13 10, 10]Hee−ho? You're lying, ho! You're smizing!
+[->]Human kids are scary...
+[->][END]
+223: [71 1][13 10, 1]Hee−ho! Humans are terrifying, ho! 
+Don't come near me, ho!
+[->][END]
+224: ”Look who's talking.”
+”It'll be fun.”
+[->][END]
+225: [71 1]Hee−ho? Stop talking smack to me, ho!
+[->]I'm going to sew that mouth shut, ho!
+[->][END]
+226: [71 1]Hee−ho! Playing splatter film? 
+You have good taste, ho!
+[->]Give me something, ho! Then I'll think 
+about becoming your ally!
+[->][END]
+228: [71 1]Can I trust you, ho?
+[->][END]
+229: ”Go ahead.”
+”Don't.”
+”I'll give you candy.”
+[->][END]
+230: [71 1]Hee−ho−ho! You really are scary, ho!
+[->][END]
+231: [71 1]Hee−ho? Saying not to makes me 
+want to trust you, ho...
+[->]Let me test you, hee−ho.
+[->][END]
+232: 〉 The demon quickly swipes candy from 
+[Flynn]'s hand...
+[->][END]
+233: [71 1][13 10, 10]Hmmmm... *munch* You're supsicious, ho... 
+*munch* *munch*
+[->][END]
+235: [71 1]Then come closer, hee−ho.
+[->][END]
+236: ”Okay.”
+”You come.”
+[->][END]
+237: [71 1]Hee−ho! Humans are best obedient, ho!
+[->]Because you're a good boy, I'll let 
+you be my treat, hee−ho!
+[->][END]
+238: [71 1]Hee−ho! You're pretty tough!
+[->]You're someone I shouldn't make my 
+enemy, ho. It's best to negotiate!
+[->][END]
+240: [71 1]There's no need to hold back, ho! 
+You can pet me all you want! Hee−ho!
+[->][END]
+241: ”If you insist....”
+”Nah, I'd rather not.”
+[->][END]
+242: [71 1]Hmmmm... I let him get too close.
+I'm in trouble, ho!
+[->]Make me happy and just end this, ho!!
+[->][END]
+243: Blank Line
+[->][END]
+245: [71 1][13 10, 0]It's not good to be stubborn, ho! 
+Do what your instincts tell you!
+[->][END]
+246: ”Alright then...”
+”Enough, damn it!”
+[->][END]
+247: [71 1]HEEEEEEE−HOOOOOO!
+[->]I feel like I'm the king of the world
+now, ho!
+[->]I'll become your ally, ho!
+[->][END]
+248: [71 1]You hurt my feelings, ho!
+[->]I'll go pout over there, hee−ho...
+[->][END]
+250: [71 1]He−hee−ho... say something, ho. 
+I'm actually very shy, ho...
+[->][END]
+251: ”I'm satisfied now.”
+”Gimme something extra.”
+[->][END]
+252: [71 1]Then let me pet you next, ho!
+[->][END]
+253: [71 1]What!? Even a demon'd get angry 
+being told that, ho!
+[->][END]
+255: [71 1][13 10, 0]Hee−ho, hee−ho! How do I look, ho?
+[->][END]
+256: ”Strong.”
+”Scary.”
+”Cute.”
+[->][END]
+257: [71 1]Hee−ho! You're honest, ho! Too bad 
+you're a human, ho!
+[->]I'll become your producer, ho!
+[->][END]
+258: [71 1][13 10, 10]You saw through me, ho!?
+[->]My devilishness really shines!
+[->][END]
+259: [71 1]Hee−ho!? You're trying to trick me, ho!
+[->]...That DID make me happy, so I'll 
+give you this, ho.
+[->][END]
+261: [71 1]Reserved
+[->][END]
+262: Reserved
+[->][END]
+263: Reserved
+[->][END]
+264: Reserved
+[->][END]
+265: [71 1]Reserved
+[->][END]
+266: Reserved
+[->][END]
+267: [71 1]Reserved
+[->][END]
+268: Reserved
+[->][END]
+269: [71 1]Reserved
+[->][END]
+270: Reserved
+[->][END]
+271: [71 1]Reserved
+[->][END]
+272: Reserved
+[->][END]
+273: [71 1]Reserved
+[->][END]
+274: Reserved
+[->][END]
+275: [71 1]Reserved
+[->][END]
+276: Reserved
+[->][END]
+277: [71 1]Reserved
+[->][END]
+278: Reserved
+[->][END]
+279: [71 1]Reserved
+[->][END]
+280: Reserved
+[->][END]
+281: [71 1]Reserved
+[->][END]

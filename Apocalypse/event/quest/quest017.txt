@@ -1,0 +1,10 @@
+0: Demons have invaded the underground district, 
+leaving the people living there in danger. 
+Get back at once and eliminate the raiding demons.
+[END]
+1: ダミー
+[END]
+2: Like Shinjuku, demons have invaded the [Color:0x5]Kinshicho
+underground district[Color:0x0]. We need to head back home to 
+help protect the people of Kinshicho.
+[END]

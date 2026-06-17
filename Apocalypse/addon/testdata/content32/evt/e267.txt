@@ -1,0 +1,153 @@
+100: 〉 Beyond the door waits Stephen,
+dressed in his usual red suit and
+seated in his wheelchair.
+[END]
+101: (Stephen) Hello. Seems like you were able to 
+meet with the messiahs from the other 
+universes.
+[->]That leaves just one more...
+[END]
+102: 〉 Stephen produces the last messiah's
+soul and holds it up to you.
+[END]
+103: (Stephen) (Stephen) He is called the Hero... 
+[->]Right now, he is only a soul...
+He has forgotten who he is.
+[->]I want you to restore him to his
+former self.
+[END]
+104: 〉 The messiah's soul leaves Stephen's 
+hand and floats into the air.
+[END]
+105: (Stephen) By observing you, he should recall 
+his own life as a messiah...
+[->]To that end, I will do my own part. 
+You just show us your potential.
+[END]
+200: 〉 Stephen leans back in his chair and
+gestures toward the floating soul.
+[END]
+201: (Stephen) It would seem he managed to regain
+his original form by observing our
+fight.
+[END]
+202: 〉 The Hero's soul twists into a human
+shape and gradually begins to become
+living flesh...
+[END]
+203: (The Hero) [7a 3]I remember...
+[->]This is me... Existence called me...
+I still have much to do.
+[->]Thank you, child. Because of you,
+I am whole again.
+[END]
+204: 〉 The Hero bows to you.
+[END]
+205: (Stephen) [7a 64426]Good, he remembers who he was.
+Unfortunately, this is not the end...
+[->]He's not the only one affected by
+YHVH's defeat.
+[END]
+206: 〉 As Stephen says that, the door 
+behind you opens.
+[END]
+207: (Demi−fiend) [7a 6]Hey. You took too long, so I came 
+to find you.
+[END]
+208: Looks like this was good timing.
+[END]
+209: (Flynn) [7a 187]What exactly are we supposed to do?
+[END]
+210: (Stephen) [7a 64425]The players are all here... Let us 
+begin, then.
+[END]
+211: 〉 Stephen stands up from his 
+wheelchair and calmly faces the
+five of you.
+[END]
+212: (Stephen) We are short on time... All of you,
+come at me at once.
+[->]Fight me, remember who you were.
+[END]
+213: 〉 You feel an immense energy radiating 
+from Stephen. A knot forms in your 
+chest...
+[END]
+214: (Flynn) [7a 187]It seems avoiding combat isn't an
+option.
+[END]
+215: (Demi−fiend) [7a 6]I don't want to hear you complaing
+that we didn't fight you one on one
+after this...
+[END]
+216: (Aleph) [7a 4]This imposing presence... He is no 
+ordinary opponent. Be on your guard.
+[END]
+217: (The Hero) [7a 3]I can't lose−−there's still something
+I need to do!
+[END]
+301: 〉 Stephen disappears, leaving only 
+the messiahs.
+[END]
+302: (Demi−fiend) [7a 6]Did we win...?
+[END]
+303: (The Hero) [7a 3]Yes, we beat Stephen. Now all we 
+have to do is find our way back to
+our own universes.
+[END]
+304: (Aleph) [7a 4]Yeah, I still have much to do...
+I can't put it off indefinitely.
+[END]
+305: (Flynn) [7a 187]We all have things we need to do. 
+It's sad that things ended this way,
+but the time to return home is now.
+[END]
+306: 〉 A wormhole suddenly appears before
+you. It seems you can return to your 
+world through it...
+[END]
+307: (Aleph) [7a 4]I have to defeat YHVH with my partner...
+[->]Thank you, [Flynn]. Goodbye.
+[END]
+308: (Demi−fiend) [7a 6]I'll head back to my universe and
+defeat YHVH. Lucifer's waiting.
+[->]See ya, [Flynn]. Hope we meet again.
+[END]
+309: (Flynn) [7a 187]I must obtain hope with my friends 
+and remove a dome of rock separating
+two countries...
+[->]I am grateful to you, [Flynn]. 
+I hope we meet again.
+[END]
+310: (The Hero) [7a 3]I need to return to my own universe 
+and explore possibilities with the 
+revived goddess.
+[->]Law, Chaos, Neutral... I still don't 
+know which is the right path.
+[->]Maybe there isn't one. But I need to
+learn what the people desire most.
+[->]When I find the answer, I'll be sure 
+to tell you. Let's meet again when 
+I do.
+[END]
+311: 〉 The messiahs leave. You are the 
+only one left...
+[END]
+312: (En no Ozuno's voice) [7a 64429]Now it is your turn. Pass through 
+and return to your world.
+[END]
+313: 〉 You turn around to find En no Ozuno 
+standing before you.
+[END]
+314: (En no Ozuno) [7a 64429]I just came to see you off. 
+...Good work, [Flynn].
+[->]But, this isn't necessarily the end.
+[->]The universe is vast. There are many 
+worlds.
+[->]More people like you will no doubt 
+be born and weave their own tales.
+[->]I can't meet them all as we have, but...
+Well, it's nice to have a little
+excitement from time to time.
+[->]Farewell...
+[END]

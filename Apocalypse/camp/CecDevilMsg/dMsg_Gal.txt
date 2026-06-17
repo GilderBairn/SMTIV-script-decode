@@ -1,0 +1,30 @@
+0: [71 1]I beat up a lot of type of people.
+All sorts of them...
+[->][END]
+1: [71 1]After going on that trip, I sorta
+appreciate you more, now... 
+[->][END]
+2: [71 1]I'm back! Will you let me fuse 
+indiscriminately next?
+[->][END]
+3: [71 1]My ankle totally hurts from all the 
+fusing... 
+[->][END]
+4: [71 1][Flynn]…
+[Flynn]...
+Well, I look forward to working with 
+you again, I guess?
+[->][END]
+5: [71 1]I'm back! Will you let me do a different
+StreetPass next time?
+[->][END]
+6: [71 1]The parallel−world you told me to 
+give this to you.
+[->][END]
+7: [71 1]The other world is full of super cool 
+stuff! Here, [Flynn], this was the 
+extra cool one! 
+[->][END]
+8: [71 1]Here, a souvenir from the other world.
+The sea was pretty quiet.
+[->][END]

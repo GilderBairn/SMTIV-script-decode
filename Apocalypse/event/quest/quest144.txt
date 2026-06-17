@@ -1,0 +1,22 @@
+0: Hey, it's me! You know, Maruo! My base got taken
+over by [Color:0x5]Mara[Color:0x0] and we're in trouble! Big trouble! 
+He's, like, sucking up people's energy and getting 
+pumped up! Listen, I don't care what you do to me. 
+Please, come to [Color:0x5]Kiba Storage[Color:0x0] in Joto and save the 
+Maruologists! Hurrysdhg;ashdbg;thqp!
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Thank you for saving everyone. Seriously. I lost
+everything because of that stupid fight, but the
+Maruologists were super important to me, like family,
+so I really can't thank you enough! They're all gone, 
+though. I'll try to do what I can. You went out of 
+your way to save me, after all. So long, Hunter Boy!
+[END]

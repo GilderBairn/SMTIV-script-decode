@@ -1,0 +1,45 @@
+50: 〉 All of the other people brought to 
+the Diamond Realm should now be with 
+En no Ozuno.
+[->]〉 Find En no Ozuno and meet up with
+the other messiahs.
+[END]
+100: (En no Ozuno) [7a 64429]It would appear all are now gathered.
+[->]Only one remains−−the one whose soul 
+is in Stephen's care.
+[->]Stephen should be waiting for you.
+I have opened the east door. Go to him.
+[->]Be prepared for anything.
+[END]
+101: (Flynn) [7a 187]You've no doubt noticed already, 
+but the enemies here are strong... 
+Be careful.
+[END]
+102: (Demi−fiend) [7a 6]Well, considering you came to get us, 
+you can probably make it through, 
+right?
+[END]
+103: (Aleph) [7a 4]I will pray for your safety and
+success. Let us go.
+[END]
+104: 〉 You leave the room.
+[END]
+105: (En no Ozuno) [7a 64429]Hm? What are you doing? You haven't 
+found the others, yet.
+[->]Go and find the others.
+[END]
+106: (En no Ozuno) [7a 64429]O−ho, it seems you've met one of the 
+others. I heard what happened 
+from him.
+[->]Now, go find the other two.
+[END]
+107: (En no Ozuno) [7a 64429]Hm, it would appear things are 
+proceeding well... Only one other
+remains to be found.
+[->]Now, go find him. We shall await your
+return.
+[END]
+108: (En no Ozuno) [7a 64429]Stephen awaits you. Head through the
+east door.
+[->]Exercise caution.
+[END]

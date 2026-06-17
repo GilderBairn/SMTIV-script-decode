@@ -1,0 +1,95 @@
+100: (Impoverished girl) [7a 122]It's safer, here, but everyone's so
+rich it's kind of uncomfortable...
+[->]They don't seem to like kids much.
+I wonder if I'll be okay here...
+[END]
+101: (Impoverished girl) [7a 122]Shesha attacked while I was out
+looking for food...
+[->]I'm glad that other girl's okay.
+[END]
+102: (Impoverished girl) [7a 122]We both lost our parents and don't
+have any other family.
+[->]But I gotta stay positive! I don't want 
+my new friend to worry about me!
+[END]
+103: (Impoverished girl) [7a 122]A Hunter saved us.
+[->]He went right back to patrolling
+after, but hasn't come back yet...
+[->]I hope he's okay...
+[END]
+104: (Impoverished girl) [7a 122]That Hunter came back! I'm so glad
+he's okay...
+[END]
+105: (Impoverished girl) [7a 122]Flynn's back! Hooray!
+[END]
+106: (Impoverished girl) [7a 122]Everyone says you and Flynn beat the
+angels and demons...
+[->]Does this mean everything's safe?
+[END]
+107: (Impoverished girl) [7a 122]...
+[END]
+108: (Impoverished girl) [7a 122]Huh... What? Feels like I just woke
+up from a long dream...
+[END]
+109: (Impoverished girl) [7a 122]The world's ours again. Feels so 
+weird...
+[->]I hope we keep helping each other
+from now on.
+[END]
+200: (Upset girl) [7a 57]Big sis looks worried... I'm scared...
+*sniff*
+[END]
+201: (Upset girl) [7a 57]S−Snake... A snake... Big sis...
+[END]
+202: (Upset girl) [7a 57]That was scary... *sob*
+[END]
+203: (Upset girl) [7a 57]Big sis always cheers me up...
+[->]That's why I try not to cry, but...
+*sob*
+[END]
+204: (Upset girl) [7a 57]That Hunter didn't come back... 
+Is he okay? Did he die...?
+[->]No, I can't cry... I gotta be a big
+girl, like big sis!
+[END]
+205: (Upset girl) [7a 57]Yay, the Hunter came back!
+[END]
+206: (Upset girl) [7a 57]I'm glad Flynn's okay, but I want
+everyone to be okay.
+[->]So be safe, okay?
+[END]
+207: (Upset girl) [7a 57]That Hunter said he's going to a
+cellar−brace−shun.
+[->]Everyone's so happy, but I'm still
+scared and I dunno why...
+[END]
+208: (Upset girl) [7a 57]Big sis stopped moving and talking...
+I dunno what to do... I'm gonna...
+*sniff*
+[END]
+209: (Upset girl) [7a 57]Big sis woke up! Everyone's waking
+up!
+[->]I'm so happy... *sob*
+[END]
+210: (Upset girl) [7a 57]Everyone's saying things are gonna
+be better for humans now.
+[->]I don't really understand, but I'll
+do my best to help!
+[END]
+211: (Upset girl) [7a 57]Big sis is still all weird...
+[->]Are you and Flynn gonna fix everything?
+I believe in you...
+[END]
+300: (Hunter man) [7a 119]This area's clear. Glad those kids
+are safe.
+[->]Security seems a little light
+around here, though. Maybe I'll
+stick around a little while longer.
+[END]
+301: (Hunter man) [7a 119]Flynn's back! I'm sure everything'll
+be fine now, no matter what.
+[END]
+1071: 〉 The girl is completely immobile, 
+her eyes glazed over. It seems 
+her soul has been removed.
+[END]

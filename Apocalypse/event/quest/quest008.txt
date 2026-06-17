@@ -1,0 +1,8 @@
+0: I humbly request that you [Color:0x5]free the demon[Color:0x0] sealed 
+within the [Color:0x5]Ark[Color:0x0]. It is said this seal can only be broken 
+by the [Color:0x5]hands of a human[Color:0x0]. Should you prove able, 
+the demon contained within will surely grant you its 
+power. The Ark is located underground, beneath the 
+[Color:0x5]Kanda Shrine[Color:0x0]. Remove the seal and free the demon 
+from the Ark.
+[END]

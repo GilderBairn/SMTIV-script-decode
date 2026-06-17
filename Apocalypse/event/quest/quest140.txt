@@ -1,0 +1,23 @@
+0: In order to ease the tension on the souls of the 
+people, our religious organization is searching for 
+power. There is a demon in Tokyo that has a strong 
+connection to our group. With the spiritual power 
+of the [Color:0x5]Futotama−gushi[Color:0x0] that [Color:0x5]Futotama[Color:0x0]−−a demon who 
+has started living in the imperial palace, [Color:0x5]Tougu 
+Gosho[Color:0x0]−−holds, we will no doubt be able to fulfill 
+our founder's wishes.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Oh! This is it! This is the power of our founder's 
+ancestor, Futotama! With all this spiritual power, 
+the hearts of our followers should be at peace. And 
+I hope our ancestor god, who would not listen no 
+matter how much we prayed, has learned his lesson...
+[END]

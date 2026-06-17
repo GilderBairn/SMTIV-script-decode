@@ -1,0 +1,63 @@
+1: Yes
+No
+[END]
+2: An Internet connection is required 
+from here on. Continue?
+[END]
+3: Quit viewing Add−On Content and
+return to Title Menu?
+[END]
+4: Purchase [Item 1]?
+[END]
+5: Delete [Item 1]?
+[END]
+6: Download [Item 1]
+again?
+[END]
+7: Please do not remove the SD Card.
+[END]
+8: Deletion complete.
+[END]
+9: Do you want to enter a password?
+[END]
+10: Incorrect password.
+[END]
+11: Enter Download Code
+[END]
+12: If you have a download code, you can
+redeem it here.
+[END]
+13: Would you like to enter a download code?
+[END]
+100: CAUTION:
+Some Shin Megami Tensei IV: Apocalypse
+add−on content can only be accessed after 
+progressing through the main story, so 
+please read the descriptions for each 
+before purchasing. You can redownload 
+or delete add−on content from the 
+eShop menu.
+[END]
+101: Touch the lower screen to make your
+selections.
+[END]
+102: Not Use
+[END]
+103: This service will begin in the near
+future. Please look forward to it!
+[END]
+104:  Blocks
+[END]
+105: Free
+[END]
+110: Connecting...
+[END]
+111: Please wait...
+[END]
+112: Preparing...
+[END]
+113: Deleting...
+[END]
+190: Loading add−on content.
+Do not remove SD Card.
+[END]

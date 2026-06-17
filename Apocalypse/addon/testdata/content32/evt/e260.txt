@@ -1,0 +1,63 @@
+100: 〉 This is a story that takes place 
+a few days after [Flynn]'s story ended...
+[END]
+101: (En no Ozuno) [7a 64429]So, you have awoken... 
+I am En no Ozuno.
+[->]This is the Diamond Realm. Though, 
+you may know it better as the Expanse.
+[->]Now then... Do you know why it is 
+you have been brought here?
+[->]Four others like you have found their
+way here.
+[->]One of them is under the protection
+of a man named Stephen.
+[->]The other three are fighting elsewhere.
+You must go find them.
+[->]Worry about the last one once you
+have found the other three.
+[->]If you are wounded or need to rest,
+my familiars, Zenki and Goki, will
+attend to your needs.
+[END]
+102: (Zenki) [7a 164]If you wish to return to your world,
+I will take you there. Simply speak
+with me.
+[END]
+103: (Goki) [7a 165]Come speak with me if you wish to 
+heal your wounds. Good luck. 
+[END]
+104: 〉 Zenki and Goki leave.
+[END]
+105: (En no Ozuno) [7a 64429]Zenki and Goki are in the adjacent
+rooms. Visit them if you are in need
+of their services.
+[->]Now then, go find the three other
+wandering souls...
+[END]
+200: (Zenki) [7a 164]I am Zenki, an oni who serves 
+En no Ozuno... If you so desire, 
+I can return you to your world.
+[->]Do you wish to return to your world?
+[END]
+201: Yes
+No
+[END]
+202: (Zenki) [7a 164]Very well. If you pass through here, 
+you will return to your world.
+[->]Farewell.
+[END]
+203: (Zenki) [7a 164]I see... If you ever wish to return 
+to your world, please speak with me.
+[->]Farewell.
+[END]
+300: (Goki) [7a 165]I am Goki, an oni who serves En no Ozuno.
+[->]Would you like me to heal you?
+[END]
+302: (Goki) [7a 165]Come again if you need additional
+healing.
+[->]Well, good luck out there.
+[END]
+303: I see... Let me know if you ever need
+healing.
+[->]Good luck out there.
+[END]

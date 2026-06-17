@@ -1,0 +1,12 @@
+0: Because you defeated [Color:0x5]Him[Color:0x0], there are changes
+appearing throughout the various universes. This
+is not necessarily a bad thing, but there are a
+few who lost their purpose and are being wiped
+from existence. This is similar to recent history
+being undone. If you would [Color:0x5]like to help them[Color:0x0],
+please [Color:0x5]accept this quest[Color:0x0].
+[END]
+1: ダミー
+[END]
+2: ダウンロードクエスト追記
+[END]

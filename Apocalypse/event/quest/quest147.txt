@@ -1,0 +1,24 @@
+0: Ever since the Ashura−kai pulled out, [Color:0x5]Midtown[Color:0x0] has 
+been a good place to make Macca gathering relics, 
+but recently a demon called [Color:0x5]Hagen[Color:0x0] has settled down 
+there and now it's really dangerous to gather relics. 
+I don't have any money, but I can give you something 
+[Color:0x5]amazing[Color:0x0] I picked up, so can you take him out?
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: He gave his life protecting that treasure!? That's
+crazy... As someone who has to scramble together
+whatever coins she can, I can't even imagine that.
+Anyway, now I can safely collect relics. Thanks. 
+The card I gave you is for a [Color:0x5]members−only shop in 
+Ginza[Color:0x0]. They've got some amazing stuff there, so I 
+hope you get some use out of it! Not that I have a 
+chance of ever being able to afford any of it, but...
+[END]

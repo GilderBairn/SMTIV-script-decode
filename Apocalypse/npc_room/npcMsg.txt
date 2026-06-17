@@ -1,0 +1,4 @@
+0: 〉 Who will you talk to?
+[END]
+1: 〉 There is no one here.
+[END]

@@ -1,0 +1,8 @@
+0: I've created a realm you can use to gain AP
+quickly. Need you to toughen up, since you're
+my Godslayer. Stay here and gain AP as long as
+you want, then step through the exit to return
+to Tokyo.
+[END]
+1: Download Quest 1 again.
+[END]

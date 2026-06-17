@@ -1,0 +1,65 @@
+0: [71 1]Didn't you want it?
+Here, a new skill.
+[->][END]
+1: [71 1][Flynn]... I'll loan you power.
+[->][END]
+2: [71 1]Let's make it rain blood with this.
+Let me fight more!
+[->][END]
+3: [71 1]Whoa, too many skills...
+Wanna trim it down?
+[->][END]
+4: [71 1]How about we change [Color:0x5][Skill 1][Color:0x0]
+to [Color:0x5][Skill 2][Color:0x0]?
+[->][END]
+5: [71 1]Yeah, you know your stuff!
+[->][END]
+6: [71 1]You bastard!
+[->][END]
+7: [71 1]A transformation...
+Do you have the guts to try it out?
+[->][END]
+8: [71 1]Heheheheheh...!
+It's not my fault whatever happens, got it?
+[->][END]
+9: [71 1]Tch... Acting all high and mighty...
+[->][END]
+10: [71 1]Here comes the new power!
+I feel it running in my body!
+[->][END]
+11: [71 1]Hey [Flynn]
+it's coming... I feel it, I feel it!
+[->][END]
+12: [71 1]Here is a [Color:0x5][Item 1][Color:0x0].
+This is the most you're gonna get.
+[->][END]
+13: [71 1][Flynn], make yourself look cool with
+this [Color:0x5][Item 1][Color:0x0].
+[->][END]
+14: [71 1]Here, have this [Color:0x5][Item 1][Color:0x0].
+Don't use it to do bad stuff, 'kay?
+[->][END]
+15: [71 1]Hey [Flynn], want me to teach
+you bad things?
+[->][END]
+16: [71 1]Heheheheheh...!
+...You've had enough...?
+[->][END]
+17: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Nice meeting ya!
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

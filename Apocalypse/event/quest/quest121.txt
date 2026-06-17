@@ -1,0 +1,23 @@
+0: This weird group's taken over [Color:0x5]West Shinjuku Park[Color:0x0].
+That place was once safe ground to go hunting for
+demons... But with them around, there have been
+some concerns raised about the safety of our food
+supply. Please do something about this as soon as
+you can. ...Who could these people be?
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: I see those weirdos are gone, and everything's back
+to normal. Sorry about getting you mixed up in all
+that. Can't believe they took an interest in you...
+That's the worst. Well, I guess you deal with
+strange stuff like that a lot, as a Hunter. I'll
+let you know if I hear anything more about this
+Maruology stuff.
+[END]

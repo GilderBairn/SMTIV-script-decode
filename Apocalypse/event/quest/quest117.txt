@@ -1,0 +1,26 @@
+0: There's a guy here, says he wants to try a new meat,
+one he's never had. Kind of a luxurious request in
+these lean times of ours, but whatever. He's 
+specifically interested in [Color:0x5][Item 1][Color:0x0]. Those are the
+weird demons with the head of a monkey, legs of a 
+tiger, body of a tanuki, and tail of a snake. You 
+should be able to find one around [Color:0x5]Inokashira−dori[Color:0x0] 
+in [Color:0x5]Shibuya[Color:0x0].
+The fate of this man's delicious meal is in your hands.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Turns out Nue meat is great! And besides getting a 
+new flavor sensation, it seems that guy got a kick 
+out of eating Nue because he used to be called ”Nue” 
+himself. Or something. Anyway, started selling the 
+stuff to the [Color:0x5]Hunter Association[Color:0x0] in [Color:0x5]Ginza[Color:0x0], so give it 
+a try next time you're in town. I'll give them a
+heads up so they know to [Color:0x5]give you a discount[Color:0x0]!
+[END]

@@ -1,0 +1,22 @@
+0: I'd like to ask you to help protect [Color:0x5]Shinjuku National 
+Park[Color:0x0]. Harvest season is coming, and we're having 
+trouble with a bunch of crop thieves. At this rate, 
+we won't be able to maintain the farm... What kind 
+of people, you ask? You'll know them as soon as you 
+see them. They're pretty [Color:0x5]suspicious[Color:0x0].
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Thank you so much for protecting the farm! Those
+weirdos haven't been back since, and now we can keep 
+growing vegetables in peace. Now all we need is some 
+more farm hands, but... I guess there's no point in 
+wishing for something you can't have. For now, I 
+should just be happy that those weirdos are gone.
+[END]

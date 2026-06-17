@@ -1,0 +1,59 @@
+0: [71 1]*chuckle* The new me... What do you think?
+[->][END]
+1: [71 1]I've become more beautiful again... 
+[->][END]
+2: [71 1]I might become drunk with my own charm *chuckle*...
+[->][END]
+3: [71 1]Any more will damage my beauty...
+Choose the skill you don't need.
+[->][END]
+4: [71 1]Why not change my [Color:0x5][Skill 1][Color:0x0] 
+to [Color:0x5][Skill 2][Color:0x0]?
+[->][END]
+5: [71 1]*chuckle*... I'll become even more alluring.
+[->][END]
+6: [71 1]I see, if that's what you say I'll listen to you... 
+[->][END]
+7: [71 1](仮)変異選択メッセージ
+[->][END]
+8: [71 1](仮)変異OKメッセージ
+[->][END]
+9: [71 1](仮)変異NGメッセージ
+[->][END]
+10: [71 1](仮)変異完了メッセージ
+[->][END]
+11: [71 1](仮)変異レベル未達メッセージ
+[->][END]
+12: [71 1]I'll give you a [Color:0x5][Item 1][Color:0x0].
+Use it well *chuckle*...
+[->][END]
+13: [71 1]It's a [Color:0x5][Item 1][Color:0x0].
+Well? Aren't you happy?
+[->][END]
+14: [71 1][Color:0x5][Item 1][Color:0x0]...
+Don't you think it's very artistic?
+[->][END]
+15: [71 1]Don't you want to see... mine? Here,
+I'll teach you anything you want...
+[->][END]
+16: [71 1]Wasn't it good? *chuckle* ...It looks
+like it'll be a splendid piece of art.
+[->][END]
+17: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+I look forward to making you art...
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

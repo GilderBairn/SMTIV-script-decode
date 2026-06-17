@@ -1,0 +1,105 @@
+0: 〉 The save data will be initialized.
+[END]
+1: 〉 Initializing save data...
+[END]
+2: 〉 The save data has been initialized.
+[END]
+3: 〉 Save data is corrupted.
+Initializing...
+[END]
+4: 〉 Could not access the save data.
+[END]
+5: 〉 Could not initialize the save data.
+[END]
+6: 〉 The save data was corrupted and has
+been deleted.
+[END]
+7: 〉 Save data was corrupted.
+Initializing save data...
+[END]
+10: 〉 Could not detect SD card.
+[END]
+11: 〉 Extra Data is corrupted.
+Recreating Extra Data.
+[END]
+12: 〉 Could not detect SD card.
+[END]
+13: 〉 Extra Data is corrupted.
+Recreating Extra Data.
+[END]
+14: 〉 Could not detect SD card.
+[END]
+15: 〉 The SD card is write−protected.
+[END]
+16: 〉 Could not detect SD card.
+[END]
+17: 〉 Extra Data for Shin Megami Tensei IV:
+Apocalypse was not found.
+[->]〉 New Extra Data for this game will be
+created.
+[END]
+20: 〉 Creating Extra Data...
+This process may take some time.
+[END]
+21: 〉 Extra Data has been created.
+[END]
+22: 〉 There is not enough free space on the
+SD card. Failed to create Extra Data.
+[END]
+23: 〉 An error occurred and the process was
+interrupted. Failed to create Extra Data.
+[END]
+24: 〉 The SD card is write−protected.
+Failed to create Extra Data.
+[END]
+25: 〉 An error occurred while accessing the
+SD card. Failed to create Extra Data.
+[END]
+26: 〉 Failed to access SD card.
+[END]
+27: 〉 SD card not detected.
+Failed to create Extra Data.
+[END]
+28: 〉 Extra Data for Shin Megami Tensei IV:
+Apocalypse was not found.
+[END]
+30: 〉 Data was corrupted and has been
+deleted. Please try saving again.
+[END]
+31: 〉 Failed to write to SD card.
+Please try saving again.
+[END]
+32: 〉 The SD card is write−protected.
+[END]
+33: 〉 SD card not detected.
+Failed to write to SD card.
+[END]
+34: 〉 Not enough space on SD card.
+Failed to write to SD card.
+[END]
+35: 〉 SD card not detected.
+[END]
+36: 〉 No data was found.
+[END]
+40: 〉 Data is corrupted. Failed to load.
+[END]
+41: 〉 SD card data was corrupted and has
+been deleted.
+[END]
+42: 〉 The data in slot [11 0] on the SD card was
+corrupted and has been deleted.
+[END]
+50: 〉 No demo data found.
+[END]
+51: 〉 Extra Data is corrupted.
+[->]〉 Corrupted Extra Data can be deleted
+through the System Settings.
+[END]
+999: 〉 SD card not detected.
+[->]〉 Please try again after turning off
+the system and reinserting the SD card.
+[END]
+1000: 〉 SD card not detected.
+[->]〉 Please try again after turning off
+the system and reinserting the SD card.
+[END]

@@ -1,0 +1,20 @@
+0: There is a demon that's going wild in [Color:0x5]Harumi Way[Color:0x0] in 
+[Color:0x5]Ginza[Color:0x0]. This demon, [Color:0x5]Aramisaki[Color:0x0] appears almost at 
+random and kills a bunch of people. I'd like to ask 
+you to eliminate it to prevent any more casualties. 
+But let me warn you, don't go to fight it with 
+someone of the opposite sex.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Good job taking out Aramisaki. I'm glad you were
+able to defeat her before she was able to cause any 
+more damage. A lot of Hunters lost their partners to 
+her. You have everyone's thanks. Mine included.
+[END]

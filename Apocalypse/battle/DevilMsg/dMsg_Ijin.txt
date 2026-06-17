@@ -1,0 +1,67 @@
+0: [71 1]Let me show thee a new miracle.
+...There will be more who revere me now.
+[->][END]
+1: [71 1]Hahaha... Revere me, for I have 
+gained a new power.
+[->][END]
+2: [71 1]I have become stronger...
+Willest thou be able to use me correctly?
+[->][END]
+3: [71 1]Thou ask me what to throw away? What
+a bother, I leave it to thine choice.
+[->][END]
+4: [71 1]I shall changest [Color:0x5][Skill 1][Color:0x0]
+to [Color:0x5][Skill 2][Color:0x0]...
+[->][END]
+5: [71 1]That goes without saying.
+[->][END]
+6: [71 1]...What a man of low caliber.
+[->][END]
+7: [71 1]Congratulate me. I'm about 
+to become a whole new me.
+[->][END]
+8: [71 1]Take a good look at 
+my moment of triumph.
+[->][END]
+9: [71 1]Does thou fear change because of your
+humanity? It cannot be helped, I suppose.
+[->][END]
+10: [71 1]I am the world, and the world is I.
+What an omnipotent feeling...!
+[->][END]
+11: [71 1]Prepare thyself.
+The time will come soon...
+[->][END]
+12: [71 1]Take this [Color:0x5][Item 1][Color:0x0]. Humans
+desire material objects, do they not?
+[->][END]
+13: [71 1]I shall give thee [Color:0x5][Item 1][Color:0x0]
+as a reward for serving me.
+[->][END]
+14: [71 1]How cute. I shall specially give thee
+[Color:0x5][Item 1][Color:0x0].
+[->][END]
+15: [71 1]Accept and color thyself with my grand
+power, [Flynn]...
+[->][END]
+16: [71 1]Thy visage has improved.
+*chuckle*... Good good.
+[->][END]
+17: [71 1]I am [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+'Tis a pleasure to meet thee.
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

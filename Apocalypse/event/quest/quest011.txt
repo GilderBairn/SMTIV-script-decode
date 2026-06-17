@@ -1,0 +1,10 @@
+0: To whom it may concern:
+We've received reports of a weapon that may defeat
+Shesha. A sword called [Color:0x5]Ame−no−habakiri[Color:0x0] is said to
+be somewhere in a place known as the [Color:0x5]Fairy Forest[Color:0x0].
+No promises the information is accurate, but we do
+believe it's worth looking into. Investigate these
+rumors and, if true, retrieve the sword.
+[END]
+1: ダミー
+[END]

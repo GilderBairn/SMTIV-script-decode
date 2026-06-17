@@ -1,0 +1,22 @@
+0: (Mephisto) [7a 64427]You remind me of a man I met long ago...
+[->]He was never satisfied with anything,
+but in the end, he clutched at his
+incomplete, empty time...
+[->]If only the angels hadn't gotten in
+the way, then... This time, they won't
+get in the way.
+[->]Resist me as much as you want.
+This will entertain me greatly!
+[END]
+1: (Mephisto) [7a 64427]I desire a toy I can play with
+eternally...
+[->]You are going to live here forever
+until I bore of you.
+[END]
+900: (Mephisto) [7a 64427]Gugh... Look at me. I even disgust
+myself...
+[->]I have been made to be a fool.
+...However, the contract is not up. 
+[->]I will wait near you until you are
+satisfied with everything you have.
+[END]

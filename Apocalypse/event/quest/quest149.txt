@@ -1,0 +1,19 @@
+0: Hi! It's your favorite Betty. You've been so amazing
+so far, so now I want to ask you to try to set a new
+record for the Association. Take a shot at fusing
+[Color:0x5]100 demons[Color:0x0]. Think you can do it? I'll be waiting 
+to hear if you do!
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Congratulations on setting a new record! Even Mido 
+must have his eyes on you after fusing so many demons.
+Makes me a little jealous−−those demons get to spend
+so much time with you!
+[END]

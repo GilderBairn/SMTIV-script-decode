@@ -1,0 +1,24 @@
+0: A ferocious demon has appeared in [Color:0x5]Minami Sunamachi[Color:0x0], 
+where there are still a lot of precious relics. Every 
+Hunter that's gone there to look for relics has gone 
+missing. From the communications we've received, 
+it seems the demon is [Color:0x5]hiding inside one of the 
+buildings[Color:0x0]. Several skilled Hunters have already been 
+killed. Be careful.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: I read your report. It sends a chill down my spine
+to think what would happen if a demon capable of
+hiding its presence that well made it into one of
+the underground districts. It might have been a
+blessing that it appeared in an uninhabited area.
+You've done us a great service. Now we can safely 
+gather relics again.
+[END]

@@ -1,0 +1,873 @@
+0: Dummy Message
+[END]
+1: [71 1]I have no business with you.
+[->][END]
+2: [71 1]You have some nerve, slapping a lady
+in the face and then asking to talk...
+[->][END]
+3: [71 1]Now, what shall I do...?
+[->][END]
+4: [71 1]I'm satisfied.
+[->][END]
+5: [71 1]First, see if you can satisfy my
+desires.
+[->][END]
+6: [71 1]What...? That contraption of yours
+is full of demons...
+[->]How disappointing...
+[->][END]
+7: [71 1]I am [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Be honored I am with you...
+[->][END]
+8: [71 1]What...? You are beneath me?
+[->]I do not like forming contracts with
+weak humans.
+[->][END]
+9: [71 1]What...? You seem to already have one 
+of my bloodline already contracted.
+[->]I leave her in your care...
+[->][END]
+10: [71 1]I shall bestow upon you another
+companion.
+[->][END]
+11: [71 1]What...? That contraption of yours
+is full of demons...
+[->]How disappointing...
+[->][END]
+12: [71 1]You look ripe, like a cucumber...
+Ah, do not fret, I shall not eat
+you.
+[->][END]
+13: [71 1]Demons are quite capricious...
+[->][END]
+14: [71 1]Now, it is my turn to go with you.
+[->][END]
+15: [71 1]I shall summon another demon...
+[->][END]
+16: [71 1][Demon name 2] has summoned me...
+Let us quench each other's thirst.
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Shameless youth... Begone while you
+still have your head.
+[->][END]
+19: [71 1]What an assertive knave...
+[->][END]
+20: [71 1]Lowly human, disgracing me is a
+serious crime.
+[->][END]
+21: [71 1]Hnnnnnnnnnnnngh!
+[->][END]
+22: [71 1]Stop at once! Listen! Ahh! Even my
+mercy can only go so far...!
+[->][END]
+23: [71 1]...It is over. You have overstepped
+your boundaries.
+[->][END]
+24: [71 1]...What!? Why can't I move!?
+[->][END]
+25: [71 1]I do have something I am no longer
+interested in. I stole it from a
+human.
+[->][END]
+26: [71 1]You may have this. Take good care
+of it.
+[->][END]
+27: [71 1]Hohohohohoho! I am in a splendid
+mood. Everyone is my dear child!
+[->]Here, child! Take advantage of my
+glamorous conduct!
+[->][END]
+28: [71 1]You look quite meager, so you may
+have this as well.
+[->][END]
+29: [71 1]I do not like long speeches.
+[->][Amount 1] Macca.
+Let us settle with this.
+[->][END]
+30: [71 1]Very well. [Item 1] x[Amount 1].
+Be grateful I asked for no more.
+[->][END]
+31: [71 1]Very well. [Amount 1] Macca.
+Be grateful I asked for no more.
+[->][END]
+32: [71 1]I shall take but a drop of your HP.
+[->][END]
+33: [71 1]I shall take a modest amount of
+your HP.
+[->][END]
+34: [71 1]I shall take a fair amount of your
+HP.
+[->][END]
+35: [71 1]I shall take a vast amount of your
+HP.
+[->][END]
+36: [71 1]I shall take but a drop of your MP.
+[->][END]
+37: [71 1]I shall take a modest amount of
+your MP.
+[->][END]
+38: [71 1]I shall take a fair amount of your
+MP.
+[->][END]
+39: [71 1]I shall take a vast amount of your
+MP.
+[->][END]
+40: [71 1]Give me the life of your ally...
+[Demon name 2]!
+[->][END]
+41: [71 1]Give me that.
+[->][END]
+42: [71 1]Your partner... Give me [7e]'s HP!
+[->][END]
+43: [71 1]Now, delight me.
+[->][END]
+44: [71 1]You are quite considerate. You have
+my blessing.
+[->][END]
+45: [71 1]Are you mocking me?
+[->][END]
+46: [71 1]I have no way of using this overflowing 
+motherly love. Allow me to lavish it on you.
+[->][END]
+47: ”Sure.”
+”No.”
+[->][END]
+48: [71 1]Ahh, let it pour forth...
+[->][END]
+49: 〉 [Flynn] was soothed by
+the demon's motherly love!
+[->][END]
+50: 〉 [Flynn] was very soothed
+by the demon's motherly love!
+[->][END]
+51: [71 1]Ahh, let it pour forth...
+[->][END]
+52: 〉 [Flynn] was hurt by the
+demon's overprotectiveness!
+[->][END]
+53: 〉 [Flynn] was hurt by the
+demon's extreme overprotectiveness!
+[->][END]
+54: [71 1]Hmph, acting mature now...?
+[->][END]
+55: [71 1]There you are, beloved child.
+[->][END]
+56: [71 1]Hmph...
+[->][END]
+57: [71 1]You dare deceive me?
+[->]A foolish move.
+[->][END]
+58: [71 1]What a worthless youth...
+[->][END]
+59: [71 1]You dare deceive me?
+[->]A foolish move.
+[->][END]
+60: [71 1]Hmph...
+[->][END]
+61: [71 1]Hmph...
+[->][END]
+62: [71 1]To think one would refuse my orders
+like this. You truly are a brave
+young man!
+[->][END]
+63: [71 1]What a worthless youth...
+[->][END]
+64: [71 1]Have you been eating? Should I look
+after this child...?
+[->][END]
+65: [71 1]We shall meet again...
+[->][END]
+66: [71 1]Ahh... [Flynn]? I see you
+are still alive.
+[->]I remember the time we spent
+together.
+[->][END]
+67: [71 1]You wish to bind a contract with me?
+[->]Hohoho... Perhaps I shall look after
+a human for the first time in a
+long while.
+[->][END]
+68: [71 1]You ask for my pity? There, there,
+dear child.
+[->][END]
+69: [71 1]Hohoho... A new toy? Very well,
+I will give you one.
+[->][END]
+70: [71 1]You stumble over your words...
+[->][END]
+71: [71 1]Ahhh... [Flynn]...!
+How much have I worried about you...
+[->]Do not sadden me like that any
+more! Now, back into my arms...!
+[->][END]
+72: [71 1]...Are you going to just slay me
+like this?
+[->][END]
+73: [71 1]Dear child...
+[->]These breasts of mine are now yours.
+Do as you will.
+[->][END]
+74: [71 1]No! No!
+[->][END]
+101: 〉 The demon is on guard...
+What will you do?
+[->][END]
+102: Lower your weapon
+Put up your guard
+[->][END]
+103: [71 1]That soft soul is the perfect prey
+for demons.
+[->][END]
+104: [71 1]Hmm... You have manners. If you have
+intelligence, then I will pass some
+time with you.
+[->][END]
+105: [71 1]You dare insult me...?
+[->][END]
+106: [71 1]Do not act so stiffly. Here...
+I shall give you this.
+[->][END]
+107: [71 1]Humans truly are bizarre beings...
+[->][END]
+109: 〉 The demon is approaching you...
+What will you do?
+[->][END]
+110: Step aside
+Raise your weapon
+Don't move
+[->][END]
+111: 〉 [Flynn] dodges the demon!
+[->][END]
+112: [71 1]Do not act so stiffly.
+Act like the child you are.
+[->][END]
+113: 〉 The demon catches up...
+[->][END]
+114: [71 1]Hmm... You have good instincts.
+Allow me to test you.
+[->][END]
+115: [71 1]You dare insult me...?
+[->][END]
+116: [71 1]Quite a brave youth... Perhaps I
+should speak with him.
+[->][END]
+117: [71 1]Quite a brave youth...
+[->]...Is that what you were expecting
+me to say?
+[->][END]
+119: 〉 The demon is beckoning you...
+What will you do?
+[->][END]
+120: Go near
+Beckon back
+Raise your weapon
+[->][END]
+121: [71 1]Do not come near me.
+[->][END]
+122: [71 1]There, there, dear child...
+I shall give you this.
+[->][END]
+123: [71 1]Let us meet again.
+[->][END]
+124: [71 1]There, there, dear child...
+[->]If you bow your head to me,
+I shall grant your wish.
+[->][END]
+125: [71 1]You dare insult me...?
+[->][END]
+126: [71 1]Quite a strange youth...
+Perhaps I should speak with him.
+[->][END]
+127: [71 1]In the end, you were but a human...
+[->][END]
+128: 〉 The demon took you by surprise...
+[->][END]
+129: [71 1]Do not act so stiffly. Now, let us
+continue our conversation.
+[->][END]
+131: 〉 The demon is trying to leave...
+What will you do?
+[->][END]
+132: Stop her
+Ignore her
+Raise your weapon
+[->][END]
+133: [71 1]Do you wish for me to be your ally?
+[->]But that means betraying my race...
+[->]I must receive proper compensastion.
+[->][END]
+134: [71 1]Hmm... I do not know you.
+[->][END]
+135: 〉 The demon left...
+[->][END]
+136: [71 1]You dare insult me...?
+[->][END]
+137: [71 1]Do not act so stiffly. Now, let us
+continue our conversation.
+[->][END]
+138: [71 1]Acting without regard of oneself...
+A foolish move.
+[->][END]
+140: 〉 The demon is ignoring you...
+What will you do?
+[->][END]
+141: Say something to her
+Get her attention
+Threaten her
+[->][END]
+142: [71 1]Such an annoying bug...
+[->][END]
+143: [71 1]What resolve do you have, speaking
+to me?
+[->]I shall see through your motives.
+[->][END]
+144: Blank Line
+[->][END]
+145: Blank Line
+[->][END]
+146: Blank Line
+[->][END]
+147: [71 1]Do not act so stiffly. Here...
+I shall give you this.
+[->][END]
+148: [71 1]Humans truly are bizarre beings...
+[->][END]
+149: [71 1]Acting without regard of oneself...
+A foolish move.
+[->][END]
+151: [71 1]Now, you can fawn over me all you
+want.
+[->][END]
+152: Fawn
+Don't fawn
+[->][END]
+153: [71 1]An obedient child. There, there...
+[->]Ooh! Waving your arms and legs
+around like that, such a dear child!
+[->]You must become my child.
+[->][END]
+154: [71 1]An obedient child. There, there...
+[->]May I now eat you?
+[->][END]
+155: [71 1]Then I shall fawn over you!
+[->][END]
+156: [71 1]I cannot hold back my motherly
+love... I do not want to let go of
+you!
+[->][END]
+158: [71 1]You are [Flynn]...
+I have heard of you.
+[->][END]
+159: [71 1]Evil child, I shall defeat you.
+[->][END]
+160: [71 1]Shining soul, born in chaos...
+I shall be with you...
+[->][END]
+161: [71 1]I wish not to involve myself with you!
+[->][END]
+162: 〉 The demon left...
+[->][END]
+164: [71 1]Humans are not to be trusted...
+[->][END]
+165: ”Exactly.”
+”That's not true.”
+”I'm a trustworthy human.”
+[->][END]
+166: [71 1]What mouth speaks that word,
+hypocrite!
+[->][END]
+167: [71 1]Hmm... So there are humans that are
+intelligent. Allow me to test you.
+[->][END]
+168: [71 1]You dare insult me...?
+[->][END]
+169: [71 1]Then earn my trust.
+[->][END]
+170: [71 1]Those words themselves are proof I
+cannot trust you.
+[->][END]
+172: [71 1]Hohoho... I am interested in humans.
+[->][END]
+173: 〉 How will you approach the demon?
+[->][END]
+174: Amicably
+High−handedly
+[->][END]
+175: [71 1]Excellent attitude... As a reward,
+I shall ask you what you want.
+[->][END]
+176: [71 1]Hrm... How should I answer to you...
+[->]I cannot collect my thoughts...
+[->][END]
+177: [71 1]Acting without regard of oneself...
+A foolish move.
+[->][END]
+179: [71 1]What do I look like in your eyes?
+[->][END]
+180: ”Like a mother.”
+”Like an ogress.”
+”Like a woman.”
+[->][END]
+181: [71 1]Ho... You see me as full of mercy?
+You are such a dear child...
+[->][END]
+182: [71 1]What...? You see me as an ogre...?
+I am the mirror image of you humans.
+[->][END]
+183: Blank Line
+[->][END]
+185: [71 1]Oh... You can see me?
+[->][END]
+186: ”I can.”
+”I can't.”
+[->][END]
+187: Blank Line
+[->][END]
+188: [71 1]Then allow me to open your eyes. If
+you open your eyes when you die,
+that is.
+[->][END]
+189: [71 1]I do not have time to deal with
+jokes.
+[->][END]
+191: [71 1]What is this noise... What do you
+want with me?
+[->][END]
+192: ”Become my ally.”
+”I want to talk.”
+”I'm not noisy.”
+[->][END]
+193: [71 1]I cannot betray my race.
+[->][END]
+194: Blank Line
+[->][END]
+195: Blank Line
+[->][END]
+196: [71 1]Oh, you're a human child...
+What a bore.
+[->][END]
+198: [71 1]Oh, a human. Should I take you and
+eat you?
+[->][END]
+199: ”Please, don't!”
+”Go ahead and try.”
+[->][END]
+200: [71 1]I refuse!
+[->][END]
+201: [71 1]Ahh... That face bent with fear!
+Like a mere child... So adorable!
+[->]There, there. I shall look after
+you.
+[->]...But did you think I would simply
+nod to that?
+[->][END]
+202: [71 1]Those who say they are pure are the
+filthiest. They should become slaves.
+[->][END]
+203: [71 1]I am simply jesting. Do not worry.
+[->]You desire my love, do you not? I
+will bestow it on you, so give me
+gifts.
+[->][END]
+205: [71 1]What do you think about being born
+into this world?
+[->][END]
+206: ”I'm grateful.”
+”I curse it.”
+”I don't care.”
+[->][END]
+207: [71 1]Then you should not involve
+yourself with demons.
+[->][END]
+208: [71 1]Respecting life in this world of
+chaos... You are an intelligent
+child...
+[->]I shall make you my child.
+[->][END]
+209: [71 1]I see... You are a frail soul.
+There are many humans like you now.
+[->]I shall introduce you to them in my
+stomach.
+[->][END]
+210: Blank Line
+[->][END]
+211: [71 1]There was someone who went through great
+pain to bring you into this world...
+[->]You owe it to them to bring something
+to this world yourself. For that reason,
+I shall lend you my strength.
+[->][END]
+213: [71 1]I am bored... Human, read me a poem.
+[->][END]
+214: Recite ”Poem of Love”
+Recite ”Poem of War”
+Recite ”Poem of Daily Life”
+[->][END]
+215: [71 1]Oh, you are still a youth... I see
+you do not know love yet.
+[->]There, there. I shall give you my
+love.
+[->][END]
+216: [71 1]You feel joy in massacre? You
+should not lie, human.
+[->][END]
+217: [71 1]I have no interest in your everyday
+life.
+[->][END]
+219: [71 1]Shall I tell you today's fortune?
+[->][END]
+220: ”Sure.”
+”No thanks.”
+[->][END]
+221: [71 1]...
+[->][13 10, 0]...Very lucky.
+[->]You are as I thought! You are fated
+to take me with you...
+[->][END]
+222: [71 1]...
+[->][13 10, 0]...Lucky.
+[->]If that is true, what will you do?
+You decide your fate.
+[->][END]
+223: [71 1]...
+[->][13 10, 1]...Unlucky.
+[->]It may be because you end your life
+here.
+[->][END]
+224: [71 1]...
+[->][13 10, 1]...Very unlucky.
+[->]Don't be saddened. Luck is something
+that is constantly changing. In
+fact, I shall help you change it.
+[->][END]
+225: [71 1]Hmm... That is becoming of a human.
+[->]Then, go forth. You decide
+everything for yourself.
+[->][END]
+227: [71 1]I can see a devilish element from
+inside of you. ...Who are you?
+[->][END]
+228: ”A human.”
+”A demon.”
+[->][END]
+229: Blank Line
+[->][END]
+230: [71 1]Power lies in words. Do not say what
+you do not think.
+[->][END]
+231: [71 1]Then, fellow demon, I have a
+question for you.
+[->][END]
+233: [71 1]You look glum. Are you worried
+about something?
+[->][END]
+234: ”I am.”
+”I'm not.”
+[->][END]
+235: Blank Line
+[->][END]
+236: [71 1]I was talking to your soul.
+[->]Of course it is glum... After all,
+I am yet to be satisfed...
+[->][END]
+237: [71 1]I was talking to your soul.
+[->]Of course it is glum... After all,
+I am yet to be satisfed...
+[->][END]
+239: 〉 [Flynn] dances a dance...
+[->][END]
+240: [71 1]It lacks sacredness.
+[->][END]
+241: [71 1]Hmm... Is that some respect? Very
+well. Keep showing me your sincerity.
+[->][END]
+243: 〉 [Flynn] sings a song...
+[->][END]
+244: [71 1]It lacks sacredness.
+[->][END]
+245: [71 1]Hmm... Is that some respect? Very
+well. Keep showing me your sincerity.
+[->][END]
+247: 〉 [Flynn] shows off some Macca...
+[->][END]
+248: [71 1]A pitiable child...
+[->][END]
+249: [71 1]Hmm... An offering to me? You rarely
+see that in today's youth.
+[->][END]
+251: [71 1]Are you not afraid of me?
+[->][END]
+252: ”I'm not afraid.”
+”I am, but you look kind.”
+[->][END]
+253: [71 1]Then come closer. I shall wrap you
+in my arms.
+[->][END]
+254: [71 1]Hohoho... You say such interesting
+things for a child.
+[->][END]
+256: [71 1]So, what do you want?
+[->][END]
+257: ”For you to be my ally.”
+”For you to watch over me.”
+[->][END]
+258: [71 1]Do not act so stiffly, dear child.
+Simply show me your sincerity.
+[->][END]
+259: [71 1]Such an over−bearing youth. I have
+no duty to do so.
+[->][END]
+260: [71 1]A pitiable child... You do not know
+the warmth of skin...
+[->]There, there, I shall make you my
+child.
+[->][END]
+262: [71 1]So, child. Would you like to live
+the life of an ogre?
+[->][END]
+263: ”I'm not an ogre.”
+”I already am.”
+[->][END]
+264: [71 1]There are many humans who turn
+their eyes from the ogre within...
+[->]In your case, however it would be
+”Dadga”, would it not?
+[->][END]
+265: [71 1]Then hunt humans. It will make this
+world better.
+[->][END]
+267: [71 1][13 10, 1]Are you blushing? Quite a child.
+[->][END]
+268: ”Well, you ARE a woman.”
+”You're not a woman!?”
+[->][END]
+269: [71 1]Human only see with their eyes. You
+must look inside of me.
+[->]...You can see what I want, right?
+[->][END]
+270: [71 1]Hohoho... Young one, look at the man
+inside the woman, and the woman
+inside the man.
+[->]...You can see it, correct?
+My burning desires...
+[->][END]
+272: [71 1][13 10, 1]Then you understand, right? I do
+not want to curse anyone anymore.
+[->][END]
+273: ”I don't understand.”
+”Why?”
+”Then don't curse.”
+[->][END]
+274: [71 1]Then allow me to open your eyes. If
+you open your eyes when you die,
+that is.
+[->][END]
+275: [71 1]Demons and humans... We are mirror
+images of each other.
+[->]As long as humans exist, we cannot
+escape from our fate.
+[->]Child, would you be able to accept
+my curse?
+[->][END]
+276: [71 1]Then would make me no longer me...
+[->]My curse is a dead wish, something
+that can never come to be in this
+world...
+[->]I, too, am fated to be swept along
+with this curse...
+[->][END]
+278: [71 1][13 10, 0]Are you saying that you wish to be
+ruled over by us gods?
+[->][END]
+279: ”Yes.”
+”No.”
+[->][END]
+280: [71 1]Hm... I am the embodiment of
+boredom. I wish to hear you speak.
+[->]First, see if you can satisfy my
+desires.
+[->][END]
+281: [71 1]Why? Humans pray and ask the gods
+for help all the time.
+[->]Are we desired only when needed?
+You bring chaos to the world...
+[->][END]
+283: [71 1][13 10, 0]Then will you worship me?
+[->][END]
+284: ”Yes.”
+”No.”
+[->][END]
+285: [71 1]An admirable child. How should I
+answer to you...
+[->][END]
+286: [71 1]I cannot trust you.
+[->][END]
+287: [71 1]A human without resolve, thinking
+we are on equal grounds...?
+How insulting...
+[->][END]
+289: [71 1]Now, sleep in my arms...
+[->][END]
+290: Sleep
+Don't sleep
+[->][END]
+291: [71 1]Ahh, dear child...
+[->][END]
+292: [71 1]There... Sleep eternally in my
+arms...
+[->][END]
+293: [71 1]Hm... You have already weaned, I
+see. I apologize for playing with
+you.
+[->]Now then, finish your business
+before I leave.
+[->][END]
+294: [71 1]Dare you waste my love? A naughty
+child...
+[->][END]
+296: [71 1][13 10, 0]Then... Do you not wish to return
+to my womb?
+[->][END]
+297: ”I do.”
+”I wasn't demon−born.”
+”What's the merit?”
+[->][END]
+298: [71 1]I have no recollection of giving
+birth to you.
+[->][END]
+299: [71 1]Hoho... You are an obedient child.
+You may think of me as your mother.
+[->][END]
+300: [71 1]What does a child like you know
+about demons and humans?
+[->]Where is the border between the two?
+Evil can also come from good.
+[->][END]
+301: [71 1]...Do you want me to tell you?
+[->][END]
+303: [71 1][13 10, 0]Now then, human... What do you
+desire from the future?
+[->][END]
+304: ”Peace.”
+”The status quo.”
+”Destruction.”
+[->][END]
+305: [71 1]Hmm... Such a far−reaching ambition
+for a human child.
+[->]I would like help you fulfill that,
+but doing so would be betraying my
+race.
+[->]...You must worship me accordingly.
+[->][END]
+306: [71 1]You wish to continue to wade in
+your own punsihment? Human desire
+truly does warp the world.
+[->][END]
+307: [71 1]Hmm... Do you represent the humans?
+Do you think everyone wishes for that?
+[->]Do not burden yourself with things you
+cannot handle.
+[->][END]
+308: [71 1]I can see the wheel of fortune, the
+chain of misfortune... Can a mere
+human tolerate it?
+[->]He who brings chaos to the world.
+I will see what lies at the end
+of your journey.
+[->][END]
+309: [71 1]The actions of humans are too much,
+even for demons.
+[->][END]
+311: [71 1]In this world of suffering, to kill is
+to show mercy, to spare is also to show
+mercy. Which would you choose?
+[->][END]
+312: ”To spare.”
+”To kill.”
+[->][END]
+313: [71 1]Then we should take each other's hand.
+Let us have a deeper conversation.
+[->][END]
+314: [71 1]Such foolish optimism!
+[->][END]
+315: [71 1]Then we should take each other's hand.
+Let us have a deeper conversation.
+[->][END]
+316: [71 1]Considering escaping reality for good
+is not mercy!
+[->][END]
+318: [71 1][13 10, 0]Intelligent people always have
+problems. Now, tell me yours.
+[->][END]
+319: ”Trouble with work.”
+”Trouble with love.”
+”Trouble with my future.”
+[->][END]
+320: [71 1]I see... That is quite a problem.
+[->]There will always be those who cannot
+evaluate things properly and those who
+make things more difficult.
+[->]That goes the same for us gods. We are
+the mirror images of humans, after all.
+[->]...How about I join you and together
+we make your life shine?
+[->][END]
+321: [71 1]I see... That is quite a problem.
+[->]Emotions change. People become
+enchanted by those who have something
+they do not.
+[->]That goes the same for us gods. We are
+the mirror images of humans, after all.
+[->]...How about I join you and together
+we make your life shine?
+[->][END]
+322: [71 1]I see... That is quite a problem.
+[->]Because the scale is so big...
+[->]That goes the same for us gods.
+[->]...How about I join you and together
+we make your life shine?
+[->][END]
+324: [71 1]Reserved
+[->][END]
+325: Reserved
+[->][END]
+326: Reserved
+[->][END]
+327: Reserved
+[->][END]
+328: [71 1]Reserved
+[->][END]
+329: Reserved
+[->][END]
+330: [71 1]Reserved
+[->][END]
+331: Reserved
+[->][END]
+332: [71 1]Reserved
+[->][END]
+333: Reserved
+[->][END]
+334: [71 1]Reserved
+[->][END]
+335: Reserved
+[->][END]
+336: [71 1]Reserved
+[->][END]
+337: Reserved
+[->][END]
+338: [71 1]Reserved
+[->][END]
+339: Reserved
+[->][END]
+340: [71 1]Reserved
+[->][END]
+341: Reserved
+[->][END]
+342: [71 1]Reserved
+[->][END]
+343: Reserved
+[->][END]
+344: [71 1]Reserved
+[->][END]

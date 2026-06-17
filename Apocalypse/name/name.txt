@@ -1,0 +1,19 @@
+0: 〉 Enter a name.
+[END]
+1: 〉 Is ”[11 50]” correct?
+[END]
+2: Yes
+No
+[->][END]
+3: 〉 What will you do?
+[END]
+4: Continue entering name
+Cancel entering name
+[->][END]
+5: Continue entering name
+Return to default name
+[->][END]
+6: 〉 That name cannot be used.
+[END]
+7: 〉 Cancel? 
+[END]

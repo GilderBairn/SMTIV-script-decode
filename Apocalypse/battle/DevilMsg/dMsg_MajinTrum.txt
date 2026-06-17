@@ -1,0 +1,62 @@
+0: [71 1]A new skill...
+A new death will be born once more...
+[->][END]
+1: [71 1]One more grace of death...
+[->][END]
+2: [71 1]I shall count the numbers of lives ended
+with this skill...
+[->][END]
+3: [71 1]It is the way of life that when something
+is born something else must be buried...
+[->][END]
+4: [71 1]Will you bury [Color:0x5][Skill 1][Color:0x0]
+and birth [Color:0x5][Skill 2][Color:0x0]?
+[->][END]
+5: [71 1]Your choice carries death and brings a
+revolution to life...
+[->][END]
+6: [71 1]One who uses death, do you truly choose
+stagnation...?
+[->][END]
+7: [71 1](仮)変異選択メッセージ
+[->][END]
+8: [71 1](仮)変異OKメッセージ
+[->][END]
+9: [71 1](仮)変異NGメッセージ
+[->][END]
+10: [71 1](仮)変異完了メッセージ
+[->][END]
+11: [71 1](仮)変異レベル未達メッセージ
+[->][END]
+12: [71 1]You, who lives a transient life, accept
+this [Color:0x5][Item 1][Color:0x0].
+[->][END]
+13: [71 1]I shall gift you with this [Color:0x5][Item 1][Color:0x0],
+so that death may be close to you...
+[->][END]
+14: [71 1]You, who is with death, accept this
+[Color:0x5][Item 1][Color:0x0].
+[->][END]
+15: [71 1]My words sink in death. Laugh at death
+and use it for your nourishment...
+[->][END]
+16: [71 1]Did you hear the footsteps of death?
+[->][END]
+17: [71 1]I am [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Waste and perish, human... for I am death.
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

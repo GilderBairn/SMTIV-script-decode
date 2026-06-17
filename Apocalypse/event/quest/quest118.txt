@@ -1,0 +1,22 @@
+0: Help! I'm trapped in [Color:0x5]Dogenzaka[Color:0x0], in [Color:0x5]Shibuya[Color:0x0], at some 
+dive called Club Milton. This huge demon is blocking 
+the entrance, and now we can't get out−−much less 
+smuggle anything! Take care of [Color:0x5][Demon name 1][Color:0x0] for me, 
+will ya!?
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Who'da thought there'd still be demons on the hunt 
+for Reds... Anyhow, thanks to you, we can get back
+to the smugglin' biz! Maybe something good'll turn
+up at the [Color:0x5]shops in Shibuya[Color:0x0], yeah? ...Oh, and uh...
+Don't tell nobody about this, got it? It's bad enough
+I asked a Hunter for help−−don't need anyone finding
+out I'm sellin' stuff to the black market.
+[END]

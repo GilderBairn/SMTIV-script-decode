@@ -1,0 +1,5 @@
+778: Effect: Higher success rate when recruiting
+demons. Effective against low−level demons.
+[END]
+779: Effect: Become weak to all attacks
+[END]

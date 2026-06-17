@@ -1,0 +1,23 @@
+0: Hey, kid. I created a training program to toughen
+you up. Unlike normal battles, this virtual one
+requires you to meet certain conditions to succeed. 
+For this first one, you need to weather enemy attacks 
+and [Color:0x5]use your partners to knock out the enemy[Color:0x0] within 
+a limited number of turns. If you think you're ready, 
+accept the quest from your phone.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Hm... That's good enough, for now. You've still got
+a ways to go, though, so I'll have to create more 
+programs to help teach you to fight. I'll let you 
+know when they're ready. In the meantime, keep 
+practicing out in the real world. Don't forget−−
+you're my Godslayer, kid.
+[END]

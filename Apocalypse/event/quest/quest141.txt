@@ -1,0 +1,22 @@
+0: The people of Tokyo are going to need something to
+eat if they're going to give it their all. There are some 
+meaty demons around [Color:0x5]Camp Ichigaya[Color:0x0], like Fenrir and 
+Pendragon. I want you to get [Color:0x5]10 Expanse Meat[Color:0x0] and 
+[Color:0x5]10 A5 Demoloin[Color:0x0] from them. I'm counting on you, in 
+the name of delicious food and Tokyo's future.
+[END]
+1: Delivery Quest Description Second Time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: It's been so long since I've seen this much food.
+I knew you'd be able to get all of it. Okay, this 
+is no time to be sitting around! I'm gonna make
+so much food that all of Tokyo will be stuffed!
+I'm fighting in the name of delicious food and
+Tokyo's future too!
+[END]

@@ -1,0 +1,188 @@
+0: Dummy Message
+[END]
+1: [71 1]Not Used
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Not Used
+[->][END]
+19: [71 1]Not Used
+[->][END]
+20: [71 1]Not Used
+[->][END]
+21: [71 1]Not Used
+[->][END]
+22: [71 1]Not Used
+[->][END]
+23: [71 1]Not Used
+[->][END]
+24: [71 1]Not Used
+[->][END]
+25: [71 1]A trade...?
+Master, what do you desire...?
+[->][END]
+26: [71 1]...Yes, Master.
+[->][END]
+27: [71 1]Not Used
+[->][END]
+28: [71 1]Take this as well.
+[->][END]
+29: [71 1]There's no point in dragging this
+out, huh...?
+[->][Amount 1] Macca.
+Let's end this, Master...
+[->][END]
+30: [71 1]Would you give me
+[Item 1] x[Amount 1]?
+[->][END]
+31: [71 1]I really want [Amount 1] Macca.
+[->][END]
+32: [71 1]I really want a little of your
+life, Master.
+[->][END]
+33: [71 1]Could I get some of your life,
+Master?
+[->][END]
+34: [71 1]Would it be okay to get a lot of your
+life, Master?
+[->][END]
+35: [71 1]Please give me a ton of your life,
+Master.
+[->][END]
+36: [71 1]I really want a little bit of your
+spirit. Master.
+[->][END]
+37: [71 1]Would it be okay to get a lot of your
+spirit, Master?
+[->][END]
+38: [71 1]Would it be okay to get a lot of your
+spirit, Master?
+[->][END]
+39: [71 1]Please give me a ton of your
+spirit, Master.
+[->][END]
+40: [71 1]Master's ally...
+I'll kill [Demon name 2]...
+[->][END]
+41: [71 1]I want that, Master...
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Guess what I want, Master.
+[->][END]
+44: [71 1]I knew it, Master...
+[->]You really do know everything
+about me... But...
+[->][END]
+45: [71 1]That's not it, Master...
+[->]So... you don't understand me...
+after all...
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]Yes... I'm satisfied, Master...
+[->][END]
+56: [71 1]I see... No, don't worry, Master...
+I knew this would happen...
+[->][END]
+57: [71 1]You won't do anything I ask for...
+That's your answer... isn't it,
+Master?
+[->][END]
+58: [71 1]It's okay, Master...
+Let's stop talking.
+[->]You're different from us.
+Our paths aren't the same.
+[->][END]
+59: [71 1]Were you trying to deceive me...?
+Master... that's so mean...
+[->][END]
+60: [71 1]Master... You don't have what I
+asked for...? I'm sorry...
+[->][END]
+61: [71 1]Master... You don't have a
+Life Stone...? We can't... negotiate
+like this...
+[->][END]
+62: [71 1]You won't comply to any of my
+wishes...
+[->]But that's just like you.
+I love you, Master...
+[->][END]
+63: [71 1]You haven't denied me anything...
+That's not like you, Master.
+[->]I'm sorry, Master... I just can't
+stand to see you like this!
+[->][END]
+64: [71 1]You don't have a single thing I
+want, Master.
+[->]Silly... Please take this, Master.
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]Master... Let's stop this.
+[->]You're only going to make it
+harder.
+[->][END]
+71: [71 1]Not Used
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

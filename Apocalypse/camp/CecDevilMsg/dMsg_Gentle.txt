@@ -1,0 +1,33 @@
+0: [71 1]It's good to head out and train now
+and then. After all, if I am not summoned, 
+I will only grow weaker. 
+[->][END]
+1: [71 1]I have created a bloodbath with the
+other Hunter. I will always stay by 
+your side, [Flynn]...
+[->][END]
+2: [71 1]In various worlds, people struggle 
+against fate by employing demons and 
+trying to pave their own path.
+[->]It is indeed a beautiful thing... 
+[->][END]
+3: [71 1]I have consumed many demons...
+[->][END]
+4: [71 1]It is... [Flynn]. Don't tell me 
+you have forgotten me?
+[->][END]
+5: [71 1]Hehehe...I am filled with power...
+This is why I cannot stop networking!
+[->][END]
+6: [71 1]A Hunter from the other world handed 
+this to me. The Hunter told me to tell
+you ”hello.”
+[->][END]
+7: [71 1]I have traveled to various other worlds,
+but all were terrible... [Flynn], 
+this Tokyo is better than most.
+[->][END]
+8: [71 1]This is a souvenir from another world.
+It reminds me of the days when I would 
+rile up Mr. Glover...
+[->][END]

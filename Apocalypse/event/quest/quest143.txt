@@ -1,0 +1,19 @@
+0: Hi! It's your favorite Betty. Got a new record for you 
+to break, [Flynn]. Think you can [Color:0x5]collect 250 relics[Color:0x0]? 
+I'll be waiting for the good news!
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Congratulations on setting a new record! We've
+never had a Hunter who's been this ambitious about
+collecting relics. Relics are like the linchpin
+of our daily lives in Tokyo. Tons of people will
+benefit from your work. This is a record to be
+proud of.
+[END]

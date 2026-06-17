@@ -1,0 +1,22 @@
+0: Please help me, Mr. Hunter.
+
+[Color:0x5]Beat up the Ashura−kai guys[Color:0x0] giving Ken trouble! 
+I can give you some relics we found as a reward. 
+Ken is a good person. He protects us. That's why I 
+want you to help him. I'll wait for you [Color:0x5]in front 
+of the ticket gates in the underground district[Color:0x0] in 
+[Color:0x5]Ikebukuro[Color:0x0].
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Sorry he got mad at you 'cause of me. I wanna hurry
+up and become strong like you so Ken will trust me. 
+I'll work really, really hard. You help out a lot of 
+people, right? Keep it up! I'm rooting for you!
+[END]

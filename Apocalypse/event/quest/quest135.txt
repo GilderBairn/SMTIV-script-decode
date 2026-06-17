@@ -1,0 +1,18 @@
+0: Hi! Betty here, again. This time I have a test for
+total damage dealt. How about you try dealing...
+let's say [Color:0x5]40,000 damage[Color:0x0]. Show me what you got! 
+Good luck!
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: I saw your log. Those are some pretty impressive
+numbers! Fighting's just part of being a Hunter.
+Keep training and using those techniques in battle, 
+so you can protect the people who can't fight.
+[END]

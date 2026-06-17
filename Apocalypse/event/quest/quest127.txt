@@ -1,0 +1,18 @@
+0: We have received reports that the [Color:0x5]Tokyo Dome[Color:0x0] 
+in Chiyoda is haunted. In order to get a sense of 
+the scale of the manifestation, we'd like you to 
+head there and take some [Color:0x5]pictures[Color:0x0].
+[END]
+1: Delivery Quest Description Second Time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Well done. We received the pictures. To tell you the
+truth, this is happening all over Tokyo. All of them 
+just disappear suddenly without causing any real harm, 
+but... it's unsettling. Keep your eyes peeled.
+[END]

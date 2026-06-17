@@ -1,0 +1,7 @@
+0: (Asahi) [7a 174]What're you doing? This is your room.
+[->]If you head out of your room and
+hook a right, you'll find the stairs
+that lead down to the train platform.
+[->]Past that is the underground district,
+and of course Dad's Hunter Association.
+[END]

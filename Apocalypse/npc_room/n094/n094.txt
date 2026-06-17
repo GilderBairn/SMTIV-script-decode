@@ -1,0 +1,25 @@
+0: (Angel) [7a 65458]This is a place that we angels have
+long protected.
+[END]
+1: (Angel) [7a 65458]What was that earthquake...?
+Did something happen...?
+[END]
+2: (Angel) [7a 65458]Krishna was sealed here...
+He was always a nuisance.
+[->]He's wreaking havoc around Tokyo,
+leading a group of deities called
+the Divine Powers...
+[END]
+3: (Angel) [7a 65458]Now that the Divine Powers have
+been defeated, the ceasefire is
+over.
+[->]Angels and demons can't coexist.
+[END]
+4: (Angel) [7a 65458]Armageddon has begun.
+[END]
+5: (Angel) [7a 65458]Krishna has been sealed again.
+[->]This seal must never be broken.
+[END]
+6: (Angel) [7a 65458]Krishna has been sealed again.
+[->]This seal must never be broken.
+[END]

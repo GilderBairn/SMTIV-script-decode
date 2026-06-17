@@ -1,0 +1,29 @@
+0: (Angel) [7a 65461]We angels have long protected this
+place. I expect you not to disturb
+that peace.
+[END]
+1: (Angel) [7a 65461]What was that shaking...?
+Could it be, the seal has been
+broken?
+[END]
+2: (Angel) [7a 65461]Krishna, who was once sealed here,
+is now leading the Divine Powers
+and doing as he pleases.
+[->]Terrible things are to come.
+[END]
+3: (Angel) [7a 65461]The Divine Powers have been
+defeated. Now, the inevitable war
+between angels and demons begins.
+[->]I may have to fight those here with me as well, when that time comes...
+[END]
+4: (Angel) [7a 65461]Armageddon has commenced.
+This was always our fate...
+[END]
+5: (Angel) [7a 65461]Krishna has been sealed once again.
+[->]I must take special care so that
+he will not be unsealed again...
+[END]
+6: (Angel) [7a 65461]Krishna has been sealed once again.
+[->]I must take special care so that
+he will not be unsealed again...
+[END]

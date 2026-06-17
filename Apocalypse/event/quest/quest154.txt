@@ -1,0 +1,20 @@
+0: Hi. This is a competency test for Association Hunters. 
+The objective is to [Color:0x5]collect 25 relics[Color:0x0]. Collecting 
+relics is an important and core job of Hunters. 
+You understand that, right? Well, I'll be looking 
+forward to what you can do.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Looks like you were able to meet the goal. The more 
+relics we find, the better everyone gets to live,
+so I encourage you to sell them as soon as you find
+any. Everyone wins, including your wallet. Well, I'll 
+see you in the next test.
+[END]

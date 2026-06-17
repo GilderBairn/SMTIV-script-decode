@@ -1,0 +1,66 @@
+0: [71 1]Skill obtained−ho! Let me−ho be−ho in
+more battles!
+[->][END]
+1: [71 1][Flynn]! I feel I'll be−ho a big help
+soon...
+[->][END]
+2: [71 1]I'll let the devilishness wake up!
+Hee−ho!
+[->][END]
+3: [71 1]I have too man−hee skills... I don't want
+to throw any−ho away...
+[->][END]
+4: [71 1]Hee−ho hee−ho! [Color:0x5][Skill 1][Color:0x0]
+change to [Color:0x5][Skill 2][Color:0x0]−ho!
+[->][END]
+5: [71 1]I'm so excited! Hee−ho!
+[->][END]
+6: [71 1]I'll let it be−ho this time.
+[->][END]
+7: [71 1]Hee−hoho! I can't be in this body
+anymore−ho!
+[->]I did a lot and became famous, so now
+people look at me differently−ho!
+[->][END]
+8: [71 1]HEEEEEE HAW!
+[->][END]
+9: [71 1]What is it−ho!? I'm looking forward to
+it−ho!
+[->][END]
+10: [71 1]Hee−ho! I'll make you a fully−ho−fledged
+Hunter−ho!
+[->][END]
+11: [71 1]Hee−ho? I thought I heard someone call
+me−ho...
+[->][END]
+12: [71 1][Color:0x5][Item 1][Color:0x0]−ho! If you're
+a good boy, I'll give you more−ho!
+[->][END]
+13: [71 1]I brought this [Color:0x5][Item 1][Color:0x0].
+It looks like something you would like−ho!
+[->][END]
+14: [71 1]Become the strongest Hunter with this
+[Color:0x5][Item 1][Color:0x0]−ho!
+[->][END]
+15: [71 1]Demon lesson−ho!
+[->][END]
+16: [71 1]...Are you bored of the lesson−ho?
+[->][END]
+17: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Nice to meet you. Hee−ho!
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

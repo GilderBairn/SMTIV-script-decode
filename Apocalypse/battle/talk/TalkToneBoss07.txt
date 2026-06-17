@@ -1,0 +1,182 @@
+0: Dummy Message
+[END]
+1: [71 1]It is not possible that I should
+join you. We are fated to fight to
+the death...
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]You wish to be paid? What madness is
+this, discussing financial matters
+during a battle to the death...?
+[->][END]
+19: [71 1]You parasite...
+[->][END]
+20: [71 1]Haaaaaaaaaa!
+[->][END]
+21: [71 1]M−My...
+[->][END]
+22: [71 1]Is this... what you truly desire...?
+[->][END]
+23: [71 1]...Hragh!
+[->][END]
+24: [71 1]You wish to be paid? What madness is
+this, discussing financial matters
+during a battle to the death...?
+[->][END]
+25: [71 1]You desire an item from this mad monk?
+It will not come cheaply...
+[->][END]
+26: [71 1]This is an item I had secreted on my
+person. Take it...
+[->][END]
+27: [71 1]You desire an item from this mad monk?
+Hahahaha! Very well, it's yours!
+[->][END]
+28: [71 1]”Waste not, want not,” as they say...
+I will give you this as well.
+[->][END]
+29: [71 1]Time is of the essence. Let us decide
+this at a single stroke.
+[->][Color:0x1][Amount 1] Macca.[Color:0x0]
+What say you?
+[->][END]
+30: [71 1][Color:0x1][Item 1]  x[Color:0x1][Amount 1][Color:0x0] is what I ask for.
+[->][END]
+31: [71 1]I ask for [Color:0x1][Amount 1] Macca.[Color:0x0]
+[->][END]
+32: [71 1]I require [Color:0x1]a little[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+33: [71 1]I require [Color:0x1]some[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+34: [71 1]I require [Color:0x1]a lot[Color:0x0] of your [Color:0x1]stamina.[Color:0x0]
+[->][END]
+35: [71 1]I require [Color:0x1]a dreadful amount[Color:0x0] of your
+[Color:0x1]stamina.[Color:0x0]
+[->][END]
+36: [71 1]I require [Color:0x1]a little[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+37: [71 1]I require [Color:0x1]some[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+38: [71 1]I require [Color:0x1]a lot[Color:0x0] of your [Color:0x1]spirit.[Color:0x0]
+[->][END]
+39: [71 1]I require [Color:0x1]a dreadful amount[Color:0x0] of your
+[Color:0x1]spirit.[Color:0x0]
+[->][END]
+40: [71 1]Your demon there... I ask for the
+[Color:0x1][Demon name 2]'s life.[Color:0x0]
+[->][END]
+41: [71 1]Hm... [Color:0x1]That[Color:0x0] will do...
+I require [Color:0x1]that.[Color:0x0]
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Make your decision with the guidance
+of the stars...
+[->][END]
+44: [71 1]...That is correct. Well now, I'll be
+taking this.
+[->][END]
+45: [71 1]...That is incorrect. It seems you
+lack understanding.
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]Mm, that should do for now...
+[->][END]
+56: [71 1]Rejection is your choice, naturally.
+[->][END]
+57: [71 1]...You're holding back, hm? Then I think
+the time has come for you to face death!
+[->][END]
+58: [71 1]I understand. You and I are finished.
+[->][END]
+59: [71 1]...You would cheat me, hm? Then I think
+the time has come for you to face death!
+[->][END]
+60: [71 1]It was always possible that you would
+not have it, naturally.
+[->][END]
+61: [71 1]What would you achieve without any
+Life Stones...?
+[->][END]
+62: [71 1]Your determination to reject my every
+request is quite impressive...!
+[->][END]
+63: [71 1]All you do is consent, in the sight
+of the stars.
+[->]Leave. You are offending to the eye.
+[->][END]
+64: [71 1]Traveling with so little is truly
+an impressive feat...!
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]This talk again? I tire of your idea
+of conversation...
+[->][END]
+71: [71 1]It was destined by the stars that we
+would meet again, [Flynn].
+[->]Let us go together once more... to the
+endless battleground of life and death.
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

@@ -1,0 +1,237 @@
+0: Dummy Message
+[END]
+1: [71 1]Bite me! Who the hell would want to
+become your ally?
+[->]Huh...? You're looking for demons?
+[->]Shut up! That doesn't change anything!
+[->][END]
+2: [71 1]You little shit!
+You attacked me first!
+[->]Ugh, I hate fighting people...
+At least demons have the decency
+to either talk or fight, not both.
+[->][END]
+3: [71 1]You want me to join you!?
+Then let's see the money! Gimme cash!
+[->][END]
+4: [71 1]Whoa−ho! How can I refuse?
+Okay, I'm with you.
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]You jackass! There's no room in your
+party for me to join you!
+[->]Ugh, screw this. I'm going home.
+[->][END]
+7: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0]!
+When you're outta cash, I'm outta
+here!
+[->][END]
+8: [71 1]What the hell, man!?
+Your level's lower than mine!?
+[->]I'm not taking orders from some
+jumped−up little shit. Screw this.
+[->][END]
+9: [71 1]Hey, hold on! That guy you have with
+you! Yeah, him!
+[->]That's a friend of mine.
+Well, crap. I thought I was gonna
+get a chance to join the hero...
+[->][END]
+10: [71 1]Well, let me ask around.
+[->]We might get someone else who wants
+to come along!
+[->][END]
+11: [71 1]...Wait, you wouldn't have room for
+anybody else anyway.
+[->]That was such a good idea, too.
+Ah, well.
+[->][END]
+12: [71 1]That's not a bad idea! I'm in!
+[->][END]
+13: [71 1]Hmph! They all suck!
+[->][END]
+14: [71 1]All right, my turn!
+[->][END]
+15: [71 1]I'll introduce you to a friend.
+[->][END]
+16: [71 1]I came on behalf of [Demon name 2]!
+[->]Don't worry, you can trust me!
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Whoa! What's that look...?
+[->]Let me guess...
+You're hunting me now!?
+[->][END]
+19: [71 1]Ugh! You want the lint out of my
+pockets, too? You asshole!
+[->]Don't look so pleased with yourself!
+You'll get what's coming to you!
+[->][END]
+20: [71 1]Rob me, huh?
+I think I'll kill you!
+[->]And once I'm done, everything you've
+got will belong to me!
+[->][END]
+21: [71 1]Eeeeeeeeeep!
+[->][END]
+22: [71 1]H−Hey, man... How about you just let
+me off here...?
+[->][END]
+23: [71 1]Didn't I warn you, kid? You should've
+stopped before it got this far...
+[->]Now it looks like you have to pay...!
+[->][END]
+24: [71 1]Aw, shit! I can't move!
+[->]Things can't get much worse...
+[->][END]
+25: [71 1]You want to trade items? All right,
+let's see what you've got!
+[->][END]
+26: [71 1]*chuckle* Deal! Here, take it!
+[->][END]
+27: [71 1][->][->][END]
+28: [71 1]Here, have a little something extra.
+A lagniappe, if you will. Let's do
+business again sometime...
+[->][END]
+29: [71 1]Come on, I'm a busy man! Let's get
+this over with, here and now!
+[->][Color:0x1][Amount 1] Macca[Color:0x0]!
+What do you say? Is it a deal?z
+[->][END]
+30: [71 1]Not Used
+[->][END]
+31: [71 1][Color:0x1][Amount 1] Macca[Color:0x0]!
+Hand it over!
+[->][END]
+32: [71 1]Not Used
+[->][END]
+33: [71 1]Not Used
+[->][END]
+34: [71 1]Not Used
+[->][END]
+35: [71 1]Not Used
+[->][END]
+36: [71 1]Not Used
+[->][END]
+37: [71 1]Not Used
+[->][END]
+38: [71 1]Not Used
+[->][END]
+39: [71 1]Not Used
+[->][END]
+40: [71 1]Not Used
+[->][END]
+41: [71 1][Color:0x1]That[Color:0x0]! Hand over [Color:0x1]that[Color:0x0]!
+You know what I'm talkin' about,
+right? [Color:0x1]That[Color:0x0]!
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Hm...!? What do I want?
+[->]You tell me! What is it I want?
+[->][END]
+44: [71 1]That's it! I was looking for that!
+[->][END]
+45: [71 1]Dumbass! Why would I want that!?
+[->][END]
+46: [71 1]Gimme all your money!
+[->][END]
+47: [71 1]”Sure.”
+”Go to Hell.”
+[->][END]
+48: [71 1]Ha! I'm just foolin'! I'm not gonna
+take all your cash!
+[->]I'll only take this much!
+[->][END]
+49: [71 1]Not Used
+[->][END]
+50: [71 1]Not Used
+[->][END]
+51: [71 1]You heard me! I'm serious!
+[->]Now give me every last scrap of Macca
+you have!
+[->][END]
+52: [71 1]Not Used
+[->][END]
+53: [71 1]Not Used
+[->][END]
+54: [71 1]Hmph! I was just playing with you!
+What an ass!
+[->][END]
+55: [71 1]Heh! This should do!
+[->][END]
+56: [71 1]Tch...! You won't give me that...?
+[->][END]
+57: [71 1]Hey! You're holding back on me, huh?
+Screw you, buddy! Die!
+[->][END]
+58: [71 1]To hell with this! I'm not going to
+bother talking with you anymore!
+[->][END]
+59: [71 1]Hey! You trying to play me for a
+fool or something!? Die!
+[->][END]
+60: [71 1]You don't have it!?
+You lousy bum...
+[->][END]
+61: [71 1]Not Used
+[->][END]
+62: [71 1]Dammit! How stubborn are you!?
+Are you really that stingy!?
+[->]I gotta give you props for that greed
+of yours! Just this one time!
+[->][END]
+63: [71 1]You're just following my orders!
+[->]I can't trust a follower like you!
+Beat it!
+[->][END]
+64: [71 1]How poor are you!? I actually feel
+sorry for you!
+[->]Fine! I'm satisfied this time!
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Hey, [Flynn]! Still alive and
+kickin', I see!
+[->]Still... We're pretty close, huh?
+[->][END]
+67: [71 1]Ahh, worshipping me!? I didn't think
+you'd do that!
+[->]Usually, it'd cost ya, but it's free
+just this once!
+[->][END]
+68: [71 1]You want some money? Sure!
+[->]You don't have to hold me up!
+We're buds, you could just ask!
+[->]Here you go.
+[->][END]
+69: [71 1]You want an item, huh? Sure!
+[->]Usually, it'd cost ya, but it's free
+just this once!
+[->][END]
+70: [71 1]Enough! You keep going on and on and
+on about that! You're boring the hell
+out of me!
+[->]How about a little compassion for
+whoever has to listen to whatever
+comes out of your mouth, huh?
+[->][END]
+71: [71 1][Flynn]! You're still alive!?
+[->]I thought I'd be the hero once you
+kicked the bucket...
+[->]Oh, well. Maybe next time.
+[->][END]
+72: [71 1]Are you really going to kill me?
+[->]C'mon... I'll do anything!
+Don't you think I'm worth letting go?
+[->][END]
+73: [71 1]Tch... Fine!
+I can't refuse, now can I?
+[->][END]
+74: [71 1]...You'd better sleep with one eye
+open, asshole, because my ghost is
+gonna haunt your ass!
+[->][END]

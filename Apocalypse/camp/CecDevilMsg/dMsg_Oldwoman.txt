@@ -1,0 +1,30 @@
+0: [71 1]As long as humans exist, the warring 
+between gods won't end. There are 
+plenty of places to train.
+[->][END]
+1: [71 1]All the Hunters were desperate to live.
+[Flynn], you can't be losing to them, 
+now can you?
+[->][END]
+2: [71 1]All worlds are but a reflection of 
+the other. They cannot escape from 
+influencing each other.
+[->][END]
+3: [71 1]I've devoured, devoured, and devoured
+all the demons from the other world!
+[->][END]
+4: [71 1]Why, [Flynn], can you not remember me?
+[->][END]
+5: [71 1]This appearance, and reuniting with you,
+it is all fortune's will.
+[->][END]
+6: [71 1]A trophy from the other world.
+[->][END]
+7: [71 1]Here [Flynn]... 
+Of all the worlds, yours is the 
+most interesting.
+[->][END]
+8: [71 1]A Chugoku−region souvenir from the 
+other world. That world is in the
+midst of a war over land.
+[->][END]

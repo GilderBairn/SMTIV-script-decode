@@ -1,0 +1,181 @@
+0: Dummy Message
+[END]
+1: [71 1]Hee−ho? You want an ally, ho?
+[->]Hee−ho! I'll make you my vassal, ho!
+Now bow before me, ho!
+[->][END]
+2: [71 1]Not Used
+[->][END]
+3: [71 1]Not Used
+[->][END]
+4: [71 1]Not Used
+[->][END]
+5: [71 1]Not Used
+[->][END]
+6: [71 1]Not Used
+[->][END]
+7: [71 1]Not Used
+[->][END]
+8: [71 1]Not Used
+[->][END]
+9: [71 1]Not Used
+[->][END]
+10: [71 1]Not Used
+[->][END]
+11: [71 1]Not Used
+[->][END]
+12: [71 1]Not Used
+[->][END]
+13: [71 1]Not Used
+[->][END]
+14: [71 1]Not Used
+[->][END]
+15: [71 1]Not Used
+[->][END]
+16: [71 1]Not Used
+[->][END]
+17: [71 1]Not Used
+[->][END]
+18: [71 1]Hee... Hee−hee−ho!?
+[->]Are you going to take my money, ho?
+You villain! Hee−ho!
+[->][END]
+19: [71 1]Hee−ho... That was rough, ho.
+[->]How could you take money from a
+handsome lad like me?
+[->][END]
+20: [71 1]Hee−ho! The bonus stage is over, ho!
+[->]The most important things in life can't
+be bought with money, ho!
+[->][END]
+21: [71 1]Hee... Hee−ho? You're such a bully, ho!
+[->][END]
+22: [71 1]Hee−ho! You're so mean! I won't forget
+this, ho!
+[->][END]
+23: [71 1]Screw you, ho!
+[->]I won't laugh this abuse off like 
+some cute mascot, ho!
+[->][END]
+24: [71 1]Not Used
+[->][END]
+25: [71 1]You want an item from me? The hee−ho
+Forest Boss?
+[->]I won't just give something away for
+free, ho! I want a coooool transaction!
+[->][END]
+26: [71 1]Sold! Hee−ho! You got a great deal, ho!
+[->][END]
+27: [71 1]Not Used
+[->][END]
+28: [71 1]I'm in a good mood, and I got extra,
+so I'll share some with you! Thank me,
+ho!
+[->][END]
+29: [71 1]I don't like to work, so let's just 
+settle this wish cash, ho!
+[->]Give me [Amount 1] Macca, ho!
+[->][END]
+30: [71 1]Give me [Item 1] x[Amount 1], ho!
+[->][END]
+31: [71 1]Give me [Amount 1] Macca, ho!
+[->][END]
+32: [71 1]I'm gonna take a little of your HP, ho.
+[->][END]
+33: [71 1]I'm gonna take some of your HP, ho.
+[->][END]
+34: [71 1]I'm gonna take a lot of your HP, ho.
+[->][END]
+35: [71 1]I'm gonna take a whole lot of your HP, ho.
+[->][END]
+36: [71 1]I'm gonna take a little of your MP, ho.
+[->][END]
+37: [71 1]I'm gonna take some of your MP, ho.
+[->][END]
+38: [71 1]I'm gonna take a lot of your MP, ho.
+[->][END]
+39: [71 1]I'm gonna take a whole lot of your MP, ho.
+[->][END]
+40: [71 1]Your ally... Let me massacre [Demon name 2], ho!
+[->][END]
+41: [71 1]Your that... Gimme it, ho!
+[->][END]
+42: [71 1]Not Used
+[->][END]
+43: [71 1]Can you figure out what I want, ho?
+[->][END]
+44: [71 1]Amazing! How did you hee−ho know? 
+Are you a psychic, ho?
+[->][END]
+45: [71 1]No! You don't get it, ho! You're not 
+a good gift−giver, are you, ho?
+[->][END]
+46: [71 1]Not Used
+[->][END]
+47: Not Used
+[->][END]
+48: [71 1]Not Used
+[->][END]
+49: Not Used
+[->][END]
+50: Not Used
+[->][END]
+51: [71 1]Not Used
+[->][END]
+52: Not Used
+[->][END]
+53: Not Used
+[->][END]
+54: [71 1]Not Used
+[->][END]
+55: [71 1]I'm happy, ho!
+[->][END]
+56: [71 1]You turned me down, ho? Fine then, hee−ho.
+[->][END]
+57: [71 1]I get the feeling you don't want to 
+cooperate, ho...
+[->][END]
+58: [71 1]Argh, forget it, ho! I don't expect 
+anything more from you, hee−ho!
+[->][END]
+59: [71 1]No−ho−ho! You can't fool me, ho!
+[->][END]
+60: [71 1]You don't have what I want... *sigh* 
+Fine, hee−ho...
+[->][END]
+61: [71 1]Hee−ho!? You don't even have a Life Stone? 
+That's pretty pathetic, ho...
+[->][END]
+62: [71 1]You're really stubborn, ho. 
+But I'm actually having fun, hee−ho!
+[->][END]
+63: [71 1]You'll do whatever I say, ho?
+[->]Then can we cancel this deal, ho?
+[->][END]
+64: [71 1]You don't have anything, ho? 
+I'm starting to feel sorry for you, ho...
+[->]Fine then, I'll give you a gift, ho!
+[->]Here's a hee−ho hint: It's not salt. 
+If I had that, I'd melt, ho!
+[->][END]
+65: [71 1]Not Used
+[->][END]
+66: [71 1]Not Used
+[->][END]
+67: [71 1]Not Used
+[->][END]
+68: [71 1]Not Used
+[->][END]
+69: [71 1]Not Used
+[->][END]
+70: [71 1]You just said that, ho. Don't you have
+anything more to say, ho?
+[->][END]
+71: [71 1]Not Used
+[->][END]
+72: [71 1]Not Used
+[->][END]
+73: [71 1]Not Used
+[->][END]
+74: [71 1]Not Used
+[->][END]

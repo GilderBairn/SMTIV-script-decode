@@ -1,0 +1,18 @@
+0: Hi! It's Betty, again. I have another quest for all you 
+Hunters out there. This time I'd like to ask you to find 
+and [Color:0x5]report dead Hunters[Color:0x0]. Please find the [Color:0x5]15 Hunters[Color:0x0] 
+that are MIA. You should find them in no time at all,
+right? I expect to hear from you soon.
+[END]
+1: Delivery Quest Description Second Time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: I've confirmed that you completed the quest.
+I'm sure the people you found can rest in peace 
+now. Please, keep looking for missing Hunters.
+[END]

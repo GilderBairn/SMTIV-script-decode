@@ -1,0 +1,13 @@
+0: I got an order for workwear from the people who fix 
+the electricity and stuff underground, but I don't 
+have enough fabric! That's why I wanted to ask you 
+Hunters. Could you get [Color:0x5]three oil solutions to process 
+fibers[Color:0x0] from the [Color:0x5]Toyosu Shelter[Color:0x0] south of Kinshicho? 
+I hear it has plenty of supplies, I'm sure they'll have 
+some of what I'm looking for.
+[END]
+10: Thanks a bunch! Now I can make good, sturdy
+workwear. It's all thanks to the workers that we're
+able to live underground, anyway... Making durable
+clothing for them is the least we can do.
+[END]

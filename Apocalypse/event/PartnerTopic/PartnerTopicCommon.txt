@@ -1,0 +1,16 @@
+0: View text messages.
+[END]
+1: Text Message
+[END]
+2: Yes
+No
+[END]
+10: 〉 You received [Item 1] x[Amount 1].
+[END]
+11: 〉 Accept the gift?
+[END]
+12: 〉 Are you sure you don't want the
+gift?
+[END]
+13: 〉 You have declined the gift.
+[END]

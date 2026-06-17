@@ -1,0 +1,61 @@
+0: [71 1]I shall devote this skill to this country... 
+[->][END]
+1: [71 1]Will this skill bring peace or carnage...
+[->][END]
+2: [71 1]I shall pave the path for this country's future with this skill...
+[->][END]
+3: [71 1]It seems I cannot carry any more skills...
+I shall let you decide which one to get rid of.
+[->][END]
+4: [71 1]Let me change this skill [Color:0x5][Skill 1][Color:0x0] to
+[Color:0x5][Skill 2][Color:0x0]...
+[->][END]
+5: [71 1]Take a look.
+this is my new skill...!
+[->][END]
+6: [71 1]I see...
+So now is not the time.
+[->][END]
+7: [71 1](仮)変異選択メッセージ
+[->][END]
+8: [71 1](仮)変異OKメッセージ
+[->][END]
+9: [71 1](仮)変異NGメッセージ
+[->][END]
+10: [71 1](仮)変異完了メッセージ
+[->][END]
+11: [71 1](仮)変異レベル未達メッセージ
+[->][END]
+12: [71 1]The battle still continues... I shall
+gift you with [Color:0x5][Item 1][Color:0x0].
+[->][END]
+13: [71 1]This is a [Color:0x5][Item 1][Color:0x0]. No need
+to be humble; it's just something I found.
+[->][END]
+14: [71 1]Let me give you this [Color:0x5][Item 1][Color:0x0].
+It is for the country's protection...
+[->][END]
+15: [71 1]Let me teach you the powerful secrets of
+how to protect this country, as I have.
+[->][END]
+16: [71 1]Have you committed the secrets to your
+memory?
+[->][END]
+17: [71 1]I am [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Let us cleanse our country of demons.
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

@@ -1,0 +1,63 @@
+0: [71 1]Oh dear...
+Another skill...
+[->][END]
+1: [71 1]It's a secret to the other Hunters...
+Okay?
+[->][END]
+2: [71 1]What do you plan to do, making me this
+strong?
+[->][END]
+3: [71 1]All these skills...
+You take care of it.
+[->][END]
+4: [71 1][Color:0x5][Skill 1][Color:0x0] to
+[Color:0x5][Skill 2][Color:0x0]...What do you think?
+[->][END]
+5: [71 1]I'll listen to you...
+[->][END]
+6: [71 1]You chickened out.
+[->][END]
+7: [71 1]I can't stand it... anymore...
+I'll become stronger for you!
+[->][END]
+8: [71 1]...Ngh!
+[->][END]
+9: [71 1]How mean of you...
+[->][END]
+10: [71 1]What is your wish?
+I want to fight more...
+[->][END]
+11: [71 1]This throbbing is unbearable... 
+I wonder if it's because you're close...
+[->][END]
+12: [71 1]Do you want this [Color:0x5][Item 1][Color:0x0]?
+If you take care of it, I'll part with it.
+[->][END]
+13: [71 1][Flynn], you get this.
+A [Color:0x5][Item 1][Color:0x0] fits you.
+[->][END]
+14: [71 1]I don't need this [Color:0x5][Item 1][Color:0x0] now
+because you're mine...
+[->][END]
+15: [71 1]Now, be a naughty child with me...
+[->][END]
+16: [71 1]It's already over? How quick...
+[->][END]
+17: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Such a pleasure to meet you.
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

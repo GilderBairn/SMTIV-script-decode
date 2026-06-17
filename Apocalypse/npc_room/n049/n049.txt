@@ -1,0 +1,68 @@
+0: (Ring of Gaea member) [7a 51]Go through the underground area in
+Tokyo Station and you will find
+Tsukiji, the Ring of Gaea sanctuary.
+[->]However, if you lack the necessary
+strength or skill, you will be denied
+entry.
+[END]
+1: (Ring of Gaea member) [7a 51]Go through the underground area in
+Tokyo Station and you will find
+Tsukiji, the Ring of Gaea sanctuary.
+[->]However, if you lack the necessary
+strength or skill, you will be denied
+entry.
+[END]
+2: (Ring of Gaea member) [7a 51]Go through the underground area in
+Tokyo Station and you will find
+what once was our sanctuary. 
+[->]Now, the heretic followers of Maitreya
+have control of the temple.
+[END]
+100: (Ring of Gaea member) [7a 54]It seems the Divine Powers are
+responsible for sending the demons
+to attack the underground districts.
+[->]Through the help of the Maitreya
+faction, the Divine Powers are also
+using Tsukiji... It is shameful.
+[END]
+101: (Ring of Gaea member) [7a 54]If you seek to destroy the Divine
+Powers, then our goals are aligned.
+[->]Let our strength be your strength.
+[END]
+102: (Ring of Gaea member) [7a 54]Our brothers and sisters who chose
+to follow Maitreya are all dead...
+[->]It was the Divine Powers that caused
+them to splinter from us in the first
+place. I'm glad they are no more.
+[END]
+103: (Ring of Gaea member) [7a 54]Merkabah has declared war, but there
+isn't a chance Lord Lucifer will lose.
+[->]We serve power, and Lord Lucifer
+is power incarnate.
+[END]
+104: (Ring of Gaea member) [7a 54]I keep hearing reports of people
+falling into some sort of trance−
+like state...
+[->]What, exactly, is happening?
+[END]
+105: (Ring of Gaea member) [7a 54]I'm told the entranced have now
+regained awareness.
+[->]Ginza is back to its normal, lively
+self. Did you do this?
+[END]
+106: I see. Power favors humans. This, too,
+was Lady Yuriko's desire.
+[->]Perhaps the Ring of Gaea is meant
+to walk alongside the rest of
+humanity.
+[END]
+107: (Ring of Gaea member) [7a 54]I keep heering reports of people
+falling into some sort of trance−
+like state...
+[->]What, exactly, is happening?
+[END]
+108: (Ring of Gaea member) [7a 54]I keep hearing reports of people
+falling into some sort of trance−
+like state...
+[->]What, exactly, is happening?
+[END]

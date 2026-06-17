@@ -1,0 +1,19 @@
+0: Hiya! Got another skill test for all you Hunters out 
+there. This one's goal is to [Color:0x5]cumulatively deal 150,000 
+damage[Color:0x0]. Might take a while to get there, but... 
+Well, I look forward to seeing what you've got.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Wow, I can't believe you beat this challenge at such 
+a young age. Are you sure you're new to this? Haha.
+Anyway, can't wait to see how you do in the next test.
+Wow, I've never been this excited by a Hunter, y'know?
+Mischievous boy.
+[END]

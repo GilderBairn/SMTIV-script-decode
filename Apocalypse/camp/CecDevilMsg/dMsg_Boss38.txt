@@ -1,0 +1,24 @@
+0: [71 1]I hear voices praising me...
+I have gained even greater power.
+[->][END]
+1: [71 1]I am the Mother of All. I will tour 
+the worlds to gain even more power.
+[->][END]
+2: [71 1]I am the Mother of All... I must
+spread my word farther... 
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]This is a useless thing to me...
+I shall give it to you. 
+[->][END]
+7: [71 1]I picked this up... It's yours, if
+you want. Here, take it.
+[->][END]
+8: [71 1]*chuckle*... Take this. I found it 
+for you. Use it well.
+[->][END]

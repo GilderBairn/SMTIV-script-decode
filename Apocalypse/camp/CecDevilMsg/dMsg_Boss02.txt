@@ -1,0 +1,25 @@
+0: [71 1]Ah, those clinging stares when I pass...
+I've become even more beautiful. 
+[->][END]
+1: [71 1]The more people look at them, the more
+beautiful women become. Hehehe...
+[->][END]
+2: [71 1]Hehehe... I've left behind many of my
+most accomplished statues.
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]Ah this... I have a gift for you.
+Hehehe... Are you happy?
+[->][END]
+7: [71 1]You must've been lonely while I was
+gone. Consider this an apology!
+Take care of it.
+[->][END]
+8: [71 1]This was a gift, but... I'll give it to
+you. Hehehe... My beauty is a sin... 
+[->][END]

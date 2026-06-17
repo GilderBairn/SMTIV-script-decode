@@ -1,0 +1,63 @@
+100: 〉 Beyond the door, you find a 
+young man surrounded by enemies.
+[->]〉 It seems he is one of the others
+who found their way here.
+[END]
+101: (Aleph) [7a 4]Huh? This place is too dangerous for
+a child. Get back!
+[END]
+102: 〉 Aleph glances at you while fighting
+off the enemies surrounding him.
+[->]〉 Will you help Aleph?
+[END]
+103: Help him
+Hang back and watch
+[END]
+104: 〉 You leap into the fray and cut down
+one of the enemies.
+[END]
+105: (Aleph) [7a 4]Hey−−Heh, I see. You're no ordinary
+kid, are you?
+[END]
+106: 〉 Aleph nods at you.
+[END]
+107: (Aleph) [7a 4]Sorry to ask, but... mind helping
+me with these guys?
+[END]
+108: 〉 You decide to hang back and 
+watch.
+[END]
+109: (Aleph) [7a 4]You're a good boy!
+[END]
+110: 〉 Aleph turns back, and with nimble 
+footwork toys with the enemies in 
+front of him.
+[->]〉 It doesn't really seem like he
+needs your help.
+[END]
+111: 〉 Suddenly, a horde of enemies 
+attacks you from above!
+[END]
+112: 〉 As soon as he finishes his sentence, 
+Aleph attacks the nearest enemy.
+[->]〉 You ready your weapon and face
+another group of enemies.
+[END]
+200: (Aleph) [7a 4]You're quite good...
+[END]
+201: 〉 Aleph, having finished off his own
+enemies, walks over to you.
+[END]
+202: (Aleph) [7a 4]It seems we're in the same boat.
+Did you come to find me?
+[END]
+203: 〉 You explain the situation to Aleph.
+[END]
+204: (Aleph) [7a 4]I see... In that case, I should go 
+see En no Ozuno.
+[->]I'll go on ahead. See you later.
+[END]
+205: 〉 Aleph walks off...
+[END]
+1000: 〉 The room is silent.
+[END]

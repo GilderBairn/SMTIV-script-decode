@@ -1,0 +1,8 @@
+0: (Demonoid man) [13 1, 415107]It's not as busy as when 430,000 people
+used to make use of the south entrance,
+but this place is starting to jump now.
+[END]
+1: (Demonoid woman) [13 1, 419004]Shinjuku is ours now. I'm so happy I
+can't sleep! Truly, this is the city
+that doesn't sleep!
+[END]

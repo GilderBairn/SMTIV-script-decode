@@ -1,0 +1,5 @@
+0: Hold up. We still need to grab
+Excalibur, right?
+[->]Why else did we come all this way?
+Let's hurry and go get it.
+[END]

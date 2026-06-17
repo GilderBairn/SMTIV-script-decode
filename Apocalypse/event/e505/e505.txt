@@ -1,0 +1,4 @@
+0: 〉 The path is cut off...
+[->]〉 You can't get back up the hill.
+There's nowhere to go but down.
+[END]

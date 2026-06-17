@@ -1,0 +1,29 @@
+0: [71 1]This is all a reflection of your actions.
+This must be caused by the bonds that 
+tie us... 
+[->][END]
+1: [71 1]I bless the contract. To sever the 
+cycle of reincarnation, I will continue 
+my devotion to my studies.
+[->][END]
+2: [71 1]I am the god of covenants, who brings 
+happiness to those who ask... I shall 
+guide you to the state of nothingness.
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]This has no value to me, but
+if you can find any... take it.
+[->][END]
+7: [71 1]Life is a reflection of the heart... 
+This is a reflection of yours. Here, 
+accept this. 
+[->][END]
+8: [71 1]Accept this gift from me.
+Everything is for you to reach 
+englightment on your own...
+[->][END]

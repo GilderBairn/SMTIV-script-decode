@@ -1,0 +1,122 @@
+100: (Hunter) [7a 119]Can't anyone kill Shesha?
+[->]At this rate, he'll destroy the 
+whole district. Er, that isn't to 
+say you should take him on yourself!
+[END]
+101: (Hunter) [7a 119]Refugees from Shibuya continue to
+come in. Considering all we need to 
+rebuild, I'm glad for any extra help.
+[->]I want this place to be the sort of 
+district others can take example from.
+[END]
+102: (Hunter) [7a 119]A demon! Damn it−−I can't summon mine!
+[->]Guess I'll have to do this on my own,
+one at a time... Hey you! Demon!
+Get away from her!
+[END]
+103: (Hunter) [7a 119]Phew... Got rid of the damn thing.
+Now we're both safe.
+[->]Can't imagine what she was talking
+to the demon about, though...
+[END]
+104: (Hunter) [7a 119]I'm told I have you to thank for
+getting the demon summoning app
+working again.
+[->]Now I'm better equipped to keep her
+safe. I don't want her to worry.
+[END]
+105: (Hunter) [7a 119]Please! Protect her from Shesha!
+[END]
+106: (Hunter) [7a 119]As soon as I heard, I raced to tell
+her how Flynn's back.
+[->]She says that doesn't mean anything's
+over yet, but hey−−good news is good
+news, right?
+[END]
+107: (Hunter) [7a 119]I told her to stay in her room for
+now. We need to make sure everyone
+feels safe again...
+[->]So I don't want her to see that giant
+egg... Or all the people who've gone
+catatonic...
+[END]
+108: (Hunter) [7a 119]Looks like people are starting to
+snap out of it.
+[->]I've got you to thank, again, don't
+I. Well, thank you. For everything.
+[END]
+109: (Hunter) [7a 119]This place is really starting to
+liven up, huh? Thanks to all the
+traffic between here and Mikado.
+[->]I might ask my girlfriend if she
+wants to go on a trip with me.
+[END]
+110: (Hunter) [7a 119]Everyone in town's worried because
+nothing's happened...
+[->]I'm counting on you and Flynn to
+make things better.
+[END]
+200: (Hunter) [7a 80]I enjoyed the sort of... lawlessness
+to this town. I never wanted to see
+it become like this...
+[->]Angels enforcing the entrances? 
+Makes this place feel like a prison.
+[END]
+201: (Hunter) [7a 80]Regardless of the angels, regardless
+of the war, the people here continue
+to rebuild.
+[->]...Even though it'll probably wind
+up wrecked again. I wonder why they
+don't just give up.
+[END]
+202: (Hunter) [7a 80]The Divine Powers? No. I won't obey.
+I'd rather die free.
+[END]
+203: (Hunter) [7a 80]I'm alive, thanks to him. He yelled
+at me, asking why I didn't flee to
+safety.
+[->]I guess I should be grateful, huh?
+That there's still people in this
+world who look out for others.
+[END]
+204: (Hunter) [7a 80]He just smiled and said, ”If they
+tear it down, we'll build it again.”
+[->]I wonder why he smiled at me like
+that... Guess that's not something
+someone your age would understand.
+[END]
+205: (Hunter) [7a 80]All that matters is that he stays
+safe!
+ 
+[END]
+206: (Hunter) [7a 80]Flynn gives us hope, but he's just
+one Hunter...
+[->]I don't actually think he can single−
+handedly change the world.
+[END]
+207: (Hunter) [7a 80]He's trying to protect me by 
+downplaying bad news, but it's hard
+not to overhear things, you know.
+[->]The Flynn you brought back was an
+imposter, an agent of the Divine
+Powers... It's like a bad joke.
+[END]
+208: (Hunter) [7a 80]Everyone's so lively... What's going
+on?
+[->]They sound excited for once... It's
+been so long since something's
+happened that didn't cause screaming.
+[END]
+209: (Hunter) [7a 80]I was talking to some people from
+Mikado earlier. They said they're
+free from the angels.
+[->]Just another sign that we really
+have entere da new era for humanity.
+[END]
+210: (Hunter) [7a 80]I asked him not to hide things from
+me anymore, but he just said not to
+worry.
+[->]Guess I'll just let him have his way,
+just this once. Good luck out there.
+I'm counting on you guys.
+[END]

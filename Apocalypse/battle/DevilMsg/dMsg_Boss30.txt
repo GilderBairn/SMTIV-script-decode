@@ -1,0 +1,63 @@
+0: [71 1]Do you see... A new light dwelling in
+my hand.
+[->][END]
+1: [71 1]*chuckle*... With this, there is none
+that stands in our way.
+[->][END]
+2: [71 1]I am one with the Lord... There is
+nothing to fear.
+[->][END]
+3: [71 1]What I cannot carry I must abandon...
+Now, choose the skill I must sacrifice.
+[->][END]
+4: [71 1]I shall return [Color:0x5][Skill 1][Color:0x0] to 
+the heavens and transform it to [Color:0x5][Skill 2][Color:0x0]...
+[->][END]
+5: [71 1]Very well... The heavens bless us.
+[->][END]
+6: [71 1]I see... This path is also decided by
+the heavens.
+[->][END]
+7: [71 1](仮)変異選択メッセージ
+[->][END]
+8: [71 1](仮)変異OKメッセージ
+[->][END]
+9: [71 1](仮)変異NGメッセージ
+[->][END]
+10: [71 1](仮)変異完了メッセージ
+[->][END]
+11: [71 1](仮)変異レベル未達メッセージ
+[->][END]
+12: [71 1]I praise your actions and gift you with
+this [Color:0x5][Item 1][Color:0x0].
+[->][END]
+13: [71 1]The Lord's blessing to you...
+It is a [Color:0x5][Item 1][Color:0x0].
+[->][END]
+14: [71 1]I shall give you this [Color:0x5][Item 1][Color:0x0].
+This is indeed the Lord's will...
+[->][END]
+15: [71 1]The light of order I bear within me,
+I shall teach it to you...
+[->][END]
+16: [71 1]With this, my order has been passed to you...
+Tomorrow's peace exists because of your good deeds.
+[->][END]
+17: [71 1]I am [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+May the light of God be with you...
+[->][END]
+18: [71 1]Let the skill mutate
+Don't let it change
+[->][END]
+19: Allow the demon to transform
+Don't do it
+[->][END]
+20: ”I'm satisfied.”
+”Let me think...”
+[->][END]
+21: (Mido) [7a 1]...It seems there was an error in
+your fusion. A different demon than
+the planned result has been created.
+[->][END]
+22: Dummy
+[->][END]

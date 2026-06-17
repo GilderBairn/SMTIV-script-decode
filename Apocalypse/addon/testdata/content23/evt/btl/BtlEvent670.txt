@@ -1,0 +1,22 @@
+0: (Mephisto) [7a 64427]You remind me of someone I formed
+a contract with quite some time ago...
+[->]He thought himself unable to achieve 
+true happiness, and in the end still clung
+to his life, incomplete as it may be...
+[->]Had only the angels not gotten in the
+way, then... Well, this time shall be
+different.
+[->]Resist me as much as you please.
+It will only entertain me more!
+[END]
+1: (Mephisto) [7a 64427]I long for a toy that can amuse me
+eternally....
+[->]You shall remain here forever−−or until 
+I grow bored of you.
+[END]
+900: (Mephisto) [7a 64427]Guh... Look at me. I'm pitiful...
+[->]I've been made a fool... But alas,
+the contract is not yet up.
+[->]I shall stay by you until you finally
+achieve complete satisfaction.
+[END]

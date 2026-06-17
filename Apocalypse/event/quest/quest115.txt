@@ -1,0 +1,19 @@
+0: I would like you to obtain [Color:0x5]milk[Color:0x0] from some of the 
+demons in [Color:0x5]Aoyama Cemetary[Color:0x0], near [Color:0x5]Midtown[Color:0x0]. Our 
+facility tends to the orphaned children of Tokyo, but 
+the littlest ones aren't able to eat demon meat yet. 
+I implore you, please help our precious children.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: While some of our staff were against giving the 
+precious children demon milk, the little ones are all
+noticeably healthier! Everyone's onboard with the
+idea now, so we look forward to the next shipment.
+[END]

@@ -1,0 +1,8 @@
+0: I've created a realm where you can obtain items
+to raise your stats easily. Need you to toughen up,
+since you're my Godslayer. Collect these items
+here as long as you want, then step through the
+exit when you want to return to Tokyo.
+[END]
+1: Download quest 1, 2nd time
+[END]

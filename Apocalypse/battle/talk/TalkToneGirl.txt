@@ -1,0 +1,982 @@
+0: Dummy Message
+[END]
+1: [71 1]Hey, why don't we do something more fun 
+than talking? Hehehe...
+[->][END]
+2: [71 1]Then don't attack first! Ugh!
+[->][END]
+3: [71 1]Sooo...
+[->][END]
+4: [71 1]Okay, I'll become your ally!
+[->][END]
+5: [71 1]I want something, first. I won't be 
+happy if you don't gimme something.
+[->][END]
+6: [71 1]Hey, your stock is full. 
+There's no room for me...
+[->]Forget it, then!
+[->][END]
+7: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Nice to meet you.
+[->][END]
+8: [71 1]...Oh? Mister, are you weaker than me?
+[->]Then I can't be your ally. 
+I don't like weak humans.
+[->][END]
+9: [71 1]Ohhh, you already have my friend 
+with you!
+[->]Take care of her!
+[->][END]
+10: [71 1]Hey, can I invite another demon?
+[->][END]
+11: [71 1]Oh... You don't have that much space
+left.
+[->]Then let's invite someone later!
+[->][END]
+12: [71 1]Hehehe! Sounds like fun! I'm coming,
+too!
+[->][END]
+13: [71 1]Huh? No one's coming? Are they shy?
+[->][END]
+14: [71 1]I'll become an ally, too!
+[->][END]
+15: [71 1]...Hey, can I call a friend?
+[->][END]
+16: [71 1]Hi, human!
+[->][Demon name 2] begged me to come, 
+so I'm here.
+[->][END]
+17: [71 1]Ahh! Mister, you're handsome!
+[->]Hey, hey−−don't you want an ally? 
+You want one, right? So do I!
+[->][END]
+18: [71 1]Huh? You want me to give you money? 
+But... I don't really wanna...
+[->][END]
+19: [71 1]*sniff* *sniff* My money...
+[->][END]
+20: [71 1]So, you were a human after all, Mister.
+Just die...
+[->][END]
+21: [71 1]Ah! Hey...!
+[->][END]
+22: [71 1]You scumbag!
+[->][END]
+23: [71 1]...You'd better cut it out.
+[->][END]
+24: [71 1]Umm... Mister? You know I... 
+can't move...?
+[->][END]
+25: [71 1]You want to trade items? Okay.
+[->][END]
+26: [71 1]Here you go. Take good care of it!
+[->][END]
+27: [71 1]Whee! Flowers everywhere...
+Use me however you want, Mister!
+[->][END]
+28: [71 1]Since you were such a good boy,
+I'll give you an extra!
+[->][END]
+29: [71 1]Hey, let's end this now. I want to 
+settle this with Macca...
+[->][Amount 1] Macca! That's good, right?
+[->][END]
+30: [71 1]I really want [Item 1] x[Amount 1].
+[->][END]
+31: [71 1]I want [Amount 1] Macca.
+[->][END]
+32: [71 1]Your HP, Mister... I want a little of
+it...
+[->][END]
+33: [71 1]Your HP, Mister... I want some of it...
+[->][END]
+34: [71 1]Your HP, Mister... I want a lot of it...
+[->][END]
+35: [71 1]Your HP, Mister... I want a looot of
+it...
+[->][END]
+36: [71 1]Your MP, Mister... I want a little of
+it...
+[->][END]
+37: [71 1]Your MP, Mister... I want some of it...
+[->][END]
+38: [71 1]Your MP, Mister... I want a lot of it...
+[->][END]
+39: [71 1]Your MP, Mister... I want a looot of
+it...
+[->][END]
+40: [71 1]Give me [Demon name 2]'s life.
+[->][END]
+41: [71 1]Ummm... I want that.
+[->][END]
+42: [71 1]Mister, I want [7e]'s HP.
+[->][END]
+43: [71 1]Hey, hey−−give me something.
+[->][END]
+44: [71 1]Alright, Mister! I'm so happy you
+understood me!
+[->][END]
+45: [71 1]No... I hoped you'd understand me...
+[->][END]
+46: [71 1]Can I bite you, Mister?
+[->][END]
+47: ”Sure.”
+”No.”
+[->][END]
+48: [71 1]Thank you!
+[->][END]
+49: 〉 [Flynn] is filled with vigor!
+[->][END]
+50: 〉 [Flynn] is overflowing with vigor!
+[->][END]
+51: [71 1]You let just anyone bite you?
+[->][END]
+52: 〉 [Flynn] lost a little energy!
+[->][END]
+53: 〉 [Flynn] lost some energy!
+[->][END]
+54: [71 1]Aww, scared−y cat...
+[->][END]
+55: [71 1]Yay! I got what I want!
+[->][END]
+56: [71 1]Hmph! What a cheap−o...
+[->][END]
+57: [71 1]Awww, but you have it. Why won't you
+give it to me...
+[->]Fine, then−−I'll kill you.
+[->][END]
+58: [71 1]Forget it... I quit!
+[->][END]
+59: [71 1]Hey! You're not telling the truth, 
+are you?
+[->]Fine then, I'll kill you.
+[->][END]
+60: [71 1]Huh? You don't have it...?
+[->][END]
+61: [71 1]Huh? You don't have a Life Stone...?
+[->][END]
+62: [71 1]I can't believe you said no so many
+times! You're amazing, Mister!
+[->]That's pretty neat, doing that to a
+demon!
+[->][END]
+63: [71 1]I'm bored of this...
+[->][END]
+64: [71 1]Wow! You really don't have anything!
+[->]I'm a big girl, so I'll put that aside!
+[->][END]
+65: [71 1]Bye−bye!
+[->][END]
+66: [71 1]Oh! Mister [Flynn]!
+[->]We've talked so much already! That makes
+us friends, huh?
+[->][END]
+67: [71 1]You want me to be your friend? Sure!
+[->]Hehehe... Let's have a massacre together,
+okay?
+[->][END]
+68: [71 1]Should I give you some Macca? Hehehe...
+[->][END]
+69: [71 1]Should I give you this? Hehehe...
+[->][END]
+70: [71 1]...You're boring. I'm going home.
+[->][END]
+71: [71 1]Ohhhh! [Flynn]...!
+[->]I was lonely! Don't leave me like that 
+any more, okay?
+[->][END]
+72: [71 1]...Please, don't kill me.
+[->][END]
+73: [71 1]Hehe! Mister, I love you!
+[->][END]
+74: [71 1]You're okay with killing demons?
+[->][END]
+101: 〉 The demon is on guard...
+What will you do?
+[->][END]
+102: Lower your weapon
+Put up your guard
+[->][END]
+103: [71 1]You're what people call a sucker, 
+huh, Mister? Can you really survive 
+out there like that? 
+[->][END]
+104: [71 1]You really know me! We get along!
+[->][END]
+105: [71 1]Ohhh! This is so boring!
+[->][END]
+106: [71 1]Wait! I don't want to fight! 
+I'll give you this.
+[->][END]
+107: [71 1]Humans really are scary...
+[->][END]
+109: 〉 The demon is approaching you...
+What will you do?
+[->][END]
+110: Step aside
+Raise your weapon
+Don't move
+[->][END]
+111: 〉 [Flynn] dodges the demon!
+[->][END]
+112: [71 1]Ohhh! You didn't have to dodge me! 
+I'm interested in you!
+[->][END]
+113: 〉 The demon catches up...
+[->][END]
+114: [71 1]Hehehe... You're a smart human.
+[->][END]
+115: [71 1]Please, save me! I'll become your ally! 
+Okay?
+[->][END]
+116: [71 1]Mister, you're really brave. 
+I wanna talk with you.
+[->][END]
+117: [71 1]Mister, you're really brave.
+[->]...Is that what you think I would say?
+[->][END]
+119: 〉 The demon is beckoning you...
+What will you do?
+[->][END]
+120: Go near
+Beckon back
+Raise your weapon
+[->][END]
+121: [71 1]You fell for it! Hehehe!
+[->][END]
+122: [71 1]I wanted to give you this!
+[->][END]
+123: [71 1]Please, use it carefully.
+[->][END]
+124: [71 1]I was just thinking of helping out a
+human!
+[->][END]
+125: [71 1]Ewww, gross...
+[->][END]
+126: [71 1]We're alike, huh!
+[->][END]
+127: [71 1]You're a sucker, Mister!
+[->][END]
+128: 〉 The demon took you by surprise...
+[->][END]
+129: [71 1]Please, save me! I'll become your ally! 
+Okay?
+[->][END]
+131: 〉 The demon is trying to leave...
+What will you do?
+[->][END]
+132: Stop her
+Ignore her
+Raise your weapon
+[->][END]
+133: [71 1]Oh, alright. I'll negotiate with you!
+[->][END]
+134: [71 1]Sorry, I'm in a hurry!
+[->][END]
+135: [71 1]Don't be so cold! Let's talk, okay?
+[->][END]
+136: [71 1]Don't be so cold!
+[->]You need to be nicer to girls, you know?
+[->][END]
+137: [71 1]Please, save me! I'll become your ally! 
+Okay?
+[->][END]
+138: [71 1]Humans really are stupid, huh?
+[->][END]
+140: 〉 The demon is ignoring you...
+What will you do?
+[->][END]
+141: Say something to her
+Get her attention
+Threaten her
+[->][END]
+142: [71 1]Eek! Get away from me!
+[->][END]
+143: [71 1]Oh, it's just you! I'll tell you a
+secret.
+[->][END]
+144: Blank Line
+[->][END]
+145: Blank Line
+[->][END]
+146: Blank Line
+[->][END]
+147: [71 1]Please, save me! I'll become your ally!
+Okay?
+[->][END]
+148: [71 1]Humans really are stupid, huh?
+[->][END]
+150: [71 1]Please, let me go!
+[->][END]
+151: Spare
+Don't spare
+[->][END]
+152: [71 1]Thank you, Mister! Have a gift!
+[->][END]
+153: 〉 The demon leaves...
+[->][END]
+154: [71 1]You fell for it! Hahaha!
+[->][END]
+155: [71 1]Fine, then−−I'll kill you.
+[->][END]
+156: [71 1]Please, save me! I'll become your ally! 
+Okay?
+[->][END]
+158: [71 1]You're [Flynn], right? I've heard about
+you.
+[->][END]
+159: [71 1]You're a demon killer! I won't forgive
+you!
+[->][END]
+160: [71 1]Hey, make me your demon! I'll go with
+you even if you say no!
+[->][END]
+161: [71 1]I don't want anything to do with you!
+[->][END]
+162: 〉 The demon leaves...
+[->][END]
+164: [71 1][13 10, 1]I can't trust humans!
+[->][END]
+165: ”Exactly.”
+”That's not true.”
+”I'm a trustworthy human.”
+[->][END]
+166: [71 1]That means you're the same, too, huh?
+[->][END]
+167: [71 1]We think alike! Why don't we become
+friends?
+[->][END]
+168: [71 1]What a loser!
+[->][END]
+169: [71 1]Then why don't you make me trust you?
+[->][END]
+170: [71 1]I can't trust anyone who says things
+like that!
+[->][END]
+171: [71 1]Then why don't you make me trust you?
+[->][END]
+173: [71 1]I'm really interested in humans!
+[->][END]
+174: 〉 How will you approach the demon?
+[->][END]
+175: Amicably
+High−handedly
+[->][END]
+176: [71 1]You're kinda creepy...
+[->][END]
+177: [71 1]Wow! Just as I imagined! 
+Humans really are interesting!
+[->][END]
+178: [71 1]I lost interest...
+[->][END]
+179: [71 1]Wow! Just as I imagined! 
+Humans really are interesting!
+[->][END]
+181: 〉 The demon is scared...
+What will you do?
+[->][END]
+182: Smile kindly
+Bow with an earnest face
+[->][END]
+183: [71 1]Eek...! This human is scary!
+[->][END]
+184: Blank Line
+[->][END]
+185: Blank Line
+[->][END]
+187: 〉 The demon is looking up at you...
+[->][END]
+188: Smile back
+Reach out
+Bow politely
+[->][END]
+189: [71 1]You're what people call a sucker, 
+huh, Mister? Can you really survive 
+out there like that? 
+[->][END]
+190: Blank Line
+[->][END]
+191: [71 1]People call you a good human, huh,
+Mister?
+[->][END]
+193: [71 1]Hey... Let's play.
+[->][END]
+194: ”Sure.”
+”I don't want to.”
+”Not for free.”
+[->][END]
+195: [71 1]A human that actually wants to play? 
+What are you up to!?
+[->]Fine, then−−I'll kill you.
+[->][END]
+196: Blank Line
+[->][END]
+197: [71 1]Awww, you want something in return? 
+You humans are a pain in the butt.
+[->]If I become your ally, you'll play
+with me? I'll think about it!
+[->][END]
+199: [71 1]Do you like to fight, Mister?
+[->][END]
+200: ”I do.”
+”Not so much.”
+”Either way.”
+[->][END]
+201: Blank Line
+[->][END]
+202: [71 1]You're just like me!
+[->]I prefer that you die without my having
+to fight you!
+[->][END]
+203: [71 1]You're just like me!
+[->]Maybe I should look up our affinity.
+[->][END]
+204: [71 1]Either way, yet you still kill demons? 
+Humans are barbaric...
+[->][END]
+206: [71 1]Mister, why did you become a Hunter?
+[->][END]
+207: ”Because I wanted to.”
+”Some turn of events...”
+”I don't remember.”
+[->][END]
+208: Blank Line
+[->][END]
+209: [71 1]Turn of events are important, huh!
+[->]How about us? Some turn of events and
+we could be friends?
+[->][END]
+210: [71 1]Then I'll help you remember!
+[->][END]
+212: [71 1]Do you want me?
+[->][END]
+213: ”I want you.”
+”I don't need you.”
+”That's a trap, isn't it?”
+[->][END]
+214: Blank Line
+[->][END]
+215: Blank Line
+[->][END]
+216: Blank Line
+[->][END]
+218: [71 1]Hey... Why don't you become my only
+big brother?
+[->][END]
+219: ”That makes you the little sister.”
+”That makes you the older sister.”
+”That makes you my ally.”
+[->][END]
+220: Blank Line
+[->][END]
+221: Blank Line
+[->][END]
+222: Blank Line
+[->][END]
+224: [71 1]What are you going to do when I become
+your ally?
+[->][END]
+225: ”Raise you.”
+”Fuse you.”
+”Gaze at you.”
+[->][END]
+226: Blank Line
+[->][END]
+227: [71 1]I wanna fuse! I'm gonna become your
+ally!
+[->][END]
+228: [71 1]You pervert!
+[->][END]
+230: [71 1]If you were going to do a play, what
+part would you play?
+[->][END]
+231: ”Main character.”
+”Supporting role.”
+”Stagehand.”
+[->][END]
+232: [71 1]Huh? I'm the main character. I'll show
+you proof now.
+[->][END]
+233: [71 1]Then, maybe, I'll play a supporting role
+for once and help you.
+[->][END]
+234: [71 1]That's right, you're playing as my slave!
+[->]Hahaha!
+[->][END]
+235: Blank Line
+[->][END]
+237: [71 1]Here I go! Make sure you take this!
+[->][END]
+238: Take it
+Dodge it
+Counter it
+[->][END]
+239: 〉 The demon suddenly attacks!
+[->][END]
+240: [71 1][13 10, 0]Phew, I feel better now.
+[->][END]
+241: [71 1]Alright! Now, I'm yours!
+[->][END]
+242: Blank Line
+[->][END]
+243: [71 1]M−Mister? Why are you raising your
+weapon?
+[->]I... I'm scared...
+[->][END]
+244: [71 1]Wow! You're good, Mister! You look
+strong!
+[->]I want to become strong, too! I want to
+join you!
+[->][END]
+246: [71 1]Hey... Would you get angry if I ripped
+off your arms and legs?
+[->][END]
+247: ”You shouldn't do that.”
+”If you do, I'll do it back.”
+[->][END]
+248: Blank Line
+[->][END]
+249: Blank Line
+[->][END]
+251: [71 1]Um, old Mister?
+[->][END]
+252: ”What is it?”
+”I'm not that old.”
+”What is it, granny?”
+[->][END]
+253: [71 1]There's an old man on your back, Mister.
+[->]He looks lonely, so be friends with him!
+[->][END]
+254: [71 1]No way... Then are you a baby?
+[->]I need to become your ally and take
+care of you!
+[->][END]
+255: [71 1]Old, old Mister, then? I'll help you
+get into your coffin.
+[->][END]
+256: [71 1]H−How did you know that? I've actually 
+lived a long time.
+[->]I'm so embarrassed...
+[->][END]
+258: [71 1]With everyone, or by yourself−−which is 
+stronger?
+[->][END]
+259: ”Together.”
+”By yourself.”
+[->][END]
+260: [71 1]You're right. You can team up together 
+with everyone.
+[->]...But everyone'll disappear eventually.
+Will you be strong, then?
+[->][END]
+261: [71 1]That's why you're with your allies, huh?
+[->]...But are you really strong? Let me
+test you.
+[->][END]
+262: [71 1]Huh? But you're not strong at all!
+[->]You can't do anything without your
+allies!
+[->][END]
+263: [71 1]Humans become strong by themselves? 
+That sounds dangerous...
+[->]I know! I just won't let you be by 
+yourself! I'm gonna go with you.
+[->][END]
+265: [71 1]What are you doing here?
+[->][END]
+266: ”Work.”
+”Waiting for someone.”
+”Looking for a place to die.”
+[->][END]
+267: [71 1]Your work involves talking to girls? 
+That sounds suspicious...
+[->]Maybe you should change jobs. I'll go
+with you and help.
+[->][END]
+268: [71 1]Then I shouldn't get in your way.
+Bye−bye!
+[->][END]
+269: [71 1]Who is it? Who is it? I'm jealous...
+[->]I wanna meet up, too! Promise me!
+[->][END]
+270: [71 1]Could the person you're waiting for be...
+[->]I... I'm sorry! I'll send you to hell
+right now!
+[->][END]
+271: [71 1]You can die anywhere, though.
+You actually want to live, don't you?
+[->][END]
+272: [71 1]It's no fun killing someone who wants
+to die.
+[->][END]
+274: 〉 [Flynn] dances a dance...
+[->][END]
+275: [71 1]I'm sorry, but you're embarrassing me...
+[->][END]
+276: [71 1]You're a funny human! Do you want me
+to become your ally?
+[->][END]
+278: 〉 [Flynn] sings a song...
+[->][END]
+279: [71 1]Such a classic song...
+[->][END]
+280: [71 1]You're a funny human! Do you want me
+to become your ally?
+[->][END]
+282: 〉 [Flynn] flashes some Macca...
+[->][END]
+283: [71 1]I'm not interested in money...
+[->][END]
+284: [71 1]Hehehe... You want me to be your ally,
+huh?
+[->][END]
+286: [71 1][13 10, 1]Everybody is picking on me. Are you
+going to bully me too?
+[->][END]
+287: ”Maybe.”
+”I won't.”
+”I'll make you my slave.”
+[->][END]
+288: Blank Line
+[->][END]
+289: [71 1]You're a good human!
+[->][END]
+290: [71 1]Huh? What's that mean?
+[->][END]
+292: [71 1][13 10, 1]Huh? What are you going to do!?
+[->][END]
+293: Propose to her
+Bow to her
+Raise your weapon
+[->][END]
+294: Blank Line
+[->][END]
+295: [71 1]Wow! What good manners! Humans are so
+romantic!
+[->]Alright, I'll make you my pet!
+[->]Work for me, like a good pet does!
+[->][END]
+296: [71 1]Ah! Are you threatening me!? If you're
+going to do that... Well, I won't lose!
+[->][END]
+298: [71 1][13 10, 0]Huuuh!? My heart's not ready yet...
+[->][END]
+299: ”I'll wait until you decide.”
+”I won't force you.”
+[->][END]
+300: [71 1]Mister... You're so kind. Maybe I'll 
+become your ally...
+[->][END]
+301: [71 1]Which is it, then!? I hate fickle people!
+Hmph!
+[->][END]
+303: [71 1]Are you strong enough not to be bullied?
+[->][END]
+304: ”I'm strong.”
+”I can't say.”
+”I'm weak.”
+[->][END]
+305: [71 1]Haha! Can I try it out on you?
+[->][END]
+306: [71 1][13 10, 0]You're pretty strong, huh! Let's see
+how strong your wallet is!
+[->][END]
+307: [71 1]How lovely! Modesty is a charming quality
+in you older people!
+[->]Do what you want with me!
+[->][END]
+308: [71 1]Huh, really!? Then let me try!
+[->][END]
+310: [71 1][13 10, 0]...You're a human, and you're asking
+ME for something?
+[->][END]
+311: ”I want you to become my ally.”
+”I want you to slap me.”
+[->][END]
+312: [71 1]This... This is all so sudden...
+[->][END]
+313: [71 1]You want to play with me? Yay! Here
+I go!
+[->][END]
+314: [71 1][13 10, 0]Hahaha! This is fun! I'll become your 
+friend, if you want!
+[->][END]
+316: [71 1]I want something. Will you give it to
+me?
+[->][END]
+317: ”What do you want?”
+”I want something in return.”
+[->][END]
+318: [71 1]Your life!
+[->][END]
+319: [71 1]If you give me what I want, I'll consider
+it.
+[->][END]
+321: [71 1][13 10, 1]Come on, play with me. Pleeease?
+[->][END]
+322: ”Alright, let's play.”
+”Never!”
+[->][END]
+323: [71 1]Yay! Then I'll go get the collar and
+leash!
+[->]Wait here, Mister!
+[->][END]
+324: [71 1]...Then die.
+[->][END]
+326: [71 1][13 10, 0]Ohhh! Didn't I tell you to wait?
+[->]Here! A collar and leash! You know how
+to use it, right?
+[->][END]
+327: ”I do.”
+”What are you talking about?”
+[->][END]
+328: [71 1]Yay! You're my slave from now on!
+[->][END]
+329: [71 1]I'm sad... You're a pain in the butt...
+[->][END]
+331: [71 1]Why? You should get along with everybody.
+[->][END]
+332: ”You're right.”
+”That can't happen.”
+Lower your weapon
+[->][END]
+333: [71 1]That's right. Let's be friends!
+[->][END]
+334: [71 1]You're right. The world's full of hate.
+[->]So why don't we change that and talk?
+[->][END]
+335: [71 1]You're what people call a sucker, huh,
+Mister? Can you really survive out
+there like that? 
+[->][END]
+337: [71 1][13 10, 0]Why?
+[->][END]
+338: ”For the sake of Tokyo.”
+”Because I want to kill demons.”
+[->][END]
+339: [71 1]You have a sense of duty!
+[->]Tokyo's so lucky... I want you to work
+hard for me, too!
+[->][END]
+340: [71 1]There ARE a lot of nasty demons, huh!
+[->]Want me to join you so we can massacre
+together?
+[->][END]
+342: [71 1][13 10, 0]Hmm, what should I do... Could you come
+a little closer, Mister?
+[->][END]
+343: Get close
+Wait
+[->][END]
+344: [71 1]Did you think you could get me? Too bad!
+[->]Humans are so stupid!
+[->][END]
+345: [71 1]I hate people who don't take risks when
+it counts!
+[->][END]
+347: [71 1][13 10, 1]Ohhh... That's mean... I'm so lonely...
+[->][END]
+348: ”Then come with me.”
+”Sorry...”
+[->][END]
+349: [71 1]Okay! Don't you ever let go of me!
+[->][END]
+350: [71 1]Huh? YOU'RE the one that should be 
+following ME!
+[->][END]
+351: [71 1]...You jerk!
+[->][END]
+353: [71 1]It's not a trap! Why do you think it's
+a trap!?
+[->][END]
+354: ”Because you're a girl.”
+”Because you're a demon.”
+[->][END]
+355: [71 1]That's sexist, Mister. You're a whole
+'nother level of terrible.
+[->][END]
+356: [71 1]Hmmm, you're pretty sharp! But you can't
+make friends like that.
+[->]Fix your personality problems by the
+next time we meet, okay, Mister?
+[->][END]
+358: [71 1][13 10, 0]Hehehe. You'd do anything for your 
+little sister, right?
+[->][END]
+359: ”Anything.”
+”Not anything.”
+[->][END]
+360: [71 1]Then, could you die for me?
+[->]You can't live for hundreds of years,
+right?
+[->]Then I want you to be mine forever...
+[->][END]
+361: [71 1]Wow, what a strict brother! 
+But you're nice when it counts, right?
+[->]I'm going to snuggle up to you all
+I can!
+[->][END]
+363: [71 1][13 10, 1]Huh!? Do you know my real age?
+[->][END]
+364: ”So, you're older than me.”
+”I like older sisters more.”
+[->][END]
+365: [71 1]I've been lonely all by myself for so
+long...
+[->][END]
+366: [71 1]Hmmm... So?
+[->][END]
+368: [71 1][13 10, 1]Why do you say such sad things? 
+Do you not have many friends?
+[->][END]
+369: ”That's not true.”
+”Not many demon friends.”
+[->][END]
+370: [71 1]Hmmm... I'm jealous...
+[->][END]
+371: [71 1]I'll become your friend! 
+I'll be your first friend!
+[->][END]
+373: [71 1][13 10, 0]I want to change myself. Can I trust
+you?
+[->][END]
+374: ”You can.”
+”I'm not so sure.”
+[->][END]
+375: [71 1]Alright! I believe in you!
+[->][END]
+376: [71 1]I can't believe in you...
+[->][END]
+377: [71 1]I'll do my best! So make me your ally,
+Mister!
+[->]Not for free, of course...
+[->][END]
+379: [71 1]But... That means I have to betray my
+friends, right? What should I do...
+[->][END]
+380: ”Believe in me.”
+”Treasure your friends.”
+[->][END]
+381: [71 1]Alright... Just take good care of me, 
+okay?
+[->][END]
+382: [71 1]You don't think about your friends? 
+I don't really like humans...
+[->][END]
+383: [71 1]...No, I've made up my mind. I'm going
+with you!
+[->]So take me with you! Oh, but not for
+free, okay?
+[->][END]
+385: [71 1][13 10, 0]Stagehand?
+[->][END]
+386: ”A person who supports the play.”
+”A person who controls the play.”
+”I don't want to stand out.”
+[->][END]
+387: [71 1]Oh. Then shine the spotlight on me,
+okay?
+[->]...Now, let's raise the curtains on our
+negotiation!
+[->][END]
+388: [71 1]Really? Then maybe I'll become your ally.
+[->][END]
+389: [71 1]You're shy? Hehehe... That's cute.
+[->][END]
+391: [71 1][13 10, 1]Why'd you dodge!? Dumb human!
+[->][END]
+392: ”I can't trust demons.”
+”Sorry...”
+[->][END]
+393: [71 1]You can trust me! I'll negotiate with
+you!
+[->][END]
+394: [71 1]Then don't dodge next time, okay?
+[->][END]
+396: [71 1]Why not?
+[->][END]
+397: ”It's cruel.”
+”What if I did it to you?”
+”I'll die.”
+[->][END]
+398: [71 1]But it's fun. Humans are like dolls,
+right?
+[->]Oh, but I like you, Mister. If you do
+me a favor, I'll keep you with me.
+[->][END]
+399: [71 1]I'm fine with that. Wanna try?
+[->][END]
+400: [71 1]Humans are weak. This is boring.
+[->][END]
+402: [71 1][13 10, 1]You're being stubborn! What would you
+do if I died!?
+[->][END]
+403: ”I wouldn't mind.”
+”I'd be troubled.”
+[->][END]
+404: [71 1]I don't mind either, but not by myself...
+I'd be fine if you were with me.
+[->][END]
+405: [71 1]Right? Hehehe... So be kind to me!
+[->][END]
+407: [71 1][13 10, 0]I'm here! Hey... Did you wait? 
+I'm sorry I was late.
+[->][END]
+408: [71 1]Waiting for people is fun! Alright,
+let's go then!
+[->][END]
+410: [71 1][13 10, 0]Oh, the Mister from last time! 
+So did you fix your personality?
+[->][END]
+411: ”I fixed it.”
+”It can't be fixed.”
+[->][END]
+412: [71 1]Oh, so you're now more considerate! 
+Then I'll become your friend!
+[->][END]
+413: [71 1]You're the same as ever, I see...
+[->]But I like honest humans! Can I be
+honest too?
+[->][END]
+415: [71 1]Reserved
+[->][END]
+416: Reserved
+[->][END]
+417: Reserved
+[->][END]
+418: Reserved
+[->][END]
+419: [71 1]Reserved
+[->][END]
+420: Reserved
+[->][END]
+421: [71 1]Reserved
+[->][END]
+422: Reserved
+[->][END]
+423: [71 1]Reserved
+[->][END]
+424: Reserved
+[->][END]
+425: [71 1]Reserved
+[->][END]
+426: Reserved
+[->][END]
+427: [71 1]Reserved
+[->][END]
+428: Reserved
+[->][END]
+429: [71 1]Reserved
+[->][END]
+430: Reserved
+[->][END]
+431: [71 1]Reserved
+[->][END]
+432: Reserved
+[->][END]
+433: [71 1]Reserved
+[->][END]
+434: Reserved
+[->][END]
+435: [71 1]Reserved
+[->][END]

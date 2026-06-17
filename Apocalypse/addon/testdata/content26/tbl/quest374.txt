@@ -1,0 +1,6 @@
+0: You've received a gift from the outside world.
+Please accept this [Color:0x5]Eternal Torus[Color:0x0]. With it,
+a [Color:0x5]new level in Twisted Tokyo[Color:0x0] should appear.
+[END]
+1: Download Quest 1 again.
+[END]

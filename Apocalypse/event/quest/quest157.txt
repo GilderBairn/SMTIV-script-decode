@@ -1,0 +1,26 @@
+0: Have you ever heard of a town called [Color:0x5]Minami 
+Sunamachi[Color:0x0]? It's to the south of Kinshicho, but the 
+path there is broken, so you can only get there the 
+long away around, through the Bay Area. That's why 
+no one even goes near there. I want you to go there 
+and get an [Color:0x5]ad flyer for the shopping district[Color:0x0]. There 
+should still be some left, since no one goes there. 
+I know it'll take a long time, but I'm counting on you.
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Thanks for accepting a quest like this.
+I know it's a ragged piece of paper, but an old
+lady who once lived there reads it over and over.
+It makes her happy talking about the man who owned
+the diner or the excellent yakitori at another
+store. Human happiness is a lot more than sleeping
+and eating.
+...Was that a little cheesy?
+[END]

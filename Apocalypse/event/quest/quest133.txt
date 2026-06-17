@@ -1,0 +1,17 @@
+0: Hi! It's Betty, again. I have another goal for all you 
+Hunters out there. This one might be a little tough. 
+I want you to reach [Color:0x5]350,000 damage dealt[Color:0x0]. Good luck!
+[END]
+1: Delivery quest description template second time
+Clear conditions:
+Deliver [Item 1] x[Amount 1]
+Deliver [Amount 2] of [Item 2]
+Deliver [Amount 3] of [Item 3]
+Reward:
+[Amount 4]x [Item 4] 
+[END]
+10: Wow! When the notice came in that someone cleared
+this quest, I thought there was no way, but it was 
+you after all! I remember your name now, [Flynn]. 
+Keep entertaining me, okay?
+[END]

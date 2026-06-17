@@ -1,0 +1,1097 @@
+0: Dummy Message
+[END]
+1: [71 1]Do not try to beat around the bush. 
+Let us fight!
+[->][END]
+2: [71 1]Attack first, and then comfort me? 
+Oh, what a despicable human...
+[->][END]
+3: [71 1]Well, now...
+[->][END]
+4: [71 1]...You have shown me your sincerity.
+[->][END]
+5: [71 1]Would you be so kind as to do me a
+favor?
+[->][END]
+6: [71 1]...You have a lot of friends.
+There isn't any room for me.
+[->][END]
+7: [71 1]I'm [Color:0x5][Demon race 1] [Demon name 1][Color:0x0].
+Such a pleasure to meet you.
+[->][END]
+8: [71 1]...My, you're weaker than me.
+[->]You can't possibly dominate me with 
+such a low level...
+[->][END]
+9: [71 1]...My, you have another one of my kind
+with you.
+[->]Now you shouldn't be two−timing her, 
+you hear?
+[->][END]
+10: [71 1]May I invite other demons? It's a bit
+embarrassing with just the two of us.
+[->][END]
+11: [71 1]...But you haven't any space in your 
+smartphone. I suppose I can invite 
+them some other time.
+[->][END]
+12: [71 1]Hello, there, handsome... 
+You wanted to meet me too, right?
+[->][END]
+13: [71 1]...Oh, they're all so shy. 
+I guess it's just the two of us.
+[->][END]
+14: [71 1]I'm your ally, too. Don't you forget
+that.
+[->][END]
+15: [71 1]...Would you like me to introduce you
+to a demon? 
+[->][END]
+16: [71 1][Demon name 2] called me here. 
+Why, you're still a boy...
+[->][END]
+17: [71 1]Being so moved by just a child... You
+think I'm a foolish lady, don't you?
+[->]But... that doesn't matter! 
+I just want to be by your side...
+[->][END]
+18: [71 1]I'm a lady! Please don't bring up
+money...
+[->][END]
+19: [71 1]How terrifying... Human ladies must
+have it worse...
+[->][END]
+20: [71 1]...I'll let you be reborn now.
+[->][END]
+21: [71 1]You mustn't! No...!
+[->][END]
+22: [71 1]Stop this at once... 
+You good−for−nothing summoner...!
+[->][END]
+23: [71 1]...You're quite a bad boy, aren't you? 
+Perhaps because you were raised in Tokyo.
+[->][END]
+24: [71 1]The binds... are so tight... I cannot
+move!
+[->][END]
+25: [71 1]I would like something of yours... 
+Let's have a negotiation, shall we?
+[->][END]
+26: [71 1]Please, take this. It's all I have.
+[->][END]
+27: [71 1]Oooaaahhhh...! Oh, oh, oh...?
+[->]Yooouuu... can have this... I give!
+[->][END]
+28: [71 1]I'll care for you even more. 
+By all means, take this too.
+[->][END]
+29: [71 1]I want to feel more of your passion...
+[->][Amount 1] Macca, and I'm yours.
+[->][END]
+30: [71 1]I would like [Item 1] x[Amount 1]...
+[->][END]
+31: [71 1]I would like [Amount 1] Macca...
+[->][END]
+32: [71 1]I would like your HP... Just a little.
+[->][END]
+33: [71 1]I would like your HP... Some of it,
+please.
+[->][END]
+34: [71 1]I would like your HP... A good portion
+of it, please.
+[->][END]
+35: [71 1]I would like your HP... An absurd
+amount, please!
+[->][END]
+36: [71 1]I would like your MP... Just a little.
+[->][END]
+37: [71 1]I would like your MP... Some of it,
+please.
+[->][END]
+38: [71 1]I would like your MP... A good portion 
+of it, please.
+[->][END]
+39: [71 1]I would like your MP... An absurd
+amount, please!
+[->][END]
+40: [71 1]I would like the life of your ally...
+[Demon name 2]...
+[->][END]
+41: [71 1]Good sir, could you please give me that?
+[->][END]
+42: [71 1]I would like the HP of your partner...
+Yes, [7e]'s HP...
+[->][END]
+43: [71 1]Try and get my interest. We'll see what
+you have.
+[->][END]
+44: [71 1]It seems you have done your homework.
+That makes my so happy...
+[->][END]
+45: [71 1]You're no good when it counts...
+[->][END]
+46: [71 1]Would you like me to massage you?
+It works wonders.
+[->][END]
+47: ”Sure.”
+”No.”
+[->][END]
+48: [71 1]Right here...
+[->][END]
+49: 〉 [Flynn] feels better!
+[->][END]
+50: 〉 [Flynn] feels completely refreshed!
+[->][END]
+51: [71 1]You're quite stiff...
+[->][END]
+52: 〉 The demon kneads a painful pressure
+point!
+[->][END]
+53: 〉 The demon kneads a painful pressure
+point hard!
+[->][END]
+54: [71 1]Aren't we being shy...
+[->][END]
+55: [71 1]I'm satisfied... Thank you so very much.
+[->][END]
+56: [71 1]Is that so...
+[->][END]
+57: [71 1]You won't give it to me even though
+you have it? That breaks my heart...
+[->]Good−bye.
+[->][END]
+58: [71 1]Enough of this. You're a boring young
+man.
+[->][END]
+59: [71 1]I won't fall for that, you hear?
+[->][END]
+60: [71 1]Is that so...
+[->][END]
+61: [71 1]Is that so...
+[->][END]
+62: [71 1]You've refused my requests so many
+times. That makes you mysterious.
+Makes me shudder in excitement...
+[->][END]
+63: [71 1]You are nothing but a dog wagging its
+tail. I grow weary of this...
+[->][END]
+64: [71 1]My, you don't have anything.
+That's actually quite refreshing!
+[->][END]
+65: [71 1]Au revoir...
+[->][END]
+66: [71 1]My... [Flynn].
+[->]You haven't forgotten all those words
+we exchanged that one time, have you?
+[->][END]
+67: [71 1]I've been thinking about you all 
+this time... I'll become your ally.
+[->][END]
+68: [71 1]There is no need to be modest, now... 
+I'll do something about Macca.
+[->][END]
+69: [71 1]...Here you go. You're a handsome young
+man, so be sure to carry things like
+this with you.
+[->][END]
+70: [71 1]...My, I just remembered an errand I
+need to run. Bye now.
+[->][END]
+71: [71 1]You are late, sir. You should search
+for me more hastily.
+[->][END]
+72: [71 1]...No, please don't kill me. I'll let you
+do something better than killing me!
+[->][END]
+73: [71 1]I'm glad that you're a reasonable adult...
+[->][END]
+74: [71 1]...How cold of you.
+[->]It won't be my fault if anything happens.
+[->][END]
+101: 〉 The demon is on guard... What will
+you do?
+[->][END]
+102: Lower your weapon
+Put up your guard
+[->][END]
+103: [71 1]You are a good−natured person, aren't
+you? I cannot imagine how you survived
+here in Tokyo.
+[->][END]
+104: [71 1]You understand what I want. I think we
+can get along.
+[->][END]
+105: [71 1]How foolish...
+[->][END]
+106: [71 1]Please, wait! I don't want to fight! 
+Take this and let me be free!
+[->][END]
+107: [71 1]Humans are horrifying...
+[->][END]
+109: 〉 The demon is trying to leave...
+What will you do?
+[->][END]
+110: Stop her
+Ignore her
+Raise your weapon
+[->][END]
+111: [71 1]Then I shall talk with you just a
+little longer.
+[->][END]
+112: [71 1]I'm sorry, but I have business to
+attend to.
+[->][END]
+113: [71 1]Don't be so cold... Why don't we talk?
+[->][END]
+114: [71 1]Such inhospitality...
+[->][END]
+115: [71 1]Please, spare me... I'll beome your ally.
+[->]So please, let's talk?
+[->][END]
+116: [71 1]Humans always do things like that.
+They really are foolish.
+[->][END]
+118: 〉 The demon is ignoring you...
+What will you do?
+[->][END]
+119: Say something to her
+Get her attention
+Threaten her
+[->][END]
+120: [71 1]Please, leave me alone!
+[->][END]
+121: [71 1]Oh, it was you. Yes, let's have a chat
+then.
+[->][END]
+122: Blank Line
+[->][END]
+123: Blank Line
+[->][END]
+124: Blank Line
+[->][END]
+125: [71 1]Please, spare me... I'll beome your ally.
+[->]So please, let's talk...?
+[->][END]
+126: [71 1]Humans always do things like that. 
+They really are foolish.
+[->][END]
+128: [71 1][13 10, 1]You are [Flynn]... I've heard much
+about you.
+[->][END]
+129: [71 1]The vile demon−slayer! I shall kill you!
+[->][END]
+130: [71 1]I wanted to become your ally. Even if
+you say no, I'm still coming with you!
+[->][END]
+131: [71 1]I do not wish to involve myself with
+you...
+[->][END]
+132: 〉 The demon leaves...
+[->][END]
+134: [71 1][13 10, 1]I can't trust humans...
+[->][END]
+135: ”Exactly.”
+”That's not true.”
+”I'm a trustworthy human.”
+[->][END]
+136: [71 1]Then that includes you.
+[->][END]
+137: [71 1]My... We get along. Maybe I'll become
+your ally.
+[->][END]
+138: [71 1]Your stupidity is beyond salvation!
+[->][END]
+139: [71 1]Then why don't you give me a reason to
+have faith in you?
+[->][END]
+140: [71 1]Humans who say that are the least
+worthy of any trust...
+[->][END]
+141: [71 1]Then why don't you give me a reason to
+have faith in you?
+[->][END]
+143: [71 1]Something smells...
+[->][END]
+144: Smell yourself
+”You smell, too.”
+Laugh awkwardly
+[->][END]
+145: [71 1]You cannot tell? The stench of humans
+coming from you...
+[->][END]
+146: [71 1]It seems you humans cannot understand 
+this sweet scent...
+[->][END]
+147: [71 1]What are you smiling about! Your face
+smells, as well.
+[->]I cannot accept the fact that creatures
+like you are still living...
+[->][END]
+149: [71 1]Hehe... Are you flirting with me?
+[->][END]
+150: Gaze at her intensely
+Smile gently
+Look to the side
+[->][END]
+151: Blank Line
+[->][END]
+152: [71 1]That smile doesn't look trustworthy,
+if you ask me...
+[->][END]
+153: [71 1]...Are you mocking me?
+[->]I like looking down on others, but I
+can't take it when I'm looked down upon.
+[->][END]
+155: [71 1]Hehe... Hehehe...
+[->][END]
+156: Laugh with her
+Raise your weapon
+Stare coldly at her
+[->][END]
+157: Blank Line
+[->][END]
+158: [71 1]Oh... Please, stop. You're pretending
+to be brave, aren't you?
+[->][END]
+159: [71 1]Those eyes full of malice...
+It's making me excited.
+[->][END]
+161: [71 1]Just looking must be boring. 
+You can touch me, if you want?
+[->][END]
+162: Extend your arm
+Raise your weapon
+Walk forward cautiously
+[->][END]
+163: [71 1]My... You have quite a manly hand,
+for a boy...
+[->]That lovely hand of yours, with the
+vein popping out... I shall take it
+home with me!
+[->][END]
+164: [71 1]Bringing out the heavy artillery...
+I supposed you are too young for this...
+[->][END]
+165: [71 1]The day will end at this rate.
+[->]I'm terribly sorry, but I cannot wait
+that long. Good−bye...
+[->][END]
+167: [71 1]My... What does a human boy want with
+little old me?
+[->][END]
+168: ”Let's talk.”
+”Become my ally.”
+”Marry me.”
+[->][END]
+169: Blank Line
+[->][END]
+170: [71 1]How about you become my slave?
+[->][END]
+171: [71 1]Swear your eternal love to me in my
+stomach!
+[->][END]
+173: [71 1]P−Please... I'll do whatever you want,
+just spare me!
+[->][END]
+174: ”I'll spare you.”
+”Become my ally.”
+”Die.”
+[->][END]
+175: [71 1]I was only joking... You are a
+good−natured human.
+[->][END]
+176: [71 1]Anything but that!
+[->][END]
+177: 〉 The demon leaves...
+[->][END]
+178: [71 1]Very well. Let us negotiate!
+[->][END]
+179: [71 1]I cannot do that... If I die, I can't
+escape, right?
+[->][END]
+181: [71 1]Uh, pardon, but I'm in a terrible
+hurry...
+[->][END]
+182: ”Don't be so upset.”
+”Become my ally.”
+”Where are you going?”
+[->][END]
+183: Blank Line
+[->][END]
+184: Blank Line
+[->][END]
+185: Blank Line
+[->][END]
+187: [71 1]When you eat a living being, do you
+feel sorry for it?
+[->][END]
+188: ”I do.”
+”I don't.”
+”I never thought about it.”
+[->][END]
+189: [71 1]Yes, I do feel quite sorry for them,
+being eaten by humans...
+[->][END]
+190: Blank Line
+[->][END]
+191: [71 1]Then please think about it for the next
+time we meet.
+[->][END]
+193: [71 1]A human's lifespan is so short...
+[->][END]
+194: ”That's right.”
+”How long do demons live?”
+”I don't want to live long.”
+[->][END]
+195: Blank Line
+[->][END]
+196: [71 1]Hehe... Are you interested?
+I'll leave that to your imagination...
+[->][END]
+197: [71 1]Have you no dreams? Good things can
+happen when you live long too, you know.
+[->][END]
+199: [71 1]Could you come here and massage me?
+[->][END]
+200: Go near her
+”No way.”
+”You come here.”
+[->][END]
+201: Blank Line
+[->][END]
+202: Blank Line
+[->][END]
+203: [71 1]Hehe... Playing the brave boy? Oh,
+you're even cuter than ever...
+[->]I'll come and hug you right now.
+Until you fold half! 
+[->][END]
+205: [71 1]Want to do something naughty with me?
+[->][END]
+206: ”Sure.”
+”Nope.”
+”Let me think.”
+[->][END]
+207: [71 1]...My, I'm sorry. I had something else
+to attend to...
+[->][END]
+208: [71 1]That just breaks my heart...
+You shouldn't make a lady shed tears...
+[->][END]
+209: Blank Line
+[->][END]
+211: [71 1]What is everything to you?
+[->][END]
+212: ”Love.”
+”Money.”
+”Freedom.”
+[->][END]
+213: [71 1]Hehe... You're like me.
+[->][END]
+214: [71 1]Don't say such sad things...
+[->]Please, tell me that I'm everything to
+you. I want to know more about you...
+[->][13 10, 0]Sooo... First, give me everything you
+have.
+[->][END]
+215: [71 1]I can tell you are lying. You're quite
+the shy one, aren't you?
+[->]I know... You've been watching me this
+entire time.
+[->]You want to be wrapped around my finger.
+[->][END]
+217: [71 1]Would you tell me your phone number?
+[->][END]
+218: ”Sure.”
+”No.”
+”You tell me yours.”
+[->][END]
+219: [71 1]...I'm sorry, I forgot to bring a pen
+and paper.
+[->]Tell me next time, please.
+[->][END]
+220: [71 1]You're no fun.
+[->][END]
+221: [71 1]No! You digusting pig!
+[->][END]
+222: [71 1]I AM willing to tell you...
+[->]But first, there is something I want.
+[->][END]
+224: [71 1]You are not the man I'm looking for.
+Step aside.
+[->][END]
+225: ”Okay.”
+”I refuse.”
+[->][END]
+226: [71 1]You're much kinder than I thought.
+[->]Perhaps I will talk with you a little 
+longer.
+[->][END]
+227: 〉 The demon leaves...
+[->][END]
+228: [71 1]Ahh, I've finally met a man who doesn't
+just do as I say...
+[->]You might be the man I am searching for.
+Please, tell me more about yourself...
+[->][END]
+229: [71 1]My... I thought that you might be the
+one...
+[->]You coward.
+[->][END]
+231: [71 1]Would you send me flowers?
+[->][END]
+232: Give her a blue rose
+Give her a dry flower
+Give her a Venus flytrap
+[->][END]
+233: [71 1]I AM shrouded in thorns. Men always run
+from me...
+[->]Will you be able to accept me with my
+thorns?
+[->][END]
+234: [71 1]This blue rose is so sad...
+[->]Your heart is thorny, like this flower.
+[->][END]
+235: [71 1]Yes... You truly understand me.
+[->]My heart is dry and barren.
+So let me wet it with your blood...
+[->][END]
+236: [71 1]Yes, I am a Venus flytrap...
+[->]I will kill any insects that near you!
+[->][END]
+237: [71 1]It is a savage flower. Inviting its
+prey with its beauty and sweet scent...
+[->]Why are you saying this is me!?
+[->][END]
+239: [71 1]Let us shake hands, as a sign of our 
+friendship.
+[->][END]
+240: Shake hands
+Don't shake hands
+[->][END]
+241: 〉 [Flynn] extends his hand...
+[->][END]
+242: [71 1]Do not touch me with your filthy hand!
+[->][END]
+243: [71 1]A mere handshake isn't enough to
+restore relations, is it?
+[->]...Then make me your ally.
+[->][END]
+244: [71 1]You cannot touch a lady's hand with
+your blood−stained hand!
+[->]You're quite a gentleman. Would you
+keep flirting with me?
+[->][END]
+246: [71 1]If I became your ally, what would our
+relationship be like?
+[->][END]
+247: ”It'd be passionate.”
+”We'd be best partners.”
+”Until death do us part.”
+[->][END]
+248: [71 1]I can tell... You want me to warm up
+your heart, frozen from all the demon
+killing you've done.
+[->]First give me what you have, and let's
+warm each other up.
+[->][END]
+249: [71 1]It's hot enough as it is. Give me more
+burning pain...
+[->][END]
+250: [71 1]You are the slave−−do not misunderstand.
+[->][END]
+251: [71 1]Beth is your partner? Who is this Beth!?
+[->]Having another lady... I won't forgive
+you!
+[->][END]
+252: [71 1]Don't say such ominous things...
+[->]As long as I am here, I won't let you
+die.
+[->][END]
+253: [71 1]I do not want to be in a relationship
+wherein one must die to break up.
+[->][END]
+254: [71 1]You cannot die as long as Dadga resides
+in you, correct?
+[->][END]
+256: 〉 [Flynn] dances a dance...
+[->][END]
+257: [71 1]I'm sorry. That did not resemble a dance.
+[->][END]
+258: [71 1]My, that was quite sexy. Maybe I should
+become your ally.
+[->][END]
+260: 〉 [Flynn] sings a song...
+[->][END]
+261: [71 1]I'm sorry. That did not resemble a song.
+[->][END]
+262: [71 1]My, that voice is quite sexy. Maybe
+I should become your ally.
+[->][END]
+264: 〉 [Flynn] flashes some Macca...
+[->][END]
+265: [71 1]I'm not that easy.
+[->][END]
+266: [71 1]My, that is a lovely show of wealth.
+Do you want me to become your ally?
+[->][END]
+268: [71 1]Can you be more considerate to the
+planet and galaxy?
+[->][END]
+269: ”I'll be careful from now on.”
+”What kind of smell is it?”
+[->][END]
+270: [71 1]Well, you ARE still a child, so I
+suppose it cannot be helped.
+[->]I know. I'll make you a full−fledged
+man. ...If you wish, that is.
+[->][END]
+271: [71 1]I cannot describe it in one word.
+It is a filthy smell, with various 
+intentions mixed together.
+[->]Allow me to change it to a scent I enjoy.
+The scent of a human corpse, that is...
+[->][END]
+273: [71 1]Come near and smell for yourself. You
+should be able to understand it then.
+[->][END]
+274: ”No way.”
+”If you say so...”
+[->][END]
+275: [71 1]Is that so? That is unfortunate...
+[->]I cannot stand the smell anymore, so I
+must be going...
+[->][END]
+276: [71 1]See... It's a lovely smell, isn't it?
+[->]Would you like me to invite you to an
+even more wonderful world?
+[->][END]
+278: [71 1][13 10, 0]Oh... I like that gaze. So, what do you
+want of me?
+[->][END]
+279: ”Your body.”
+”Your ability.”
+[->][END]
+280: [71 1]My, aren't we being direct. But I don't
+mind a forceful man.
+[->]I desire your body as well. So I can
+tear it to shreds...
+[->][END]
+281: [71 1]What a boring man. You need to learn
+how to flirt with women...
+[->]I'll teach you myself, so please, give
+me something in return.
+[->][END]
+283: [71 1]Unfortunately, I am not interested in
+weak men. Are you weak?
+[->][END]
+284: ”I'm pretty strong.”
+”I have a ways to go.”
+[->][END]
+285: [71 1]Hehe... I see you are quite confident 
+in yourself.
+[->]Then by all means, allow me to test you.
+[->][END]
+286: [71 1]My, my. Unconfident in yourself?
+It makes me want to protect you.
+[->]I shall be by your side until you feel
+that you've become strong...
+[->][END]
+288: [71 1][13 10, 1]What is so funny? I was laughing at you.
+[->][END]
+289: ”What's so funny about me?”
+”I was just laughing at you?”
+[->][END]
+290: [71 1]I was laughing at the nerves you have,
+talking to us demons.
+[->]You're trying to bite off more than
+you can chew, aren't you? Please do 
+continue. Until I am satisfied...
+[->][END]
+291: [71 1]Hmm... That is quite a coincidence.
+I almost feel that it is fate.
+[->]To commemorate this, I will stuff
+that lovely smile as a trophy!
+[->][END]
+293: [71 1]I do understand that you are overwhelmed
+by my absolute beauty...
+[->][END]
+294: ”You're not that beautiful.”
+”Yeah, you're so beautiful.”
+[->][END]
+295: [71 1]How pitiful... You don't know what a
+mature lady is, do you?
+[->]But if I go with you, you may eventually
+understand.
+[->][END]
+296: [71 1]Hehe... Oh, don't look at me so much.
+Being stared at so much... Ahhh...
+[->]I'm... I'm so embarassed...
+[->][END]
+298: [71 1]What do you want to do with me?
+[->][END]
+299: ”Make you my ally.”
+”Fusion.”
+[->][END]
+300: [71 1]...I'm disappointed. I was hoping for 
+something better than that...
+[->]Child, come back when you've become
+an adult.
+[->][END]
+301: [71 1]Fusion!? The simple sound of the word
+excites me.
+[->]Do you want me to fuse with you?
+Let us continue our talks.
+[->][END]
+303: [71 1]Are you always this forceful when you
+flirt with women?
+[->][END]
+304: ”Let's learn about each other first.”
+”I've never flirted.”
+[->][END]
+305: [71 1]Hehe... You are a faithful human.
+But that alone is not enough.
+[->]If you take it too easy, a lady's
+mind will change. At times like this,
+a gift is in order.
+[->][END]
+306: [71 1]Then I shall teach you.
+[->]We'll start from a passionate kiss...
+Are you ready?
+[->]First... You take a bit from the head.
+[->][END]
+308: [71 1][13 10, 1]If you want to talk with me... You know
+what to do, right?
+[->][END]
+309: Pull out some Macca
+Pull out an item
+Offer an ally's life
+[->][END]
+310: [71 1]I don't like that attitude of yours,
+trying to lure in a lady with money.
+[->]You won't become a good adult at this
+rate. Please, stay as a child forever.
+[->][END]
+311: [71 1]Ladies are suckers for gifts. But that
+is only true when the gifter is the
+person she loves.
+[->]I'm sorry, but you're out of the
+question.
+[->][END]
+312: [71 1]Your ally is willing to give the
+ultimate sacrifice for you? You
+must be a human worth serving.
+[->]I have been waiting for a human like
+that. Perhaps I should become your ally.
+[->][END]
+314: [71 1]Now, bow down like the slave you are...
+[->][END]
+315: ”Yes, my Queen.”
+”I can't do that.”
+”You bow down.”
+[->][END]
+316: [71 1]”My Queen” you say? You need to watch
+your tongue.
+[->]I am a still a princess. It seems like
+you need some punishment.
+[->][END]
+317: [71 1]Aren't we rebellious, for a slave.
+[->]Very well. I suppose I'll let you off
+with some gifts. Be a good slave and
+give me everything.
+[->][END]
+318: [71 1]The master bowing to the slave...
+That is quite kinky!
+[->]You have better taste than I thought.
+I shall bow before you as your master.
+[->][END]
+320: [71 1]I heard that now humans fool each other,
+as well. Is that true?
+[->][END]
+321: ”I've never been fooled.”
+”I've never fooled anyone.”
+”Still better than demons.”
+[->][END]
+322: [71 1]I'm quite jealous. But maybe that's
+just because you haven't noticed.
+[->]After all, you're being fooled by me
+this very moment.
+[->][END]
+323: [71 1]You are good−natured to a fault.
+[->]Try not to get yourself killed.
+Good−bye.
+[->][END]
+324: [71 1]I did not think a human would make a
+fool of me...
+[->]But I am different from other demons.
+And you are going to prove it.
+[->][END]
+326: [71 1]Can you do it?
+[->][END]
+327: ”I can.”
+”I can't.”
+[->][END]
+328: [71 1]Good. I shall kill you now, so please
+try it.
+[->][END]
+329: [71 1]You cannot? What a coward...
+[->][END]
+331: [71 1][13 10, 1]Then do a better job of communicating
+to me.
+[->][END]
+332: Use gestures
+Psychically scout her
+[->][END]
+333: [71 1]...Oh! Is that a new type of diet? I'll
+join you, so do please tell me about it!
+[->]So, before that...
+[->][END]
+334: [71 1]Hehe... I understand. You should have
+used that from the start.
+[->]But I'm in a hurry right now. I do
+apologize.
+[->][END]
+336: [71 1][13 10, 0]This is so sudden... You understand what
+to do to show your good faith, right?
+[->][END]
+337: ”I know.”
+”I don't know.”
+[->][END]
+338: [71 1]I see that you DO NOT understand...
+[->]You need to learn to offer without a
+word. Offer your life, that is!
+[->][END]
+339: Blank Line
+[->][END]
+341: [71 1][13 10, 1]Then I shall teach you. Stand right
+there.
+[->][END]
+342: ”Okay.”
+”No.”
+[->][END]
+343: [71 1]Thank you. I shall take your energy.
+[->][END]
+344: 〉 The demon bites [Flynn]!
+[->][END]
+345: [71 1][13 10, 0]I'm now full, thanks to you. I was in
+a hurry because I was so hungry.
+[->]Now that my task is complete, I can
+make time to chat with you.
+[->][END]
+346: [71 1]How much more do you plan to mock me?
+[->]Enough with this. I don't need good
+faith−−just give me your life!
+[->][END]
+348: [71 1][13 10, 1]What do you plan on doing, asking me
+that? It has nothing to do with you.
+[->][END]
+349: ”I want to go with you.”
+”I'm interested in you.”
+[->][END]
+350: [71 1]You miscreant! Don't get near me!
+[->][END]
+351: [71 1]Have you fallen in love with me at first
+sight? I supposed it cannot be helped...
+[->]I feel like I've grown interested in
+you...
+[->][END]
+353: [71 1]But humans are lucky to be eaten by us
+demons, don't you think?
+[->][END]
+354: ”Lucky my ass.”
+”I don't want to die so pathetically.”
+[->][END]
+355: [71 1]I like your honesty. Fitting for a weak,
+ugly human like yourself...
+[->]If you do not wish to be eaten, give me
+something.
+[->][END]
+356: [71 1]Pathetically? Quite a way to put it.
+[->]You humans eat living creatures as well.
+Humans are truly cruel beings...
+[->]Oh, I don't taste good, for your
+information. Good−bye.
+[->][END]
+358: [71 1]Your life is built on the sacrifices of
+other lives. Doesn't that ever trouble
+you?
+[->][END]
+359: ”It does.”
+”It doesn't.”
+[->][END]
+360: [71 1]I'm glad you are a reasonable being. 
+I like humans like that...
+[->]After all, it's those types that plead
+for their lives when I kill them.
+[->][END]
+361: [71 1]You should rethink that.
+[->]Otherwise, I shall lose my appetite. 
+Good−bye...
+[->][END]
+363: [71 1]We meet again. So, have you thought
+about it?
+[->][END]
+364: Talk about the sorrow of life
+Talk about eating living creatures
+Talk about [Demon name 1]
+[->][END]
+365: 〉 [Flynn] talks passionately...
+[->][END]
+366: [71 1]The sorrow of life...? Was that what
+I told you to think about?
+[->]I was a fool to expect more from you.
+Good−bye...
+[->][END]
+367: 〉 [Flynn] talks passionately...
+[->][END]
+368: [71 1]Exactly! About eating living creatures!
+You have met my expectations!
+[->][END]
+369: 〉 [Flynn] talks passionately...
+[->][END]
+370: [71 1]I'll have no business with stalkers...
+[->][END]
+372: [71 1][13 10, 1]So, that is why you are so hurried in
+life? Such pitiful beings.
+[->][END]
+373: ”Then become my ally now.”
+”We're still living to the fullest.”
+[->][END]
+374: Blank Line
+[->][END]
+375: [71 1]Hehe... That is good. Even insects
+should treasure their lives.
+[->]So, now you understand, do you not?
+It is best not to involve yourself
+with me.
+[->][END]
+377: [71 1][13 10, 1]What merit is there to becoming your
+ally when you will die before me?
+[->][END]
+378: ”You can do whatever when I die.”
+”I might make you sad...”
+[->][END]
+379: [71 1]Don't say such sad things.
+[->]Now, let us make use of our limited
+time together.
+[->][END]
+380: [71 1]That's right. It will make me sad...
+[->]But if I kill you here, you will be
+eternally mine.
+[->][END]
+382: [71 1]If you were immortal, what would you do?
+[->][END]
+383: ”Rule the world.”
+”Live day by day.”
+”Nothing special.”
+[->][END]
+384: [71 1]My... I like ambitious men.
+[->]You might not be able to accomplish
+that by yourself, but perhaps with me...?
+[->][END]
+385: [71 1]That is much like now.
+[->]You will probably be the same no matter
+how much time passes. Be reborn.
+[->][END]
+386: [71 1]...I grow weary of this. Au revoir.
+[->][END]
+388: [71 1]Oh, you're still far... Closer...
+Come closer to me...
+[->][END]
+389: ”Okay.”
+”Not a step more.”
+[->][END]
+390: [71 1]Hehe... Good boy. I just want to eat
+you up!
+[->]...My. I seem to have fallen in love
+after watching you all this time.
+[->][END]
+391: [71 1]...No, you can't! It's immoral!
+[->][END]
+392: [71 1]No... I can't resist...
+[->][END]
+394: [71 1][13 10, 1]My, you have no bravery. Or perhaps its
+experience that you lack?
+[->][END]
+395: ”I have experience.”
+”I lack experience.”
+”I like this distance.”
+[->][END]
+396: [71 1]My... Acting a bit precocious.
+[->]Then try and make me enjoy this.
+[->][END]
+397: [71 1]A long time ago, the timid type were
+popular. Beta males, was it?
+[->]Don't worry, though. I'll teach you.
+[->][END]
+398: [71 1]You're right−−this distance is perfect.
+[->]I can watch you die as I decapitate
+you.
+[->][END]
+400: [71 1]I cannot make any promises, but could
+you wait until another day?
+[->][END]
+401: ”Sure.”
+”No way.”
+[->][END]
+402: [71 1]Then you can wait forever.
+[->][END]
+403: [71 1]No... You must wait. Good−bye.
+[->][END]
+405: [71 1][13 10, 0]I'm remember you, [Flynn]. I kept you
+waiting, and you were patient...
+[->][END]
+406: [71 1]I've kept my schedule open from here on.
+Let's do all the bad things we can!
+[->][END]
+408: [71 1][13 10, 1]Are you trying to tantalize me?
+[->][END]
+409: ”Yeah.”
+”Who knows...?”
+[->][END]
+410: [71 1]You're 1000 years too young to be able
+to pull that off on me.
+[->][END]
+411: [71 1]Oh, you're such a wicked man...
+[->]I'll be waiting for you. Au revoir...
+[->][END]
+413: [71 1][13 10, 0]I remember you, [Flynn]. You've kept
+me waiting...
+[->][END]
+414: [71 1]I was patient! I cannot hold back any
+longer! I shall go with you even if
+you refuse!
+[->][END]
+416: [71 1]As lovers, let us gaze into one another's
+eyes. Come closer and let me see your
+face.
+[->][END]
+417: Show her your face
+Don't show
+[->][END]
+418: [71 1]...
+[->][13 10, 1]You were too obedient. What a bore...
+[->][END]
+419: [71 1]Oh, you know how to tease! That makes
+me burn even more...!
+[->]Maybe I'll stay by your side.
+[->][END]
+421: [71 1][13 10, 0]I'm terribly sorry to keep you waiting.
+I brought a pen and paper.
+[->][END]
+422: [71 1]...But I suppose I don't need it anymore.
+After all, we shall be together from now
+on.
+[->][END]
+424: [71 1][13 10, 1]You have such a pretty face, but your
+hands are full of scratches.
+[->]You've been through many difficult
+battles...
+[->][END]
+425: [71 1]Soothe your body and soul's injuries
+with this. 
+[->][END]
+426: [71 1]Maybe I'll stay by your side. That all
+depends on you...
+[->][END]

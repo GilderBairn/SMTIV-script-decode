@@ -1,0 +1,26 @@
+0: [71 1]I shall spread the fire of chaos 
+across the world... For humans!
+[->][END]
+1: [71 1]Humans evolve through chaos... Now, 
+bring about evolution with your own 
+two hands!
+[->][END]
+2: [71 1]To create a world shaped by the
+strong, I must do something else. 
+[->][END]
+3: [71 1](仮)すれちがい変身メッセージ
+[->][END]
+4: [71 1](仮)すれちがい変身メッセージ2
+[->][END]
+5: [71 1](仮)すれちがい変身メッセージ3
+[->][END]
+6: [71 1]This is a gift for you...
+Take care of it.
+[->][END]
+7: [71 1]I have prepared this for you.
+Don't be shy. By all means,
+accept it... 
+[->][END]
+8: [71 1]Take this. I pray you will
+become the seed of chaos...
+[->][END]

@@ -1,0 +1,11 @@
+0: An unsettling number of women have been reported
+missing as of late. Hunters sent to investigate
+discovered the [Color:0x5]kidnapped women[Color:0x0] were taken to
+[Color:0x5]somewhere in the bay area[Color:0x0]. I want you to find
+and rescue these women and capture or kill
+whoever's responsible.
+[END]
+1: ダミー
+[END]
+2: ダミー
+[END]
