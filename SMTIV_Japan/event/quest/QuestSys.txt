@@ -1,0 +1,194 @@
+0: 「[11 40]」
+を受注しました
+[END]
+1: 「[11 40]」
+を達成しました！
+[END]
+2: 「[11 40]」
+をギブアップしました
+[END]
+3: [Demon name 1]、残り[Amount 1]体です
+[END]
+4: ゲストが参加します
+[END]
+5: 同行者が離脱しました
+[END]
+6: 同行者が一時的に離脱しました
+[END]
+7: 再び　仲間と共に往くことにした
+[END]
+8: [Item 1]を渡しますか？
+[END]
+9: [Item 1]を[Amount 1]個渡しますか？
+[END]
+10: [Demon name 1]を渡しますか？
+[END]
+11: はい
+いいえ
+[END]
+12: 納品をやめました
+[END]
+13: [11 40]は明晰状態になった！
+[END]
+14: [Flynn]は回復した
+[END]
+15: [Flynn]たちは回復した
+[END]
+16: 「[11 40]」
+が破棄されました
+[END]
+17: ？？？
+[END]
+18: [Item 1]×[Amount 1]
+を納品する
+[END]
+19: [Item 1]×[Amount 1]　[Item 2]×[Amount 2]
+を納品する
+[END]
+20: [Item 1]×[Amount 1]　[Item 2]×[Amount 2]
+[Item 3]×[Amount 3]　を納品する
+[END]
+21: [Item 1]×[Amount 1]　[Item 2]×[Amount 2]
+[Item 3]×[Amount 3]　[Item 4]×[Amount 4]　を納品する
+[END]
+22: [Demon name 1]×[Amount 1]
+を討伐する
+[END]
+23: [Demon name 1]×[Amount 1]　[Demon name 2]×[Amount 2]
+を討伐する
+[END]
+24: [Demon name 1]×[Amount 1]　[Demon name 2]×[Amount 2]
+[Demon name 3]×[Amount 3]　を討伐する
+[END]
+25: [Demon name 1]×[Amount 1]　[Demon name 2]×[Amount 2]
+[Demon name 3]×[Amount 3]　[Demon name 4]×[Amount 4]　を討伐する
+[END]
+26: [Item 1]×[Amount 1]　を見せる
+[END]
+27: [Item 1]×[Amount 1]　[Item 2]×[Amount 2]
+を見せる
+[END]
+28: [Item 1]×[Amount 1]　[Item 2]×[Amount 2]
+[Item 3]×[Amount 3]　を見せる
+[END]
+29: [Item 1]×[Amount 1]　[Item 2]×[Amount 2]
+[Item 3]×[Amount 3]　[Item 4]×[Amount 4]　を見せる
+[END]
+30: [Demon name 1]×[Amount 1]
+を見せる
+[END]
+31: [Demon name 1]×[Amount 1]　[Demon name 2]×[Amount 2]
+を見せる
+[END]
+32: [Demon name 1]×[Amount 1]　[Demon name 2]×[Amount 2]
+[Demon name 3]×[Amount 3]　を見せる
+[END]
+33: [Demon name 1]×[Amount 1]　[Demon name 2]×[Amount 2]
+[Demon name 3]×[Amount 3]　[Demon name 4]×[Amount 4]　を見せる
+[END]
+34: 「[11 40]」
+を受注しますか？
+[END]
+35: 「[11 40]」
+をギブアップしますか？
+[END]
+36: 受注中のクエストをギブアップして
+このクエストを受注しますか？
+[END]
+37: 「[11 40]」
+を受注しました
+[END]
+38: このクエストは現在受注できません
+[END]
+39: 納品クエストは
+受注する必要がありません
+[END]
+40: (バロウズ) [7a 1][13 1, 400005]このクエスト　いまのレベルでは危険よ
+それでも挑戦する？
+[END]
+41: デーモンＤＮＡが[Amount 1]個以上の仲魔を連れてくる
+[END]
+42: デーモンＤＮＡ　[11 41]
+を所持している仲魔を連れてくる
+[END]
+43: ＤＮＡ　[11 41]
+[11 42]　を所持する仲魔を連れてくる
+[END]
+44: ＤＮＡ　[11 41]　[11 42]
+[11 43]　を所持する仲魔を連れてくる
+[END]
+45: ＤＮＡ　[11 41]　[11 42]
+[11 43]　[11 44]　の所持悪魔を見せる
+[END]
+46: [Demon name 1]　を納品する
+[END]
+47: [Demon name 1]　[Demon name 2]
+を納品する
+[END]
+48: [Demon name 1]　[Demon name 2]
+[Demon name 3]　を納品する
+[END]
+49: [Demon name 1]　[Demon name 2]
+[Demon name 3]　[Demon name 4]　を納品する
+[END]
+50: このクエストを受注すると
+バトルへ移行します　よろしいですか？
+[END]
+51: このクエストは達成済みです
+[END]
+52: [Item 1]×[Amount 1]
+を集める
+[END]
+53: [Item 1]×[Amount 1]　[Item 2]×[Amount 2]
+を集める
+[END]
+54: [Item 1]×[Amount 1]　[Item 2]×[Amount 2]
+[Item 3]×[Amount 3]　を集める
+[END]
+55: [Item 1]×[Amount 1]　[Item 2]×[Amount 2]
+[Item 3]×[Amount 3]　[Item 4]×[Amount 4]　を集める
+[END]
+56: [Demon name 1]　[Demon name 2]が仲魔になった
+[END]
+57: このクエストを受注すると
+別の場所へ移行します　よろしいですか？
+[END]
+58: [Flynn]は
+要求物を納品した
+[END]
+59: [Flynn]は
+要求物を全て納品した
+[END]
+60: ギブアップすると受注前の
+場所へ戻ります　よろしいですか？
+[END]
+61: 受注中のクエストデータが見つかりません
+クエストをキャンセルします
+[END]
+62: 受注中のクエストデータを読み込めません
+でした　受注をキャンセルします
+[END]
+63: 受注前の場所へ戻ります
+[END]
+64: このクエストを受注すると
+別の場所へ移行します　よろしいですか？
+[END]
+65: 元の場所に戻り
+クエストをキャンセルしました
+[END]
+66: [11 41]を
+[11 42][11 43]以上達成する
+[END]
+67: 実績クエストは
+受注する必要がありません
+[END]
+68: このクエストを受注すると
+バトルへ移行します
+[->]「[11 40]」
+を受注しますか？
+[END]
+69: アイテムを入手しますか？
+[END]
+70: [Item 1]を[Amount 1]個
+入手しました
+[END]
