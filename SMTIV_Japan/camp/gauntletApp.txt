@@ -1,6 +1,6 @@
-0: [Color:0x5][Item 1][Color:0x0]を
-[Color:0x5][Amount 1]ポイント[Color:0x0]で取得しますか？
+0: (バロウズ) [7a 1][13 1, 405600][Color:0x5][Item 1][Color:0x0]を
+[Color:0x5][Amount 1]ポイント[Color:0x0]で[16]取得[17]しゅとく[18]する？
 [END]
-1: 取得する
+1: [16]取得[17]しゅとく[18]する
 やめる
 [END]

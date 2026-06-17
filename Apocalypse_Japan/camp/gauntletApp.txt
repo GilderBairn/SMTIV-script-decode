@@ -1,0 +1,6 @@
+0: [Color:0x5][Item 1][Color:0x0]を
+[Color:0x5][Amount 1]ポイント[Color:0x0]で取得しますか？
+[END]
+1: 取得する
+やめる
+[END]
