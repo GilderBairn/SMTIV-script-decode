@@ -112,7 +112,7 @@ def parseFunctionToken(token, remaining):
         tokenText += f'[{token[1]:x}]'
     return tokenText, strippedSection
 
-def parseEntry(entryBytes):
+def parseEntry(entryBytes, transcribe):
     sectionText = ''
     remainingBytes = entryBytes
     
@@ -140,9 +140,11 @@ def parseEntry(entryBytes):
                 print(f'Section text: {sectionText}')
 
     
-    return fixSJISUnicode(sectionText)
+    if transcribe:
+        return fixSJISUnicode(sectionText)
+    return sectionText
 
-def parseMBMFile(filename, debug=False):
+def parseMBMFile(filename, transcribe, debug=False):
     disk_size = os.path.getsize(filename)
     final_str = ''
 
@@ -193,7 +195,7 @@ def parseMBMFile(filename, debug=False):
             found_entries += 1
             fp.seek(entry_data_offset)
             entry_data_bytes = fp.read(entry_data_length)
-            entry_parsed = parseEntry(entry_data_bytes)
+            entry_parsed = parseEntry(entry_data_bytes, transcribe)
 
             final_str += f'{entry_id}: {entry_parsed}\n'
             i += 1
@@ -205,7 +207,7 @@ def get_all_in_one_filename(root):
     return os.path.join(root, f'{root_dir_name}-ALL_IN_ONE.txt')
 
 
-def convert_dir_mode(target, recursive, all_in_one, verbose=False):
+def convert_dir_mode(target, recursive, all_in_one, transcribe, verbose=False):
     # try to reset the contents of the all-in-one file if it exists
     try:
         with open(get_all_in_one_filename(target), 'w') as fp:
@@ -213,9 +215,13 @@ def convert_dir_mode(target, recursive, all_in_one, verbose=False):
     except:
         pass # this means the file isn't there, so like... no big deal? It'll be created later
 
-    convert_dir_mode_recursive(target, target, recursive, all_in_one, verbose)
+    convert_dir_mode_recursive(target, target, recursive, all_in_one, transcribe, verbose)
 
-def convert_dir_mode_recursive(current, root, recursive, all_in_one, verbose=False):
+def convert_dir_mode_recursive(current, root, recursive, all_in_one, transcribe, verbose=False):
+    target_encoding = 'utf-8'
+    if not transcribe:
+        target_encoding = 'shift-jis'
+
     # find absolute paths for all .mbm files within the current directory
     mbm_files = [os.path.abspath(os.path.join(current, file)) for file in os.listdir(current) if file.endswith('.mbm')]
     # find child directories in the current directory
@@ -227,33 +233,38 @@ def convert_dir_mode_recursive(current, root, recursive, all_in_one, verbose=Fal
     for mbm in mbm_files:
         if verbose:
             print(mbm)
-        parsed = parseMBMFile(mbm)
+        parsed = parseMBMFile(mbm, transcribe)
         out_file = mbm.replace('.mbm', '.txt')
 
         if all_in_one in ('yes', 'no'):
             with open(out_file, 'wb') as out:
                 if parsed:
-                    out.write(parsed.encode('utf-8'))
+                    out.write(parsed.encode(target_encoding))
 
         if all_in_one in ('yes', 'only'):
             all_in_one_target = get_all_in_one_filename(root)
             with open(all_in_one_target, 'ab') as out:
                 if parsed:
-                    out.write(f'{os.path.relpath(mbm, start=root)}:\n'.encode('utf-8'))
-                    out.write(parsed.encode('utf-8'))
-                    out.write('\n\n'.encode('utf-8'))
+                    out_text = f'{os.path.relpath(mbm, start=root)}:\n{parsed}\n\n'
+                    out.write(out_text.encode(target_encoding))
     if recursive:
         for dir in dirs:
-            convert_dir_mode_recursive(dir, root, True, all_in_one)
+            convert_dir_mode_recursive(dir, root, True, all_in_one, transcribe, verbose)
 
-def convert_single_mode(target, verbose):
-    parsed = parseMBMFile(target, verbose)
+def convert_single_mode(target, transcribe, verbose):
+    target_encoding = 'utf-8'
+    if not transcribe:
+        target_encoding = 'shift-jis'
+
+    parsed = parseMBMFile(target, transcribe, verbose)
     if verbose:
         print(parsed)
     out_file = target.replace('.mbm', '.txt')
     with open(out_file, 'wb') as out:
-        if parsed:
-            out.write(parsed.encode('utf-8'));
+        if not parsed:
+            return
+
+        out.write(parsed.encode(target_encoding))
 
 if __name__ == '__main__':
     target = './'
@@ -273,6 +284,8 @@ if __name__ == '__main__':
     else:
         arg_error = True
     
+    do_transcribe = True
+
     if dir_mode and '-r' in sys.argv:
         recursive_mode = True
     if dir_mode and '-a' in sys.argv and '-A' not in sys.argv:
@@ -281,12 +294,14 @@ if __name__ == '__main__':
         all_in_one = 'only'
     if '-v' in sys.argv or '-V' in sys.argv:
         verbose = True
+    if '-nt' in sys.argv or '-no-transcribe' in sys.argv:
+        do_transcribe = False
 
     target = os.path.abspath(target)
     
     if arg_error:
         print("invalid argument")
     if dir_mode and not arg_error:
-        convert_dir_mode(target, recursive_mode, all_in_one, verbose)
+        convert_dir_mode(target, recursive_mode, all_in_one, do_transcribe, verbose)
     else:
-        convert_single_mode(target, verbose)
+        convert_single_mode(target, do_transcribe, verbose)
