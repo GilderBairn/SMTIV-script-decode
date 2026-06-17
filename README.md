@@ -57,7 +57,7 @@ You'll find the juiciest stuff in the following folders (in order of appearance)
 - The original Japanese text. As interesting as it would probably be, neither me or my partner know a lick of Japanese. Unsure if the program we made would work with the Japanese copy anyway, but if anyone wants to give it a go, feel free.
 - An analysis of the text. I'll leave this to more articulate folks for now. It's just the text left as it is, with the placeholders only there to keep the decoding program functional.
 - The tables variables are pulled from. We don't know how to get those open or readable quite yet.
-- Anything from IV: Apocalypse. Might be our next foray, but right now it's just IV.
+- Anything from IV: Apocalypse. Will likely be our next foray, but right now it's just IV.
 - The game itself.. sorry.
 
 ## Final Thoughts and Usage Stuff
@@ -68,9 +68,11 @@ Obviously neither me or my partner wrote this game, so it'd be silly to be like 
 
 If you read all this, thanks! I hope you find some interesting stuff about this extremely underrated game, and have an awesome day.
 
+# Bean's decoder program instructions!
+
 ## Running the python script
 
-The included python script can be run from the command line to decode MSG2 format (.mbm) files like the ones found in SMTIV, and possibly other ATLUS games. The script itself will produce .txt file counterparts containing a summary the contents of the encoded .mbm either alongside the original files, in a single combined text document, or both depending on the user's specification. 
+The included python script can be run from the command line to decode MSG2 format (.mbm) files like the ones found in SMTIV, and possibly other ATLUS games. The script itself will produce .txt file counterparts containing a summary the contents of the encoded .mbm. It will be either alongside the original files, in a single combined text document, or both depending on the user's specification.
 
 ### Requirements
 - Python version 3.9 or higher installed
@@ -88,6 +90,6 @@ Note that you may provide a path to a single file (must end in .mbm!) or a direc
 ### Options
 
 - -r - if a directory/folder is specified in the input, the script will recursively convert .mbm files in all sub-folders of the provided folder
-- -a - script will create a combined "all-in-one" file containing all the contents of the .mbm files encountered while searchign a folder
+- -a - script will create a combined "all-in-one" file containing all the contents of the .mbm files encountered while searching a folder
 - -A - script will ONLY create a combined "all-in-one" file, and will not create .txt files alongside any .mbm files found in a folder
 - -v - verbose mode; the script will provide more detailed logs of what it encounters. when providing a single .mbm file as input, the verbose mode will provide even more detailed debug information
